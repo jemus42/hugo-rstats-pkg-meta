@@ -1,0 +1,10 @@
+version: 0.0.3
+title: Correcting AUC for Measurement Error
+maintainer: Weiliang Qiu
+description: Correcting area under ROC (AUC) for measurement error based on probit-shift
+  model.
+date_publication: '2016-06-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=correctedAUC
+url_git: ''

@@ -1,0 +1,10 @@
+version: '1.0'
+title: Identify Kinase Substrate Relationships Using Dynamic Data
+maintainer: Westa Domanova
+description: Using this package you can combine known kinase substrate relationships
+  with experimental data and determine active kinases and their substrates.
+date_publication: '2015-10-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ksrlive
+url_git: ''

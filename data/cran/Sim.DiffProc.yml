@@ -1,0 +1,15 @@
+version: '4.6'
+title: Simulation of Diffusion Processes
+maintainer: Arsalane Chouaib Guidoum
+description: It provides users with a wide range of tools to simulate, estimate, analyze,
+  and visualize the dynamics of stochastic differential systems in both forms Ito
+  and Stratonovich. Statistical analysis with parallel Monte Carlo and moment equations
+  methods of SDE's. Enabled many searchers in different domains to use these equations
+  to modeling practical problems in financial and actuarial modeling and other areas
+  of application, e.g., modeling and simulate of first passage time problem in shallow
+  water using the attractive center (Boukhetala K, 1996) ISBN:1-56252-342-2.
+date_publication: '2020-05-04'
+bug_reports: https://github.com/acguidoum/Sim.DiffProc/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Sim.DiffProc
+url_git: https://github.com/acguidoum/Sim.DiffProc

@@ -1,0 +1,11 @@
+version: 1.0.0
+title: One-Sided Multinomial Probabilities
+maintainer: Alexander Davis
+description: Implements multinomial CDF (P(N1<=n1, ..., Nk<=nk)) and tail probabilities
+  (P(N1>n1, ..., Nk>nk)), as well as probabilities with both constraints (P(l1<N1<=u1,
+  ..., lk<Nk<=uk)). Uses a method suggested by Bruce Levin (1981) <doi:10.1214/aos/1176345593>.
+date_publication: '2018-04-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pmultinom
+url_git: ''

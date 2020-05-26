@@ -1,0 +1,13 @@
+version: '0.1'
+title: Helps Manage Outliers in Sample Surveys
+maintainer: '"Robert Clark"'
+description: At present, the only functionality is the calculation of optimal one-sided
+  winsorizing cutoffs. The main function is optimal.onesided.cutoff.bygroup. It calculates
+  the optimal tuning parameter for one-sided winsorisation, and so calculates winsorised
+  values for a variable of interest. See the help file for this function for more
+  details and an example.
+date_publication: '2016-01-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=surveyoutliers
+url_git: ''

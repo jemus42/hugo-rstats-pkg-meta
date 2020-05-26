@@ -1,0 +1,15 @@
+version: 1.6.0
+title: Multiple Imputation by Chained Equations with Multilevel Data
+maintainer: Vincent Audigier
+description: Addons for the 'mice' package to perform multiple imputation using chained
+  equations with two-level data. Includes imputation methods dedicated to sporadically
+  and systematically missing values. Imputation of continuous, binary or count variables
+  are available. Following the recommendations of Audigier, V. et al (2018) <doi:10.1214/18-STS646>,
+  the choice of the imputation method for each variable can be facilitated by a default
+  choice tuned according to the structure of the incomplete dataset. Allows parallel
+  calculation and overimputation for 'mice'.
+date_publication: '2019-07-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=micemd
+url_git: ''

@@ -1,0 +1,16 @@
+version: 1.4.1
+title: Magnetic Resonance Binning, Integration and Normalization
+maintainer: Matthias Klein
+description: |-
+  Nuclear Magnetic Resonance is widely used in Life Science
+  research. The package (<http://www.kleinomicslab.com/software>) converts 1D or 2D data into a matrix of values
+  suitable for further data analysis and performs basic processing steps in a
+  reproducible way. Negative values, a common issue in such data, are replaced
+  by positive values. All used parameters are stored in a readable text file
+  and can be restored from that file to enable exact reproduction of the data
+  at a later time.
+date_publication: '2020-05-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mrbin
+url_git: ''

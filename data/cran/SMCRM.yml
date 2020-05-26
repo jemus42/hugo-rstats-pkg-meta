@@ -1,0 +1,14 @@
+version: 0.0-3
+title: |-
+  Data Sets for Statistical Methods in Customer Relationship
+  Management by Kumar and Petersen (2012).
+maintainer: Tobias Verbeke
+description: |-
+  Data Sets for Kumar and Petersen (2012).
+  Statistical Methods in Customer Relationship Management,
+  Wiley: New York.
+date_publication: '2013-09-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SMCRM
+url_git: ''

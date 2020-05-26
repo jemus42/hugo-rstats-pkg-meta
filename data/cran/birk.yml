@@ -1,0 +1,12 @@
+version: 2.1.2
+title: MA Birk's Functions
+maintainer: Matthew A. Birk
+description: |-
+  Collection of tools to make R more convenient. Includes tools to
+  summarize data using statistics not available with base R and manipulate
+  objects for analyses.
+date_publication: '2016-07-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=birk
+url_git: ''

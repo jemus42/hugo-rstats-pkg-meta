@@ -1,0 +1,12 @@
+version: 0.6-33
+title: Geographically Weighted Regression
+maintainer: Roger Bivand
+description: |-
+  Functions for computing geographically weighted
+  regressions are provided, based on work by Chris
+  Brunsdon, Martin Charlton and Stewart Fotheringham.
+date_publication: '2020-02-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spgwr
+url_git: ''

@@ -1,0 +1,9 @@
+version: 0.4-7
+title: Integration of base and grid graphics
+maintainer: Paul Murrell
+description: Integration of base and grid graphics
+date_publication: '2014-02-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gridBase
+url_git: ''

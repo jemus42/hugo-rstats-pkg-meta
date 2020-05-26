@@ -1,0 +1,12 @@
+version: 1.1902.2
+title: Soft Clustering Algorithms
+maintainer: G. Peters
+description: 'It contains soft clustering algorithms, in particular approaches derived
+  from rough set theory: Lingras & West original rough k-means, Peters'' refined rough
+  k-means, and PI rough k-means. It also contains classic k-means and a corresponding
+  illustrative demo.'
+date_publication: '2019-02-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SoftClustering
+url_git: ''

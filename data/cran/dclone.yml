@@ -1,0 +1,16 @@
+version: 2.3-0
+title: Data Cloning and MCMC Tools for Maximum Likelihood Methods
+maintainer: Peter Solymos
+description: |-
+  Low level functions for implementing
+  maximum likelihood estimating procedures for
+  complex models using data cloning and Bayesian
+  Markov chain Monte Carlo methods
+  as described in Solymos 2010 (R Journal 2(2):29--37).
+  Sequential and parallel MCMC support
+  for 'JAGS', 'WinBUGS', 'OpenBUGS', and 'Stan'.
+date_publication: '2019-03-22'
+bug_reports: https://github.com/datacloning/dclone/issues
+url: https://groups.google.com/forum/#!forum/dclone-users
+url_cran: https://CRAN.R-project.org/package=dclone
+url_git: ''

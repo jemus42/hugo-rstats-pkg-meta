@@ -1,0 +1,14 @@
+version: 2.7.5
+title: An Efficient Swiss Army Knife for Population Genomic Analyses
+maintainer: Bastian Pfeifer
+description: |-
+  Provides efficient tools for population genomics data analysis,
+  able to process individual loci, large sets of loci, or whole genomes. PopGenome <DOI:10.1093/molbev/msu136> not only
+  implements a wide range of population genetics statistics, but also facilitates the easy
+  implementation of new algorithms by other researchers. PopGenome is optimized for speed via
+  the seamless integration of C code.
+date_publication: '2020-01-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PopGenome
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.1.0
+title: |-
+  Bayesian Stability Analysis of Genotype by Environment
+  Interaction (GEI)
+maintainer: Muhammad Yaseen
+description: Performs general Bayesian estimation method of linear–bilinear models
+  for genotype × environment interaction. The method is explained in Perez-Elizalde,
+  S., Jarquin, D., and Crossa, J. (2011) (<doi:10.1007/s13253-011-0063-9>).
+date_publication: '2018-03-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=baystability
+url_git: ''

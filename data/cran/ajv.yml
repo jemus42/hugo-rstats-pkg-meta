@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Another JSON Schema Validator
+maintainer: Jason Thorpe
+description: |-
+  A thin wrapper around the 'ajv' JSON validation package for
+  JavaScript. See <http://epoberezkin.github.io/ajv/> for details.
+date_publication: '2017-04-24'
+bug_reports: https://github.com/jdthorpe/ajvr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ajv
+url_git: https://github.com/jdthorpe/ajvr

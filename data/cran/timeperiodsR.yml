@@ -1,0 +1,10 @@
+version: 0.6.2
+title: Simple Definition Of Time Intervals
+maintainer: Alexey Seleznev
+description: Simple definition of time intervals for the current, previous, and next
+  week, month, quarter and year.
+date_publication: '2020-04-03'
+bug_reports: https://github.com/selesnow/timeperiodsR/issues
+url: https://selesnow.github.io/timeperiodsR
+url_cran: https://CRAN.R-project.org/package=timeperiodsR
+url_git: ''

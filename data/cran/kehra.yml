@@ -1,0 +1,13 @@
+version: '0.1'
+title: |-
+  Collect, Assemble and Model Air Pollution, Weather and Health
+  Data
+maintainer: Claudia Vitolo
+description: Collection of utility functions used in the KEHRA project (see http://www.brunel.ac.uk/ife/britishcouncil).
+  It refers to the multidimensional analysis of air pollution, weather and health
+  data.
+date_publication: '2016-06-10'
+bug_reports: https://github.com/kehraProject/r_kehra/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=kehra
+url_git: https://github.com/kehraProject/r_kehra

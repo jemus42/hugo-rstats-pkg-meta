@@ -1,0 +1,10 @@
+version: '1.0'
+title: Pooled Mean Group Estimation of Dynamic Heterogenous Panels
+maintainer: Lech Kujawski
+description: Calculates the pooled mean group (PMG) estimator for dynamic panel data
+  models, as described by Pesaran, Shin and Smith (1999) <doi:10.1080/01621459.1999.10474156>.
+date_publication: '2017-12-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PooledMeanGroup
+url_git: ''

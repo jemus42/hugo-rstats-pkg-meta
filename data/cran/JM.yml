@@ -1,0 +1,10 @@
+version: 1.4-8
+title: Joint Modeling of Longitudinal and Survival Data
+maintainer: Dimitris Rizopoulos
+description: Shared parameter models for the joint modeling of longitudinal and time-to-event
+  data.
+date_publication: '2018-04-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=JM
+url_git: http://jmr.r-forge.r-project.org/

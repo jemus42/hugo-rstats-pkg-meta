@@ -1,0 +1,15 @@
+version: 0.2.1
+title: Convert Files to and from Binary Objects (BLOBs)
+maintainer: Joe Thorley
+description: |-
+  Converts files to and from flobs.
+  A flob is a file that was
+  read into binary in integer-mode as little endian,
+  saved as the single element of a named list (where the name is the name
+  of the original file) and then serialized before being coerced into a blob.
+  Flobs are useful for writing and reading files to and from databases.
+date_publication: '2020-05-15'
+bug_reports: https://github.com/poissonconsulting/flobr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=flobr
+url_git: https://github.com/poissonconsulting/flobr

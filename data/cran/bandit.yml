@@ -1,0 +1,10 @@
+version: 0.5.0
+title: Functions for simple A/B split test and multi-armed bandit<U+000a>analysis
+maintainer: Thomas Lotze
+description: A set of functions for doing analysis of A/B split test data and web
+  metrics in general.
+date_publication: '2014-05-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bandit
+url_git: ''

@@ -1,0 +1,10 @@
+version: 0.4.0
+title: R Markdown Templates to Preregister Scientific Studies
+maintainer: Frederik Aust
+description: Provides a collection of templates to author preregistration documents
+  for scientific studies in PDF format.
+date_publication: '2019-01-09'
+bug_reports: https://github.com/crsh/prereg/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=prereg
+url_git: https://github.com/crsh/prereg

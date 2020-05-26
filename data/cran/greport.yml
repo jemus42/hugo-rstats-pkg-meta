@@ -1,0 +1,15 @@
+version: 0.7-2
+title: Graphical Reporting for Clinical Trials
+maintainer: Frank E Harrell Jr
+description: |-
+  Contains many functions useful for
+  monitoring and reporting the results of clinical trials and other
+  experiments in which treatments are compared.  LaTeX is
+  used to typeset the resulting reports, recommended to be in the
+  context of 'knitr'. The 'Hmisc', 'ggplot2', and 'lattice' packages are used
+  by 'greport' for high-level graphics.
+date_publication: '2020-02-10'
+bug_reports: ''
+url: http://biostat.mc.vanderbilt.edu/Greport
+url_cran: https://CRAN.R-project.org/package=greport
+url_git: https://github.com/harrelfe/greport

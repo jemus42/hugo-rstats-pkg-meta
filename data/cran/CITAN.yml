@@ -1,0 +1,15 @@
+version: 2015.12-2
+title: CITation ANalysis Toolpack
+maintainer: Marek Gagolewski
+description: |-
+  Supports quantitative
+  research in scientometrics and bibliometrics. Provides
+  various tools for preprocessing bibliographic
+  data retrieved, e.g., from Elsevier's SciVerse Scopus,
+  computing bibliometric impact of individuals,
+  or modeling many phenomena encountered in the social sciences.
+date_publication: '2015-12-13'
+bug_reports: https://github.com/Rexamine/CITAN/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=CITAN
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.5.10
+title: Meta-Analysis of Diagnostic Accuracy
+maintainer: Philipp Doebler
+description: Provides functions for diagnostic meta-analysis. Next to basic analysis
+  and visualization the bivariate Model of Reitsma et al. (2005) that is equivalent
+  to the HSROC of Rutter & Gatsonis (2001) can be fitted. A new approach based to
+  diagnostic meta-analysis of Holling et al. (2012) is also available. Standard methods
+  like summary, plot and so on are provided.
+date_publication: '2020-05-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mada
+url_git: r-forge.r-project.org/projects/mada/

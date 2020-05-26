@@ -1,0 +1,14 @@
+version: 0.4.1
+title: |-
+  Damped Anderson Acceleration with Epsilon Monotonicity for
+  Accelerating EM-Like Monotone Algorithms
+maintainer: Nicholas Henderson
+description: Implements the DAAREM method for accelerating the convergence of slow,
+  monotone sequences from smooth, fixed-point iterations such as the EM algorithm.
+  For further details about the DAAREM method. see Henderson, N.C. and Varadhan, R.
+  (2018) <arXiv:1803.06673>.
+date_publication: '2019-12-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=daarem
+url_git: ''

@@ -1,0 +1,18 @@
+version: 0.6-0
+title: Bayesian Methods for Image Segmentation using a Potts Model
+maintainer: Matt Moores
+description: |-
+  Various algorithms for segmentation of 2D and 3D images, such
+  as computed tomography and satellite remote sensing. This package implements
+  Bayesian image analysis using the hidden Potts model with external field
+  prior of Moores et al. (2015) <doi:10.1016/j.csda.2014.12.001>.
+  Latent labels are sampled using chequerboard updating or Swendsen-Wang.
+  Algorithms for the smoothing parameter include pseudolikelihood, path sampling,
+  the exchange algorithm, approximate Bayesian computation (ABC-MCMC and ABC-SMC),
+  and the parametric functional approximate Bayesian (PFAB) algorithm. Refer to
+  <doi:10.1007/s11222-014-9525-6> and <doi:10.1214/18-BA1130> for further details.
+date_publication: '2019-01-04'
+bug_reports: https://bitbucket.org/Azeari/bayesimages/issues
+url: https://mooresm.github.io/bayesImageS/
+url_cran: https://CRAN.R-project.org/package=bayesImageS
+url_git: https://bitbucket.org/Azeari/bayesimages

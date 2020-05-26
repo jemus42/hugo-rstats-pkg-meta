@@ -1,0 +1,12 @@
+version: 1.3.5
+title: KGS Rank Graph Parser
+maintainer: Kota Mori
+description: |-
+  Restore underlining numeric data from rating history graph of
+  KGS (an online platform of the game of go, <http://www.gokgs.com/>).
+  A shiny application is also provided.
+date_publication: '2017-07-02'
+bug_reports: https://github.com/kota7/kgschart/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=kgschart
+url_git: https://github.com/kota7/kgschart

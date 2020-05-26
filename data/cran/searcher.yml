@@ -1,0 +1,13 @@
+version: 0.0.5
+title: Query Search Interfaces
+maintainer: James Balamuta
+description: |-
+  Provides a search interface to look up terms
+  on 'Google', 'Bing', 'DuckDuckGo', 'Startpage', 'Twitter', 'StackOverflow',
+  'RStudio Community', 'GitHub', and 'BitBucket'. Upon searching, a browser
+  window will open with the aforementioned search results.
+date_publication: '2020-02-06'
+bug_reports: https://github.com/r-assist/searcher/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=searcher
+url_git: https://github.com/r-assist/searcher

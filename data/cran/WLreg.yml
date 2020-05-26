@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Regression Analysis Based on Win Loss Endpoints
+maintainer: Xiaodong Luo
+description: |-
+  Use various regression models for the analysis of win loss endpoints
+  adjusting for non-binary and multivariate covariates.
+date_publication: '2017-04-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=WLreg
+url_git: ''

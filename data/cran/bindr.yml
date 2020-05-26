@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Parametrized Active Bindings
+maintainer: Kirill Müller
+description: |-
+  Provides a simple interface for creating active bindings where the
+  bound function accepts additional arguments.
+date_publication: '2018-03-13'
+bug_reports: https://github.com/krlmlr/bindr/issues
+url: https://krlmlr.github.io/bindr
+url_cran: https://CRAN.R-project.org/package=bindr
+url_git: https://github.com/krlmlr/bindr

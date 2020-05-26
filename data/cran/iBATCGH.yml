@@ -1,0 +1,11 @@
+version: '1.3'
+title: Integrative Bayesian Analysis of Transcriptomic and CGH Data
+maintainer: Alberto Cassese
+description: Bayesian integrative models of gene expression and comparative genomic
+  hybridization data. The package provides inference on copy number variations and
+  their association with gene expression.
+date_publication: '2015-07-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=iBATCGH
+url_git: ''

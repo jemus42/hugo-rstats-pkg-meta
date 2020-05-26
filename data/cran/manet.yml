@@ -1,0 +1,12 @@
+version: '2.0'
+title: Multiple Allocation Model for Actor-Event Networks
+maintainer: Veronica Vinciotti
+description: Mixture model with overlapping clusters for binary actor-event data.
+  Parameters are estimated in a Bayesian framework. Model and inference are described
+  in Ranciati, Vinciotti, Wit (2017) Modelling actor-event network data via a mixture
+  model under overlapping clusters. Submitted.
+date_publication: '2018-08-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=manet
+url_git: ''

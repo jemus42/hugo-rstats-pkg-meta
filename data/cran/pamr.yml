@@ -1,0 +1,9 @@
+version: 1.56.1
+title: 'Pam: Prediction Analysis for Microarrays'
+maintainer: Rob Tibshirani
+description: Some functions for sample classification in microarrays.
+date_publication: '2019-04-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pamr
+url_git: ''

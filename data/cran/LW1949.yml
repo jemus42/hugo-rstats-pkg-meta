@@ -1,0 +1,15 @@
+version: 1.1.0
+title: |-
+  An Automated Approach to Evaluating Dose-Effect Experiments
+  Following Litchfield and Wilcoxon (1949)
+maintainer: Jean V. Adams
+description: |-
+  The manual approach of Litchfield and Wilcoxon (1949)
+  <http://jpet.aspetjournals.org/content/96/2/99.abstract>
+  for evaluating dose-effect experiments
+  is automated so that the computer can do the work.
+date_publication: '2017-03-20'
+bug_reports: https://github.com/JVAdams/LW1949/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=LW1949
+url_git: https://github.com/JVAdams/LW1949

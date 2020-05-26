@@ -1,0 +1,12 @@
+version: 0.6.6
+title: Scopus Database 'API' Interface
+maintainer: John Muschelli
+description: |-
+  Uses Elsevier 'Scopus' API
+  <https://dev.elsevier.com/sc_apis.html> to download
+  information about authors and their citations.
+date_publication: '2019-09-17'
+bug_reports: https://github.com/muschellij2/rscopus/issues
+url: https://dev.elsevier.com/sc_apis.html
+url_cran: https://CRAN.R-project.org/package=rscopus
+url_git: https://github.com/muschellij2/rscopus

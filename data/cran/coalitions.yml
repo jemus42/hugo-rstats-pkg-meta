@@ -1,0 +1,14 @@
+version: 0.6.12
+title: |-
+  Bayesian "Now-Cast" Estimation of Event Probabilities in
+  Multi-Party Democracies
+maintainer: Andreas Bender
+description: |-
+  An implementation of a Bayesian framework for the opinion poll
+  based estimation of event probabilities in multi-party electoral systems
+  (Bender and Bauer (2018) <doi:10.21105/joss.00606>).
+date_publication: '2020-02-06'
+bug_reports: https://github.com/adibender/coalitions/issues
+url: http://adibender.github.io/coalitions/
+url_cran: https://CRAN.R-project.org/package=coalitions
+url_git: ''

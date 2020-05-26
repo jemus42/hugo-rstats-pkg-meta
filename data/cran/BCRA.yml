@@ -1,0 +1,11 @@
+version: '2.1'
+title: Breast Cancer Risk Assessment
+maintainer: Fanni Zhang
+description: Functions provide risk projections of invasive breast cancer based on
+  Gail model according to National Cancer Institute's Breast Cancer Risk Assessment
+  Tool algorithm for specified race/ethnic groups and age intervals.
+date_publication: '2018-10-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BCRA
+url_git: ''

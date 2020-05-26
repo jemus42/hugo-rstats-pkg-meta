@@ -1,0 +1,16 @@
+version: 0.0.3
+title: |-
+  Compute the Coefficient of Determination for Vector or Matrix
+  Outcomes
+maintainer: Tommy Jones
+description: |-
+  Compute the coefficient of determination for outcomes in n-dimensions.
+  May be useful for multidimensional predictions (such as a multinomial model) or
+  calculating goodness of fit from latent variable models such as probabilistic
+  topic models like latent Dirichlet allocation or deterministic topic models
+  like latent semantic analysis. Based on Jones (2019) <arXiv:1911.11061>.
+date_publication: '2020-02-20'
+bug_reports: https://github.com/TommyJones/mvrsquared/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mvrsquared
+url_git: https://github.com/TommyJones/mvrsquared

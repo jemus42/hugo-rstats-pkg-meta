@@ -1,0 +1,10 @@
+version: 0.4.14
+title: An Implementation of Matrix Mathematics
+maintainer: Matthew Heun
+description: An implementation of matrix mathematics wherein operations are performed
+  "by name."
+date_publication: '2020-05-01'
+bug_reports: https://github.com/MatthewHeun/matsbyname/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=matsbyname
+url_git: https://github.com/MatthewHeun/matsbyname

@@ -1,0 +1,11 @@
+version: 0.1-29
+title: Tools of the Trade for Discriminant Analysis
+maintainer: Gaston Sanchez
+description: Functions for Discriminant Analysis and Classification purposes<U+000a>covering
+  various methods such as descriptive, geometric, linear, quadratic,<U+000a>PLS, as
+  well as qualitative discriminant analyses
+date_publication: '2013-11-15'
+bug_reports: ''
+url: http://www.gastonsanchez.com
+url_cran: https://CRAN.R-project.org/package=DiscriMiner
+url_git: ''

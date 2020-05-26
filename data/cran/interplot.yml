@@ -1,0 +1,11 @@
+version: 0.2.2
+title: Plot the Effects of Variables in Interaction Terms
+maintainer: Yue Hu
+description: |-
+  Plots the conditional coefficients ("marginal effects") of
+  variables included in multiplicative interaction terms.
+date_publication: '2019-11-18'
+bug_reports: https://github.com/sammo3182/interplot/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=interplot
+url_git: ''

@@ -1,0 +1,14 @@
+version: '1.2'
+title: |-
+  An R Package for Multiple Break-Point Detection via the
+  Cross-Entropy Method
+maintainer: Priyadarshana W.J.R.M.
+description: Implements the Cross-Entropy (CE) method, which is a model based stochastic
+  optimization technique to estimate both the number and their corresponding locations
+  of break-points in continuous and discrete measurements (Priyadarshana and Sofronov
+  (2015), Priyadarshana and Sofronov (2012a), Priyadarshana and Sofronov (2012b)).
+date_publication: '2016-01-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=breakpoint
+url_git: https://github.com/madawaweer/breakpoint

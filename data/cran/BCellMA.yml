@@ -1,0 +1,14 @@
+version: 0.3.4
+title: B Cell Receptor Somatic Hyper Mutation Analysis
+maintainer: Olena Ohlei
+description: Includes a set of functions to analyze for instance nucleotide frequencies
+  as well as transition and  transversion. Can reconstruct germline sequences based
+  on the international ImMunoGeneTics information system (IMGT/HighV-QUEST) outputs,
+  calculate and plot the difference (%) of nucleotides at 6 positions around a mutation
+  to identify and characterize hotspot motifs as well as calculate and plot average
+  mutation frequencies of nucleotide mutations resulting in amino acid substitution.
+date_publication: '2017-03-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BCellMA
+url_git: ''

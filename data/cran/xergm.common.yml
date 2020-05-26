@@ -1,0 +1,12 @@
+version: 1.7.8
+title: |-
+  Common Infrastructure for Extensions of Exponential Random Graph
+  Models
+maintainer: Philip Leifeld
+description: Datasets and definitions of generic functions used in dependencies of
+  the 'xergm' package.
+date_publication: '2020-04-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=xergm.common
+url_git: http://github.com/leifeld/xergm.common

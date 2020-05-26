@@ -1,0 +1,13 @@
+version: 4.2.2
+title: Spatially Explicit Capture-Recapture
+maintainer: Murray Efford
+description: Functions to estimate the density and size of a spatially distributed
+  animal population sampled with an array of passive detectors, such as traps, or
+  by searching polygons or transects. Models incorporating distance-dependent detection
+  are fitted by maximizing the likelihood. Tools are included for data manipulation
+  and model selection.
+date_publication: '2020-04-09'
+bug_reports: ''
+url: https://www.otago.ac.nz/density
+url_cran: https://CRAN.R-project.org/package=secr
+url_git: ''

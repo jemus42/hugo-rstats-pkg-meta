@@ -1,0 +1,14 @@
+version: '0.0'
+title: Calculates Study Size Required for Distance Sampling
+maintainer: Robert Clark
+description: |-
+  Calculates the study size (either number of detections, or
+  proportion of region that should be covered) to achieve a target precision for
+  the estimated abundance. The calculation allows for the penalty due to unknown
+  detection function, and for overdispersion. The user must specify a guess at the
+  true detection function.
+date_publication: '2016-01-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=distance.sample.size
+url_git: ''

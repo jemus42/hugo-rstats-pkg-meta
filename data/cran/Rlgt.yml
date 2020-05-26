@@ -1,0 +1,16 @@
+version: 0.1-3
+title: Bayesian Exponential Smoothing Models with Trend Modifications
+maintainer: Christoph Bergmeir
+description: |-
+  An implementation of a number of Global Trend models for time series forecasting
+  that are Bayesian generalizations and extensions of some Exponential Smoothing models.
+  The main differences/additions include 1) nonlinear global trend, 2) Student-t error
+  distribution, and 3) a function for the error size, so heteroscedasticity. The methods
+  are particularly useful for short time series. When tested on the well-known M3 dataset,
+  they are able to outperform all classical time series algorithms. The models are fitted
+  with MCMC using the 'rstan' package.
+date_publication: '2019-06-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rlgt
+url_git: https://github.com/cbergmeir/Rlgt

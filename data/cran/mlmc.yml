@@ -1,0 +1,13 @@
+version: 1.0.0
+title: Multi-Level Monte Carlo
+maintainer: Louis Aslett
+description: |-
+  An implementation of Multi-level Monte Carlo for R.  This package
+  builds on the original 'Matlab' and C++ implementations by Mike Giles to provide
+  a full MLMC driver and example level samplers.  Multi-core parallel sampling
+  of levels is provided built-in.
+date_publication: '2016-04-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mlmc
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.0.1
+title: Selecting Spatial Scale of Covariates in Regression Models
+maintainer: Lauren Grant
+description: Fits spatial scale (SS) forward stepwise regression, SS incremental forward
+  stagewise regression, SS least angle regression (LARS), and SS lasso models.  All
+  area-level covariates are considered at all available scales to enter a model, but
+  the SS algorithms are constrained to select each area-level covariate at a single
+  spatial scale.
+date_publication: '2016-08-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spselect
+url_git: ''

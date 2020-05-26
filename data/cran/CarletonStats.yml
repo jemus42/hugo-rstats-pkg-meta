@@ -1,0 +1,11 @@
+version: '2.0'
+title: Functions for Statistics Classes at Carleton College
+maintainer: Laura Chihara
+description: Includes commands for bootstrapping and permutation tests, a command
+  for created grouped bar plots, and a demo of the quantile-normal plot for data drawn
+  from different distributions.
+date_publication: '2018-08-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CarletonStats
+url_git: ''

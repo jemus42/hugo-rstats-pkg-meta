@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Detrended Fluctuation and Detrended Cross-Correlation Analysis
+maintainer: Taiane Schaedler Prass
+description: |-
+  A collection of functions to perform Detrended Fluctuation Analysis (DFA) and Detrended Cross-Correlation Analysis (DCCA).
+  This package implements the results presented in Prass, T.S. and Pumi, G. (2019). "On the behavior of the DFA and DCCA in trend-stationary processes" <arXiv:1910.10589>.
+date_publication: '2020-01-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DCCA
+url_git: ''

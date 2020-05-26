@@ -1,0 +1,12 @@
+version: 1.2.1.7
+title: R for Amplicon-Sequencing-Based Microbial-Ecology
+maintainer: Wen Chen
+description: Characterizing environmental microbiota diversity using amplicon-based
+  next generation sequencing (NGS) data. Functions are developed to manipulate operational
+  taxonomic unit (OTU) table, perform descriptive and inferential statistics, and
+  generate publication-quality plots.
+date_publication: '2018-05-15'
+bug_reports: https://bitbucket.org/Wen_Chen/ram_releases/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=RAM
+url_git: https://bitbucket.org/Wen_Chen/ram_releases/src/

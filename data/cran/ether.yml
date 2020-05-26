@@ -1,0 +1,12 @@
+version: 0.1.6
+title: Interaction with the 'Ethereum' Blockchain
+maintainer: Andrew Collier
+description: |-
+  Interacts with the open-source, public 'Ethereum' <https://www.ethereum.org/> blockchain.
+  It provides a distributed computing platform via smart contracts. This package provides
+  functions which interrogate blocks and transactions in the 'Ethereum' blockchain.
+date_publication: '2020-01-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ether
+url_git: ''

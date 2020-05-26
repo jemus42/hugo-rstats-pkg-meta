@@ -1,0 +1,15 @@
+version: 1.1-21
+title: Multiple Comparisons Using Normal Approximation
+maintainer: Frank Schaarschmidt
+description: |-
+  Multiple contrast tests and simultaneous confidence
+  intervals based on normal approximation. With implementations for
+  binomial proportions in a 2xk setting (risk difference and odds ratio),
+  poly-3-adjusted tumour rates, biodiversity indices (multinomial data)
+  and expected values under lognormal assumption. Approximative power
+  calculation for multiple contrast tests of binomial and Gaussian data.
+date_publication: '2018-03-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MCPAN
+url_git: ''

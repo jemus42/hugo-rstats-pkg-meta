@@ -1,0 +1,9 @@
+version: 0.2-0
+title: Natural Language Processing Infrastructure
+maintainer: Kurt Hornik
+description: Basic classes and methods for Natural Language Processing.
+date_publication: '2018-10-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NLP
+url_git: ''

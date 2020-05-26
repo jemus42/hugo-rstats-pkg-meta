@@ -1,0 +1,11 @@
+version: 1.0.3
+title: Spatial Temporal Aggregated Predictor Models via 'stan'
+maintainer: Adam Peterson
+description: Estimates previously compiled stap regression models using the 'rstan'
+  package. Users specify models via a custom R syntax with a formula and data.frame
+  plus additional arguments for priors.
+date_publication: '2019-02-06'
+bug_reports: https://github.com/biostatistics4socialimpact/rstap/issues
+url: https://biostatistics4socialimpact.github.io/rstap
+url_cran: https://CRAN.R-project.org/package=rstap
+url_git: ''

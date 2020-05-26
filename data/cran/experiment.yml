@@ -1,0 +1,17 @@
+version: 1.2.0
+title: R Package for Designing and Analyzing Randomized Experiments
+maintainer: Kosuke Imai
+description: |-
+  Provides various statistical methods for
+  designing and analyzing randomized experiments. One functionality
+  of the package is the implementation of randomized-block and
+  matched-pair designs based on possibly multivariate pre-treatment
+  covariates. The package also provides the tools to analyze various
+  randomized experiments including cluster randomized experiments,
+  two-stage randomized experiments, randomized experiments with
+  noncompliance, and randomized experiments with missing data.
+date_publication: '2019-08-05'
+bug_reports: https://github.com/kosukeimai/experiment/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=experiment
+url_git: https://github.com/kosukeimai/experiment

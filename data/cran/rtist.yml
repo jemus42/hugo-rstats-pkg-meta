@@ -1,0 +1,9 @@
+version: 1.0.0
+title: A Color Palette Generator
+maintainer: Tomas Okal
+description: Color palettes from famous artists and paintings.
+date_publication: '2020-02-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rtist
+url_git: ''

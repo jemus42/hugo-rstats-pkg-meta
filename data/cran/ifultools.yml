@@ -1,0 +1,9 @@
+version: 2.0-5
+title: Insightful Research Tools
+maintainer: William Constantine
+description: Insightful Research Tools.
+date_publication: '2019-03-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ifultools
+url_git: ''

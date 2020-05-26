@@ -1,0 +1,15 @@
+version: 0.2.5
+title: Deterministic Computation of Text Box Metrics
+maintainer: Lionel Henry
+description: |-
+  Unlike other tools that dynamically link to the 'Cairo'
+  stack, 'freetypeharfbuzz' is statically linked to specific
+  versions of the 'FreeType' and 'harfbuzz' libraries (2.9 and 1.7.6
+  respectively). This ensures deterministic computation of text box
+  extents for situations where reproducible results are crucial (for
+  instance unit tests of graphics).
+date_publication: '2018-10-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=freetypeharfbuzz
+url_git: ''

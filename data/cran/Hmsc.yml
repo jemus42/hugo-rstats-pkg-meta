@@ -1,0 +1,13 @@
+version: 3.0-6
+title: Hierarchical Model of Species Communities
+maintainer: Otso Ovaskainen
+description: |-
+  Hierarchical Modelling of Species Communities (HMSC) is
+  a model-based approach for analyzing community ecological data.
+  This package implements it in the Bayesian framework with Gibbs
+  Markov chain Monte Carlo (MCMC) sampling.
+date_publication: '2020-03-19'
+bug_reports: https://github.com/hmsc-r/HMSC/issues
+url: https://www.helsinki.fi/en/researchgroups/statistical-ecology/hmsc
+url_cran: https://CRAN.R-project.org/package=Hmsc
+url_git: ''

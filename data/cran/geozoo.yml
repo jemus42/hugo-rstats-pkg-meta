@@ -1,0 +1,10 @@
+version: 0.5.1
+title: Zoo of Geometric Objects
+maintainer: Barret Schloerke
+description: Geometric objects defined in 'geozoo' can be simulated or displayed in
+  the R package 'tourr'.
+date_publication: '2016-05-07'
+bug_reports: https://github.com/schloerke/geozoo/issues
+url: http://schloerke.github.io/geozoo/
+url_cran: https://CRAN.R-project.org/package=geozoo
+url_git: https://github.com/schloerke/geozoo

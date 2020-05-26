@@ -1,0 +1,11 @@
+version: 0.1-1
+title: Convert Colour Specification to Colour Name
+maintainer: Paul Murrell
+description: Functions to convert an R colour specification to a colour name. The
+  user can select and create different lists of colour names and different colour
+  metrics for the conversion.
+date_publication: '2018-07-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=roloc
+url_git: ''

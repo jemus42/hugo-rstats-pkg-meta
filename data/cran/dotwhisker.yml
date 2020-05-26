@@ -1,0 +1,9 @@
+version: 0.5.0
+title: Dot-and-Whisker Plots of Regression Results
+maintainer: Frederick Solt
+description: Quick and easy dot-and-whisker plots of regression results.
+date_publication: '2018-06-27'
+bug_reports: https://github.com/fsolt/dotwhisker/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dotwhisker
+url_git: ''

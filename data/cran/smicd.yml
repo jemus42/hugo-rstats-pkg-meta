@@ -1,0 +1,16 @@
+version: 1.1.0
+title: Statistical Methods for Interval Censored Data
+maintainer: Paul Walter
+description: Functions that provide statistical methods for interval censored (grouped)
+  data. The package supports the estimation of linear and linear mixed regression
+  models with interval censored dependent variables. Parameter estimates are obtained
+  by a stochastic expectation maximization algorithm. Furthermore, the package enables
+  the direct (without covariates) estimation of statistical indicators from interval
+  censored data via an iterative kernel density algorithm. Survey and Organisation
+  for Economic Co-operation and Development (OECD) weights can be included into the
+  direct estimation (see, Walter, P. (2019) <doi:10.17169/refubium-1621>).
+date_publication: '2020-04-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=smicd
+url_git: ''

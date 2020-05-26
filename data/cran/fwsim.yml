@@ -1,0 +1,15 @@
+version: 0.3.4
+title: Fisher-Wright Population Simulation
+maintainer: Mikkel Meyer Andersen
+description: Simulates a population under the Fisher-Wright model (fixed or stochastic
+  population size) with a one-step neutral mutation process (stepwise mutation model,
+  logistic mutation model and exponential mutation model supported). The stochastic
+  population sizes are random Poisson distributed and different kinds of population
+  growth are supported. For the stepwise mutation model, it is possible to specify
+  locus and direction specific mutation rate (in terms of upwards and downwards mutation
+  rate). Intermediate generations can be saved in order to study e.g. drift.
+date_publication: '2018-10-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fwsim
+url_git: ''

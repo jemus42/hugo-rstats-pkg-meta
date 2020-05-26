@@ -1,0 +1,15 @@
+version: 0.3.1.1
+title: Validation of Local and Remote Data Tables
+maintainer: Richard Iannone
+description: |-
+  Validate data in data frames, 'tibble' objects, and in database
+  tables (e.g., 'PostgreSQL' and 'MySQL'). Validation pipelines can be made
+  using easily-readable, consecutive validation steps. Upon execution of the
+  validation plan, several reporting options are available. User-defined
+  thresholds for failure rates allow for the determination of appropriate
+  reporting actions.
+date_publication: '2020-04-02'
+bug_reports: https://github.com/rich-iannone/pointblank/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pointblank
+url_git: https://github.com/rich-iannone/pointblank

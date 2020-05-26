@@ -1,0 +1,10 @@
+version: '1.4'
+title: Learning Plane Geometry
+maintainer: Alvaro Briz-Redon
+description: Contains some functions to learn and teach basic plane Geometry at undergraduate
+  level with the aim of being helpful to young students with little programming skills.
+date_publication: '2018-09-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LearnGeom
+url_git: ''

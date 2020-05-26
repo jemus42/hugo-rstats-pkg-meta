@@ -1,0 +1,13 @@
+version: '1.1'
+title: |-
+  Gaussian Graphical Models Using Ridge Penalty Followed by
+  Thresholding and Reestimation
+maintainer: Shannon Holloway
+description: Estimation of partial correlation matrix using ridge penalty followed
+  by thresholding and reestimation. Under multivariate Gaussian assumption, the matrix
+  constitutes an Gaussian graphical model (GGM).
+date_publication: '2016-02-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GGMridge
+url_git: ''

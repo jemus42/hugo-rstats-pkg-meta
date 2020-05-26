@@ -1,0 +1,10 @@
+version: 3.1.0
+title: Network-Based Gene Set Analysis
+maintainer: Jing Ma
+description: Carry out Network-based Gene Set Analysis by incorporating external information
+  about interactions among genes, as well as novel interactions learned from data.
+date_publication: '2019-03-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=netgsa
+url_git: https://github.com/drjingma/netgsa

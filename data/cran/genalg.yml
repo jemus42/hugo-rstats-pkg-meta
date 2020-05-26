@@ -1,0 +1,11 @@
+version: 0.2.0
+title: R Based Genetic Algorithm
+maintainer: Michel Ballings
+description: |-
+  R based genetic algorithm for binary and floating point
+  chromosomes.
+date_publication: '2015-03-16'
+bug_reports: https://github.com/egonw/genalg/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=genalg
+url_git: https://github.com/egonw/genalg

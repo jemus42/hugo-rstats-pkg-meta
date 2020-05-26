@@ -1,0 +1,14 @@
+version: 2.0-6
+title: |-
+  Data Sets, Etc. for the Text "Using R for Introductory
+  Statistics", Second Edition
+maintainer: John Verzani
+description: |-
+  A collection of data sets to accompany the
+  textbook "Using R for Introductory Statistics," second
+  edition.
+date_publication: '2018-05-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=UsingR
+url_git: ''

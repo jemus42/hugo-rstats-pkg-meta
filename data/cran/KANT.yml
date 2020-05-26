@@ -1,0 +1,10 @@
+version: '2.0'
+title: Package to identify and sort genes overexpressed
+maintainer: Noemie Robil
+description: Identify and sort genes overexpressed and associated to transmembrane
+  protein in Affymetrix expression set or any other results of microarray experiment.
+date_publication: '2014-08-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=KANT
+url_git: ''

@@ -1,0 +1,19 @@
+version: 1.3.3
+title: |-
+  Maximum Likelihood Shrinkage using Generalized Ridge or Least
+  Angle Regression Methods
+maintainer: Bob Obenchain
+description: |-
+  Functions are provided to calculate and display ridge TRACEs for various
+  shrinkage PATHS. They determine the m-Extent of shrinkage most likely, under
+  Normal-distribution theory, to produce biased estimates of regression (beta) coefficients
+  with minimum MSE Risk. An alternative function, correct.signs(), provides beta coefficient
+  estimates when an ill-conditioned (nearly multicollinear) model yields OLS estimates with
+  ("wrong") numerical signs that disagree with the signs of the observed correlations between
+  the Y-outcome and the selected X-predictor variables. In-Sample predictions can be made for
+  all five-types of RXshrink linear regression model estimation.
+date_publication: '2020-04-26'
+bug_reports: ''
+url: http://localcontrolstatistics.org
+url_cran: https://CRAN.R-project.org/package=RXshrink
+url_git: ''

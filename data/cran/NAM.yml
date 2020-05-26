@@ -1,0 +1,14 @@
+version: 1.7.3
+title: Nested Association Mapping
+maintainer: Alencar Xavier
+description: Designed for association studies in nested association mapping (NAM)
+  panels, experimental and random panels. The method is described by Xavier et al.
+  (2015) <doi:10.1093/bioinformatics/btv448>. It includes tools for genome-wide associations
+  of multiple populations, marker quality control, population genetics analysis, genome-wide
+  prediction, solving mixed models and finding variance components through likelihood
+  and Bayesian methods.
+date_publication: '2019-09-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NAM
+url_git: ''

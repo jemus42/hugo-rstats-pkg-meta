@@ -1,0 +1,9 @@
+version: 1.7.0
+title: '"Redis" Key/Value Database Client'
+maintainer: B. W. Lewis
+description: R client interface to the "Redis" key-value database.
+date_publication: '2015-07-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rredis
+url_git: ''

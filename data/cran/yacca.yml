@@ -1,0 +1,12 @@
+version: 1.1.1
+title: Yet Another Canonical Correlation Analysis Package
+maintainer: Carter T. Butts
+description: |-
+  Provides an alternative canonical correlation/redundancy
+  analysis function, with associated print, plot, and summary methods.
+  A method for generating helio plots is also included.
+date_publication: '2018-09-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=yacca
+url_git: ''

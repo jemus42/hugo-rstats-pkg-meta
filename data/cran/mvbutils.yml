@@ -1,0 +1,13 @@
+version: 2.8.232
+title: |-
+  Workspace Organization, Code and Documentation Editing, Package
+  Prep and Editing, Etc
+maintainer: Mark V. Bravington
+description: Hierarchical workspace tree, code editing and backup, easy package prep,
+  editing of packages while loaded, per-object lazy-loading, easy documentation, macro
+  functions, and miscellaneous utilities. Needed by debug package.
+date_publication: '2018-12-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mvbutils
+url_git: ''

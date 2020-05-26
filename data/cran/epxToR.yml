@@ -1,0 +1,10 @@
+version: 0.4-1
+title: Import 'Epidata' XML Files '.epx'
+maintainer: Jean Pierre Decorps
+description: Import data from 'Epidata' XML files '.epx' and convert it to R data
+  structures.
+date_publication: '2020-05-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=epxToR
+url_git: ''

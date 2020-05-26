@@ -1,0 +1,11 @@
+version: 0.1.1
+title: API Client Library for 'Wikidata Query Service'
+maintainer: Mikhail Popov
+description: |-
+  An API client for the 'Wikidata Query Service'
+  <https://query.wikidata.org/>.
+date_publication: '2017-04-28'
+bug_reports: https://github.com/bearloga/WikidataQueryServiceR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=WikidataQueryServiceR
+url_git: https://github.com/bearloga/WikidataQueryServiceR

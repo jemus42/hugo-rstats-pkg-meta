@@ -1,0 +1,12 @@
+version: 1.1.0
+title: |-
+  Analyze Clustered Data with Generalized Linear Models using the
+  Cluster Bootstrap
+maintainer: Mathijs Deen
+description: Provides functionality for the analysis of clustered data using the cluster
+  bootstrap.
+date_publication: '2020-02-24'
+bug_reports: https://github.com/mathijsdeen/ClusterBootstrap/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ClusterBootstrap
+url_git: https://github.com/mathijsdeen/ClusterBootstrap

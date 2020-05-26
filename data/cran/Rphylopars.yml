@@ -1,0 +1,15 @@
+version: 0.3.0
+title: |-
+  Phylogenetic Comparative Tools for Missing Data and
+  Within-Species Variation
+maintainer: Eric W. Goolsby
+description: Tools for performing phylogenetic comparative methods for datasets with
+  with multiple observations per species (intraspecific variation or measurement error)
+  and/or missing data. Performs ancestral state reconstruction and missing data imputation
+  on the estimated evolutionary model, which can be specified as Brownian Motion,
+  Ornstein-Uhlenbeck, Early-Burst, Pagel's lambda, kappa, or delta, or a star phylogeny.
+date_publication: '2020-05-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rphylopars
+url_git: http://github.com/ericgoolsby/Rphylopars/wiki

@@ -1,0 +1,18 @@
+version: '1.2'
+title: Write Storm Bolts in R using the Storm Multi-Language Protocol.
+maintainer: Allen Day
+description: |-
+  Storm is a distributed real-time computation system. Similar to how
+  Hadoop provides a set of general primitives for doing batch processing, Storm
+  provides a set of general primitives for doing real-time computation.
+
+  Storm includes a "Multi-Language" (or "Multilang") Protocol to allow
+  implementation of Bolts and Spouts in languages other than Java.  This R
+  extension provides implementations of utility functions to allow an application
+  developer to focus on application-specific functionality rather than Storm/R
+  communications plumbing.
+date_publication: '2015-01-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Storm
+url_git: ''

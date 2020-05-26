@@ -1,0 +1,13 @@
+version: 0.4.0
+title: Make Fake Data
+maintainer: Scott Chamberlain
+description: |-
+  Make fake data, supporting addresses, person names, dates,
+  times, colors, coordinates, currencies, digital object identifiers
+  ('DOIs'), jobs, phone numbers, 'DNA' sequences, doubles and integers
+  from distributions and within a range.
+date_publication: '2020-01-24'
+bug_reports: https://github.com/ropensci/charlatan/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=charlatan
+url_git: https://docs.ropensci.org/charlatan(website)https://github.com/ropensci/charlatan(devel)

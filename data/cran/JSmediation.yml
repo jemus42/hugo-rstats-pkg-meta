@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Mediation Analysis Using Joint Significance
+maintainer: Cédric Batailler
+description: |-
+  A set of helper functions to conduct joint-significance tests for
+  mediation analysis, as recommended by
+  Yzerbyt, Muller, Batailler, & Judd. (2018) <doi:10.1037/pspa0000132>.
+date_publication: '2020-01-30'
+bug_reports: https://github.com/cedricbatailler/JSmediation/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=JSmediation
+url_git: https://github.com/cedricbatailler/JSmediation

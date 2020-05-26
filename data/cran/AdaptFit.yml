@@ -1,0 +1,10 @@
+version: 0.2-2
+title: Adaptive Semiparametic Regression
+maintainer: Tatyana Krivobokova
+description: Based on the function "spm" of the SemiPar package fits<U+000a>semiparametric
+  regression models with spatially adaptive<U+000a>penalized splines.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AdaptFit
+url_git: ''

@@ -1,0 +1,12 @@
+version: '1.9'
+title: Gene ID Mapping for Genotype-Tissue Expression (GTEx) Data
+maintainer: Nan Xiao
+description: |-
+  Convert 'Ensembl' gene identifiers from Genotype-Tissue
+  Expression (GTEx) data to identifiers in other annotation systems,
+  including 'Entrez', 'HGNC', and 'UniProt'.
+date_publication: '2019-05-17'
+bug_reports: https://github.com/nanxstats/grex/issues
+url: https://nanx.me/grex/
+url_cran: https://CRAN.R-project.org/package=grex
+url_git: https://github.com/nanxstats/grex

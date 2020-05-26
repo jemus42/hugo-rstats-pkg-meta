@@ -1,0 +1,12 @@
+version: 1.2.0
+title: Reference Intervals
+maintainer: Daniel Finnegan
+description: |-
+  This is a collection of tools to allow the medical professional to
+  calculate appropriate reference ranges (intervals) with confidence intervals around
+  the limits for diagnostic purposes.
+date_publication: '2020-04-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=referenceIntervals
+url_git: ''

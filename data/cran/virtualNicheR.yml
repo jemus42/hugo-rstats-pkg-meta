@@ -1,0 +1,16 @@
+version: '1.0'
+title: Generating Virtual Fundamental and Realised Niches
+maintainer: Thomas R. Etherington
+description: |-
+  The ability to generate virtual niches enables virtual ecology
+  experiments that have been advocated for evaluating species-environment
+  relationship models. Using multivariate normal distributions and matrix
+  algebra this package provides a unique computational framework to generate
+  integrated fundamental and realised niches, which is important given
+  differences in possible complexity of realised niche shapes that result
+  from biotic interactions Etherington and Omondiagbe (2019) <doi:10.21105/joss.01661>.
+date_publication: '2020-03-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=virtualNicheR
+url_git: ''

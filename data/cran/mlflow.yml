@@ -1,0 +1,13 @@
+version: 1.8.0
+title: Interface to 'MLflow'
+maintainer: Matei Zaharia
+description: |-
+  R interface to 'MLflow', open source platform for the complete machine
+  learning life cycle, see <https://mlflow.org/>. This package supports installing
+  'MLflow', tracking experiments, creating and running projects, and saving and
+  serving models.
+date_publication: '2020-04-22'
+bug_reports: https://github.com/mlflow/mlflow/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mlflow
+url_git: https://github.com/mlflow/mlflow

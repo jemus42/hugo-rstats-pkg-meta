@@ -1,0 +1,10 @@
+version: '0.2'
+title: A multiplicative-regression model for relative survival.
+maintainer: Y. Foucher
+description: This package contains functions, data and examples to compute a multiplicative-regression
+  model for relative survival.
+date_publication: '2013-10-31'
+bug_reports: ''
+url: www.divat.fr
+url_cran: https://CRAN.R-project.org/package=MRsurv
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.18.1
+title: Tools to Create Gene Sets
+maintainer: Alexander Sibley
+description: A set of functions to create SQL tables of gene and SNP information and
+  compose them into a SNP Set, for example for use with the RSNPset package, or to
+  export to a PLINK set.
+date_publication: '2017-12-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=snplist
+url_git: ''

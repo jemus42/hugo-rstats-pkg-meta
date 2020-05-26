@@ -1,0 +1,10 @@
+version: '1.1'
+title: Clustering of Variables
+maintainer: Marie Chavent
+description: Cluster analysis of a set of variables. Variables can be quantitative,
+  qualitative or a mixture of both.
+date_publication: '2017-08-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ClustOfVar
+url_git: ''

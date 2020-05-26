@@ -1,0 +1,15 @@
+version: 0.1.0
+title: Time-Based Joins to Analyze Sequences of Events
+maintainer: Emily Robinson
+description: |-
+  Time-based joins to analyze sequence of events,
+  both in memory and out of memory. after_join() joins two
+  tables of events, while funnel_start() and funnel_step()
+  join events in the same table. With the type argument, you
+  can switch between different funnel types, like first-first
+  and last-firstafter.
+date_publication: '2019-12-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=funneljoin
+url_git: ''

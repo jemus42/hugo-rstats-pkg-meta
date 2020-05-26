@@ -1,0 +1,16 @@
+version: '0.1'
+title: (Kernel) Isotope Niche Estimation
+maintainer: Shannon E Albeke
+description: |-
+  Applies methods used to estimate animal homerange, but
+  instead of geospatial coordinates, we use isotopic coordinates. The estimation
+  methods include: 1) 2-dimensional bivariate normal kernel utilization density
+  estimator, 2) bivariate normal ellipse estimator, and 3) minimum convex polygon
+  estimator, all applied to stable isotope data. Additionally, functions to
+  determine niche area, polygon overlap between groups and levels (confidence
+  contours) and plotting capabilities.
+date_publication: '2017-01-24'
+bug_reports: http://github.com/salbeke/rKIN/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rKIN
+url_git: http://github.com/salbeke/rKIN

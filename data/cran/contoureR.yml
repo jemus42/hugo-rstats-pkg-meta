@@ -1,0 +1,10 @@
+version: 1.0.5
+title: Contouring of Non-Regular Three-Dimensional Data
+maintainer: Nicholas Hamilton
+description: Create contour lines for a non regular series of points, potentially
+  from a non-regular canvas.
+date_publication: '2015-08-25'
+bug_reports: ''
+url: http://contoureR.com
+url_cran: https://CRAN.R-project.org/package=contoureR
+url_git: ''

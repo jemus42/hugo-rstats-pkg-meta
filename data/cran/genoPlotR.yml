@@ -1,0 +1,12 @@
+version: 0.8.9
+title: Plot Publication-Grade Gene and Genome Maps
+maintainer: Lionel Guy
+description: |-
+  Draws gene or genome maps and comparisons between these, in a
+  publication-grade manner. Starting from simple, common files, it will
+  draw postscript or PDF files that can be sent as such to journals.
+date_publication: '2019-01-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=genoPlotR
+url_git: http://genoplotr.r-forge.r-project.org/

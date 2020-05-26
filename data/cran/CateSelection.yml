@@ -1,0 +1,10 @@
+version: '1.0'
+title: Categorical Variable Selection Methods
+maintainer: Yi Xu
+description: A multi-factor dimensionality reduction based forward selection method
+  for genetic association mapping.
+date_publication: '2014-10-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CateSelection
+url_git: ''

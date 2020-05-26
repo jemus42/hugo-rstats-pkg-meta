@@ -1,0 +1,14 @@
+version: 2.2.0
+title: Run Code 'With' Temporarily Modified Global State
+maintainer: Jim Hester
+description: |-
+  A set of functions to run code 'with' safely and
+  temporarily modified global state. Many of these functions were
+  originally a part of the 'devtools' package, this provides a simple
+  package with limited dependencies to provide access to these
+  functions.
+date_publication: '2020-04-20'
+bug_reports: http://github.com/r-lib/withr/issues
+url: http://withr.r-lib.org
+url_cran: https://CRAN.R-project.org/package=withr
+url_git: http://github.com/r-lib/withr#readme

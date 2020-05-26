@@ -1,0 +1,13 @@
+version: 0.1.2
+title: Local Association Measures
+maintainer: Olivier M. F. Martin
+description: 'Implements the estimation of local (and global) association measures:
+  Ducher''s Z, pointwise mutual information and normalized pointwise mutual information.
+  The significance of local (and global) association is accessed using p-values estimated
+  by permutations. Finally, using local association subgroup analysis, it identifies
+  if the association between variables is dependent on the value of another variable.'
+date_publication: '2017-10-24'
+bug_reports: https://github.com/oliviermfmartin/zebu/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=zebu
+url_git: http://github.com/oliviermfmartin/zebu

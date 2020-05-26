@@ -1,0 +1,9 @@
+version: '0.7'
+title: Read and Write ESRI Shapefiles
+maintainer: Ben Stabler
+description: Functions to read and write ESRI shapefiles
+date_publication: '2013-01-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=shapefiles
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.2.9
+title: Make Interactive 'ggplot2'. Extension to 'ggplot2' and 'ggiraph'
+maintainer: Keon-Woong Moon
+description: |-
+  Collection of functions to enhance 'ggplot2' and 'ggiraph'. Provides functions for exploratory plots.
+  All plot can be a 'static' plot or an 'interactive' plot using 'ggiraph'.
+date_publication: '2018-07-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggiraphExtra
+url_git: https://github.com/cardiomoon/ggiraphExtra

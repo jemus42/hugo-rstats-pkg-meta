@@ -1,0 +1,13 @@
+version: 0.7.11
+title: General Purpose Hierarchical Data Structure
+maintainer: Christoph Glur
+description: |-
+  Create tree structures from hierarchical data, and traverse the
+  tree in various orders. Aggregate, cumulate, print, plot, convert to and from
+  data.frame and more. Useful for decision trees, machine learning, finance,
+  conversion from and to JSON, and many other applications.
+date_publication: '2019-11-09'
+bug_reports: http://github.com/gluc/data.tree/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=data.tree
+url_git: http://github.com/gluc/data.tree

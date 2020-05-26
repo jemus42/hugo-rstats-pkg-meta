@@ -1,0 +1,16 @@
+version: 0.1.0
+title: |-
+  Multivariate Outlier Detection and Imputation for Incomplete
+  Survey Data
+maintainer: Martin Sterchi
+description: |-
+  Algorithms for multivariate outlier detection when missing values occur.
+  Algorithms are based on Mahalanobis distance or data depth. Imputation is based
+  on the multivariate normal model or uses nearest neighbour donors. The algorithms
+  take sample designs, in particular weighting, into account. The methods are
+  described in Bill and Hulliger (2016) <doi:10.17713/ajs.v45i1.86>.
+date_publication: '2018-11-20'
+bug_reports: https://github.com/martinSter/modi/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=modi
+url_git: https://github.com/martinSter/modi

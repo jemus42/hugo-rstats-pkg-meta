@@ -1,0 +1,14 @@
+version: 0.3.2
+title: Alternative Factor Coding Matrices for Linear Model Formulae
+maintainer: Bill Venables
+description: |-
+  A collection of coding functions as alternatives to the standard
+  functions in the stats package, which have names starting with 'contr.'.  Their
+  main advantage is that they provide a consistent method for defining marginal
+  effects in factorial models.  In a simple one-way ANOVA model the
+  intercept term is always the simple average of the class means.
+date_publication: '2018-02-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=codingMatrices
+url_git: ''

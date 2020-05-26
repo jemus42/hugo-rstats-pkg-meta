@@ -1,0 +1,9 @@
+version: '2.3'
+title: Builds color tables
+maintainer: Tim Keitt
+description: Builds gradient color maps
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=colorRamps
+url_git: ''

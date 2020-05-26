@@ -1,0 +1,11 @@
+version: 0.2.0
+title: Densities and Sampling for the Skellam Distribution
+maintainer: Patrick E. Brown
+description: |-
+  Functions for the Skellam distribution, including: density
+  (pmf), cdf, quantiles and regression.
+date_publication: '2016-12-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=skellam
+url_git: http://r-forge.r-project.org/projects/healthqueues/

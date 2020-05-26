@@ -1,0 +1,16 @@
+version: '1.2'
+title: |-
+  Customized Training for Lasso and Elastic-Net Regularized
+  Generalized Linear Models
+maintainer: Scott Powers
+description: |-
+  Customized training is a simple technique for transductive
+  learning, when the test covariates are known at the time of training. The
+  method identifies a subset of the training set to serve as the training set
+  for each of a few identified subsets in the training set. This package
+  implements customized training for the glmnet() and cv.glmnet() functions.
+date_publication: '2019-01-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=customizedTraining
+url_git: ''

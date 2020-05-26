@@ -1,0 +1,13 @@
+version: 0.4.4
+title: Simulate Pedigrees Ascertained for a Rare Disease
+maintainer: Christina Nieuwoudt
+description: |-
+  Routines to simulate and manipulate pedigrees ascertained to
+  contain multiple family members affected by a rare disease.
+  Christina Nieuwoudt, Samantha J Jones, Angela Brooks-Wilson,
+  and Jinko Graham (2018) <doi:10.1101/234153>.
+date_publication: '2020-02-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SimRVPedigree
+url_git: ''

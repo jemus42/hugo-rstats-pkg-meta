@@ -1,0 +1,12 @@
+version: 1.1.1
+title: A Bit of Glue Between R and Stata
+maintainer: Luca Braglia
+description: |-
+  A simple R -> Stata interface allowing the user to
+  execute Stata commands (both inline and from a .do file)
+  from R.
+date_publication: '2016-10-27'
+bug_reports: http://github.com/lbraglia/RStata/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=RStata
+url_git: http://github.com/lbraglia/RStata

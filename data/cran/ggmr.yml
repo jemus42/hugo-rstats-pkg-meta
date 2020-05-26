@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Generalized Gauss Markov Regression
+maintainer: Hugo Gasca-Aragon
+description: Implements the generalized Gauss Markov regression, this is useful when
+  both predictor and response have uncertainty attached to them and also when covariance
+  within the predictor, within the response and between the predictor and the response
+  is present. Base on the results published in guide ISO/TS 28037 (2010) <https://www.iso.org/standard/44473.html>.
+date_publication: '2019-09-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggmr
+url_git: ''

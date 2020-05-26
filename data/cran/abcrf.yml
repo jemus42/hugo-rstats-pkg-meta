@@ -1,0 +1,13 @@
+version: 1.8.1
+title: Approximate Bayesian Computation via Random Forests
+maintainer: Jean-Michel Marin
+description: |-
+  Performs Approximate Bayesian Computation (ABC) model choice and parameter inference via random forests.
+  Pudlo P., Marin J.-M., Estoup A., Cornuet J.-M., Gautier M. and Robert C. P. (2016) <doi:10.1093/bioinformatics/btv684>.
+  Estoup A., Raynal L., Verdu P. and Marin J.-M. <http://journal-sfds.fr/article/view/709>.
+  Raynal L., Marin J.-M., Pudlo P., Ribatet M., Robert C. P. and Estoup A. (2019) <doi:10.1093/bioinformatics/bty867>.
+date_publication: '2019-11-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=abcrf
+url_git: ''

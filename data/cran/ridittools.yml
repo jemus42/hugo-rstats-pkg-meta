@@ -1,0 +1,15 @@
+version: '0.1'
+title: Useful Functions for Ridit Analysis
+maintainer: Eric Bohlman
+description: |-
+  Functions to compute ridit scores of vectors, compute mean ridits
+  and their standard errors for vectors compared to a reference vector,
+  as described in Fleiss (1981, ISBN:0-471-06428-9), and compute
+  means/SEs for multiple groups in matrices. Data can be either
+  counts or proportions. Emphasis is on ridit analysis of ordered categorical
+  data such as Likert items and pain-rating scales.
+date_publication: '2018-03-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ridittools
+url_git: ''

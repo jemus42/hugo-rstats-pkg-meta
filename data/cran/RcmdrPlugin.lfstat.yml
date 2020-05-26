@@ -1,0 +1,10 @@
+version: 0.8.3
+title: '''Rcmdr'' Plug-in for Low Flow Analysis'
+maintainer: Tobias Gauster
+description: Provides an Rcmdr "plug-in" based on the 'lfstat' package for low flow
+  analysis.
+date_publication: '2018-06-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.lfstat
+url_git: ''

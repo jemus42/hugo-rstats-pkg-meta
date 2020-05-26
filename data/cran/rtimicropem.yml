@@ -1,0 +1,11 @@
+version: 1.4.0
+title: Supports the Analysis of RTI MicroPEM Output Files
+maintainer: Maëlle Salmon
+description: |-
+  Supports the input and reproducible analysis of RTI
+  MicroPEM output files.
+date_publication: '2019-05-15'
+bug_reports: https://github.com/ropensci/rtimicropem/issues
+url: https://docs.ropensci.org/rtimicropem/
+url_cran: https://CRAN.R-project.org/package=rtimicropem
+url_git: https://github.com/ropensci/rtimicropem

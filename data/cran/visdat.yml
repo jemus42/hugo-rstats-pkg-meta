@@ -1,0 +1,11 @@
+version: 0.5.3
+title: Preliminary Visualisation of Data
+maintainer: Nicholas Tierney
+description: |-
+  Create preliminary exploratory data visualisations of an entire
+  dataset to identify problems or unexpected features using 'ggplot2'.
+date_publication: '2019-02-15'
+bug_reports: https://github.com/ropensci/visdat/issues
+url: http://visdat.njtierney.com/
+url_cran: https://CRAN.R-project.org/package=visdat
+url_git: https://github.com/ropensci/visdat

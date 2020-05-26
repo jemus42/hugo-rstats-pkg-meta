@@ -1,0 +1,12 @@
+version: '1.0'
+title: Interface to the TimeTree of Life Webpage
+maintainer: Franz-Sebastian Krah
+description: A interface to the TimeTree of Life Webpage (www.timetree.org). TimeTree
+  is a public database for information on the evolutionary timescale of life. This
+  package includes functions for searching divergence time for  taxa or all nodes
+  of a phylogeny.
+date_publication: '2015-04-28'
+bug_reports: ''
+url: http://www.timetree.org
+url_cran: https://CRAN.R-project.org/package=timetree
+url_git: ''

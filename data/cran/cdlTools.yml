@@ -1,0 +1,13 @@
+version: '0.14'
+title: Tools to Download and Work with USDA Cropscape Data
+maintainer: Jonathan Lisic
+description: |-
+  Downloads USDA National Agricultural Statistics Service (NASS)
+  cropscape data for a specified state. Utilities for fips, abbreviation,
+  and name conversion are also provided. Full functionality requires an
+  internet connection, but data sets can be cached for later off-line use.
+date_publication: '2018-06-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cdlTools
+url_git: ''

@@ -1,0 +1,15 @@
+version: 0.0.1
+title: Wrapper for Alpha Vantage API
+maintainer: Alex Thompson
+description: |-
+  Download data from the Alpha Vantage API (<https://www.alphavantage.co/>).
+  Alpha Vantage is a RESTful API which provides various financial data,
+  including stock prices and technical indicators.
+  There is documentation for the underlying API available
+  here: <https://www.alphavantage.co/documentation/>. To get access to this API,
+  the user needs to first claim an API key: <https://www.alphavantage.co/support/>.
+date_publication: '2017-09-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AlphaVantageClient
+url_git: https://github.com/athompson1991/AlphaVantageClient

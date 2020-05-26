@@ -1,0 +1,11 @@
+version: 0.1.3
+title: Functions to Embed Video in HTML
+maintainer: Ian Lyttle
+description: |-
+  A set of functions for generating HTML to
+  embed hosted video in your R Markdown documents or Shiny applications.
+date_publication: '2017-07-16'
+bug_reports: https://github.com/ijlyttle/vembedr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=vembedr
+url_git: https://github.com/ijlyttle/vembedr

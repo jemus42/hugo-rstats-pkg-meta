@@ -1,0 +1,10 @@
+version: 0.3.3
+title: Read 'Unisens' Data
+maintainer: Martin Penzel
+description: Provides the ability to read 'Unisens' data into R. 'Unisens' is a universal
+  data format for multi sensor data.
+date_publication: '2020-04-29'
+bug_reports: https://github.com/Unisens/unisensR/issues
+url: http://unisens.org/
+url_cran: https://CRAN.R-project.org/package=unisensR
+url_git: ''

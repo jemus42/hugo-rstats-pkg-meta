@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Converts Human gene symbols to entrez IDs
+maintainer: Raphael Bonnet
+description: |-
+  Queries multiple resources authors HGNC (2019) <https://www.genenames.org>, authors limma (2015) <doi:10.1093/nar/gkv007>
+  to find the correspondence between evolving nomenclature of human gene symbols, aliases, previous symbols or synonyms with
+  stable, curated gene entrezID from NCBI database. This allows fast, accurate and up-to-date correspondence
+  between human gene expression datasets from various date and platform (e.g: gene symbol: BRCA1 - ID: 672).
+date_publication: '2020-05-19'
+bug_reports: https://github.com/peyronlab/aliases2entrez/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=aliases2entrez
+url_git: ''

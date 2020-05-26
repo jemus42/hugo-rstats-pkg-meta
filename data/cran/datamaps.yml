@@ -1,0 +1,14 @@
+version: 0.0.3
+title: |-
+  Create Interactive Web Maps with the 'JavaScript Datamaps'
+  Library
+maintainer: John Coene
+description: |-
+  Easily create interactive choropleth maps then add bubbles and arcs by coordinates or region name.
+  These maps can be used directly from the console, from 'RStudio', in 'Shiny' apps and 'R Markdown' documents. 'Shiny'
+  proxies allow to interactively add arcs and bubbles, change choropleth values, or change labels.
+date_publication: '2018-05-14'
+bug_reports: https://github.com/JohnCoene/datamaps/issues
+url: http://datamaps.john-coene.com
+url_cran: https://CRAN.R-project.org/package=datamaps
+url_git: ''

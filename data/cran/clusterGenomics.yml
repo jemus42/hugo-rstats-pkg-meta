@@ -1,0 +1,11 @@
+version: '1.0'
+title: Identifying clusters in genomics data by recursive partitioning
+maintainer: Gro Nilsen
+description: The Partitioning Algorithm based on Recursive Thresholding<U+000a>(PART)
+  is used to recursively uncover clusters and subclusters<U+000a>in the data. Functionality
+  is also available for visualization<U+000a>of the clustering.
+date_publication: '2013-07-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=clusterGenomics
+url_git: ''

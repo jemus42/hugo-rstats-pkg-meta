@@ -1,0 +1,12 @@
+version: 0.9.6
+title: Hierarchical Optimal Matching and Machine Learning Toolbox
+maintainer: Teemu Daniel Laajala
+description: Various functions and algorithms are provided here for solving optimal
+  matching tasks in the context of preclinical cancer studies. Further, various helper
+  and plotting functions are provided for unsupervised and supervised machine learning
+  as well as longitudinal mixed-effects modeling of tumor growth response patterns.
+date_publication: '2018-05-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hamlet
+url_git: ''

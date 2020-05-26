@@ -1,0 +1,13 @@
+version: 0.29.1
+title: Data and Functions to Accompany the Book "Learning R"
+maintainer: Richie Cotton
+description: |-
+  Crabs in the English channel, deer skulls, English
+  monarchs, half-caste Manga characters, Jamaican cities,
+  Shakespeare's The Tempest, drugged up cyclists and sexually
+  transmitted diseases.
+date_publication: '2019-10-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=learningr
+url_git: ''

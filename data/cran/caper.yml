@@ -1,0 +1,9 @@
+version: 1.0.1
+title: Comparative Analyses of Phylogenetics and Evolution in R
+maintainer: David Orme
+description: Functions for performing phylogenetic comparative analyses.
+date_publication: '2018-04-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=caper
+url_git: ''

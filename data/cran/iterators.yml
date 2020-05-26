@@ -1,0 +1,12 @@
+version: 1.0.12
+title: Provides Iterator Construct
+maintainer: Hong Ooi
+description: |-
+  Support for iterators, which allow a programmer to traverse
+  through all the elements of a vector, list, or other collection
+  of data.
+date_publication: '2019-07-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=iterators
+url_git: ''

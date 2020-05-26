@@ -1,0 +1,11 @@
+version: 0.4-1
+title: MCMC Algorithms for the Coalescent
+maintainer: Emmanuel Paradis
+description: Flexible framework for coalescent analyses in R. It includes a main function
+  running the  MCMC algorithm, auxiliary functions for tree rearrangement, and some
+  functions to compute population genetic parameters.
+date_publication: '2015-03-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=coalescentMCMC
+url_git: ''

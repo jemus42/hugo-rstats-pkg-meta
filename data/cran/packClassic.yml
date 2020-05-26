@@ -1,0 +1,11 @@
+version: 0.5.2
+title: Toy example of Pack Classic
+maintainer: Christophe Genolini
+description: |-
+  This package comes to illustrate the book "Petit Manuel de
+  Programmation Orientee Objet sous R"
+date_publication: '2009-10-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=packClassic
+url_git: ''

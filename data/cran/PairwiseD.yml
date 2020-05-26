@@ -1,0 +1,11 @@
+version: 0.9.62
+title: Pairing Up Units and Vectors in Panel Data Setting
+maintainer: Marcin Stryjek
+description: Pairing observations according to a chosen formula and facilitates bilateral
+  analysis of the panel data. Paring is possible for observations, as well as for
+  vectors of observations ordered with respect to time.
+date_publication: '2017-05-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PairwiseD
+url_git: ''

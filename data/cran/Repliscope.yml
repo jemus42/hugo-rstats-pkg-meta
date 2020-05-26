@@ -1,0 +1,10 @@
+version: 1.1.0
+title: Replication Timing Profiling using DNA Copy Number
+maintainer: Dzmitry G Batrakou
+description: 'Create, Plot and Compare Replication Timing Profiles. The method is
+  described in Muller et al., (2014) <doi: 10.1093/nar/gkt878>.'
+date_publication: '2019-07-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Repliscope
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.1.2
+title: Single-Cell RNA-Seq Gene Expression Recovery
+maintainer: Mo Huang
+description: |-
+  An implementation of a regularized regression prediction and
+  empirical Bayes method to recover the true gene expression profile in
+  noisy and sparse single-cell RNA-seq data. See Huang M, et al (2018)
+  <doi:10.1038/s41592-018-0033-z> for more details.
+date_publication: '2019-11-13'
+bug_reports: https://github.com/mohuangx/SAVER/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=SAVER
+url_git: https://github.com/mohuangx/SAVER

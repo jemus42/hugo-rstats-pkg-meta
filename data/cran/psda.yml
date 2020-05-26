@@ -1,0 +1,12 @@
+version: 1.4.0
+title: Polygonal Symbolic Data Analysis
+maintainer: Wagner Silva
+description: |-
+  A toolbox in symbolic data framework as a statistical learning and data mining solution for symbolic polygonal data analysis. This study is a new approach in data analysis and it was proposed by
+  Silva et al. (2019) <doi:10.1016/j.knosys.2018.08.009>. The package presents the estimation of main descriptive statistical measures, e.g, mean, covariance, variance, correlation and coefficient of variation.
+  In addition, a method to obtain polygonal data from classical data is presented. Empirical probability distribution function based on symbolic polygonal histogram and a regression model with its main measures are presented.
+date_publication: '2020-05-24'
+bug_reports: https://github.com/wagnerjorge/psda/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=psda
+url_git: https://github.com/wagnerjorge/psda

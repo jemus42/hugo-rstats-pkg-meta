@@ -1,0 +1,9 @@
+version: 0.1.0
+title: Write Chinese Tang Poems
+maintainer: Yongyuan Liang
+description: Write Chinese Tang Poems automatically.
+date_publication: '2018-07-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TangPoemR
+url_git: ''

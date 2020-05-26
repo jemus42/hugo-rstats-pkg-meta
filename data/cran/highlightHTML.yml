@@ -1,0 +1,13 @@
+version: 0.2.5
+title: Highlight HTML Text and Tables
+maintainer: Brandon LeBeau
+description: |-
+  A tool to format R markdown with CSS ids for HTML output.
+  The tool may be most helpful for those using markdown to create reproducible
+  documents. The biggest limitations in formatting is the knowledge of CSS
+  by the document authors.
+date_publication: '2020-04-21'
+bug_reports: https://github.com/lebebr01/highlightHTML/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=highlightHTML
+url_git: https://github.com/lebebr01/highlightHTML

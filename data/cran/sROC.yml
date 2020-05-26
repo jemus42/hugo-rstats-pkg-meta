@@ -1,0 +1,12 @@
+version: 0.1-2
+title: Nonparametric Smooth ROC Curves for Continuous Data
+maintainer: Xiao-Feng Wang
+description: |-
+  This package contains a collection of functions to perform
+  nonparametric estimation of receiver operating characteristic
+  (ROC) curves for continuous data.
+date_publication: '2012-04-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sROC
+url_git: ''

@@ -1,0 +1,14 @@
+version: 2.5-1
+title: 64-Bit Extension of the SPArse Matrix R Package 'spam'
+maintainer: Reinhard Furrer
+description: |-
+  Provides the Fortran code of the R package 'spam'
+  with 64-bit integers. Loading this package together with the R package
+  spam enables the sparse matrix class spam to handle huge sparse matrices
+  with more than 2^31-1 non-zero elements.
+  Documentation is provided in Gerber, Moesinger and Furrer (2017) <doi:10.1016/j.cageo.2016.11.015>.
+date_publication: '2019-12-12'
+bug_reports: ''
+url: https://git.math.uzh.ch/reinhard.furrer/spam
+url_cran: https://CRAN.R-project.org/package=spam64
+url_git: ''

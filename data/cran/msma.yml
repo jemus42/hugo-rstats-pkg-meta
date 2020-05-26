@@ -1,0 +1,17 @@
+version: '2.1'
+title: Multiblock Sparse Multivariable Analysis
+maintainer: Atsushi Kawaguchi
+description: Several functions can be used to analyze multiblock multivariable data.
+  If the input is a single matrix, then principal components analysis (PCA) is implemented.
+  If the input is a list of matrices, then multiblock PCA is implemented. If the input
+  is two matrices, for exploratory and objective variables, then partial least squares
+  (PLS) analysis is implemented. If the input is two lists of matrices, for exploratory
+  and objective variables, then multiblock PLS analysis is implemented. Additionally,
+  if an extra outcome variable is specified, then a supervised version of the methods
+  above is implemented. For each method, sparse modeling is also incorporated. Functions
+  for selecting the number of components and regularized parameters are also provided.
+date_publication: '2020-02-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=msma
+url_git: ''

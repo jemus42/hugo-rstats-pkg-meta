@@ -1,0 +1,13 @@
+version: 1.0-7
+title: |-
+  Flexible Optimization of Complex Loss Functions with State and
+  Parameter Space Constraints
+maintainer: Kai Husmann
+description: Flexible optimizer with numerous input specifications for detailed parameterisation.
+  Designed for complex loss functions with state and parameter space constraints.
+  Visualization tools for validation and analysis of the convergence are included.
+date_publication: '2017-10-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=optimization
+url_git: ''

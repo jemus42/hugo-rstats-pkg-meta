@@ -1,0 +1,15 @@
+version: '1.2'
+title: |-
+  Multiple Change-Point Detection for High-Dimensional GARCH
+  Processes
+maintainer: Karolos Korkas
+description: Implements a segmentation algorithm for multiple change-point detection
+  in high-dimensional GARCH processes. It simultaneously segments GARCH processes
+  by identifying 'common' change-points, each of which can be shared by a subset or
+  all of the component time series as a change-point in their within-series and/or
+  cross-sectional correlation structure.
+date_publication: '2019-01-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=segMGarch
+url_git: ''

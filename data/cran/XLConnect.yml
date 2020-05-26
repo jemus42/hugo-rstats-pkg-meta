@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Excel Connector for R
+maintainer: Martin Studer
+description: Provides comprehensive functionality to read, write and format Excel
+  data.
+date_publication: '2020-03-23'
+bug_reports: https://github.com/miraisolutions/xlconnect/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=XLConnect
+url_git: http://www.mirai-solutions.comhttps://github.com/miraisolutions/xlconnect

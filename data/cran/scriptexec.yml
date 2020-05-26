@@ -1,0 +1,9 @@
+version: 0.3.1
+title: Execute Native Scripts
+maintainer: Sagie Gur-Ari
+description: Run complex native scripts with a single command, similar to system commands.
+date_publication: '2019-04-12'
+bug_reports: https://github.com/sagiegurari/scriptexec/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=scriptexec
+url_git: https://github.com/sagiegurari/scriptexec

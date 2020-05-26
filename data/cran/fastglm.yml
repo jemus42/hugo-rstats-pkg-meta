@@ -1,0 +1,14 @@
+version: 0.0.1
+title: |-
+  Fast and Stable Fitting of Generalized Linear Models using
+  'RcppEigen'
+maintainer: Jared Huling
+description: |-
+  Fits generalized linear models efficiently using 'RcppEigen'. The iteratively reweighted least squares
+  implementation utilizes the step-halving approach of Marschner (2011) <doi:10.32614/RJ-2011-012> to help safeguard
+  against convergence issues.
+date_publication: '2019-03-08'
+bug_reports: https://github.com/jaredhuling/fastglm/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=fastglm
+url_git: ''

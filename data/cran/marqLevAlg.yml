@@ -1,0 +1,15 @@
+version: 2.0.2
+title: |-
+  A Parallelized General-Purpose Optimization Based on
+  Marquardt-Levenberg Algorithm
+maintainer: Viviane Philipps
+description: |-
+  This algorithm provides a numerical solution to the
+  problem of minimizing (or maximizing) a function. It is particularly suited for complex problems and more efficient than
+  the Gauss-Newton-like algorithm when starting from points very
+  far from the final minimum (or maximum). Each iteration is parallelized and convergence relies on a stringent stopping criterion based on the first and second derivatives.
+date_publication: '2020-03-30'
+bug_reports: http://github.com/VivianePhilipps/marqLevAlgParallel/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=marqLevAlg
+url_git: ''

@@ -1,0 +1,14 @@
+version: 0.4.2
+title: |-
+  Translate Quantities from Strings to Integer and Back. Misc
+  Functions on Spanish Data
+maintainer: Jose Manuel Vera Oteo
+description: |-
+  Character vector to numerical translation in Euros from Spanish
+  spelled monetary quantities. Reverse translation from integer to Spanish.
+  Upper limit is up to the millions range. Geocoding via Cadastral web site.
+date_publication: '2019-05-10'
+bug_reports: https://github.com/verajosemanuel/spanish/issues
+url: https://ropenspain.github.io/spanish/
+url_cran: https://CRAN.R-project.org/package=spanish
+url_git: ''

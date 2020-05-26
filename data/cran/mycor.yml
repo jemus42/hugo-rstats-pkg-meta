@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Automatic Correlation and Regression Test in a 'data.frame'
+maintainer: Keon-Woong Moon
+description: |-
+  Perform correlation and linear regression test
+  among the numeric fields in a data.frame automatically
+  and make plots using pairs or lattice::parallelplot.
+date_publication: '2018-04-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mycor
+url_git: https://github.com/cardiomoon/mycor

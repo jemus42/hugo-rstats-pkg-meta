@@ -1,0 +1,10 @@
+version: 0.1.60
+title: Borenstein Analysis
+maintainer: Claus Jonathan Fritzemeier
+description: An implementation of the analysis about seed components from Borenstein
+  et.al. 2008.
+date_publication: '2016-10-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RSeed
+url_git: ''

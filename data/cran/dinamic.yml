@@ -1,0 +1,12 @@
+version: '1.0'
+title: DiNAMIC A Method To Analyze Recurrent DNA Copy Number<U+000a>Aberrations in
+  Tumors
+maintainer: Vonn Walter
+description: This function implements the DiNAMIC procedure for<U+000a>assessing the
+  statistical significance of recurrent DNA copy<U+000a>number aberrations (Bioinformatics
+  (2011) 27(5) 678 - 685).
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dinamic
+url_git: ''

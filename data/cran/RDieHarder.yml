@@ -1,0 +1,15 @@
+version: 0.2.1
+title: R Interface to the 'DieHarder' RNG Test Suite
+maintainer: Dirk Eddelbuettel
+description: |-
+  The 'RDieHarder' package provides an R interface to
+  the 'DieHarder' suite of random number generators and tests that
+  was developed by Robert G. Brown and David Bauer, extending
+  earlier work by George Marsaglia and others. The 'DieHarder'
+  library is included, but if a version is already installed
+  it will be used instead.
+date_publication: '2019-12-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RDieHarder
+url_git: https://github.com/eddelbuettel/rdieharder

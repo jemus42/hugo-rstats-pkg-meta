@@ -1,0 +1,18 @@
+version: '0.6'
+title: Bayesian Sampling for Stick-Breaking Mixtures
+maintainer: Matt Taddy
+description: |-
+  This is a bare-bones implementation of sampling algorithms
+  for a variety of Bayesian stick-breaking (marginally DP)
+  mixture models, including particle learning and Gibbs sampling
+  for static DP mixtures, particle learning for dynamic BAR
+  stick-breaking, and DP mixture regression.  The software is
+  designed to be easy to customize to suit different situations
+  and for experimentation with stick-breaking models.  Since
+  particles are repeatedly copied, it is not an especially
+  efficient implementation.
+date_publication: '2016-02-07'
+bug_reports: ''
+url: http://faculty.chicagobooth.edu/matt.taddy
+url_cran: https://CRAN.R-project.org/package=Bmix
+url_git: ''

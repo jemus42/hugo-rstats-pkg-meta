@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Goodman-Bacon Decomposition
+maintainer: Evan Flack
+description: |-
+  Decomposition for differences-in-differences with variation in
+  treatment timing from Goodman-Bacon (2018) <doi:10.3386/w25018>.
+date_publication: '2020-01-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bacondecomp
+url_git: ''

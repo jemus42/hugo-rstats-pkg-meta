@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Test for Discretized Normality in Ordinal Data
+maintainer: Njål Foldnes
+description: |-
+  Tests whether multivariate ordinal data may stem from discretizing a multivariate normal distribution.
+  The test is described by Foldnes and Grønneberg (2019) <doi:10.1080/10705511.2019.1673168>.
+date_publication: '2020-05-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=discnorm
+url_git: ''

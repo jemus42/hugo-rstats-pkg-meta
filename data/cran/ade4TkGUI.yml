@@ -1,0 +1,9 @@
+version: 0.3-0
+title: '''ade4'' Tcl/Tk Graphical User Interface'
+maintainer: Aurélie Siberchicot
+description: A Tcl/Tk GUI for some basic functions in the 'ade4' package.
+date_publication: '2019-09-17'
+bug_reports: https://github.com/aursiber/ade4TkGUI/issues
+url: http://pbil.univ-lyon1.fr/ade4TkGUI
+url_cran: https://CRAN.R-project.org/package=ade4TkGUI
+url_git: ''

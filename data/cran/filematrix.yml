@@ -1,0 +1,20 @@
+version: '1.3'
+title: File-Backed Matrix Class with Convenient Read and Write Access
+maintainer: Andrey A Shabalin
+description: |-
+  Interface for working with large matrices stored in files,
+  not in computer memory. Supports multiple non-character
+  data types (double, integer, logical and raw) of
+  various sizes (e.g. 8 and 4 byte real values).
+  Access to parts of the matrix is done by indexing,
+  exactly as with usual R matrices.
+  Supports very large matrices.
+  Tested on multi-terabyte matrices.
+  Allows for more than 2^32 rows or columns.
+  Allows for quick addition of extra columns to a filematrix.
+  Cross-platform as the package has R code only.
+date_publication: '2018-02-27'
+bug_reports: https://github.com/andreyshabalin/filematrix/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=filematrix
+url_git: https://github.com/andreyshabalin/filematrix

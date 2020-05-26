@@ -1,0 +1,11 @@
+version: 1.1-2
+title: Bayesian Seemingly Unrelated Regression
+maintainer: Zhi Zhao
+description: Bayesian seemingly unrelated regression with general variable selection
+  and dense/sparse covariance matrix. The sparse seemingly unrelated regression is
+  described in Banterle et al. (2018) <doi:10.1101/467019>.
+date_publication: '2020-04-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BayesSUR
+url_git: ''

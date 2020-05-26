@@ -1,0 +1,16 @@
+version: 1.3.4
+title: |-
+  Analysis of Functional and Phylogenetic Patterns in
+  Metacommunities
+maintainer: Vanderlei Julio Debastiani
+description: |-
+  Analysis of metacommunities based on functional traits and
+  phylogeny of the community components. The functions that are offered here
+  implement for the R environment methods that have been available in the
+  SYNCSA application written in C++ (by Valerio Pillar, available at
+  <http://ecoqua.ecologia.ufrgs.br/SYNCSA.html>).
+date_publication: '2020-01-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SYNCSA
+url_git: ''

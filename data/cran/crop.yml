@@ -1,0 +1,12 @@
+version: 0.0-2
+title: Graphics Cropping Tool
+maintainer: Marius Hofert
+description: |-
+  A device closing function which is able to crop graphics (e.g.,
+  PDF, PNG files) on Unix-like operating systems with the required underlying
+  command-line tools installed.
+date_publication: '2015-10-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=crop
+url_git: ''

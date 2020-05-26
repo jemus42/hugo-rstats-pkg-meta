@@ -1,0 +1,14 @@
+version: 3.4.5
+title: |-
+  Classes and Methods for Training and Using Binary Prediction
+  Models
+maintainer: Kevin R. Coombes
+description: |-
+  Defines classes and methods to learn models and use them
+  to predict binary outcomes.  These are generic tools, but we also
+  include specific examples for many common classifiers.
+date_publication: '2019-05-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Modeler
+url_git: http://oompa.r-forge.r-project.org/

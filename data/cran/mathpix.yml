@@ -1,0 +1,14 @@
+version: 0.3.0
+title: Support for the 'Mathpix' API (Image to 'LaTeX')
+maintainer: Jonathan Carroll
+description: |-
+  Given an image of a formula (typeset or handwritten) this package
+  provides calls to the 'Mathpix' service to produce the 'LaTeX' code which should
+  generate that image, and pastes it into a (e.g. an 'rmarkdown') document.
+  See <https://docs.mathpix.com/> for full details. 'Mathpix' is an external service
+  and use of the API is subject to their terms and conditions.
+date_publication: '2018-04-27'
+bug_reports: https://github.com/jonocarroll/mathpix/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mathpix
+url_git: https://github.com/jonocarroll/mathpix

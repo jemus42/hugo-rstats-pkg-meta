@@ -1,0 +1,12 @@
+version: '1.1'
+title: |-
+  Simultaneous Model-Based Clustering and Imputation via a
+  Progressive Expectation-Maximization Algorithm
+maintainer: Brian C. Franczak
+description: Contains the function CUUimpute() which performs model-based clustering
+  and imputation simultaneously.
+date_publication: '2016-02-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sensory
+url_git: ''

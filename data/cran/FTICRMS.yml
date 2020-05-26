@@ -1,0 +1,14 @@
+version: '0.8'
+title: |-
+  Programs for Analyzing Fourier Transform-Ion Cyclotron Resonance
+  Mass Spectrometry Data
+maintainer: Don Barkauskas
+description: |-
+  This package was developed partially with funding from the
+  NIH Training Program in Biomolecular Technology
+  (2-T32-GM08799).
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FTICRMS
+url_git: ''

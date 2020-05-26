@@ -1,0 +1,15 @@
+version: '3.3'
+title: Visualization of Structures in High-Dimensional Data
+maintainer: Florian Lerch
+description: By gaining the property of emergence through self-organization, the enhancement
+  of SOMs(self organizing maps) is called Emergent SOM (ESOM). The result of the projection
+  by ESOM is a grid of neurons which can be visualised as a three dimensional landscape
+  in form of the Umatrix. Further details can be found in the referenced publications
+  (see url). This package offers tools for calculating and visualising the ESOM as
+  well as Umatrix, Pmatrix and UStarMatrix. All the functionality is also available
+  through graphical user interfaces implemented in 'shiny'.
+date_publication: '2020-02-12'
+bug_reports: ''
+url: http://wscg.zcu.cz/wscg2016/short/A43-full.pdf
+url_cran: https://CRAN.R-project.org/package=Umatrix
+url_git: ''

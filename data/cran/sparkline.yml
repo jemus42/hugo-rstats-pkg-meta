@@ -1,0 +1,12 @@
+version: '2.0'
+title: '''jQuery'' Sparkline ''htmlwidget'''
+maintainer: Ramnath Vaidyanathan
+description: |-
+  Include interactive sparkline charts
+  <http://omnipotent.net/jquery.sparkline> in
+  all R contexts with the convenience of 'htmlwidgets'.
+date_publication: '2016-11-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sparkline
+url_git: ''

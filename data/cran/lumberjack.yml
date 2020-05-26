@@ -1,0 +1,14 @@
+version: 1.2.0
+title: Track Changes in Data
+maintainer: Mark van der Loo
+description: |-
+  A framework that allows for easy logging of changes in data.
+  Main features: start tracking changes by adding a single line of code to
+  an existing script. Track changes in multiple datasets, using multiple
+  loggers. Add custom-built loggers or use loggers offered by other
+  packages.
+date_publication: '2020-05-08'
+bug_reports: https://github.com/markvanderloo/lumberjack/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=lumberjack
+url_git: https://github.com/markvanderloo/lumberjack

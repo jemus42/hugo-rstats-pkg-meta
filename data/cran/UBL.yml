@@ -1,0 +1,14 @@
+version: 0.0.6
+title: |-
+  An Implementation of Re-Sampling Approaches to Utility-Based
+  Learning for Both Classification and Regression Tasks
+maintainer: Paula Branco
+description: Provides a set of functions that can be used to obtain better predictive
+  performance on cost-sensitive and cost/benefits tasks (for both regression and classification).
+  This includes re-sampling approaches that modify the original data set biasing it
+  towards the user preferences.
+date_publication: '2017-07-13'
+bug_reports: https://github.com/paobranco/UBL/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=UBL
+url_git: https://github.com/paobranco/UBL

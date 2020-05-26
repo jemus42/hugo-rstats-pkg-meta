@@ -1,0 +1,12 @@
+version: 0.4.5
+title: Interactive Grammar of Graphics
+maintainer: Winston Chang
+description: |-
+  An implementation of an interactive grammar of graphics, taking the
+  best parts of 'ggplot2', combining them with the reactive framework of
+  'shiny' and drawing web graphics using 'vega'.
+date_publication: '2019-10-26'
+bug_reports: ''
+url: http://ggvis.rstudio.com/
+url_cran: https://CRAN.R-project.org/package=ggvis
+url_git: ''

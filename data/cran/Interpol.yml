@@ -1,0 +1,11 @@
+version: 1.3.1
+title: Interpolation of amino acid sequences
+maintainer: Dominik Heider
+description: |-
+  A package for numerical encoding as well as for linear and
+  non-linear interpolation of amino acid sequences.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Interpol
+url_git: ''

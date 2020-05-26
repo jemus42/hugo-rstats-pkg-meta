@@ -1,0 +1,13 @@
+version: 0.19-3
+title: Output Analysis and Diagnostics for MCMC
+maintainer: Martyn Plummer
+description: |-
+  Provides functions for summarizing and plotting the
+  output from Markov Chain Monte Carlo (MCMC) simulations, as
+  well as diagnostic tests of convergence to the equilibrium
+  distribution of the Markov chain.
+date_publication: '2019-07-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=coda
+url_git: ''

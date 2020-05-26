@@ -1,0 +1,12 @@
+version: 1.1-4
+title: ICES Vocabularies Database Web Services
+maintainer: Colin Millar
+description: |-
+  R interface to access the RECO POX web services of the ICES
+  (International Council for the Exploration of the Sea) Vocabularies database
+  <https://vocab.ices.dk/services/POX.aspx>.
+date_publication: '2019-03-12'
+bug_reports: https://github.com/ices-tools-prod/icesVocab/issues
+url: https://vocab.ices.dk/services/POX.aspx
+url_cran: https://CRAN.R-project.org/package=icesVocab
+url_git: ''

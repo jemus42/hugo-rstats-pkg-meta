@@ -1,0 +1,12 @@
+version: '1.0'
+title: Regression analysis of overdispersed correlated count data
+maintainer: Ivonne Solis-Trapala
+description: This is a likelihood approach for the regression analysis of overdispersed
+  correlated count data with cluster varying covariates. The approach fits a multivariate
+  negative binomial model by maximum likelihood and provides robust estimates of the
+  regression coefficients.
+date_publication: '2014-01-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=multinbmod
+url_git: ''

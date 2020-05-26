@@ -1,0 +1,12 @@
+version: 0.4.0
+title: Lower Confidence Bounds for Binomial Series System
+maintainer: Edward Schuberg
+description: Calculate and compare lower confidence bounds for binomial series system
+  reliability. The R 'shiny' application, launched by the function launch_app(), weaves
+  together a workflow of customized simulations and delta coverage calculations to
+  output recommended lower confidence bound methods.
+date_publication: '2019-07-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=serieslcb
+url_git: ''

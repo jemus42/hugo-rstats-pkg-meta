@@ -1,0 +1,14 @@
+version: 1.0.12
+title: Engle-Granger Cointegration Models
+maintainer: Matthew Clegg
+description: |-
+  An easy-to-use implementation of the Engle-Granger
+  two-step procedure for identifying pairs of cointegrated series.  It is geared towards
+  the analysis of pairs of securities.  Summary and plot functions are provided,
+  and the package is able to fetch closing prices of securities from Yahoo.
+  A variety of unit root tests are supported, and an improved unit root test is included.
+date_publication: '2017-09-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=egcm
+url_git: ''

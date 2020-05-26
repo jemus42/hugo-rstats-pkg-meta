@@ -1,0 +1,17 @@
+version: '1.5'
+title: Quadratic Inference Function
+maintainer: Michael Kleinsasser
+description: |-
+  Developed to perform the estimation and inference for regression
+  coefficient parameters in longitudinal marginal models using the method of
+  quadratic inference functions. Like generalized estimating equations, this
+  method is also a quasi-likelihood inference method. It has been showed that
+  the method gives consistent estimators of the regression coefficients even if
+  the correlation structure is misspecified, and it is more efficient than GEE
+  when the correlation structure is misspecified. Based on Qu, A., Lindsay,
+  B.G. and Li, B. (2000) <doi:10.1093/biomet/87.4.823>.
+date_publication: '2019-07-20'
+bug_reports: https://github.com/umich-biostatistics/qif/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=qif
+url_git: ''

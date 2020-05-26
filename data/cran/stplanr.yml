@@ -1,0 +1,17 @@
+version: 0.6.0
+title: Sustainable Transport Planning
+maintainer: Robin Lovelace
+description: |-
+  Tools for transport planning with an emphasis on spatial transport
+  data and non-motorized modes. Enables common transport planning tasks including:
+  downloading and cleaning transport datasets; creating geographic "desire lines"
+  from origin-destination (OD) data; route assignment, locally and via
+  interfaces to routing services such as <http://cyclestreets.net/>;
+  calculation of route segment attributes such as bearing and aggregate flow;
+  and 'travel watershed' analysis.
+  See Lovelace and Ellison (2018) <doi:10.32614/RJ-2018-053>.
+date_publication: '2020-05-03'
+bug_reports: https://github.com/ropensci/stplanr/issues
+url: https://docs.ropensci.org/stplanr/
+url_cran: https://CRAN.R-project.org/package=stplanr
+url_git: https://github.com/ropensci/stplanr

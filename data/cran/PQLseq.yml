@@ -1,0 +1,16 @@
+version: '1.2'
+title: |-
+  Efficient Mixed Model Analysis of Count Data in Large-Scale
+  Genomic Sequencing Studies
+maintainer: Jiaqiang Zhu
+description: An efficient tool designed for differential analysis of large-scale RNA
+  sequencing (RNAseq) data and Bisulfite sequencing (BSseq) data in the presence of
+  individual relatedness and population structure. 'PQLseq' first fits a Generalized
+  Linear Mixed Model (GLMM) with adjusted covariates, predictor of interest and random
+  effects to account for population structure and individual relatedness, and then
+  performs Wald tests for each gene in RNAseq or site in BSseq.
+date_publication: '2020-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PQLseq
+url_git: ''

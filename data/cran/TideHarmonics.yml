@@ -1,0 +1,13 @@
+version: 0.1-1
+title: Harmonic Analysis of Tides
+maintainer: Alec Stephenson
+description: |-
+  Implements harmonic analysis of tidal and sea-level data.
+  Over 400 harmonic tidal constituents can be estimated, all with
+  daily nodal corrections. Time-varying mean sea-levels can also
+  be used.
+date_publication: '2017-05-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TideHarmonics
+url_git: ''

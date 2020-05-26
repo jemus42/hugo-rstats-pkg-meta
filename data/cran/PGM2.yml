@@ -1,0 +1,13 @@
+version: 1.0-1
+title: Nested Resolvable Designs and their Associated Uniform Designs
+maintainer: Mohamed Laib
+description: |-
+  Construction method of nested resolvable designs from
+  a projective geometry defined on Galois field of order 2. The obtained
+  Resolvable designs are used to build uniform design. The presented results
+  are based on <https://eudml.org/doc/219563> and A. Boudraa et al. (See references).
+date_publication: '2016-12-17'
+bug_reports: ''
+url: <https://sites.google.com/site/mohamedlaibwebpage/>
+url_cran: https://CRAN.R-project.org/package=PGM2
+url_git: ''

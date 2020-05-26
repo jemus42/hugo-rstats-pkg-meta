@@ -1,0 +1,17 @@
+version: 1.0.4
+title: |-
+  MCMC Simulation and Convergence Evaluation using Entropy and
+  Kullback-Leibler Divergence Estimation
+maintainer: Didier Chauveau
+description: Tools for Markov Chain Monte Carlo (MCMC) simulation and performance
+  analysis. Simulate MCMC algorithms including adaptive MCMC, evaluate their convergence
+  rate, and compare candidate MCMC algorithms for a same target density, based on
+  entropy and Kullback-Leibler divergence criteria. MCMC algorithms can be simulated
+  using provided functions, or imported from external codes. This package is based
+  upon work starting with Chauveau, D. and Vandekerkhove, P. (2013) <doi:10.1051/ps/2012004>
+  and next articles.
+date_publication: '2019-03-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EntropyMCMC
+url_git: ''

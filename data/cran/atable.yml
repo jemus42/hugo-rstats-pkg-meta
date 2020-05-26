@@ -1,0 +1,12 @@
+version: 0.1.6
+title: Create Tables for Reporting Clinical Trials
+maintainer: Armin Ströbel
+description: |-
+  Create Tables for Reporting Clinical Trials.
+  Calculates descriptive statistics and hypothesis tests,
+  arranges the results in a table ready for reporting with LaTeX, HTML or Word.
+date_publication: '2020-04-13'
+bug_reports: https://github.com/arminstroebel/atable/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=atable
+url_git: https://github.com/arminstroebel/atable

@@ -1,0 +1,20 @@
+version: '1.11'
+title: |-
+  Semiparametric Factor and Regression Models for Symmetric
+  Relational Data
+maintainer: Peter Hoff
+description: |-
+  Estimation of the parameters in a model for
+  symmetric relational data (e.g., the above-diagonal part of a
+  square matrix), using a model-based eigenvalue decomposition
+  and regression. Missing data is accommodated, and a posterior
+  mean for missing data is calculated under the assumption that
+  the data are missing at random. The marginal distribution of
+  the relational data can be arbitrary, and is fit with an
+  ordered probit specification. See Hoff (2007) <arXiv:0711.1146>
+  for details on the model.
+date_publication: '2019-05-28'
+bug_reports: ''
+url: https://pdhoff.github.io/
+url_cran: https://CRAN.R-project.org/package=eigenmodel
+url_git: ''

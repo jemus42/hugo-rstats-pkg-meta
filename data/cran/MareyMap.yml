@@ -1,0 +1,10 @@
+version: 1.3.5
+title: Estimation of Meiotic Recombination Rates Using Marey Maps
+maintainer: Aurélie Siberchicot
+description: Local recombination rates are graphically estimated across a genome using
+  Marey maps.
+date_publication: '2020-05-21'
+bug_reports: https://github.com/aursiber/MareyMap/issues
+url: https://lbbe.univ-lyon1.fr/-MareyMap-.html;http://lbbe-shiny.univ-lyon1.fr/MareyMapOnline/
+url_cran: https://CRAN.R-project.org/package=MareyMap
+url_git: ''

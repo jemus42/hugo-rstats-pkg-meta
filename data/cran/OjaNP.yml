@@ -1,0 +1,13 @@
+version: 1.0-0
+title: |-
+  Multivariate Methods Based on the Oja Median and Related
+  Concepts
+maintainer: Daniel Fischer
+description: Functions to calculate the Oja median, Oja signs and ranks and methods
+  based upon them. For details, see the the corresponding publication in the Journal
+  of Statistical Software <doi:10.18637/jss.v092.i08>.
+date_publication: '2020-02-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OjaNP
+url_git: ''

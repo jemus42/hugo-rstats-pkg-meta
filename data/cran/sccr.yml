@@ -1,0 +1,11 @@
+version: '2.0'
+title: The Self-Consistent, Competing Risks (SC-CR) Algorithms
+maintainer: Alicja Wolny-Dominiak<woali@ue.katowice.pl>
+description: The SC-SR Algorithm is used to calculate the cause-deleted life expectancy
+  improvement for left and right censored data. In the version 2.0 the function creating
+  the probability matrix from double-censored data is added.
+date_publication: '2019-11-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sccr
+url_git: ''

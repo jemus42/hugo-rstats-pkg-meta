@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Weekly Notified Dengue Cases in Sri Lanka
+maintainer: Thiyanga Talagala
+description: Weekly notified dengue cases in 25 districts of Sri Lanka from 2008/
+  week-52 to 2014/ week-21.
+date_publication: '2017-10-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mozzie
+url_git: ''

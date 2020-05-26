@@ -1,0 +1,12 @@
+version: '1.0'
+title: Two-Level Behavior Classification
+maintainer: Katherine Ellis
+description: Contains functions for training and applying two-level random forest
+  and hidden Markov models for human behavior classification from raw tri-axial accelerometer
+  and/or GPS data. Includes functions for training a two-level model, applying the
+  model to data, and computing performance.
+date_publication: '2015-10-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TLBC
+url_git: ''

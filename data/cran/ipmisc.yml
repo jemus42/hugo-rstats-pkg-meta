@@ -1,0 +1,13 @@
+version: 2.0.0
+title: Miscellaneous Functions for Data Cleaning and Analysis
+maintainer: Indrajeet Patil
+description: |-
+  Provides functions needed for data cleaning and
+  formatting and forms data cleaning and wrangling backend for the
+  following packages: 'broomExtra', 'ggstatsplot', 'groupedstats',
+  'pairwiseComparisons', 'statsExpressions', and 'tidyBF'.
+date_publication: '2020-04-11'
+bug_reports: https://github.com/IndrajeetPatil/ipmisc/issues
+url: https://indrajeetpatil.github.io/ipmisc/
+url_cran: https://CRAN.R-project.org/package=ipmisc
+url_git: https://github.com/IndrajeetPatil/ipmisc

@@ -1,0 +1,10 @@
+version: 1.4-2
+title: Univariate GARCH Models
+maintainer: Alexios Ghalanos
+description: ARFIMA, in-mean, external regressors and various GARCH flavors, with
+  methods for fit, forecast, simulation, inference and plotting.
+date_publication: '2020-02-08'
+bug_reports: ''
+url: http://www.unstarched.net
+url_cran: https://CRAN.R-project.org/package=rugarch
+url_git: https://bitbucket.org/alexiosg

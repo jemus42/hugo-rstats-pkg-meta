@@ -1,0 +1,12 @@
+version: '1.0'
+title: hierarchical Pooled Optimal Design
+maintainer: Wei E. Liang
+description: |-
+  Based on hierarchical modeling, this package provides a
+  few practical functions to find and present the optimal designs
+  for a pooled NGS design.
+date_publication: '2012-06-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hiPOD
+url_git: ''

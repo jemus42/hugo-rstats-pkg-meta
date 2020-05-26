@@ -1,0 +1,9 @@
+version: '1.3'
+title: Quantitative Structure Activity Relationship (QSAR) Data Sets
+maintainer: Max Kuhn
+description: Molecular descriptors and outcomes for several public domain data sets
+date_publication: '2013-07-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=QSARdata
+url_git: http://qsardata.r-forge.r-project.org/

@@ -1,0 +1,13 @@
+version: 1.0.1
+title: Incremental Graphlet Counting for Network Optimisation
+maintainer: Robrecht Cannoodt
+description: |-
+  An efficient and incremental approach for calculating
+  the differences in orbit counts when performing single edge modifications
+  in a network. Calculating the differences in orbit counts is much more efficient than
+  recalculating all orbit counts from scratch for each time point.
+date_publication: '2017-10-12'
+bug_reports: https://github.com/rcannood/incgraph/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=incgraph
+url_git: http://www.github.com/rcannood/incgraph

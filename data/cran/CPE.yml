@@ -1,0 +1,10 @@
+version: 1.5.1
+title: Concordance Probability Estimates in Survival Analysis
+maintainer: Qianxing Mo
+description: Functions to calculate concordance probability estimates in survival
+  analysis.
+date_publication: '2018-09-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CPE
+url_git: ''

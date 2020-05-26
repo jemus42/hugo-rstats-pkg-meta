@@ -1,0 +1,15 @@
+version: 1.0.1
+title: |-
+  'WebVR' Data Visualizations with 'RStudio Shiny' and 'Mozilla
+  A-Frame'
+maintainer: William Murphy
+description: |-
+  Make R data available in Web-based virtual reality experiences
+  for immersive, cross-platform data visualizations. Includes the 'gg-aframe'
+  JavaScript package for a Grammar of Graphics declarative HTML syntax to create
+  3-dimensional data visualizations with 'Mozilla A-Frame' <https://aframe.io>.
+date_publication: '2017-11-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinyaframe
+url_git: ''

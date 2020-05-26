@@ -1,0 +1,13 @@
+version: 2.7.1
+title: Accesses Google Maps APIs to Retrieve Data and Plot Maps
+maintainer: David Cooley
+description: |-
+  Provides a mechanism to plot a 'Google Map' from 'R' and overlay
+  it with shapes and markers. Also provides access to 'Google Maps' APIs,
+  including places, directions, roads, distances, geocoding, elevation and
+  timezone.
+date_publication: '2018-09-17'
+bug_reports: https://github.com/SymbolixAU/googleway/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=googleway
+url_git: ''

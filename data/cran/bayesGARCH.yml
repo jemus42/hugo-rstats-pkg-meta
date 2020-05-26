@@ -1,0 +1,13 @@
+version: 2.1.5
+title: |-
+  Bayesian Estimation of the GARCH(1,1) Model with Student-t
+  Innovations
+maintainer: David Ardia
+description: |-
+  Provides the bayesGARCH() function which performs the
+  Bayesian estimation of the GARCH(1,1) model with Student's t innovations as described in Ardia (2008) <doi:10.1007/978-3-540-78657-3>.
+date_publication: '2020-04-20'
+bug_reports: https://github.com/ArdiaD/bayesGARCH/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bayesGARCH
+url_git: https://github.com/ArdiaD/bayesGARCH

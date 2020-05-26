@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Accelerometry Data Sets
+maintainer: Marta Karas
+description: Created to host raw accelerometry data sets and their derivatives which
+  are used in the corresponding 'adept' package.
+date_publication: '2019-03-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=adeptdata
+url_git: ''

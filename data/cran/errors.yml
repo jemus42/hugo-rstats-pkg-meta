@@ -1,0 +1,14 @@
+version: 0.3.3
+title: Uncertainty Propagation for R Vectors
+maintainer: Iñaki Ucar
+description: |-
+  Support for measurement errors in R vectors, matrices and arrays:
+  automatic uncertainty propagation and reporting.
+  Documentation about 'errors' is provided in the paper by Ucar, Pebesma &
+  Azcorra (2018, <doi:10.32614/RJ-2018-075>), included in this package as a
+  vignette; see 'citation("errors")' for details.
+date_publication: '2020-01-08'
+bug_reports: https://github.com/r-quantities/errors/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=errors
+url_git: https://github.com/r-quantities/errors

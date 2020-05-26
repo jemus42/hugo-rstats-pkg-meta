@@ -1,0 +1,10 @@
+version: '1.1'
+title: Probability and Bayesian Modeling
+maintainer: Jim Albert
+description: 'Functions and datasets  to accompany J. Albert and J. Hu, "Probability
+  and Bayesian Modeling", CRC Press, (2019, ISBN: 1138492566).'
+date_publication: '2020-03-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ProbBayes
+url_git: https://github.com/bayesball/ProbBayes

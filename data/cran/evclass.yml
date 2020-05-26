@@ -1,0 +1,12 @@
+version: 1.1.1
+title: Evidential Distance-Based Classification
+maintainer: Thierry Denoeux
+description: |-
+  Different evidential distance-based classifiers, which provide
+  outputs in the form of Dempster-Shafer mass functions. The methods are: the
+  evidential K-nearest neighbor rule and the evidential neural network.
+date_publication: '2017-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=evclass
+url_git: ''

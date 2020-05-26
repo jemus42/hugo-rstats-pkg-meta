@@ -1,0 +1,12 @@
+version: 0.3-5
+title: Readable Check Functions to Ensure Code Integrity
+maintainer: Richard Cotton
+description: |-
+  Lots of predicates (is_* functions) to check the state of your
+  variables, and assertions (assert_* functions) to throw errors if they
+  aren't in the right form.
+date_publication: '2016-12-31'
+bug_reports: https://bitbucket.org/richierocks/assertive/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=assertive
+url_git: https://bitbucket.org/richierocks/assertive

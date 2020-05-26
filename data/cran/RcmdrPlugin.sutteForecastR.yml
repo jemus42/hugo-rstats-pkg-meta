@@ -1,0 +1,11 @@
+version: 1.0.0
+title: '''Rcmdr'' Plugin for Alpha-Sutte Indicator ''sutteForecastR'''
+maintainer: Ansari Saleh Ahmar
+description: The 'sutteForecastR' is a package of Alpha-Sutte indicator. To make the
+  'sutteForecastR' user friendly, so we develop an 'Rcmdr' plug-in based on the Alpha-Sutte
+  indicator function.
+date_publication: '2017-09-22'
+bug_reports: ''
+url: http://www.ansarisaleh.web.id
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.sutteForecastR
+url_git: ''

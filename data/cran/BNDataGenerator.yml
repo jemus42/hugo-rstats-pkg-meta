@@ -1,0 +1,9 @@
+version: '1.0'
+title: Data Generator based on Bayesian Network Model
+maintainer: Jae-seong Yoo
+description: Data generator based on Bayesian network model
+date_publication: '2014-12-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BNDataGenerator
+url_git: http://www.github.com/praster1/BN_Data_Generator

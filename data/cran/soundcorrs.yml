@@ -1,0 +1,14 @@
+version: 0.1.1
+title: Semi-Automatic Analysis of Sound Correspondences
+maintainer: Kamil Stachowski
+description: |-
+  A set of tools that can be used in computer-aided analysis of
+  sound correspondences between languages, plus several helper functions.
+  Analytic functions range from purely qualitative analysis, through
+  statistic methods yielding qualitative results, to an entirely
+  quantitative approach.
+date_publication: '2020-04-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=soundcorrs
+url_git: ''

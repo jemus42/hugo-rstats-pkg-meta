@@ -1,0 +1,9 @@
+version: '0.22'
+title: A Collection of Contrast Methods
+maintainer: Alan O'Callaghan
+description: One degree of freedom contrasts for 'lm', 'glm', 'gls', and 'geese' objects.
+date_publication: '2020-03-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=contrast
+url_git: https://github.com/topepo/contrast

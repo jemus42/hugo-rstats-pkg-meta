@@ -1,0 +1,15 @@
+version: 1.1.1
+title: Flexible Parametric Survival and Multi-State Models
+maintainer: Christopher Jackson
+description: |-
+  Flexible parametric models for time-to-event data,
+  including the Royston-Parmar spline model, generalized gamma and
+  generalized F distributions.  Any user-defined parametric
+  distribution can be fitted, given at least an R function defining
+  the probability density or hazard. There are also tools for
+  fitting and predicting from fully parametric multi-state models.
+date_publication: '2019-03-18'
+bug_reports: https://github.com/chjackson/flexsurv-dev/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=flexsurv
+url_git: https://github.com/chjackson/flexsurv-dev

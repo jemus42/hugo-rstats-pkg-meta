@@ -1,0 +1,15 @@
+version: 0.2.0
+title: Nonparametric P-Value Estimation for Predictors in Lasso
+maintainer: Lingfei Wang
+description: 'Estimate the p-values for predictors x against target variable y in
+  lasso regression, using the regularization strength when each predictor enters the
+  active set of regularization path for the first time as the statistic. This is based
+  on the assumption that predictors (of the same variance) that (first) become active
+  earlier tend to be more significant. Three null distributions are supported: normal
+  and spherical, which are computed separately for each predictor and analytically
+  under approximation, which aims at efficiency and accuracy for small p-values.'
+date_publication: '2018-02-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lassopv
+url_git: https://github.com/lingfeiwang/lassopv

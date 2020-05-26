@@ -1,0 +1,13 @@
+version: 0.12.1
+title: Median-Based Linear Models
+maintainer: Lukasz Komsta
+description: |-
+  Provides linear models based on Theil-Sen
+  single median and Siegel repeated medians. They are very robust
+  (29 or 50 percent breakdown point, respectively), and if no
+  outliers are present, the estimators are very similar to OLS.
+date_publication: '2019-01-26'
+bug_reports: ''
+url: http://www.komsta.net/
+url_cran: https://CRAN.R-project.org/package=mblm
+url_git: ''

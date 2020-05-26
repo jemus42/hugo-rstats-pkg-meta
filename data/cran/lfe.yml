@@ -1,0 +1,14 @@
+version: 2.8-5
+title: Linear Group Fixed Effects
+maintainer: Simen Gaure
+description: |-
+  Transforms away factors with many levels prior to doing an OLS.
+  Useful for estimating linear models with multiple group fixed effects, and for
+  estimating linear models which uses factors with many levels as pure control variables.
+  Includes support for instrumental variables, conditional F statistics for weak instruments,
+  robust and multi-way clustered standard errors, as well as limited mobility bias correction.
+date_publication: '2019-12-17'
+bug_reports: https://github.com/sgaure/lfe/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=lfe
+url_git: https://github.com/sgaure/lfe

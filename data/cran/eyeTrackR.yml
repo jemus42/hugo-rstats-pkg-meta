@@ -1,0 +1,16 @@
+version: 1.0.1
+title: Organising and Analysing Eye-Tracking Data
+maintainer: Hayward Godwin
+description: |-
+  A set of functions for organising and analysing datasets from
+  experiments run using 'Eyelink' eye-trackers. Organising functions help
+  to clean and prepare eye-tracking datasets for analysis, and mark up
+  key events such as display changes and responses made by participants.
+  Analysing functions help to create means for a wide range of standard
+  measures (such as 'mean fixation durations'), which can then be fed into
+  the appropriate statistical analyses and graphing packages as necessary.
+date_publication: '2020-03-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=eyeTrackR
+url_git: ''

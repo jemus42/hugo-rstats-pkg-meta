@@ -1,0 +1,13 @@
+version: 4.0.6
+title: Global Charcoal Database
+maintainer: Olivier Blarquez
+description: |-
+  Contains the Global Charcoal database data. Data include charcoal
+  series (age, depth, charcoal quantity, associated units and methods) and
+  information on sedimentary sites (localisation, depositional environment, biome,
+  etc.) as well as publications informations. Since 4.0.0 the GCD mirrors the online SQL database at <http://paleofire.org>.
+date_publication: '2020-02-28'
+bug_reports: ''
+url: http://paleofire.org
+url_cran: https://CRAN.R-project.org/package=GCD
+url_git: ''

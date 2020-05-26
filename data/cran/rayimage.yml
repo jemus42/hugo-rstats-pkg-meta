@@ -1,0 +1,13 @@
+version: 0.2.7
+title: Image Processing for Simulated Cameras
+maintainer: Tyler Morgan-Wall
+description: Uses convolution-based techniques to generate simulated camera bokeh,
+  depth of field, and other camera effects, using an image and an optional depth map.
+  Accepts both filename inputs and in-memory array representations of images and matrices.
+  Includes functions to perform 2D convolutions, reorient and resize images/matrices,
+  add image overlays, generate camera vignette effects, and add titles to images.
+date_publication: '2020-04-12'
+bug_reports: https://github.com/tylermorganwall/rayimage/issues
+url: https://www.rayimage.dev
+url_cran: https://CRAN.R-project.org/package=rayimage
+url_git: https://github.com/tylermorganwall/rayimage

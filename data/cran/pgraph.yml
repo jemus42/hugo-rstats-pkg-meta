@@ -1,0 +1,12 @@
+version: '1.6'
+title: Build Dependency Graphs using Projection
+maintainer: Yang Feng
+description: Implements a general framework for creating dependency graphs using projection
+  as introduced in Fan, Feng and Xia (2019)<arXiv:1501.01617>. Both lasso and sparse
+  additive model projections are implemented. Both Pearson correlation and distance
+  covariance options are available to generate the graph.
+date_publication: '2020-01-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pgraph
+url_git: ''

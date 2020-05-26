@@ -1,0 +1,13 @@
+version: 0.3.2
+title: Simple yet Flexible Letters via the 'KOMA-Script LaTeX Bundle'
+maintainer: Robert Nuske
+description: |-
+  An R Markdown template for writing beautiful yet versatile letters,
+  using the 'KOMA-Script' letter class 'scrlttr2' and an adaptation of the
+  'pandoc-letter' template. 'scrlttr2' provides layouts for many different
+  window envelope types and the possibility to define your own.
+date_publication: '2019-12-07'
+bug_reports: https://github.com/rnuske/komaletter/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=komaletter
+url_git: https://github.com/rnuske/komaletter

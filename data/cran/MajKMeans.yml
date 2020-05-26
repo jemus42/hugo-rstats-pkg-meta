@@ -1,0 +1,14 @@
+version: 0.1.0
+title: k-Means Algorithm with a Majorization-Minimization Method
+maintainer: Sheikhi Ayyub
+description: 'A hybrid of the K-means algorithm and a Majorization-Minimization method
+  to introduce a robust clustering. The reference paper is: Julien Mairal, (2015)
+  <doi:10.1137/140957639>. The two most important functions in package ''MajKMeans''
+  are cluster_km() and cluster_MajKm(). cluster_km() clusters data without Majorization-Minimization
+  and cluster_MajKm() clusters data with Majorization-Minimization method. Both of
+  these functions calculate the sum of squares (SS) of clustering.'
+date_publication: '2020-03-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MajKMeans
+url_git: ''

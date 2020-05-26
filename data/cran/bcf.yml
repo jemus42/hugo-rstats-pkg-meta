@@ -1,0 +1,14 @@
+version: '1.3'
+title: |-
+  Causal Inference for a Binary Treatment and Continuous Outcome
+  using Bayesian Causal Forests
+maintainer: Jared S. Murray
+description: Causal inference for a binary treatment and continuous outcome using
+  Bayesian Causal Forests. See Hahn, Murray and Carvalho (2017) <arXiv:1706.09523>
+  for additional information. This implementation relies on code originally accompanying
+  Pratola et. al. (2013) <arXiv:1309.1906>.
+date_publication: '2019-08-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bcf
+url_git: ''

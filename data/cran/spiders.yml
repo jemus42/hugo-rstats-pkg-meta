@@ -1,0 +1,9 @@
+version: '1.2'
+title: Fits Predator Preferences Model
+maintainer: Edward A. Roualdes
+description: Fits and simulates data from our predator preferences model, <DOI:10.1007/s10651-016-0341-3>.
+date_publication: '2016-03-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spiders
+url_git: ''

@@ -1,0 +1,12 @@
+version: 2.1-0
+title: Unit Root Tests for Seasonal Time Series
+maintainer: Georgi N. Boshnakov
+description: |-
+  Seasonal unit roots and seasonal stability tests.
+  P-values based on response surface regressions are available for both tests.
+  P-values based on bootstrap are available for seasonal unit root tests.
+date_publication: '2019-08-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=uroot
+url_git: ''

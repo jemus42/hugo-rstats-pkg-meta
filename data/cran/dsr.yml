@@ -1,0 +1,11 @@
+version: 0.2.2
+title: Compute Directly Standardized Rates, Ratios and Differences
+maintainer: Matthew Kumar
+description: A set of functions to compute and compare directly standardized rates,
+  rate differences and ratios. A variety of user defined options for analysis (e.g
+  confidence intervals) and formatting are included.
+date_publication: '2019-08-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dsr
+url_git: https://github.com/mattkumar/dsr

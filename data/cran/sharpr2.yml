@@ -1,0 +1,11 @@
+version: 1.1.1.0
+title: Estimating Regulatory Scores and Identifying ATAC-STARR Data
+maintainer: Liang He
+description: An algorithm for identifying high-resolution driver elements for datasets
+  from a high-definition reporter assay library. Xinchen Wang, Liang He, Sarah Goggin,
+  Alham Saadat, Li Wang, Melina Claussnitzer, Manolis Kellis (2017) <doi:10.1101/193136>.
+date_publication: '2018-05-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sharpr2
+url_git: ''

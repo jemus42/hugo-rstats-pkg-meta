@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Access 'The Guardian' Newspaper Open Data API
+maintainer: Evan Odell
+description: |-
+  Access to 'The Guardian' newspaper's open API
+  <https://open-platform.theguardian.com/>, containing all articles published
+  in 'The Guardian' from 1999 to the present, including article text, metadata,
+  tags and contributor information. An API key and registration is required.
+date_publication: '2019-06-23'
+bug_reports: https://github.com/evanodell/guardianapi/issues
+url: https://docs.evanodell.com/guardianapi
+url_cran: https://CRAN.R-project.org/package=guardianapi
+url_git: ''

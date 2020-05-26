@@ -1,0 +1,12 @@
+version: '0.93'
+title: |-
+  L2 Penalized Logistic Regression with Stepwise Variable
+  Selection
+maintainer: Mee Young Park
+description: L2 penalized logistic regression for both continuous and discrete predictors,
+  with forward stagewise/forward stepwise variable selection procedure.
+date_publication: '2018-01-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=stepPlr
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Play Casino Games
+maintainer: Anthony Pileggi
+description: |-
+  Play casino games in the R console,
+  including poker, blackjack, and a slot machine.
+  Try to build your fortune before you succumb to the gambler's ruin!
+date_publication: '2019-01-17'
+bug_reports: https://github.com/anthonypileggi/casino/issues
+url: https://anthonypileggi.github.io/casino
+url_cran: https://CRAN.R-project.org/package=casino
+url_git: https://github.com/anthonypileggi/casino

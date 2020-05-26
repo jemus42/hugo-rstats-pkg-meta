@@ -1,0 +1,12 @@
+version: 1.2-7
+title: Neuwirth miscellaneous
+maintainer: Erich Neuwirth
+description: 'The ENmisc package contains utility function for different<U+000a>purposes:
+  mtapply and mlapply (multivariate version of tapply<U+000a>and lapply), wtd.boxplot
+  (a boxplot with weights), and a visual<U+000a>interface to restructuring mosaic
+  plots.'
+date_publication: '2013-04-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ENmisc
+url_git: ''

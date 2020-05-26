@@ -1,0 +1,10 @@
+version: 0.9-1
+title: Multiscale Codependence Analysis
+maintainer: Guillaume Guenard
+description: Computation of Multiscale Codependence Analysis and spatial eigenvector
+  maps, as an additional feature.
+date_publication: '2018-05-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=codep
+url_git: ''

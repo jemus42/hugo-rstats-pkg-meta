@@ -1,0 +1,16 @@
+version: 0.0.1
+title: Bipartite Longitudinal Influence Network (BLIN) Estimation
+maintainer: Frank W. Marrs
+description: Estimate influence networks from longitudinal bipartite relational data,
+  where the longitudinal relations are continuous. The outputs are estimates of weighted
+  influence networks among each actor type in the data set. The generative model is
+  the Bipartite Longitudinal Influence Network (BLIN) model, a linear autoregressive
+  model for these type of data. The supporting paper is ``Inferring Influence Networks
+  from Longitudinal Bipartite Relational Data'', which is in preparation by the same
+  authors. The model may be estimated using maximum likelihood methods and Bayesian
+  methods. For more detail on methods, see Marrs et. al. <arXiv:1809.03439>.
+date_publication: '2018-09-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=blin
+url_git: ''

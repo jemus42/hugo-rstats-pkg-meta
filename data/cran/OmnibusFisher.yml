@@ -1,0 +1,13 @@
+version: '1.0'
+title: A Modified Fisher’s Method to Test Overall Gene-Level Effect
+maintainer: Qi Yan
+description: |-
+  The separate p-values of SNPs, RNA expressions and DNA
+  methylations are calculated by KM regression. The correlation between
+  different omics data are taken into account. This method can be applied to
+  either samples with all three types of omics data or samples with two types.
+date_publication: '2018-12-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OmnibusFisher
+url_git: ''

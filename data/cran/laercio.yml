@@ -1,0 +1,9 @@
+version: 1.0-1
+title: Duncan test, Tukey test and Scott-Knott test.
+maintainer: Laercio Junio da Silva
+description: The package contains functions to compare and group means.
+date_publication: '2010-09-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=laercio
+url_git: ''

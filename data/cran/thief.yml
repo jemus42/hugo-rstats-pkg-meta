@@ -1,0 +1,11 @@
+version: '0.3'
+title: Temporal Hierarchical Forecasting
+maintainer: Rob Hyndman
+description: |-
+  Methods and tools for generating forecasts at different temporal
+  frequencies using a hierarchical time series approach.
+date_publication: '2018-01-24'
+bug_reports: https://github.com/robjhyndman/thief/issues
+url: http://pkg.robjhyndman.com/thief
+url_cran: https://CRAN.R-project.org/package=thief
+url_git: https://github.com/robjhyndman/thief

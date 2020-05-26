@@ -1,0 +1,14 @@
+version: 0.0.2
+title: Transformation Models with Mixed Effects
+maintainer: Balint Tamasi
+description: |-
+  Likelihood-based estimation of mixed-effects transformation models using the Template
+  Model Builder (TMB). The technical details of transformation models are given in Hothorn et al. (2018)
+  <doi:10.1111/sjos.12291>. The random effects are assumed to be normally distributed on the scale of the
+  transformation function, the marginal likelihood is evaluated using the Laplace approximation,
+  and the gradients are calculated with automatic differentiation (AD).
+date_publication: '2020-04-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tramME
+url_git: ''

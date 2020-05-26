@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Functions for election audits using stratified random samples
+maintainer: Mike Higgins
+description: An extension of the elec package intended for use on<U+000a>election
+  audits using stratified random samples.  Includes<U+000a>functions to obtain conservative
+  and exact p-values, and<U+000a>functions that give sample sizes that may make election
+  audits<U+000a>more efficient.
+date_publication: '2012-04-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=elec.strat
+url_git: ''

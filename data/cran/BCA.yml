@@ -1,0 +1,11 @@
+version: 0.9-3
+title: Business and Customer Analytics
+maintainer: Dan Putler
+description: 'Underlying support functions for RcmdrPlugin.BCA and a<U+000a>companion
+  to the book Customer and Business Analytics: Applied<U+000a>Data Mining for Business
+  Decision Making Using R by Daniel S.<U+000a>Putler and Robert E. Krider'
+date_publication: '2014-09-04'
+bug_reports: ''
+url: http://www.customeranalyticsbook.com
+url_cran: https://CRAN.R-project.org/package=BCA
+url_git: ''

@@ -1,0 +1,11 @@
+version: '1.0'
+title: Information Utility
+maintainer: Kristian E. Markon
+description: |-
+  Calculation of information utility (i.e., Lindley
+  information) quantities for item response models.
+date_publication: '2013-04-02'
+bug_reports: ''
+url: http://www.psychology.uiowa.edu/faculty/markon
+url_cran: https://CRAN.R-project.org/package=infutil
+url_git: ''

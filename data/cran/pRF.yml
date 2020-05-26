@@ -1,0 +1,11 @@
+version: '1.2'
+title: Permutation Significance for Random Forests
+maintainer: Ankur Chakravarthy
+description: |-
+  Estimate False Discovery Rates (FDRs) for importance metrics from
+  random forest runs.
+date_publication: '2016-01-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pRF
+url_git: ''

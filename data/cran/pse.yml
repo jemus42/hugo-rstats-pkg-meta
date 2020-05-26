@@ -1,0 +1,14 @@
+version: 0.4.7
+title: Parameter Space Exploration with Latin Hypercubes
+maintainer: Andre Chalom
+description: |-
+  Functions for creating Latin Hypercubes with
+  prescribed correlations and performing parameter space exploration.
+  Also implements the PLUE method.
+  Based on the package sensitivity, by Gilles Pujol,
+  Bertrand Iooss & Alexandre Janon.
+date_publication: '2017-06-11'
+bug_reports: https://github.com/andrechalom/pse
+url: ''
+url_cran: https://CRAN.R-project.org/package=pse
+url_git: https://github.com/andrechalom/pse

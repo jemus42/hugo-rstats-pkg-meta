@@ -1,0 +1,14 @@
+version: 2.0-4
+title: Multiscale Change-Point Inference
+maintainer: Pein Florian
+description: Allows fitting of step-functions to univariate serial data where neither
+  the number of jumps nor their positions is known by implementing the multiscale
+  regression estimators SMUCE (K. Frick, A. Munk and H. Sieling, 2014) <doi:10.1111/rssb.12047>
+  and HSMUCE (F. Pein, H. Sieling and A. Munk, 2017) <doi:10.1111/rssb.12202>. In
+  addition, confidence intervals for the change-point locations and bands for the
+  unknown signal can be obtained.
+date_publication: '2019-11-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=stepR
+url_git: ''

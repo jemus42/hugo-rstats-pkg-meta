@@ -1,0 +1,13 @@
+version: '1.8'
+title: Multivariate Double Hierarchical Generalized Linear Models
+maintainer: Maengseok Noh
+description: Allows various models for multivariate response variables where each
+  response is assumed to follow double hierarchical generalized linear models. In
+  double hierarchical generalized linear models, the mean, dispersion parameters for
+  variance of random effects, and residual variance can be further modeled as random-effect
+  models.
+date_publication: '2018-10-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mdhglm
+url_git: ''

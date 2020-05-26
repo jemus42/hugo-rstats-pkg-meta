@@ -1,0 +1,11 @@
+version: 0.9.48
+title: Sotkanet Open Data Access and Analysis
+maintainer: Leo Lahti
+description: |-
+  Access data from the sotkanet open data portal
+  <https://www.sotkanet.fi/sotkanet/fi/index>.
+date_publication: '2017-05-16'
+bug_reports: https://github.com/ropengov/sotkanet/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sotkanet
+url_git: https://github.com/ropengov/sotkanet

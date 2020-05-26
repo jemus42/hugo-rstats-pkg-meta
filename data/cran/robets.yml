@@ -1,0 +1,16 @@
+version: '1.4'
+title: Forecasting Time Series with Robust Exponential Smoothing
+maintainer: Ruben Crevits
+description: We provide an outlier robust alternative of the function ets() in the
+  'forecast' package of Hyndman and Khandakar (2008) <DOI:10.18637/jss.v027.i03>.
+  For each method of a class of exponential smoothing variants we made a robust alternative.
+  The class includes methods with a damped trend and/or seasonal components. The robust
+  method is developed by robustifying every aspect of the original exponential smoothing
+  variant. We provide robust forecasting equations, robust initial values, robust
+  smoothing parameter estimation and a robust information criterion. The method is
+  described in more detail in Crevits and Croux (2016) <DOI:10.13140/RG.2.2.11791.18080>.
+date_publication: '2018-03-06'
+bug_reports: https://github.com/RubenCrevits/robets/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=robets
+url_git: http://github.com/RubenCrevits/robets

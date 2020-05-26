@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Backward Procedure for Change-Point Detection
+maintainer: Seung Jun Shin
+description: Implements a backward procedure for single and multiple change point
+  detection proposed by Shin et al. <arXiv:1812.10107>. The backward approach is particularly
+  useful to detect short and sparse signals which is common in copy number variation
+  (CNV) detection.
+date_publication: '2019-01-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bwd
+url_git: ''

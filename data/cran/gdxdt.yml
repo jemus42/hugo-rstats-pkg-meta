@@ -1,0 +1,10 @@
+version: 0.1.0
+title: IO for GAMS GDX Files using 'data.table'
+maintainer: Alois Dirnaichner
+description: 'Interfaces GAMS data (*.gdx) files with ''data.table''s using the GAMS
+  R package ''gdxrrw''. The ''gdxrrw'' package is available on the GAMS wiki: <https://support.gams.com/doku.php?id=gdxrrw:interfacing_gams_and_r>.'
+date_publication: '2019-11-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gdxdt
+url_git: ''

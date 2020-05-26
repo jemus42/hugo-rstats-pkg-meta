@@ -1,0 +1,12 @@
+version: 0.9.0
+title: Sparse Columnwise Inverse Operator
+maintainer: Xi (Rossi) LUO
+description: Sparse Column-wise Inverse Operator for estimating the inverse covariance
+  matrix. This is an implementation of the paper Liu and Luo, Journal of Multivariate
+  Analysis (2015) 135 153-162.   This version contains only the minimal set of functions
+  for estimation and cross validation.
+date_publication: '2020-03-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=scio
+url_git: ''

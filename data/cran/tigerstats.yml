@@ -1,0 +1,19 @@
+version: '0.3'
+title: R Functions for Elementary Statistics
+maintainer: Homer White
+description: |-
+  A collection of data sets and functions that are useful in the
+  teaching of statistics at an elementary level to students who may have
+  little or no previous experience with the command line.  The functions for
+  elementary inferential procedures follow a uniform interface for user
+  input.  Some of the functions are instructional applets that can only be
+  run on the R Studio integrated development environment with package
+  'manipulate' installed.  Other instructional applets are Shiny apps
+  that may be run locally. In teaching the package is used alongside of
+  package 'mosaic', 'mosaicData' and 'abd', which are therefore listed as
+  dependencies.
+date_publication: '2016-12-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tigerstats
+url_git: ''

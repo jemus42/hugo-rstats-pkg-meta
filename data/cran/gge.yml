@@ -1,0 +1,11 @@
+version: '1.4'
+title: Genotype Plus Genotype-by-Environment Biplots
+maintainer: Kevin Wright
+description: |-
+  Create biplots for GGE (genotype plus genotype-by-environment) and
+  GGB (genotype plus genotype-by-block-of-environments) models.
+date_publication: '2018-05-15'
+bug_reports: https://github.com/kwstat/gge/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gge
+url_git: https://github.com/kwstat/gge

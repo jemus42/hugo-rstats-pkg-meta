@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Run a Suite of Selection Statistics
+maintainer: Clare Horscroft
+description: A suite of statistics for identifying areas of the genome under selective
+  pressure. See Jacobs, Sluckin and Kivisild (2016) <doi:10.1534/genetics.115.185900>.
+date_publication: '2020-03-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=zalpha
+url_git: ''

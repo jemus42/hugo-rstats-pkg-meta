@@ -1,0 +1,12 @@
+version: '0.97'
+title: Special models for categorical variables
+maintainer: John Hendrickx
+description: '`ctab'' creates (multiway) percentage tables. `sqtab''<U+000a>contains
+  a set of functions for estimating models for square<U+000a>tables such as quasi-independence,
+  symmetry, uniform<U+000a>association. Examples show how to use these models in a<U+000a>loglinear
+  model using glm or in a multinomial logistic model<U+000a>using mlogit or clogit'
+date_publication: '2013-04-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=catspec
+url_git: ''

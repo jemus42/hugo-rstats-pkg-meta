@@ -1,0 +1,10 @@
+version: 1.4.0
+title: Interfaces for Loading Datasets
+maintainer: Bastiaan quast
+description: Visual interface for loading datasets in RStudio from all installed (including
+  unloaded) packages, also includes command line interfaces.
+date_publication: '2020-04-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=datasets.load
+url_git: ''

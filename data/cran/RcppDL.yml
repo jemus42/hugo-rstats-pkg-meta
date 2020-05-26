@@ -1,0 +1,14 @@
+version: 0.0.5
+title: Deep Learning Methods via Rcpp
+maintainer: Qiang Kou
+description: |-
+  This package is based on the C++ code from Yusuke Sugomori,
+  which implements basic machine learning methods with
+  many layers (deep learning), including dA (Denoising Autoencoder),
+  SdA (Stacked Denoising Autoencoder), RBM (Restricted Boltzmann machine) and
+  DBN (Deep Belief Nets).
+date_publication: '2014-12-17'
+bug_reports: https://github.com/thirdwing/RcppDL/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcppDL
+url_git: https://github.com/thirdwing/RcppDL

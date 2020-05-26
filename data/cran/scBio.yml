@@ -1,0 +1,14 @@
+version: 0.1.6
+title: |-
+  Single Cell Genomics for Enhancing Cell Composition Inference
+  from Bulk Genomics Data
+maintainer: Amit Frishberg
+description: Cellular population mapping (CPM) a deconvolution algorithm in which
+  single-cell genomics is required in only one or a few samples, where in other samples
+  of the same tissue, only bulk genomics is measured and the underlying fine resolution
+  cellular heterogeneity is inferred.
+date_publication: '2020-05-20'
+bug_reports: https://github.com/amitfrish/scBio/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=scBio
+url_git: https://github.com/amitfrish/scBio

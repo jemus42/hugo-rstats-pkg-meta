@@ -1,0 +1,19 @@
+version: 1.3.0
+title: |-
+  Explanation of Predictions for Classification and Regression
+  Models
+maintainer: Marko Robnik-Sikonja
+description: |-
+  Generates explanations for classification and regression models and visualizes them.
+  Explanations are generated for individual predictions as well as for models as a whole. Two explanation methods
+  are included, EXPLAIN and IME. The EXPLAIN method is fast but might miss explanations expressed redundantly
+  in the model. The IME method is slower as it samples from all feature subsets.
+  For the EXPLAIN method see Robnik-Sikonja and Kononenko (2008) <doi:10.1109/TKDE.2007.190734>,
+  and the IME method is described in Strumbelj and Kononenko (2010, JMLR, vol. 11:1-18).
+  All models in package 'CORElearn' are natively supported, for other prediction models a wrapper function is provided
+  and illustrated for models from packages 'randomForest', 'nnet', and 'e1071'.
+date_publication: '2018-01-07'
+bug_reports: ''
+url: http://lkm.fri.uni-lj.si/rmarko/software/
+url_cran: https://CRAN.R-project.org/package=ExplainPrediction
+url_git: ''

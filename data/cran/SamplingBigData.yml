@@ -1,0 +1,13 @@
+version: 1.0.0
+title: Sampling Methods for Big Data
+maintainer: Jonathan Lisic
+description: Select sampling methods for probability samples using large data sets.  This
+  includes spatially balanced sampling in multi-dimensional spaces with any prescribed
+  inclusion probabilities. All implementations are written in C with efficient data
+  structures such as k-d trees that easily scale to several million rows on a modern
+  desktop computer.
+date_publication: '2018-09-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SamplingBigData
+url_git: https://github.com/jlisic/SamplingBigData

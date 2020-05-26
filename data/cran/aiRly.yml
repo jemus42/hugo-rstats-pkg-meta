@@ -1,0 +1,10 @@
+version: 0.1.0
+title: R Wrapper for 'Airly' API
+maintainer: Piotr Janus
+description: Get information about air quality using 'Airly' <https://airly.eu/> API
+  through R.
+date_publication: '2020-03-19'
+bug_reports: https://github.com/piotrekjanus/aiRly/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=aiRly
+url_git: https://github.com/piotrekjanus/aiRly

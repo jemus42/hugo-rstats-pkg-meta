@@ -1,0 +1,10 @@
+version: 1.5.6
+title: Create dummy/indicator variables flexibly and efficiently
+maintainer: Christopher Brown
+description: Expands factors, characters and other eligible classes<U+000a>into dummy/indicator
+  variables.
+date_publication: '2012-06-14'
+bug_reports: ''
+url: http://www.decisionpatterns.com
+url_cran: https://CRAN.R-project.org/package=dummies
+url_git: ''

@@ -1,0 +1,16 @@
+version: 1.0.3
+title: Analytic Solutions for (ground-water) Boussinesq Equation
+maintainer: Emanuele Cordano
+description: This package is a collection of R functions implemented<U+000a>from published
+  and available analytic solutions for the<U+000a>One-Dimensional Boussinesq Equation
+  (ground-water). In<U+000a>particular, the function "beq.lin" is the analytic solution
+  of<U+000a>the linearized form of Boussinesq Equation between two<U+000a>different
+  head-based boundary (Dirichlet) conditions;<U+000a>"beq.song" is the non-linear
+  power-series analytic solution of<U+000a>the motion of a wetting front over a dry
+  bedrock (Song at al,<U+000a>2007, see complete reference on function documentation).<U+000a>Bugs/comments/questions/collaboration
+  of any kind are warmly<U+000a>welcomed.
+date_publication: '2013-04-19'
+bug_reports: ''
+url: http://onlinelibrary.wiley.com/doi/10.1002/wrcr.20072/abstract
+url_cran: https://CRAN.R-project.org/package=boussinesq
+url_git: ''

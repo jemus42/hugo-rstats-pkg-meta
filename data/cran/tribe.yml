@@ -1,0 +1,14 @@
+version: 0.1.8
+title: Play with the Tribe of Attributes
+maintainer: Paul Poncet
+description: |-
+  Functions to make manipulation of object attributes easier.
+  It also contains a few functions that extend the 'dplyr' package for data
+  manipulation, and it provides new pipe operators, including the pipe '%@>%'
+  similar to the 'magrittr' '%>%', but with the additional functionality to
+  enable attributes propagation.
+date_publication: '2019-11-23'
+bug_reports: https://github.com/paulponcet/tribe/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tribe
+url_git: https://github.com/paulponcet/tribe

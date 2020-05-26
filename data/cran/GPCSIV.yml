@@ -1,0 +1,14 @@
+version: 0.1.0
+title: |-
+  GPCSIV, Generalized Principal Component of Symbolic Interval
+  variables
+maintainer: Brahim Brahim
+description: This package implements an extension of principal component analysis
+  (PCA) tailored to handle multiple data tables. It can handle Big Data in the sense
+  that the variation in massive data can be described by intervals [a, b] and multiple
+  tables.
+date_publication: '2013-09-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GPCSIV
+url_git: ''

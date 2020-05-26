@@ -1,0 +1,10 @@
+version: 1.0.2
+title: Discrete Inverse Weibull Distribution
+maintainer: Alessandro Barbiero
+description: Probability mass function, distribution function, quantile function,
+  random generation and parameter estimation for the discrete inverse Weibull distribution.
+date_publication: '2016-05-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DiscreteInverseWeibull
+url_git: ''

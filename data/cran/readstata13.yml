@@ -1,0 +1,9 @@
+version: 0.9.2
+title: Import 'Stata' Data Files
+maintainer: Sebastian Jeworutzki
+description: Function to read and write the 'Stata' file format.
+date_publication: '2018-05-26'
+bug_reports: https://github.com/sjewo/readstata13/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=readstata13
+url_git: https://github.com/sjewo/readstata13

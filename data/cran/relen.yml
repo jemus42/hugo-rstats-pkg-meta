@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Compute Relative Entropy
+maintainer: Soeren Braehmer
+description: This function computes the relative entropy (H) as an index for qualitative
+  variation of a factor.
+date_publication: '2015-11-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=relen
+url_git: ''

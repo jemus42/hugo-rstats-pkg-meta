@@ -1,0 +1,11 @@
+version: 2.0-5
+title: Foraminifera and Community Ecology Analyses
+maintainer: Rodrigo Aluizio
+description: |-
+  SHE, FORAM Index and ABC Method analyses and custom plot
+  functions for community data.
+date_publication: '2015-07-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=forams
+url_git: ''

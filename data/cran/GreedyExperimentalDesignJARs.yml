@@ -1,0 +1,11 @@
+version: '1.0'
+title: GreedyExperimentalDesign JARs
+maintainer: Adam Kapelner
+description: 'These are GreedyExperimentalDesign Java dependency libraries. Note:
+  this package has no functionality of its own and should not be installed as a standalone
+  package without GreedyExperimentalDesign.'
+date_publication: '2018-07-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GreedyExperimentalDesignJARs
+url_git: ''

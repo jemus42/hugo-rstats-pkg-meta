@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Credible Subsets
+maintainer: Patrick Schnell
+description: Functions for constructing simultaneous credible bands and identifying
+  subsets via the "credible subsets" (also called "credible subgroups") method.
+date_publication: '2019-01-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=credsubs
+url_git: ''

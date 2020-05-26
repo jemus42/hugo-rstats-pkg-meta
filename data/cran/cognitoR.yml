@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Authentication for 'Shiny' Apps with 'Amazon Cognito'
+maintainer: Pablo Pagnone
+description: Provides authentication for Shiny applications using 'Amazon Cognito'
+  ( <https://aws.amazon.com/es/cognito/>).
+date_publication: '2020-04-15'
+bug_reports: https://github.com/chi2labs/cognitoR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=cognitoR
+url_git: ''

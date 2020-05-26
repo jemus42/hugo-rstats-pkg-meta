@@ -1,0 +1,12 @@
+version: 1.0.0
+title: |-
+  Adaptive Association Tests for Multiple Phenotypes using
+  Proportional Odds Model (POM-aSPU)
+maintainer: Junghi Kim
+description: POM-aSPU test evaluates an association between an ordinal response and
+  multiple phenotypes, for details see Kim and Pan (2017) <DOI:10.1002/gepi.22033>.
+date_publication: '2017-06-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=POMaSPU
+url_git: ''

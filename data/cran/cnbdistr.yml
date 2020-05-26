@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Conditional Negative Binomial Distribution
+maintainer: Xiaotian Zhu
+description: Provided R functions for working with the Conditional Negative Binomial
+  distribution.
+date_publication: '2017-07-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cnbdistr
+url_git: ''

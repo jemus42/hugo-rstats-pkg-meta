@@ -1,0 +1,13 @@
+version: '1.1'
+title: |-
+  Calculates the Distance Between Voter and Multiple Polling
+  Locations
+maintainer: Loren Collingwood
+description: Designed to calculate the distance between each voter in a voter file
+  -- given lat/long coordinates -- and many potential (early) polling or vote by mail
+  drop box locations, then return the minimum distance.
+date_publication: '2017-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rvoterdistance
+url_git: ''

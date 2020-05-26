@@ -1,0 +1,13 @@
+version: 1.0.1
+title: Interface to the 'syslog' System Logger
+maintainer: Aaron Jacobs
+description: |-
+  Functions to write messages to the 'syslog' system logger API,
+  available on all 'POSIX'-compatible operating systems. Features include
+  tagging messages with a priority level and application type, as well as
+  masking (hiding) messages below a given priority level.
+date_publication: '2018-07-03'
+bug_reports: https://github.com/atheriel/rsyslog/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rsyslog
+url_git: https://github.com/atheriel/rsyslog

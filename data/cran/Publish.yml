@@ -1,0 +1,14 @@
+version: 2019.12.04
+title: |-
+  Format Output of Various Routines in a Suitable Way for Reports
+  and Publication
+maintainer: Thomas A. Gerds
+description: |-
+  A bunch of convenience functions that transform the results of some basic statistical analyses
+  into table format nearly ready for publication. This includes descriptive tables, tables of
+  logistic regression and Cox regression results as well as forest plots.
+date_publication: '2019-12-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Publish
+url_git: ''

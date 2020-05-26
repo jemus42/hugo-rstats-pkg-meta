@@ -1,0 +1,9 @@
+version: 1.0-1
+title: Parentage analysis
+maintainer: Mark Christie
+description: Parentage analysis using Bayes' theorem
+date_publication: '2013-08-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SOLOMON
+url_git: ''

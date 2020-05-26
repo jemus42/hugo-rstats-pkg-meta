@@ -1,0 +1,11 @@
+version: '0.99'
+title: Estimating Regularized Multi-state Models Using L1 Penalties
+maintainer: Holger Reulen
+description: Structured fusion Lasso penalized estimation of multi-state models with
+  the penalty applied to absolute effects and absolute effect differences (i.e., effects
+  on transition-type specific hazard rates).
+date_publication: '2015-01-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=penMSM
+url_git: ''

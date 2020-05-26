@@ -1,0 +1,12 @@
+version: 0.3.0
+title: '''GeoJSON'' Topology Calculations and Operations'
+maintainer: Scott Chamberlain
+description: |-
+  Tools for doing calculations and manipulations on 'GeoJSON',
+  a 'geospatial' data interchange format (<https://tools.ietf.org/html/rfc7946>).
+  'GeoJSON' is also valid 'JSON'.
+date_publication: '2020-05-17'
+bug_reports: https://github.com/ropensci/geoops/issues
+url: https://docs.ropensci.org/geoops
+url_cran: https://CRAN.R-project.org/package=geoops
+url_git: https://github.com/ropensci/geoops

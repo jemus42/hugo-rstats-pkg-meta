@@ -1,0 +1,9 @@
+version: '0.1'
+title: Feasible Ellipse Overlap
+maintainer: Anna Laksafoss
+description: A small package for determining if n-dimensional ellipses overlap.
+date_publication: '2020-02-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fellov
+url_git: ''

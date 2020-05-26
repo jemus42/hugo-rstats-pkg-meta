@@ -1,0 +1,10 @@
+version: '0.3'
+title: Approximate Path for Penalized Likelihood Estimators
+maintainer: Yi Yu
+description: Approximate Path for Penalized Likelihood Estimators for<U+000a>Generalized
+  Linear Models penalized by LASSO or MCP
+date_publication: '2012-01-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=apple
+url_git: ''

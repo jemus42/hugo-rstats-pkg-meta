@@ -1,0 +1,12 @@
+version: 1.2.1
+title: Conventional and Fuzzy Data Envelopment Analysis
+maintainer: Vicente Bolos
+description: 'Set of functions for Data Envelopment Analysis. It runs both classic
+  and fuzzy DEA models.See: Banker, R.; Charnes, A.; Cooper, W.W. (1984). <doi:10.1287/mnsc.30.9.1078>,
+  Charnes, A.; Cooper, W.W.; Rhodes, E. (1978). <doi:10.1016/0377-2217(78)90138-8>
+  and Charnes, A.; Cooper, W.W.; Rhodes, E. (1981). <doi:10.1287/mnsc.27.6.668>.'
+date_publication: '2020-02-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=deaR
+url_git: ''

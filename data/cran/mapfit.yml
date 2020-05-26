@@ -1,0 +1,12 @@
+version: 0.9.7
+title: A Tool for PH/MAP Parameter Estimation
+maintainer: Hiroyuki Okamura
+description: |-
+  Estimation methods for phase-type
+  distribution (PH) and Markovian arrival process (MAP) from
+  empirical data (point and grouped data) and density function.
+date_publication: '2015-03-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mapfit
+url_git: ''

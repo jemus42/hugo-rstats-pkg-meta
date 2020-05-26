@@ -1,0 +1,14 @@
+version: '1.3'
+title: |-
+  Tools for the Analysis of Gutenberg-Richter Distributions of
+  Earthquake Magnitudes
+maintainer: Daniel C. Amorese
+description: |-
+  Offers functions for the comparison of Gutenberg-Richter
+  b-values. Several functions in GRTo are helpful for the assessment of the
+  quality of seismicity catalogs.
+date_publication: '2015-09-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GRTo
+url_git: ''

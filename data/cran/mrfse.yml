@@ -1,0 +1,11 @@
+version: '0.2'
+title: Markov Random Field Structure Estimator
+maintainer: Rodrigo Carvalho
+description: A Markov random field structure estimator that uses a penalized maximum
+  conditional likelihood method similar to the Bayesian Information Criterion (Frondana,
+  2016) <doi:10.11606/T.45.2018.tde-02022018-151123>.
+date_publication: '2020-04-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mrfse
+url_git: ''

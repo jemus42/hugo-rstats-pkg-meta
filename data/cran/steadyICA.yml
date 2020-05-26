@@ -1,0 +1,18 @@
+version: '1.0'
+title: |-
+  ICA and Tests of Independence via Multivariate Distance
+  Covariance
+maintainer: Benjamin Risk
+description: |-
+  Functions related to multivariate measures of independence and ICA:
+  -estimate independent components by minimizing distance covariance;
+  -conduct a test of mutual independence based on distance covariance;
+  -estimate independent components via infomax (a popular method but generally performs poorer than mdcovica, ProDenICA, and/or fastICA, but is useful for comparisons);
+  -order indepedent components by skewness;
+  -match independent components from multiple estimates;
+  -other functions useful in ICA.
+date_publication: '2015-11-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=steadyICA
+url_git: ''

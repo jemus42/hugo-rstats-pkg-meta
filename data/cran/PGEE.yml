@@ -1,0 +1,10 @@
+version: '1.5'
+title: Penalized Generalized Estimating Equations in High-Dimension
+maintainer: Gul Inan
+description: Fits penalized generalized estimating equations to longitudinal data
+  with high-dimensional covariates.
+date_publication: '2017-04-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PGEE
+url_git: ''

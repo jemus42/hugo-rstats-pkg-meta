@@ -1,0 +1,11 @@
+version: 0.0.3
+title: Permutation Based Non-Parametric Analysis of CRISPR Screen Data
+maintainer: Gaoxiang Jia
+description: |-
+  Permutation based
+  non-parametric analysis of CRISPR screen data. Details about this algorithm are published in the following paper published on BMC genomics, Jia et al. (2017) <doi:10.1186/s12864-017-3938-5>: A permutation-based non-parametric analysis of CRISPR screen data. Please cite this paper if you use this algorithm for your paper.
+date_publication: '2018-05-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PBNPA
+url_git: ''

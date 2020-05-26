@@ -1,0 +1,9 @@
+version: 0.9.4
+title: Formula Interface to the Grammar of Graphics
+maintainer: Randall Pruim
+description: Provides a formula interface to 'ggplot2' graphics.
+date_publication: '2020-03-04'
+bug_reports: https://github.com/ProjectMOSAIC/ggformula/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggformula
+url_git: https://github.com/ProjectMOSAIC/ggformula

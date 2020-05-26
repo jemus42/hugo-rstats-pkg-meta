@@ -1,0 +1,16 @@
+version: 0.1.0
+title: |-
+  Fit a Modified Connor-Mosimann Distribution to Elicited
+  Quantiles in Multinomial Problems
+maintainer: Ed Wilson
+description: |-
+  Fits a modified version of the Connor-Mosimann distribution (Connor & Mosimann (1969)<doi:10.2307/2283728>),
+  a Connor-Mosimann distribution or Dirichlet distribution (e.g. Gelman, Carlin, Stern & Rubin Chapter 3.5 (2004, <ISBN:1-58488-388-X>) to elicited
+  quantiles of a multinomial distribution. Code is also provided to
+  sample from the distributions, generating inputs suitable for a
+  probabilistic sensitivity analysis / Monte Carlo simulation in a decision model.
+date_publication: '2017-10-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=modcmfitr
+url_git: ''

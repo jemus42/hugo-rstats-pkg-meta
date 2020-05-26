@@ -1,0 +1,12 @@
+version: 0.5.3
+title: Rigorous - DICOM Input / Output
+maintainer: Brandon Whitcher
+description: |-
+  Data input/output functions for data that conform to the
+  Digital Imaging and Communications in Medicine (DICOM) standard, part
+  of the Rigorous Analytics bundle.
+date_publication: '2019-10-28'
+bug_reports: ''
+url: http://rig.oro.us.com
+url_cran: https://CRAN.R-project.org/package=oro.dicom
+url_git: ''

@@ -1,0 +1,12 @@
+version: 2.1.1
+title: Judd, McClelland, & Ryan Formatting for ANOVA Output
+maintainer: Jim Stigler
+description: 'Produces ANOVA tables in the format used by Judd, McClelland, and Ryan
+  (2017, ISBN: 978-1138819832) in their introductory textbook, Data Analysis. This
+  includes proportional reduction in error and formatting to improve ease the transition
+  between the book and R.'
+date_publication: '2019-09-26'
+bug_reports: https://github.com/UCLATALL/supernova/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=supernova
+url_git: https://github.com/UCLATALL/supernova

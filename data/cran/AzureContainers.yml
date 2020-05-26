@@ -1,0 +1,16 @@
+version: 1.3.0
+title: |-
+  Interface to 'Container Instances', 'Docker Registry' and
+  'Kubernetes' in 'Azure'
+maintainer: Hong Ooi
+description: 'An interface to container functionality in Microsoft''s ''Azure'' cloud:
+  <https://azure.microsoft.com/en-us/overview/containers/>. Manage ''Azure Container
+  Instance'' (ACI), ''Azure Container Registry'' (ACR) and ''Azure Kubernetes Service''
+  (AKS) resources, push and pull images, and deploy services. On the client side,
+  lightweight shells to the ''docker'', ''docker-compose'', ''kubectl'' and ''helm''
+  commandline tools are provided. Part of the ''AzureR'' family of packages.'
+date_publication: '2020-05-06'
+bug_reports: https://github.com/Azure/AzureContainers/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=AzureContainers
+url_git: https://github.com/Azure/AzureContainershttps://github.com/Azure/AzureR

@@ -1,0 +1,17 @@
+version: 0.1.8
+title: Store and Operate with Arbitrarily Large Integers
+maintainer: Javier Leiva Cuadrado
+description: |-
+  Multi-precision library that allows to store and operate with arbitrarily big integers without
+  loss of precision. It includes a large list of tools to work with them, like:
+  - Arithmetic and logic operators
+  - Modular-arithmetic operators
+  - Computer Number Theory utilities
+  - Probabilistic primality tests
+  - Factorization algorithms
+  - Random generators of diferent types of integers.
+date_publication: '2020-01-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=VeryLargeIntegers
+url_git: ''

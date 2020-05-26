@@ -1,0 +1,10 @@
+version: 1.0.0
+title: Mediterranean Forest Simulation
+maintainer: Miquel De Cáceres
+description: Functions to simulate Mediterranean forest functioning and dynamics using
+  cohort-based description of vegetation [De Caceres et al. (2015) <doi:10.1016/j.agrformet.2015.06.012>].
+date_publication: '2020-05-17'
+bug_reports: ''
+url: https://vegmod.github.io/software/medfate
+url_cran: https://CRAN.R-project.org/package=medfate
+url_git: ''

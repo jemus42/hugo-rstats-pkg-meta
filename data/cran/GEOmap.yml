@@ -1,0 +1,11 @@
+version: 2.4-4
+title: Topographic and Geologic Mapping
+maintainer: Jonathan M. Lees
+description: Set of routines for making Map Projections (forward and inverse), Topographic
+  Maps, Perspective plots, Geological Maps, geological map symbols, geological databases,
+  interactive plotting and selection of focus regions.
+date_publication: '2018-01-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GEOmap
+url_git: ''

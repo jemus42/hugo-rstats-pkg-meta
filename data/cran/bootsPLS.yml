@@ -1,0 +1,15 @@
+version: 1.1.2
+title: |-
+  Bootstrap Subsamplings of Sparse Partial Least Squares -
+  Discriminant Analysis for Classification and Signature
+  Identification
+maintainer: Florian Rohart
+description: Applicable to any classification problem with more than 2 classes. It
+  relies on bootstrap subsamplings of sPLS-DA and provides tools to select the most
+  stable variables (defined as the ones consistently selected over the bootstrap subsamplings)
+  and to predict the class of test samples.
+date_publication: '2018-05-17'
+bug_reports: https://bitbucket.org/FlorianR/package-bootspls/issues
+url: http://florian.rohart.free.fr/Professional_page/Publications.html
+url_cran: https://CRAN.R-project.org/package=bootsPLS
+url_git: ''

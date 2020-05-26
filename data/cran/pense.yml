@@ -1,0 +1,13 @@
+version: 1.2.9
+title: Penalized Elastic Net S/MM-Estimator of Regression
+maintainer: David Kepplinger
+description: |-
+  Robust penalized elastic net S and MM estimator for linear
+  regression. The method is described in detail in
+  Cohen Freue, G. V., Kepplinger, D., Salibian-Barrera, M., and Smucler, E.
+  (2017) <https://gcohenfr.github.io/pdfs/PENSE_manuscript.pdf>.
+date_publication: '2020-02-09'
+bug_reports: https://github.com/dakep/pense-rpkg/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pense
+url_git: https://github.com/dakep/pense-rpkg

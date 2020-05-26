@@ -1,0 +1,15 @@
+version: 1.8.5
+title: Large, Sparse Optimal Matching with Refined Covariate Balance
+maintainer: Samuel D. Pimentel
+description: |-
+  Tools for large, sparse optimal matching of treated units
+  and control units in observational studies.  Provisions are
+  made for refined covariate balance constraints, which include
+  fine and near-fine balance as special cases.  Matches are
+  optimal in the sense that they are computed as solutions to
+  network optimization problems rather than greedy algorithms.
+date_publication: '2017-11-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rcbalance
+url_git: ''

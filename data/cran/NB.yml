@@ -1,0 +1,12 @@
+version: '0.9'
+title: |-
+  Maximum Likelihood method in estimating effective population
+  size from genetic data
+maintainer: Tin-Yu Hui
+description: Estimate the effective population size of a closed population using genetic
+  data collected from two or more data points.
+date_publication: '2014-10-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NB
+url_git: ''

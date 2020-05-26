@@ -1,0 +1,17 @@
+version: 0.5.0
+title: |-
+  Easy Interface to the Statistical Disclosure Control Package
+  'sdcTable'
+maintainer: Øyvind Langsrud
+description: |-
+  The main function, ProtectTable(), performs table suppression according to a
+  frequency rule with a data set as the only required input. Within this function,
+  protectTable(), protectLinkedTables() or runArgusBatchFile() in package 'sdcTable' is called.
+  Lists of level-hierarchy (parameter 'dimList') and other required input to these functions
+  are created automatically.
+  The function, PTgui(), starts a graphical user interface based on the shiny package.
+date_publication: '2020-04-04'
+bug_reports: https://github.com/statisticsnorway/easySdcTable/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=easySdcTable
+url_git: https://github.com/statisticsnorway/easySdcTable

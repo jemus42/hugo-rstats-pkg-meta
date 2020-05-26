@@ -1,0 +1,12 @@
+version: 1.1.0
+title: Continuous Threshold Expectile Regression
+maintainer: Feipeng Zhang
+description: |-
+  Estimation and inference methods for the continuous threshold expectile regression.
+  It can fit the continuous threshold expectile regression and test the existence of change point,
+  for the paper, "Feipeng Zhang and Qunhua Li (2016). A continuous threshold expectile regression, submitted."
+date_publication: '2016-11-10'
+bug_reports: ''
+url: https://arxiv.org/abs/1611.02609
+url_cran: https://CRAN.R-project.org/package=cthreshER
+url_git: ''

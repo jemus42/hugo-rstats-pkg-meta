@@ -1,0 +1,13 @@
+version: 1.1.1
+title: |-
+  Cox Regression (Proportional Hazards Model) with Multiple Causes
+  and Mixed Effects
+maintainer: Jing Peng
+description: A high performance package estimating Cox Model when an even has more
+  than one causes. It also supports random and fixed effects, tied events, and time-varying
+  variables.
+date_publication: '2015-10-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CoxPlus
+url_git: ''

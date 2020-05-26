@@ -1,0 +1,14 @@
+version: '0.1'
+title: |-
+  Markov Modulated Poisson Process for Unsupervised Event
+  Detection in Time Series of Counts
+maintainer: Peter Landwehr
+description: |-
+  Time-series of count data occur in many different contexts. A
+  Markov-modulated Poisson process provides a framework for detecting
+  anomalous events using an unsupervised learning approach.
+date_publication: '2016-01-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mmppr
+url_git: ''

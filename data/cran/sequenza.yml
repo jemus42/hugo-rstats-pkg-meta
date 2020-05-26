@@ -1,0 +1,13 @@
+version: 3.0.0
+title: Copy Number Estimation from Tumor Genome Sequencing Data
+maintainer: Francesco Favero
+description: |-
+  Tools to analyze genomic sequencing data from
+  paired normal-tumor samples, including cellularity and ploidy estimation; mutation
+  and copy number (allele-specific and total copy number) detection, quantification
+  and visualization.
+date_publication: '2019-05-09'
+bug_reports: https://bitbucket.org/sequenzatools/sequenza/issues
+url: https://sequenzatools.bitbucket.io
+url_cran: https://CRAN.R-project.org/package=sequenza
+url_git: ''

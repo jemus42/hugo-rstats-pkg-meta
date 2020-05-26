@@ -1,0 +1,11 @@
+version: 0.3.3
+title: Estimating oncogenetic trees
+maintainer: Aniko Szabo
+description: |-
+  Contains functions to construct and evaluate directed tree structures that
+  model the process of occurrence of genetic alterations during carcinogenesis.
+date_publication: '2013-12-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Oncotree
+url_git: ''

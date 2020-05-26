@@ -1,0 +1,11 @@
+version: 0.0.1
+title: An R Wrapper to the 'ICNDb' API
+maintainer: Brandon Greenwell
+description: |-
+  An R wrapper to the 'Internet Chuck Norris database' ('ICNDb') API for
+  generating random Chuck Norris facts.
+date_publication: '2018-09-16'
+bug_reports: https://github.com/bgreenwell/roundhouse/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=roundhouse
+url_git: ttps://github.com/bgreenwell/roundhouse

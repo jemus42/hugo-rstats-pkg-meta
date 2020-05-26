@@ -1,0 +1,17 @@
+version: 0.4.3
+title: Recommender System using Matrix Factorization
+maintainer: Yixuan Qiu
+description: |-
+  R wrapper of the 'libmf' library
+  <http://www.csie.ntu.edu.tw/~cjlin/libmf/> for recommender
+  system using matrix factorization. It is typically used to
+  approximate an incomplete matrix using the product of two
+  matrices in a latent space. Other common names for this task
+  include "collaborative filtering", "matrix completion",
+  "matrix recovery", etc. High performance multi-core parallel
+  computing is supported in this package.
+date_publication: '2020-05-18'
+bug_reports: https://github.com/yixuan/recosystem/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=recosystem
+url_git: https://github.com/yixuan/recosystem

@@ -1,0 +1,14 @@
+version: 0.1.2
+title: '''tint'' is not ''Tufte'''
+maintainer: Dirk Eddelbuettel
+description: |-
+  A 'tufte'-alike style for 'rmarkdown'.
+  A modern take on the 'Tufte' design for pdf and html vignettes,
+  building on the 'tufte' package with additional contributions
+  from the 'knitr' and 'ggtufte' package, and also acknowledging
+  the key influence of 'envisioned css'.
+date_publication: '2019-04-19'
+bug_reports: https://github.com/eddelbuettel/tint/issues
+url: http://dirk.eddelbuettel.com/code/tint.html
+url_cran: https://CRAN.R-project.org/package=tint
+url_git: ''

@@ -1,0 +1,11 @@
+version: 1.0-8
+title: Quality Control of Genome Wide Association Study results
+maintainer: Peter J. van der Most
+description: |-
+  Tools for (automated and manual) quality control of
+  the results of Genome Wide Association Studies
+date_publication: '2014-02-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=QCGWAS
+url_git: ''

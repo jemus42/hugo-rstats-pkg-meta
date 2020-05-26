@@ -1,0 +1,9 @@
+version: '1.5'
+title: Interactive Q-Learning
+maintainer: Kristin A. Linn
+description: Estimate an optimal dynamic treatment regime using Interactive Q-learning.
+date_publication: '2018-05-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=iqLearn
+url_git: ''

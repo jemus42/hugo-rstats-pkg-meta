@@ -1,0 +1,13 @@
+version: 0.1-12
+title: Mailmerge using R, LaTeX, and the Web
+maintainer: Ryan T. Moore
+description: Provides mailmerge methods for reading spreadsheets of addresses and
+  other relevant information to create standardized but customizable letters.  Provides
+  a method for mapping US ZIP codes, including those of letter recipients.  Provides
+  a method for parsing and processing html code from online job postings of the American
+  Political Science Association.
+date_publication: '2019-12-06'
+bug_reports: ''
+url: http://www.ryantmoore.org/software.murl.html
+url_cran: https://CRAN.R-project.org/package=muRL
+url_git: ''

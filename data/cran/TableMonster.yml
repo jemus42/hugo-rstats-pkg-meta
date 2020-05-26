@@ -1,0 +1,11 @@
+version: '1.7'
+title: Table Monster
+maintainer: Grant Izmirlian Jr
+description: |-
+  Provides a user friendly interface to
+  generation of booktab style tables using 'xtable'.
+date_publication: '2018-04-26'
+bug_reports: ''
+url: <https://www.youtube.com/watch?v=CM1TaNVnh58>
+url_cran: https://CRAN.R-project.org/package=TableMonster
+url_git: ''

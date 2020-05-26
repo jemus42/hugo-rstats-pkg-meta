@@ -1,0 +1,12 @@
+version: '1.0'
+title: Imputing Dropout Events in Single-Cell RNA-Sequencing Data
+maintainer: Il-Youp Kwak
+description: R codes for imputing dropout events. Many statistical methods in cell
+  type identification, visualization and lineage reconstruction do not account for
+  dropout events ('PCAreduce', 'SC3', 'PCA', 't-SNE', 'Monocle', 'TSCAN', etc). 'DrImpute'
+  can improve the performance of such software by imputing dropout events.
+date_publication: '2017-07-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DrImpute
+url_git: https://github.com/ikwak2/DrImpute

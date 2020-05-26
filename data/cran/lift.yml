@@ -1,0 +1,10 @@
+version: 0.0.2
+title: Compute the Top Decile Lift and Plot the Lift Curve
+maintainer: Steven Hoornaert
+description: Compute the top decile lift and plot the lift curve. Cumulative lift
+  curves are also supported.
+date_publication: '2015-10-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lift
+url_git: ''

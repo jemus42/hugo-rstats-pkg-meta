@@ -1,0 +1,11 @@
+version: '0.3'
+title: Latent Variable Models for Networks
+maintainer: Isabella Gollini
+description: |-
+  Latent variable models for network data using fast inferential
+  procedures. For more information please visit: <http://igollini.github.io/lvm4net/>.
+date_publication: '2019-06-13'
+bug_reports: http://github.com/igollini/lvm4net/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=lvm4net
+url_git: http://github.com/igollini/lvm4net

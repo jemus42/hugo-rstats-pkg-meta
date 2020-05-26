@@ -1,0 +1,9 @@
+version: '1.7'
+title: Graphical User Interface for FactoMineR
+maintainer: Francois Husson
+description: Rcmdr Plugin for the 'FactoMineR' package.
+date_publication: '2020-02-03'
+bug_reports: ''
+url: http://factominer.free.fr/graphs/RcmdrPlugin.html
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.FactoMineR
+url_git: ''

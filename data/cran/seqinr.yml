@@ -1,0 +1,14 @@
+version: 3.6-1
+title: Biological Sequences Retrieval and Analysis
+maintainer: Simon Penel
+description: |-
+  Exploratory data analysis and data visualization
+  for biological sequence (DNA and protein) data. Seqinr includes
+  utilities for sequence data management under the ACNUC system
+  described in Gouy, M. et al. (1984) Nucleic Acids Res.
+  12:121-127 <doi:10.1093/nar/12.1Part1.121>.
+date_publication: '2019-09-07'
+bug_reports: http://lists.r-forge.r-project.org/cgi-bin/mailman/listinfo/seqinr-forum
+url: ''
+url_cran: https://CRAN.R-project.org/package=seqinr
+url_git: http://seqinr.r-forge.r-project.org/

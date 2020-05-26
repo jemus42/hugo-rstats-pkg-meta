@@ -1,0 +1,14 @@
+version: '1.0'
+title: Correlation Coefficients for Information Retrieval
+maintainer: Julián Urbano
+description: |-
+  Provides implementation of various correlation coefficients of common use in
+  Information Retrieval. In particular, it includes Kendall (1970, isbn:0852641990) tau coefficient
+  as well as tau_a and tau_b for the treatment of ties. It also includes Yilmaz et al. (2008)
+  <doi:10.1145/1390334.1390435> tauAP correlation coefficient, and versions tauAP_a and tauAP_b
+  developed by Urbano and Marrero (2017) <doi:10.1145/3121050.3121106> to cope with ties.
+date_publication: '2017-08-21'
+bug_reports: https://github.com/julian-urbano/ircor/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ircor
+url_git: https://github.com/julian-urbano/ircor/

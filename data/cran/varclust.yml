@@ -1,0 +1,14 @@
+version: 0.9.4
+title: Variables Clustering
+maintainer: Piotr Sobczyk
+description: |-
+  Performs clustering of quantitative variables,
+  assuming that clusters lie in low-dimensional subspaces. Segmentation of
+  variables, number of clusters and their dimensions are selected based on
+  BIC. Candidate models are identified based on many runs of K-means
+  algorithm with different random initializations of cluster centers.
+date_publication: '2019-06-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=varclust
+url_git: ''

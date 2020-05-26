@@ -1,0 +1,11 @@
+version: 8.0.1
+title: R Interface to LINDO API
+maintainer: Zhe Liu<zliu@lindo.com>
+description: An interface to LINDO API. Supports Linear, Integer, Quadratic, Conic,
+  General Nonlinear, Global, and Stochastic Programming models. To download the trial
+  version LINDO API, please visit www.lindo.com/rlindo.
+date_publication: '2013-08-12'
+bug_reports: ''
+url: www.lindo.com/rlindo
+url_cran: https://CRAN.R-project.org/package=rLindo
+url_git: ''

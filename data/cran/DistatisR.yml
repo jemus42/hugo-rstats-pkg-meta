@@ -1,0 +1,11 @@
+version: 1.0.1
+title: DiSTATIS Three Way Metric Multidimensional Scaling
+maintainer: Derek Beaton
+description: Implement DiSTATIS and CovSTATIS (three-way multidimensional scaling).
+  For the  analysis of  multiple distance/covariance matrices collected on the same
+  set of observations.
+date_publication: '2019-01-31'
+bug_reports: ''
+url: www.utdallas.edu/~herve
+url_cran: https://CRAN.R-project.org/package=DistatisR
+url_git: ''

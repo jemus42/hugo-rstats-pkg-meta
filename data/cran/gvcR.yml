@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Genotypic Variance Components
+maintainer: Muhammad Yaseen
+description: Functionalities to compute model based genetic components i.e. genotypic
+  variance, phenotypic variance and heritability for given traits of different genotypes
+  from replicated data using methodology explained by Burton, G. W. & Devane, E. H.
+  (1953) (<doi:10.2134/agronj1953.00021962004500100005x>) and Allard, R.W. (2010,
+  ISBN:8126524154).
+date_publication: '2018-02-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gvcR
+url_git: https://github.com/MYaseen208/gvcR

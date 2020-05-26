@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Utilities Parsing 'HMMER' Results
+maintainer: Zebulun Arendsee
+description: |2-
+
+  'HMMER' is a profile hidden Markov model tool used primarily for sequence
+  analysis in bioinformatics (<http://hmmer.org/>). 'rhmmer' provides
+  utilities for parsing the 'HMMER' output into tidy data frames.
+date_publication: '2017-12-19'
+bug_reports: https://github.com/arendsee/rhmmer/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rhmmer
+url_git: https://github.com/arendsee/rhmmer

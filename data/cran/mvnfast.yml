@@ -1,0 +1,14 @@
+version: 0.2.5
+title: Fast Multivariate Normal and Student's t Methods
+maintainer: Matteo Fasiolo
+description: |-
+  Provides computationally efficient tools related to
+  the multivariate normal and Student's t distributions. The main functionalities are:
+  simulating multivariate random vectors, evaluating multivariate
+  normal or Student's t densities and Mahalanobis distances. These tools are very efficient
+  thanks to the use of C++ code and of the OpenMP API.
+date_publication: '2018-01-31'
+bug_reports: ''
+url: www.sitmo.com
+url_cran: https://CRAN.R-project.org/package=mvnfast
+url_git: https://github.com/mfasiolo/mvnfast

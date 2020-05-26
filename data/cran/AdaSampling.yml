@@ -1,0 +1,13 @@
+version: '1.3'
+title: |-
+  Adaptive Sampling for Positive Unlabeled and Label Noise
+  Learning
+maintainer: Pengyi Yang
+description: Implements the adaptive sampling procedure, a framework for both positive
+  unlabeled learning and learning with class label noise. Yang, P., Ormerod, J., Liu,
+  W., Ma, C., Zomaya, A., Yang, J. (2018) <doi:10.1109/TCYB.2018.2816984>.
+date_publication: '2019-05-21'
+bug_reports: https://github.com/PengyiYang/AdaSampling/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=AdaSampling
+url_git: https://github.com/PengyiYang/AdaSampling/

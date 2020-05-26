@@ -1,0 +1,12 @@
+version: 0.1.2
+title: A Minimum-Dependency 'R' Interface to the 'NHL' API
+maintainer: Jozef Hajnala
+description: Retrieves and processes the data exposed by the open 'NHL' API. This
+  includes information on players, teams, games, tournaments, drafts, standings, schedules
+  and other endpoints. A lower-level interface to access the data via URLs directly
+  is also provided.
+date_publication: '2020-05-25'
+bug_reports: https://github.com/jozefhajnala/nhlapi/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=nhlapi
+url_git: https://github.com/jozefhajnala/nhlapi

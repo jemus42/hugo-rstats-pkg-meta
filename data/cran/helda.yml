@@ -1,0 +1,15 @@
+version: 1.1.1
+title: |-
+  Preprocess Data and Get Better Insights from Machine Learning
+  Models
+maintainer: Simon Corde
+description: |-
+  The main focus is on preprocessing and data visualization of machine learning models performances.
+  Some functions allow to fill in gaps in time series using linear interpolation on panel data, some functions
+  permit to draw lift effect and lift curve in order to benchmark machine learning models or you can even find
+  the optimal number of clusters in agglomerative clustering algorithm.
+date_publication: '2020-05-14'
+bug_reports: https://github.com/Redcart/helda/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=helda
+url_git: https://www.github.com/Redcart/helda

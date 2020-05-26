@@ -1,0 +1,15 @@
+version: 0.5.0
+title: Determine Position of Observer
+maintainer: Mathias Milfeldt
+description: |-
+  Measuring angles between points in a landscape is much easier
+  than measuring distances. When the location of three points is known the
+  position of the observer can be determined based solely on the angles between
+  these points as seen by the observer. This task (known as triangulation)
+  however requires onerous calculations - these calculations are automated by this
+  package.
+date_publication: '2016-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=triangulation
+url_git: ''

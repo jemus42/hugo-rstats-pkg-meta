@@ -1,0 +1,18 @@
+version: 0.1.1
+title: |-
+  Fast Spline Function Based Constrained Maximum Likelihood
+  Estimator for AUC Estimation of Interval Censored Survival Data
+maintainer: Jiaxing Lin<jiaxing.lin@duke.edu>
+description: The kernel of this 'Rcpp' based package is an efficient implementation
+  of the generalized gradient projection method for spline function based constrained
+  maximum likelihood estimator for interval censored survival data (Wu, Yuan; Zhang,
+  Ying. Partially monotone tensor spline estimation of the joint distribution function
+  with bivariate current status data. Ann. Statist. 40, 2012, 1609-1636 <doi:10.1214/12-AOS1016>).
+  The key function computes the density function of the joint distribution of event
+  time and the marker and returns the receiver operating characteristic (ROC) curve
+  for the interval censored survival data as well as area under the curve (AUC).
+date_publication: '2018-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=intcensROC
+url_git: https://bitbucket.org/impactp01/intcensroc

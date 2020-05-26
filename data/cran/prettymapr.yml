@@ -1,0 +1,14 @@
+version: 0.2.2
+title: Scale Bar, North Arrow, and Pretty Margins in R
+maintainer: Dewey Dunnington
+description: |-
+  Automates the process of creating a scale bar and north arrow in
+  any package that uses base graphics to plot in R. Bounding box tools help find
+  and manipulate extents. Finally, there is a function to automate the process
+  of setting margins, plotting the map, scale bar, and north arrow, and resetting
+  graphic parameters upon completion.
+date_publication: '2017-09-20'
+bug_reports: https://github.com/paleolimbot/prettymapr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=prettymapr
+url_git: https://github.com/paleolimbot/prettymapr

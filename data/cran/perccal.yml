@@ -1,0 +1,14 @@
+version: '1.0'
+title: |-
+  Implementing Double Bootstrap Linear Regression Confidence
+  Intervals Using the 'perc-cal' Method
+maintainer: Daniel McCarthy
+description: Contains functions which allow the user to compute confidence intervals
+  quickly using the double bootstrap-based percentile calibrated ('perc-cal') method
+  for linear regression coefficients. 'perccal_interval()' is the primary user-facing
+  function within this package.
+date_publication: '2016-06-14'
+bug_reports: ''
+url: http://www.danielminhmccarthy.com
+url_cran: https://CRAN.R-project.org/package=perccal
+url_git: ''

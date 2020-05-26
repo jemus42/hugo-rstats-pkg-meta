@@ -1,0 +1,12 @@
+version: 0.2.2
+title: Distributions for Ecological Models in 'nimble'
+maintainer: Benjamin R. Goldstein
+description: |-
+  Common ecological distributions for 'nimble' models in the form of nimbleFunction objects.
+  Includes Cormack-Jolly-Seber, occupancy, dynamic occupancy, hidden Markov, dynamic hidden Markov, and N-mixture models.
+  (Jolly (1965) <DOI: 10.2307/2333826>, Seber (1965) <DOI: 10.2307/2333827>, Turek et al. (2016) <doi:10.1007/s10651-016-0353-z>).
+date_publication: '2020-05-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nimbleEcology
+url_git: https://github.com/nimble-dev/nimbleEcology

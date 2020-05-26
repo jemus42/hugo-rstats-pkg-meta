@@ -1,0 +1,11 @@
+version: '3.0'
+title: Thematic Maps
+maintainer: Martijn Tennekes
+description: Thematic maps are geographical maps in which spatial data distributions
+  are visualized. This package offers a flexible, layer-based, and easy to use approach
+  to create thematic maps, such as choropleths and bubble maps.
+date_publication: '2020-04-09'
+bug_reports: https://github.com/mtennekes/tmap/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tmap
+url_git: https://github.com/mtennekes/tmap

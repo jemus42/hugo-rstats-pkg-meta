@@ -1,0 +1,13 @@
+version: 0.1-2
+title: Modelling and Forecasting Biological Invasions
+maintainer: Luca Butikofer
+description: |-
+  Analysing and forecasting biological invasions time series
+  with a stochastic, non-mechanistic approach that gives proper weight
+  to the anthropic component, accounts for habitat suitability and
+  provides measures of precision for its estimates.
+date_publication: '2018-01-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Biolinv
+url_git: ''

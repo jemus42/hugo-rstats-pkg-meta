@@ -1,0 +1,12 @@
+version: 0.95-1
+title: Critical Line Algorithm in Pure R
+maintainer: Martin Maechler
+description: |-
+  Implements 'Markovitz' Critical Line Algorithm ('CLA') for classical
+  mean-variance portfolio optimization, see Markovitz (1952) <doi:10.2307/2975974>.
+  Care has been taken for correctness in light of previous buggy implementations.
+date_publication: '2019-05-11'
+bug_reports: ''
+url: https://gitlab.math.ethz.ch/maechler/CLA/
+url_cran: https://CRAN.R-project.org/package=CLA
+url_git: ''

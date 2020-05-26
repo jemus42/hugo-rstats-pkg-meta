@@ -1,0 +1,12 @@
+version: 1.5.0
+title: IUCN Redlisting Tools
+maintainer: Pedro Cardoso
+description: |-
+  Includes algorithms to facilitate the assessment of extinction
+  risk of species according to the IUCN (International Union for Conservation of
+  Nature, see <http://www.iucn.org> for more information) red list criteria.
+date_publication: '2020-05-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=red
+url_git: ''

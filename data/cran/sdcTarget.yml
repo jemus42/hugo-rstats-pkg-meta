@@ -1,0 +1,11 @@
+version: 0.9-11
+title: Statistical Disclosure Control Substitution Matrix Calculator
+maintainer: Emmanuel Lazaridis
+description: |-
+  Classes and methods to calculate and evaluate target matrices for
+  statistical disclosure control.
+date_publication: '2014-11-03'
+bug_reports: ''
+url: http://statistics.lazaridis.eu
+url_cran: https://CRAN.R-project.org/package=sdcTarget
+url_git: ''

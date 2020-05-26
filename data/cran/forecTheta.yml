@@ -1,0 +1,12 @@
+version: '2.2'
+title: Forecasting Time Series by Theta Models
+maintainer: Jose Augusto Fiorucci
+description: Routines for forecasting univariate time series using Theta Models. Contains
+  several cross-validation routines.
+date_publication: '2016-05-26'
+bug_reports: |-
+  Send an email for <jafiorucci@gmail.com> with title
+  'forecTheta Bug'
+url: http://arxiv.org/abs/1503.03529
+url_cran: https://CRAN.R-project.org/package=forecTheta
+url_git: ''

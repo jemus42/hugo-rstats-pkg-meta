@@ -1,0 +1,12 @@
+version: 2.0.1
+title: Visually Exploring Random Forests
+maintainer: John Ehrlinger
+description: |-
+  Graphic elements for exploring Random Forests using the 'randomForest' or
+  'randomForestSRC' package for survival, regression and classification forests and
+  'ggplot2' package plotting.
+date_publication: '2016-09-07'
+bug_reports: https://github.com/ehrlinger/ggRandomForests/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggRandomForests
+url_git: https://github.com/ehrlinger/ggRandomForests

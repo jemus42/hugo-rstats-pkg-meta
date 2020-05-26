@@ -1,0 +1,12 @@
+version: '2.13'
+title: Search and Retrieve Scientific Publication Records from PubMed
+maintainer: Damiano Fantini
+description: Query NCBI Entrez and retrieve PubMed records in XML or text format.
+  Process PubMed records by extracting and aggregating data from selected fields.
+  A large number of records can be easily downloaded via this simple-to-use interface
+  to the NCBI PubMed API.
+date_publication: '2019-03-29'
+bug_reports: ''
+url: https://www.data-pulse.com/dev_site/easypubmed/
+url_cran: https://CRAN.R-project.org/package=easyPubMed
+url_git: ''

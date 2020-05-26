@@ -1,0 +1,12 @@
+version: 0.1-4
+title: Parameter estimation in conditional GEE for recurrent event gap<U+000a>times
+maintainer: David Clement
+description: Solves for the mean parameters, the variance parameter, and their asymptotic
+  variance in a conditional GEE for recurrent event gap times, as described by Clement
+  and Strawderman (2009) in the journal Biostatistics. Makes a parametric assumption
+  for the length of the censored gap time.
+date_publication: '2013-08-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=condGEE
+url_git: ''

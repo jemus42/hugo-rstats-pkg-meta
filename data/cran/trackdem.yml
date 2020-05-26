@@ -1,0 +1,14 @@
+version: 0.5.2
+title: Particle Tracking and Demography
+maintainer: Marjolein Bruijning
+description: Obtain population density and body size structure, using video material
+  or image sequences as input. Functions assist in the creation of image sequences
+  from videos, background detection and subtraction, particle identification and tracking.
+  An artificial neural network can be trained for noise filtering. The goal is to
+  supply accurate estimates of population size, structure and/or individual behavior,
+  for use in  evolutionary and ecological studies.
+date_publication: '2020-02-27'
+bug_reports: https://github.com/marjoleinbruijning/trackdem/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=trackdem
+url_git: https://github.com/marjoleinbruijning/trackdem

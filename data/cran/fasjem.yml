@@ -1,0 +1,19 @@
+version: 1.1.2
+title: |-
+  A Fast and Scalable Joint Estimator for Learning Multiple
+  Related Sparse Gaussian Graphical Models
+maintainer: Beilun Wang
+description: This is an R implementation of "A Fast and Scalable Joint Estimator for
+  Learning Multiple Related Sparse Gaussian Graphical Models" (FASJEM). The FASJEM
+  algorithm can be used to estimate multiple related precision matrices. For instance,
+  it can identify context-specific gene networks from multi-context gene expression
+  datasets. By performing data-driven network inference from high-dimensional and
+  heterogonous data sets, this tool  can help users effectively translate aggregated
+  data into knowledge that take the form of graphs among entities. Please run demo(fasjem)
+  to learn the basic functions provided by this package. For more details, please
+  see <http://proceedings.mlr.press/v54/wang17e/wang17e.pdf>.
+date_publication: '2017-08-01'
+bug_reports: https://github.com/QData/JEM
+url: ''
+url_cran: https://CRAN.R-project.org/package=fasjem
+url_git: https://github.com/QData/JEM

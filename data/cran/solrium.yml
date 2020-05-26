@@ -1,0 +1,14 @@
+version: 1.1.4
+title: General Purpose R Interface to 'Solr'
+maintainer: Scott Chamberlain
+description: |-
+  Provides a set of functions for querying and parsing data
+  from 'Solr' (<https://lucene.apache.org/solr>) 'endpoints' (local and
+  remote), including search, 'faceting', 'highlighting', 'stats', and
+  'more like this'. In addition, some functionality is included for
+  creating, deleting, and updating documents in a 'Solr' 'database'.
+date_publication: '2019-11-02'
+bug_reports: https://github.com/ropensci/solrium/issues
+url: https://docs.ropensci.org/solrium/(usermanual)
+url_cran: https://CRAN.R-project.org/package=solrium
+url_git: https://github.com/ropensci/solrium(devel)

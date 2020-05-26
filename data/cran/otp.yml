@@ -1,0 +1,14 @@
+version: 0.1.0
+title: One Time Password Generation and Verification
+maintainer: Randy Lai
+description: |-
+  Generating and validating One-time Password based on
+  Hash-based Message Authentication Code (HOTP)
+  and Time Based One-time Password (TOTP)
+  according to RFC 4226 <https://tools.ietf.org/html/rfc4226> and
+  RFC 6238 <https://tools.ietf.org/html/rfc6238>.
+date_publication: '2020-05-05'
+bug_reports: https://github.com/randy3k/otp/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=otp
+url_git: https://github.com/randy3k/otp

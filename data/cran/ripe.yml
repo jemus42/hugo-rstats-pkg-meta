@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Rerun 'Magrittr' Pipelines
+maintainer: Jonathan Sidi
+description: |-
+  Functions in a 'magrittr' pipeline are evaluated sequentially making it
+  impossible to rerun them directly from the end of the pipeline, while preserving
+  stochastic characteristics embedded within the pipeline. This package
+  allows the user to rerun pipelines using natural 'magrittr' syntax.
+date_publication: '2019-12-06'
+bug_reports: https://github.com/yonicd/ripe/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ripe
+url_git: https://github.com/yonicd/ripe

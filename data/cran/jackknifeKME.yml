@@ -1,0 +1,10 @@
+version: '1.2'
+title: Jackknife Estimates of Kaplan-Meier Estimators or Integrals
+maintainer: Hasinur Rahaman Khan
+description: Computing the original and modified jackknife estimates of Kaplan-Meier
+  estimators.
+date_publication: '2015-10-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=jackknifeKME
+url_git: ''

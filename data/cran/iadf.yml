@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Analysis of Intra Annual Density Fluctuations
+maintainer: Konrad Mayer
+description: |-
+  Calculate false ring proportions from data frames of intra annual
+  density fluctuations.
+date_publication: '2020-03-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=iadf
+url_git: ''

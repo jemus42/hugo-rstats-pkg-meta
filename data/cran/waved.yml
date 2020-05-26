@@ -1,0 +1,13 @@
+version: '1.2'
+title: Wavelet Deconvolution
+maintainer: Michael Stewart
+description: |-
+  Makes available code necessary to reproduce figures and
+  tables in papers on the WaveD method for wavelet deconvolution
+  of noisy signals as presented in The WaveD Transform in R,
+  Journal of Statistical Software Volume 21, No. 3, 2007.
+date_publication: '2018-05-29'
+bug_reports: ''
+url: http://www.jstatsoft.org/v21/i02
+url_cran: https://CRAN.R-project.org/package=waved
+url_git: ''

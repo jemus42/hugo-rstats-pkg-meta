@@ -1,0 +1,9 @@
+version: 0.1.0
+title: Circular Drift-Diffusion Model
+maintainer: Yi-Shin Lin
+description: Circular drift-diffusion model for continuous reports.
+date_publication: '2018-06-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CircularDDM
+url_git: ''

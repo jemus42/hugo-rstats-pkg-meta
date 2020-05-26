@@ -1,0 +1,14 @@
+version: 0.3.1
+title: Easily Source Publicly Available Data on Derivatives
+maintainer: Imanuel Costigan
+description: |-
+  Post Global Financial Crisis derivatives reforms have lifted the
+  veil off over-the-counter (OTC) derivative markets. Swap Execution Facilities
+  (SEFs) and Swap Data Repositories (SDRs) now publish data on swaps that are
+  traded on or reported to those facilities (respectively). This package provides
+  you the ability to get this data from supported sources.
+date_publication: '2018-02-10'
+bug_reports: https://github.com/imanuelcostigan/dataonderivatives/issues
+url: https://imanuelcostigan.github.io/dataonderivatives
+url_cran: https://CRAN.R-project.org/package=dataonderivatives
+url_git: https://github.com/imanuelcostigan/dataonderivatives

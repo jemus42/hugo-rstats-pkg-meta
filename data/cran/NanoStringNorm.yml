@@ -1,0 +1,10 @@
+version: 1.2.1
+title: Normalize NanoString miRNA and mRNA Data
+maintainer: Paul Boutros
+description: A set of tools for normalizing, diagnostics and visualization of NanoString
+  nCounter data.
+date_publication: '2017-12-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NanoStringNorm
+url_git: ''

@@ -1,0 +1,14 @@
+version: 1.2.1
+title: Atmospheric Thermodynamics and Visualization
+maintainer: Santos J. González-Rojí
+description: Deals with many computations related to the thermodynamics of atmospheric
+  processes. It includes many functions designed to consider the density of air with
+  varying degrees of water vapour in it, saturation pressures and mixing ratios, conversion
+  of moisture indices, computation of atmospheric states of parcels subject to dry
+  or pseudoadiabatic vertical evolutions and atmospheric instability indices that
+  are routinely used for operational weather forecasts or meteorological diagnostics.
+date_publication: '2018-09-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=aiRthermo
+url_git: ''

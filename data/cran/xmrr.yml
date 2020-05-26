@@ -1,0 +1,11 @@
+version: 1.0.36
+title: Generate XMR Control Chart Data from Time-Series Data
+maintainer: Alex Zanidean
+description: XMRs combine X-Bar control charts and Moving Range control charts. These
+  functions also will recalculate the reference lines when significant change has
+  occurred.
+date_publication: '2018-07-23'
+bug_reports: https://github.com/Zanidean/xmrr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=xmrr
+url_git: ''

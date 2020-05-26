@@ -1,0 +1,15 @@
+version: 0.1.15
+title: |-
+  A User-Friendly Biodiversity Data Cleaning App for the
+  Inexperienced R User
+maintainer: Thiloshon Nagarajah
+description: Provides features to manage the complete workflow for biodiversity data
+  cleaning. Uploading data, gathering input from users (in order to adjust cleaning
+  procedures), cleaning data and finally, generating various reports and several versions
+  of the data. Facilitates user-level data cleaning, designed for the inexperienced
+  R user. T Gueta et al (2018) <doi:10.3897/biss.2.25564>. T Gueta et al (2017) <doi:10.3897/tdwgproceedings.1.20311>.
+date_publication: '2019-04-11'
+bug_reports: https://github.com/bd-R/bdclean/issues
+url: https://bd-r.github.io/The-bdverse/index.html
+url_cran: https://CRAN.R-project.org/package=bdclean
+url_git: https://github.com/bd-R/bdclean

@@ -1,0 +1,11 @@
+version: '1.0'
+title: Ensemble Methods for Multiple Change-Point Detection
+maintainer: Karolos K. Korkas
+description: Implements a segmentation algorithm for multiple change-point detection
+  in univariate time series using the Ensemble Binary Segmentation of Korkas (2020)
+  <arXiv:2003.03649>.
+date_publication: '2020-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=eNchange
+url_git: ''

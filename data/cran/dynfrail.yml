@@ -1,0 +1,14 @@
+version: 0.5.2
+title: Fitting Dynamic Frailty Models with the EM Algorithm
+maintainer: Theodor Adrian Balan
+description: Fits semiparametric dynamic frailty models according to the methodology
+  of Putter and van Houwelingen (2015) <doi:10.1093/biostatistics/kxv002>. Intermediate
+  models, where the frailty is piecewise constant on prespecified intervals, are also
+  supported. The frailty process is taken to have a specific auto-correlation structure,
+  and the supported distributions include gamma, inverse Gaussian, power variance
+  family (PVF) and positive stable.
+date_publication: '2017-10-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dynfrail
+url_git: ''

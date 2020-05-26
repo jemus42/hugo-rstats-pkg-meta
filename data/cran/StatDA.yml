@@ -1,0 +1,10 @@
+version: 1.7.4
+title: Statistical Analysis for Environmental Data
+maintainer: Peter Filzmoser
+description: Several tools are provided for the statistical analysis of environmental
+  data.
+date_publication: '2020-03-10'
+bug_reports: ''
+url: http://cstat.tuwien.ac.at/filz/
+url_cran: https://CRAN.R-project.org/package=StatDA
+url_git: ''

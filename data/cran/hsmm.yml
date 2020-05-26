@@ -1,0 +1,9 @@
+version: '0.4'
+title: Hidden Semi Markov Models
+maintainer: Jan Bulla
+description: A package for computation of hidden semi markov models
+date_publication: '2013-04-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hsmm
+url_git: ''

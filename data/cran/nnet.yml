@@ -1,0 +1,11 @@
+version: 7.3-14
+title: Feed-Forward Neural Networks and Multinomial Log-Linear Models
+maintainer: Brian Ripley
+description: |-
+  Software for feed-forward neural networks with a single
+  hidden layer, and for multinomial log-linear models.
+date_publication: '2020-04-26'
+bug_reports: ''
+url: http://www.stats.ox.ac.uk/pub/MASS4/
+url_cran: https://CRAN.R-project.org/package=nnet
+url_git: ''

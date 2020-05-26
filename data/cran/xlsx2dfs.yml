@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Read and Write 'Excel' Sheets into and from List of Data Frames
+maintainer: Gwang-Jin Kim
+description: Reading and writing sheets of a single 'Excel' file into and from a list
+  of data frames. Eases I/O of tabular data in bioinformatics while keeping them in
+  a human readable format.
+date_publication: '2019-10-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=xlsx2dfs
+url_git: ''

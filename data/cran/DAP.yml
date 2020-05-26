@@ -1,0 +1,11 @@
+version: '1.0'
+title: Discriminant Analysis via Projections
+maintainer: Tianying Wang
+description: An implementation of Discriminant Analysis via Projections (DAP) method
+  for high-dimensional binary classification in the case of unequal covariance matrices.
+  See Irina Gaynanova and Tianying Wang (2018) <arXiv:1711.04817v2>.
+date_publication: '2018-03-05'
+bug_reports: http://github.com/irinagain/DAP/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=DAP
+url_git: http://github.com/irinagain/DAP

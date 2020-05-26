@@ -1,0 +1,13 @@
+version: 0.4.2
+title: Detect Heatwaves and Cold-Spells
+maintainer: Robert W. Schlegel
+description: The different methods of defining and detecting extreme events, known
+  as heatwaves or cold-spells in both air and water temperature data are encompassed
+  within this package. These detection algorithms may be used on non-temperature data
+  as well however, this is not catered for explicitly here as no use of this technique
+  in the literature currently exists.
+date_publication: '2019-12-01'
+bug_reports: https://github.com/robwschlegel/heatwaveR/issues
+url: https://robwschlegel.github.io/heatwaveR/index.html
+url_cran: https://CRAN.R-project.org/package=heatwaveR
+url_git: https://github.com/robwschlegel/heatwaveR

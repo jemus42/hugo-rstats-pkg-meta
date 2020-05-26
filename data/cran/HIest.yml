@@ -1,0 +1,12 @@
+version: '2.0'
+title: Hybrid index estimation
+maintainer: Ben Fitzpatrick
+description: |-
+  Uses likelihood to estimate ancestry and heterozygosity.
+  Evaluates simple hybrid classifications (parentals, F1, F2,
+  backcrosses). Estimates genomic clines.
+date_publication: '2013-02-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HIest
+url_git: ''

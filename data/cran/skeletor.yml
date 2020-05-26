@@ -1,0 +1,14 @@
+version: 1.0.4
+title: An R Package Skeleton Generator
+maintainer: Neal Richardson
+description: |-
+  A tool for bootstrapping new packages with useful defaults,
+  including a test suite outline that passes checks and helpers for running
+  tests, checking test coverage, building vignettes, and more. Package
+  skeletons it creates are set up for pushing your package to
+  'GitHub' and using other hosted services for building and test automation.
+date_publication: '2017-04-09'
+bug_reports: https://github.com/nealrichardson/skeletor/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=skeletor
+url_git: https://github.com/nealrichardson/skeletor

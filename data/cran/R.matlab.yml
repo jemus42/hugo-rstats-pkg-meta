@@ -1,0 +1,12 @@
+version: 3.6.2
+title: Read and Write MAT Files and Call MATLAB from Within R
+maintainer: Henrik Bengtsson
+description: Methods readMat() and writeMat() for reading and writing MAT files.  For
+  user with MATLAB v6 or newer installed (either locally or on a remote host), the
+  package also provides methods for controlling MATLAB (trademark) via R and sending
+  and retrieving data between R and MATLAB.
+date_publication: '2018-09-27'
+bug_reports: https://github.com/HenrikBengtsson/R.matlab/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=R.matlab
+url_git: https://github.com/HenrikBengtsson/R.matlab

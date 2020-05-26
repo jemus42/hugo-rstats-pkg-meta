@@ -1,0 +1,13 @@
+version: 2.3.4
+title: Simulation-Based Random Variable Objects
+maintainer: Joseph Stachelek
+description: |-
+  Implements a simulation-based random variable class and a suite of
+  methods for extracting parts of random vectors, calculating extremes of random
+  vectors, and generating random vectors under a variety of distributions
+  following Kerman and Gelman (2007) <doi:10.1007/s11222-007-9020-4>.
+date_publication: '2020-02-03'
+bug_reports: https://github.com/jsta/rv/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rv
+url_git: https://github.com/jsta/rv

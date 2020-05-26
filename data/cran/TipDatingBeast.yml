@@ -1,0 +1,24 @@
+version: 1.1-0
+title: Using Tip Dates with Phylogenetic Trees in BEAST
+maintainer: Camilo Khatchikian
+description: |-
+  Assists performing tip-dating of phylogenetic trees with BEAST
+  BEAST is a popular software for phylogenetic analysis.
+  The package assists the implementation of various phylogenetic tip-
+  dating tests using BEAST. It contains two main functions.
+  The first one allows preparing date randomization analyses,
+  which assess the temporal signal of a data set.
+  The second function allows performing leave-one-out analyses,
+  which test for the consistency between independent calibration sequences
+  and allow pinpointing those leading to potential bias.
+  The included tutorial provides detailed step-by-step instructions.
+  An expanded description of the package can be found in article:
+  Rieux, A. and Khatchikian, C.E. (2017),
+  TIPDATINGBEAST: an R package to assist the implementation of phylogenetic
+  tip-dating tests using BEAST. Molecular Ecology Resources, 17: 608-613.
+  <onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.12603>.
+date_publication: '2019-10-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TipDatingBeast
+url_git: ''

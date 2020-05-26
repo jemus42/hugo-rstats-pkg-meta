@@ -1,0 +1,14 @@
+version: '1.4'
+title: Estimation of Multivariate Long-Memory Models Parameters
+maintainer: Sophie Achard
+description: |-
+  Computation of an estimation of the long-memory parameters and
+  the long-run covariance matrix using a multivariate model
+  (Lobato (1999) <doi:10.1016/S0304-4076(98)00038-4>; Shimotsu (2007) <doi:10.1016/j.jeconom.2006.01.003>). Two semi-parametric methods are
+  implemented: a Fourier based approach (Shimotsu (2007) <doi:10.1016/j.jeconom.2006.01.003>) and a wavelet based
+  approach (Achard and Gannaz (2016) <doi:10.1111/jtsa.12170>).
+date_publication: '2019-05-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=multiwave
+url_git: ''

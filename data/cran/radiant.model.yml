@@ -1,0 +1,13 @@
+version: 1.3.10
+title: 'Model Menu for Radiant: Business Analytics using R and Shiny'
+maintainer: Vincent Nijs
+description: |-
+  The Radiant Model menu includes interfaces for linear and logistic
+  regression, naive Bayes, neural networks, classification and regression trees,
+  model evaluation, collaborative filtering, decision analysis, and simulation.
+  The application extends the functionality in radiant.data.
+date_publication: '2020-03-24'
+bug_reports: https://github.com/radiant-rstats/radiant.model/issues
+url: https://radiant-rstats.github.io/radiant.model
+url_cran: https://CRAN.R-project.org/package=radiant.model
+url_git: https://github.com/radiant-rstats/radiant.model

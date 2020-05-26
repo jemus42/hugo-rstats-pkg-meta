@@ -1,0 +1,17 @@
+version: 0.1-4
+title: Computation of the MLE for bivariate (interval) censored data
+maintainer: Marloes Maathuis
+description: This package contains functions to compute the<U+000a>nonparametric maximum
+  likelihood estimator (MLE) for the<U+000a>bivariate distribution of (X,Y), when
+  realizations of (X,Y)<U+000a>cannot be observed directly.  To be more precise, we
+  consider<U+000a>the situation where we observe a set of rectangles that are<U+000a>known
+  to contain the unobservable realizations of (X,Y). We<U+000a>compute the MLE based
+  on such a set of rectangles.  The methods<U+000a>can also be used for univariate
+  censored data (see data set<U+000a>'cosmesis'), and for censored data with competing
+  risks (see<U+000a>data set 'menopause').  We also provide functions to visualize<U+000a>the
+  observed data and the MLE.
+date_publication: '2013-04-02'
+bug_reports: ''
+url: http://stat.ethz.ch/~maathuis/
+url_cran: https://CRAN.R-project.org/package=MLEcens
+url_git: ''

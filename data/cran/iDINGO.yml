@@ -1,0 +1,12 @@
+version: 1.0.3
+title: Integrative Differential Network Analysis in Genomics
+maintainer: Caleb A. Class
+description: Fits covariate dependent partial correlation matrices for integrative
+  models to identify differential networks between two groups. The methods are described
+  in Class et. al., (2018) <doi:10.1093/bioinformatics/btx750> and Ha et. al., (2015)
+  <doi:10.1093/bioinformatics/btv406>.
+date_publication: '2019-09-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=iDINGO
+url_git: ''

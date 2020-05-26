@@ -1,0 +1,11 @@
+version: '0.1'
+title: Generate LaTeX sparklines in R
+maintainer: Thomas Leeper
+description: |-
+  Generate syntax for use with the sparklines package for
+  LaTeX.
+date_publication: '2013-06-10'
+bug_reports: ''
+url: http://thomasleeper.com/software.html
+url_cran: https://CRAN.R-project.org/package=sparktex
+url_git: ''

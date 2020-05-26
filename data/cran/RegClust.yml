@@ -1,0 +1,13 @@
+version: '1.0'
+title: Cluster analysis via regression coefficients.
+maintainer: Meredith Ray
+description: This package clusters regression coefficients using the methods of clustering
+  through linear regression models (CLM) (Qin and Self 2006). Maximum likelihood approach
+  is used to infer the parameters for each cluster. Bayesian information criterion
+  (BIC) combined with Bootstrapped maximum volume (BMV) criterion are used to determine
+  the number of clusters.
+date_publication: '2014-02-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RegClust
+url_git: ''

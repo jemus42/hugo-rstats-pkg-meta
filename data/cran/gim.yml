@@ -1,0 +1,13 @@
+version: 0.28.0
+title: Generalized Integration Model
+maintainer: Han Zhang
+description: Implements the generalized integration model, which integrates individual-level
+  data and summary statistics under a generalized linear model framework. It supports
+  continuous and binary outcomes to be modeled by the linear and logistic regression
+  models. For binary outcome, data can be sampled in prospective cohort studies or
+  case-control studies.
+date_publication: '2019-11-04'
+bug_reports: https://github.com/zhangh12/gim/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gim
+url_git: https://github.com/zhangh12/gim

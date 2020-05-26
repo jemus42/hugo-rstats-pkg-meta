@@ -1,0 +1,12 @@
+version: 1.0-10
+title: Tools for Simulation Studies in Parallel
+maintainer: Marius Hofert
+description: |-
+  Tools for setting up ("design"), conducting, and evaluating
+  large-scale simulation studies with graphics and tables, including
+  parallel computations.
+date_publication: '2018-05-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=simsalapar
+url_git: ''

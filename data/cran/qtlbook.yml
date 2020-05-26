@@ -1,0 +1,11 @@
+version: 0.18-8
+title: Datasets for the R/qtl Book
+maintainer: Karl W Broman
+description: |-
+  Datasets for the book, A Guide to QTL Mapping with R/qtl.
+  Broman and Sen (2009) <doi:10.1007/978-0-387-92125-9>.
+date_publication: '2019-06-28'
+bug_reports: https://github.com/kbroman/qtlbook/issues
+url: http://rqtl.org/book
+url_cran: https://CRAN.R-project.org/package=qtlbook
+url_git: https://github.com/kbroman/qtlbook

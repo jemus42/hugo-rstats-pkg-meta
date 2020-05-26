@@ -1,0 +1,11 @@
+version: 3.0.1
+title: An R Package for Smith's Mean Measure of Divergence (MMD)
+maintainer: Frédéric Santos
+description: Offers a graphical user interface for the calculation of the mean measure
+  of divergence, with facilities for trait selection and graphical representations
+  <doi:10.1002/ajpa.23336>.
+date_publication: '2019-07-18'
+bug_reports: https://gitlab.com/f.santos/anthropmmd/issues/new
+url: ''
+url_cran: https://CRAN.R-project.org/package=AnthropMMD
+url_git: https://gitlab.com/f.santos/anthropmmd/

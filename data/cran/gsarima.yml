@@ -1,0 +1,13 @@
+version: 0.1-4
+title: Two functions for Generalized SARIMA time series simulation
+maintainer: Olivier Briet
+description: |-
+  Write SARIMA models in (finite) AR representation and
+  simulate generalized multiplicative seasonal autoregressive
+  moving average (time) series with Normal / Gaussian, Poisson or
+  negative binomial distribution.
+date_publication: '2013-06-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gsarima
+url_git: ''

@@ -1,0 +1,11 @@
+version: 1.1.0
+title: Advanced Gene Set Enrichment Analysis
+maintainer: Cedric Simillion
+description: |-
+  Implements an algorithm to conduct advanced
+  gene set enrichment analysis on the results of genomics experiments.
+date_publication: '2016-05-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SetRank
+url_git: ''

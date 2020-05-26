@@ -1,0 +1,15 @@
+version: 1.0.0
+title: |-
+  Elastic Net and (Adaptive) Lasso Penalized Sparse Asymmetric
+  Least Squares (SALES) and Coupled Sparse Asymmetric Least
+  Squares (COSALES) using Coordinate Descent and Proximal
+  Gradient Algorithms
+maintainer: Yuwen Gu
+description: A coordinate descent algorithm for computing the solution path of the
+  sparse and coupled sparse asymmetric least squares, including the elastic net and
+  (adaptive) Lasso penalized SALES and COSALES regressions.
+date_publication: '2016-01-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SALES
+url_git: ''

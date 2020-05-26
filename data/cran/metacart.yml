@@ -1,0 +1,14 @@
+version: 2.0-2
+title: |-
+  Meta-CART: A Flexible Approach to Identify Moderators in
+  Meta-Analysis
+maintainer: Juan Claramunt
+description: Meta-CART integrates classification and regression trees (CART) into
+  meta-analysis. Meta-CART is a flexible approach to identify interaction effects
+  between moderators in meta-analysis. The method is described in Dusseldorp et al.
+  (2014) <doi:10.1037/hea0000018> and Li et al. (2017) <doi:10.1111/bmsp.12088>.
+date_publication: '2019-12-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=metacart
+url_git: ''

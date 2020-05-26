@@ -1,0 +1,11 @@
+version: 1.2-2
+title: The Spike-and-Slab LASSO
+maintainer: Gemma Moran
+description: Efficient coordinate ascent algorithm for fitting regularization paths
+  for linear models penalized by Spike-and-Slab LASSO of Rockova and George (2018)
+  <doi:10.1080/01621459.2016.1260469>.
+date_publication: '2019-12-13'
+bug_reports: ''
+url: http://faculty.chicagobooth.edu/veronika.rockova/ssl.pdf
+url_cran: https://CRAN.R-project.org/package=SSLASSO
+url_git: ''

@@ -1,0 +1,14 @@
+version: 0.99.2
+title: Estimate the Burden of Healthcare-Associated Infections
+maintainer: Benedikt Zacher
+description: Provides an approach which is based on the methodology of the Burden
+  of Communicable Diseases in Europe (BCoDE) and can be used for large and small samples
+  such as individual countries. The Burden of Healthcare-Associated Infections (BHAI)
+  is estimated in disability-adjusted life years, number of infections as well as
+  number of deaths per year. Results can be visualized with various plotting functions
+  and exported into tables.
+date_publication: '2019-10-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BHAI
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.0.5
+title: Doubly-Robust Nonparametric Estimation and Inference
+maintainer: David Benkeser
+description: |-
+  Targeted minimum loss-based estimators of counterfactual means and
+  causal effects that are doubly-robust with respect both to consistency and
+  asymptotic normality (Benkeser et al (2017), <doi:10.1093/biomet/asx053>; MJ
+  van der Laan (2014), <doi:10.1515/ijb-2012-0038>).
+date_publication: '2020-01-09'
+bug_reports: https://github.com/benkeser/drtmle/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=drtmle
+url_git: https://github.com/benkeser/drtmle

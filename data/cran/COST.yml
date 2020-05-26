@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Copula-Based Semiparametric Models for Spatio-Temporal Data
+maintainer: Yanlin Tang
+description: |-
+  Parameter estimation, one-step ahead forecast and new location
+  prediction methods for spatio-temporal data.
+date_publication: '2019-01-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=COST
+url_git: ''

@@ -1,0 +1,11 @@
+version: '1.0'
+title: Statistical package for species richness estimation
+maintainer: Ji-Ping Wang
+description: |-
+  SPECIES is an R package for estimation of species richness
+  or diversity.
+date_publication: '2011-04-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SPECIES
+url_git: ''

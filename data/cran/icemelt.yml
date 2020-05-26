@@ -1,0 +1,17 @@
+version: '1.0'
+title: |-
+  Parameter Estimation in Linear Transformation Model with
+  Interval-Censored Data and Covariate Measurement Error
+maintainer: Soutrik Mandal
+description: Estimates the parameters of the semiparametric linear transformation
+  model using imputation method, naive method and regression calibration method when
+  time-to-event is interval-censored and a covariate is measured with error. A right
+  censoring indicator must be available. The methods implemented in this package can
+  be found in Mandal, S., Wang, S. and Sinha, S. (2019+). Analysis of Linear Transformation
+  Models with Covariate Measurement Error and Interval Censoring. (accepted, Statistics
+  In Medicine).
+date_publication: '2019-07-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=icemelt
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.5.0
+title: Interface with Google BigQuery with Shiny Compatibility
+maintainer: Mark Edmondson
+description: |-
+  Interface with 'Google BigQuery',
+  see <https://cloud.google.com/bigquery/> for more information.
+  This package uses 'googleAuthR' so is compatible with similar packages,
+  including 'Google Cloud Storage' (<https://cloud.google.com/storage/>) for result extracts.
+date_publication: '2019-10-09'
+bug_reports: https://github.com/cloudyr/bigQueryR/issues
+url: http://code.markedmondson.me/bigQueryR/
+url_cran: https://CRAN.R-project.org/package=bigQueryR
+url_git: ''

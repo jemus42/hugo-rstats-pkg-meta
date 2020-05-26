@@ -1,0 +1,12 @@
+version: 1.0.6
+title: Suite of Functions to Flexibly Read Data from Files
+maintainer: Nicholas Cooper
+description: A set of functions to simplify reading data from files. The main function,
+  reader(), should read most common R datafile types without needing any parameters
+  except the filename. Other functions provide simple ways of handling file paths
+  and extensions, and automatically detecting file format and structure.
+date_publication: '2017-01-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=reader
+url_git: ''

@@ -1,0 +1,10 @@
+version: 1.0.0
+title: Converts Conductance Units
+maintainer: Chris Muir
+description: 'For plant physiologists, converts conductance (e.g. stomatal conductance)
+  to different units: m/s, mol/m^2/s, and umol/m^2/s/Pa.'
+date_publication: '2019-05-03'
+bug_reports: https://github.com/cdmuir/gunit/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gunit
+url_git: https://github.com/cdmuir/gunit

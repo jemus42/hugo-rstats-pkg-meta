@@ -1,0 +1,9 @@
+version: '1.2'
+title: Ozgur-Ozlem Miscellaneous
+maintainer: Ozgur Asar
+description: Includes miscellaneous functions.
+date_publication: '2013-02-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OOmisc
+url_git: ''

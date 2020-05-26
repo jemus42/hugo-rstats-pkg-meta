@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Analyze Lines of R Code the Tidy Way
+maintainer: Lucy D'Agostino McGowan
+description: |-
+  Analyze lines of R code using tidy principles. This allows you to
+  input lines of R code and output a data frame with one row per function
+  included. Additionally, it facilitates code classification via included lexicons.
+date_publication: '2019-12-10'
+bug_reports: https://github.com/LucyMcGowan/tidycode/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tidycode
+url_git: https://github.com/LucyMcGowan/tidycode

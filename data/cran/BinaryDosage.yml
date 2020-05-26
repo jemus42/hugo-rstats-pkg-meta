@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Creates, Merges, and Reads Binary Dosage Files
+maintainer: John Morrison
+description: |-
+  Tools to create binary dosage from either VCF
+  or GEN files, merge binary dosage files, and read
+  binary dosage files.
+date_publication: '2020-01-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BinaryDosage
+url_git: ''

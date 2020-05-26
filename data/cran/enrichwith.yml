@@ -1,0 +1,20 @@
+version: 0.3.1
+title: Methods to Enrich R Objects with Extra Components
+maintainer: Ioannis Kosmidis
+description: Provides the "enrich" method to enrich list-like R objects with new,
+  relevant components. The current version has methods for enriching objects of class
+  'family', 'link-glm', 'lm', 'glm' and 'betareg'. The resulting objects preserve
+  their class, so all methods associated with them still apply. The package also provides
+  the 'enriched_glm' function that has the same interface as 'glm' but results in
+  objects of class 'enriched_glm'. In addition to the usual components in a `glm`
+  object, 'enriched_glm' objects carry an object-specific simulate method and functions
+  to compute the scores, the observed and expected information matrix, the first-order
+  bias, as well as model densities, probabilities, and quantiles at arbitrary parameter
+  values. The package can also be used to produce customizable source code templates
+  for the structured implementation of methods to compute new components and enrich
+  arbitrary objects.
+date_publication: '2020-01-10'
+bug_reports: https://github.com/ikosmidis/enrichwith/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=enrichwith
+url_git: https://github.com/ikosmidis/enrichwith

@@ -1,0 +1,10 @@
+version: 1.0.3
+title: Utilities for Preparation of Data Analysis
+maintainer: Josef Frank
+description: Miscellaneous small utilities are provided to mitigate issues with messy,
+  inconsistent or high dimensional data and help for preprocessing and preparing analyses.
+date_publication: '2020-05-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=preputils
+url_git: ''

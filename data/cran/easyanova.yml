@@ -1,0 +1,12 @@
+version: '7.0'
+title: Analysis of Variance and Other Important Complementary Analyses
+maintainer: Emmanuel Arnhold
+description: |-
+  Perform analysis of variance and other important complementary
+  analyses.  The functions are easy to use.  Performs analysis in various
+  designs, with balanced and unbalanced data.
+date_publication: '2019-07-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=easyanova
+url_git: ''

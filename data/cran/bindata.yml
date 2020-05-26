@@ -1,0 +1,9 @@
+version: 0.9-19
+title: Generation of Artificial Binary Data
+maintainer: Friedrich Leisch
+description: Generation of correlated artificial binary data.
+date_publication: '2012-11-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bindata
+url_git: ''

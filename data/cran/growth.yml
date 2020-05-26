@@ -1,0 +1,14 @@
+version: 1.1.1
+title: |-
+  Multivariate Normal and Elliptically-Contoured Repeated
+  Measurements Models
+maintainer: Bruce Swihart
+description: |-
+  Functions for fitting various normal theory (growth
+  curve) and elliptically-contoured repeated measurements models
+  with ARMA and random effects dependence.
+date_publication: '2019-02-04'
+bug_reports: https://github.com/swihart/growth/issues
+url: http://www.commanster.eu/rcode.html
+url_cran: https://CRAN.R-project.org/package=growth
+url_git: ''

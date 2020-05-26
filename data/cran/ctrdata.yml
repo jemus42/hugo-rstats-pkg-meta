@@ -1,0 +1,20 @@
+version: 1.2.1
+title: Retrieve and Analyze Clinical Trials in Public Registers
+maintainer: Ralf Herold
+description: |-
+  Provides functions for querying, retrieving and analysing
+  protocol- and results-related information on clinical trials from
+  two public registers, the European Union Clinical Trials Register
+  (EUCTR, <https://www.clinicaltrialsregister.eu/>) and
+  ClinicalTrials.gov (CTGOV, <https://clinicaltrials.gov/>). The
+  information is transformed and then stored in a database (nodbi).
+  Functions are provided for accessing and analysing the locally
+  stored information on the clinical trials, as well as for
+  identifying duplicate records. The package is motivated by the need
+  for aggregating and trend-analysing the design, conduct and outcomes
+  across clinical trials.
+date_publication: '2020-05-18'
+bug_reports: https://github.com/rfhb/ctrdata/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ctrdata
+url_git: https://github.com/rfhb/ctrdata

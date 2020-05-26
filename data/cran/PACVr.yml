@@ -1,0 +1,12 @@
+version: 0.9.2
+title: Plastome Assembly Coverage Visualization
+maintainer: Michael Gruenstaeudl
+description: Visualizes the coverage depth of a complete plastid genome as well as
+  the equality of its inverted repeat regions in relation to the circular, quadripartite
+  genome structure and the location of individual genes. For more information, please
+  see Gruenstaeudl and Jenke (2019) <doi:10.1101/697821>.
+date_publication: '2020-02-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PACVr
+url_git: ''

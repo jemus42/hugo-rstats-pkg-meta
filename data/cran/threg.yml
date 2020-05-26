@@ -1,0 +1,12 @@
+version: 1.0.3
+title: Threshold Regression
+maintainer: Tao Xiao
+description: Fit a threshold regression model based on the first-hitting-time of a
+  boundary by the sample path of a Wiener diffusion process. The threshold regression
+  methodology is well suited to applications involving survival and time-to-event
+  data.
+date_publication: '2015-08-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=threg
+url_git: ''

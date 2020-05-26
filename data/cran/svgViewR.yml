@@ -1,0 +1,10 @@
+version: '1.4'
+title: 3D Animated Interactive Visualizations Using SVG
+maintainer: Aaron Olsen
+description: Creates 3D animated, interactive visualizations that can be viewed in
+  a web browser.
+date_publication: '2019-07-09'
+bug_reports: ''
+url: https://aaronolsen.github.io/tutorials/visualization3d.html
+url_cran: https://CRAN.R-project.org/package=svgViewR
+url_git: ''

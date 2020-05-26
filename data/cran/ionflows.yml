@@ -1,0 +1,14 @@
+version: '1.1'
+title: |-
+  Calculate the Number of Required Flows for Semiconductor
+  Sequencing
+maintainer: Michael Bockmayr
+description: 'Two methods for calculation of the number of required flows for semiconductor
+  sequencing: 1. Using a simulation, the number of flows can be calculated for a concrete
+  list of amplicons. 2. An exact combinatorial model is evaluated to calculate the
+  number of flows for a random ensemble of sequences.'
+date_publication: '2014-11-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ionflows
+url_git: ''

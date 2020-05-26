@@ -1,0 +1,16 @@
+version: 0.2.0
+title: Distinct Colour Palettes Based on 'iwanthue'
+maintainer: John Baumgartner
+description: |-
+  Creating effective colour palettes for figures is
+  challenging. This package generates and plot palettes of optimally
+  distinct colours in perceptually uniform colour space, based on
+  'iwanthue' <http://tools.medialab.sciences-po.fr/iwanthue/>.
+  This is done through k-means clustering of CIE Lab colour space,
+  according to user-selected constraints on hue, chroma, and
+  lightness.
+date_publication: '2019-12-01'
+bug_reports: https://github.com/johnbaums/hues/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=hues
+url_git: https://github.com/johnbaums/hues

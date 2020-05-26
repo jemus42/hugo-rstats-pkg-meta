@@ -1,0 +1,11 @@
+version: 0.3.5
+title: R Client for the COLOURlovers API
+maintainer: Andrew Heiss
+description: |-
+  Provides access to the COLOURlovers <http://www.colourlovers.com/>
+  API, which offers color inspiration and color palettes.
+date_publication: '2019-05-01'
+bug_reports: https://github.com/andrewheiss/colourlovers/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=colourlovers
+url_git: https://github.com/andrewheiss/colourlovers

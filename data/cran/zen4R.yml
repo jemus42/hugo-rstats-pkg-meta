@@ -1,0 +1,12 @@
+version: '0.3'
+title: Interface to 'Zenodo' REST API
+maintainer: Emmanuel Blondel
+description: |-
+  Provides an Interface to 'Zenodo' (<https://zenodo.org>) REST API,
+  including management of depositions, attribution of DOIs by 'Zenodo' and
+  upload of files.
+date_publication: '2019-08-27'
+bug_reports: https://github.com/eblondel/zen4R/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=zen4R
+url_git: https://github.com/eblondel/zen4R

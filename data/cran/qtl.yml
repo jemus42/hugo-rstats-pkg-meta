@@ -1,0 +1,13 @@
+version: 1.46-2
+title: Tools for Analyzing QTL Experiments
+maintainer: Karl W Broman
+description: |-
+  Analysis of experimental crosses to identify genes
+  (called quantitative trait loci, QTLs) contributing to variation in
+  quantitative traits.
+  Broman et al. (2003) <doi:10.1093/bioinformatics/btg112>.
+date_publication: '2020-03-11'
+bug_reports: https://github.com/kbroman/qtl/issues
+url: https://rqtl.org
+url_cran: https://CRAN.R-project.org/package=qtl
+url_git: https://github.com/kbroman/qtl

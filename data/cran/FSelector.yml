@@ -1,0 +1,12 @@
+version: '0.31'
+title: Selecting Attributes
+maintainer: Lars Kotthoff
+description: |-
+  Functions for selecting attributes from a given dataset. Attribute
+  subset selection is the process of identifying and removing as much of the
+  irrelevant and redundant information as possible.
+date_publication: '2018-05-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FSelector
+url_git: ''

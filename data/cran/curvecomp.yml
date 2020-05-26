@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Multiple Curve Comparisons Using Parametric Bootstrap
+maintainer: Christopher Murphy
+description: Performs multiple comparison procedures on curve observations among different
+  treatment groups. The methods are applicable in a variety of situations (such as
+  independent groups with equal or unequal sample sizes, or repeated measures) by
+  using parametric bootstrap. References to these procedures can be found at Konietschke,
+  Gel, and Brunner (2014) <doi:10.1090/conm/622/12431> and Westfall (2011) <doi:10.1080/10543406.2011.607751>.
+date_publication: '2017-09-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=curvecomp
+url_git: ''

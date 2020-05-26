@@ -1,0 +1,10 @@
+version: 1.3-3
+title: Models for Skewed Count Distributions Relevant to Networks
+maintainer: Mark S. Handcock
+description: Likelihood-based inference for skewed count distributions used in network
+  modeling. "degreenet" is a part of the "statnet" suite of packages for network analysis.
+date_publication: '2018-03-26'
+bug_reports: ''
+url: https://statnet.org
+url_cran: https://CRAN.R-project.org/package=degreenet
+url_git: ''

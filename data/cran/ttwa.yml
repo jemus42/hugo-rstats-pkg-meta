@@ -1,0 +1,9 @@
+version: 0.8.5.1
+title: Travel To Work Area.
+maintainer: Francois Semecurbe
+description: This package makes Travel To Work Area from a commuting flow data frame.
+date_publication: '2013-09-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ttwa
+url_git: ''

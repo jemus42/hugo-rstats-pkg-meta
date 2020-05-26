@@ -1,0 +1,11 @@
+version: 1.0.3
+title: Generic Functions for Cross Validation
+maintainer: Korbinian Strimmer
+description: |-
+  Contains generic functions for performing
+  cross validation and for computing diagnostic errors.
+date_publication: '2015-07-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=crossval
+url_git: ''

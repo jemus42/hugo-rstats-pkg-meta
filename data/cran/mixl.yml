@@ -1,0 +1,16 @@
+version: 1.1.2
+title: |-
+  Simulated Maximum Likelihood Estimation of Mixed Logit Models
+  for Large Datasets
+maintainer: Joseph Molloy
+description: |-
+  Specification and estimation of multinomial logit
+  models.  Large datasets and complex models are supported, with an
+  intuitive syntax.  Multinomial Logit Models, Mixed models, random
+  coefficients and Hybrid Choice are all supported.  For more
+  information, see Molloy et al. (2019) <doi:10.3929/ethz-b-000334289>.
+date_publication: '2020-03-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mixl
+url_git: ''

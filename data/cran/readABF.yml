@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Loads Axon Binary Files
+maintainer: Stanislav Syekirin
+description: Loads Axon Binary Files (both 'ABF' and 'ABF2') created by Axon Instruments/Molecular
+  Devices software such as 'pClamp'.
+date_publication: '2018-12-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=readABF
+url_git: ''

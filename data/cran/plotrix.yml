@@ -1,0 +1,9 @@
+version: 3.7-8
+title: Various Plotting Functions
+maintainer: Jim Lemon
+description: Lots of plots, various labeling, axis and color scaling functions.
+date_publication: '2020-04-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=plotrix
+url_git: ''

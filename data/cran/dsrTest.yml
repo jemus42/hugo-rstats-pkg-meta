@@ -1,0 +1,14 @@
+version: 0.2.1
+title: |-
+  Tests and Confidence Intervals on Directly Standardized Rates
+  for Several Methods
+maintainer: Michael Nelson
+description: |-
+  Perform a test of a simple null hypothesis about a
+  directly standardized rate and obtain the matching confidence
+  interval using a choice of methods.
+date_publication: '2017-05-02'
+bug_reports: http://github.com/mnel/dsrTest/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dsrTest
+url_git: http://github.com/mnel/dsrTest

@@ -1,0 +1,12 @@
+version: 0.6.3
+title: |-
+  Time Value of Money, Time Series Analysis and Computational
+  Finance
+maintainer: Felix Yanhui Fan
+description: Package for time value of money calculation, time series analysis and
+  computational finance.
+date_publication: '2016-07-29'
+bug_reports: ''
+url: http://felixfan.github.io/FinCal/
+url_cran: https://CRAN.R-project.org/package=FinCal
+url_git: ''

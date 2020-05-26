@@ -1,0 +1,11 @@
+version: 0.2-6
+title: Distributional Semantic Models in R
+maintainer: Stefan Evert
+description: |-
+  An interactive laboratory for research on distributional semantic models ('DSM',
+  see <https://en.wikipedia.org/wiki/Distributional_semantics> for more information).
+date_publication: '2020-01-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=wordspace
+url_git: http://wordspace.r-forge.r-project.org/

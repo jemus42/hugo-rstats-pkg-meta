@@ -1,0 +1,10 @@
+version: '1.3'
+title: Heatmap with more sensible behavior.
+maintainer: Allen Day
+description: Allows heatmap matrix to have non-identical X- and<U+000a>Y-dimensions.  Allows
+  multiple tracks of annotation for<U+000a>RowSideColors and ColSideColors.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=heatmap.plus
+url_git: ''

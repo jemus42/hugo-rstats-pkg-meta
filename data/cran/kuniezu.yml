@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Assistance on the National Geography of Japan
+maintainer: Shinya Uryu
+description: |-
+  Data set on Japan's national geography.
+  Provides tools for efficient processing and visualization of
+  unique coordinate systems.
+date_publication: '2020-05-23'
+bug_reports: https://github.com/uribo/kuniezu/issues
+url: https://uribo.github.io/kuniezu/
+url_cran: https://CRAN.R-project.org/package=kuniezu
+url_git: https://github.com/uribo/kuniezu

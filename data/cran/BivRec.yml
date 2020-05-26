@@ -1,0 +1,11 @@
+version: 1.2.0
+title: Bivariate Alternating Recurrent Event Data Analysis
+maintainer: Sandra Castro-Pearson
+description: |-
+  A collection of models for bivariate alternating recurrent event data analysis.
+  Includes non-parametric and semi-parametric methods.
+date_publication: '2020-01-15'
+bug_reports: https://github.com/SandraCastroPearson/BivRec/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=BivRec
+url_git: https://github.com/SandraCastroPearson/BivRec

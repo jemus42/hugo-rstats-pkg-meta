@@ -1,0 +1,9 @@
+version: '1.2'
+title: Spherical K-Function
+maintainer: Ao Li<liao@umail.iu.edu>
+description: Spherical K-function for point-pattern analysis on the sphere.
+date_publication: '2015-10-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SphericalK
+url_git: ''

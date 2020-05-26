@@ -1,0 +1,10 @@
+version: '3.0'
+title: Brownian bridge movement model
+maintainer: Ryan Nielson
+description: The model provides an empirical estimate of a movement<U+000a>path using
+  discrete location data obtained at relatively short<U+000a>time intervals.
+date_publication: '2013-03-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BBMM
+url_git: ''

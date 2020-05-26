@@ -1,0 +1,13 @@
+version: '1.1'
+title: Homogenous Segmentation for Spatial Lines Data
+maintainer: Yongze Song
+description: |-
+  Methods of homogenous segmentation for spatial lines data, such as pavement
+  performance indicators and traffic volumes. Three methods are available for
+  homogenous segmentation, including cumulative difference approach, minimization
+  coefficient of variation, and spatial heterogeneity based method.
+date_publication: '2019-09-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HS
+url_git: ''

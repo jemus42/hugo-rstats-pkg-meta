@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Solving Quadratic Matrix Equations
+maintainer: Siva Rajesh Kasa
+description: Given inputs A,B and C, this package solves the matrix equation A*X^2
+  - B*X - C = 0.
+date_publication: '2018-08-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=quadmatrix
+url_git: ''

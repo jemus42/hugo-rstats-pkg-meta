@@ -1,0 +1,12 @@
+version: 0.3.0
+title: '''Radix'' Trees in ''Rcpp'''
+maintainer: Oliver Keyes
+description: |-
+  'Radix trees', or 'tries', are key-value data structures optimised for efficient lookups, similar in purpose
+  to hash tables. 'triebeard' provides an implementation of 'radix trees' for use in R programming and in
+  developing packages with 'Rcpp'.
+date_publication: '2016-08-04'
+bug_reports: https://github.com/Ironholds/triebeard/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=triebeard
+url_git: https://github.com/Ironholds/triebeard/

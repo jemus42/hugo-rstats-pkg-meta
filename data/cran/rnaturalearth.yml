@@ -1,0 +1,10 @@
+version: 0.1.0
+title: World Map Data from Natural Earth
+maintainer: Andy South
+description: Facilitates mapping by making natural earth map data from <http://www.naturalearthdata.com/>
+  more easily available to R users.
+date_publication: '2017-03-21'
+bug_reports: https://github.com/ropenscilabs/rnaturalearth/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rnaturalearth
+url_git: https://github.com/ropenscilabs/rnaturalearth

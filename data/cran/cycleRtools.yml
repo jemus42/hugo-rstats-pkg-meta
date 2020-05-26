@@ -1,0 +1,9 @@
+version: 1.1.1
+title: Tools for Cycling Data Analysis
+maintainer: Jordan Mackie
+description: A suite of functions for analysing cycling data.
+date_publication: '2016-01-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cycleRtools
+url_git: https://github.com/jmackie4/cycleRtools

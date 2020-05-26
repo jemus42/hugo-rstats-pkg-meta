@@ -1,0 +1,12 @@
+version: 0.12.0
+title: Computes Hydrograph Separation
+maintainer: Antoine Pelletier
+description: Computes hydrograph separation using the conceptual automated process
+  from Pelletier and Andreassian (2019) <doi:10.5194/hess-2019-503>. Contains scalar
+  and vectorized functions to compute correlation criterion to calibrate the baseflow
+  separation model.
+date_publication: '2020-03-16'
+bug_reports: ''
+url: https://gitlab.irstea.fr/HYCAR-Hydro/baseflow
+url_cran: https://CRAN.R-project.org/package=baseflow
+url_git: ''

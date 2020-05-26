@@ -1,0 +1,16 @@
+version: 0.1.4
+title: Access EPA 'ECHO' Data
+maintainer: Michael Schramm
+description: |-
+  An R interface to United States Environmental
+  Protection Agency (EPA) Environmental Compliance
+  History Online ('ECHO') Application Program Interface
+  (API). 'ECHO' provides information about EPA permitted
+  facilities, discharges, and other reporting info
+  associated with permitted entities. Data are obtained
+  from <https://echo.epa.gov/>.
+date_publication: '2020-01-29'
+bug_reports: https://github.com/mps9506/echor/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=echor
+url_git: ''

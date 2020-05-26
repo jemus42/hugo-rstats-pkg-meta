@@ -1,0 +1,15 @@
+version: 2.0.0
+title: |-
+  Several Examined and Concealed States-Dependent Speciation and
+  Extinction
+maintainer: Leonel Herrera Alsina
+description: |-
+  Simultaneously infers state-dependent diversification across
+  two or more states of a single or multiple traits while accounting for the
+  role of a possible concealed trait. See Herrera-Alsina et al. 2019
+  Systematic Biology 68: 317-328 <DOI:10.1093/sysbio/syy057>.
+date_publication: '2019-06-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=secsse
+url_git: ''

@@ -1,0 +1,14 @@
+version: 0.1-0
+title: |-
+  Clustering Dose-Response Curves and Fitting Appropriate Models
+  to Them
+maintainer: Vahid Nassiri
+description: |-
+  Functions to identify the pattern of a dose-response
+  curve. Then fit a set of appropriate models to it according to the identified pattern,
+  followed by model averaging to estimate the effective dose.
+date_publication: '2019-03-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=clustDRM
+url_git: ''

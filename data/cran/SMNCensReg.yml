@@ -1,0 +1,12 @@
+version: '3.0'
+title: |-
+  Fitting Univariate Censored Regression Model Under the Family of
+  Scale Mixture of Normal Distributions
+maintainer: Aldo M. Garay
+description: Fit univariate right, left or interval censored regression model under
+  the scale mixture of normal distributions
+date_publication: '2015-01-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SMNCensReg
+url_git: ''

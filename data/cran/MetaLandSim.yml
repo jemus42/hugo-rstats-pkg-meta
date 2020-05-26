@@ -1,0 +1,13 @@
+version: 1.0.6
+title: Landscape and Range Expansion Simulation
+maintainer: Frederico Mestre
+description: |-
+  Tools to generate random landscape graphs, evaluate species
+  occurrence in dynamic landscapes, simulate future landscape occupation and
+  evaluate range expansion when new empty patches are available (e.g. as a
+  result of climate change).
+date_publication: '2019-08-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MetaLandSim
+url_git: ''

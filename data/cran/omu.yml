@@ -1,0 +1,14 @@
+version: 1.0.4
+title: |-
+  A Metabolomics Analysis Tool for Intuitive Figures and
+  Convenient Metadata Collection
+maintainer: Connor Tiffany
+description: Facilitates the creation of intuitive figures to describe metabolomics
+  data by utilizing Kyoto Encyclopedia of Genes and Genomes (KEGG) hierarchy data,
+  and gathers functional orthology and gene data using the package 'KEGGREST' to access
+  the 'KEGG' API.
+date_publication: '2020-05-18'
+bug_reports: https://github.com/connor-reid-tiffany/Omu/issues
+url: https://www.kegg.jp/kegg/rest/keggapi.html
+url_cran: https://CRAN.R-project.org/package=omu
+url_git: https://github.com/connor-reid-tiffany/Omu

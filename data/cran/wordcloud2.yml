@@ -1,0 +1,12 @@
+version: 0.2.1
+title: Create Word Cloud by 'htmlwidget'
+maintainer: Dawei Lang
+description: |-
+  A fast visualization tool for creating wordcloud
+  by using 'wordcloud2.js'. 'wordcloud2.js' is a JavaScript library to create
+  wordle presentation on 2D canvas or HTML <https://timdream.org/wordcloud2.js/>.
+date_publication: '2018-01-03'
+bug_reports: https://github.com/lchiffon/wordcloud2/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=wordcloud2
+url_git: https://github.com/lchiffon/wordcloud2

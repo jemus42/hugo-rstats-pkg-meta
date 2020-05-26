@@ -1,0 +1,11 @@
+version: '1.0'
+title: Test for A+B Traditional Escalation Rule
+maintainer: Eun-Kyung Lee
+description: |-
+  This package is for the comparison of various types of A+B
+  escalation rules for dose finding trials.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TERAplusB
+url_git: ''

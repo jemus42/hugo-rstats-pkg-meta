@@ -1,0 +1,17 @@
+version: 0.1.1
+title: |-
+  Reading, Formatting, and Organizing the Panel Study of Income
+  Dynamics (PSID)
+maintainer: Brian Aronson
+description: Provides various functions for reading and preparing the Panel Study
+  of Income Dynamics (PSID) for longitudinal analysis, including functions that read
+  the PSID's fixed width format files directly into R, rename all of the PSID's longitudinal
+  variables so that recurring variables have consistent names across years, simplify
+  assembling longitudinal datasets from cross sections of the PSID Family Files, and
+  export the resulting PSID files into file formats common among other statistical
+  programming languages ('SAS', 'STATA', and 'SPSS').
+date_publication: '2020-02-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=easyPSID
+url_git: ''

@@ -1,0 +1,14 @@
+version: 1.1-11
+title: TDT Tests for Extended Haplotypes
+maintainer: Jing Hua Zhao
+description: |-
+  Functions and examples are provided for Transmission/disequilibrium tests
+  for extended marker haplotypes, as in
+  Clayton, D. and Jones, H. (1999) "Transmission/disequilibrium tests
+  for extended marker haplotypes". Amer. J. Hum. Genet., 65:1161-1169,
+  <doi:10.1086/302566>.
+date_publication: '2019-08-22'
+bug_reports: https://github.com/jinghuazhao/R/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tdthap
+url_git: https://github.com/jinghuazhao/R

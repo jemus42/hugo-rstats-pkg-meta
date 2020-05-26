@@ -1,0 +1,13 @@
+version: 0.4-22
+title: Probabilities for Bivariate Normal Distribution
+maintainer: Alexander Robitzsch
+description: |2-
+
+  Computes probabilities of the bivariate normal distribution
+  in a vectorized R function (Drezner & Wesolowsky, 1990,
+  <doi:10.1080/00949659008811236>).
+date_publication: '2020-05-11'
+bug_reports: ''
+url: https://sites.google.com/site/alexanderrobitzsch2/software
+url_cran: https://CRAN.R-project.org/package=pbv
+url_git: https://github.com/alexanderrobitzsch/pbv

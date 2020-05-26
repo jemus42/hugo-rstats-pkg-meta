@@ -1,0 +1,10 @@
+version: '0.1'
+title: GWR and MGWR with Spatial Autocorrelation
+maintainer: Ghislain Geniaux
+description: Functions for computing (Mixed) Geographycally Weighted Regression with
+  spatial autocorrelation, Geniaux and Martinetti (2017) <doi:10.1016/j.regsciurbeco.2017.04.001>.
+date_publication: '2018-05-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mgwrsar
+url_git: ''

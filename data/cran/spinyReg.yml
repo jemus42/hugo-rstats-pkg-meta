@@ -1,0 +1,13 @@
+version: 0.1-0
+title: Sparse Generative Model and Its EM Algorithm
+maintainer: Julien Chiquet
+description: |-
+  Implements a generative model that uses a
+  spike-and-slab like prior distribution obtained by multiplying a
+  deterministic binary vector. Such a model allows an EM algorithm,
+  optimizing a type-II log-likelihood.
+date_publication: '2015-09-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spinyReg
+url_git: ''

@@ -1,0 +1,15 @@
+version: 1.3.2
+title: |-
+  Generation of Bivariate Uniform Data and Its Relation to
+  Bivariate Binary Data
+maintainer: Ran Gao
+description: |-
+  Simulation of bivariate uniform data with a full range of correlations based on
+  two beta densities and computation of the tetrachoric correlation
+  (correlation of bivariate uniform data) from the phi coefficient
+  (correlation of bivariate binary data) and vice versa.
+date_publication: '2020-03-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BivUnifBin
+url_git: ''

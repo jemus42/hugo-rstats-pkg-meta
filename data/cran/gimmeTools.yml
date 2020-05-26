@@ -1,0 +1,12 @@
+version: '0.1'
+title: Supplemental Tools for the 'gimme' R Package
+maintainer: Stephanie Lane
+description: Supplemental tools for the 'gimme' R package. It contains an interactive
+  graphical user interface, allowing for the flexible specification of a variety of
+  both basic and advanced options. It will expand to include a variety of tools for
+  navigating output.
+date_publication: '2018-04-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gimmeTools
+url_git: https://github.com/stlane

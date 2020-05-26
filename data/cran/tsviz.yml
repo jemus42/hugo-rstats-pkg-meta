@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Easy and Interactive Time Series Visualization
+maintainer: Emanuele Fabbiani
+description: An 'RStudio' add-in to visualize time series. Time series are searched
+  in the global environment as data.frame objects with a column of type date and a
+  column of type numeric. Interactive charts are produced using 'plotly' package.
+date_publication: '2019-07-26'
+bug_reports: https://github.com/donlelef/tsviz/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tsviz
+url_git: https://github.com/donlelef/tsviz

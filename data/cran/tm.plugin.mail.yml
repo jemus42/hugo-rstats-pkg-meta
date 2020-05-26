@@ -1,0 +1,11 @@
+version: 0.2-1
+title: Text Mining E-Mail Plug-in
+maintainer: Kurt Hornik
+description: |-
+  A plug-in for the tm text mining framework providing mail handling
+  functionality.
+date_publication: '2018-08-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tm.plugin.mail
+url_git: ''

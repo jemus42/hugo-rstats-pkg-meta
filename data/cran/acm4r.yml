@@ -1,0 +1,10 @@
+version: '1.0'
+title: Align-and-Count Method comparisons of RFLP data
+maintainer: Andrea Benedetti
+description: Fragment lengths or molecular weights from pairs of lanes are<U+000a>compared,
+  and a number of matching bands are calculated using the<U+000a>Align-and-Count Method.
+date_publication: '2013-12-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=acm4r
+url_git: ''

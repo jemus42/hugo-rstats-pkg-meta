@@ -1,0 +1,12 @@
+version: 1.0-4
+title: Exchange Rate Regime Analysis
+maintainer: Achim Zeileis
+description: |-
+  Exchange rate regression and structural change tools
+  for estimating, testing, dating, and monitoring
+  (de facto) exchange rate regimes.
+date_publication: '2020-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fxregime
+url_git: ''

@@ -1,0 +1,13 @@
+version: '1.6'
+title: |-
+  Joint Modeling of the Gene-Expression and Bioassay Data, Taking
+  Care of the Effect Due to a Fingerprint Feature
+maintainer: Rudradev Sengupta
+description: Offers modeling the association between gene-expression and bioassay
+  data, taking care of the effect due to a fingerprint feature and helps with several
+  plots to better understand the analysis.
+date_publication: '2017-08-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IntegratedJM
+url_git: ''

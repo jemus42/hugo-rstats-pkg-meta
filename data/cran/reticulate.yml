@@ -1,0 +1,13 @@
+version: '1.15'
+title: Interface to 'Python'
+maintainer: Kevin Ushey
+description: |-
+  Interface to 'Python' modules, classes, and functions. When calling
+  into 'Python', R data types are automatically converted to their equivalent 'Python'
+  types. When values are returned from 'Python' to R they are converted back to R
+  types. Compatible with all versions of 'Python' >= 2.7.
+date_publication: '2020-04-02'
+bug_reports: https://github.com/rstudio/reticulate/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=reticulate
+url_git: https://github.com/rstudio/reticulate

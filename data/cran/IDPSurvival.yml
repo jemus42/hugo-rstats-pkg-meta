@@ -1,0 +1,13 @@
+version: '1.2'
+title: Imprecise Dirichlet Process for Survival Analysis
+maintainer: Francesca Mangili
+description: |-
+  Functions to perform robust
+  nonparametric survival analysis with right censored
+  data using a prior near-ignorant Dirichlet Process.
+  Mangili, F., Benavoli, A., de Campos, C.P., Zaffalon, M. (2015) <doi:10.1002/bimj.201500062>.
+date_publication: '2017-02-26'
+bug_reports: ''
+url: http://ipg.idsia.ch/software/
+url_cran: https://CRAN.R-project.org/package=IDPSurvival
+url_git: ''

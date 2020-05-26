@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Goodman-Weare Affine-Invariant Sampling
+maintainer: Adam Mantz
+description: Implementation of the affine-invariant method of Goodman & Weare (2010)
+  <DOI:10.2140/camcos.2010.5.65>, a method of producing Monte-Carlo samples from a
+  target distribution.
+date_publication: '2016-10-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rgw
+url_git: https://github.com/abmantz/rgw

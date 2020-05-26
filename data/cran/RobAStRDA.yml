@@ -1,0 +1,13 @@
+version: 1.2.0
+title: |-
+  Interpolation Grids for Packages of the 'RobASt' - Family of
+  Packages
+maintainer: Peter Ruckdeschel
+description: |-
+  Includes 'sysdata.rda' file for packages of the 'RobASt' - family of packages; is
+  currently used by package 'RobExtremes' only.
+date_publication: '2019-03-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RobAStRDA
+url_git: http://robast.r-forge.r-project.org/

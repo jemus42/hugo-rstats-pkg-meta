@@ -1,0 +1,11 @@
+version: 2.01-40
+title: Spatial and Space-Time Point Pattern Analysis
+maintainer: Roger Bivand
+description: The Splancs package was written as an enhancement to S-Plus for display
+  and analysis of spatial point pattern data; it has been ported to R and is in "maintenance
+  mode".
+date_publication: '2017-04-16'
+bug_reports: ''
+url: http://www.maths.lancs.ac.uk/~rowlings/Splancs/
+url_cran: https://CRAN.R-project.org/package=splancs
+url_git: ''

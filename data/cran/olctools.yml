@@ -1,0 +1,13 @@
+version: 0.3.0
+title: Open Location Code Handling in R
+maintainer: Oliver Keyes
+description: |-
+  'Open Location Codes' <http://openlocationcode.com/>
+  are a Google-created standard for identifying geographic locations. 'olctools' provides
+  utilities for validating, encoding and decoding entries that follow this
+  standard.
+date_publication: '2016-05-09'
+bug_reports: https://github.com/ironholds/olctools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=olctools
+url_git: https://github.com/Ironholds/olctools

@@ -1,0 +1,14 @@
+version: '0.2'
+title: Access to the LinkedIn API via R
+maintainer: Michael Piccirilli
+description: |-
+  A series of functions that allow users
+  to access the 'LinkedIn' API to get information about connections,
+  search for people and jobs, share updates with their network,
+  and create group discussions.  For more information about using
+  the API please visit <https://developer.linkedin.com/>.
+date_publication: '2016-10-30'
+bug_reports: https://github.com/mpiccirilli/Rlinkedin/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rlinkedin
+url_git: https://github.com/mpiccirilli/Rlinkedin

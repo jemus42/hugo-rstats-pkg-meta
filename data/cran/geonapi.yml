@@ -1,0 +1,11 @@
+version: 0.3-1
+title: '''GeoNetwork'' API R Interface'
+maintainer: Emmanuel Blondel
+description: Provides an R interface to the 'GeoNetwork' API (<https://geonetwork-opensource.org/#api>)
+  allowing to upload and publish metadata in a 'GeoNetwork' web-application and exposte
+  it to OGC CSW.
+date_publication: '2020-01-20'
+bug_reports: https://github.com/eblondel/geonapi/issues
+url: https://geonetwork-opensource.org
+url_cran: https://CRAN.R-project.org/package=geonapi
+url_git: https://github.com/eblondel/geonapi/wiki

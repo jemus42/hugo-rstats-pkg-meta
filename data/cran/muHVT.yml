@@ -1,0 +1,15 @@
+version: 1.0.1
+title: |-
+  Constructing Hierarchical Voronoi Tessellations and Overlay
+  Heatmap for Data Analysis
+maintainer: '"Mu Sigma, Inc."'
+description: Constructing hierarchical voronoi tessellations for a given data set
+  and overlay heatmap for variables at various levels of the tessellations for in-depth
+  data analysis. See <https://en.wikipedia.org/wiki/Voronoi_diagram> for more information.
+  Credits to Mu Sigma for their continuous support throughout the development of the
+  package.
+date_publication: '2020-01-21'
+bug_reports: https://github.com/Mu-Sigma/muHVT/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=muHVT
+url_git: https://github.com/Mu-Sigma/muHVT

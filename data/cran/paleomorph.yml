@@ -1,0 +1,12 @@
+version: 0.1.4
+title: Geometric Morphometric Tools for Paleobiology
+maintainer: Tim Lucas
+description: Fill missing symmetrical data with mirroring, calculate Procrustes alignments
+  with or without scaling, and compute standard or vector correlation and covariance
+  matrices (congruence coefficients) of 3D landmarks. Tolerates missing data for all
+  analyses.
+date_publication: '2017-04-19'
+bug_reports: https://github.com/timcdlucas/paleomorph/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=paleomorph
+url_git: https://github.com/timcdlucas/paleomorph/

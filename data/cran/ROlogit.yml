@@ -1,0 +1,14 @@
+version: 0.1.2
+title: Fit Rank-Ordered Logit (RO-Logit) Model
+maintainer: Ning Yilin
+description: |-
+  Implements the rank-ordered logit (RO-logit) model for stratified
+  analysis of continuous outcomes introduced by
+  Tan et al. (2017) <doi:10.1177/0962280217747309>. Model diagnostics based on
+  the heuristic residuals and estimates in linear scales are available from
+  the package, and outcomes with ties are supported.
+date_publication: '2018-03-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ROlogit
+url_git: ''

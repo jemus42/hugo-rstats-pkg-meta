@@ -1,0 +1,10 @@
+version: 1.0.0
+title: Variance Estimation using Difference-Based Methods
+maintainer: Wenlin Dai
+description: Generating functions for both optimal and ordinary difference sequences,
+  and the difference-based estimation functions.
+date_publication: '2017-03-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=VarED
+url_git: ''

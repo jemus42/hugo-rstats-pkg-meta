@@ -1,0 +1,12 @@
+version: 1.1.0
+title: Send Errors and Messages to 'Sentry'
+maintainer: Joao Santiago
+description: |-
+  Unofficial client for 'Sentry' <https://sentry.io>,
+  a self-hosted or cloud-based error-monitoring service. It will inform about
+  errors in real-time, and includes integration with the 'Plumber' package.
+date_publication: '2020-03-19'
+bug_reports: https://github.com/ozean12/sentryR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sentryR
+url_git: https://github.com/ozean12/sentryR

@@ -1,0 +1,13 @@
+version: 2.4.0
+title: |-
+  Perceptual Analysis, Visualization and Organization of Spectral
+  Colour Data
+maintainer: Rafael Maia
+description: |-
+  A cohesive framework for parsing, analyzing and
+  organizing colour from spectral data.
+date_publication: '2020-02-08'
+bug_reports: https://github.com/rmaia/pavo/issues
+url: http://pavo.colrverse.com
+url_cran: https://CRAN.R-project.org/package=pavo
+url_git: https://github.com/rmaia/pavo/

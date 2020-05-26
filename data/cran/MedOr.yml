@@ -1,0 +1,11 @@
+version: '0.1'
+title: Median Ordering Statistical R package
+maintainer: Adriano Polpo
+description: |-
+  This package contains the functions used to perform some
+  confidence statistics based in population median.
+date_publication: '2012-12-24'
+bug_reports: ''
+url: http://code.google.com/p/medor/
+url_cran: https://CRAN.R-project.org/package=MedOr
+url_git: ''

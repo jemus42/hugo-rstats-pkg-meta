@@ -1,0 +1,11 @@
+version: 0.6.1
+title: Irucka Embry's Miscellaneous Data Collection
+maintainer: Irucka Embry
+description: |-
+  Miscellaneous data sets [Engineering Economics, Environmental/
+  Water Resources Engineering, US Presidential Elections].
+date_publication: '2016-07-22'
+bug_reports: https://gitlab.com/iembry/iemiscdata/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=iemiscdata
+url_git: https://gitlab.com/iembry/iemiscdata

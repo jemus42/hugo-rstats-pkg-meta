@@ -1,0 +1,12 @@
+version: '1.0'
+title: Dose Response Signal Detection under Model Uncertainty
+maintainer: Kevin Kokot
+description: |-
+  Provides functions for calculating test statistics, simulating quantiles
+  and simulating p-values of likelihood ratio contrast tests in regression models
+  with a lack of identifiability.
+date_publication: '2015-11-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LRcontrast
+url_git: ''

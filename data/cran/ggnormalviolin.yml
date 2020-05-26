@@ -1,0 +1,13 @@
+version: 0.1.2
+title: A 'ggplot2' Extension to Make Normal Violin Plots
+maintainer: W. Joel Schneider
+description: |-
+  Uses 'ggplot2' to create normally distributed
+  violin plots with specified means and standard deviations. This
+  function can be useful in showing hypothetically normal distributions
+  and confidence intervals.
+date_publication: '2019-05-27'
+bug_reports: https://github.com/wjschne/ggnormalviolin/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggnormalviolin
+url_git: https://github.com/wjschne/ggnormalviolin

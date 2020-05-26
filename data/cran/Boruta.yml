@@ -1,0 +1,11 @@
+version: 7.0.0
+title: Wrapper Algorithm for All Relevant Feature Selection
+maintainer: Miron Bartosz Kursa
+description: |-
+  An all relevant feature selection wrapper algorithm.
+  It finds relevant features by comparing original attributes' importance with importance achievable at random, estimated using their permuted copies (shadows).
+date_publication: '2020-05-21'
+bug_reports: https://gitlab.com/mbq/Boruta/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Boruta
+url_git: https://gitlab.com/mbq/Boruta/

@@ -1,0 +1,14 @@
+version: 1.4-9
+title: Power and Sample Size for (Bio)Equivalence Studies
+maintainer: Detlew Labes
+description: |-
+  Contains functions to calculate power and sample size for
+  various study designs used in bioequivalence studies. Use known.designs() to
+  see the designs supported. Power and sample size can be obtained based on
+  different methods, amongst them prominently the TOST procedure (two one-sided t-tests).
+  See README and NEWS for further information.
+date_publication: '2019-12-19'
+bug_reports: https://github.com/Detlew/PowerTOST/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=PowerTOST
+url_git: https://github.com/Detlew/PowerTOST

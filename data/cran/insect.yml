@@ -1,0 +1,10 @@
+version: 1.2.0
+title: Informatic Sequence Classification Trees
+maintainer: Shaun Wilkinson
+description: Provides tools for probabilistic taxon assignment with informatic sequence
+  classification trees. See Wilkinson et al (2018) <doi:10.7287/peerj.preprints.26812v1>.
+date_publication: '2018-11-25'
+bug_reports: http://github.com/shaunpwilkinson/insect/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=insect
+url_git: http://github.com/shaunpwilkinson/insect

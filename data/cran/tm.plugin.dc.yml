@@ -1,0 +1,12 @@
+version: 0.2-8
+title: Text Mining Distributed Corpus Plug-In
+maintainer: Stefan Theussl
+description: |-
+  A plug-in for the text mining framework tm to support text mining
+  in a distributed way. The package provides a convenient interface for
+  handling distributed corpus objects based on distributed list objects.
+date_publication: '2015-09-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tm.plugin.dc
+url_git: ''

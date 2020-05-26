@@ -1,0 +1,11 @@
+version: 0.2.0
+title: Variations of Parallel Coordinate Plots for Categorical Data
+maintainer: Heike Hofmann
+description: |-
+  Create hammock plots, parallel sets, and common angle plots
+  with 'ggplot2'.
+date_publication: '2016-12-05'
+bug_reports: https://github.com/heike/ggparallel/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggparallel
+url_git: http://github.com/heike/ggparallel

@@ -1,0 +1,14 @@
+version: 1.5.6
+title: Solving Linear Inverse Models
+maintainer: Karline Soetaert
+description: |-
+  Functions that (1) find the minimum/maximum of a linear or quadratic function:
+  min or max (f(x)), where f(x) = ||Ax-b||^2 or f(x) = sum(a_i*x_i)
+  subject to equality constraints Ex=f and/or inequality constraints Gx>=h,
+  (2) sample an underdetermined- or overdetermined system Ex=f subject to Gx>=h, and if applicable Ax~=b,
+  (3) solve a linear system Ax=B for the unknown x. It includes banded and tridiagonal linear systems.
+date_publication: '2019-11-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=limSolve
+url_git: ''

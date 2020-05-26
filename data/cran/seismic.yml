@@ -1,0 +1,14 @@
+version: '1.0'
+title: Predict Information Cascade by Self-Exciting Point Process
+maintainer: Qingyuan Zhao
+description: An implementation of self-exciting point process model for information
+  cascades, which occurs when many people engage in the same acts after observing
+  the actions of others (e.g. post resharings on Facebook or Twitter). It provides
+  functions to estimate the infectiousness of an information cascade and predict its
+  popularity given the observed history. See http://snap.stanford.edu/seismic/ for
+  more information and datasets.
+date_publication: '2015-06-05'
+bug_reports: ''
+url: http://snap.stanford.edu/seismic/
+url_cran: https://CRAN.R-project.org/package=seismic
+url_git: ''

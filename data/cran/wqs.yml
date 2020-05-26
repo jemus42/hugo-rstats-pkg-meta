@@ -1,0 +1,10 @@
+version: 0.0.1
+title: Weighted Quantile Sum Regression
+maintainer: Jenna Czarnota
+description: Fits weighted quantile sum regression models, calculates weighted quantile
+  sum index and estimated component weights.
+date_publication: '2015-10-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=wqs
+url_git: ''

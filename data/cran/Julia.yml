@@ -1,0 +1,11 @@
+version: '1.1'
+title: Fractal Image Data Generator
+maintainer: Mehmet Suzen
+description: |-
+  Generates image data for fractals (Julia and Mandelbrot
+  sets) on the complex plane in the given region and resolution.
+date_publication: '2014-11-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Julia
+url_git: ''

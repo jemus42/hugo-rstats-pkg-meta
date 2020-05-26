@@ -1,0 +1,10 @@
+version: '1.1'
+title: Scrape European Parliament Careers
+maintainer: Julien Boelaert
+description: A utility to webscrape the in-house careers of members of the European
+  parliament, from its website <http://www.europarl.europa.eu>.
+date_publication: '2018-07-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=scraEP
+url_git: ''

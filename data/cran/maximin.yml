@@ -1,0 +1,10 @@
+version: 1.0-3
+title: Space-Filling Design under Maximin Distance
+maintainer: Furong Sun
+description: Constructs a space-filling design under the criterion of maximin distance.
+  Both discrete and continuous versions are provided.
+date_publication: '2019-11-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=maximin
+url_git: ''

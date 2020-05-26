@@ -1,0 +1,15 @@
+version: 1.1.1
+title: Combine and Export Data Frames
+maintainer: Stefan Fleck
+description: |-
+  Functions to combine data.frames in ways that require additional effort in
+  base R, and to add metadata (id, title, ...) that can be used for printing and
+  xlsx export. The 'Tatoo_report' class is provided as a
+  convenient helper to write several such tables to a workbook, one table per
+  worksheet. Tatoo is built on top of 'openxlsx', but intimate knowledge of
+  that package is not required to use tatoo.
+date_publication: '2019-03-29'
+bug_reports: https://github.com/statistikat/tatoo/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tatoo
+url_git: https://github.com/statistikat/tatoo

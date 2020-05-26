@@ -1,0 +1,15 @@
+version: '1.1'
+title: Tools for sampling in Official Statistical Surveys
+maintainer: Susie Jentoft
+description: |-
+  This package includes tools for calculating sample sizes and
+  selecting samples using various sampling designs. This package is an extension
+  of RcmdrPlugin.EHESsampling which was developed as part of the EHES pilot project.
+  The EHES Pilot project has received funding from the European Commission and
+  DG Sanco. The views expressed here are those of the authors and they do not represent
+  Commission's official position.
+date_publication: '2013-08-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.sampling
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.9.2
+title: Evolutionary Transcriptomics
+maintainer: Hajk-Georg Drost
+description: Investigate the evolution of biological processes by capturing evolutionary
+  signatures in transcriptomes (Drost et al. (2017) <doi:10.1093/bioinformatics/btx835>).
+  The aim of this tool is to provide a transcriptome analysis environment for answering
+  questions regarding the evolution of biological processes (Drost et al. (2016) <doi:10.1101/051565>).
+date_publication: '2020-01-10'
+bug_reports: https://github.com/HajkD/myTAI/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=myTAI
+url_git: https://github.com/HajkD/myTAI

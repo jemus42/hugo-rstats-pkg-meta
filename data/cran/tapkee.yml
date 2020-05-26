@@ -1,0 +1,13 @@
+version: '1.1'
+title: Wrapper for 'tapkee' Dimension Reduction Library
+maintainer: Alexey Shipunov
+description: |-
+  Wrapper for using 'tapkee' command line utility,
+  it allows to run it from inside R and catch the results for further analysis and plotting.
+  'Tapkee' is a program for fast dimension reduction, see 'package?tapkee' and <http://tapkee.lisitsyn.me/>
+  for installation and other details.
+date_publication: '2019-09-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tapkee
+url_git: ''

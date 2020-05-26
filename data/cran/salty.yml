@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Turn Clean Data into Messy Data
+maintainer: Matthew Lincoln
+description: |-
+  Take real or simulated data and salt it with errors commonly
+  found in the wild, such as pseudo-OCR errors, Unicode problems, numeric
+  fields with nonsensical punctuation, bad dates, etc.
+date_publication: '2018-09-17'
+bug_reports: https://github.com/mdlincoln/salty/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=salty
+url_git: https://github.com/mdlincoln/salty

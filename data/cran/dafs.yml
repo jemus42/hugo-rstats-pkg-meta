@@ -1,0 +1,11 @@
+version: 1.0-37
+title: Data analysis for forensic scientists
+maintainer: James Curran
+description: 'Data and miscellanea to support the book "Introduction to<U+000a>Data
+  analysis with R for Forensic Scientists", Curran, J.M.<U+000a>2010 CRC Press ISBN:
+  978-1-4200-8826-7'
+date_publication: '2012-05-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dafs
+url_git: ''

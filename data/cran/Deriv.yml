@@ -1,0 +1,13 @@
+version: '4.0'
+title: Symbolic Differentiation
+maintainer: Serguei Sokol
+description: |-
+  R-based solution for symbolic differentiation. It admits
+  user-defined function as well as function substitution
+  in arguments of functions to be differentiated. Some symbolic
+  simplification is part of the work.
+date_publication: '2019-12-10'
+bug_reports: https://github.com/sgsokol/Deriv/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Deriv
+url_git: ''

@@ -1,0 +1,14 @@
+version: '1.1'
+title: |-
+  Accumulated Local Effects (ALE) Plots and Partial Dependence
+  (PD) Plots
+maintainer: Dan Apley
+description: Visualizes the main effects of individual predictor variables and their
+  second-order interaction effects in black-box supervised learning models. The package
+  creates either Accumulated Local Effects (ALE) plots and/or Partial Dependence (PD)
+  plots, given a fitted supervised learning model.
+date_publication: '2018-05-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ALEPlot
+url_git: ''

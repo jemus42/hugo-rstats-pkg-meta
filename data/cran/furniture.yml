@@ -1,0 +1,16 @@
+version: 1.9.7
+title: Furniture for Quantitative Scientists
+maintainer: Tyson S. Barrett
+description: |-
+  Contains four main functions (i.e., four pieces of furniture):
+  table1() which produces a well-formatted table of descriptive statistics common as Table 1
+  in research articles, tableC() which produces a well-formatted table of correlations,
+  tableF() which provides frequency counts, and washer() which
+  is helpful in cleaning up the data. These furniture-themed functions are designed
+  to simplify common tasks in quantitative analysis. Other data summary and cleaning tools
+  are also available.
+date_publication: '2020-03-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=furniture
+url_git: ''

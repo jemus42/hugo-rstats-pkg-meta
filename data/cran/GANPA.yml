@@ -1,0 +1,11 @@
+version: '1.0'
+title: Gene Association Network-based Pathway Analysis
+maintainer: Zhaoyuan Fang
+description: This package implements a network-based gene weighting<U+000a>algorithm
+  for pathways, as well as a gene-weighted gene set<U+000a>analysis approach for microarray
+  data pathway analysis.
+date_publication: '2011-05-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GANPA
+url_git: ''

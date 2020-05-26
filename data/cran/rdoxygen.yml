@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Create Doxygen Documentation for Source Code
+maintainer: Clemens Schmid
+description: |-
+  Create doxygen documentation for source code in R packages.
+  Includes a RStudio Addin, that allows to trigger the doxygenize process.
+date_publication: '2017-05-25'
+bug_reports: https://github.com/nevrome/rdoxygen/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rdoxygen
+url_git: https://github.com/nevrome/rdoxygen

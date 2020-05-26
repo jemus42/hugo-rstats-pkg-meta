@@ -1,0 +1,10 @@
+version: 0.1.3
+title: Check if Roots of a Polynomial Lie Outside the Unit Circle
+maintainer: Jonathan Berrisch
+description: The uc.check() function checks whether the roots of a given polynomial
+  lie outside the Unit circle. You can also easily draw an unit circle.
+date_publication: '2018-07-27'
+bug_reports: https://github.com/BerriJ/UnitCircle/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=UnitCircle
+url_git: https://github.com/BerriJ/UnitCircle

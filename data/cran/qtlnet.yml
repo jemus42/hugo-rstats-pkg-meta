@@ -1,0 +1,16 @@
+version: 1.5.4
+title: Causal Inference of QTL Networks
+maintainer: Brian S. Yandell
+description: |-
+  Functions to Simultaneously Infer Causal Graphs and Genetic Architecture.
+  Includes acyclic and cyclic graphs for data from an experimental cross with a modest number (<10) of phenotypes driven by
+  a few genetic loci (QTL).
+  Chaibub Neto E, Keller MP, Attie AD, Yandell BS (2010)
+  Causal Graphical Models in Systems Genetics: a unified framework for joint inference of causal network and genetic architecture for correlated phenotypes.
+  Annals of Applied Statistics 4: 320-339.
+  <doi:10.1214/09-AOAS288>.
+date_publication: '2020-04-13'
+bug_reports: ''
+url: http://www.stat.wisc.edu/~yandell/sysgen
+url_cran: https://CRAN.R-project.org/package=qtlnet
+url_git: ''

@@ -1,0 +1,16 @@
+version: 0.14-4
+title: Periodically Correlated and Periodically Integrated Time Series
+maintainer: Georgi N. Boshnakov
+description: |-
+  Classes and methods for modelling and simulation of
+  periodically correlated (PC) and periodically integrated time
+  series.  Compute theoretical periodic autocovariances and related
+  properties of PC autoregressive moving average models. Some original
+  methods including Boshnakov & Iqelan (2009)
+  <doi:10.1111/j.1467-9892.2009.00617.x>, Boshnakov (1996)
+  <doi:10.1111/j.1467-9892.1996.tb00281.x>.
+date_publication: '2020-02-16'
+bug_reports: https://github.com/GeoBosh/pcts/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pcts
+url_git: https://geobosh.github.io/pctshttps://github.com/GeoBosh/pcts

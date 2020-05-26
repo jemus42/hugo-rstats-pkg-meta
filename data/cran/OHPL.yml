@@ -1,0 +1,17 @@
+version: '1.4'
+title: Ordered Homogeneity Pursuit Lasso for Group Variable Selection
+maintainer: Nan Xiao
+description: |-
+  Ordered homogeneity pursuit lasso (OHPL)
+  algorithm for group variable selection proposed in Lin et al. (2017)
+  <DOI:10.1016/j.chemolab.2017.07.004>. The OHPL method exploits the
+  homogeneity structure in high-dimensional data and enjoys the
+  grouping effect to select groups of important variables
+  automatically. This feature makes it particularly useful for
+  high-dimensional datasets with strongly correlated variables,
+  such as spectroscopic data.
+date_publication: '2019-05-18'
+bug_reports: https://github.com/nanxstats/OHPL/issues
+url: https://ohpl.io
+url_cran: https://CRAN.R-project.org/package=OHPL
+url_git: https://github.com/nanxstats/OHPL

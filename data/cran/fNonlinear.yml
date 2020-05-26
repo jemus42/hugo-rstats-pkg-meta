@@ -1,0 +1,14 @@
+version: '3042.79'
+title: Rmetrics - Nonlinear and Chaotic Time Series Modelling
+maintainer: Tobias Setz
+description: |-
+  Provides a collection of functions for testing various aspects of
+  univariate time series including independence and neglected
+  nonlinearities. Further provides functions to investigate the chaotic
+  behavior of time series processes and to simulate different types of chaotic
+  time series maps.
+date_publication: '2017-11-16'
+bug_reports: ''
+url: http://www.rmetrics.org
+url_cran: https://CRAN.R-project.org/package=fNonlinear
+url_git: ''

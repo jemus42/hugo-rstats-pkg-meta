@@ -1,0 +1,13 @@
+version: '0.3'
+title: |-
+  Discrimination/Classification in very high dimension with linear
+  and quadratic rules.
+maintainer: Robin Girard
+description: This package provides an implementation of Linear discriminant analysis
+  and quadratic discriminant analysis that works fine in very high dimension (when
+  there are many more variables than observations).
+date_publication: '2013-12-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=VHDClassification
+url_git: ''

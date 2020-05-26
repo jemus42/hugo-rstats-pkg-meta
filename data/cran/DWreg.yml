@@ -1,0 +1,10 @@
+version: '2.0'
+title: Parametric Regression for Discrete Response
+maintainer: Veronica Vinciotti<veronica.vinciotti@brunel.ac.uk>
+description: Regression for a discrete response, where the conditional distribution
+  is modelled via a discrete Weibull distribution.
+date_publication: '2016-07-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DWreg
+url_git: ''

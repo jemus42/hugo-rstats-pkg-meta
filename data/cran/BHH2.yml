@@ -1,0 +1,12 @@
+version: 2016.05.31
+title: Useful Functions for Box, Hunter and Hunter II
+maintainer: Kjetil B.Halvorsen
+description: |-
+  Functions and data sets reproducing some examples in
+  Box, Hunter and Hunter II.  Useful for statistical design
+  of experiments, especially factorial experiments.
+date_publication: '2016-05-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BHH2
+url_git: ''

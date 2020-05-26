@@ -1,0 +1,14 @@
+version: '0.9'
+title: |-
+  Datasets from Hosmer, Lemeshow and Sturdivant, "Applied Logistic
+  Regression" (3rd Ed., 2013)
+maintainer: Luca Braglia
+description: |-
+  An unofficial companion to "Applied
+  Logistic Regression" by D.W. Hosmer, S. Lemeshow and
+  R.X. Sturdivant (3rd ed., 2013) containing the dataset used in the book.
+date_publication: '2016-10-20'
+bug_reports: https://github.com/lbraglia/aplore3/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=aplore3
+url_git: https://github.com/lbraglia/aplore3

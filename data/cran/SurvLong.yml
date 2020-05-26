@@ -1,0 +1,13 @@
+version: '1.1'
+title: |-
+  Analysis of Proportional Hazards Model with Sparse Longitudinal
+  Covariates
+maintainer: Shannon T. Holloway
+description: Provides kernel weighting methods for estimation of proportional hazards
+  models with intermittently observed longitudinal covariates. Cao H., Churpek M.
+  M., Zeng D., and Fine J. P. (2015) <doi:10.1080/01621459.2014.957289>.
+date_publication: '2020-01-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SurvLong
+url_git: ''

@@ -1,0 +1,9 @@
+version: '1.1'
+title: Various procedures used in psychometry
+maintainer: Bruno Falissard
+description: Kappa, ICC, Cronbach alpha, screeplot, mtmm
+date_publication: '2012-06-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=psy
+url_git: ''

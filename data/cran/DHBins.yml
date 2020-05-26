@@ -1,0 +1,13 @@
+version: '1.1'
+title: Hexmaps for NZ District Health Boards
+maintainer: Thomas Lumley
+description: Draws stylized choropleth maps -- hexagonal maps and triangular multiclass
+  hex maps -- for New Zealand District Health Boards and Regional Council areas. These
+  allow faceted, coloured displays of quantitative information for comparison across
+  District Health Boards or Regional Councils. The preprint Lumley (2019) <arXiv:1912.04435>
+  is based on the methods in this package.
+date_publication: '2019-12-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DHBins
+url_git: ''

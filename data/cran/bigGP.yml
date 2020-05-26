@@ -1,0 +1,17 @@
+version: 0.1-6
+title: Distributed Gaussian Process Calculations
+maintainer: Christopher Paciorek
+description: |-
+  Distributes Gaussian process calculations across nodes
+  in a distributed memory setting, using Rmpi. The bigGP class
+  provides high-level methods for maximum likelihood with normal data,
+  prediction, calculation of uncertainty (i.e., posterior covariance
+  calculations), and simulation of realizations. In addition, bigGP
+  provides an API for basic matrix calculations with distributed
+  covariance matrices, including Cholesky decomposition, back/forwardsolve,
+  crossproduct, and matrix multiplication.
+date_publication: '2015-07-08'
+bug_reports: ''
+url: http://www.jstatsoft.org/v63/i10/
+url_cran: https://CRAN.R-project.org/package=bigGP
+url_git: ''

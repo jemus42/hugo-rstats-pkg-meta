@@ -1,0 +1,11 @@
+version: 0.9.1
+title: GOV.UK Style Templates for R Markdown
+maintainer: Duncan Garmonsway
+description: |-
+  A suite of custom R Markdown formats and templates
+  for authoring web pages styled with the GOV.UK Design System.
+date_publication: '2020-05-13'
+bug_reports: https://github.com/ukgovdatascience/govdown/issues
+url: https://ukgovdatascience.github.io/govdown
+url_cran: https://CRAN.R-project.org/package=govdown
+url_git: ''

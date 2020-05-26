@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Balamuta Miscellaneous
+maintainer: James Balamuta
+description: |-
+  Set of common functions used for manipulating colors,
+  detecting and interacting with 'RStudio', modeling, formatting, determining
+  users' operating system, feature scaling, and more!
+date_publication: '2020-01-08'
+bug_reports: https://github.com/coatless/jjb/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=jjb
+url_git: https://github.com/coatless/jjb

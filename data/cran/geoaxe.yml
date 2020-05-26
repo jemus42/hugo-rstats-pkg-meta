@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Split 'Geospatial' Objects into Pieces
+maintainer: Scott Chamberlain
+description: |-
+  Split 'geospatial' objects into pieces. Includes
+  support for some spatial object inputs, 'Well-Known Text', and
+  'GeoJSON'.
+date_publication: '2016-02-19'
+bug_reports: https://github.com/ropenscilabs/geoaxe/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=geoaxe
+url_git: https://github.com/ropenscilabs/geoaxe

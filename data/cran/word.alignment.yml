@@ -1,0 +1,15 @@
+version: '1.1'
+title: |-
+  Computing Word Alignment Using IBM Model 1 (and Symmetrization)
+  for a Given Parallel Corpus and Its Evaluation
+maintainer: Neda Daneshgar<ne_da978@stu-mail.um.ac.ir>
+description: For a given Sentence-Aligned Parallel Corpus, it aligns words for each
+  sentence pair. It considers one-to-many and symmetrization alignments. Moreover,
+  it evaluates the quality of word alignment based on this package and some other
+  software. It also builds an automatic dictionary of two languages based on given
+  parallel corpus.
+date_publication: '2019-04-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=word.alignment
+url_git: ''

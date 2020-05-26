@@ -1,0 +1,13 @@
+version: 0.9-75
+title: Testing and Plotting Procedures for Biostatistics
+maintainer: Maxime Hervé
+description: Contains miscellaneous functions useful in biostatistics, mostly univariate
+  and multivariate testing procedures with a special emphasis on permutation tests.
+  Many functions intend to simplify user's life by shortening existing procedures
+  or by implementing plotting functions that can be used with as many methods from
+  different packages as possible.
+date_publication: '2020-03-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RVAideMemoire
+url_git: ''

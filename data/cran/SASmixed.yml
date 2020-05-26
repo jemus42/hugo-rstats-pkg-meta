@@ -1,0 +1,12 @@
+version: 1.0-4
+title: Data sets from "SAS System for Mixed Models"
+maintainer: Steven Walker
+description: |-
+  Data sets and sample lmer analyses corresponding
+  to the examples in Littell, Milliken, Stroup and Wolfinger
+  (1996), "SAS System for Mixed Models", SAS Institute.
+date_publication: '2014-03-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SASmixed
+url_git: ''

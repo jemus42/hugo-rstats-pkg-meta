@@ -1,0 +1,13 @@
+version: 1.0-8
+title: Turtle Graphics
+maintainer: Barbara Zogala-Siudem
+description: |-
+  An implementation of turtle graphics
+  <http://en.wikipedia.org/wiki/Turtle_graphics>.
+  Turtle graphics comes from Papert's language Logo and has
+  been used to teach concepts of computer programming.
+date_publication: '2018-02-14'
+bug_reports: https://github.com/gagolews/TurtleGraphics/issues
+url: http://www.gagolewski.com/software/TurtleGraphics/
+url_cran: https://CRAN.R-project.org/package=TurtleGraphics
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.8.0
+title: Interface to 'Digital Ocean'
+maintainer: Scott Chamberlain
+description: |-
+  Provides a set of functions for interacting with the 'Digital
+  Ocean' API at <https://developers.digitalocean.com/documentation/v2>, including
+  creating images, destroying them, rebooting, getting details on regions, and
+  available images.
+date_publication: '2020-01-30'
+bug_reports: https://github.com/sckott/analogsea/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=analogsea
+url_git: https://github.com/sckott/analogsea

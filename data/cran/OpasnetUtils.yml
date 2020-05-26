@@ -1,0 +1,17 @@
+version: '1.3'
+title: Opasnet Modelling Environment Utility Functions
+maintainer: Teemu Rintala
+description: |-
+  Contains tools for open assessment and modelling in Opasnet,
+  a wiki-based web site and workspace for societal decision making
+  (see <http://en.opasnet.org/w/Main_Page> for more information).
+  The core principle of the workspace is maximal openness and modularity.
+  Variables are defined on public wiki pages using wiki inputs/tables,
+  databases and R code. This package provides the functionality to download and use these
+  variables. It also contains health impact assessment tools such as
+  spatial methods for exposure modelling.
+date_publication: '2017-06-30'
+bug_reports: ''
+url: http://en.opasnet.org/w/Main_Page
+url_cran: https://CRAN.R-project.org/package=OpasnetUtils
+url_git: ''

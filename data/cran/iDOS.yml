@@ -1,0 +1,9 @@
+version: 1.0.0
+title: Integrated Discovery of Oncogenic Signatures
+maintainer: Syed Haider
+description: Integrate molecular profiles to discover candidate oncogenic drivers.
+date_publication: '2016-07-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=iDOS
+url_git: ''

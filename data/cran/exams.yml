@@ -1,0 +1,16 @@
+version: 2.3-6
+title: Automatic Generation of Exams in R
+maintainer: Achim Zeileis
+description: |-
+  Automatic generation of exams based on exercises in Markdown or LaTeX format,
+  possibly including R code for dynamic generation of exercise elements.
+  Exercise types include single-choice and multiple-choice questions, arithmetic problems,
+  string questions, and combinations thereof (cloze). Output formats include standalone
+  files (PDF, HTML, Docx, ODT, ...), Moodle XML, QTI 1.2, QTI 2.1, Blackboard, Canvas, OpenOLAT,
+  ARSnova, and TCExam. In addition to fully customizable PDF exams, a standardized PDF format
+  (NOPS) is provided that can be printed, scanned, and automatically evaluated.
+date_publication: '2020-04-06'
+bug_reports: http://www.R-exams.org/contact/
+url: http://www.R-exams.org/
+url_cran: https://CRAN.R-project.org/package=exams
+url_git: ''

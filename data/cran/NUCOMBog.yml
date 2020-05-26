@@ -1,0 +1,13 @@
+version: 1.0.4.2
+title: |-
+  NUtrient Cycling and COMpetition Model Undisturbed Open Bog
+  Ecosystems in a Temperate to Sub-Boreal Climate
+maintainer: J.W.M. Pullens
+description: Modelling the vegetation, carbon, nitrogen and water dynamics of undisturbed
+  open bog ecosystems in a temperate to sub-boreal climate. The executable of the
+  model can downloaded from <https://github.com/jeroenpullens/NUCOMBog>.
+date_publication: '2018-05-20'
+bug_reports: https://github.com/jeroenpullens/NUCOMBog/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=NUCOMBog
+url_git: https://github.com/jeroenpullens/NUCOMBog/

@@ -1,0 +1,12 @@
+version: 3.1.1
+title: |-
+  Ranking Responses in a Single Response Question or a Multiple
+  Response Question
+maintainer: Hsiuying Wang
+description: Methods for ranking responses of a single response question or a multiple
+  response question
+date_publication: '2014-09-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RankResponse
+url_git: ''

@@ -1,0 +1,15 @@
+version: 5.0-1
+title: |-
+  Fitting an Interval Response Variable Using `gamlss.family'
+  Distributions
+maintainer: Mikis Stasinopoulos
+description: |-
+  This is an add-on package to GAMLSS. The purpose of this
+  package is to allow users to fit interval response variables in
+  GAMLSS models. The main function gen.cens() generates a
+  censored version of an existing GAMLSS family distribution.
+date_publication: '2018-06-11'
+bug_reports: ''
+url: http://www.gamlss.org/
+url_cran: https://CRAN.R-project.org/package=gamlss.cens
+url_git: ''

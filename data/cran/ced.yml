@@ -1,0 +1,14 @@
+version: 1.0.1
+title: The Compact Encoding Detector
+maintainer: Artem Klevtsov
+description: |-
+  R bindings of the Google Compact Encoding Detection library
+  (<https://github.com/google/compact_enc_det>). The library takes as input
+  a source buffer of raw text bytes and probabilistically determines the
+  most likely encoding for that text. It was designed with accuracy,
+  robustness, small size, and speed in mind.
+date_publication: '2020-01-14'
+bug_reports: https://gitlab.com/artemklevtsov/ced/issues
+url: https://artemklevtsov.gitlab.io/ced
+url_cran: https://CRAN.R-project.org/package=ced
+url_git: https://gitlab.com/artemklevtsov/ced

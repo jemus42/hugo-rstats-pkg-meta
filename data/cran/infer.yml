@@ -1,0 +1,10 @@
+version: 0.5.1
+title: Tidy Statistical Inference
+maintainer: Andrew Bray
+description: The objective of this package is to perform inference using an expressive
+  statistical grammar that coheres with the tidy design framework.
+date_publication: '2019-11-19'
+bug_reports: https://github.com/tidymodels/infer/issues
+url: https://infer.netlify.com/
+url_cran: https://CRAN.R-project.org/package=infer
+url_git: https://github.com/tidymodels/infer

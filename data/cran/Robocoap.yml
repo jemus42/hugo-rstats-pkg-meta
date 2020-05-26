@@ -1,0 +1,12 @@
+version: 0.1-1
+title: Generation of Dynamic Coappearance Matrices Within Texts
+maintainer: Fran Urbano
+description: |-
+  Generation of dynamic coappearance matrices for elements
+  within a text along with utilities to aid in the generation
+  of Gephi dynamic networks.
+date_publication: '2017-07-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Robocoap
+url_git: ''

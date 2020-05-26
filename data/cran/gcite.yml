@@ -1,0 +1,11 @@
+version: 0.10.1
+title: Google Citation Parser
+maintainer: John Muschelli
+description: |-
+  Scrapes Google Citation pages and creates data frames of
+  citations over time.
+date_publication: '2019-03-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gcite
+url_git: ''

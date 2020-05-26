@@ -1,0 +1,12 @@
+version: '1.2'
+title: A Parallel-Voting Algorithm for many Classifiers
+maintainer: Wannes Rosiers
+description: By sampling your data, running the provided classifier on these samples
+  in parallel on your own machine and letting your models vote on a prediction, we
+  return much faster predictions than the regular machine learning algorithm and possibly
+  even more accurate predictions.
+date_publication: '2015-06-26'
+bug_reports: ''
+url: www.infofarm.be
+url_cran: https://CRAN.R-project.org/package=parallelML
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.2-7
+title: Sparsity by Worst-Case Quadratic Penalties
+maintainer: Julien Chiquet
+description: |-
+  Fits classical sparse regression models with
+  efficient active set algorithms by solving quadratic problems as described in
+  <arXiv:1210.2077>. Also provides a few methods for model selection purpose
+  (cross-validation, stability selection).
+date_publication: '2019-08-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=quadrupen
+url_git: ''

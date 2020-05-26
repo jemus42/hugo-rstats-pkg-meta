@@ -1,0 +1,13 @@
+version: 1.1-5
+title: |-
+  Calculate Sketches using Random Projections to Reduce Large Data
+  Sets
+maintainer: Leo N. Geppert
+description: Calculate sketches of a data set reducing the number of observations
+  using random projections. These can be used for Bayesian or frequentist linear regression
+  on large data sets as described in Geppert et. al (2017) <doi:10.1007/s11222-015-9608-z>.
+date_publication: '2019-08-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RaProR
+url_git: ''

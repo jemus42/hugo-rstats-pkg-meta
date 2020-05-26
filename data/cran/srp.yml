@@ -1,0 +1,12 @@
+version: 1.2.0
+title: Smooth-Rough Partitioning of the Regression Coefficients
+maintainer: Hyeyoung Maeng
+description: |-
+  Performs the change-point detection in regression coefficients of linear model
+  by partitioning the regression coefficients into two classes of smoothness. The change-point and
+  the regression coefficients are jointly estimated.
+date_publication: '2019-04-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=srp
+url_git: ''

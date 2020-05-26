@@ -1,0 +1,17 @@
+version: 1.0.4
+title: |-
+  Markov Regime Switching Copula Models Estimation and Goodness of
+  Fit
+maintainer: Mamadou Yamar Thioub
+description: |-
+  R functions to estimate and perform goodness of fit test for several
+  Markov regime switching and mixture bivariate copula models.
+  The goodness of fit test is based on a Cramer von Mises statistic and
+  uses the Rosenblatt transform and parametric bootstrap to estimate the p-value.
+  The estimation of the copula parameters are based on the pseudo-maximum likelihood
+  method using pseudo-observations defined as normalized ranks.
+date_publication: '2020-04-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HMMcopula
+url_git: ''

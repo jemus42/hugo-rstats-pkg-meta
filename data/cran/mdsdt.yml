@@ -1,0 +1,13 @@
+version: '1.2'
+title: Functions for Analysis of Data with General Recognition Theory
+maintainer: Robert X.D. Hawkins
+description: |-
+  Tools associated with General
+  Recognition Theory (Townsend & Ashby, 1986), including Gaussian model fitting of 2x2 and more
+  general designs, associated plotting and model comparison tools,
+  and tests of marginal response invariance and report independence.
+date_publication: '2016-03-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mdsdt
+url_git: ''

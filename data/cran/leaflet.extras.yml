@@ -1,0 +1,14 @@
+version: 1.0.0
+title: Extra Functionality for 'leaflet' Package
+maintainer: Bhaskar Karambelkar
+description: |-
+  The 'leaflet' JavaScript library provides many plugins some of which
+  are available in the core 'leaflet' package, but there are many more. It is not
+  possible to support them all in the core 'leaflet' package. This package serves
+  as an add-on to the 'leaflet' package by providing extra functionality via 'leaflet'
+  plugins.
+date_publication: '2018-04-21'
+bug_reports: https://github.com/bhaskarvk/leaflet.extras/issues
+url: https://bhaskarvk.github.io/leaflet.extras/
+url_cran: https://CRAN.R-project.org/package=leaflet.extras
+url_git: https://github.com/bhaskarvk/leaflet.extras

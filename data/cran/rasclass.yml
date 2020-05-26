@@ -1,0 +1,15 @@
+version: 0.2.2
+title: Supervised Raster Image Classification
+maintainer: Daniel Wiesmann
+description: 'Software to perform supervised and pixel based raster image classification.
+  It has been designed to facilitate land-cover analysis. Five classification algorithms
+  can be used: Maximum Likelihood Classification, Multinomial Logistic Regression,
+  Neural Networks, Random Forests and Support Vector Machines. The output includes
+  the classified raster and standard classification accuracy assessment such as the
+  accuracy matrix, the overall accuracy and the kappa coefficient. An option for in-sample
+  verification is available.'
+date_publication: '2016-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rasclass
+url_git: ''

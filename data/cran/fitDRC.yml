@@ -1,0 +1,11 @@
+version: 1.1.1
+title: Fitting Density Ratio Classes
+maintainer: Peter Reichert
+description: |-
+  Fits Density Ratio Classes to elicited
+  probability-quantile points or intervals.
+date_publication: '2018-06-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fitDRC
+url_git: ''

@@ -1,0 +1,10 @@
+version: '1.1'
+title: Estimation of Heritability in Linear Mixed Models
+maintainer: Anna Bonnet
+description: Estimation of heritability with confidence intervals in linear mixed
+  models.
+date_publication: '2015-04-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HiLMM
+url_git: ''

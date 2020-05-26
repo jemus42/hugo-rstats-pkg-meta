@@ -1,0 +1,9 @@
+version: 0.1.2
+title: Bindings for the Google Translate API v2
+maintainer: Peter Danenberg
+description: Bindings for the Google Translate API v2
+date_publication: '2014-07-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=translate
+url_git: ''

@@ -1,0 +1,16 @@
+version: 1.0.0
+title: VPC Percentiles and Prediction Intervals
+maintainer: James Craig
+description: |-
+  Perform a Visual Predictive Check (VPC), while accounting for
+  stratification, censoring, and prediction correction. Using piping from
+  'magrittr', the intuitive syntax gives users a flexible and powerful method
+  to generate VPCs using both traditional binning and a new binless approach
+  Jamsen et al. (2018) <doi:10.1002/psp4.12319> with Additive Quantile
+  Regression (AQR) and Locally Estimated Scatterplot Smoothing (LOESS)
+  prediction correction.
+date_publication: '2020-03-26'
+bug_reports: https://github.com/jameswcraig/tidyvpc/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tidyvpc
+url_git: https://github.com/jameswcraig/tidyvpc

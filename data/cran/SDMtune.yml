@@ -1,0 +1,15 @@
+version: 1.1.0
+title: Species Distribution Model Selection
+maintainer: Sergio Vignali
+description: |-
+  User-friendly framework that enables the training and the
+  evaluation of species distribution models (SDMs). The package implements
+  functions for data driven variable selection and model tuning and includes
+  numerous utilities to display the results. All the functions used to select
+  variables or to tune model hyperparameters have an interactive real-time
+  chart displayed in the 'RStudio' viewer pane during their execution.
+date_publication: '2020-03-11'
+bug_reports: https://github.com/ConsBiol-unibern/SDMtune/issues
+url: https://consbiol-unibern.github.io/SDMtune/
+url_cran: https://CRAN.R-project.org/package=SDMtune
+url_git: ''

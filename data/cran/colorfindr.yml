@@ -1,0 +1,13 @@
+version: 0.1.4
+title: |-
+  Extract Colors from Windows BMP, JPEG, PNG, TIFF, and SVG Format
+  Images
+maintainer: David Zumbach
+description: |-
+  Extracts colors from various image types, returns customized reports and plots treemaps
+  and 3D scatterplots of image compositions. Color palettes can also be created.
+date_publication: '2019-02-01'
+bug_reports: https://github.com/zumbov2/colorfindr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=colorfindr
+url_git: ''

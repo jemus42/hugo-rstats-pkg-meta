@@ -1,0 +1,10 @@
+version: '1.2'
+title: Data to Accompany Smithson & Merkle, 2013
+maintainer: Ed Merkle
+description: Contains data files to accompany Smithson & Merkle (2013), Generalized
+  Linear Models for Categorical and Continuous Limited Dependent Variables.
+date_publication: '2018-05-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=smdata
+url_git: ''

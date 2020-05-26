@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Track R Package Downloads from RStudio's CRAN Mirror
+maintainer: Jirka Lewandowski
+description: |-
+  Allows to get and cache R package download log files
+  from RStudio's CRAN mirror for analyzing package usage.
+date_publication: '2015-09-23'
+bug_reports: |2-
+
+  http://gitlab.points-of-interest.cc/points-of-interest/packagetrackr/issues
+url: http://gitlab.points-of-interest.cc/points-of-interest/packagetrackrhttp://cran-logs.rstudio.com/
+url_cran: https://CRAN.R-project.org/package=packagetrackr
+url_git: ''

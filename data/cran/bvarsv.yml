@@ -1,0 +1,14 @@
+version: '1.1'
+title: |-
+  Bayesian Analysis of a Vector Autoregressive Model with
+  Stochastic Volatility and Time-Varying Parameters
+maintainer: Fabian Krueger
+description: R/C++ implementation of the model proposed by Primiceri ("Time Varying
+  Structural Vector Autoregressions and Monetary Policy", Review of Economic Studies,
+  2005), with functionality for computing posterior predictive distributions and impulse
+  responses.
+date_publication: '2015-11-25'
+bug_reports: ''
+url: https://sites.google.com/site/fk83research/code
+url_cran: https://CRAN.R-project.org/package=bvarsv
+url_git: ''

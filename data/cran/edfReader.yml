@@ -1,0 +1,14 @@
+version: 1.2.1
+title: Reading EDF(+) and BDF(+) Files
+maintainer: Jan Vis
+description: |-
+  Reads European Data Format files EDF and EDF+, see <http://www.edfplus.info>,
+  BioSemi Data Format files BDF, see <http://www.biosemi.com/faq/file_format.htm>,
+  and BDF+ files, see <http://www.teuniz.net/edfbrowser/bdfplus%20format%20description.html>.
+  The files are read in two steps: first the header is read
+  and then the signals (using the header object as a parameter).
+date_publication: '2019-03-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=edfReader
+url_git: ''

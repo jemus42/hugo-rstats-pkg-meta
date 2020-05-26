@@ -1,0 +1,12 @@
+version: 1.2.13
+title: Panel Data Wrangling Tools
+maintainer: Juraj Szitás
+description: |-
+  Leading/lagging a panel, creating dummy variables,
+  taking panel differences, looking for panel autocorrelations,
+  and more. Implemented via a 'data.table' back end.
+date_publication: '2019-10-03'
+bug_reports: https://github.com/JSzitas/panelWranglR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=panelWranglR
+url_git: https://github.com/JSzitas/panelWranglR

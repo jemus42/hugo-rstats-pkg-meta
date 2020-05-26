@@ -1,0 +1,15 @@
+version: 1.0.0
+title: |-
+  An R Interface to Open-Access Malaria Data, Hosted by the
+  'Malaria Atlas Project'
+maintainer: Tim Lucas
+description: |-
+  A suite of tools to allow you to download all
+  publicly available parasite rate survey points, mosquito occurrence points and raster surfaces from
+  the 'Malaria Atlas Project' <https://malariaatlas.org/> servers as well as utility functions for plotting
+  the downloaded data.
+date_publication: '2020-02-24'
+bug_reports: https://github.com/malaria-atlas-project/malariaAtlas/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=malariaAtlas
+url_git: https://github.com/malaria-atlas-project/malariaAtlas

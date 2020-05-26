@@ -1,0 +1,17 @@
+version: 0.1.0
+title: Isolate-Detect Methodology for Multiple Change-Point Detection
+maintainer: Andreas Anastasiou
+description: |-
+  Provides efficient implementation of the Isolate-Detect
+  methodology for the consistent estimation of the number and location of multiple
+  change-points in one-dimensional data sequences from the "deterministic
+  + noise" model. For details on the Isolate-Detect methodology, please see Anastasiou and
+  Fryzlewicz (2018) <https://docs.wixstatic.com/ugd/24cdcc_6a0866c574654163b8255e272bc0001b.pdf>.
+  Currently implemented scenarios are: piecewise-constant signal with Gaussian
+  noise, piecewise-constant signal with heavy-tailed noise, continuous piecewise-linear
+  signal with Gaussian noise, continuous piecewise-linear signal with heavy-tailed noise.
+date_publication: '2018-03-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IDetect
+url_git: ''

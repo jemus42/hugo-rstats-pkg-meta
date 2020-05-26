@@ -1,0 +1,12 @@
+version: 1.4.0
+title: Column-Linked and Row-Linked Matrices
+maintainer: Alexander Grueneberg
+description: |-
+  A class that links matrix-like objects (nodes) by rows or by
+  columns while behaving similarly to a base R matrix. Very large matrices
+  are supported if the nodes are file-backed matrices.
+date_publication: '2020-05-22'
+bug_reports: https://github.com/QuantGen/LinkedMatrix/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=LinkedMatrix
+url_git: https://github.com/QuantGen/LinkedMatrix

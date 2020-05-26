@@ -1,0 +1,13 @@
+version: 0.6-3
+title: WOFOST Crop Growth Simulation Model
+maintainer: Robert J. Hijmans
+description: An implementation of the WOFOST ("World Food Studies") crop growth model.
+  WOFOST is a dynamic simulation model that uses daily weather data, and crop, soil
+  and management parameters to simulate crop growth and development. See De Wit et
+  al. (2019) <doi:10.1016/j.agsy.2018.06.018> for a recent review of the history and
+  use of the model.
+date_publication: '2020-03-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rwofost
+url_git: https://github.com/cropmodels/Rwofost

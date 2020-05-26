@@ -1,0 +1,18 @@
+version: 0.1-1
+title: |-
+  A data smoothing approach to explore and test gene-environment
+  interaction in case-parent trio data
+maintainer: Ji-Hyung Shin
+description: |-
+  The package contains functions that 1) estimates
+  gene-environment interaction between a SNP and a continuous
+  non-genetic attribute by fitting a generalized additive model
+  to case-parent trio data, 2) produces graphical displays of
+  estimated interaction, 3) performs permutation test of
+  gene-environment interaction; 4) simulates informative
+  case-parent trios.
+date_publication: '2013-04-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=trioGxE
+url_git: ''

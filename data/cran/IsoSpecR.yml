@@ -1,0 +1,17 @@
+version: 2.0.1
+title: The IsoSpec Algorithm
+maintainer: Matteo Lacki
+description: |-
+  IsoSpec is a fine structure calculator used for obtaining the most
+  probable masses of a chemical compound given the frequencies of the composing
+  isotopes and their masses. It finds the smallest set of isotopologues with
+  a given probability. The probability is assumed to be that of the product of
+  multinomial distributions, each corresponding to one particular element and
+  parametrized by the frequencies of finding these elements in nature. These
+  numbers are supplied by IUPAC - the International Union of Pure and Applied
+  Chemistry.
+date_publication: '2019-05-22'
+bug_reports: ''
+url: http://matteolacki.github.io/IsoSpec/
+url_cran: https://CRAN.R-project.org/package=IsoSpecR
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.0.2
+title: Gene Annotation of Rice (Oryza Sativa L.spp.japonica)
+maintainer: Xiang LI
+description: |-
+  Gene annotation of rice (Oryza Sativa L.spp.japonica).
+  The package is based on the annotation file from the website <http://plants.ensembl.org/Oryza_sativa/Info/Index>.
+  Input gene's name then return some information, including the from position, the end position,
+  the position type and the chromosome number.
+date_publication: '2020-02-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ricegeneann
+url_git: ''

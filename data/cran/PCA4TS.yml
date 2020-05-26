@@ -1,0 +1,15 @@
+version: '0.1'
+title: |-
+  Segmenting Multiple Time Series by Contemporaneous Linear
+  Transformation
+maintainer: Bin Guo
+description: |-
+  To seek for a contemporaneous linear transformation for
+  a multivariate time series such that the transformed series is segmented
+  into several lower-dimensional subseries, and those subseries are
+  uncorrelated with each other both contemporaneously and serially.
+date_publication: '2015-08-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PCA4TS
+url_git: ''

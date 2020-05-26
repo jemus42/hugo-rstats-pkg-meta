@@ -1,0 +1,13 @@
+version: 1.0.1
+title: Bayesian Analysis of Contingency Table Data
+maintainer: Matthew Friedlander
+description: The function MC3() searches for log-linear models with the highest posterior
+  probability. The function gibbsSampler() is a blocked Gibbs sampler for sampling
+  from the posterior distribution of the log-linear parameters. The functions findPostMean()
+  and findPostCov() compute the posterior mean and covariance matrix for decomposable
+  models which, for these models, is available in closed form.
+date_publication: '2016-12-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bayesloglin
+url_git: ''

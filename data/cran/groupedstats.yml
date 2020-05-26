@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Grouped Statistical Analyses in a Tidy Way
+maintainer: Indrajeet Patil
+description: |-
+  Collection of functions to run statistical tests
+  across all combinations of multiple grouping variables.
+date_publication: '2020-05-05'
+bug_reports: https://github.com/IndrajeetPatil/groupedstats/issues/
+url: https://indrajeetpatil.github.io/groupedstats/
+url_cran: https://CRAN.R-project.org/package=groupedstats
+url_git: https://github.com/IndrajeetPatil/groupedstats/

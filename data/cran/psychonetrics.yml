@@ -1,0 +1,11 @@
+version: 0.7.1
+title: Structural Equation Modeling and Confirmatory Network Analysis
+maintainer: Sacha Epskamp
+description: Multi-group (dynamical) structural equation models in combination with
+  confirmatory network models from cross-sectional, time-series and panel data <doi:10.31234/osf.io/8ha93>.
+  Allows for confirmatory testing and fit as well as exploratory model search.
+date_publication: '2020-04-15'
+bug_reports: https://github.com/SachaEpskamp/psychonetrics/issues
+url: http://psychonetrics.org/
+url_cran: https://CRAN.R-project.org/package=psychonetrics
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.2.0
+title: OLS growth curve trajectories
+maintainer: Phil Chalmers
+description: |-
+  Provides tools for more easily organizing and
+  plotting individual ordinary least square (OLS) growth curve
+  trajectories.
+date_publication: '2014-02-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OLScurve
+url_git: https://github.com/philchalmers/OLScurve

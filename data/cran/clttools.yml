@@ -1,0 +1,11 @@
+version: '1.3'
+title: Central Limit Theorem Experiments (Theoretical and Simulation)
+maintainer: Simiao Ye
+description: Central limit theorem experiments presented by data frames or plots.
+  Functions include generating theoretical sample space, corresponding probability,
+  and simulated results as well.
+date_publication: '2016-02-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=clttools
+url_git: ''

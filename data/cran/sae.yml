@@ -1,0 +1,9 @@
+version: '1.3'
+title: Small Area Estimation
+maintainer: Yolanda Marhuenda
+description: Functions for small area estimation.
+date_publication: '2020-03-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sae
+url_git: ''

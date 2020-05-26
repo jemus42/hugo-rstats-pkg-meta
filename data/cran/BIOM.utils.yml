@@ -1,0 +1,10 @@
+version: '0.9'
+title: Utilities for the BIOM (Biological Observation Matrix) Format
+maintainer: Daniel T. Braithwaite
+description: Provides utilities to facilitate import, export and computation with
+  the<U+000a>BIOM (Biological Observation Matrix) format (http://biom-format.org).
+date_publication: '2014-08-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BIOM.utils
+url_git: https://github.com/braithwaite/BIOM.utils/

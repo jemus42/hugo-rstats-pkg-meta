@@ -1,0 +1,11 @@
+version: '0.3'
+title: Interactive model exploration using GGobi
+maintainer: Hadley Wickham
+description: |-
+  Exploratory model analysis.  Fit and graphical
+  explore ensembles of linear models.
+date_publication: '2014-04-23'
+bug_reports: https://github.com/hadley/meifly/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=meifly
+url_git: https://github.com/hadley/meifly

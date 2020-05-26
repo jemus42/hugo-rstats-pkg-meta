@@ -1,0 +1,11 @@
+version: 0.6-9
+title: Interface (Wrapper) to MPI (Message-Passing Interface)
+maintainer: Hao Yu
+description: |-
+  An interface (wrapper) to MPI. It also
+  provides interactive R manager and worker environment.
+date_publication: '2018-11-13'
+bug_reports: ''
+url: http://fisher.stats.uwo.ca/faculty/yu/Rmpi
+url_cran: https://CRAN.R-project.org/package=Rmpi
+url_git: ''

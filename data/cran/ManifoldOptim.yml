@@ -1,0 +1,15 @@
+version: 1.0.0
+title: |-
+  An R Interface to the 'ROPTLIB' Library for Riemannian Manifold
+  Optimization
+maintainer: Sean R. Martin
+description: |-
+  An R interface to version 0.3 of the 'ROPTLIB' optimization library
+  (see <http://www.math.fsu.edu/~whuang2> for more information). Optimize real-
+  valued functions over manifolds such as Stiefel, Grassmann, and Symmetric
+  Positive Definite matrices. For details see Martin et. al. (2020) <doi:10.18637/jss.v093.i01>.
+date_publication: '2020-04-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ManifoldOptim
+url_git: ''

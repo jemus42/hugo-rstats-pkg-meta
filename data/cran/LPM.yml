@@ -1,0 +1,12 @@
+version: '2.8'
+title: Linear Parametric Models Applied to Hydrological Series
+maintainer: Corrado Tallerini
+description: |-
+  Apply Univariate Long Memory Models,
+  Apply Multivariate Short Memory Models To Hydrological Dataset,
+  Estimate Intensity Duration Frequency curve to rainfall series.
+date_publication: '2020-01-25'
+bug_reports: http://www.corradotallerini.altervista.org/contatti.html
+url: http://www.corradotallerini.altervista.org/lpm.html
+url_cran: https://CRAN.R-project.org/package=LPM
+url_git: ''

@@ -1,0 +1,15 @@
+version: 0.0.7
+title: |-
+  Coordinate-Descent Algorithm for Learning Sparse Discrete
+  Bayesian Networks
+maintainer: Jiaying Gu
+description: |-
+  Structure learning of Bayesian network using coordinate-descent
+  algorithm. This algorithm is designed for discrete network assuming a multinomial data set,
+  and we use a multi-logit model to do the regression.
+  The algorithm is described in Gu, Fu and Zhou (2016) <arXiv:1403.2310>.
+date_publication: '2020-03-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=discretecdAlgorithm
+url_git: ''

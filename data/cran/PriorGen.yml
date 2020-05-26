@@ -1,0 +1,11 @@
+version: 1.1.2
+title: Generates Prior Distributions for Proportions
+maintainer: Polychronis Kostoulas
+description: Translates beliefs into prior information in the form of Beta and Gamma
+  distributions. It can be mainly used for the generation of priors on the prevalence
+  of disease and the sensitivity/specificity of diagnostic tests.
+date_publication: '2018-05-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PriorGen
+url_git: ''

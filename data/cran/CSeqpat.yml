@@ -1,0 +1,9 @@
+version: 0.1.2
+title: Frequent Contiguous Sequential Pattern Mining of Text
+maintainer: Anantha Janakiraman
+description: Mines contiguous sequential patterns in text.
+date_publication: '2018-07-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CSeqpat
+url_git: ''

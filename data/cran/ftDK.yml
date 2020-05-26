@@ -1,0 +1,12 @@
+version: '1.0'
+title: A Wrapper for the API of the Danish Parliament
+maintainer: Mikkel Freltoft Krogsholm
+description: |-
+  A wrapper for the API of the Danish Parliament. It makes it
+  possible to get data from the API easily into a data frame. Learn more at
+  <http://www.ft.dk/dokumenter/aabne_data>.
+date_publication: '2017-06-21'
+bug_reports: https://github.com/mikkelkrogsholm/ftDK/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ftDK
+url_git: https://github.com/mikkelkrogsholm/ftDK

@@ -1,0 +1,9 @@
+version: '1.0'
+title: package for roc curve plot with ggplot2
+maintainer: Honglong Wu
+description: package for roc curve plot with ggplot2
+date_publication: '2013-05-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggROC
+url_git: ''

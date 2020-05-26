@@ -1,0 +1,14 @@
+version: 0.2.2
+title: Satellite Derived Water Quality Detection Algorithms
+maintainer: Richard Johansen
+description: |-
+  The goal of 'waterquality' is to convert satellite-reflectance imagery
+  to a host of pre-defined water quality algorithms designed for the detection of
+  chlorophyll-a, blue-green algae (Phycocyanin), and turbidity.
+  This package is able to process the following sensor configurations:
+  WorldView-2, Sentinel-2, Landsat-8, MODIS, and MERIS.
+date_publication: '2018-12-18'
+bug_reports: https://github.com/RAJohansen/waterquality/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=waterquality
+url_git: https://github.com/RAJohansen/waterquality

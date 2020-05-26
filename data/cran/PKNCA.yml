@@ -1,0 +1,11 @@
+version: 0.9.3
+title: Perform Pharmacokinetic Non-Compartmental Analysis
+maintainer: Bill Denney
+description: |-
+  Compute standard Non-Compartmental Analysis (NCA) parameters for
+  typical pharmacokinetic analyses and summarize them.
+date_publication: '2020-04-12'
+bug_reports: https://github.com/billdenney/pknca/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=PKNCA
+url_git: https://github.com/billdenney/pknca

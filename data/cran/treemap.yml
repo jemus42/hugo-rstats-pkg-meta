@@ -1,0 +1,11 @@
+version: 2.4-2
+title: Treemap Visualization
+maintainer: Martijn Tennekes
+description: |-
+  A treemap is a space-filling visualization of hierarchical
+  structures. This package offers great flexibility to draw treemaps.
+date_publication: '2017-01-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=treemap
+url_git: ''

@@ -1,0 +1,16 @@
+version: 0.3.0
+title: |-
+  Calculation of Groundwater Mounding Beneath an Infiltration
+  Basin
+maintainer: Michael Rustler
+description: |-
+  Calculation groundwater mounding beneath an
+  infiltration basin based on the Hantush (1967) equation
+  (<doi:10.1029/WR003i001p00227>). The correct implementation is shown
+  with a verification example based on a USGS report (page 25,
+  <https://pubs.usgs.gov/sir/2010/5102/support/sir2010-5102.pdf#page=35>).
+date_publication: '2019-09-17'
+bug_reports: https://github.com/KWB-R/kwb.hantush/issues
+url: https://kwb-r.github.io/kwb.hantush
+url_cran: https://CRAN.R-project.org/package=kwb.hantush
+url_git: https://github.com/KWB-R/kwb.hantush

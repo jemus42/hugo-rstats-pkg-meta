@@ -1,0 +1,12 @@
+version: 1.1.0
+title: TV Show Themes and Color Palettes for 'ggplot2' Graphics
+maintainer: Ryo Nakagawara
+description: |-
+  Contains various 'ggplot2' themes and color palettes based on TV shows
+  such as 'Game of Thrones', 'Brooklyn Nine-Nine', 'Avatar: The Last Airbender',
+  'Spongebob Squarepants', and more.
+date_publication: '2019-10-31'
+bug_reports: https://github.com/Ryo-N7/tvthemes/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tvthemes
+url_git: https://github.com/Ryo-N7/tvthemes

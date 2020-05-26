@@ -1,0 +1,17 @@
+version: 0.9.1
+title: Project Multidimensional Data in 2D Space
+maintainer: Yann Abraham
+description: |-
+  An implementation of the radviz projection in R. It enables the visualization of
+  multidimensional data while maintaining the relation to the original dimensions.
+  This package provides functions to create and plot radviz projections, and a number of summary
+  plots that enable comparison and analysis. For reference see Ankerst *et al.* (1996)
+  (<http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.68.1811>) for original implementation,
+  see Di Caro *et al* (2012) (<http://link.springer.com/chapter/10.1007/978-3-642-13672-6_13>)
+  for the original method for dimensional anchor arrangements, see Demsar *et al.* (2007)
+  (<doi:10.1016/j.jbi.2007.03.010>) for the original Freeviz implementation.
+date_publication: '2020-03-29'
+bug_reports: http://github.com/yannabraham/Radviz/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Radviz
+url_git: http://github.com/yannabraham/Radviz

@@ -1,0 +1,11 @@
+version: 2.0.0
+title: Poisson Fixed Effects Robust
+maintainer: Evan Wright
+description: |-
+  Computation of robust standard errors of Poisson fixed effects
+  models, following Wooldridge (1999).
+date_publication: '2020-02-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=poisFErobust
+url_git: https://bitbucket.org/ew-btb/poisson-fe-robust

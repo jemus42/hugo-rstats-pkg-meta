@@ -1,0 +1,15 @@
+version: 0.1.2
+title: |-
+  Data Published by the United States Federal Energy Regulatory
+  Commission
+maintainer: Paul Govan
+description: |-
+  Data published by the United States Federal Energy Regulatory Commission including
+  electric company financial data, natural gas company financial data,
+  hydropower plant data, liquified natural gas plant data, oil company financial data
+  natural gas company financial data, and natural gas storage field data.
+date_publication: '2018-12-02'
+bug_reports: https://github.com/paulgovan/energyr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=energyr
+url_git: https://github.com/paulgovan/energyr

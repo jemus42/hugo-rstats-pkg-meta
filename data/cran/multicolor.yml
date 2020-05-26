@@ -1,0 +1,9 @@
+version: 0.1.4
+title: Add Multiple Colors to your Console & RMarkdown Output
+maintainer: Amanda Dobbyn
+description: Add multiple colors to text that is printed to the console.
+date_publication: '2020-02-03'
+bug_reports: https://github.com/aedobbyn/multicolor/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=multicolor
+url_git: http://github.com/aedobbyn/multicolor/

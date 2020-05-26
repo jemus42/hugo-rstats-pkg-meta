@@ -1,0 +1,13 @@
+version: 0.1.2
+title: CEU Mass Mediator RESTful API
+maintainer: Yaoxiang Li
+description: |-
+  CEU (CEU San Pablo University) Mass Mediator is an on-line tool for aiding researchers in
+  performing metabolite annotation. 'cmmr' (CEU Mass Mediator RESTful API) allows
+  for programmatic access in R: batch search, batch advanced search, MS/MS (tandem mass spectrometry) search, etc.
+  For more information about the API Endpoint please go to <https://github.com/lzyacht/cmmr>.
+date_publication: '2019-04-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cmmr
+url_git: https://github.com/lzyacht/cmmr

@@ -1,0 +1,10 @@
+version: 2.0-0
+title: Color Schemes for Dichromats
+maintainer: Thomas Lumley
+description: Collapse red-green or green-blue distinctions to simulate<U+000a>the
+  effects of different types of color-blindness.
+date_publication: '2013-01-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dichromat
+url_git: ''

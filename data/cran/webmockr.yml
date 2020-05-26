@@ -1,0 +1,15 @@
+version: 0.6.2
+title: Stubbing and Setting Expectations on 'HTTP' Requests
+maintainer: Scott Chamberlain
+description: |-
+  Stubbing and setting expectations on 'HTTP' requests.
+  Includes tools for stubbing 'HTTP' requests, including expected
+  request conditions and response conditions. Match on
+  'HTTP' method, query parameters, request body, headers and
+  more. Can be used for unit tests or outside of a testing
+  context.
+date_publication: '2020-03-24'
+bug_reports: https://github.com/ropensci/webmockr/issues
+url: https://books.ropensci.org/http-testing(usermanual)
+url_cran: https://CRAN.R-project.org/package=webmockr
+url_git: https://github.com/ropensci/webmockr(devel)

@@ -1,0 +1,13 @@
+version: 0.2-13
+title: A Text Mining Toolkit for Chinese
+maintainer: Jian Li
+description: |-
+  A Text mining toolkit for Chinese, which includes facilities for
+  Chinese string processing, Chinese NLP supporting, encoding detecting and
+  converting. Moreover, it provides some functions to support 'tm' package
+  in Chinese.
+date_publication: '2019-08-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tmcn
+url_git: ''

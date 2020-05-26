@@ -1,0 +1,9 @@
+version: '0.74'
+title: Quality Assurance Toolkit
+maintainer: Andre Duesterhus
+description: Functions for a scientific quality assurance of meteorological data.
+date_publication: '2016-07-24'
+bug_reports: ''
+url: http://www.aduesterhus.net/qat
+url_cran: https://CRAN.R-project.org/package=qat
+url_git: ''

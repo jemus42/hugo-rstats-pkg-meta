@@ -1,0 +1,13 @@
+version: '1.1'
+title: Sparsity Oriented Importance Learning
+maintainer: Yi Yang
+description: Sparsity Oriented Importance Learning (SOIL) provides a new variable
+  importance measure for high dimensional linear regression and logistic regression
+  from a sparse penalization perspective, by taking into account the variable selection
+  uncertainty via the use of a sensible model weighting. The package is an implementation
+  of Ye, C., Yang, Y., and Yang, Y. (2017+).
+date_publication: '2017-09-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SOIL
+url_git: https://github.com/emeryyi/SOIL

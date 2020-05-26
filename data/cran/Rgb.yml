@@ -1,0 +1,11 @@
+version: 1.6.1
+title: The R Genome Browser
+maintainer: Sylvain Mareschal
+description: Classes and methods to efficiently handle (slice, annotate, draw ...)
+  genomic features (such as genes or transcripts), and an interactive interface to
+  browse them.
+date_publication: '2018-03-18'
+bug_reports: https://github.com/maressyl/R.Rgb/issues
+url: http://bioinformatics.ovsa.fr/Rgb
+url_cran: https://CRAN.R-project.org/package=Rgb
+url_git: ''

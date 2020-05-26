@@ -1,0 +1,14 @@
+version: 0.1.0
+title: Uplift Model Evaluation with Plots and Metrics
+maintainer: Roland Stevenson
+description: |-
+  Provides a variety of plots and metrics to evaluate
+  uplift models including the 'R uplift' package's Qini metric and Qini plot,
+  a port of the 'python pylift' module's plotting function, and
+  an alternative plot (in beta) useful for continuous outcomes.
+  Background: Radcliffe (2007) <https://pdfs.semanticscholar.org/147b/32f3d56566c8654a9999c5477dded233328e.pdf>.
+date_publication: '2019-06-15'
+bug_reports: https://github.com/ras44/uplifteval/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=uplifteval
+url_git: https://github.com/ras44/uplifteval

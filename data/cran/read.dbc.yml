@@ -1,0 +1,12 @@
+version: 1.0.5
+title: Read Data Stored in DBC (Compressed DBF) Files
+maintainer: Daniela Petruzalek
+description: Functions for reading and decompressing the DBC (compressed DBF) files.
+  Please note that this is the file format used by the Brazilian Ministry of Health
+  (DATASUS) to publish healthcare datasets. It is not related to the FoxPro or CANdb
+  DBC file formats.
+date_publication: '2016-09-16'
+bug_reports: https://github.com/danicat/read.dbc/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=read.dbc
+url_git: https://github.com/danicat/read.dbc

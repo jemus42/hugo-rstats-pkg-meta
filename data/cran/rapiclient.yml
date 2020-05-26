@@ -1,0 +1,12 @@
+version: 0.1.3
+title: Dynamic OpenAPI/Swagger Client
+maintainer: Darko Bergant
+description: |-
+  Access services specified in OpenAPI (formerly Swagger) format.
+  It is not a code generator. Client is generated dynamically as a list of R
+  functions.
+date_publication: '2020-01-17'
+bug_reports: https://github.com/bergant/rapiclient/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rapiclient
+url_git: https://github.com/bergant/rapiclient

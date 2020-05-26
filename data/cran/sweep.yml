@@ -1,0 +1,16 @@
+version: 0.2.2
+title: Tidy Tools for Forecasting
+maintainer: Matt Dancho
+description: |2-
+
+  Tidies up the forecasting modeling and prediction work flow,
+  extends the 'broom' package
+  with 'sw_tidy', 'sw_glance', 'sw_augment', and 'sw_tidy_decomp' functions
+  for various forecasting models,
+  and enables converting 'forecast' objects to
+  "tidy" data frames with 'sw_sweep'.
+date_publication: '2019-10-08'
+bug_reports: https://github.com/business-science/sweep/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sweep
+url_git: https://github.com/business-science/sweep

@@ -1,0 +1,15 @@
+version: 2.0.0
+title: |-
+  Generate MUAC and BMI z-Scores and Percentiles for Children and
+  Adolescents
+maintainer: Lazarus Mramba
+description: |-
+  Generates mid upper arm circumference (MUAC) and body mass index (BMI)
+  for age z-scores and percentiles based on LMS method for children and
+  adolescents up to 19 years that can be used to assess nutritional and health status and
+  define risk of adverse health events.
+date_publication: '2020-05-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MUACz
+url_git: ''

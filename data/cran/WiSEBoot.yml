@@ -1,0 +1,11 @@
+version: 1.4.0
+title: Wild Scale-Enhanced Bootstrap
+maintainer: Megan Heyman
+description: |-
+  Perform the Wild Scale-Enhanced (WiSE) bootstrap.  Specifically, the user may supply a single or multiple equally-spaced time series and use the WiSE bootstrap to select a wavelet-smoothed model.  Conversely, a pre-selected smooth level may also be specified for the time series.  Quantities such as the bootstrap sample of wavelet coefficients, smoothed bootstrap samples, and specific hypothesis testing and confidence region results of the wavelet coefficients may be obtained.  Additional functions are available to the user which help format the time series before analysis.  This methodology is recommended to aid in model selection and signal extraction.
+  Note:  This package specifically uses wavelet bases in the WiSE bootstrap methodology, but the theoretical construct is much more versatile.
+date_publication: '2016-04-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=WiSEBoot
+url_git: ''

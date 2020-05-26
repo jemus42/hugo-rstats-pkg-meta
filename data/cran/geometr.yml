@@ -1,0 +1,13 @@
+version: 0.2.4
+title: Generate and Modify Interoperable Geometric Shapes
+maintainer: Steffen Ehrmann
+description: |-
+  Provides tools that generate and process fully accessible and tidy
+  geometric shapes. The package improves interoperability of spatial and
+  other geometric classes by providing getters and setters that produce
+  identical output from various classes.
+date_publication: '2020-03-30'
+bug_reports: https://github.com/EhrmannS/geometr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=geometr
+url_git: https://github.com/EhrmannS/geometr

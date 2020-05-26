@@ -1,0 +1,14 @@
+version: '2.7'
+title: Assertive Programming for R Analysis Pipelines
+maintainer: Tony Fischetti
+description: |-
+  Provides functionality to assert conditions
+  that have to be met so that errors in data used in
+  analysis pipelines can fail quickly. Similar to
+  'stopifnot()' but more powerful, friendly, and easier
+  for use in pipelines.
+date_publication: '2020-02-05'
+bug_reports: https://github.com/ropensci/assertr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=assertr
+url_git: https://docs.ropensci.org/assertr(website)https://github.com/ropensci/assertr

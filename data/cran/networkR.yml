@@ -1,0 +1,15 @@
+version: 0.1.2
+title: Network Analysis and Visualization
+maintainer: Claus Thorn Ekstrøm
+description: |-
+  Collection of functions for fast manipulation, handling, and analysis of large-scale
+  networks based on family and social data. Functions are utility functions used to manipulate data
+  in three "formats": sparse adjacency matrices, pedigree trio family data, and pedigree family data.
+  When possible, the functions should be able to handle millions of data points quickly for use in combination
+  with data from large public national registers and databases.
+  Kenneth Lange (2003, ISBN:978-8181281135).
+date_publication: '2019-09-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=networkR
+url_git: ''

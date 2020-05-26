@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Extract 'TIOBE' Programming Index Tables for the Latest Month
+maintainer: AbdulMajedRaja RS
+description: |-
+  Get latest 'TIOBE' Programming Index Tables.
+  The 'TIOBE' Programming Community index is an indicator
+  of the popularity of programming languages from
+  <https://www.tiobe.com/tiobe-index/>.
+date_publication: '2018-09-03'
+bug_reports: https://github.com/amrrs/tiobeindexr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tiobeindexr
+url_git: https://github.com/amrrs/tiobeindexr

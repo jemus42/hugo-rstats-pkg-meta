@@ -1,0 +1,17 @@
+version: 1.2.1
+title: Statistical Significance of the Sharpe Ratio
+maintainer: Steven E. Pav
+description: |-
+  A collection of tools for analyzing significance of assets,
+  funds, and trading strategies, based on the Sharpe ratio and overfit
+  of the same. Provides density, distribution, quantile and random generation
+  of the Sharpe ratio distribution based on normal returns, as well
+  as the optimal Sharpe ratio over multiple assets. Computes confidence intervals
+  on the Sharpe and provides a test of equality of Sharpe ratios based on
+  the Delta method. The statistical foundations of the Sharpe can be found in
+  the author's Short Sharpe Course  <doi:10.2139/ssrn.3036276>.
+date_publication: '2020-02-08'
+bug_reports: https://github.com/shabbychef/SharpeR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=SharpeR
+url_git: https://github.com/shabbychef/SharpeR

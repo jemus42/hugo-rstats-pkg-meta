@@ -1,0 +1,9 @@
+version: 0.0.7
+title: Badge for R Package
+maintainer: Guangchuang Yu
+description: Query information and generate badge for using in README and GitHub Pages.
+date_publication: '2019-11-15'
+bug_reports: https://github.com/GuangchuangYu/badger/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=badger
+url_git: https://github.com/GuangchuangYu/badger

@@ -1,0 +1,11 @@
+version: 0.1-3
+title: 'Language Support for ''koRpus'' Package: English'
+maintainer: Meik Michalke
+description: |-
+  Adds support for the English language to the 'koRpus' package. To ask for help, report bugs, suggest feature improvements, or discuss the global development of the
+  package, please consider subscribing to the koRpus-dev mailing list (<http://korpusml.reaktanz.de>).
+date_publication: '2019-05-13'
+bug_reports: https://github.com/unDocUMeantIt/koRpus.lang.en/issues
+url: https://reaktanz.de/?c=hacking&s=koRpus
+url_cran: https://CRAN.R-project.org/package=koRpus.lang.en
+url_git: ''

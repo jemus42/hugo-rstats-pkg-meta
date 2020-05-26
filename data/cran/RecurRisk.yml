@@ -1,0 +1,10 @@
+version: '1.0'
+title: Recurrence Risk Assessment Tool
+maintainer: Fanni Zhang
+description: Functions to estimate the risk of recurrence using disease-specific survival
+  data. Mariotto AB, Zou Z, Zhang F, et al (2018) <doi:10.1158/1055-9965.EPI-17-1129>.
+date_publication: '2020-05-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RecurRisk
+url_git: ''

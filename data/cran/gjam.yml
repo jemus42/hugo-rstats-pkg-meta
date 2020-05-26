@@ -1,0 +1,11 @@
+version: 2.3.1
+title: Generalized Joint Attribute Modeling
+maintainer: James S. Clark
+description: Analyzes joint attribute data (e.g., species abundance) that are combinations
+  of continuous and discrete data with Gibbs sampling.  Full model and computation
+  details are described in Clark et al. (2018) <doi:10.1002/ecm.1241>.
+date_publication: '2020-03-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gjam
+url_git: ''

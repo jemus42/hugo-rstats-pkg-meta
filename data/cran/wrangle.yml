@@ -1,0 +1,19 @@
+version: 0.5.2
+title: A Systematic Data Wrangling Idiom
+maintainer: Tim Bergsma
+description: |-
+  Supports systematic scrutiny, modification, and integration of
+  data. The function status() counts rows that have missing values in
+  grouping columns (returned by na() ), have non-unique combinations of
+  grouping columns (returned by dup() ), and that are not locally sorted
+  (returned by unsorted() ). Functions enumerate() and itemize() give
+  sorted unique combinations of columns, with or without occurrence counts,
+  respectively. Function ignore() drops columns in x that are present in y,
+  and informative() drops columns in x that are entirely NA; constant() returns
+  values that are constant, given a key.  Data that have defined unique
+  combinations of grouping values behave more predictably during merge operations.
+date_publication: '2019-04-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=wrangle
+url_git: ''

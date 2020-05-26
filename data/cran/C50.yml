@@ -1,0 +1,10 @@
+version: 0.1.3
+title: C5.0 Decision Trees and Rule-Based Models
+maintainer: Max Kuhn
+description: C5.0 decision trees and rule-based models for pattern recognition that
+  extend the work of Quinlan (1993, ISBN:1-55860-238-0).
+date_publication: '2020-01-13'
+bug_reports: https://github.com/topepo/C5.0/issues
+url: https://topepo.github.io/C5.0
+url_cran: https://CRAN.R-project.org/package=C50
+url_git: ''

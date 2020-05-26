@@ -1,0 +1,12 @@
+version: '1.0'
+title: Persistence Terrace for Topological Data Analysis
+maintainer: Chul Moon
+description: Plot the summary graphic called the persistence terrace for topological
+  inference. It also provides the aid tool called the terrace area plot for determining
+  the number of significant topological features. Moon, C., Giansiracusa, N., and
+  Lazar, N. A. (2018) <doi:10.1080/10618600.2017.1422432>.
+date_publication: '2018-11-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pterrace
+url_git: ''

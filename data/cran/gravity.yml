@@ -1,0 +1,11 @@
+version: 0.9.8
+title: Estimation Methods for Gravity Models
+maintainer: Mauricio Vargas
+description: |-
+  A wrapper of different standard estimation methods for gravity models.
+  This package provides estimation methods for log-log models and multiplicative models.
+date_publication: '2019-05-08'
+bug_reports: ''
+url: http://pachamaltese.github.io/gravity
+url_cran: https://CRAN.R-project.org/package=gravity
+url_git: ''

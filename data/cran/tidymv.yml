@@ -1,0 +1,11 @@
+version: 3.0.0
+title: Tidy Model Visualisation for Generalised Additive Models
+maintainer: Stefano Coretta
+description: |-
+  Provides functions for visualising generalised
+  additive models and getting predicted values using tidy tools from the 'tidyverse' packages.
+date_publication: '2020-04-25'
+bug_reports: https://github.com/stefanocoretta/tidymv/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tidymv
+url_git: https://github.com/stefanocoretta/tidymv

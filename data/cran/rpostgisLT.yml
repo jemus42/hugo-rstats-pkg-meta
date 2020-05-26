@@ -1,0 +1,16 @@
+version: 0.6.0
+title: Managing Animal Movement Data with 'PostGIS' and R
+maintainer: Balázs Dukai
+description: |-
+  Integrates R and the 'PostgreSQL/PostGIS' database
+  system to build and manage animal trajectory (movement) data sets.
+  The package relies on 'ltraj' objects from the R package 'adehabitatLT',
+  building the analogous 'pgtraj' data structure in 'PostGIS'. Functions
+  allow users to seamlessly transfer between 'ltraj' and 'pgtraj', as
+  well as build new 'pgtraj' directly from location data stored in the
+  database.
+date_publication: '2018-03-02'
+bug_reports: https://github.com/mablab/rpostgisLT/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rpostgisLT
+url_git: https://github.com/mablab/rpostgisLT

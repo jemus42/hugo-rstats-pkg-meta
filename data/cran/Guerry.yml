@@ -1,0 +1,14 @@
+version: 1.7.0
+title: |-
+  Maps, Data and Methods Related to Guerry (1833) "Moral
+  Statistics of France"
+maintainer: Michael Friendly
+description: |-
+  Maps of France in 1830, multivariate datasets from A.-M. Guerry and others, and statistical and
+  graphic methods related to Guerry's "Moral Statistics of France". The goal is to facilitate the exploration and
+  development of statistical and graphic methods for multivariate data in a geo-spatial context of historical interest.
+date_publication: '2020-01-29'
+bug_reports: https://github.com/friendly/Guerry/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Guerry
+url_git: https://github.com/friendly/Guerry

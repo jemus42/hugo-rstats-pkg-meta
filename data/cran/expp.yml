@@ -1,0 +1,11 @@
+version: 1.2.4
+title: Spatial Analysis of Extra-Pair Paternity
+maintainer: Mihai Valcu
+description: |2-
+
+  Tools and data to accompany Schlicht, L., Valcu, M., & Kempenaers, B. (2015) <doi:10.1111/1365-2656.12293>. Spatial patterns of extra-pair paternity: beyond paternity gains and losses. Journal of Animal Ecology, 84(2), 518-531.
+date_publication: '2019-02-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=expp
+url_git: ''

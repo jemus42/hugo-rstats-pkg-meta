@@ -1,0 +1,14 @@
+version: 0.6.0
+title: |-
+  Uncertain Interval Methods for Three-Way Cut-Point Determination
+  in Test Results
+maintainer: Hans Landsheer
+description: |-
+  Functions for the determination of an uncertain interval, that is, a
+  range of test scores that is inconclusive and does not allow a classification other
+  than 'Uncertain' (Reference: J.A. Landsheer (2016) <doi:10.1371/journal.pone.0166007>).
+date_publication: '2020-04-16'
+bug_reports: https://github.com/HansLandsheer/UncertainInterval
+url: ''
+url_cran: https://CRAN.R-project.org/package=UncertainInterval
+url_git: https://github.com/HansLandsheer/UncertainInterval

@@ -1,0 +1,12 @@
+version: 0.9.3
+title: |-
+  Companion Package to the Book 'R: Einführung durch angewandte
+  Statistik'
+maintainer: Marco Johannes Maier
+description: 'Provides functions used in the ''R: Einführung durch angewandte Statistik''
+  (second edition).'
+date_publication: '2015-11-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=REdaS
+url_git: ''

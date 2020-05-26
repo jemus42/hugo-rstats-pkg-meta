@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Yet Another General Regression Neural Network
+maintainer: WenSui Liu
+description: |-
+  Another implementation of general regression neural network in R
+  based on Specht (1991) <DOI:10.1109/72.97934>. It is applicable to the
+  functional approximation or the classification.
+date_publication: '2020-01-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=yager
+url_git: https://github.com/statcompute/yager

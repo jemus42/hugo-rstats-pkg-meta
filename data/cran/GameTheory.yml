@@ -1,0 +1,10 @@
+version: '2.7'
+title: Cooperative Game Theory
+maintainer: Sebastian Cano-Berlanga
+description: Implementation of a common set of punctual solutions  for Cooperative
+  Game Theory.
+date_publication: '2017-07-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GameTheory
+url_git: ''

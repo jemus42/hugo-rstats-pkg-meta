@@ -1,0 +1,11 @@
+version: 0.2.1
+title: Client for 'AWS Comprehend'
+maintainer: Antoine Sachet
+description: Client for 'AWS Comprehend' <https://aws.amazon.com/comprehend>, a cloud
+  natural language processing service that can perform a number of quantitative text
+  analyses, including language detection, sentiment analysis, and feature extraction.
+date_publication: '2020-03-18'
+bug_reports: https://github.com/cloudyr/aws.comprehend/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=aws.comprehend
+url_git: https://github.com/cloudyr/aws.comprehend

@@ -1,0 +1,13 @@
+version: '1.0'
+title: |-
+  Slope Heuristic for Block-Diagonal Covariance Selection in High
+  Dimensional Gaussian Graphical Models
+maintainer: Melina Gallopin
+description: |-
+  Block-diagonal covariance selection for high dimensional Gaussian
+  graphical models. The selection procedure is based on the slope heuristics.
+date_publication: '2015-12-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=shock
+url_git: ''

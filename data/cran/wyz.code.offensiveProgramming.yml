@@ -1,0 +1,19 @@
+version: 1.1.18
+title: Wizardry Code Offensive Programming
+maintainer: Fabien Gelineau
+description: |-
+  Allows to turn standard R code into offensive programming code.
+  Provides code instrumentation to ease this change and tools to assist and
+  accelerate code production and tuning while using offensive programming code
+  technics.
+  Should improve code robustness and quality. Function calls can be easily
+  verified on-demand or in batch mode to assess parameter types and length
+  conformities.
+  Should improve coders productivity as offensive programming reduces the code
+  size due to reduced number of controls all along the call chain.
+  Should speed up processing as many checks will be reduced to one single check.
+date_publication: '2020-04-19'
+bug_reports: ''
+url: https://neonira.github.io/offensiveProgrammingBook_v1.2.2
+url_cran: https://CRAN.R-project.org/package=wyz.code.offensiveProgramming
+url_git: ''

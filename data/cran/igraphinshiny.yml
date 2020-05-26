@@ -1,0 +1,10 @@
+version: '0.1'
+title: Use 'shiny' to Demo 'igraph'
+maintainer: Ming-Jer Lee
+description: Using 'shiny' to demo 'igraph' package makes learning graph theory easy
+  and fun.
+date_publication: '2016-01-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=igraphinshiny
+url_git: ''

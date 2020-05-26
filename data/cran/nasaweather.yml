@@ -1,0 +1,11 @@
+version: '0.1'
+title: Collection of datasets from the ASA 2006 data expo
+maintainer: '''Hadley Wickham'''
+description: |-
+  This package contains tidied data from the ASA 2006 data expo,
+  as well as a number of useful other related data sets.
+date_publication: '2014-07-22'
+bug_reports: ''
+url: http://stat-computing.org/dataexpo/2006/
+url_cran: https://CRAN.R-project.org/package=nasaweather
+url_git: http://github.com/hadley/nasaweather

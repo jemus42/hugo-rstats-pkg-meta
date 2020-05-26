@@ -1,0 +1,14 @@
+version: 0.1.8
+title: Handling Taxonomic Lists
+maintainer: Miguel Alvarez
+description: |-
+  Handling taxonomic lists through objects of class 'taxlist'.
+  This package provides functions to import species lists from 'Turboveg'
+  (<https://www.synbiosys.alterra.nl/turboveg>) and the possibility to create
+  backups from resulting R-objects.
+  Also quick displays are implemented as summary-methods.
+date_publication: '2020-04-29'
+bug_reports: https://github.com/kamapu/taxlist/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=taxlist
+url_git: https://github.com/kamapu/taxlist

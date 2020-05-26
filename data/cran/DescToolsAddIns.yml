@@ -1,0 +1,14 @@
+version: '1.7'
+title: Interactive Functions to be Used as Shortcuts in 'RStudio'
+maintainer: Andri Signorell
+description: '''RStudio'' as of recently offers the option to define addins and assign
+  shortcuts to them. This package contains addins for a few most frequently used functions
+  in a data scientist''s (at least mine) daily work (like str(), example(), plot(),
+  head(), view(), Desc()). Most of these functions will use the current selection
+  in the editor window and send the specific command to the console while instantly
+  executing it. Assigning shortcuts to these addins will save you quite a few keystrokes.'
+date_publication: '2020-03-08'
+bug_reports: https://github.com/AndriSignorell/DescToolsAddIns/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=DescToolsAddIns
+url_git: https://github.com/AndriSignorell/DescToolsAddIns/

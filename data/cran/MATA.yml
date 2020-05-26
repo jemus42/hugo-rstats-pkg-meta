@@ -1,0 +1,13 @@
+version: '0.4'
+title: Model-Averaged Tail Area Wald (MATA-Wald) Confidence Interval
+maintainer: Daniel Turek
+description: |-
+  Calculates Model-Averaged Tail Area Wald
+  (MATA-Wald) confidence intervals, which are constructed using
+  single-model estimators and model weights. See Turek and Fletcher
+  (2012) <doi:10.1016/j.csda.2012.03.002> for details.
+date_publication: '2019-02-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MATA
+url_git: ''

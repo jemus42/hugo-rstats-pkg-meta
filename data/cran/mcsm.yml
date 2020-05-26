@@ -1,0 +1,14 @@
+version: '1.0'
+title: Functions for Monte Carlo Methods with R
+maintainer: Christian P. Robert
+description: |-
+  mcsm contains a collection of functions that allows the
+  reenactment of the R programs used in the book EnteR Monte
+  Carlo Methods without further programming. Programs being
+  available as well, they can be modified by the user to conduct
+  one's own simulations.
+date_publication: '2009-04-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mcsm
+url_git: ''

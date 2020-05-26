@@ -1,0 +1,14 @@
+version: 1.0.1
+title: |-
+  Quickly Create Elegant Regression Results Tables and Plots when
+  Modelling
+maintainer: Ewen Harrison
+description: |-
+  Generate regression results tables and plots in final
+  format for publication. Explore models and export directly to PDF
+  and 'Word' using 'RMarkdown'.
+date_publication: '2020-04-21'
+bug_reports: https://github.com/ewenharrison/finalfit/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=finalfit
+url_git: https://github.com/ewenharrison/finalfit

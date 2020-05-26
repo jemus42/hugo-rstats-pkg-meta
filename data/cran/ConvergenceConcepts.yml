@@ -1,0 +1,17 @@
+version: 1.2.2
+title: Seeing Convergence Concepts in Action
+maintainer: Pierre Lafaye De Micheaux
+description: |-
+  This is a pedagogical package, designed to help students understanding convergence of
+  random variables. It provides a way to investigate interactively various modes of
+  convergence (in probability, almost surely, in law and in mean) of a sequence of i.i.d.
+  random variables. Visualisation of simulated sample paths is possible through interactive
+  plots. The approach is illustrated by examples and exercises through the function
+  'investigate', as described in
+  Lafaye de Micheaux and Liquet (2009) <doi:10.1198/tas.2009.0032>.
+  The user can study his/her own sequences of random variables.
+date_publication: '2019-09-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ConvergenceConcepts
+url_git: ''

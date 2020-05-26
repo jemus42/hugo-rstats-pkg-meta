@@ -1,0 +1,12 @@
+version: 0.3.2
+title: A Fast and Lightweight Logging System for R, Based on 'log4j'
+maintainer: Aaron Jacobs
+description: |-
+  The log4r package is meant to provide a fast, lightweight,
+  object-oriented approach to logging in R based on the widely-emulated
+  'log4j' system and etymology.
+date_publication: '2020-01-18'
+bug_reports: https://github.com/johnmyleswhite/log4r/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=log4r
+url_git: https://github.com/johnmyleswhite/log4r

@@ -1,0 +1,17 @@
+version: 1.1.0
+title: Cholesky Decomposition of the Wishart Distribution
+maintainer: Geoffrey Thompson
+description: |-
+  Sampling from the Cholesky factorization of a Wishart random
+  variable, sampling from the inverse Wishart distribution, sampling from
+  the Cholesky factorization of an inverse Wishart random variable, sampling
+  from the pseudo Wishart distribution, sampling from the generalized
+  inverse Wishart distribution, computing densities for the Wishart
+  and inverse Wishart distributions, and computing the multivariate gamma
+  and digamma functions. Provides a header file so the C functions can be
+  called directly from other programs.
+date_publication: '2019-11-14'
+bug_reports: https://github.com/gzt/CholWishart/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=CholWishart
+url_git: https://github.com/gzt/CholWisharthttps://gzt.github.io/CholWishart

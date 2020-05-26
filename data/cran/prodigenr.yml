@@ -1,0 +1,13 @@
+version: 0.5.0
+title: Research Project Directory Generator
+maintainer: Luke Johnston
+description: |-
+  Create a project directory structure, along with typical files
+  for that project.  This allows projects to be quickly and easily created,
+  as well as for them to be standardized. Designed specifically with scientists
+  in mind (mainly bio-medical researchers, but likely applies to other fields).
+date_publication: '2019-07-01'
+bug_reports: https://github.com/lwjohnst86/prodigenr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=prodigenr
+url_git: https://github.com/lwjohnst86/prodigenr

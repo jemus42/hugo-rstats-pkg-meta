@@ -1,0 +1,11 @@
+version: 0.0.6
+title: Tools at the Intersection of 'purrr' and 'dplyr'
+maintainer: Lionel Henry
+description: |-
+  Some functions at the intersection of 'dplyr' and
+  'purrr' that formerly lived in 'purrr'.
+date_publication: '2020-05-02'
+bug_reports: https://github.com/hadley/purrrlyr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=purrrlyr
+url_git: https://github.com/hadley/purrrlyr

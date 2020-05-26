@@ -1,0 +1,13 @@
+version: 1.4.5
+title: Construct, Evaluate and Plot Value and Utility Functions
+maintainer: Peter Reichert
+description: |-
+  Construct and plot objective hierarchies and associated value and utility functions.
+  Evaluate the values and utilities and visualize the results as colored objective hierarchies or tables.
+  Visualize uncertainty by plotting median and quantile intervals within the nodes of objective hierarchies.
+  Get numerical results of the evaluations in standard R data types for further processing.
+date_publication: '2020-03-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=utility
+url_git: ''

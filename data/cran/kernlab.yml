@@ -1,0 +1,14 @@
+version: 0.9-29
+title: Kernel-Based Machine Learning Lab
+maintainer: Alexandros Karatzoglou
+description: |-
+  Kernel-based machine learning methods for classification,
+  regression, clustering, novelty detection, quantile regression
+  and dimensionality reduction.  Among other methods 'kernlab'
+  includes Support Vector Machines, Spectral Clustering, Kernel
+  PCA, Gaussian Processes and a QP solver.
+date_publication: '2019-11-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=kernlab
+url_git: ''

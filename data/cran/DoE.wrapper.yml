@@ -1,0 +1,15 @@
+version: '0.11'
+title: Wrapper Package for Design of Experiments Functionality
+maintainer: Ulrike Groemping
+description: |-
+  Various kinds of designs for
+  (industrial) experiments can be created. The package uses, and sometimes enhances,
+  design generation routines from other packages.
+  So far, response surface designs from package rsm, latin hypercube
+  samples from packages lhs and DiceDesign, and
+  D-optimal designs from package AlgDesign have been implemented.
+date_publication: '2020-01-08'
+bug_reports: ''
+url: http://prof.beuth-hochschule.de/groemping/DoE/
+url_cran: https://CRAN.R-project.org/package=DoE.wrapper
+url_git: ''

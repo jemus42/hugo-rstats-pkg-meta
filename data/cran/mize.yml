@@ -1,0 +1,14 @@
+version: 0.2.3
+title: Unconstrained Numerical Optimization Algorithms
+maintainer: James Melville
+description: |-
+  Optimization algorithms implemented in R, including
+  conjugate gradient (CG), Broyden-Fletcher-Goldfarb-Shanno (BFGS) and the
+  limited memory BFGS (L-BFGS) methods. Most internal parameters can be set
+  through the call interface. The solvers hold up quite well for
+  higher-dimensional problems.
+date_publication: '2019-12-05'
+bug_reports: http://github.com/jlmelville/mize/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mize
+url_git: http://github.com/jlmelville/mize

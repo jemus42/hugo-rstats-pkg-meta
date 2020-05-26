@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Autocorrelation Robust Testing
+maintainer: David Preinerstorfer
+description: Functions for testing affine hypotheses on the regression coefficient
+  vector in regression models with autocorrelated errors.
+date_publication: '2016-12-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=acrt
+url_git: ''

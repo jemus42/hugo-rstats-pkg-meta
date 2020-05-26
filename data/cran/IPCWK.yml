@@ -1,0 +1,12 @@
+version: '1.0'
+title: Kendall's Tau Partial Corr. for Survival Trait and Biomarkers
+maintainer: Jie-Huei Wang
+description: We propose the inverse probability-of-censoring weighted (IPCW) Kendall's
+  tau to measure the association of the survival trait with biomarkers and Kendall's
+  partial correlation to reflect the relationship of the survival trait with interaction
+  variable conditional on main effects, as described in Wang and Chen (2020) <doi:10.1093/bioinformatics/btaa017>.
+date_publication: '2020-03-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IPCWK
+url_git: ''

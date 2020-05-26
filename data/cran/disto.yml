@@ -1,0 +1,13 @@
+version: 0.2.0
+title: |-
+  Unified Interface to Distance, Dissimilarity, Similarity
+  Matrices
+maintainer: KS Srikanth
+description: Provides a high level API to interface over sources storing distance,
+  dissimilarity, similarity matrices with matrix style extraction, replacement and
+  other utilities. Currently, in-memory dist object backend is supported.
+date_publication: '2018-08-02'
+bug_reports: https://github.com/talegari/disto/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=disto
+url_git: https://github.com/talegari/disto

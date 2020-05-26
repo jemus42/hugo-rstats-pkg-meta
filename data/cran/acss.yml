@@ -1,0 +1,16 @@
+version: 0.2-5
+title: Algorithmic Complexity for Short Strings
+maintainer: Henrik Singmann
+description: 'Main functionality is to provide the algorithmic complexity for<U+000a>short
+  strings, an approximation of the Kolmogorov Complexity of a short<U+000a>string
+  using the coding theorem method (see ?acss). The database containing<U+000a>the
+  complexity is provided in the data only package acss.data, this package<U+000a>provides
+  functions accessing the data such as prob_random returning the<U+000a>posterior
+  probability that a given string was produced by a random process.<U+000a>In addition,
+  two traditional (but problematic) measures of complexity are<U+000a>also provided:
+  entropy and change complexity.'
+date_publication: '2014-11-25'
+bug_reports: ''
+url: http://complexitycalculator.com/methodology.html
+url_cran: https://CRAN.R-project.org/package=acss
+url_git: ''

@@ -1,0 +1,19 @@
+version: 0.0.6
+title: |-
+  Multivariate Curve Resolution Alternating Least Squares
+  (MCR-ALS)
+maintainer: Katharine Mullen
+description: |-
+  Alternating least squares is often used to resolve
+  components contributing to data with a bilinear structure; the
+  basic technique may be extended to alternating constrained
+  least squares.  Commonly applied constraints include
+  unimodality, non-negativity, and normalization of components.
+  Several data matrices may be decomposed simultaneously by
+  assuming that one of the two matrices in the bilinear
+  decomposition is shared between datasets.
+date_publication: '2015-08-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ALS
+url_git: ''

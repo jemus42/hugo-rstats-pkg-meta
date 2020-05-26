@@ -1,0 +1,10 @@
+version: '1.2'
+title: Multivariate marginal models with shared regression parameters
+maintainer: Ozgur Asar
+description: Fits multivariate marginal models with shared regression parameters for
+  discrete and continuous responses
+date_publication: '2013-12-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mmm2
+url_git: ''

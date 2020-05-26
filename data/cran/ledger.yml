@@ -1,0 +1,10 @@
+version: 2.0.7
+title: Utilities for Importing Data from Plain Text Accounting Files
+maintainer: Trevor L Davis
+description: Utilities for querying plain text accounting files from 'Ledger', 'HLedger',
+  and 'Beancount'.
+date_publication: '2020-05-18'
+bug_reports: https://github.com/trevorld/r-ledger/issues
+url: https://trevorldavis.com/R/ledger
+url_cran: https://CRAN.R-project.org/package=ledger
+url_git: https://github.com/trevorld/r-ledger

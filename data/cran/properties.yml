@@ -1,0 +1,11 @@
+version: 0.0-9
+title: Parse 'Java' Properties Files for 'R Service Bus' Applications
+maintainer: Daan Seynaeve
+description: |-
+  Allows to parse 'Java' properties files in the context of
+  'R Service Bus' applications.
+date_publication: '2018-03-10'
+bug_reports: ''
+url: https://www.rservicebus.io/
+url_cran: https://CRAN.R-project.org/package=properties
+url_git: ''

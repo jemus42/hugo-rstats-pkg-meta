@@ -1,0 +1,13 @@
+version: 0.4.0
+title: Tools for Reading Formatted Access Log Files
+maintainer: Oliver Keyes
+description: |-
+  R is used by a vast array of people for a vast array of purposes
+  - including web analytics. This package contains functions for consuming and
+  munging various common forms of request log, including the Common and Combined
+  Web Log formats and various Amazon access logs.
+date_publication: '2016-01-23'
+bug_reports: https://github.com/Ironholds/webreadr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=webreadr
+url_git: https://github.com/Ironholds/webreadr

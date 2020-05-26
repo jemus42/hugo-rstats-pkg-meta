@@ -1,0 +1,11 @@
+version: 0.1-6
+title: Robust Correlations
+maintainer: Paul Smirnov
+description: |-
+  Robust pairwise correlations based on estimates of scale,
+  particularly on "FastQn" one-step M-estimate.
+date_publication: '2014-01-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=robcor
+url_git: ''

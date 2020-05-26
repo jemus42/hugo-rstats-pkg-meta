@@ -1,0 +1,12 @@
+version: 1.1.1
+title: Combined Cluster and Discriminant Analysis
+maintainer: Solt Kovacs
+description: 'Implements the combined cluster and discriminant analysis method for
+  finding homogeneous groups of data with known origin as described in Kovacs et.
+  al (2014): Classification into homogeneous groups using combined cluster and discriminant
+  analysis (CCDA). Environmental Modelling & Software. <doi:10.1016/j.envsoft.2014.01.010>.'
+date_publication: '2019-10-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ccda
+url_git: ''

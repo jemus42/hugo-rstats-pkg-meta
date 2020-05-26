@@ -1,0 +1,13 @@
+version: 0.2-6
+title: Comparing Objects for Differences
+maintainer: Paul Murrell
+description: |-
+  Functions to compare a model object to a comparison object.
+  If the objects are not identical, the functions can be instructed to
+  explore various modifications of the objects (e.g., sorting rows,
+  dropping names) to see if the modified versions are identical.
+date_publication: '2015-08-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=compare
+url_git: ''

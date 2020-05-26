@@ -1,0 +1,9 @@
+version: 2.17.0
+title: '''DataRobot'' Predictive Modeling API'
+maintainer: Peter Hurford
+description: For working with the 'DataRobot' predictive modeling platform's API <https://www.datarobot.com/>.
+date_publication: '2020-02-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=datarobot
+url_git: ''

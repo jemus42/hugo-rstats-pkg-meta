@@ -1,0 +1,13 @@
+version: 0.1.1
+title: |-
+  Enables Importing/Loading of Packages or Functions While
+  Creating an Alias for Them
+maintainer: Andrea Cantieni
+description: |-
+  Enables 'Python'-like importing/loading of packages or functions
+  with aliasing to prevent namespace conflicts.
+date_publication: '2017-09-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=importar
+url_git: https://github.com/andreaphsz/importar

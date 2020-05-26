@@ -1,0 +1,9 @@
+version: '0.1'
+title: Calculation of the Standardized Temperature Index
+maintainer: Marc Fasel
+description: A set of functions for computing the Standardized Temperature Index (STI).
+date_publication: '2015-08-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=STI
+url_git: ''

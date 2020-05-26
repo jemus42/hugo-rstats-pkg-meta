@@ -1,0 +1,18 @@
+version: 1.0.3
+title: Tool for Ensemble Feature Selection
+maintainer: Ursula Neumann
+description: |-
+  Provides a function to check the
+  importance of a feature based on a dependent classification
+  variable. An ensemble of feature selection methods
+  is used to determine the normalized importance value of
+  all features. Combining these methods in one function
+  (building the cumulative importance values) provides a
+  stable feature selection tool. This selection
+  can also be viewed in a barplot using the barplot_fs() function
+  and proved using the evaluation function efs_eval().
+date_publication: '2017-07-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EFS
+url_git: ''

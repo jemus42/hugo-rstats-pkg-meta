@@ -1,0 +1,10 @@
+version: '1.0'
+title: Cooperative aspects of optimal trees in weighted graphs
+maintainer: Manuel Fontenla
+description: Computes several cooperative games and allocation rules associated with
+  minimum cost spanning tree problems and minimum cost arborescence problems.
+date_publication: '2014-09-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cooptrees
+url_git: ''

@@ -1,0 +1,11 @@
+version: 3.1.0
+title: A Novel Topology-Based Pathway Enrichment Analysis Approach
+maintainer: Wei Jiang
+description: |-
+  We described a novel Topology-based pathway enrichment analysis, which integrated the global position of the nodes and the topological property of the pathways in  Kyoto Encyclopedia of Genes and Genomes Database.
+  We also provide some functions to obtain the latest information about pathways to finish pathway enrichment analysis using this method.
+date_publication: '2017-06-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TPEA
+url_git: ''

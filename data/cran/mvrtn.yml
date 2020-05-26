@@ -1,0 +1,9 @@
+version: '1.0'
+title: Mean and Variance of Truncated Normal Distribution
+maintainer: Matthew McLeod
+description: Mean, variance, and random variates for left/right truncated normal distributions.
+date_publication: '2014-08-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mvrtn
+url_git: ''

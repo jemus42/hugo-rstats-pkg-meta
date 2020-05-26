@@ -1,0 +1,15 @@
+version: 3.0-0
+title: Eigenvalues and Singular Values and Vectors from Large Matrices
+maintainer: Eloy Romero
+description: |2-
+
+  R interface to PRIMME, a C library for computing a few
+  eigenvalues and their corresponding eigenvectors of a real symmetric or complex
+  Hermitian matrix.  It can also compute singular values and vectors of a square
+  or rectangular matrix.  It can find largest, smallest, or interior
+  singular/eigenvalues and can use preconditioning to accelerate convergence.
+date_publication: '2019-07-25'
+bug_reports: https://github.com/primme/primme/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=PRIMME
+url_git: https://github.com/primme/primme

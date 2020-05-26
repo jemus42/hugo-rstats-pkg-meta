@@ -1,0 +1,11 @@
+version: 1.0.2
+title: Waterfall Charts
+maintainer: '"James P. Howard, II"'
+description: |-
+  Provides support for creating waterfall charts in R
+  using both traditional base and lattice graphics.
+date_publication: '2016-04-03'
+bug_reports: https://github.com/howardjp/waterfall/issues
+url: https://jameshoward.us/software/waterfall/
+url_cran: https://CRAN.R-project.org/package=waterfall
+url_git: https://github.com/howardjp/waterfall

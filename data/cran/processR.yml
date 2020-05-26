@@ -1,0 +1,11 @@
+version: 0.2.3
+title: Implementation of the 'PROCESS' Macro
+maintainer: Keon-Woong Moon
+description: |-
+  Perform moderation, mediation, moderated mediation and moderated moderation.
+  Inspired from famous 'PROCESS' macro for 'SPSS' and 'SAS' created by Andrew Hayes.
+date_publication: '2020-01-27'
+bug_reports: https://github.com/cardiomoon/processR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=processR
+url_git: https://github.com/cardiomoon/processR

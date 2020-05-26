@@ -1,0 +1,13 @@
+version: 0.10.1
+title: Add Even More Interactivity to Interactive Charts
+maintainer: Veronique Bachelier
+description: |-
+  Like package 'manipulate' does for static graphics, this package
+  helps to easily add controls like sliders, pickers, checkboxes, etc. that
+  can be used to modify the input data or the parameters of an interactive
+  chart created with package 'htmlwidgets'.
+date_publication: '2020-02-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=manipulateWidget
+url_git: https://github.com/rte-antares-rpackage/manipulateWidget

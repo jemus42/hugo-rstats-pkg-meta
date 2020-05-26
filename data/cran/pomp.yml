@@ -1,0 +1,14 @@
+version: '2.8'
+title: Statistical Inference for Partially Observed Markov Processes
+maintainer: Aaron A. King
+description: Tools for data analysis with partially observed Markov process (POMP)
+  models (also known as stochastic dynamical systems, hidden Markov models, and nonlinear,
+  non-Gaussian, state-space models).  The package provides facilities for implementing
+  POMP models, simulating them, and fitting them to time series data by a variety
+  of frequentist and Bayesian methods.  It is also a versatile platform for implementation
+  of inference methods for general POMP models.
+date_publication: '2020-04-10'
+bug_reports: https://github.com/kingaa/pomp/issues/
+url: https://kingaa.github.io/pomp/
+url_cran: https://CRAN.R-project.org/package=pomp
+url_git: ''

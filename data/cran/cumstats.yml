@@ -1,0 +1,10 @@
+version: '1.0'
+title: Cumulative Descriptive Statistics
+maintainer: Arturo Erdely
+description: Cumulative descriptive statistics for (arithmetic, geometric, harmonic)
+  mean, median, mode, variance, skewness and kurtosis.
+date_publication: '2017-01-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cumstats
+url_git: ''

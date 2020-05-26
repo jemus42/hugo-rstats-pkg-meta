@@ -1,0 +1,18 @@
+version: '1.0'
+title: Easy Data Manipulation, Data Quality and Statistical Checks
+maintainer: Akash Jain
+description: |-
+  Offers useful functions to perform day-to-day data manipulation
+  operations, data quality checks and post modelling statistical checks.
+  One can effortlessly change class of a number of variables to factor,
+  remove duplicate observations from the data, create deciles of a
+  variable, perform data quality checks for continuous (integer or numeric),
+  categorical (factor) and date variables, and compute goodness of fit
+  measures such as auc for statistical models. The functions are consistent
+  for objects of class 'data.frame' and 'data.table', which is an enhanced
+  'data.frame' implemented in the package 'data.table'.
+date_publication: '2015-03-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=StatMeasures
+url_git: ''

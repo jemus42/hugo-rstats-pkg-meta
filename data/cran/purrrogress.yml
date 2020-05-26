@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Add Progress Bars to Mapping Functions
+maintainer: Andrew Redd
+description: |-
+  Provides functions to easily add progress bars to
+  apply calls.
+date_publication: '2019-07-22'
+bug_reports: https://github.com/halpo/purrrogress/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=purrrogress
+url_git: https://github.com/halpo/purrrogress

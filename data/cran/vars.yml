@@ -1,0 +1,11 @@
+version: 1.5-3
+title: VAR Modelling
+maintainer: Bernhard Pfaff
+description: Estimation, lag selection, diagnostic testing, forecasting, causality
+  analysis, forecast error variance decomposition and impulse response functions of
+  VAR models and estimation of SVAR and SVEC models.
+date_publication: '2018-08-06'
+bug_reports: ''
+url: http://www.pfaffikus.de
+url_cran: https://CRAN.R-project.org/package=vars
+url_git: ''

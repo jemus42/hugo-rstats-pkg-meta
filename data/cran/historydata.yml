@@ -1,0 +1,13 @@
+version: '0.1'
+title: Data Sets for Historians
+maintainer: Lincoln Mullen
+description: |-
+  These sample data sets are intended for historians
+  learning R. They include population, institutional, religious,
+  military, and prosopographical data suitable for mapping,
+  quantitative analysis, and network analysis.
+date_publication: '2014-12-24'
+bug_reports: https://github.com/ropensci/historydata/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=historydata
+url_git: https://github.com/ropensci/historydata

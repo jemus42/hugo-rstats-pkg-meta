@@ -1,0 +1,9 @@
+version: 1.3-5
+title: Basic Non-Compartmental Pharmacokinetics
+maintainer: Thomas Jaki
+description: Estimation of pharmacokinetic parameters using non-compartmental theory.
+date_publication: '2020-04-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PK
+url_git: ''

@@ -1,0 +1,11 @@
+version: '1.2'
+title: |-
+  Utilities and Probability Distributions Related to
+  Multidimensional Person Item Response Models
+maintainer: Gilles Raiche
+description: Multidimensional Person Item Response Theory probability distributions
+date_publication: '2014-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=irtProb
+url_git: ''

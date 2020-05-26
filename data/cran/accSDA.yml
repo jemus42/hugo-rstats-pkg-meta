@@ -1,0 +1,17 @@
+version: 1.0.0
+title: Accelerated Sparse Discriminant Analysis
+maintainer: Gudmundur Einarsson
+description: |-
+  Implementation of sparse linear discriminant analysis, which is a supervised
+  classification method for multiple classes. Various novel optimization approaches to
+  this problem are implemented including alternating direction method of multipliers (ADMM),
+  proximal gradient (PG) and accelerated proximal gradient (APG) (See Atkins et al. <arXiv:1705.07194>).
+  Functions for performing cross validation are also supplied along with basic prediction
+  and plotting functions.
+  Sparse zero variance discriminant analysis (SZVD) is also included in the package
+  (See Ames and Hong, <arXiv:1401.5492>). See the github wiki for a more extended description.
+date_publication: '2017-08-24'
+bug_reports: https://github.com/gumeo/accSDA/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=accSDA
+url_git: https://github.com/gumeo/accSDA/wiki

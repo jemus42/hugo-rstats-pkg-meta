@@ -1,0 +1,11 @@
+version: '1.3'
+title: Continuous Analog of a Binomial Distribution
+maintainer: Dan Dalthorp
+description: Implementation of the d/p/q/r family of functions for a continuous analog
+  to the standard discrete binomial with continuous size parameter and continuous
+  support with x in [0, size + 1], following Ilienko (2013) <arXiv:1303.5990>.
+date_publication: '2018-06-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cbinom
+url_git: ''

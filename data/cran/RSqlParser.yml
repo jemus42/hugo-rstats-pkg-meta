@@ -1,0 +1,10 @@
+version: '1.5'
+title: Parse 'SQL' Statements
+maintainer: Subhasree Bose
+description: Parser for 'SQL' statements. Currently, it supports parsing of only 'SELECT'
+  statements.
+date_publication: '2020-05-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RSqlParser
+url_git: ''

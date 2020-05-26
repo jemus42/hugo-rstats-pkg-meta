@@ -1,0 +1,12 @@
+version: 0.1.2
+title: Cohort Data Analyses
+maintainer: Jari Haukka
+description: Functions to make lifetables and to calculate hazard function estimate
+  using Poisson regression model with splines. Includes function to draw simple flowchart
+  of cohort study. Function boxesLx() makes boxes of transition rates between states.
+  It utilizes 'Epi' package 'Lexis' data.
+date_publication: '2020-03-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cohorttools
+url_git: ''

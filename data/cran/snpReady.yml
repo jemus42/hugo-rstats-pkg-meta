@@ -1,0 +1,11 @@
+version: 0.9.6
+title: Preparing Genotypic Datasets in Order to Run Genomic Analysis
+maintainer: Italo Granato
+description: |-
+  Three functions to clean, summarize and prepare genomic datasets to Genome
+  Selection and Genome Association analysis and to estimate population genetic parameters.
+date_publication: '2018-04-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=snpReady
+url_git: ''

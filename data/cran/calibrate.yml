@@ -1,0 +1,12 @@
+version: 1.7.5
+title: Calibration of Scatterplot and Biplot Axes
+maintainer: Jan Graffelman
+description: |-
+  Package for drawing calibrated scales with tick marks on (non-orthogonal)
+  variable vectors in scatterplots and biplots. Also provides some functions for multivariate analysis
+  such principal coordinate analysis.
+date_publication: '2019-10-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=calibrate
+url_git: ''

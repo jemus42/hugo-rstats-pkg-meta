@@ -1,0 +1,12 @@
+version: 0.1-0
+title: Subsample Temporal Data to Synchronal Events and Compute the MCI
+maintainer: Martin Rimmler
+description: The function 'syncSubsample' subsamples temporal data of different entities
+  so that the result only contains synchronal events. The function 'mci' calculates
+  the Movement Coordination Index (MCI, see reference on help page for function 'mci')
+  of a data set created with the function 'syncSubsample'.
+date_publication: '2015-10-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SyncMove
+url_git: ''

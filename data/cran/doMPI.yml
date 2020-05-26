@@ -1,0 +1,11 @@
+version: 0.2.2
+title: Foreach Parallel Adaptor for the Rmpi Package
+maintainer: Steve Weston
+description: |-
+  Provides a parallel backend for the %dopar% function using
+  the Rmpi package.
+date_publication: '2017-05-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=doMPI
+url_git: ''

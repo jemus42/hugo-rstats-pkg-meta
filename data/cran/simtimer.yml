@@ -1,0 +1,14 @@
+version: 4.0.0
+title: Datetimes as Integers for Discrete-Event Simulations
+maintainer: Adrian Staempfli
+description: |-
+  Handles datetimes as integers for the usage inside
+  Discrete-Event Simulations (DES). The conversion is made using
+  the internally generic function as.numeric() of the base
+  package. DES is described in Simulation Modeling and Analysis
+  by Averill Law and David Kelton (1999) <doi:10.2307/2288169>.
+date_publication: '2019-01-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=simtimer
+url_git: http://github.com/ims-fhs/simtimer

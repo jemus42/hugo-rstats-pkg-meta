@@ -1,0 +1,10 @@
+version: 0.1.1
+title: Localised Co-Dependency Analysis
+maintainer: Ed Curry
+description: Performs model fitting and significance estimation for Localised Co-Dependency
+  between pairs of features of a numeric dataset.
+date_publication: '2019-04-22'
+bug_reports: ''
+url: https://www.imperial.ac.uk/people/e.curry
+url_cran: https://CRAN.R-project.org/package=LCA
+url_git: ''

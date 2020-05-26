@@ -1,0 +1,10 @@
+version: 1.2-0
+title: Plot 2D and 3D Views of the Earth, Including Major Coastline
+maintainer: Adrian Baddeley
+description: Basic functions for plotting 2D and 3D views of a sphere, by default
+  the Earth with its major coastline, and additional lines and points.
+date_publication: '2017-05-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=globe
+url_git: ''

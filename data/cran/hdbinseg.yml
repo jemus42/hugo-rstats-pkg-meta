@@ -1,0 +1,14 @@
+version: 1.0.1
+title: |-
+  Change-Point Analysis of High-Dimensional Time Series via Binary
+  Segmentation
+maintainer: Haeran Cho
+description: |-
+  Binary segmentation methods for detecting and estimating
+  multiple change-points in the mean or second-order structure
+  of high-dimensional time series as described in Cho and Fryzlewicz (2014) <doi:10.1111/rssb.12079> and Cho (2016) <doi:10.1214/16-EJS1155>.
+date_publication: '2018-05-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hdbinseg
+url_git: ''

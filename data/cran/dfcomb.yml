@@ -1,0 +1,11 @@
+version: 3.0-0
+title: Phase I/II Adaptive Dose-Finding Design for Combination Studies
+maintainer: Jacques-Henri Jourdan
+description: |-
+  Phase I/II adaptive dose-finding design for combination
+  studies where toxicity rates are supposed to increase with both agents.
+date_publication: '2019-03-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dfcomb
+url_git: ''

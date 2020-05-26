@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Prototype Object-Based Programming
+maintainer: Hadley Wickham
+description: |-
+  An object oriented system using object-based, also
+  called prototype-based, rather than class-based object oriented ideas.
+date_publication: '2016-10-29'
+bug_reports: https://github.com/hadley/proto/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=proto
+url_git: https://github.com/hadley/proto

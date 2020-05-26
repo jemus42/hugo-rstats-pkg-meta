@@ -1,0 +1,15 @@
+version: 0.3.4
+title: A 'dplyr' Interface for Crunch
+maintainer: Greg Freedman Ellis
+description: |-
+  In order to facilitate analysis of datasets hosted on the Crunch
+  data platform <http://crunch.io/>, the 'crplyr' package implements 'dplyr'
+  methods on top of the Crunch backend. The usual methods 'select', 'filter',
+  'group_by', 'summarize', and 'collect' are implemented in such a way as to
+  perform as much computation on the server and pull as little data locally
+  as possible.
+date_publication: '2020-04-24'
+bug_reports: https://github.com/Crunch-io/crplyr/issues
+url: https://crunch.io/r/crplyr/
+url_cran: https://CRAN.R-project.org/package=crplyr
+url_git: https://github.com/Crunch-io/crplyr

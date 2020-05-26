@@ -1,0 +1,10 @@
+version: '0.9'
+title: Hierarchical Non-Negative Matrix Factorization
+maintainer: Nicolas Sauwen
+description: Hierarchical and single-level non-negative matrix factorization. Several
+  NMF algorithms are available.
+date_publication: '2018-10-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hNMF
+url_git: ''

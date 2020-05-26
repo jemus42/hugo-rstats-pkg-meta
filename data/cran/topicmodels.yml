@@ -1,0 +1,14 @@
+version: 0.2-11
+title: Topic Models
+maintainer: Bettina Grün
+description: |-
+  Provides an interface to the C code for Latent Dirichlet
+  Allocation (LDA) models and Correlated Topics Models
+  (CTM) by David M. Blei and co-authors and the C++ code
+  for fitting LDA models using Gibbs sampling by Xuan-Hieu
+  Phan and co-authors.
+date_publication: '2020-04-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=topicmodels
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Efficiently Impute Large Scale Incomplete Matrix
+maintainer: Zhe Gao
+description: Efficiently impute large scale matrix with missing values via its unbiased
+  low-rank matrix approximation. Our main approach is Hard-Impute algorithm proposed
+  in <http://www.jmlr.org/papers/v11/mazumder10a.html>, which achieves highly computational
+  advantage by truncated singular-value decomposition.
+date_publication: '2020-04-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=eimpute
+url_git: ''

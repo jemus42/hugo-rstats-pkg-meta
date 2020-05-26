@@ -1,0 +1,10 @@
+version: 0.3-3
+title: Identifying Cryptic Relatedness in Genetic Association Studies
+maintainer: Brad McNeney
+description: Exploratory tools to identify closely related subjects using autosomal
+  genetic marker data.
+date_publication: '2018-05-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CrypticIBDcheck
+url_git: ''

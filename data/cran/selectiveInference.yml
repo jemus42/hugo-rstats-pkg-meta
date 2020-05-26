@@ -1,0 +1,13 @@
+version: 1.2.5
+title: Tools for Post-Selection Inference
+maintainer: Rob Tibshirani
+description: |-
+  New tools for post-selection inference, for use with forward
+  stepwise regression, least angle regression, the lasso, and the many means
+  problem. The lasso function implements Gaussian, logistic and Cox survival
+  models.
+date_publication: '2019-09-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=selectiveInference
+url_git: ''

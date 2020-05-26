@@ -1,0 +1,13 @@
+version: 1.0.1
+title: Resource Resolver
+maintainer: Yannick Marcon
+description: |-
+  A resource represents some data or a computation unit. It is
+  described by a URL and credentials. This package proposes a Resource model
+  with "resolver" and "client" classes to facilitate the access and the usage of the
+  resources.
+date_publication: '2020-05-15'
+bug_reports: https://github.com/obiba/resourcer
+url: ''
+url_cran: https://CRAN.R-project.org/package=resourcer
+url_git: ''

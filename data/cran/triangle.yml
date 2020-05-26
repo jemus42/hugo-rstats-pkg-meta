@@ -1,0 +1,12 @@
+version: '0.12'
+title: |-
+  Provides the Standard Distribution Functions for the Triangle
+  Distribution
+maintainer: Rob Carnell
+description: Provides the "r, q, p, and d" distribution functions for the triangle
+  distribution.
+date_publication: '2019-02-14'
+bug_reports: https://github.com/bertcarnell/triangle/issues
+url: https://bertcarnell.github.io/triangle/
+url_cran: https://CRAN.R-project.org/package=triangle
+url_git: ''

@@ -1,0 +1,11 @@
+version: '1.1'
+title: Penalized Classification using Fisher's Linear Discriminant
+maintainer: Daniela Witten
+description: Implements the penalized LDA proposal of "Witten and Tibshirani (2011),
+  Penalized classification using Fisher's linear discriminant, to appear in Journal
+  of the Royal Statistical Society, Series B".
+date_publication: '2015-07-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=penalizedLDA
+url_git: ''

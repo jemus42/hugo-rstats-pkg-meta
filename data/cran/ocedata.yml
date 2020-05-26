@@ -1,0 +1,11 @@
+version: 0.1.6
+title: Oceanographic Data Sets for 'oce' Package
+maintainer: Dan Kelley
+description: |-
+  Several Oceanographic data sets are provided for use
+  by the 'oce' package and for other purposes.
+date_publication: '2020-01-28'
+bug_reports: https://github.com/dankelley/ocedata/issues
+url: https://dankelley.github.io/ocedata
+url_cran: https://CRAN.R-project.org/package=ocedata
+url_git: ''

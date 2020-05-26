@@ -1,0 +1,17 @@
+version: 1.0.0
+title: Capital Asset Pricing for Nature
+maintainer: Seong Do Yun
+description: 'Implements approximation methods for natural capital asset prices suggested
+  by Fenichel and Abbott (2014) <doi:10.1086/676034> in Journal of the Associations
+  of Environmental and Resource Economists (JAERE), Fenichel et al. (2016) <doi:10.1073/pnas.1513779113>
+  in Proceedings of the National Academy of Sciences (PNAS), and Yun et al. (2017)
+  in PNAS (accepted), and their extensions: creating Chebyshev polynomial nodes and
+  grids, calculating basis of Chebyshev polynomials, approximation and their simulations
+  for: V-approximation (single and multiple stocks, PNAS), P-approximation (single
+  stock, PNAS), and Pdot-approximation (single stock, JAERE). Development of this
+  package was generously supported by the Knobloch Family Foundation.'
+date_publication: '2017-06-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=capn
+url_git: ''

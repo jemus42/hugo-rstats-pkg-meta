@@ -1,0 +1,10 @@
+version: 0.9.3
+title: Simply Read ASCII Single and Multicard Polling Datasets
+maintainer: Sam Petulla
+description: A convenient way to read fixed-width ASCII polling datasets from providers
+  like the Roper Center <https://ropercenter.cornell.edu>.
+date_publication: '2020-04-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=readroper
+url_git: ''

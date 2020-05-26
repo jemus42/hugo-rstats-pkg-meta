@@ -1,0 +1,15 @@
+version: 1.1.2
+title: Feature Selection SVM using Penalty Functions
+maintainer: Natalia Becker
+description: |-
+  Support Vector Machine (SVM) classification with simultaneous feature selection using penalty
+  functions is implemented. The smoothly clipped absolute deviation (SCAD),
+  'L1-norm', 'Elastic Net' ('L1-norm' and 'L2-norm') and 'Elastic
+  SCAD' (SCAD and 'L2-norm') penalties are available. The tuning
+  parameters can be found using either a fixed grid or a interval
+  search.
+date_publication: '2018-07-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=penalizedSVM
+url_git: ''

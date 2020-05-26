@@ -1,0 +1,12 @@
+version: '1.0'
+title: Relevant Dimension Estimation (RDE) in Feature Spaces
+maintainer: Jan Saputra Mueller
+description: |-
+  The package provides functions for estimating the relevant
+  dimension of a data set in feature spaces, applications to
+  model selection, graphical illustrations and prediction.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rdetools
+url_git: ''

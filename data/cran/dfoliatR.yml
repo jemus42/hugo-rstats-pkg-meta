@@ -1,0 +1,14 @@
+version: 0.1.0
+title: |-
+  Detection and Analysis of Insect Defoliation Signals in Tree
+  Rings
+maintainer: Chris Guiterman
+description: |-
+  Tools to identify, quantify, analyze, and visualize growth
+  suppression events in tree rings that are often produced by insect
+  defoliation.
+date_publication: '2020-03-04'
+bug_reports: http://github.com/chguiterman/dfoliatR/issues
+url: https://chguiterman.github.io/dfoliatR/
+url_cran: https://CRAN.R-project.org/package=dfoliatR
+url_git: ''

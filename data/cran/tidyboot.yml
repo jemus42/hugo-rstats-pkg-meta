@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Tidyverse-Compatible Bootstrapping
+maintainer: Mika Braginsky
+description: |-
+  Compute arbitrary non-parametric bootstrap statistics on data in
+  tidy data frames.
+date_publication: '2018-03-14'
+bug_reports: http://github.com/langcog/tidyboot/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tidyboot
+url_git: https://github.com/langcog/tidyboot

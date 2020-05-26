@@ -1,0 +1,13 @@
+version: 0.2.0
+title: A Reactive Web Framework Built on 'shiny'
+maintainer: Nathan Teetor
+description: |-
+  Build 'shiny' applications with the latest Bootstrap components
+  and design utilities. Includes refreshed reactive inputs and outputs.
+  Use responsive layouts to design and construct applications for devices
+  of all sizes.
+date_publication: '2020-01-10'
+bug_reports: https://github.com/nteetor/yonder/issues
+url: https://nteetor.github.io/yonder
+url_cran: https://CRAN.R-project.org/package=yonder
+url_git: ''

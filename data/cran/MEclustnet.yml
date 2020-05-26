@@ -1,0 +1,14 @@
+version: 1.2.2
+title: |-
+  Fit the Mixture of Experts Latent Position Cluster Model to
+  Network Data
+maintainer: Isobel Claire Gormley
+description: Functions to facilitate model-based clustering of nodes in a network
+  in a mixture of experts setting, which incorporates covariate information on the
+  nodes in the modelling process. Isobel Claire Gormley and Thomas Brendan Murphy
+  (2010) <doi:10.1016/j.stamet.2010.01.002>.
+date_publication: '2019-10-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MEclustnet
+url_git: ''

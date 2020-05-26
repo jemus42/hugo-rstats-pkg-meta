@@ -1,0 +1,11 @@
+version: 1.0-1
+title: Life History Models of Individuals
+maintainer: Ruben H. Roa-Ureta
+description: Likelihood-based estimation of individual growth and sexual maturity
+  models for organisms, usually fish and invertebrates. It includes methods for data
+  organization, plotting standard exploratory and analytical plots, predictions.
+date_publication: '2015-09-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LifeHist
+url_git: ''

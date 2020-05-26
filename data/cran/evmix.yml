@@ -1,0 +1,18 @@
+version: '2.12'
+title: |-
+  Extreme Value Mixture Modelling, Threshold Estimation and
+  Boundary Corrected Kernel Density Estimation
+maintainer: Carl Scarrott
+description: |-
+  The usual distribution functions, maximum likelihood inference and
+  model diagnostics for univariate stationary extreme value mixture models
+  are provided. Kernel density estimation including various boundary
+  corrected kernel density estimation methods and a wide choice of kernels,
+  with cross-validation likelihood based bandwidth estimator.
+  Reasonable consistency with the base functions in the 'evd' package is
+  provided, so that users can safely interchange most code.
+date_publication: '2019-09-03'
+bug_reports: ''
+url: http://www.math.canterbury.ac.nz/~c.scarrott/evmix
+url_cran: https://CRAN.R-project.org/package=evmix
+url_git: ''

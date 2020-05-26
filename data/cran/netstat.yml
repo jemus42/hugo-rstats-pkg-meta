@@ -1,0 +1,17 @@
+version: 0.1.1
+title: Retrieve Network Statistics Including Available TCP Ports
+maintainer: Steve Condylios
+description: |-
+  R interface for the 'netstat' command line utility used to retrieve and parse
+  commonly used network statistics, including available and in-use
+  transmission control protocol (TCP) ports. Primers offering technical background information
+  on the 'netstat'
+  command line utility are available in the "Linux System Administrator's Manual"
+  by Michael Kerrisk (2014)
+  <http://man7.org/linux/man-pages/man8/netstat.8.html>, and on the Microsoft website (2017)
+  <https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/netstat>.
+date_publication: '2020-01-23'
+bug_reports: https://github.com/stevecondylios/netstat/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=netstat
+url_git: https://github.com/stevecondylios/netstat

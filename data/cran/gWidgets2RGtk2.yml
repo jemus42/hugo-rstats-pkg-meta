@@ -1,0 +1,9 @@
+version: 1.0-7
+title: Implementation of gWidgets2 for the RGtk2 Package
+maintainer: John Verzani
+description: Implements the 'gWidgets2' API for 'RGtk2.'
+date_publication: '2018-01-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gWidgets2RGtk2
+url_git: https://github.com/jverzani/gWidgets2RGtk2

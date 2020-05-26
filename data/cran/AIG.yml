@@ -1,0 +1,13 @@
+version: 0.1.9
+title: Automatic Item Generator
+maintainer: Bao Sheng Loe (Aiden)
+description: |-
+  A collection of Automatic Item Generators used mainly for
+  psychological research. This package can generate linear syllogistic reasoning,
+  arithmetic and 2D/3D/Double 3D spatial reasoning items. It is recommended for research
+  purpose only.
+date_publication: '2018-05-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AIG
+url_git: ''

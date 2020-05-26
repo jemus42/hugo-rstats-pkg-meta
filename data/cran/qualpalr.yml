@@ -1,0 +1,13 @@
+version: 0.4.3
+title: Automatic Generation of Qualitative Color Palettes
+maintainer: Johan Larsson
+description: |-
+  Automatic generation of distinct qualitative color palettes,
+  optionally adapted to color deficiency. It takes a subspace of the HSL color
+  space as input and projects it to the DIN99d color space where it selects
+  and return colors that are maximally distinct.
+date_publication: '2018-10-29'
+bug_reports: https://github.com/jolars/qualpalr/issues
+url: https://jolars.github.io/qualpalr/
+url_cran: https://CRAN.R-project.org/package=qualpalr
+url_git: ''

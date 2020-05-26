@@ -1,0 +1,17 @@
+version: 1.2.2
+title: |-
+  Supplemental U.S. 2000 Census Tract Boundaries for 13 Western
+  States without Seer Registries for 'SeerMapper'
+maintainer: Fanni Zhang
+description: |-
+  Provides supplemental 2000 census tract boundaries for the 13 states
+  without Seer Registries that are west of the Mississippi river
+  for use with the 'SeerMapper' package.
+  The data contained in this
+  package is derived from U.S. 2000 Census data and is in the public domain.
+  Updated to Alber Equal Area projection.
+date_publication: '2020-05-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SeerMapperWest
+url_git: ''

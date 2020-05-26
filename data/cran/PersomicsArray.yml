@@ -1,0 +1,12 @@
+version: '1.0'
+title: Automated Persomics Array Image Extraction
+maintainer: John Smestad
+description: |-
+  Automated identification of printed array positions from high content
+  microscopy images and the export of those positions as individual images
+  written to output as multi-layered tiff files.
+date_publication: '2016-09-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PersomicsArray
+url_git: ''

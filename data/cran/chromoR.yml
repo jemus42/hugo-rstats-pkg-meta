@@ -1,0 +1,14 @@
+version: '1.0'
+title: Analysis of chromosomal interactions data (correction,<U+000a>segmentation
+  and comparison)
+maintainer: Yoli Shavit
+description: chromoR provides users with a statistical pipeline for analysing chromosomal
+  interactions data (Hi-C data).It combines wavelet methods and a Bayesian approach
+  for correction (bias and noise) and comparison (detecting significant changes between
+  Hi-C maps) of Hi-C contact maps.In addition, it also support detection of change
+  points in 1D Hi-C contact profiles.
+date_publication: '2014-02-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=chromoR
+url_git: ''

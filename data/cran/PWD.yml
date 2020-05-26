@@ -1,0 +1,13 @@
+version: '1.0'
+title: |-
+  Time Series Regression Using the Power Weighted Densities (PWD)
+  Approach
+maintainer: Daniel McCarthy
+description: Contains functions which allow the user to perform time series regression
+  quickly using the Power Weighted Densities (PWD) approach. alphahat_LR_one_Rcpp()
+  is the main workhorse function within this package.
+date_publication: '2016-02-29'
+bug_reports: ''
+url: http://www-stat.wharton.upenn.edu/~danielmc/
+url_cran: https://CRAN.R-project.org/package=PWD
+url_git: ''

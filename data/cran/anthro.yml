@@ -1,0 +1,15 @@
+version: 0.9.3
+title: Computation of the WHO Child Growth Standards
+maintainer: Dirk Schumacher
+description: |-
+  Provides WHO Child Growth Standards (z-scores) with
+  confidence intervals and standard errors around the
+  prevalence estimates, taking into account complex sample designs.
+  More information on the methods is
+  available online:
+  <http://www.who.int/childgrowth/standards/en/>.
+date_publication: '2020-05-21'
+bug_reports: https://github.com/dirkschumacher/anthro/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=anthro
+url_git: https://github.com/dirkschumacher/anthro

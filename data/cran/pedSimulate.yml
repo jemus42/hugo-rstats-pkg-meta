@@ -1,0 +1,11 @@
+version: 0.0.4
+title: Pedigree, Genetic Merit and Phenotype Simulation
+maintainer: Mohammad Ali Nilforooshan
+description: |-
+  Simulate pedigree, genetic merits and phenotypes with random mating followed by (non)random selection with different patterns for males and females.
+  Bijma, P. & Rutten, M. (2002) <https://pdfs.semanticscholar.org/ac22/e2961cc7797a121d956abd1ecbaddc017f87.pdf>.
+date_publication: '2020-04-26'
+bug_reports: https://github.com/nilforooshan/pedSimulate/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pedSimulate
+url_git: https://github.com/nilforooshan/pedSimulate

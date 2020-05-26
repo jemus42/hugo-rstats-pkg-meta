@@ -1,0 +1,12 @@
+version: 1.1.19
+title: Polynomial Spline Routines
+maintainer: Charles Kooperberg
+description: |-
+  Routines for the polynomial spline fitting routines
+  hazard regression, hazard estimation with flexible tails, logspline,
+  lspec, polyclass, and polymars, by C. Kooperberg and co-authors.
+date_publication: '2020-05-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=polspline
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Access Data from the Oregon State Prism Climate Project
+maintainer: Alan Butler
+description: |-
+  Allows users to access the Oregon State Prism climate data. Using
+  the web service API data can easily downloaded in bulk and loaded into R for
+  spatial analysis. Some user friendly visualizations are also provided.
+date_publication: '2018-12-10'
+bug_reports: http://github.com/ropensci/prism/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=prism
+url_git: http://github.com/ropensci/prism

@@ -1,0 +1,12 @@
+version: 0.1.3
+title: Gaines and Kuklinski (2011) Estimators for Hybrid Experiments
+maintainer: Thomas J. Leeper
+description: 'Implementations of the treatment effect estimators for hybrid (self-selection)
+  experiments, as developed by Brian J. Gaines and James H. Kuklinski, (2011), "Experimental
+  Estimation of Heterogeneous Treatment Effects Related to Self-Selection," American
+  Journal of Political Science 55(3): 724-736.'
+date_publication: '2016-05-27'
+bug_reports: https://github.com/leeper/GK2011/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=GK2011
+url_git: https://github.com/leeper/GK2011

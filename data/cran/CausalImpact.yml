@@ -1,0 +1,15 @@
+version: 1.2.4
+title: |-
+  Inferring Causal Effects using Bayesian Structural Time-Series
+  Models
+maintainer: Alain Hauser
+description: |-
+  Implements a Bayesian approach to causal impact estimation in time
+  series, as described in Brodersen et al. (2015) <DOI:10.1214/14-AOAS788>.
+  See the package documentation on GitHub
+  <https://google.github.io/CausalImpact/> to get started.
+date_publication: '2020-01-08'
+bug_reports: ''
+url: https://google.github.io/CausalImpact/
+url_cran: https://CRAN.R-project.org/package=CausalImpact
+url_git: ''

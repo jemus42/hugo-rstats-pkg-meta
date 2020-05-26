@@ -1,0 +1,13 @@
+version: 0.14.0
+title: Tools to Visualize, Manipulate, and Summarize MCMC Output
+maintainer: Casey Youngflesh
+description: Performs key functions for MCMC analysis using minimal code - visualizes,
+  manipulates, and summarizes MCMC output. Functions support simple and straightforward
+  subsetting of model parameters within the calls, and produce presentable and 'publication-ready'
+  output. MCMC output may be derived from Bayesian model output fit with JAGS, Stan,
+  or other MCMC samplers.
+date_publication: '2020-03-25'
+bug_reports: http://github.com/caseyyoungflesh/MCMCvis/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=MCMCvis
+url_git: http://github.com/caseyyoungflesh/MCMCvis

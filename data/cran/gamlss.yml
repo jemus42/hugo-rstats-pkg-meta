@@ -1,0 +1,13 @@
+version: 5.1-6
+title: Generalised Additive Models for Location Scale and Shape
+maintainer: Mikis Stasinopoulos
+description: Functions for fitting the Generalized Additive Models for Location Scale
+  and Shape introduced by Rigby and Stasinopoulos (2005), <doi:10.1111/j.1467-9876.2005.00510.x>.
+  The models use a distributional regression approach where all the parameters of
+  the conditional distribution of the response variable are modelled using explanatory
+  variables.
+date_publication: '2020-02-03'
+bug_reports: ''
+url: http://www.gamlss.org/
+url_cran: https://CRAN.R-project.org/package=gamlss
+url_git: ''

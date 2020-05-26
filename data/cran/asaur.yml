@@ -1,0 +1,11 @@
+version: '0.50'
+title: Data Sets for "Applied Survival Analysis Using R""
+maintainer: Dirk F. Moore
+description: |-
+  Data sets are referred to in the text "Applied Survival Analysis Using R"
+  by Dirk F. Moore, Springer, 2016, ISBN: 978-3-319-31243-9, <DOI:10.1007/978-3-319-31245-3>.
+date_publication: '2016-04-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=asaur
+url_git: ''

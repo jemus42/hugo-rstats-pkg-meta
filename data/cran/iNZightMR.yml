@@ -1,0 +1,14 @@
+version: 2.2.5
+title: Tools for Exploring Multiple Response Data
+maintainer: Tom Elliott
+description: |-
+  Interaction and analysis of multiple response data,
+  along with other tools for analysing these types of data including
+  missing value analysis and calculation of standard errors for
+  a range of covariance matrix results (proportions, multinomial,
+  independent samples, and multiple response).
+date_publication: '2020-05-05'
+bug_reports: https://github.com/iNZightVIT/iNZightMR/issues
+url: https://www.stat.auckland.ac.nz/~wild/iNZight/
+url_cran: https://CRAN.R-project.org/package=iNZightMR
+url_git: ''

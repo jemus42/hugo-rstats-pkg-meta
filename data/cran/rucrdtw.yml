@@ -1,0 +1,11 @@
+version: 0.1.4
+title: R Bindings for the UCR Suite
+maintainer: Philipp Boersch-Supan
+description: |-
+  R bindings for functions from the UCR Suite by Rakthanmanon et al. (2012) <DOI:10.1145/2339530.2339576>, which enables ultrafast subsequence
+  search for a best match under Dynamic Time Warping and Euclidean Distance.
+date_publication: '2020-03-04'
+bug_reports: https://github.com/pboesu/rucrdtw/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rucrdtw
+url_git: https://github.com/pboesu/rucrdtw

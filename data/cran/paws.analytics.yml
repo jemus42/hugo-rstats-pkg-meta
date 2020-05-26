@@ -1,0 +1,12 @@
+version: 0.1.8
+title: Amazon Web Services Analytics APIs
+maintainer: David Kretch
+description: |-
+  Interface to Amazon Web Services analytics APIs, including
+  'Elastic MapReduce' 'Hadoop' and 'Spark' big data service,
+  'Elasticsearch' search engine, and more <https://aws.amazon.com/>.
+date_publication: '2020-04-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=paws.analytics
+url_git: ''

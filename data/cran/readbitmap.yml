@@ -1,0 +1,16 @@
+version: 0.1.5
+title: |-
+  Simple Unified Interface to Read Bitmap Images
+  (BMP,JPEG,PNG,TIFF)
+maintainer: Gregory Jefferis
+description: |-
+  Identifies and reads Windows BMP, JPEG, PNG, and TIFF format bitmap
+  images. Identification defaults to the use of the magic number embedded in
+  the file rather than the file extension. Reading of JPEG and PNG image
+  depends on libjpg and libpng libraries. See file INSTALL for details if
+  necessary.
+date_publication: '2018-06-27'
+bug_reports: https://github.com/jefferis/readbitmap/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=readbitmap
+url_git: https://github.com/jefferis/readbitmap

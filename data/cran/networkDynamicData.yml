@@ -1,0 +1,10 @@
+version: 0.2.1
+title: Dynamic (Longitudinal) Network Datasets
+maintainer: Skye Bender-deMoll
+description: A collection of dynamic network data sets from various sources and multiple
+  authors represented as 'networkDynamic'-formatted objects.
+date_publication: '2016-01-12'
+bug_reports: ''
+url: http://statnet.org
+url_cran: https://CRAN.R-project.org/package=networkDynamicData
+url_git: ''

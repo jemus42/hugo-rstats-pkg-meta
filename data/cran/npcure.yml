@@ -1,0 +1,11 @@
+version: 0.1-5
+title: Nonparametric Estimation in Mixture Cure Models
+maintainer: Ignacio López-de-Ullibarri
+description: Performs nonparametric estimation in mixture cure models, and significance
+  tests for the cure probability. For details, see López-Cheda et al. (2017a) <doi:10.1016/j.csda.2016.08.002>
+  and López-Cheda et al. (2017b) <doi:10.1007/s11749-016-0515-1>.
+date_publication: '2020-02-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=npcure
+url_git: ''

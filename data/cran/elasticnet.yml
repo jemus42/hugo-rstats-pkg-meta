@@ -1,0 +1,12 @@
+version: '1.3'
+title: Elastic-Net for Sparse Estimation and Sparse PCA
+maintainer: Hui Zou
+description: |-
+  Provides functions for fitting the entire
+  solution path of the Elastic-Net and also provides functions
+  for doing sparse PCA.
+date_publication: '2020-05-15'
+bug_reports: ''
+url: http://users.stat.umn.edu/~zouxx019/
+url_cran: https://CRAN.R-project.org/package=elasticnet
+url_git: ''

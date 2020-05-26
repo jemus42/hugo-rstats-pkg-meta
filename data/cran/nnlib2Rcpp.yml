@@ -1,0 +1,10 @@
+version: 0.1.2
+title: A Collection of Neural Networks
+maintainer: Vasilis Nikolaidis
+description: Another collection of neural networks. Includes versions of 'BP', 'Autoencoder',
+  'LVQ' (supervised and unsupervised), 'MAM'.
+date_publication: '2020-05-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nnlib2Rcpp
+url_git: https://github.com/VNNikolaidis/nnlib2Rcpp

@@ -1,0 +1,12 @@
+version: 2.1.4
+title: A Shiny GUI for some Parameter Estimation Examples
+maintainer: Joris Snellenburg
+description: |-
+  Allows specification and fitting of some parameter
+  estimation examples inspired by time-resolved spectroscopy via
+  a Shiny GUI.
+date_publication: '2020-02-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=paramGUI
+url_git: ''

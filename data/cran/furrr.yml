@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Apply Mapping Functions in Parallel using Futures
+maintainer: Davis Vaughan
+description: Implementations of the family of map() functions from 'purrr' that can
+  be resolved using any 'future'-supported backend, e.g. parallel on the local machine
+  or distributed on a compute cluster.
+date_publication: '2018-05-16'
+bug_reports: https://github.com/DavisVaughan/furrr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=furrr
+url_git: https://github.com/DavisVaughan/furrr

@@ -1,0 +1,15 @@
+version: 1.0.5
+title: |-
+  Mitigating the Adverse Impact of Batch Effects in Sample Pattern
+  Detection
+maintainer: Teng Fei
+description: Modifies the distance matrix obtained from data with batch effects, so
+  as to improve the performance of sample pattern detection, such as clustering, dimension
+  reduction, and construction of networks between subjects. The method has been published
+  in Bioinformatics (Fei et al, 2018, <doi:10.1093/bioinformatics/bty117>). Also available
+  on 'GitHub' <https://github.com/tengfei-emory/QuantNorm>.
+date_publication: '2019-02-01'
+bug_reports: https://github.com/tengfei-emory/QuantNorm/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=QuantNorm
+url_git: ''

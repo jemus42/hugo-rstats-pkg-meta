@@ -1,0 +1,17 @@
+version: 0.1.0
+title: |-
+  Tools for 'Box Geometry Model' (BGM) Files and Topology for the
+  Atlantis Ecosystem Model
+maintainer: Michael D. Sumner
+description: |-
+  Facilities for working with Atlantis box-geometry model (BGM)
+  files. Atlantis is a deterministic, biogeochemical, whole-of-ecosystem model.
+  Functions are provided to read from BGM files directly, preserving their
+  internal topology, as well as helper functions to generate spatial data from these
+  mesh forms. This functionality aims to simplify the creation and modification of box
+  and geometry as well as the ability to integrate with other data sources.
+date_publication: '2020-04-12'
+bug_reports: https://github.com/AustralianAntarcticDivision/rbgm/issues/
+url: https://research.csiro.au/atlantis/
+url_cran: https://CRAN.R-project.org/package=rbgm
+url_git: ''

@@ -1,0 +1,10 @@
+version: 1.1.0
+title: Group Sequential Design in Equivalence Studies
+maintainer: Fang Liu
+description: calculate equivalence and futility boundaries based on the exact bivariate
+  $t$ test statistics for group sequential designs in studies with equivalence hypotheses.
+date_publication: '2014-11-20'
+bug_reports: http://www3.nd.edu/~fliu2/
+url: http://www3.nd.edu/~fliu2/
+url_cran: https://CRAN.R-project.org/package=gset
+url_git: ''

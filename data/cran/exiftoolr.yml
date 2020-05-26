@@ -1,0 +1,19 @@
+version: 0.1.2
+title: ExifTool Functionality from R
+maintainer: Joshua O'Brien
+description: |-
+  Reads, writes, and edits EXIF and other file metadata
+  using ExifTool <http://www.sno.phy.queensu.ca/~phil/exiftool/>,
+  returning read results as a data frame. ExifTool supports many
+  different metadata formats including EXIF, GPS, IPTC, XMP, JFIF,
+  GeoTIFF, ICC Profile, Photoshop IRB, FlashPix, AFCP and ID3, as
+  well as the maker notes of many digital cameras by Canon, Casio,
+  DJI, FLIR, FujiFilm, GE, GoPro, HP, JVC/Victor, Kodak, Leaf,
+  Minolta/Konica-Minolta, Motorola, Nikon, Nintendo, Olympus/Epson,
+  Panasonic/Leica, Pentax/Asahi, Phase One, Reconyx, Ricoh, Samsung,
+  Sanyo, Sigma/Foveon and Sony.
+date_publication: '2019-06-07'
+bug_reports: https://github.com/JoshOBrien/exiftoolr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=exiftoolr
+url_git: https://github.com/JoshOBrien/exiftoolr#readme

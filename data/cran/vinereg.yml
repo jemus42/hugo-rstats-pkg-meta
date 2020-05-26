@@ -1,0 +1,14 @@
+version: 0.7.0
+title: D-Vine Quantile Regression
+maintainer: Thomas Nagler
+description: |2-
+
+  Implements D-vine quantile regression models with
+  parametric or nonparametric pair-copulas. See
+  Kraus and Czado (2017) <doi:10.1016/j.csda.2016.12.009> and
+  Schallhorn et al. (2017) <arXiv:1705.08310>.
+date_publication: '2019-12-02'
+bug_reports: https://github.com/tnagler/vinereg/issues
+url: https://tnagler.github.io/vinereg
+url_cran: https://CRAN.R-project.org/package=vinereg
+url_git: ''

@@ -1,0 +1,15 @@
+version: '1.1'
+title: |-
+  Propensity score methods for assigning treatment in randomized
+  trials
+maintainer: Travis M. Loux
+description: This package contains functions to run propensity-biased allocation to
+  balance covariate distributions in sequential trials and propensity-constrained
+  randomization to balance covariate distributions in trials with known baseline covariates
+  at time of randomization.  Currently this package only supports trials comparing
+  two groups.
+date_publication: '2013-11-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PropScrRand
+url_git: ''

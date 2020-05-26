@@ -1,0 +1,13 @@
+version: 0.5.3
+title: Tools for Building OLS Regression Models
+maintainer: Aravind Hebbali
+description: |-
+  Tools designed to make it easier for users, particularly beginner/intermediate R users
+  to build ordinary least squares regression models. Includes comprehensive regression output,
+  heteroskedasticity tests, collinearity diagnostics, residual diagnostics, measures of influence,
+  model fit assessment and variable selection procedures.
+date_publication: '2020-02-10'
+bug_reports: https://github.com/rsquaredacademy/olsrr/issues
+url: https://olsrr.rsquaredacademy.com/
+url_cran: https://CRAN.R-project.org/package=olsrr
+url_git: https://github.com/rsquaredacademy/olsrr

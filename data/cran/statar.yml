@@ -1,0 +1,11 @@
+version: 0.7.1
+title: Tools Inspired by 'Stata' to Manipulate Tabular Data
+maintainer: Matthieu Gomez
+description: |-
+  A set of tools inspired by 'Stata' to explore data.frames ('summarize',
+  'tabulate', 'xtile', 'pctile', 'binscatter', elapsed quarters/month, lead/lag).
+date_publication: '2019-07-05'
+bug_reports: https://github.com/matthieugomez/statar/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=statar
+url_git: https://github.com/matthieugomez/statar

@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Client for the 'Cumulocity' API
+maintainer: Dmitriy Bolotov
+description: Access the 'Cumulocity' API and retrieve data on devices, measurements,
+  and events. Documentation for the API can be found at <https://www.cumulocity.com/guides/reference/rest-implementation/>.
+date_publication: '2019-10-20'
+bug_reports: https://github.com/SoftwareAG/cumulocityr/issues
+url: https://softwareag.github.io/cumulocityr/
+url_cran: https://CRAN.R-project.org/package=cumulocityr
+url_git: https://github.com/SoftwareAG/cumulocityr

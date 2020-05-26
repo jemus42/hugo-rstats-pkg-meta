@@ -1,0 +1,12 @@
+version: '1.0'
+title: Population Proportion Estimation using Group Testing
+maintainer: Qingyang Zhang
+description: The population proportion using group testing can be estimated by different
+  methods. Four functions including p.mle(), p.gart(), p.burrow() and p.order() are
+  provided to implement four estimating methods including the maximum likelihood estimate,
+  Gart's estimate, Burrow's estimate, and order statistic estimate.
+date_publication: '2016-09-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PEGroupTesting
+url_git: ''

@@ -1,0 +1,16 @@
+version: 2.5-1
+title: SPArse Matrix
+maintainer: Reinhard Furrer
+description: |-
+  Set of functions for sparse matrix algebra.
+  Differences with other sparse matrix packages are:
+  (1) we only support (essentially) one sparse matrix format,
+  (2) based on transparent and simple structure(s),
+  (3) tailored for MCMC calculations within G(M)RF.
+  (4) and it is fast and scalable (with the extension package spam64).
+  Documentation about 'spam' is provided by vignettes included in this package, see also Furrer and Sain (2010) <doi:10.18637/jss.v036.i10>; see 'citation("spam")' for details.
+date_publication: '2019-12-12'
+bug_reports: https://git.math.uzh.ch/reinhard.furrer/spam/issues
+url: https://www.math.uzh.ch/pages/spam/
+url_cran: https://CRAN.R-project.org/package=spam
+url_git: ''

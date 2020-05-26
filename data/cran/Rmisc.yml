@@ -1,0 +1,11 @@
+version: '1.5'
+title: 'Rmisc: Ryan Miscellaneous'
+maintainer: Ryan M. Hope
+description: |-
+  The Rmisc library contains many functions useful for data analysis
+  and utility operations.
+date_publication: '2013-10-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rmisc
+url_git: ''

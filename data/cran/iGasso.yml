@@ -1,0 +1,9 @@
+version: '1.4'
+title: Statistical Tests and Utilities for Genetic Association
+maintainer: Kai Wang
+description: A collection of statistical tests for genetic association studies.
+date_publication: '2016-06-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=iGasso
+url_git: ''

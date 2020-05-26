@@ -1,0 +1,13 @@
+version: 0.2.0
+title: Convert Among Citation Formats
+maintainer: Scott Chamberlain
+description: |-
+  Converts among many citation formats, including 'BibTeX',
+  'Citeproc', 'Codemeta', 'RDF XML', 'RIS', and 'Schema.org'. A low
+  level 'R6' class is provided, as well as stand-alone functions
+  for each citation format for both read and write.
+date_publication: '2019-08-19'
+bug_reports: https://github.com/ropensci/handlr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=handlr
+url_git: https://github.com/ropensci/handlr

@@ -1,0 +1,13 @@
+version: 0.0.3
+title: Multivariate Elastic Net Regression
+maintainer: Armin Rauschenberger
+description: Implements high-dimensional multivariate regression by stacked generalisation
+  (Wolpert 1992 <doi:10.1016/S0893-6080(05)80023-1>). For positively correlated outcomes,
+  a single multivariate regression is typically more predictive than multiple univariate
+  regressions. Includes functions for model fitting, extracting coefficients, outcome
+  prediction, and performance measurement.
+date_publication: '2019-11-13'
+bug_reports: https://github.com/rauschenberger/joinet/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=joinet
+url_git: https://github.com/rauschenberger/joinet

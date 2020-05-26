@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Bootstrap Inference for Multiple Imputation
+maintainer: Jonathan Bartlett
+description: Bootstraps and imputes incomplete datasets. Then performs inference on
+  estimates obtained from analysing the imputed datasets as proposed by von Hippel
+  (2018) <arXiv:1210.0870v9>.
+date_publication: '2019-07-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bootImpute
+url_git: ''

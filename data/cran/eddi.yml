@@ -1,0 +1,15 @@
+version: 0.0.1
+title: Get Evaporative Demand Drought Index Raster Data
+maintainer: Max Joseph
+description: |-
+  Finds and downloads raw Evaporative Demand Drought
+  Index (EDDI) data, then reads the data into 'R' using the 'raster'
+  package. The EDDI product detects drought at multiple time scales,
+  from weekly "flash droughts" to long-term droughts. More information
+  about the EDDI data product can be found at
+  <https://www.esrl.noaa.gov/psd/eddi/>.
+date_publication: '2019-05-22'
+bug_reports: https://github.com/earthlab/eddi/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=eddi
+url_git: https://github.com/earthlab/eddi

@@ -1,0 +1,14 @@
+version: 1.4.0
+title: Fast and Easy Data Cleaning
+maintainer: Matthijs S. Berends
+description: |-
+  Data cleaning functions for classes logical,
+  factor, numeric, character, currency and Date to make
+  data cleaning fast and easy. Relying on very few dependencies, it
+  provides smart guessing, but with user options to override
+  anything if needed.
+date_publication: '2020-04-01'
+bug_reports: https://github.com/msberends/cleaner/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=cleaner
+url_git: https://github.com/msberends/cleaner

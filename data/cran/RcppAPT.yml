@@ -1,0 +1,14 @@
+version: 0.0.6
+title: '''Rcpp'' Interface to the APT Package Manager'
+maintainer: Dirk Eddelbuettel
+description: |-
+  The 'APT Package Management System' provides Debian and
+  Debian-derived Linux systems with a powerful system to resolve package
+  dependencies. This package offers access directly from R.  This can
+  only work on a system with a suitable 'libapt-pkg-dev' installation
+  so functionality is curtailed if such a library is not found.
+date_publication: '2020-03-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcppAPT
+url_git: ''

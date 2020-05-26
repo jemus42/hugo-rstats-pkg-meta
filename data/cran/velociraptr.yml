@@ -1,0 +1,10 @@
+version: 1.1.0
+title: Fossil Analysis
+maintainer: Andrew A Zaffos
+description: Functions for downloading, reshaping, culling, cleaning, and analyzing
+  fossil data from the Paleobiology Database <https://paleobiodb.org>.
+date_publication: '2019-07-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=velociraptr
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.0.5
+title: '''WebDriver'' Client for ''PhantomJS'''
+maintainer: Gábor Csárdi
+description: |-
+  A client for the 'WebDriver' 'API'. It allows driving a
+  (probably headless) web browser, and can be used to test web
+  applications, including 'Shiny' apps. In theory it works with any
+  'WebDriver' implementation, but it was only tested with 'PhantomJS'.
+date_publication: '2018-04-11'
+bug_reports: https://github.com/rstudio/webdriver/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=webdriver
+url_git: https://github.com/rstudio/webdriver

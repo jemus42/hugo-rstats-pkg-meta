@@ -1,0 +1,9 @@
+version: 0.1.33
+title: '''Toggl.com'' Api for ''Rstudio'''
+maintainer: Vincent Guyader
+description: Use the <http://toggl.com> time tracker api through R.
+date_publication: '2018-08-13'
+bug_reports: https://github.com/ThinkR-open/togglr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=togglr
+url_git: https://github.com/ThinkR-open/togglr

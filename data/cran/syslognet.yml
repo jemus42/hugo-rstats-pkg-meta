@@ -1,0 +1,11 @@
+version: 0.1.2.1
+title: Send Log Messages to Remote 'syslog' Server
+maintainer: Panagiotis Cheilaris
+description: |-
+  Send 'syslog' protocol messages to a remote 'syslog' server
+  specified by host name and TCP network port.
+date_publication: '2020-01-08'
+bug_reports: https://github.com/philaris/syslognet/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=syslognet
+url_git: https://github.com/philaris/syslognet

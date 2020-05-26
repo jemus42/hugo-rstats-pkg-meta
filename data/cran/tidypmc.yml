@@ -1,0 +1,11 @@
+version: '1.7'
+title: Parse Full Text XML Documents from PubMed Central
+maintainer: Chris Stubben
+description: |-
+  Parse XML documents from the Open Access subset of Europe PubMed Central <https://europepmc.org>
+  including section paragraphs, tables, captions and references.
+date_publication: '2019-08-01'
+bug_reports: https://github.com/ropensci/tidypmc/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tidypmc
+url_git: https://github.com/cstubben/tidypmc

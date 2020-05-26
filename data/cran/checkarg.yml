@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Check the Basic Validity of a (Function) Argument
+maintainer: Ivo Van Walle Developer
+description: |-
+  Utility functions that allow checking the basic validity of a function argument or any other value,
+  including generating an error and assigning a default in a single line of code. The main purpose of
+  the package is to provide simple and easily readable argument checking to improve code robustness.
+date_publication: '2017-05-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=checkarg
+url_git: ''

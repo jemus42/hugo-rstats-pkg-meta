@@ -1,0 +1,17 @@
+version: 0.9-7
+title: Markov Chain Monte Carlo
+maintainer: Charles J. Geyer
+description: |-
+  Simulates continuous distributions of random vectors using
+  Markov chain Monte Carlo (MCMC).  Users specify the distribution by an
+  R function that evaluates the log unnormalized density.  Algorithms
+  are random walk Metropolis algorithm (function metrop), simulated
+  tempering (function temper), and morphometric random walk Metropolis
+  (Johnson and Geyer, 2012, <doi:10.1214/12-AOS1048>,
+  function morph.metrop),
+  which achieves geometric ergodicity by change of variable.
+date_publication: '2020-03-21'
+bug_reports: ''
+url: http://www.stat.umn.edu/geyer/mcmc/
+url_cran: https://CRAN.R-project.org/package=mcmc
+url_git: https://github.com/cjgeyer/mcmc

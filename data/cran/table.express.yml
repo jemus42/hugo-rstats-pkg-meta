@@ -1,0 +1,12 @@
+version: 0.3.1
+title: Build 'data.table' Expressions with Data Manipulation Verbs
+maintainer: Alexis Sarda-Espinosa
+description: |-
+  A specialization of 'dplyr' data manipulation verbs that parse and build expressions
+  which are ultimately evaluated by 'data.table', letting it handle all optimizations. A set of
+  additional verbs is also provided to facilitate some common operations on a subset of the data.
+date_publication: '2019-09-07'
+bug_reports: https://github.com/asardaes/table.express/issues
+url: https://asardaes.github.io/table.express
+url_cran: https://CRAN.R-project.org/package=table.express
+url_git: https://github.com/asardaes/table.express

@@ -1,0 +1,16 @@
+version: '4.2'
+title: Stable Isotope Analysis in R
+maintainer: Andrew Parnell
+description: |-
+  This package takes data on organism isotopes and fits a
+  Bayesian model to their dietary habits based upon a Gaussian
+  likelihood with a mixture dirichlet-distributed prior on the
+  mean. It also includes SiBER metrics. See siardemo() for an
+  example. Version 4.1.2 contains bug fixes to allow more than
+  isotope numbers other than 2. Version 4.2 fixes a bug that
+  stopped siar working on 64-bit systems
+date_publication: '2013-04-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=siar
+url_git: ''

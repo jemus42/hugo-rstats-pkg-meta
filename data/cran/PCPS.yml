@@ -1,0 +1,10 @@
+version: 1.0.7
+title: Principal Coordinates of Phylogenetic Structure
+maintainer: Vanderlei Julio Debastiani
+description: Set of functions for analysis of Principal Coordinates of Phylogenetic
+  Structure (PCPS).
+date_publication: '2020-01-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PCPS
+url_git: ''

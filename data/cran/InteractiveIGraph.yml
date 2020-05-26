@@ -1,0 +1,11 @@
+version: 1.0.6.1
+title: interactive network analysis and visualization.
+maintainer: Vygantas Butkus
+description: |-
+  An extension of the package 'igraph'. This package create
+  possibly to work with 'igraph' objects interactively.
+date_publication: '2013-05-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=InteractiveIGraph
+url_git: ''

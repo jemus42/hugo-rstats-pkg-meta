@@ -1,0 +1,14 @@
+version: 1.0-4
+title: |-
+  Bias-Corrected Methods for Estimating the ROC Surface of
+  Continuous Diagnostic Tests
+maintainer: Duc-Khanh To
+description: |-
+  The bias-corrected estimation methods for the receiver operating characteristics
+  ROC surface and the volume under ROC surfaces (VUS) under missing at random (MAR)
+  assumption.
+date_publication: '2020-02-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bcROCsurface
+url_git: ''

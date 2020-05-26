@@ -1,0 +1,13 @@
+version: 0.1.0
+title: |-
+  A New Gini Correlation Between Quantitative and Qualitative
+  Variables
+maintainer: Dao Nguyen
+description: An implementation of a new Gini covariance and correlation to measure
+  dependence between a categorical and numerical variables. Dang, X., Nguyen, D.,
+  Chen, Y. and Zhang, J., (2018) <arXiv:1809.09793>.
+date_publication: '2019-06-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GiniDistance
+url_git: ''

@@ -1,0 +1,11 @@
+version: 4.1.0
+title: Structure Parameter Inference Approach
+maintainer: Johannes W. Dietrich
+description: Calculates constant structure parameters of endocrine homeostatic systems
+  from equilibrium hormone concentrations. Methods and equations have been described
+  in Dietrich et al. (2012) <doi:10.1155/2012/351864> and Dietrich et al. (2016) <doi:10.3389/fendo.2016.00057>.
+date_publication: '2018-03-21'
+bug_reports: https://sourceforge.net/p/spina/bugs/
+url: http://spina.sf.net/
+url_cran: https://CRAN.R-project.org/package=SPINA
+url_git: ''

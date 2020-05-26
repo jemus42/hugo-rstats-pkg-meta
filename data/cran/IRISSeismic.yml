@@ -1,0 +1,14 @@
+version: 1.5.2
+title: Classes and Methods for Seismic Data Analysis
+maintainer: Gillian Sharer
+description: |-
+  Provides classes and methods for seismic data analysis. The
+  base classes and methods are inspired by the python code found in
+  the 'ObsPy' python toolbox <https://github.com/obsypy/obspy>. Additional classes and
+  methods support data returned by web services provided by the 'IRIS DMC'
+  <http://service.iris.edu/>.
+date_publication: '2019-10-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IRISSeismic
+url_git: ''

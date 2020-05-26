@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Seamless 'D3Plus' Integration
+maintainer: Mauricio Vargas
+description: Provides functions that offer seamless 'D3Plus' integration. The examples
+  provided here are taken from the official 'D3Plus' website <http://d3plus.org>.
+date_publication: '2017-09-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=d3plus
+url_git: ''

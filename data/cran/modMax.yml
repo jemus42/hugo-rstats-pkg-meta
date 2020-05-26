@@ -1,0 +1,11 @@
+version: '1.1'
+title: Community Structure Detection via Modularity Maximization
+maintainer: Maria Schelling
+description: |-
+  The algorithms implemented here are used to detect the community structure of a network.
+  These algorithms follow different approaches, but are all based on the concept of modularity maximization.
+date_publication: '2015-07-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=modMax
+url_git: ''

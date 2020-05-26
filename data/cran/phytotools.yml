@@ -1,0 +1,13 @@
+version: '1.0'
+title: Phytoplankton Production Tools
+maintainer: Greg Silsbe
+description: |-
+  Fits PE and RLC data to one of a four published PE models.
+  Simulates incident irradiance as a function of time and space.
+  Calculates phytoplankton production by transposing modeled PE or RLC data
+  to a water column with a user-defined theoretical in-situ irradiance field.
+date_publication: '2015-02-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=phytotools
+url_git: ''

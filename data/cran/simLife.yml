@@ -1,0 +1,11 @@
+version: 0.5.2
+title: Simulation of Fatigue Lifetimes
+maintainer: Markus Baaske
+description: |-
+  Provides methods for simulation and analysis of a very general fatigue
+  lifetime model for (metal matrix) composite materials.
+date_publication: '2019-04-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=simLife
+url_git: ''

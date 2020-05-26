@@ -1,0 +1,15 @@
+version: 0.6.0
+title: Core Functions to Read and Fit 13c Time Series from Breath Tests
+maintainer: Dieter Menne
+description: |-
+  Reads several formats of 13C data (IRIS/Wagner,
+  BreathID) and CSV.  Creates artificial sample data for testing.  Fits
+  Maes/Ghoos, Bluck-Coward self-correcting formula using 'nls', 'nlme'.
+  Methods to fit breath test curves with Bayesian Stan methods are
+  refactored to package 'breathteststan'. For a Shiny GUI, see package
+  'dmenne/breathtestshiny' on github.
+date_publication: '2020-03-22'
+bug_reports: https://github.com/dmenne/breathtestcore/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=breathtestcore
+url_git: https://github.com/dmenne/breathtestcore

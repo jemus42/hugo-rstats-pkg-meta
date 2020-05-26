@@ -1,0 +1,10 @@
+version: 0.2-10
+title: R-Interface to Gene Drop Simulation from JPSGCS
+maintainer: Brad McNeney
+description: R-interface to gene drop programs from Alun Thomas' Java Programs for
+  Statistical Genetics and Computational Statistics (JPSGCS).
+date_publication: '2018-05-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rJPSGCS
+url_git: ''

@@ -1,0 +1,11 @@
+version: '0.01'
+title: Multi-Locus Haplotype Phasing
+maintainer: Dave T. Gerrard
+description: |-
+  Phase haplotypes from genotypes based on a list of known
+  haplotypes. Suited to highly diverse loci such as HLA.
+date_publication: '2012-09-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mlPhaser
+url_git: https://github.com/davetgerrard/mlPhaser

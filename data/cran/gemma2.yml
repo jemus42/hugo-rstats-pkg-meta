@@ -1,0 +1,15 @@
+version: 0.1.1
+title: GEMMA Multivariate Linear Mixed Model
+maintainer: Frederick Boehm
+description: Fits a multivariate linear mixed effects model that uses a polygenic
+  term, after Zhou & Stephens (2014) (<https://www.nature.com/articles/nmeth.2848>).
+  Of particular interest is the estimation of variance components with restricted
+  maximum likelihood (REML) methods. Genome-wide efficient mixed-model association
+  (GEMMA), as implemented in the package 'gemma2', uses an expectation-maximization
+  algorithm for variance components inference for use in quantitative trait locus
+  studies.
+date_publication: '2019-10-01'
+bug_reports: https://github.com/fboehm/gemma2/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gemma2
+url_git: https://github.com/fboehm/gemma2

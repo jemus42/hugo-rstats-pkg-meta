@@ -1,0 +1,12 @@
+version: 0.5.6
+title: Implement Tour Methods in R Code
+maintainer: Di Cook
+description: |-
+  Implements geodesic interpolation and basis
+  generation functions that allow you to create new tour
+  methods from R.
+date_publication: '2019-02-12'
+bug_reports: https://github.com/ggobi/tourr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tourr
+url_git: https://github.com/ggobi/tourr

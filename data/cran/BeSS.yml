@@ -1,0 +1,14 @@
+version: 1.0.8
+title: Best Subset Selection in Linear, Logistic and CoxPH Models
+maintainer: Canhong Wen
+description: An implementation of best subset selection in generalized linear model
+  and Cox proportional hazard model via the primal dual active set algorithm proposed
+  by Wen, C., Zhang, A., Quan, S. and Wang, X. (2017) <arXiv:1709.06254>. The algorithm
+  formulates coefficient parameters and residuals as primal and dual variables and
+  utilizes efficient active set selection strategies based on the complementarity
+  of the primal and dual variables.
+date_publication: '2020-03-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BeSS
+url_git: ''

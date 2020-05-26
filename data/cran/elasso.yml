@@ -1,0 +1,13 @@
+version: '1.1'
+title: |-
+  Enhanced Least Absolute Shrinkage and Selection Operator
+  Regression Model
+maintainer: Pi Guo
+description: |-
+  Performs some enhanced variable selection algorithms
+  based on the least absolute shrinkage and selection operator for regression model.
+date_publication: '2015-10-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=elasso
+url_git: ''

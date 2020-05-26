@@ -1,0 +1,12 @@
+version: 0.4-0
+title: |-
+  Meta-Analysis of Diagnostic Accuracy Studies with Several
+  Cutpoints
+maintainer: Guido Schwarzer
+description: Provides methods by Steinhauser et al. (2016) <DOI:10.1186/s12874-016-0196-1>
+  for meta-analysis of diagnostic accuracy studies with several cutpoints.
+date_publication: '2020-04-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=diagmeta
+url_git: https://github.com/guido-s/diagmeta

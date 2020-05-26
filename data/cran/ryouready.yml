@@ -1,0 +1,11 @@
+version: '0.4'
+title: Companion to the Forthcoming Book - R you Ready?
+maintainer: Mark Heckmann
+description: |-
+  Package contains some data and functions that
+  are used in my forthcoming "R you ready?" book.
+date_publication: '2015-12-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ryouready
+url_git: ''

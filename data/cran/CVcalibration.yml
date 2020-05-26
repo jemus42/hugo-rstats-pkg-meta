@@ -1,0 +1,10 @@
+version: 1.0-1
+title: Estimation of the Calibration Equation with Error-in<U+000a>Observations
+maintainer: Lu Tian
+description: Statistical inferences for estimating the calibration equation with error-in
+  observations
+date_publication: '2014-01-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CVcalibration
+url_git: ''

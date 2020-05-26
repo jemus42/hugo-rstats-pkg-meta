@@ -1,0 +1,9 @@
+version: 0.1.4
+title: Tools for analyzing sales report files of iTunes Connect.
+maintainer: Yusuke Miyazaki
+description: Tools for analyzing sales report files of iTunes Connect.
+date_publication: '2013-10-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RTConnect
+url_git: ''

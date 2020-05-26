@@ -1,0 +1,15 @@
+version: '1.1'
+title: Principal Components Lasso
+maintainer: Rob Tibshirani
+description: |-
+  A method for fitting the entire regularization path
+  of the principal components lasso for linear and
+  logistic regression models. The algorithm uses cyclic coordinate descent
+  in a path-wise fashion. See URL below for more information on the algorithm.
+  See Tay, K., Friedman, J. ,Tibshirani, R., (2014) 'Principal component-guided sparse regression'
+  <arXiv:1810.04651>.
+date_publication: '2019-02-06'
+bug_reports: ''
+url: https://arxiv.org/abs/1810.04651
+url_cran: https://CRAN.R-project.org/package=pcLasso
+url_git: ''

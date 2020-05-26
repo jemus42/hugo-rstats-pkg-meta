@@ -1,0 +1,15 @@
+version: '0.1'
+title: |-
+  Homogeneity and Sparsity Detection Incorporating Prior
+  Constraint Information
+maintainer: Yaguang Li
+description: We explore sparsity and homogeneity of regression coefficients incorporating
+  prior constraint information. A general pairwise fusion approach is proposed to
+  deal with the sparsity and homogeneity detection when combining prior convex constraints.
+  We develop an modified alternating direction method of multipliers algorithm (ADMM)
+  to obtain the estimators.
+date_publication: '2018-10-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HSDiC
+url_git: ''

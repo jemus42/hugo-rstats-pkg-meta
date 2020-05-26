@@ -1,0 +1,14 @@
+version: '1.2'
+title: Mountain Plots, Folded Empirical Cumulative Distribution Plots
+maintainer: Kevin Wright
+description: |-
+  Lattice functions for drawing folded empirical cumulative
+  distribution plots, or mountain plots. A mountain plot is similar
+  to an empirical CDF plot, except that the curve increases from
+  0 to 0.5, then decreases from 0.5 to 1 using an inverted scale at
+  the right side.
+date_publication: '2017-07-13'
+bug_reports: https://github.com/kwstat/mountainplot/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mountainplot
+url_git: https://github.com/kwstat/mountainplot

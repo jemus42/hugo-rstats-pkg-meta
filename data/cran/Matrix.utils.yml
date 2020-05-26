@@ -1,0 +1,10 @@
+version: 0.9.8
+title: Data.frame-Like Operations on Sparse and Dense Matrix Objects
+maintainer: Craig Varrichio
+description: Implements data manipulation methods such as cast, aggregate, and merge/join
+  for Matrix and matrix-like objects.
+date_publication: '2020-02-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Matrix.utils
+url_git: https://github.com/cvarrichio/Matrix.utils

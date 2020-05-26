@@ -1,0 +1,17 @@
+version: 0.2.26.4
+title: |-
+  Portable Emissions (and Other Mobile) Measurement System
+  Utilities
+maintainer: Karl Ropkins
+description: |-
+  Utility functions for the handling, analysis and visualisation
+  of data from portable emissions measurement systems ('PEMS') and other
+  similar mobile activity monitoring devices. The package includes a dedicated
+  'pems' data class that manages many of the quality control, unit handling
+  and data archiving issues that can hinder efforts to standardise 'PEMS'
+  research.
+date_publication: '2018-11-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pems.utils
+url_git: http://pems.r-forge.r-project.org/

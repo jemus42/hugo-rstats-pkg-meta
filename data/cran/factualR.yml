@@ -1,0 +1,13 @@
+version: '0.5'
+title: thin wrapper for the Factual.com server API
+maintainer: Ethan McCallum
+description: Per the Factual.com website, "Factual is a platform where<U+000a>anyone
+  can share and mash open, living data on any subject."<U+000a>The data is in the
+  form of tables and is accessible via REST<U+000a>API.  The factualR package is a
+  thin wrapper around the<U+000a>Factual.com API, to make it even easier for people
+  working with<U+000a>R to explore Factual.com data sets.
+date_publication: '2011-01-03'
+bug_reports: ''
+url: http://www.exmachinatech.net/factualR/
+url_cran: https://CRAN.R-project.org/package=factualR
+url_git: ''

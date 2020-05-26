@@ -1,0 +1,11 @@
+version: 0.46-3
+title: Local Principal Curve Methods
+maintainer: Jochen Einbeck
+description: Fitting multivariate data patterns with local principal curves, including
+  tools for data compression (projection) and measuring goodness-of-fit; with some
+  additional functions for mean shift clustering.
+date_publication: '2019-08-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LPCM
+url_git: ''

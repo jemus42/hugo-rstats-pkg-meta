@@ -1,0 +1,16 @@
+version: 0.0.2
+title: Model Wrappers for Discriminant Analysis
+maintainer: Max Kuhn
+description: |-
+  Bindings for additional classification models for use with the
+  'parsnip' package. Models include flavors of discriminant analysis, such as
+  linear (Fisher (1936) <doi:10.1111/j.1469-1809.1936.tb02137.x>), regularized
+  (Friedman (1989) <doi:10.1080/01621459.1989.10478752>), and flexible
+  (Hastie, Tibshirani, and Buja (1994) <doi:10.1080/01621459.1994.10476866>),
+  as well as naive Bayes classifiers (Hand and Yu (2007)
+  <doi:10.1111/j.1751-5823.2001.tb00465.x>).
+date_publication: '2020-04-09'
+bug_reports: https://github.com/tidymodels/discrim/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=discrim
+url_git: https://github.com/tidymodels/discrim

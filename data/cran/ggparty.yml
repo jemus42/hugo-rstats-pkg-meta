@@ -1,0 +1,11 @@
+version: 1.0.0
+title: '''ggplot'' Visualizations for the ''partykit'' Package'
+maintainer: Martin Borkovec
+description: Extends 'ggplot2' functionality to the 'partykit' package. 'ggparty'
+  provides the necessary tools to create clearly structured and highly customizable
+  visualizations for tree-objects of the class 'party'.
+date_publication: '2019-07-18'
+bug_reports: https://github.com/martin-borkovec/ggparty/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggparty
+url_git: https://github.com/martin-borkovec/ggparty

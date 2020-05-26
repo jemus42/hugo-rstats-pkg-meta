@@ -1,0 +1,12 @@
+version: '0.999'
+title: Interface to the "Geonames" Spatial Query Web Service
+maintainer: Barry Rowlingson
+description: |-
+  The web service at <https://www.geonames.org/> provides a number of spatial data queries, including
+  administrative area hierarchies, city locations and some country postal code queries. A (free) username
+  is required and rate limits exist.
+date_publication: '2019-02-19'
+bug_reports: https://github.com/ropensci/geonames/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=geonames
+url_git: ''

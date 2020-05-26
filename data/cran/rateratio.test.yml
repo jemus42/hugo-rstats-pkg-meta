@@ -1,0 +1,10 @@
+version: 1.0-2
+title: Exact rate ratio test
+maintainer: Michael Fay
+description: A function which performs exact rate ratio tests and returns an object
+  of class htest.
+date_publication: '2014-01-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rateratio.test
+url_git: ''

@@ -1,0 +1,12 @@
+version: 3.4.0
+title: Regression Standardization
+maintainer: Arvid Sjolander
+description: Contains functionality for regression standardization. Four general classes
+  of models are allowed; generalized linear models, conditional generalized estimating
+  equation models, Cox proportional hazards models and shared frailty gamma-Weibull
+  models. Sjolander, A. (2016) <doi:10.1007/s10654-016-0157-3>.
+date_publication: '2020-02-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=stdReg
+url_git: ''

@@ -1,0 +1,9 @@
+version: 0.7.4
+title: Tools for Analyzing Non-Uniform Pseudo-Random Variate Generators
+maintainer: Josef Leydold
+description: Test suite for non-uniform pseudo-random number generators.
+date_publication: '2014-02-26'
+bug_reports: ''
+url: http://statmath.wu.ac.at/unuran/
+url_cran: https://CRAN.R-project.org/package=rvgtest
+url_git: ''

@@ -1,0 +1,14 @@
+version: '1.1'
+title: Nonparametric Smoothing of the Hazard Function
+maintainer: Paola Rebora
+description: |-
+  The function estimates the hazard function non parametrically
+  from a survival object (possibly adjusted for covariates).
+  The smoothed estimate is based on B-splines from the perspective
+  of generalized linear mixed models. Left truncated
+  and right censoring data are allowed.
+date_publication: '2018-06-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bshazard
+url_git: ''

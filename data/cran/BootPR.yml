@@ -1,0 +1,10 @@
+version: '0.60'
+title: Bootstrap Prediction Intervals and Bias-Corrected Forecasting
+maintainer: Jae H. Kim
+description: Bias-Corrected Forecasting and Bootstrap Prediction Intervals for Autoregressive
+  Time Series
+date_publication: '2014-04-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BootPR
+url_git: ''

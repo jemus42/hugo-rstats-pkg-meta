@@ -1,0 +1,11 @@
+version: 1.2-2.1
+title: Functions for Conditional Simulation in Regression-Scale Models
+maintainer: Alessandra R. Brazzale
+description: |-
+  Monte Carlo conditional inference for the parameters of a
+  linear nonnormal regression model.
+date_publication: '2018-04-16'
+bug_reports: ''
+url: http://statwww.epfl.ch/AA/
+url_cran: https://CRAN.R-project.org/package=csampling
+url_git: ''

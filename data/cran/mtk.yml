@@ -1,0 +1,12 @@
+version: '1.0'
+title: Mexico ToolKit library (MTK)
+maintainer: Juhui WANG
+description: MTK (Mexico ToolKit) is a generic platform for the sensitivity and uncertainty
+  analysis of complex models. It provides functions and facilities for experimental
+  design, model simulation, sensitivity and uncertainty analysis, methods integration
+  and data reporting, etc.
+date_publication: '2014-07-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mtk
+url_git: ''

@@ -1,0 +1,14 @@
+version: 1.3.2
+title: Probabilistic weather forecast using the GOP method
+maintainer: Veronica J. Berrocal
+description: |-
+  The ProbForecastGOP package contains a main function,
+  called ProbForecastGOP and other functions, to produce
+  probabilistic weather forecasts of weather fields using the
+  Geostatistical Output Perturbation (GOP) method of Gel,
+  Raftery, and Gneiting (JASA, 2004).
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ProbForecastGOP
+url_git: ''

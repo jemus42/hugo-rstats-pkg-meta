@@ -1,0 +1,12 @@
+version: 0.3.0
+title: List Comprehensions
+maintainer: Dirk Schumacher
+description: |-
+  An implementation of list comprehensions as purely syntactic
+  sugar with a minor runtime overhead. It constructs nested for-loops and
+  executes the byte-compiled loops to collect the results.
+date_publication: '2020-05-24'
+bug_reports: https://github.com/dirkschumacher/listcomp/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=listcomp
+url_git: https://github.com/dirkschumacher/listcomp

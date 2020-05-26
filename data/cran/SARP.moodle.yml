@@ -1,0 +1,12 @@
+version: 0.8.1
+title: XML Output Functions for Easy Creation of Moodle Questions
+maintainer: Emmanuel Curis
+description: |-
+  Provides a set of basic functions for creating Moodle XML
+  output files suited for importing questions in Moodle (a learning
+  management system, see <https://moodle.org/> for more information).
+date_publication: '2020-05-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SARP.moodle
+url_git: ''

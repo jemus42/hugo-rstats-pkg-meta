@@ -1,0 +1,12 @@
+version: 0.4-1
+title: Spatiotemporal Arrays, Raster and Vector Data Cubes
+maintainer: Edzer Pebesma
+description: |-
+  Reading, manipulating, writing and plotting
+  spatiotemporal arrays (raster and vector data cubes) in 'R', using 'GDAL'
+  bindings provided by 'sf', and 'NetCDF' bindings by 'ncmeta' and 'RNetCDF'.
+date_publication: '2020-04-07'
+bug_reports: https://github.com/r-spatial/stars/issues/
+url: https://r-spatial.github.io/stars/
+url_cran: https://CRAN.R-project.org/package=stars
+url_git: https://github.com/r-spatial/stars/

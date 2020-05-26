@@ -1,0 +1,12 @@
+version: 0.3.0
+title: Low-Cost Anonymous Functions
+maintainer: Eugene Ha
+description: |-
+  Provides a compact variation of the usual syntax of function
+  declaration, in order to support tidyverse-style quasiquotation of a
+  function's arguments and body.
+date_publication: '2018-01-21'
+bug_reports: https://github.com/egnha/nofrills/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=nofrills
+url_git: https://github.com/egnha/nofrills

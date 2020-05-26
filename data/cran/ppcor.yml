@@ -1,0 +1,11 @@
+version: '1.1'
+title: Partial and Semi-Partial (Part) Correlation
+maintainer: Seongho Kim
+description: |-
+  Calculates partial and semi-partial
+  (part) correlations along with p-value.
+date_publication: '2015-12-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ppcor
+url_git: ''

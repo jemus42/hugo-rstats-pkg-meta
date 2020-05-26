@@ -1,0 +1,14 @@
+version: 0.1.1
+title: |-
+  Causal Discovery from Discrete Data using Hidden Compact
+  Representation
+maintainer: Jie Qiao
+description: |-
+  This code provides a method to fit the hidden compact representation model as well as to identify the causal direction on discrete data.
+  We implement an effective solution to recover the above hidden compact representation under the likelihood framework.
+  Please see the Causal Discovery from Discrete Data using Hidden Compact Representation from NIPS 2018 by Ruichu Cai, Jie Qiao, Kun Zhang, Zhenjie Zhang and Zhifeng Hao (2018) <https://nips.cc/Conferences/2018/Schedule?showEvent=11274> for a description of some of our methods.
+date_publication: '2018-10-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HCR
+url_git: ''

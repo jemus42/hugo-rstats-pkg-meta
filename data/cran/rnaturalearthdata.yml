@@ -1,0 +1,10 @@
+version: 0.1.0
+title: World Vector Map Data from Natural Earth Used in 'rnaturalearth'
+maintainer: Andy South
+description: Vector map data from <http://www.naturalearthdata.com/>. Access functions
+  are provided in the accompanying package 'rnaturalearth'.
+date_publication: '2017-02-21'
+bug_reports: https://github.com/ropenscilabs/rnaturalearthdata/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rnaturalearthdata
+url_git: https://github.com/ropenscilabs/rnaturalearthdata

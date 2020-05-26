@@ -1,0 +1,15 @@
+version: 0.3.0
+title: |-
+  Build Powerful Pivot Tables and Dynamically Slice & Dice your
+  Data
+maintainer: Enzo Martoglio
+description: |-
+  Build powerful pivot tables (aka Pivot Grid, Pivot Chart, Cross-Tab)
+  and dynamically slice & dice / drag 'n' drop your data. 'rpivotTable' is a
+  wrapper of 'pivottable', a powerful open-source Pivot Table library implemented
+  in 'JavaScript' by Nicolas Kruchten. Aligned to 'pivottable' v2.19.0.
+date_publication: '2018-01-30'
+bug_reports: ''
+url: http://smartinsightsfromdata.github.io
+url_cran: https://CRAN.R-project.org/package=rpivotTable
+url_git: https://github.com/smartinsightsfromdata

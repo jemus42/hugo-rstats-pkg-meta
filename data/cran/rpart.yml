@@ -1,0 +1,12 @@
+version: 4.1-15
+title: Recursive Partitioning and Regression Trees
+maintainer: Beth Atkinson
+description: |-
+  Recursive partitioning for classification,
+  regression and survival trees.  An implementation of most of the
+  functionality of the 1984 book by Breiman, Friedman, Olshen and Stone.
+date_publication: '2019-04-12'
+bug_reports: https://github.com/bethatkinson/rpart/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rpart
+url_git: https://github.com/bethatkinson/rpart

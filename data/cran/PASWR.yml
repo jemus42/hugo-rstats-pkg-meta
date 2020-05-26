@@ -1,0 +1,10 @@
+version: '1.1'
+title: PROBABILITY and STATISTICS WITH R
+maintainer: Alan T. Arnholt
+description: Data and functions for the book PROBABILITY and STATISTICS<U+000a>WITH
+  R.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: http://www1.appstate.edu/~arnholta/PASWR/
+url_cran: https://CRAN.R-project.org/package=PASWR
+url_git: ''

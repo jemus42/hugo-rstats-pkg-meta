@@ -1,0 +1,12 @@
+version: 3.0.1
+title: Subgroup Specific Optimal Dose Assignment
+maintainer: Andrew Chapple
+description: Chooses subgroup specific optimal doses in a phase I dose finding clinical
+  trial allowing for subgroup combination and simulates clinical trials under the
+  subgroup specific time to event continual reassessment method.  Chapple, A.G., Thall,
+  P.F. (2018) <doi:10.1002/pst.1891>.
+date_publication: '2020-02-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SubTite
+url_git: ''

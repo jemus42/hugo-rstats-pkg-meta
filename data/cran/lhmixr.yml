@@ -1,0 +1,12 @@
+version: 0.1.0
+title: |-
+  Fit Sex-Specific Life History Models with Missing
+  Classifications
+maintainer: Coilin Minto
+description: Fits sex-specific life-history models for fish and other taxa where some
+  of the individuals have unknown sex.
+date_publication: '2017-05-11'
+bug_reports: https://github.com/mintoc/lhmixr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=lhmixr
+url_git: https://github.com/mintoc/lhmixr

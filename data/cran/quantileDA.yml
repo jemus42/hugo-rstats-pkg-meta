@@ -1,0 +1,9 @@
+version: '1.1'
+title: Quantile Classifier
+maintainer: Cinzia Viroli
+description: Code for centroid, median and quantile classifiers.
+date_publication: '2016-02-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=quantileDA
+url_git: ''

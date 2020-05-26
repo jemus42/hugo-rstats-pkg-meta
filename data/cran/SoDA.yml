@@ -1,0 +1,10 @@
+version: 1.0-6
+title: Functions and Examples for "Software for Data Analysis"
+maintainer: John M Chambers
+description: 'Functions, examples and other software related to the book<U+000a>"Software
+  for Data Analysis: Programming with R". See<U+000a>package?SoDA for an overview.'
+date_publication: '2013-06-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SoDA
+url_git: ''

@@ -1,0 +1,16 @@
+version: '4.1'
+title: |-
+  Empirical Bayesian Lasso and Elastic Net Methods for Generalized
+  Linear Models
+maintainer: Anhui Huang
+description: Provides empirical Bayesian lasso and elastic net algorithms for variable
+  selection and effect estimation. Key features include sparse variable selection
+  and effect estimation via generalized linear regression models, high dimensionality
+  with p>>n, and significance test for nonzero effects. This package outperforms other
+  popular methods such as lasso and elastic net methods in terms of power of detection,
+  false discovery rate, and power of detecting grouping effects.
+date_publication: '2016-01-30'
+bug_reports: ''
+url: https://sites.google.com/site/anhuihng/
+url_cran: https://CRAN.R-project.org/package=EBglmnet
+url_git: ''

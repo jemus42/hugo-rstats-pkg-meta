@@ -1,0 +1,14 @@
+version: 0.1.0
+title: Miscellaneous Descriptive Functions
+maintainer: Craig McGowan
+description: |2-
+
+  Helper functions for descriptive tasks such as making print-friendly bivariate
+  tables, sample size flow counts, and visualizing sample distributions. Also
+  contains 'R' approximations of some common 'SAS' and 'Stata' functions such
+  as 'PROC MEANS' from 'SAS' and 'ladder', 'gladder', and 'pwcorr' from 'Stata'.
+date_publication: '2019-08-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=describedata
+url_git: ''

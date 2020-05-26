@@ -1,0 +1,11 @@
+version: 2.0.1
+title: Touchard Model and Regression
+maintainer: Bernardo Andrade
+description: Tools for analyzing count data with the Touchard model (Matsushita et
+  al., 2018, Comm Stat Th Meth <doi:10.1080/03610926.2018.1444177>). It includes univariate
+  estimation (ML and MM) and regression tools developed by Andrade et al. (submitted).
+date_publication: '2019-05-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=touchard
+url_git: ''

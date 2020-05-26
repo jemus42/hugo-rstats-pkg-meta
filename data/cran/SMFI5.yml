@@ -1,0 +1,14 @@
+version: '1.0'
+title: |-
+  R functions and data from Chapter 5 of 'Statistical Methods for
+  Financial Engineering'
+maintainer: Bruno Remillard
+description: |-
+  R functions and data from Chapter 5 of 'Statistical
+  Methods for Financial Engineering', by Bruno Remillard, CRC
+  Press, (2013).
+date_publication: '2013-05-18'
+bug_reports: ''
+url: http://www.brunoremillard.com
+url_cran: https://CRAN.R-project.org/package=SMFI5
+url_git: ''

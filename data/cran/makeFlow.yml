@@ -1,0 +1,9 @@
+version: 1.0.2
+title: Visualizing Sequential Classifications
+maintainer: Alex J. Krebs
+description: A user-friendly tool for visualizing categorical or group movement.
+date_publication: '2016-08-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=makeFlow
+url_git: ''

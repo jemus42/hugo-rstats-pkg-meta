@@ -1,0 +1,11 @@
+version: 1.1-0
+title: Inference for the Stress-Strength Model R = P(Y<X)
+maintainer: Giuliana Cortese
+description: Confidence intervals and point estimation for R under various parametric
+  model assumptions; likelihood inference based on classical first-order approximations
+  and higher-order asymptotic procedures.
+date_publication: '2015-12-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ProbYX
+url_git: ''

@@ -1,0 +1,15 @@
+version: '1.0'
+title: Stanford 'CoreNLP' Annotation Client
+maintainer: Florian Schwendinger
+description: |-
+  Stanford 'CoreNLP' annotation client.
+  Stanford 'CoreNLP' <https://stanfordnlp.github.io/CoreNLP/index.html> integrates all
+  NLP tools from the Stanford Natural Language Processing Group,
+  including a part-of-speech (POS) tagger, a named entity recognizer (NER),
+  a parser, and a coreference resolution system, and provides model files
+  for the analysis of English. More information can be found in the README.
+date_publication: '2019-12-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NLPclient
+url_git: ''

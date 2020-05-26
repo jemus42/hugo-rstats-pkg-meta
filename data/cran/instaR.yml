@@ -1,0 +1,12 @@
+version: 0.2.4
+title: Access to Instagram API via R
+maintainer: Pablo Barbera
+description: |-
+  Provides an interface to the Instagram API <https://instagram.com/
+  developer/>, which allows R users to download public pictures filtered by
+  hashtag, popularity, user or location, and to access public users' profile data.
+date_publication: '2016-08-17'
+bug_reports: https://github.com/pablobarbera/instaR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=instaR
+url_git: https://github.com/pablobarbera/instaR

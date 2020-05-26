@@ -1,0 +1,10 @@
+version: 0.2-13
+title: Measuring Inequality, Concentration, and Poverty
+maintainer: Achim Zeileis
+description: Inequality, concentration, and poverty measures. Lorenz curves (empirical
+  and theoretical).
+date_publication: '2014-07-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ineq
+url_git: ''

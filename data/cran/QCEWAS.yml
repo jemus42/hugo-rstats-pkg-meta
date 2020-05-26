@@ -1,0 +1,11 @@
+version: 1.2-2
+title: Fast and Easy Quality Control of EWAS Results Files
+maintainer: Peter J. van der Most
+description: |-
+  Tools for (automated and manual) quality control of
+  the results of Epigenome-Wide Association Studies.
+date_publication: '2019-02-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=QCEWAS
+url_git: ''

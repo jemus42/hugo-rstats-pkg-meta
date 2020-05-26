@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Legislative Speeches
+maintainer: Nicolas Schmidt
+description: |-
+  Converts the floor speeches of Uruguayan legislators, extracted from the
+  parliamentary minutes, to tidy data.frame where each observation is the intervention of a single legislator.
+date_publication: '2019-12-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=speech
+url_git: https://github.com/Nicolas-Schmidt/speech

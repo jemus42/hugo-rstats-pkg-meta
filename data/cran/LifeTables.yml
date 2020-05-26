@@ -1,0 +1,14 @@
+version: '1.0'
+title: Two-Parameter HMD Model Life Table System
+maintainer: David J. Sharrow
+description: |-
+  Functions supplied in this package will implement
+  discriminant analysis to select an appropriate life table
+  family, select an appropriate alpha level based on a desired
+  life expectancy at birth, produce a model mortality pattern
+  based on family and level as well as plot the results.
+date_publication: '2015-08-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LifeTables
+url_git: ''

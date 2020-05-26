@@ -1,0 +1,10 @@
+version: '0.2'
+title: deep learning toolkit in R
+maintainer: Xiao Rong
+description: Implement some deep learning architectures and neural network<U+000a>algorithms,
+  including BP,RBM,DBN,Deep autoencoder and so on.
+date_publication: '2014-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=deepnet
+url_git: ''

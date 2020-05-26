@@ -1,0 +1,14 @@
+version: 4.1-2
+title: Maximum Projection Designs
+maintainer: Shan Ba
+description: 'Generate maximum projection (MaxPro) designs for quantitative and/or
+  qualitative factors. Details of the MaxPro criterion can be found in: (1) Joseph,
+  Gul, and Ba. (2015) "Maximum Projection Designs for Computer Experiments", Biometrika,
+  102, 371-380, and (2) Joseph, Gul, and Ba. (2018) "Designing Computer Experiments
+  with Multiple Types of Factors: The MaxPro Approach", Journal of Quality Technology,
+  to appear.'
+date_publication: '2018-09-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MaxPro
+url_git: ''

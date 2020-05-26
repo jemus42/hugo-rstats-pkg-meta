@@ -1,0 +1,12 @@
+version: 1.3.0
+title: Cytobank API Wrapper for R
+maintainer: Preston Ng
+description: |-
+  Tools to interface with Cytobank's API via R, organized by various
+  endpoints that represent various areas of Cytobank functionality. Learn more
+  about Cytobank at <https://www.cytobank.org>.
+date_publication: '2018-11-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CytobankAPI
+url_git: ''

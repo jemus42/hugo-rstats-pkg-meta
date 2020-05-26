@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Find Out Who Maintains the Packages you Use
+maintainer: Dirk Schumacher
+description: |-
+  Find out who maintains the packages you use in
+  your current session or in your package library and
+  maybe say 'thank you'.
+date_publication: '2017-04-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=thankr
+url_git: ''

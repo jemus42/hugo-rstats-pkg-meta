@@ -1,0 +1,13 @@
+version: 0.4.430
+title: Install 'OpenCV'
+maintainer: Simon Garnier
+description: |-
+  Installs 'OpenCV' for use by other packages. 'OpenCV' <https://opencv.org/>
+  is library of programming functions mainly aimed at real-time computer
+  vision. This 'Lite' version contains the stable base version of 'OpenCV' and
+  does not contain any of its externally contributed modules.
+date_publication: '2020-05-24'
+bug_reports: https://github.com/swarm-lab/ROpenCVLite/issues
+url: https://swarm-lab.github.io/ROpenCVLite/
+url_cran: https://CRAN.R-project.org/package=ROpenCVLite
+url_git: https://github.com/swarm-lab/ROpenCVLite

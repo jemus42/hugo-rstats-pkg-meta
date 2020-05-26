@@ -1,0 +1,10 @@
+version: 0.2-1.1
+title: An IPSUR Plugin for the R Commander
+maintainer: G. Jay Kerns
+description: Provides an R Commander plugin that accompanies IPSUR, an Introduction
+  to Probability and Statistics Using R.
+date_publication: '2019-01-26'
+bug_reports: ''
+url: http://ipsur.org/
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.IPSUR
+url_git: ''

@@ -1,0 +1,13 @@
+version: '0.1'
+title: |-
+  Sample Size Determination for Longitudinal Designs with Binary
+  Outcome
+maintainer: Kush Kapur
+description: |-
+  Provides the necessary sample size for a longitudinal study with binary outcome in order to attain a pre-specified power while strictly maintaining the Type I error rate.
+  Kapur K, Bhaumik R, Tang XC, Hur K, Reda DJ, Bhaumik D (2014) <doi:10.1002/sim.6203>.
+date_publication: '2018-02-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ssrm.logmer
+url_git: ''

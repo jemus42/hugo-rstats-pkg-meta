@@ -1,0 +1,9 @@
+version: 0.3.8
+title: Data to Support Fish Stock Assessment ('FSA') Package
+maintainer: Derek Ogle
+description: The datasets to support the Fish Stock Assessment ('FSA') package.
+date_publication: '2019-05-18'
+bug_reports: https://github.com/droglenc/FSAdata/issues
+url: http://derekogle.com/fishR/
+url_cran: https://CRAN.R-project.org/package=FSAdata
+url_git: https://github.com/droglenc/FSAdata

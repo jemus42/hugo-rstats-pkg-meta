@@ -1,0 +1,10 @@
+version: '0.5'
+title: Benchmark dose analysis for dose-response data
+maintainer: Christian Ritz
+description: Benchmark dose analysis for continuous and quantal<U+000a>dose-response
+  data.
+date_publication: '2012-03-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bmd
+url_git: ''

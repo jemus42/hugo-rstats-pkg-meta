@@ -1,0 +1,11 @@
+version: '1.2'
+title: Bayesian Monotonic Nonparametric Regression
+maintainer: Bjoern Bornkamp
+description: |-
+  Implements the Bayesian nonparametric monotonic regression
+  method described in Bornkamp & Ickstadt (2009), Biometrics, 65, 198-205.
+date_publication: '2018-04-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bnpmr
+url_git: ''

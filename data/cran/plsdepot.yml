@@ -1,0 +1,13 @@
+version: 0.1.17
+title: Partial Least Squares (PLS) Data Analysis Methods
+maintainer: Gaston Sanchez
+description: 'plsdepot contains different methods for PLS analysis of<U+000a>one or
+  two data tables such as Tucker''s Inter-Battery, NIPALS,<U+000a>SIMPLS, SIMPLS-CA,
+  PLS Regression, and PLS Canonical Analysis.<U+000a>The main reference for this software
+  is the awesome book (in<U+000a>French) ''La Regression PLS: Theorie et Pratique''
+  by Michel<U+000a>Tenenhaus.'
+date_publication: '2012-11-13'
+bug_reports: ''
+url: http://www.gastonsanchez.com/plsdepot
+url_cran: https://CRAN.R-project.org/package=plsdepot
+url_git: ''

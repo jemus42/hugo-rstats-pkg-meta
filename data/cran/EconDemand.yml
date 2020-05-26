@@ -1,0 +1,11 @@
+version: '1.0'
+title: General Analysis of Various Economics Demand Systems
+maintainer: Tianhao Wu
+description: Tools for general properties including price, quantity, elasticity, convexity,
+  marginal revenue and manifold of various economics demand systems including Linear,
+  Translog, CES, LES and CREMR.
+date_publication: '2016-07-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EconDemand
+url_git: ''

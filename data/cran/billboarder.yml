@@ -1,0 +1,13 @@
+version: 0.2.8
+title: Create Interactive Chart with the JavaScript 'Billboard' Library
+maintainer: Victor Perrier
+description: |-
+  Provides an 'htmlwidgets' interface to 'billboard.js',
+  a re-usable easy interface JavaScript chart library, based on D3 v4+.
+  Chart types include line charts, scatterplots, bar/lollipop charts, histogram/density plots, pie/donut charts and gauge charts.
+  All charts are interactive, and a proxy method is implemented to smoothly update a chart without rendering it again in 'shiny' apps.
+date_publication: '2020-01-09'
+bug_reports: https://github.com/dreamRs/billboarder/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=billboarder
+url_git: https://github.com/dreamRs/billboarder

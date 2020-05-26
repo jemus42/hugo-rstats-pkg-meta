@@ -1,0 +1,10 @@
+version: 1.0.0
+title: Two-Sample Tests Based on Differences of Kaplan-Meier Curves
+maintainer: Miki Horiguchi
+description: Tests for equality of two survival functions based on integrated weighted
+  differences of two Kaplan-Meier curves.
+date_publication: '2016-11-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=survAWKMT2
+url_git: ''

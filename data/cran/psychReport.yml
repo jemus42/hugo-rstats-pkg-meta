@@ -1,0 +1,11 @@
+version: '0.7'
+title: Reproducible Reports in Psychology
+maintainer: Ian G Mackenzie
+description: Helper functions for producing reports in Psychology (Reproducible Research).
+  Provides required formatted strings (APA style) for use in 'Knitr'/'Latex' integration
+  within *.Rnw files.
+date_publication: '2019-08-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=psychReport
+url_git: ''

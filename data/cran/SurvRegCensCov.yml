@@ -1,0 +1,17 @@
+version: '1.4'
+title: |-
+  Weibull Regression for a Right-Censored Endpoint with
+  Interval-Censored Covariate
+maintainer: Stanislas Hubeaux
+description: The main function of this package allows estimation of a Weibull Regression
+  for a right-censored endpoint, one interval-censored covariate, and an arbitrary
+  number of non-censored covariates. Additional functions allow to switch between
+  different parametrizations of Weibull regression used by different R functions,
+  inference for the mean difference of two arbitrarily censored Normal samples, and
+  estimation of canonical parameters from censored samples for several distributional
+  assumptions.
+date_publication: '2015-10-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SurvRegCensCov
+url_git: ''

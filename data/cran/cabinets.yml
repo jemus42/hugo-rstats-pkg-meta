@@ -1,0 +1,12 @@
+version: 0.4.0
+title: Project Specific Workspace Organization Templates
+maintainer: Nick Williams
+description: Creates project specific directory and file templates that are written
+  to a .Rprofile file. Upon starting a new R session, these templates can be used
+  to streamline the creation of new directories that are standardized to the user's
+  preferences.
+date_publication: '2020-01-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cabinets
+url_git: ''

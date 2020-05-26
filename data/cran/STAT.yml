@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Interactive Document for Working with Basic Statistical Analysis
+maintainer: Kartikeya Bolar
+description: An interactive document on  the topic of basic statistical analysis using
+  'rmarkdown' and 'shiny' packages. Runtime examples are provided in the package function
+  as well as at  <https://jarvisatharva.shinyapps.io/StatisticsPrimer/>.
+date_publication: '2019-04-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=STAT
+url_git: ''

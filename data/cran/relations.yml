@@ -1,0 +1,12 @@
+version: 0.6-9
+title: Data Structures and Algorithms for Relations
+maintainer: Kurt Hornik
+description: |-
+  Data structures and algorithms for k-ary relations with
+  arbitrary domains, featuring relational algebra, predicate functions,
+  and fitters for consensus relations.
+date_publication: '2019-10-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=relations
+url_git: ''

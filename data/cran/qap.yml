@@ -1,0 +1,10 @@
+version: 0.1-1
+title: Heuristics for the Quadratic Assignment Problem (QAP)
+maintainer: Michael Hahsler
+description: Implements heuristics for the Quadratic Assignment Problem (QAP). Currently
+  only a simulated annealing heuristic is available.
+date_publication: '2017-02-27'
+bug_reports: https://github.com/mhahsler/qap/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=qap
+url_git: ''

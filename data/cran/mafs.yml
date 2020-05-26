@@ -1,0 +1,12 @@
+version: 0.0.3
+title: Multiple Automatic Forecast Selection
+maintainer: Sillas Gonzaga
+description: |-
+  Fits several forecast models available from the forecast package
+  and selects the best one according to an error metric. Its main function
+  is select_forecast().
+date_publication: '2017-10-19'
+bug_reports: http://github.com/sillasgonzaga/mafs/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mafs
+url_git: http://github.com/sillasgonzaga/mafs

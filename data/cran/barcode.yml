@@ -1,0 +1,10 @@
+version: '1.1'
+title: Barcode distribution plots
+maintainer: John W. Emerson
+description: This package includes the function \code{barcode()}, which<U+000a>produces
+  a histogram-like plot of a distribution that shows<U+000a>granularity in the data.
+date_publication: '2012-02-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=barcode
+url_git: ''

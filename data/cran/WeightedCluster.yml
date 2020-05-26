@@ -1,0 +1,12 @@
+version: '1.4'
+title: Clustering of Weighted Data
+maintainer: Matthias Studer
+description: Clusters state sequences and weighted data. It provides an optimized
+  weighted PAM algorithm as well as functions for aggregating replicated cases, computing
+  cluster quality measures for a range of clustering solutions and plotting clusters
+  of state sequences.
+date_publication: '2019-03-21'
+bug_reports: ''
+url: http://mephisto.unige.ch/weightedcluster
+url_cran: https://CRAN.R-project.org/package=WeightedCluster
+url_git: ''

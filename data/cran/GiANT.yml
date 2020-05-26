@@ -1,0 +1,10 @@
+version: '1.3'
+title: Gene Set Uncertainty in Enrichment Analysis
+maintainer: Hans Kestler
+description: Toolbox for various enrichment analysis methods and quantification of
+  uncertainty of gene sets (Schmid et al. (2016) <doi:10.1093/bioinformatics/btw030>).
+date_publication: '2020-05-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GiANT
+url_git: ''

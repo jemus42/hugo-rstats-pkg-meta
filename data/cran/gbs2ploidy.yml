@@ -1,0 +1,11 @@
+version: '1.0'
+title: Inference of Ploidy from (Genotyping-by-Sequencing) GBS Data
+maintainer: Zachariah Gompert
+description: Functions for inference of ploidy from (Genotyping-by-sequencing) GBS
+  data, including a function to infer allelic ratios and allelic proportions in a
+  Bayesian framework.
+date_publication: '2016-12-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gbs2ploidy
+url_git: ''

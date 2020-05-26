@@ -1,0 +1,16 @@
+version: '1.2'
+title: Association Rule Classification
+maintainer: Tomas Kliegr
+description: "Implements the Classification-based on\nAssociation Rules (CBA) (Bing
+  Liu, Wynne Hsu,\tYiming Ma (1999) <http://dl.acm.org/citation.cfm?id=3000292.3000305>)
+  algorithm for association rule classification (ARC).\nThe package also contains
+  several convenience methods that allow to automatically\nset CBA parameters (minimum
+  confidence, minimum support) and it also natively\nhandles numeric attributes by
+  integrating a pre-discretization step.\nThe rule generation phase is handled by
+  the 'arules' package.\nTo further decrease the size of the CBA models produced by
+  the 'arc' package, postprocessing by the\n'qCBA' package is suggested."
+date_publication: '2018-04-18'
+bug_reports: https://github.com/kliegr/arc/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=arc
+url_git: https://github.com/kliegr/arc

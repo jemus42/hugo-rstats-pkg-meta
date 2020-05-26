@@ -1,0 +1,10 @@
+version: 1.0.4
+title: Package for Calculation of ARMSS, Local MSSS and Global MSSS
+maintainer: Helga Westerlind
+description: Calculates ARMSS (age related multiple sclerosis severity), and both
+  local and global MSSS (multiple sclerosis severity score).
+date_publication: '2016-12-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ms.sev
+url_git: ''

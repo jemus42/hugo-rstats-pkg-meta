@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Important Concepts of Evolutionary Game Theory
+maintainer: Jochen Staudacher
+description: |-
+  A comprehensive set of tools to illustrate the
+  core concepts of evolutionary game theory, such as
+  evolutionary stability or various evolutionary dynamics,
+  for teaching and academic research.
+date_publication: '2017-11-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EvolutionaryGames
+url_git: ''

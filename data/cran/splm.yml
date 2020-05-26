@@ -1,0 +1,10 @@
+version: 1.4-11
+title: Econometric Models for Spatial Panel Data
+maintainer: Giovanni Millo
+description: ML and GM estimation and diagnostic testing of econometric models for
+  spatial panel data.
+date_publication: '2018-07-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=splm
+url_git: ''

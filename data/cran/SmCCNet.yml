@@ -1,0 +1,11 @@
+version: 0.99.0
+title: Sparse Multiple Canonical Correlation Network Analysis Tool
+maintainer: W. Jenny Shi
+description: |2-
+
+  A canonical correlation based framework for constructing phenotype-specific multi-omics networks by integrating multiple omics data types and a quantitative phenotype of interest.
+date_publication: '2019-03-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SmCCNet
+url_git: https://github.com/KechrisLab/SmCCNet

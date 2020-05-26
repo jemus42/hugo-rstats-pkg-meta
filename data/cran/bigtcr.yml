@@ -1,0 +1,20 @@
+version: '1.1'
+title: |-
+  Nonparametric Analysis of Bivariate Gap Time with Competing
+  Risks
+maintainer: Chenguang Wang
+description: |-
+  For studying recurrent disease and death with competing
+  risks, comparisons based on the well-known cumulative incidence function
+  can be confounded by different prevalence rates of the competing events.
+  Alternatively, comparisons of the conditional distribution of the survival
+  time given the failure event type are more relevant for investigating the
+  prognosis of different patterns of recurrence disease. This package implements
+  a nonparametric estimator for the conditional cumulative incidence function
+  and a nonparametric conditional bivariate cumulative incidence function for the
+  bivariate gap times proposed in Huang et al. (2016) <doi:10.1111/biom.12494>.
+date_publication: '2018-01-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bigtcr
+url_git: ''

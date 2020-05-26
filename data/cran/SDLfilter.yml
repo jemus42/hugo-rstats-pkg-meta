@@ -1,0 +1,16 @@
+version: 2.0.0
+title: Filtering and Assessing Sample Size of Tracking Data
+maintainer: Takahiro Shimada
+description: Functions to filter GPS and/or Argos locations, as well as assessing
+  sample sizes for the analysis of animal distributions. The filters remove temporal
+  and spatial duplicates, fixes located at a given height from estimated high tide
+  line, and locations with high error as described in Shimada et al. (2012) <doi:10.3354/meps09747>
+  and Shimada et al. (2016) <doi:10.1007/s00227-015-2771-0>. Sample sizes for the
+  analysis of animal distributions can be assessed by the conventional area-based
+  approach or the alternative probability-based approach as described in Shimada et
+  al. (in prep).
+date_publication: '2020-05-04'
+bug_reports: https://github.com/TakahiroShimada/SDLfilter/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=SDLfilter
+url_git: https://github.com/TakahiroShimada/SDLfilter

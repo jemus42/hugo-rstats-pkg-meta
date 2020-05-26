@@ -1,0 +1,14 @@
+version: 2.1.0
+title: |-
+  Do a Git Style Diff of the Rows Between Two Dataframes with
+  Similar Structure
+maintainer: Alex Joseph
+description: |-
+  Compares two dataframes which have the same column
+  structure to show the rows that have changed. Also gives a git style diff format
+  to quickly see what has changed in addition to summary statistics.
+date_publication: '2020-04-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=compareDF
+url_git: ''

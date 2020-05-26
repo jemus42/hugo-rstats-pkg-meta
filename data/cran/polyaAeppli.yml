@@ -1,0 +1,11 @@
+version: '2.0'
+title: Implementation of the Polya-Aeppli distribution
+maintainer: Conrad Burden
+description: Functions for evaluating the mass density, cumulative distribution function,
+  quantile function and random variate generation for the Polya-Aeppli distribution,
+  also known as the geometric compound Poisson distribution.
+date_publication: '2014-03-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=polyaAeppli
+url_git: ''

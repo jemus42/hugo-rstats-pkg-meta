@@ -1,0 +1,16 @@
+version: 2.1.1
+title: |-
+  Latent Class Item Response Theory (LC-IRT) Models under
+  Within-Item Multidimensionality
+maintainer: Francesco Bartolucci
+description: Framework for the Item Response Theory analysis of dichotomous and ordinal
+  polytomous outcomes under the assumption of within-item multidimensionality and
+  discreteness of the latent traits. The fitting algorithms allow for missing responses
+  and for different item parametrizations and are based on the Expectation-Maximization
+  paradigm. Individual covariates affecting the class weights may be included in the
+  new version together with possibility of constraints on all model parameters.
+date_publication: '2019-09-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MLCIRTwithin
+url_git: ''

@@ -1,0 +1,11 @@
+version: '0.7'
+title: Process Synchronization Using File Locks
+maintainer: Ivan Popivanov
+description: Implements synchronization between R processes (spawned by using the
+  "parallel" package for instance) using file locks. Supports both exclusive and shared
+  locking.
+date_publication: '2016-11-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=flock
+url_git: ''

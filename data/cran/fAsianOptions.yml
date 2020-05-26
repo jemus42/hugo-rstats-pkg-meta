@@ -1,0 +1,12 @@
+version: '3042.82'
+title: Rmetrics - EBM and Asian Option Valuation
+maintainer: Tobias Setz
+description: |-
+  Provides functions for pricing
+  and valuating Asian Options together with tools for analyzing
+  and modeling Exponential Brownian Motion (EBM).
+date_publication: '2017-11-17'
+bug_reports: ''
+url: http://www.rmetrics.org
+url_cran: https://CRAN.R-project.org/package=fAsianOptions
+url_git: ''

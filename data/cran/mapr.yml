@@ -1,0 +1,13 @@
+version: 0.4.0
+title: Visualize Species Occurrence Data
+maintainer: Scott Chamberlain
+description: |-
+  Utilities for visualizing species occurrence data. Includes
+  functions to visualize occurrence data from 'spocc', 'rgbif',
+  and other packages. Mapping options included for base R plots, 'ggplot2',
+  'ggmap', 'leaflet' and 'GitHub' 'gists'.
+date_publication: '2018-03-21'
+bug_reports: https://github.com/ropensci/mapr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mapr
+url_git: https://github.com/ropensci/mapr

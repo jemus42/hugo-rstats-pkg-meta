@@ -1,0 +1,16 @@
+version: '1.0'
+title: Downscale of RS Images using Deep Learning
+maintainer: Lianfa Li
+description: |-
+  Downscaling the coarse-resolution remote sensing
+  images into fined-resolution images is important for
+  preprocessing. This package provides the functions for this
+  with high accuracy. Currently, the resautonet is used
+  as the deep learning algorithm for downscaling.
+  This work was done based on this paper,
+  Lianfa Li (2019) <doi:10.3390/rs11111378>.
+date_publication: '2019-10-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=downscaledl
+url_git: ''

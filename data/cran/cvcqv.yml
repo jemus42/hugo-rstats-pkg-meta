@@ -1,0 +1,15 @@
+version: 1.0.0
+title: Coefficient of Variation (CV) with Confidence Intervals (CI)
+maintainer: Maani Beigy
+description: |-
+  Provides some easy-to-use functions and classes to calculate
+  variability measures such as coefficient of variation with confidence
+  intervals provided with all available methods. References are
+  Panichkitkosolkul (2013) <doi:10.1155/2013/324940> ,
+  Altunkaynak & Gamgam (2018) <doi:10.1080/03610918.2018.1435800> ,
+  Albatineh, Kibria, Wilcox & Zogheib (2014) <doi:10.1080/02664763.2013.847405> .
+date_publication: '2019-08-06'
+bug_reports: https://github.com/MaaniBeigy/cvcqv/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=cvcqv
+url_git: https://github.com/MaaniBeigy/cvcqv

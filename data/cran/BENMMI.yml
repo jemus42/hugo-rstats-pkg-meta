@@ -1,0 +1,18 @@
+version: 4.3-6
+title: Benthic Multi-Metric Index
+maintainer: Dennis Walvoort
+description: |-
+  Analysis tool for evaluating benthic multimetric indices (BENMMIs).
+  It generates reproducible reports on the analysis of benthic data, e.g.,
+  validation and correction of species names, sample pooling, automatic
+  conversion of genus to species names, outlier detection, benthic
+  indicator calculation, optimization of single and
+  multimetric indicators against a pressure gradient, and spatial aggregation
+  of benthic indicators. One of its use cases was the development of a common
+  benthic indicator for <https://www.ospar.org> (publication accepted by
+  Ecological Indicators). See Van Loon et al. (2018) <doi:10.1016/j.ecolind.2017.09.029> for details.
+date_publication: '2019-01-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BENMMI
+url_git: ''

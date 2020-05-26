@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Spatial Navigation Strategy Analysis
+maintainer: Rupert Overall
+description: |-
+  A toolkit for the analysis of paths from spatial tracking experiments (such as the Morris water maze) and calculation of goal-finding strategies.
+  This package is centered on an approach using machine learning for path classification.
+date_publication: '2020-05-04'
+bug_reports: https://github.com/rupertoverall/Rtrack/issues
+url: https://rupertoverall.net/Rtrack/
+url_cran: https://CRAN.R-project.org/package=Rtrack
+url_git: https://github.com/rupertoverall/Rtrack

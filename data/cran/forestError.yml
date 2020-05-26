@@ -1,0 +1,18 @@
+version: 0.2.0
+title: |-
+  A Unified Framework for Random Forest Prediction Error
+  Estimation
+maintainer: Benjamin Lu
+description: |-
+  Estimates the conditional error distributions of random forest
+  predictions and common parameters of those distributions, including
+  conditional mean squared prediction errors, conditional biases, and
+  conditional quantiles, by out-of-bag weighting of out-of-bag prediction
+  errors as proposed by Lu and Hardin (2019+) <arXiv:1912.07435>.
+  This package is compatible with several existing packages that
+  implement random forests in R.
+date_publication: '2020-04-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=forestError
+url_git: ''

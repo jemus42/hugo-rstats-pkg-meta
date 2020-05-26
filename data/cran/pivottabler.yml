@@ -1,0 +1,16 @@
+version: 1.4.0
+title: Create Pivot Tables
+maintainer: Christopher Bailiss
+description: |-
+  Create regular pivot tables with just a few lines of R.
+  More complex pivot tables can also be created, e.g. pivot tables
+  with irregular layouts, multiple calculations and/or derived
+  calculations based on multiple data frames.  Pivot tables are
+  constructed using R only and can be written to a range of
+  output formats (plain text, 'HTML', 'Latex' and 'Excel'),
+  including with styling/formatting.
+date_publication: '2020-05-11'
+bug_reports: https://github.com/cbailiss/pivottabler/issues
+url: http://www.pivottabler.org.uk/
+url_cran: https://CRAN.R-project.org/package=pivottabler
+url_git: https://github.com/cbailiss/pivottabler

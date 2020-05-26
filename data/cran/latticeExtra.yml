@@ -1,0 +1,13 @@
+version: 0.6-29
+title: Extra Graphical Utilities Based on Lattice
+maintainer: Deepayan Sarkar
+description: |-
+  Building on the infrastructure provided by the lattice
+  package, this package provides several new high-level
+  functions and methods, as well as additional utilities
+  such as panel and axis annotation functions.
+date_publication: '2019-12-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=latticeExtra
+url_git: http://latticeextra.r-forge.r-project.org/

@@ -1,0 +1,19 @@
+version: 0.16-0
+title: Solvers for Large-Scale Eigenvalue and SVD Problems
+maintainer: Yixuan Qiu
+description: |-
+  R interface to the 'Spectra' library
+  <https://spectralib.org/> for large-scale eigenvalue and SVD
+  problems. It is typically used to compute a few
+  eigenvalues/vectors of an n by n matrix, e.g., the k largest eigenvalues,
+  which is usually more efficient than eigen() if k << n. This package
+  provides the 'eigs()' function that does the similar job as in 'Matlab',
+  'Octave', 'Python SciPy' and 'Julia'. It also provides the 'svds()' function
+  to calculate the largest k singular values and corresponding
+  singular vectors of a real matrix. The matrix to be computed on can be
+  dense, sparse, or in the form of an operator defined by the user.
+date_publication: '2019-12-01'
+bug_reports: https://github.com/yixuan/RSpectra/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=RSpectra
+url_git: https://github.com/yixuan/RSpectra

@@ -1,0 +1,12 @@
+version: 1.0-1
+title: |-
+  Dose Escalation Design in Phase I Oncology Trial Using Bayesian
+  Logistic Regression Modeling
+maintainer: Furong Sun
+description: Plan dose escalation design using adaptive Bayesian logistic regression
+  modeling in Phase I oncology trial.
+date_publication: '2019-06-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=blrm
+url_git: ''

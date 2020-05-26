@@ -1,0 +1,9 @@
+version: 0.9-11
+title: Spatial Probit Models
+maintainer: Stefan Wilhelm
+description: Bayesian Estimation of Spatial Probit and Tobit Models.
+date_publication: '2015-09-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spatialprobit
+url_git: ''

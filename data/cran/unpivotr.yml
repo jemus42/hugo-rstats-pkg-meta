@@ -1,0 +1,15 @@
+version: 0.6.0
+title: Unpivot Complex and Irregular Data Layouts
+maintainer: Duncan Garmonsway
+description: |-
+  Tools for converting data from complex or irregular layouts to a
+  columnar structure.  For example, tables with multilevel column or row
+  headers, or spreadsheets.  Header and data cells are selected by their
+  contents and position, as well as formatting and comments where available,
+  and are associated with one other by their proximity in given directions.
+  Functions for data frames and HTML tables are provided.
+date_publication: '2020-05-08'
+bug_reports: https://github.com/nacnudus/unpivotr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=unpivotr
+url_git: https://github.com/nacnudus/unpivotr

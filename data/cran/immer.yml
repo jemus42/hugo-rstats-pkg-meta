@@ -1,0 +1,19 @@
+version: 1.1-35
+title: Item Response Models for Multiple Ratings
+maintainer: Alexander Robitzsch
+description: |2-
+
+  Implements some item response models for multiple
+  ratings, including the hierarchical rater model,
+  conditional maximum likelihood estimation of linear
+  logistic partial credit model and a wrapper function
+  to the commercial FACETS program. See Robitzsch and
+  Steinfeld (2018) for a description of the functionality
+  of the package.
+  See Wang, Su & Qiu (2014; <doi:10.1111/jedm.12045>)
+  for an overview of modeling alternatives.
+date_publication: '2018-12-10'
+bug_reports: ''
+url: https://sites.google.com/site/alexanderrobitzsch2/software
+url_cran: https://CRAN.R-project.org/package=immer
+url_git: https://github.com/alexanderrobitzsch/immer

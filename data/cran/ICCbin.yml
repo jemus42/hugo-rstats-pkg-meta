@@ -1,0 +1,13 @@
+version: 1.1.1
+title: |-
+  Facilitates Clustered Binary Data Generation, and Estimation of
+  Intracluster Correlation Coefficient (ICC) for Binary Data
+maintainer: Akhtar Hossain
+description: Assists in generating binary clustered data, estimates of Intracluster
+  Correlation coefficient (ICC) for binary response in 16 different methods, and 5
+  different types of confidence intervals.
+date_publication: '2017-11-14'
+bug_reports: https://github.com/akhtarh/ICCbin/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ICCbin
+url_git: ''

@@ -1,0 +1,16 @@
+version: 1.2.0
+title: Tools for Manipulating and Summarizing CMIP5 Data
+maintainer: Kathe Todd-Brown
+description: |-
+  Working with CMIP5 data can be tricky, forcing scientists to write
+  custom scripts and programs. The `RCMIP5` package aims to ease this
+  process, providing a standard, robust, and high-performance set of scripts
+  to (i) explore what data have been downloaded, (ii) identify missing data,
+  (iii) average (or apply other mathematical operations) across experimental
+  ensembles, (iv) produce both temporal and spatial statistical summaries,
+  and (v) produce easy-to-work-with graphical and data summaries.
+date_publication: '2016-07-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RCMIP5
+url_git: ''

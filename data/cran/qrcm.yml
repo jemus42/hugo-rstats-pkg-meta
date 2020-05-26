@@ -1,0 +1,11 @@
+version: '2.2'
+title: Quantile Regression Coefficients Modeling
+maintainer: Paolo Frumento
+description: |-
+  Parametric modeling of quantile regression coefficient functions.
+  Can be used with censored and truncated data.
+date_publication: '2020-02-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=qrcm
+url_git: ''

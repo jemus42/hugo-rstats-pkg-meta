@@ -1,0 +1,11 @@
+version: 0.13.0
+title: Epidemiological Tool for Contact Tracing
+maintainer: Stefan Widgren
+description: |-
+  Routines for epidemiological contact tracing
+  and visualisation of network of contacts.
+date_publication: '2020-03-15'
+bug_reports: https://github.com/stewid/EpiContactTrace/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=EpiContactTrace
+url_git: https://github.com/stewid/EpiContactTrace

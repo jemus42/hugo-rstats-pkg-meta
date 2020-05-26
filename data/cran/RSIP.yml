@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Remote Sensing and Image Processing
+maintainer: Iván Ayala-Bizarro
+description: |-
+  Makes  operations with raster images, such as map
+  viewing in time series, export values in time series for specific, total or limited
+  within a polygon locations. Makes data processing of remote sensing of climatic variables distributed in the space (maps 2D) and the time (time series).
+date_publication: '2016-11-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RSIP
+url_git: ''

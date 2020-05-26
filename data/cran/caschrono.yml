@@ -1,0 +1,11 @@
+version: '2.2'
+title: S<e9>ries Temporelles Avec R
+maintainer: Thibault Laurent
+description: Functions, data sets and exercises solutions for the book 'Séries Temporelles
+  Avec R' (Yves Aragon, edp sciences, 2016). For all chapters, a vignette is available
+  with some additional material and exercises solutions.
+date_publication: '2020-05-12'
+bug_reports: ''
+url: http://www.seriestemporelles.com
+url_cran: https://CRAN.R-project.org/package=caschrono
+url_git: ''

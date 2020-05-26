@@ -1,0 +1,12 @@
+version: 0.2.7
+title: Supporting Graphs for Analysing Time Series
+maintainer: Earo Wang
+description: |-
+  Provides 'ggplot2' graphics for analysing time
+  series data. It aims to fit into the 'tidyverse' and grammar of
+  graphics framework for handling temporal data.
+date_publication: '2020-04-18'
+bug_reports: https://github.com/earowang/sugrrants/issues
+url: https://pkg.earo.me/sugrrants
+url_cran: https://CRAN.R-project.org/package=sugrrants
+url_git: ''

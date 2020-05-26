@@ -1,0 +1,15 @@
+version: 2.0-1
+title: Count Longitudinal Data
+maintainer: M. Helena Goncalves
+description: |-
+  Performs regression analysis for longitudinal count data,
+  allowing for serial dependence among observations from a given
+  individual and two dimensional random effects on the linear predictor.
+  Estimation is via maximization of the exact likelihood of a suitably
+  defined model. Missing values and unbalanced data are allowed;
+  M. Helena Goncalves et al.(2007) <doi:10.1016/j.csda.2007.03.002>.
+date_publication: '2020-03-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cold
+url_git: ''

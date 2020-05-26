@@ -1,0 +1,15 @@
+version: '1.55'
+title: Data Sets from Montgomery, Peck and Vining
+maintainer: W.J. Braun
+description: |-
+  Most of this package consists of data sets from the
+  textbook Introduction
+  to Linear Regression Analysis (3rd ed), by Montgomery, Peck
+  and Vining.
+  Some additional data sets and functions related to visualization
+  of linear and nonparametric regression results are included.
+date_publication: '2019-08-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MPV
+url_git: ''

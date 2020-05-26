@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Estimate Parameters in the Generalized SBM
+maintainer: Solenne Gaucher
+description: Given an adjacency matrix drawn from a Generalized Stochatsic Block Model
+  with missing observations, this package robustly estimates the probabilities of
+  connection between nodes and detects outliers nodes, as describes in Gaucher, Klopp
+  and Robin (2019) <arXiv:1911.13122>.
+date_publication: '2020-02-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gsbm
+url_git: ''

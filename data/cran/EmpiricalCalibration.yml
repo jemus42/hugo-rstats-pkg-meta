@@ -1,0 +1,19 @@
+version: 2.0.2
+title: |-
+  Routines for Performing Empirical Calibration of Observational
+  Study Estimates
+maintainer: Martijn Schuemie
+description: |-
+  Routines for performing empirical calibration of observational
+  study estimates. By using a set of negative control hypotheses we can
+  estimate the empirical null distribution of a particular observational
+  study setup. This empirical null distribution can be used to compute a
+  calibrated p-value, which reflects the probability of observing an
+  estimated effect size when the null hypothesis is true taking both random
+  and systematic error into account. A similar approach can be used to
+  calibrate confidence intervals, using both negative and positive controls.
+date_publication: '2020-04-07'
+bug_reports: https://github.com/OHDSI/EmpiricalCalibration/issues
+url: https://ohdsi.github.io/EmpiricalCalibration
+url_cran: https://CRAN.R-project.org/package=EmpiricalCalibration
+url_git: https://github.com/OHDSI/EmpiricalCalibration

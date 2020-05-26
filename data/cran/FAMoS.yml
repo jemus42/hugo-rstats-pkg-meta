@@ -1,0 +1,13 @@
+version: 0.3.0
+title: A Flexible Algorithm for Model Selection
+maintainer: Michael Gabel
+description: |-
+  Given a set of parameters describing model dynamics and a corresponding cost function,
+  FAMoS performs a dynamic forward-backward model selection on a specified selection
+  criterion. It also applies a non-local swap search method. Works on any cost function.
+  For detailed information see Gabel et al. (2019) <doi:10.1371/journal.pcbi.1007230>.
+date_publication: '2020-04-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FAMoS
+url_git: ''

@@ -1,0 +1,12 @@
+version: '1.2'
+title: Modelling Dispersion in GLM
+maintainer: Luca Scrucca
+description: Functions for estimating Gaussian dispersion regression models (Aitkin,
+  1987 <doi:10.2307/2347792>), overdispersed binomial logit models (Williams, 1987
+  <doi:10.2307/2347977>), and overdispersed Poisson log-linear models (Breslow, 1984
+  <doi:10.2307/2347661>), using a quasi-likelihood approach.
+date_publication: '2018-03-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dispmod
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.2.5
+title: Download NRCS Data
+maintainer: Robert Lee
+description: Downloads Natural Resources Conservation Service (NRCS) data for sites
+  in the Soil Climate Analysis Network (SCAN) <https://www.wcc.nrcs.usda.gov/scan/>,
+  and Snow Telemetry (SNOTEL and SNOLITE) <https://www.wcc.nrcs.usda.gov/snow/> networks.
+  Metadata can be returned for all sites in the NRCS' Air and Water Data Base (AWDB)
+  <https://www.wcc.nrcs.usda.gov/report_generator/AWDB_Network_Codes.pdf>.
+date_publication: '2018-03-21'
+bug_reports: ''
+url: https://rhlee12.github.io/RNRCS/
+url_cran: https://CRAN.R-project.org/package=RNRCS
+url_git: ''

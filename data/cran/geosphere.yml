@@ -1,0 +1,10 @@
+version: 1.5-10
+title: Spherical Trigonometry
+maintainer: Robert J. Hijmans
+description: Spherical trigonometry for geographic applications. That is, compute
+  distances and related measures for angular (longitude/latitude) locations.
+date_publication: '2019-05-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=geosphere
+url_git: ''

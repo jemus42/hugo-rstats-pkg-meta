@@ -1,0 +1,10 @@
+version: 8.1-3
+title: Probabilistic Population Projection
+maintainer: Hana Sevcikova
+description: Generating population projections for all countries of the world using
+  several probabilistic components, such as total fertility rate and life expectancy.
+date_publication: '2020-05-05'
+bug_reports: ''
+url: https://bayespop.csss.washington.edu
+url_cran: https://CRAN.R-project.org/package=bayesPop
+url_git: ''

@@ -1,0 +1,11 @@
+version: 1.2-1
+title: Election Vote Counting
+maintainer: Hana Sevcikova<hanas@uw.edu>
+description: Counting election votes and determining election results by different
+  methods, including the single transferable vote (ranked choice), approval, score
+  and plurality methods.
+date_publication: '2020-02-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=vote
+url_git: ''

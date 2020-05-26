@@ -1,0 +1,9 @@
+version: 0.2.0
+title: A Poor Man's Base R Copy of 'dplyr' Verbs
+maintainer: Nathan Eastwood
+description: A simple replication of key 'dplyr' verbs using only base R.
+date_publication: '2020-05-10'
+bug_reports: https://github.com/nathaneastwood/poorman/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=poorman
+url_git: https://github.com/nathaneastwood/poorman

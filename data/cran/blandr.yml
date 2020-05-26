@@ -1,0 +1,17 @@
+version: 0.5.1
+title: Bland-Altman Method Comparison
+maintainer: Deepankar Datta
+description: |-
+  Carries out Bland Altman analyses (also known as a Tukey
+  mean-difference plot) as described by JM Bland and DG Altman in
+  1986 <doi:10.1016/S0140-6736(86)90837-8>. This package was created in
+  2015 as existing Bland-Altman analysis functions did not calculate
+  confidence intervals. This package was created to rectify this,
+  and create reproducible plots. This package is also available as a module
+  for the 'jamovi' statistical spreadsheet (see <https://www.jamovi.org>
+  for more information).
+date_publication: '2018-05-10'
+bug_reports: https://github.com/deepankardatta/blandr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=blandr
+url_git: https://github.com/deepankardatta/blandr/

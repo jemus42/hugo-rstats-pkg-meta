@@ -1,0 +1,9 @@
+version: 0.0.1
+title: R API Wrapper for SigOpt
+maintainer: Alexandra Johnson
+description: Interfaces with the 'SigOpt' API. More info at <https://sigopt.com>.
+date_publication: '2017-03-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SigOptR
+url_git: ''

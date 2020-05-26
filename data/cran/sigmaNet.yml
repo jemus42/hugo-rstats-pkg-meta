@@ -1,0 +1,16 @@
+version: 1.1.0
+title: Render Graphs Using 'Sigma.js'
+maintainer: Ian Kloo
+description: |-
+  Create interactive graph visualizations using 'Sigma.js' <http://sigmajs.org/>.  This package is meant to be used in conjunction
+  with 'igraph', replacing the (somewhat underwhelming) plotting features of the package.  The idea is to quickly render
+  graphs, regardless of their size, in a way that allows for easy, iterative modification of aesthetics.  Because
+  'Sigma.js' is a 'javascript' library, the visualizations are inherently interactive and are well suited for integration
+  with 'Shiny' apps.  While there are several 'htmlwidgets' focused on network visualization, they tend to underperform on
+  medium to large sized graphs.  'Sigma.js' was designed for larger network visualizations and this package aims to
+  make those strengths available to 'R' users.
+date_publication: '2018-04-23'
+bug_reports: https://github.com/iankloo/sigmaNet/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sigmaNet
+url_git: https://github.com/iankloo/sigmaNet

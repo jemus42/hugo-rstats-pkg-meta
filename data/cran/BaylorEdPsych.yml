@@ -1,0 +1,11 @@
+version: '0.5'
+title: R Package for Baylor University Educational Psychology<U+000a>Quantitative
+  Courses
+maintainer: A. Alexander Beaujean
+description: Functions and data used for Baylor University Educational<U+000a>Psychology
+  Quantitative Courses
+date_publication: '2012-07-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BaylorEdPsych
+url_git: ''

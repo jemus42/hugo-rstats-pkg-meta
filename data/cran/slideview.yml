@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Compare Raster Images Side by Side with a Slider
+maintainer: Tim Appelhans
+description: |-
+  Create a side-by-side view of raster(image)s with an interactive
+  slider to switch between regions of the images. This can be especially useful
+  for image comparison of the same region at different time stamps.
+date_publication: '2019-03-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=slideview
+url_git: ''

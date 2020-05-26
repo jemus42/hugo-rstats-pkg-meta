@@ -1,0 +1,9 @@
+version: 1.5.3-4
+title: Apache OpenNLP Jars and Basic English Language Models
+maintainer: Kurt Hornik
+description: Apache OpenNLP jars and basic English language models.
+date_publication: '2017-11-12'
+bug_reports: ''
+url: https://opennlp.apache.org/
+url_cran: https://CRAN.R-project.org/package=openNLPdata
+url_git: ''

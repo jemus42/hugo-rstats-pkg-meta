@@ -1,0 +1,14 @@
+version: 0.1.0
+title: '''WeMo Switch'' Smart Plug Utilities'
+maintainer: Simon Garnier
+description: |-
+  Set of utility functions to interact with 'WeMo Switch', a smart
+  plug that can be remotely controlled via wifi. The provided functions make
+  it possible to turn one or more 'WeMo Switch' plugs on and off in a
+  scriptable fashion. More information about 'WeMo Switch' can be found at
+  <http://www.belkin.com/us/p/P-F7C027/>.
+date_publication: '2017-09-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=magicLamp
+url_git: https://github.com/swarm-lab/magicLamp

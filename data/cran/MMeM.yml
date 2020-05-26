@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Multivariate Mixed Effects Model
+maintainer: Luyao Peng
+description: |-
+  Analyzing data under multivariate mixed effects model using multivariate REML and multivariate Henderson3 methods.
+  See Meyer (1985) <doi:10.2307/2530651> and Wesolowska Janczarek (1984) <doi:10.1002/bimj.4710260613>.
+date_publication: '2019-02-03'
+bug_reports: https://github.com/pengluyaoyao/MMeM/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=MMeM
+url_git: ''

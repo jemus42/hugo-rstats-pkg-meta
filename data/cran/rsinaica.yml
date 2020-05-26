@@ -1,0 +1,14 @@
+version: 0.6.1
+title: Download Data from Mexico's Air Quality Information System
+maintainer: Diego Valle-Jones
+description: |-
+  Easy-to-use functions for downloading air quality data from the
+  Mexican National Air Quality Information System (SINAICA).  Allows you to
+  query pollution and meteorological parameters from more than a hundred
+  monitoring stations located throughout Mexico. See <https://sinaica.inecc.gob.mx>
+  for more information.
+date_publication: '2019-02-04'
+bug_reports: https://github.com/diegovalle/rsinaica/issues
+url: https://hoyodesmog.diegovalle.net/rsinaica/
+url_cran: https://CRAN.R-project.org/package=rsinaica
+url_git: https://github.com/diegovalle/rsinaica

@@ -1,0 +1,11 @@
+version: 1.0.2
+title: Tuning of the Latent Dirichlet Allocation Models Parameters
+maintainer: Nathan Chaney
+description: |-
+  For this first version only metrics to estimate the best fitting
+  number of topics are implemented.
+date_publication: '2020-04-21'
+bug_reports: https://github.com/nikita-moor/ldatuning/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ldatuning
+url_git: https://github.com/nikita-moor/ldatuning

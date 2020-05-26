@@ -1,0 +1,13 @@
+version: 0.1-7
+title: Distributed Storage and List
+maintainer: Stefan Theussl
+description: An abstract DList class helps storing large list-type objects in a distributed
+  manner. Corresponding high-level functions and methods for handling distributed
+  storage (DStorage) and lists allows for processing such DLists on distributed systems
+  efficiently. In doing so it uses a well defined storage backend implemented based
+  on the DStorage class.
+date_publication: '2020-01-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DSL
+url_git: ''

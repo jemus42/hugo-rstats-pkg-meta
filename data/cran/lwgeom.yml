@@ -1,0 +1,10 @@
+version: 0.2-4
+title: Bindings to Selected 'liblwgeom' Functions for Simple Features
+maintainer: Edzer Pebesma
+description: Access to selected functions found in 'liblwgeom' <https://github.com/postgis/postgis/tree/master/liblwgeom>,
+  the light-weight geometry library used by 'PostGIS' <http://postgis.net/>.
+date_publication: '2020-05-20'
+bug_reports: https://github.com/r-spatial/lwgeom/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=lwgeom
+url_git: https://github.com/r-spatial/lwgeom/

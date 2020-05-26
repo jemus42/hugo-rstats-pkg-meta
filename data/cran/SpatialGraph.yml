@@ -1,0 +1,13 @@
+version: 1.0-2
+title: SpatialGraph Class
+maintainer: Javier Garcia-Pintado
+description: Provision of the S4 SpatialGraph class built on top of objects provided
+  by 'igraph' and 'sp' packages, and associated utilities. See the documentation of
+  the SpatialGraph-class within this package for further description. An example of
+  how from a few points one can arrive to a SpatialGraph is provided in the function
+  sl2sg().
+date_publication: '2018-11-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SpatialGraph
+url_git: https://github.com/garciapintado/SpatialGraph

@@ -1,0 +1,10 @@
+version: 2.1.1
+title: Separating Location and Dispersion in Ordinal Regression Models
+maintainer: Moritz Berger
+description: Estimate location-shift models or rating-scale models accounting for
+  response styles (RSRS) for the regression analysis of ordinal responses.
+date_publication: '2020-05-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ordDisp
+url_git: ''

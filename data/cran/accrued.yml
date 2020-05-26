@@ -1,0 +1,9 @@
+version: 1.4.1
+title: Data Quality Visualization Tools for Partially Accruing Data
+maintainer: Julie Eaton
+description: Package for visualizing data quality of partially accruing data.
+date_publication: '2016-08-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=accrued
+url_git: ''

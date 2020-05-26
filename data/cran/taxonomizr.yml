@@ -1,0 +1,12 @@
+version: 0.5.3
+title: Functions to Work with NCBI Accessions and Taxonomy
+maintainer: Scott Sherrill-Mix
+description: Functions for assigning taxonomy to NCBI accession numbers and taxon
+  IDs based on NCBI's accession2taxid and taxdump files. This package allows the user
+  to downloads NCBI data dumps and create a local database for fast and local taxonomic
+  assignment.
+date_publication: '2019-04-22'
+bug_reports: https://github.com/sherrillmix/taxonomizr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=taxonomizr
+url_git: ''

@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Helpers for 'OOP' in R
+maintainer: Hadley Wickham
+description: |-
+  A collection of helper functions designed to help
+  you to better understand object oriented programming in R,
+  particularly using 'S3'.
+date_publication: '2019-02-17'
+bug_reports: https://github.com/r-lib/sloop/issues
+url: https://sloop.r-lib.org
+url_cran: https://CRAN.R-project.org/package=sloop
+url_git: https://github.com/r-lib/sloop

@@ -1,0 +1,10 @@
+version: 1.0-8
+title: Gaussian Processes Modeling
+maintainer: Hugh Chipman
+description: A computationally stable approach of fitting a Gaussian Process (GP)
+  model to a deterministic simulator.
+date_publication: '2019-02-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GPfit
+url_git: ''

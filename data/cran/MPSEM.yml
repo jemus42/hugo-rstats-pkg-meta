@@ -1,0 +1,10 @@
+version: 0.3-6
+title: Modeling Phylogenetic Signals using Eigenvector Maps
+maintainer: Guillaume Guenard
+description: Computational tools to represent phylogenetic signals using adapted eigenvector
+  maps.
+date_publication: '2019-06-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MPSEM
+url_git: ''

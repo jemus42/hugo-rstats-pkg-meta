@@ -1,0 +1,14 @@
+version: 1.6-0
+title: |-
+  Item Based Collaborative Filtering for Multi-Trait and
+  Multi-Environment Data
+maintainer: Francisco Javier Luna-Vazquez
+description: Implements the item based collaborative filtering (IBCF) method for continues
+  phenotypes in the context of plant breeding where data are collected for various
+  traits that were studied in various environments proposed by Montesinos-López et
+  al. (2017) <doi:10.1534/g3.117.300309>.
+date_publication: '2019-03-23'
+bug_reports: https://github.com/frahik/IBCF.MTME/issues/new
+url: ''
+url_cran: https://CRAN.R-project.org/package=IBCF.MTME
+url_git: https://github.com/frahik/IBCF.MTME

@@ -1,0 +1,20 @@
+version: '3.5'
+title: Dunnett-Tukey-Kramer Pairwise Multiple Comparison Test Adjusted<U+000a>for
+  Unequal Variances and Unequal Sample Sizes
+maintainer: Matthew K. Lau
+description: 'This package was created to analyze multi-level one-way<U+000a>experimental
+  designs. It is designed to handle vectorized<U+000a>observation and factor data
+  where there are unequal sample<U+000a>sizes and population variance homogeneity
+  can not be assumed.<U+000a>To conduct the Dunnett modified Tukey-Kramer test (a.k.a.
+  the<U+000a>T3 Procedure), create two vectors: one for your observations<U+000a>and
+  one for the factor level of each observation. The function,<U+000a>gl.unequal, provides
+  a means to more conveniently produce a<U+000a>factor vector with unequal sample
+  sizes. Next, use the DTK.test<U+000a>function to conduct the test and save the output
+  as an object<U+000a>to input into the DTK.plot function, which produces a<U+000a>confidence
+  interval plot for each of the pairwise comparisons.<U+000a>Lastly, the function
+  TK.test conducts the original Tukey-Kramer<U+000a>test.'
+date_publication: '2013-07-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DTK
+url_git: ''

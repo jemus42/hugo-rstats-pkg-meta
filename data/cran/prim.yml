@@ -1,0 +1,10 @@
+version: 1.0.17
+title: Patient Rule Induction Method (PRIM)
+maintainer: Tarn Duong
+description: Patient Rule Induction Method (PRIM) for bump hunting in high-dimensional
+  data.
+date_publication: '2020-03-17'
+bug_reports: ''
+url: http://www.mvstat.net/tduong
+url_cran: https://CRAN.R-project.org/package=prim
+url_git: ''

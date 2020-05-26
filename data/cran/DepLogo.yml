@@ -1,0 +1,9 @@
+version: '1.0'
+title: Dependency Logo
+maintainer: Jan Grau
+description: Plots dependency logos from a set of input sequences.
+date_publication: '2019-03-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DepLogo
+url_git: ''

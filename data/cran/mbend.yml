@@ -1,0 +1,12 @@
+version: 1.2.5
+title: Matrix Bending
+maintainer: Mohammad Ali Nilforooshan
+description: |-
+  Bending non-positive-definite (symmetric) matrices to positive-definite, using weighted and unweighted methods.
+  Jorjani, H., et al. (2003) <doi:10.3168/jds.S0022-0302(03)73646-7>.
+  Schaeffer, L. R. (2014) <http://animalbiosciences.uoguelph.ca/~lrs/ELARES/PDforce.pdf>.
+date_publication: '2020-03-07'
+bug_reports: https://github.com/nilforooshan/mbend/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mbend
+url_git: https://github.com/nilforooshan/mbend

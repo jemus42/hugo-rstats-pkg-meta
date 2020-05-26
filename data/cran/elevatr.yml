@@ -1,0 +1,16 @@
+version: 0.2.0
+title: Access Elevation Data from Various APIs
+maintainer: Jeffrey Hollister
+description: |-
+  Several web services are available that provide access to elevation
+  data. This package provides access to several of those services and
+  returns elevation data either as a SpatialPointsDataFrame from
+  point elevation services or as a raster object from raster
+  elevation services.  Currently, the package supports access to the
+  Amazon Web Services Terrain Tiles <https://aws.amazon.com/public-datasets/terrain/>
+  and the USGS Elevation Point Query Service <http://ned.usgs.gov/epqs/>.
+date_publication: '2018-11-28'
+bug_reports: https://github.com/jhollist/elevatr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=elevatr
+url_git: https://www.github.com/jhollist/elevatr

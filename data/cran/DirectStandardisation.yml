@@ -1,0 +1,11 @@
+version: '1.3'
+title: Adjusted Means and Proportions by Direct Standardisation
+maintainer: Christiana Kartsonaki
+description: Calculate adjusted means and proportions of a variable by groups defined
+  by another variable by direct standardisation, standardised to the structure of
+  the dataset.
+date_publication: '2020-03-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DirectStandardisation
+url_git: ''

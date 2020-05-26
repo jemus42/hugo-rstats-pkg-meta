@@ -1,0 +1,15 @@
+version: 0.1.1
+title: matrix powers
+maintainer: Norm Matloff
+description: |-
+  A general framework for computing powers of matrices.  A
+  key feature is the capability for users to write callback functions,
+  called after each iteration, thus enabling customization for specific
+  applications.  Diverse types of matrix classes/matrix multiplication
+  are accommodated.  If the multiplication type computes in parallel,
+  then the package computation is also parallel.
+date_publication: '2014-08-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=matpow
+url_git: ''

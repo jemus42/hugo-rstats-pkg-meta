@@ -1,0 +1,12 @@
+version: 1.1.1
+title: Scale Functions for Visualization
+maintainer: Hadley Wickham
+description: |-
+  Graphical scales map data to aesthetics, and
+  provide methods for automatically determining breaks and labels for
+  axes and legends.
+date_publication: '2020-05-11'
+bug_reports: https://github.com/r-lib/scales/issues
+url: https://scales.r-lib.org
+url_cran: https://CRAN.R-project.org/package=scales
+url_git: https://github.com/r-lib/scales

@@ -1,0 +1,14 @@
+version: 1.1.5
+title: |-
+  Table, Apply, and Split Functionality for Matrix and
+  'big.matrix' Objects
+maintainer: Michael J. Kane
+description: |-
+  Extend the bigmemory package with 'table', 'tapply', and 'split'
+  support for 'big.matrix' objects. The functions may also be used with native R
+  matrices for improving speed and memory-efficiency.
+date_publication: '2016-02-18'
+bug_reports: ''
+url: http://www.bigmemory.org
+url_cran: https://CRAN.R-project.org/package=bigtabulate
+url_git: ''

@@ -1,0 +1,17 @@
+version: 1.0.1
+title: Cellwise Robust M-Regression and SPADIMO
+maintainer: Sebastiaan Hoppner
+description: Method for fitting a cellwise robust linear M-regression model (CRM,
+  Filzmoser et al. (2020) <DOI:10.1016/j.csda.2020.106944>) that yields both a map
+  of cellwise outliers consistent with the linear model, and a vector of regression
+  coefficients that is robust against vertical outliers and leverage points. As a
+  by-product, the method yields an imputed data set that contains estimates of what
+  the values in cellwise outliers would need to amount to if they had fit the model.
+  The package also provides diagnostic tools for analyzing casewise and cellwise outliers
+  using sparse directions of maximal outlyingness (SPADIMO, Debruyne et al. (2019)
+  <DOI:10.1007/s11222-018-9831-5>).
+date_publication: '2020-04-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=crmReg
+url_git: ''

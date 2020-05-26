@@ -1,0 +1,9 @@
+version: '1.0'
+title: Bootstrap computations for time series objects
+maintainer: Francisco Juretig
+description: Computes bootstrap CI for the sample ACF and periodogram
+date_publication: '2013-08-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=timesboot
+url_git: ''

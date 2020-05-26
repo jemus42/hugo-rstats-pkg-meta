@@ -1,0 +1,11 @@
+version: 0.6-1
+title: Groundwater Data Presentation and Interpretation
+maintainer: Myles English
+description: |-
+  Contains one function for drawing Piper diagrams (also
+  called Piper-Hill diagrams) of water analyses for major ions.
+date_publication: '2017-03-12'
+bug_reports: ''
+url: http://rockhead.biz
+url_cran: https://CRAN.R-project.org/package=hydrogeo
+url_git: ''

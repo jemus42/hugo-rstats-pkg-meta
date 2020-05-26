@@ -1,0 +1,12 @@
+version: 2.0.0
+title: Spatial Early Warning Signals of Ecosystem Degradation
+maintainer: Alexandre Genin
+description: Tools to compute and assess significance of early-warnings signals (EWS)
+  of ecosystem degradation on raster data sets. EWS are metrics derived from the observed
+  spatial structure of an ecosystem -- e.g. spatial autocorrelation -- that increase
+  before an ecosystem undergoes a non-linear transition (Genin et al. (2018) <doi:10.1111/2041-210X.13058>).
+date_publication: '2020-05-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spatialwarnings
+url_git: https://github.com/spatial-ews/spatialwarnings

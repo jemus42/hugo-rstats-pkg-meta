@@ -1,0 +1,10 @@
+version: 0.1-2
+title: Efficient Inference of Local Ancestry
+maintainer: James J. Yang
+description: Implementation of Efficient Inference of Local Ancestry<U+000a>using
+  fused quantile regression and k-means classifier
+date_publication: '2013-09-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EILA
+url_git: ''

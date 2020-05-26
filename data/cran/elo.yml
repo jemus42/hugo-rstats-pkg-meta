@@ -1,0 +1,15 @@
+version: 2.1.1
+title: Elo Ratings
+maintainer: Ethan Heinzen
+description: |-
+  A flexible framework for calculating Elo ratings and resulting
+  rankings of any two-team-per-matchup system (chess, sports leagues, 'Go',
+  etc.). This implementation is capable of evaluating a variety of matchups,
+  Elo rating updates, and win probabilities, all based on the basic Elo
+  rating system. It also includes methods to benchmark performance,
+  including logistic regression and Markov chain models.
+date_publication: '2020-01-14'
+bug_reports: https://github.com/eheinzen/elo/issues
+url: https://eheinzen.github.io/elo/
+url_cran: https://CRAN.R-project.org/package=elo
+url_git: https://github.com/eheinzen/elo

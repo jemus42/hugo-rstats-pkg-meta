@@ -1,0 +1,13 @@
+version: 0.1.0
+title: |-
+  Multiple Indicator Cluster Survey (MICS) 2014 Women
+  Questionnaire Data for Punjab, Pakistan
+maintainer: Muhammad Yaseen
+description: Provides data set and function for exploration of Multiple Indicator
+  Cluster Survey (MICS) 2014 Women (age 15-49 years) questionnaire data for Punjab,
+  Pakistan (<http://www.mics.unicef.org/surveys>).
+date_publication: '2017-09-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PakPMICS2014Wm
+url_git: https://github.com/MYaseen208/PakPMICS2014Wm

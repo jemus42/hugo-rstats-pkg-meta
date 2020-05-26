@@ -1,0 +1,11 @@
+version: '2.8'
+title: 'Datasets for "Statistics: UnLocking the Power of Data"'
+maintainer: Robin Lock
+description: |-
+  Datasets for "Statistics: Unlocking the Power of Data" by Lock^5
+  Datasets for the first and second editions of the book.  Older editions of revised data often have an extra 1e in the name.
+date_publication: '2017-07-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Lock5Data
+url_git: ''

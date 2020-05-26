@@ -1,0 +1,15 @@
+version: '1.4'
+title: Cluster Evaluation
+maintainer: Pengyi Yang
+description: |-
+  CLUster Evaluation (CLUE) is a computational method for identifying
+  optimal number of clusters in a given time-course dataset clustered by
+  cmeans or kmeans algorithms and subsequently identify key kinases or
+  pathways from each cluster. Its implementation in R is called ClueR.
+  See README on <https://github.com/PengyiYang/ClueR> for more details.
+  P Yang et al. (2015) <doi:10.1371/journal.pcbi.1004403>.
+date_publication: '2018-09-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ClueR
+url_git: ''

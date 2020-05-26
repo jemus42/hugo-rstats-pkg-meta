@@ -1,0 +1,18 @@
+version: 2.4.2
+title: |-
+  An R Interface to the NOAA Operational Model Archive and
+  Distribution System
+maintainer: Daniel C. Bowman
+description: An interface to the National Oceanic and Atmospheric Administration's
+  Operational Model Archive and Distribution System (NOMADS, see <http://nomads.ncep.noaa.gov/>
+  for more information) that allows R users to quickly and efficiently download global
+  and regional weather model data for processing.  rNOMADS currently supports a variety
+  of models ranging from global weather data to an altitude of over 40 km, to high
+  resolution regional weather models, to wave and sea ice models. It can also retrieve
+  archived NOMADS models.  rNOMADS can retrieve binary data in grib format as well
+  as import ascii data directly into R by interfacing with the GrADS-DODS system.
+date_publication: '2020-02-29'
+bug_reports: ''
+url: <https://bovineaerospace.wordpress.com/category/r/>
+url_cran: https://CRAN.R-project.org/package=rNOMADS
+url_git: <https://r-forge.r-project.org/projects/rnomads/>

@@ -1,0 +1,11 @@
+version: 2.2.1
+title: Methods to Convert R Data to YAML and Back
+maintainer: Jeremy Stephens
+description: |-
+  Implements the 'libyaml' 'YAML' 1.1 parser and emitter
+  (<http://pyyaml.org/wiki/LibYAML>) for R.
+date_publication: '2020-02-01'
+bug_reports: https://github.com/viking/r-yaml/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=yaml
+url_git: https://github.com/viking/r-yaml/

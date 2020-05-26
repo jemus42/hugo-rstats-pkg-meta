@@ -1,0 +1,13 @@
+version: '0.12'
+title: |-
+  Calculate the Assortativity Coefficient of Weighted and Binary
+  Networks
+maintainer: Damien Farine
+description: Functions to calculate the assortment of vertices in social networks.  This
+  can be measured on both weighted and binary networks, with discrete or continuous
+  vertex values.
+date_publication: '2016-01-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=assortnet
+url_git: ''

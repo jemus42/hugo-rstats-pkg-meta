@@ -1,0 +1,12 @@
+version: '0.1'
+title: Testing Gene-Environment Interaction for Rare Genetic Variants
+maintainer: Han Chen
+description: Tests gene-environment interaction for rare genetic variants using Sequence
+  Kernel Association Test (SKAT) type gene-based tests. Includes two tests for the
+  interaction term only, and one joint test for genetic main effects and gene-environment
+  interaction.
+date_publication: '2014-07-30'
+bug_reports: ''
+url: http://www.hsph.harvard.edu/han-chen/
+url_cran: https://CRAN.R-project.org/package=rareGE
+url_git: ''

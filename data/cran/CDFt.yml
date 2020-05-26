@@ -1,0 +1,11 @@
+version: 1.0.1
+title: Statistical downscaling through CDF-transform
+maintainer: Mathieu Vrac
+description: This package proposes a statistical downscaling method for<U+000a>cumulative
+  distribution functions (CDF), as well as the<U+000a>computation of the Cram\`er-von
+  Mises statistics U, and the<U+000a>Kolmogorov-Smirnov statistics KS.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CDFt
+url_git: ''

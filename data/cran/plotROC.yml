@@ -1,0 +1,15 @@
+version: 2.2.1
+title: Generate Useful ROC Curve Charts for Print and Interactive Use
+maintainer: Michael C. Sachs
+description: |-
+  Most ROC curve plots obscure the cutoff values and inhibit
+  interpretation and comparison of multiple curves. This attempts to address
+  those shortcomings by providing plotting and interactive tools. Functions
+  are provided to generate an interactive ROC curve plot for web use, and
+  print versions. A Shiny application implementing the functions is also
+  included.
+date_publication: '2018-06-23'
+bug_reports: http://github.com/sachsmc/plotROC/issues
+url: http://sachsmc.github.io/plotROC
+url_cran: https://CRAN.R-project.org/package=plotROC
+url_git: ''

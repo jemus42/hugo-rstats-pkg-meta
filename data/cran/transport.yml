@@ -1,0 +1,13 @@
+version: 0.12-2
+title: Computation of Optimal Transport Plans and Wasserstein Distances
+maintainer: Dominic Schuhmacher
+description: Solve optimal transport problems. Compute Wasserstein distances (a.k.a.
+  Kantorovitch, Fortet--Mourier, Mallows, Earth Mover's, or minimal L_p distances),
+  return the corresponding transference plans, and display them graphically. Objects
+  that can be compared include grey-scale images, (weighted) point patterns, and mass
+  vectors.
+date_publication: '2020-03-11'
+bug_reports: ''
+url: http://www.dominic.schuhmacher.name
+url_cran: https://CRAN.R-project.org/package=transport
+url_git: ''

@@ -1,0 +1,15 @@
+version: '1.0'
+title: |-
+  A Random-Forest-Based Approach for Imputing Clustered Incomplete
+  Data
+maintainer: Jiebiao Wang
+description: |-
+  It offers random-forest-based functions to impute clustered
+  incomplete data. The package is tailored for but not limited to imputing
+  multitissue expression data, in which a gene's expression is measured on the
+  collected tissues of an individual but missing on the uncollected tissues.
+date_publication: '2016-04-06'
+bug_reports: https://github.com/randel/MixRF/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=MixRF
+url_git: https://github.com/randel/MixRF

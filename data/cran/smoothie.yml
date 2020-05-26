@@ -1,0 +1,10 @@
+version: 1.0-1
+title: Two-dimensional Field Smoothing
+maintainer: Eric Gilleland
+description: Functions to smooth two-dimensional fields using FFT and the convolution
+  theorem
+date_publication: '2013-07-06'
+bug_reports: http://www.ral.ucar.edu/staff/ericg
+url: http://www.ral.ucar.edu/staff/ericg
+url_cran: https://CRAN.R-project.org/package=smoothie
+url_git: ''

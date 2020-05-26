@@ -1,0 +1,10 @@
+version: 1.1.1
+title: Discrete Laplace Distributions
+maintainer: Alessandro Barbiero
+description: Probability mass function, distribution function, quantile function,
+  random generation and estimation for the skew discrete Laplace distributions.
+date_publication: '2016-05-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DiscreteLaplace
+url_git: ''

@@ -1,0 +1,15 @@
+version: '2.8'
+title: |-
+  Calculations and Visualisations Related to Geometric
+  Morphometrics
+maintainer: Stefan Schlager
+description: |-
+  A toolset for Geometric Morphometrics and mesh processing. This
+  includes (among other stuff) mesh deformations based on reference points,
+  permutation tests, detection of outliers, processing of sliding
+  semi-landmarks and semi-automated surface landmark placement.
+date_publication: '2020-03-09'
+bug_reports: https://github.com/zarquon42b/Morpho/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Morpho
+url_git: https://github.com/zarquon42b/Morpho

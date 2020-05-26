@@ -1,0 +1,10 @@
+version: 1.0.10
+title: 'Functions from "Reinsurance: Actuarial and Statistical Aspects"'
+maintainer: Tom Reynkens
+description: 'Functions from the book "Reinsurance: Actuarial and Statistical Aspects"
+  (2017) by Hansjoerg Albrecher, Jan Beirlant and Jef Teugels <http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470772689.html>.'
+date_publication: '2020-05-17'
+bug_reports: https://github.com/TReynkens/ReIns/issues
+url: http://www.hec.unil.ch/halbrech_files/reinsurance.html
+url_cran: https://CRAN.R-project.org/package=ReIns
+url_git: https://github.com/TReynkens/ReIns

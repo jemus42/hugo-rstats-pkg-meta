@@ -1,0 +1,9 @@
+version: 0.3-2.1
+title: Transformation Boosting Machines
+maintainer: Torsten Hothorn
+description: Boosting the likelihood of conditional and shift transformation models.
+date_publication: '2020-04-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tbm
+url_git: http://ctm.R-forge.R-project.org

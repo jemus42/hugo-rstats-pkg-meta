@@ -1,0 +1,13 @@
+version: '0.98'
+title: Approximate Unconditional and Permutation Tests
+maintainer: Arjun Sondhi
+description: |-
+  Performs approximate unconditional and permutation testing for
+  2x2 contingency tables. Motivated by testing for disease association with rare
+  genetic variants in case-control studies. When variants are extremely rare,
+  these tests give better control of Type I error than standard tests.
+date_publication: '2016-06-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AUtests
+url_git: ''

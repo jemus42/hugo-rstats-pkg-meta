@@ -1,0 +1,17 @@
+version: 0.3.8
+title: |-
+  Methods for Computing Spatial, Temporal, and Spatiotemporal
+  Statistics
+maintainer: Tarik C. Gouhier
+description: |-
+  Methods for computing spatial, temporal, and spatiotemporal
+  statistics as described in Gouhier and Guichard (2014)
+  <doi:10.1111/2041-210X.12188>. These methods include
+  empirical univariate, bivariate and multivariate
+  variograms; fitting variogram models; phase locking and synchrony analysis;
+  generating autocorrelated and cross-correlated matrices.
+date_publication: '2019-12-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=synchrony
+url_git: http://github.com/tgouhier/synchrony

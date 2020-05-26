@@ -1,0 +1,15 @@
+version: 1.3.0
+title: Matching Algorithms in R and C++
+maintainer: Jan Tilly
+description: |-
+  Computes matching algorithms quickly using Rcpp.
+  Implements the Gale-Shapley Algorithm to compute the stable
+  matching for two-sided markets, such as the stable marriage
+  problem and the college-admissions problem. Implements Irving's
+  Algorithm for the stable roommate problem. Implements the top
+  trading cycle algorithm for the indivisible goods trading problem.
+date_publication: '2018-01-26'
+bug_reports: https://github.com/jtilly/matchingR/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=matchingR
+url_git: https://github.com/jtilly/matchingR/

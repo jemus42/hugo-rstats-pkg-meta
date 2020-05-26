@@ -1,0 +1,14 @@
+version: 1.0.0
+title: Lightweight Web Server for Testing
+maintainer: Gábor Csárdi
+description: |-
+  Create a web app that makes it easier to test web clients
+  without using the internet. It includes a web app framework with path
+  matching and parameters and templates. Can parse various 'HTTP' request
+  bodies. Can send 'JSON' data or files from the disk. Includes a web app
+  that implements the <https://httpbin.org> web service.
+date_publication: '2020-05-06'
+bug_reports: https://github.com/gaborcsardi/presser/issues
+url: https://r-lib.github.io/presser
+url_cran: https://CRAN.R-project.org/package=presser
+url_git: https://github.com/gaborcsardi/presser#readme

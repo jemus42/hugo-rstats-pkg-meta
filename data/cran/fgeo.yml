@@ -1,0 +1,18 @@
+version: 1.1.4
+title: Analyze Forest Diversity and Dynamics
+maintainer: Mauro Lepore
+description: |-
+  To help you access, transform, analyze, and
+  visualize ForestGEO data, we developed a collection of R packages
+  (<https://forestgeo.github.io/fgeo/>). This package, in particular,
+  helps you to install and load the entire package-collection with a
+  single R command, and provides convenient ways to find relevant
+  documentation. Most commonly, you should not worry about the
+  individual packages that make up the package-collection as you can
+  access all features via this package. To learn more about ForestGEO
+  visit <http://www.forestgeo.si.edu/>.
+date_publication: '2019-06-19'
+bug_reports: https://github.com/forestgeo/fgeo/issues
+url: http://forestgeo.github.io/fgeo
+url_cran: https://CRAN.R-project.org/package=fgeo
+url_git: https://github.com/forestgeo/fgeo

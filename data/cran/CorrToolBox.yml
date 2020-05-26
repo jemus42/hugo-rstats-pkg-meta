@@ -1,0 +1,14 @@
+version: 1.6.2
+title: |-
+  Modeling Correlational Magnitude Transformations in
+  Discretization Contexts
+maintainer: Ran Gao
+description: Modeling the correlation transitions under specified distributional assumptions
+  within the realm of discretization in the context of the latency and threshold concepts.
+  The details of the method are explained in Demirtas, H. and Vardar-Acar, C. (2017)
+  <DOI:10.1007/978-981-10-3307-0_4>.
+date_publication: '2020-03-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CorrToolBox
+url_git: ''

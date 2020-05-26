@@ -1,0 +1,15 @@
+version: 0.3-2
+title: |-
+  'DEoptim' and 'DEoptimR' Plugin for the 'R' Optimization
+  Interface
+maintainer: Florian Schwendinger
+description: |-
+  Enhances the R Optimization Infrastructure ('ROI') package
+  with the 'DEoptim' and 'DEoptimR' package. 'DEoptim' is
+  used for unconstrained optimization and 'DEoptimR' for
+  constrained optimization.
+date_publication: '2019-01-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ROI.plugin.deoptim
+url_git: http://R-Forge.R-project.org/projects/roi

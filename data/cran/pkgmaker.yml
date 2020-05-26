@@ -1,0 +1,17 @@
+version: 0.31.1
+title: Development Utilities for R Packages
+maintainer: Renaud Gaujoux
+description: |-
+  Provides some low-level utilities to use for package
+  development. It currently provides managers for multiple package specific
+  options and registries, vignette, unit test and bibtex related utilities.
+  It serves as a base package for packages like NMF, RcppOctave, doRNG, and
+  as an incubator package for other general purposes utilities, that will
+  eventually be packaged separately.
+  It is still under heavy development and changes in the interface(s) are
+  more than likely to happen.
+date_publication: '2020-03-19'
+bug_reports: http://github.com/renozao/pkgmaker/issues
+url: https://renozao.github.io/pkgmaker
+url_cran: https://CRAN.R-project.org/package=pkgmaker
+url_git: ''

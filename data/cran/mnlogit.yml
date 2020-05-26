@@ -1,0 +1,13 @@
+version: 1.2.6
+title: Multinomial Logit Model
+maintainer: Asad Hasan
+description: Time and memory efficient estimation of multinomial logit models using
+  maximum likelihood method. Numerical optimization performed by Newton-Raphson method
+  using an optimized, parallel C++ library to achieve fast computation of Hessian
+  matrices. Motivated by large scale multiclass classification problems in econometrics
+  and machine learning.
+date_publication: '2019-05-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mnlogit
+url_git: ''

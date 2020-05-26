@@ -1,0 +1,10 @@
+version: 1.1.0
+title: Implement Material Design in Shiny Applications
+maintainer: Eric Anderson
+description: Allows shiny developers to incorporate UI elements based on Google's
+  Material design. See <https://material.io/guidelines/> for more information.
+date_publication: '2020-05-17'
+bug_reports: ''
+url: https://ericrayanderson.github.io/shinymaterial/
+url_cran: https://CRAN.R-project.org/package=shinymaterial
+url_git: ''

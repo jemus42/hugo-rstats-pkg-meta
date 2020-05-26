@@ -1,0 +1,19 @@
+version: 0.9-51
+title: |-
+  L1 (Lasso and Fused Lasso) and L2 (Ridge) Penalized Estimation
+  in GLMs and in the Cox Model
+maintainer: ORPHANED
+description: |-
+  Fitting possibly high dimensional penalized
+  regression models. The penalty structure can be any combination
+  of an L1 penalty (lasso and fused lasso), an L2 penalty (ridge) and a
+  positivity constraint on the regression coefficients. The
+  supported regression models are linear, logistic and Poisson
+  regression and the Cox Proportional Hazards model.
+  Cross-validation routines allow optimization of the tuning
+  parameters.
+date_publication: '2018-07-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=penalized
+url_git: ''

@@ -1,0 +1,10 @@
+version: 0.1.1
+title: Diffusion Kernels on a Set of Genotypes
+maintainer: Gota Morota
+description: Compute diffusion kernels on DNA polymorphisms, including SNP and bi-allelic
+  genotypes.
+date_publication: '2015-06-01'
+bug_reports: ''
+url: http://morotalab.org/
+url_cran: https://CRAN.R-project.org/package=dkDNA
+url_git: ''

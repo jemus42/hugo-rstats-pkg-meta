@@ -1,0 +1,13 @@
+version: 1.1-5
+title: Bayesian and Likelihood Analysis of Dynamic Linear Models
+maintainer: Giovanni Petris
+description: |-
+  Provides routines for Maximum likelihood,
+  Kalman filtering and smoothing, and Bayesian
+  analysis of Normal linear State Space models, also known as
+  Dynamic Linear Models.
+date_publication: '2018-06-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dlm
+url_git: ''

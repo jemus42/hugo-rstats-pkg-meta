@@ -1,0 +1,11 @@
+version: 0.9.4
+title: Load Census TIGER/Line Shapefiles
+maintainer: Kyle Walker
+description: |-
+  Download TIGER/Line shapefiles from the United States Census Bureau
+  (<https://www.census.gov/geo/maps-data/data/tiger-line.html>) and load into R as 'SpatialDataFrame' or 'sf' objects.
+date_publication: '2020-04-01'
+bug_reports: https://github.com/walkerke/tigris/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tigris
+url_git: https://github.com/walkerke/tigris

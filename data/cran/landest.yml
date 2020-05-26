@@ -1,0 +1,10 @@
+version: '1.0'
+title: Landmark Estimation of Survival and Treatment Effect
+maintainer: Layla Parast
+description: Provides functions to estimate survival and a treatment effect using
+  a landmark estimation approach.
+date_publication: '2015-11-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=landest
+url_git: ''

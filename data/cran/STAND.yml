@@ -1,0 +1,19 @@
+version: '2.0'
+title: Statistical Analysis of Non-Detects
+maintainer: E. P. Adams
+description: |-
+  Provides functions for the analysis of
+  occupational and environmental data with non-detects. Maximum
+  likelihood (ML) methods for censored log-normal data and
+  non-parametric methods based on the product limit estimate (PLE)
+  for left censored data are used to calculate all of the
+  statistics recommended by the American Industrial Hygiene
+  Association (AIHA) for the complete data case. Functions for
+  the analysis of complete samples using exact methods are also
+  provided for the lognormal model. Revised from 2007-11-05
+  'survfit~1'.
+date_publication: '2015-09-25'
+bug_reports: ''
+url: http://www.csm.ornl.gov/esh/statoed/
+url_cran: https://CRAN.R-project.org/package=STAND
+url_git: ''

@@ -1,0 +1,12 @@
+version: 2.1-6
+title: Wrapper for the Gnu Scientific Library
+maintainer: Robin K. S. Hankin
+description: |2-
+
+  An R wrapper for some of the functionality of the
+  Gnu Scientific Library.
+date_publication: '2019-03-25'
+bug_reports: https://github.com/RobinHankin/gsl/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gsl
+url_git: https://github.com/RobinHankin/gsl.git

@@ -1,0 +1,14 @@
+version: '2.0'
+title: |-
+  Fit Generalized Odds Rate Mixture Cure Model with Interval
+  Censored Data
+maintainer: Jie Zhou
+description: Generalized Odds Rate Mixture Cure (GORMC) model is a flexible model
+  of fitting survival data with a cure fraction, including the Proportional Hazards
+  Mixture Cure (PHMC) model and the Proportional Odds Mixture Cure Model as special
+  cases. This package fit the GORMC model with interval censored data.
+date_publication: '2017-01-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GORCure
+url_git: ''

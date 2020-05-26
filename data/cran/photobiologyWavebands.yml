@@ -1,0 +1,14 @@
+version: 0.4.4
+title: Waveband Definitions for UV, VIS, and IR Radiation
+maintainer: Pedro J. Aphalo
+description: |-
+  Constructors of waveband objects for commonly used biological
+  spectral weighting functions (BSWFs) and for different wavebands describing
+  named ranges of wavelengths in the ultraviolet (UV), visible (VIS)
+  and infrared (IR) regions of the electromagnetic spectrum.  Part of the
+  'r4photobiology' suite, Aphalo P. J. (2015) <doi:10.19232/uv4pb.2015.1.14>.
+date_publication: '2020-04-28'
+bug_reports: https://bitbucket.org/aphalo/photobiologywavebands/issues
+url: https://docs.r4photobiology.info/photobiologyWavebands/
+url_cran: https://CRAN.R-project.org/package=photobiologyWavebands
+url_git: https://bitbucket.org/aphalo/photobiologywavebands

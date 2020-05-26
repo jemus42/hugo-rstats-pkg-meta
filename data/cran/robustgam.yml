@@ -1,0 +1,15 @@
+version: 0.1.7
+title: Robust Estimation for Generalized Additive Models
+maintainer: Raymond K. W. Wong
+description: |-
+  This package provides robust estimation for generalized
+  additive models. It implements a fast and stable algorithm in
+  Wong, Yao and Lee (2013). The implementation also contains
+  three automatic selection methods for smoothing parameter. They
+  are designed to be robust to outliers. For more details, see
+  Wong, Yao and Lee (2013).
+date_publication: '2014-01-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=robustgam
+url_git: ''

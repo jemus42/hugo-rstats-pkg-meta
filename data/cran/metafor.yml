@@ -1,0 +1,22 @@
+version: 2.4-0
+title: Meta-Analysis Package for R
+maintainer: Wolfgang Viechtbauer
+description: A comprehensive collection of functions for conducting meta-analyses
+  in R. The package includes functions to calculate various effect sizes or outcome
+  measures, fit fixed-, random-, and mixed-effects models to such data, carry out
+  moderator and meta-regression analyses, and create various types of meta-analytical
+  plots (e.g., forest, funnel, radial, L'Abbe, Baujat, GOSH plots). For meta-analyses
+  of binomial and person-time data, the package also provides functions that implement
+  specialized methods, including the Mantel-Haenszel method, Peto's method, and a
+  variety of suitable generalized linear (mixed-effects) models (i.e., mixed-effects
+  logistic and Poisson regression models). Finally, the package provides functionality
+  for fitting meta-analytic multivariate/multilevel models that account for non-independent
+  sampling errors and/or true effects (e.g., due to the inclusion of multiple treatment
+  studies, multiple endpoints, or other forms of clustering). Network meta-analyses
+  and meta-analyses accounting for known correlation structures (e.g., due to phylogenetic
+  relatedness) can also be conducted.
+date_publication: '2020-03-19'
+bug_reports: https://github.com/wviechtb/metafor/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=metafor
+url_git: http://www.metafor-project.orghttps://github.com/wviechtb/metaforhttps://wviechtb.github.io/metafor/http://www.wvbauer.com

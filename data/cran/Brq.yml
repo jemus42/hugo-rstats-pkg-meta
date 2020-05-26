@@ -1,0 +1,9 @@
+version: '2.5'
+title: Bayesian Analysis of Quantile Regression Models
+maintainer: Rahim Alhamzawi  (University of Al-Qadisiyah)
+description: Bayesian estimation and variable selection for quantile regression models.
+date_publication: '2019-04-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Brq
+url_git: ''

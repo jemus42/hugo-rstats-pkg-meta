@@ -1,0 +1,12 @@
+version: 2.0.4
+title: Main Package of the EMU Speech Database Management System
+maintainer: Raphael Winkelmann
+description: |-
+  Provides the next iteration of the EMU Speech
+  Database Management System (EMU-SDMS) with database management, data
+  extraction, data preparation and data visualization facilities.
+date_publication: '2019-11-06'
+bug_reports: https://github.com/IPS-LMU/emuR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=emuR
+url_git: https://github.com/IPS-LMU/emuR

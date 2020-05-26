@@ -1,0 +1,13 @@
+version: 1.2.1
+title: Validation Tools for Artificial Neural Networks
+maintainer: Greer B. Humphrey
+description: |-
+  Methods and tools for analysing and validating the outputs
+  and modelled functions of artificial neural networks (ANNs) in terms
+  of predictive, replicative and structural validity. Also provides a
+  method for fitting feed-forward ANNs with a single hidden layer.
+date_publication: '2017-04-20'
+bug_reports: http://github.com/gbhumphrey1/validann/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=validann
+url_git: http://github.com/gbhumphrey1/validann

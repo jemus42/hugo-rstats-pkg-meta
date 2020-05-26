@@ -1,0 +1,15 @@
+version: 0.1.0
+title: Bayesian Latent Threshold Modeling
+maintainer: Julio Trecenti
+description: |-
+  Fits latent threshold model for simulated data
+  and describes how to adjust model using real data. Implements algorithm
+  proposed by Nakajima and West (2013) <doi:10.1080/07350015.2012.747847>.
+  This package has a function to generate data, a function to configure
+  priors and a function to fit the model. Examples may be checked inside
+  the demonstration files.
+date_publication: '2019-07-18'
+bug_reports: https://github.com/curso-r/bltm/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bltm
+url_git: https://github.com/curso-r/bltm

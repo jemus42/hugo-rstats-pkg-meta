@@ -1,0 +1,19 @@
+version: 0.3.1
+title: |-
+  Argentina's Permanent Household Survey Data and Manipulation
+  Utilities
+maintainer: Diego Kozlowski
+description: |-
+  Tools to download and manipulate the Permanent Household Survey from Argentina
+  (EPH is the Spanish acronym for Permanent Household Survey).
+  e.g: get_microdata() for downloading the datasets, get_poverty_lines() for downloading the official poverty baskets,
+  calculate_poverty() for the calculation of stating if a household is in poverty or not, following the official methodology.
+  organize_panels() is used to concatenate observations from different periods, and organize_labels()
+  adds the official labels to the data. The implemented methods are based on INDEC (2016) <http://www.estadistica.ec.gba.gov.ar/dpe/images/SOCIEDAD/EPH_metodologia_22_pobreza.pdf>.
+  As this package works with the argentinian Permanent Household Survey and its main audience is from this country,
+  the documentation was written in Spanish.
+date_publication: '2020-05-24'
+bug_reports: https://github.com/holatam/eph/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=eph
+url_git: https://github.com/holatam/eph

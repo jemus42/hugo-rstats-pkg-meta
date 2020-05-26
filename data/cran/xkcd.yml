@@ -1,0 +1,9 @@
+version: 0.0.6
+title: Plotting ggplot2 Graphics in an XKCD Style
+maintainer: Emilio Torres-Manzanera
+description: Plotting ggplot2 graphs using the XKCD style.
+date_publication: '2018-07-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=xkcd
+url_git: ''

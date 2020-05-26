@@ -1,0 +1,10 @@
+version: 1.2.0
+title: Information-Theoretic Measures
+maintainer: Patrick E. Meyer
+description: This package implements various measures of information theory based
+  on several entropy estimators.
+date_publication: '2014-07-26'
+bug_reports: ''
+url: http://homepage.meyerp.com/software
+url_cran: https://CRAN.R-project.org/package=infotheo
+url_git: ''

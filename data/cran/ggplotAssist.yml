@@ -1,0 +1,12 @@
+version: 0.1.3
+title: '''RStudio'' Addin for Teaching and Learning ''ggplot2'''
+maintainer: Keon-Woong Moon
+description: |-
+  An 'RStudio' addin for teaching and learning making plot using the 'ggplot2' package.
+  You can learn each steps of making plot by clicking your mouse without coding.
+  You can get resultant code for the plot.
+date_publication: '2017-11-12'
+bug_reports: https://github.com/cardiomoon/ggplotAssist/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggplotAssist
+url_git: https://github.com/cardiomoon/ggplotAssist

@@ -1,0 +1,11 @@
+version: 0.0-2
+title: Functions for estimating parameters in software reliability models
+maintainer: Andreas Wittmann
+description: |-
+  Functions for estimating parameters in software reliability models.
+  Only infinite failure models are implemented so far.
+date_publication: ''
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Reliability
+url_git: ''

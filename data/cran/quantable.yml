@@ -1,0 +1,13 @@
+version: 0.3.6
+title: Streamline Descriptive Analysis of Quantitative Data Matrices
+maintainer: Witold Wolski
+description: |-
+  Methods which streamline the descriptive analysis of quantitative
+  matrices. Matrix columns are samples while rows are features i.e. proteins, genes.
+  Includes methods for visualization (e.g. Heatmaps, Volcanos, pairwise QQ, Bland-Altman plot),
+  summary statistics (e.g. CV), data normalization methods (e.g. robustscale). Read function for Progenesis.
+date_publication: '2018-05-15'
+bug_reports: https://github.com/protViz/quantable/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=quantable
+url_git: https://github.com/protViz/quantable

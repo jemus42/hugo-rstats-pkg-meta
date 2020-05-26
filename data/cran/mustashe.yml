@@ -1,0 +1,14 @@
+version: 0.1.2
+title: Stash and Load Objects
+maintainer: Joshua H Cook
+description: |-
+  A simple system for saving and loading objects in
+  R. Long running computations can be stashed after the first run and
+  then reloaded the next time. Dependencies can be added to ensure that
+  a computation is re-run if any of its dependencies or inputs have
+  changed.
+date_publication: '2020-04-21'
+bug_reports: https://github.com/jhrcook/mustashe/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mustashe
+url_git: https://github.com/jhrcook/mustashehttps://jhrcook.github.io/mustashe/

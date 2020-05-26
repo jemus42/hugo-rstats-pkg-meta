@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Evaluating Individualized Treatment Rules
+maintainer: Michael Lingzhi Li
+description: A collection of statistical methods for evaluating individualized treatment
+  rules under randomized data. The provided metrics include PAV (Population Average
+  Value), PAPE (Population Average Prescription Effect), and AUPEC (Area Under Prescription
+  Effect Curve). It also provides the tools to analyze individualized treatment rules
+  under budget constraints. Imai and Li (2019) <arXiv:1905.05389>.
+date_publication: '2020-02-20'
+bug_reports: https://github.com/MichaelLLi/evalITR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=evalITR
+url_git: https://github.com/MichaelLLi/evalITR

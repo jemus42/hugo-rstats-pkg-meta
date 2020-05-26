@@ -1,0 +1,15 @@
+version: 3.0.3
+title: Antarctic Spatial Data Manipulation
+maintainer: Stephane Thanassekos
+description: |-
+  Loads and creates spatial data, including layers and tools that are relevant
+  to the activities of the Commission for the Conservation of Antarctic Marine Living
+  Resources. Provides two categories of functions: load functions and create functions.
+  Load functions are used to import existing spatial layers from the online CCAMLR GIS
+  such as the ASD boundaries. Create functions are used to create layers from user data
+  such as polygons and grids.
+date_publication: '2020-03-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CCAMLRGIS
+url_git: https://github.com/ccamlr/CCAMLRGIS

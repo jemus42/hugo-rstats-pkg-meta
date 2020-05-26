@@ -1,0 +1,9 @@
+version: 0.1.21
+title: The Ultimate Helper for Clumsy Fingers
+maintainer: Vincent Guyader
+description: Automatically suggests a correction when a typo occurs.
+date_publication: '2017-07-08'
+bug_reports: https://github.com/ThinkRstat/fcuk/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=fcuk
+url_git: https://github.com/ThinkRstat/fcuk

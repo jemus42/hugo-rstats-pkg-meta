@@ -1,0 +1,13 @@
+version: 0.6.1
+title: Adirondack Long-Term Lake Data
+maintainer: Luke Winslow
+description: |-
+  Package for the access and distribution of Long-term lake datasets from lakes in the
+  Adirondack Park, northern New York state. Includes a wide variety of physical, chemical, and
+  biological parameters from 28 lakes. Data are from multiple collection organizations and have
+  been harmonized in both time and space for ease of reuse.
+date_publication: '2018-02-16'
+bug_reports: https://github.com/lawinslow/adklakedata/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=adklakedata
+url_git: ''

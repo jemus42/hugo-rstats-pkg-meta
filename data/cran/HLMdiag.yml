@@ -1,0 +1,16 @@
+version: 0.3.1
+title: Diagnostic Tools for Hierarchical (Multilevel) Linear Models
+maintainer: Adam Loy
+description: |-
+  A suite of diagnostic tools for hierarchical
+  (multilevel) linear models. The tools include
+  not only leverage and traditional deletion diagnostics (Cook's
+  distance, covratio, covtrace, and MDFFITS) but also
+  convenience functions and graphics for residual analysis. Models
+  can be fit using either lmer in the 'lme4' package or lme in the 'nlme' package,
+  but only two-level models fit using lme are currently supported.
+date_publication: '2015-12-12'
+bug_reports: https://github.com/aloy/HLMdiag/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=HLMdiag
+url_git: https://github.com/aloy/HLMdiag

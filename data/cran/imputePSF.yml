@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Impute Missing Data in Time Series Data with PSF Based Method
+maintainer: Neeraj Bokde
+description: |-
+  Imputes the missing values in time series data with PSF algorithm based approach.
+  The details about PSF algorithm are available at:
+  <https://cran.r-project.org/package=PSF>.
+date_publication: '2016-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=imputePSF
+url_git: ''

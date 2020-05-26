@@ -1,0 +1,11 @@
+version: 0.0.1
+title: Implements Queue, PriorityQueue and Stack Classes
+maintainer: Andrew Collier
+description: |-
+  Provides three classes: Queue, PriorityQueue and Stack. Queue is just a
+  "plain vanilla" FIFO queue; PriorityQueue orders items according to priority. Stack implements LIFO.
+date_publication: '2016-08-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=liqueueR
+url_git: https://github.com/DataWookie/liqueueR

@@ -1,0 +1,14 @@
+version: 0.0.11
+title: Sparse VAR/VECM Models Estimation
+maintainer: Simone Vazzoler
+description: |-
+  A wrapper for sparse VAR/VECM time series models estimation
+  using penalties like ENET (Elastic Net), SCAD (Smoothly Clipped
+  Absolute Deviation) and MCP (Minimax Concave Penalty).
+  Based on the work of Sumanta Basu and George Michailidis
+  <doi:10.1214/15-AOS1315>.
+date_publication: '2019-08-19'
+bug_reports: http://github.com/svazzole/sparsevar
+url: ''
+url_cran: https://CRAN.R-project.org/package=sparsevar
+url_git: http://github.com/svazzole/sparsevar

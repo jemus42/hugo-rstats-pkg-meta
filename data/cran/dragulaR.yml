@@ -1,0 +1,13 @@
+version: 0.3.1
+title: |-
+  Drag and Drop Elements in 'Shiny' using 'Dragula Javascript
+  Library'
+maintainer: Zygmunt Zawadzki
+description: Move elements between containers in 'Shiny' without explicitly using
+  'JavaScript'. It can be used to build custom inputs or to change the positions of
+  user interface elements like plots or tables.
+date_publication: '2018-06-17'
+bug_reports: https://github.com/zzawadz/dragulaR/issues
+url: https://dragular.zstat.pl/
+url_cran: https://CRAN.R-project.org/package=dragulaR
+url_git: ''

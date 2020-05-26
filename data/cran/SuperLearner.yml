@@ -1,0 +1,11 @@
+version: 2.0-26
+title: Super Learner Prediction
+maintainer: Eric Polley
+description: |-
+  Implements the super learner prediction method and contains a
+  library of prediction algorithms to be used in the super learner.
+date_publication: '2019-12-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SuperLearner
+url_git: https://github.com/ecpolley/SuperLearner

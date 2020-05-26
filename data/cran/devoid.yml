@@ -1,0 +1,16 @@
+version: 0.1.0
+title: A Graphic Device that Does Nothing
+maintainer: Thomas Lin Pedersen
+description: |-
+  Provides a non-drawing graphic device for benchmarking purpose.
+  In order to properly benchmark graphic drawing code it is necessary
+  to factor out the device implementation itself so that results are not
+  related to the specific graphics device used during benchmarking. The
+  'devoid' package implements a graphic device that accepts all the required
+  calls from R's graphic engine but performs no action. Apart from
+  benchmarking it is unlikely that this device has any practical use.
+date_publication: '2019-05-03'
+bug_reports: https://github.com/r-lib/devoid/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=devoid
+url_git: https://github.com/r-lib/devoid

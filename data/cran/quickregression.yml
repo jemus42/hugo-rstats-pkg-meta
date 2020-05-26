@@ -1,0 +1,11 @@
+version: '0.2'
+title: Quick Linear Regression
+maintainer: Darshan Maniyar
+description: Helps to perform linear regression analysis by reducing manual effort.
+  Reduces the independent variables based on specified p-value and Variance Inflation
+  Factor (VIF) level.
+date_publication: '2017-07-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=quickregression
+url_git: ''

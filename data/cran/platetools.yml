@@ -1,0 +1,11 @@
+version: 0.1.3
+title: Tools and Plots for Multi-Well Plates
+maintainer: Scott Warchal
+description: |-
+  Collection of functions for working with multi-well microtitre
+  plates, mainly 96, 384 and 1536 well plates.
+date_publication: '2020-05-06'
+bug_reports: https://github.com/swarchal/platetools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=platetools
+url_git: https://github.com/swarchal/platetools

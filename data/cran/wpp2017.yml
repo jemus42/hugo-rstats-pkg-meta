@@ -1,0 +1,9 @@
+version: 1.2-3
+title: World Population Prospects 2017
+maintainer: Hana Sevcikova
+description: Provides data from the United Nation's World Population Prospects 2017.
+date_publication: '2020-02-10'
+bug_reports: ''
+url: http://population.un.org/wpp
+url_cran: https://CRAN.R-project.org/package=wpp2017
+url_git: ''

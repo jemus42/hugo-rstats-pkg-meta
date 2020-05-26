@@ -1,0 +1,13 @@
+version: '1.0'
+title: |-
+  A Tool for Identification of Differentially Expressed Pathways
+  using Multi-Statistic Comparison
+maintainer: Carla Fontoura
+description: An R tool suited to Affymetrix microarray data that combines three different
+  statistical tests (Bootstrap, Fisher exact and Wilcoxon signed rank) to evaluate
+  genetic pathway alterations.
+date_publication: '2016-06-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PATHChange
+url_git: ''

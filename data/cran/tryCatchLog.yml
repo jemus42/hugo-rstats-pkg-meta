@@ -1,0 +1,11 @@
+version: 1.1.6
+title: Advanced 'tryCatch()' and 'try()' Functions
+maintainer: Juergen Altfeld
+description: |-
+  Advanced tryCatch() and try() functions for better error handling
+  (logging, stack trace with source code references and support for post-mortem analysis via dump files).
+date_publication: '2019-11-06'
+bug_reports: https://github.com/aryoda/tryCatchLog/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tryCatchLog
+url_git: https://github.com/aryoda/tryCatchLog

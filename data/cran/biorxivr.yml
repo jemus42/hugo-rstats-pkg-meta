@@ -1,0 +1,13 @@
+version: 1.0.2
+title: Search and Download Papers from the bioRxiv Preprint Server
+maintainer: Silvia Liverani
+description: The bioRxiv preprint server (<https://www.biorxiv.org>) is a website
+  where scientists can post preprints of scholarly texts in biology. Users can search
+  and download PDFs in bulk from the preprint server. The text of abstracts are stored
+  as raw text within R, and PDFs can easily be saved and imported for text mining
+  with packages such as 'tm'.
+date_publication: '2020-05-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=biorxivr
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.2.1
+title: Graphical User Interface for the Package 'SPOT'
+maintainer: Frederik Rehbach
+description: |-
+  A graphical user interface for the Sequential Parameter Optimization Toolbox (package 'SPOT').
+  It includes a quick, graphical setup for spot, interactive 3D plots, export possibilities and more.
+date_publication: '2018-10-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spotGUI
+url_git: ''

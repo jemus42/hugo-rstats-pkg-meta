@@ -1,0 +1,13 @@
+version: 3.1.2
+title: Functions for Processing Accelerometer Data
+maintainer: Dane R. Van Domelen
+description: A collection of functions that perform operations on time-series accelerometer
+  data, such as identify non-wear time, flag minutes that are part of an activity
+  bout, and find the maximum 10-minute average count value. The functions are generally
+  very flexible, allowing for a variety of algorithms to be implemented. Most of the
+  functions are written in C++ for efficiency.
+date_publication: '2018-08-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=accelerometry
+url_git: ''

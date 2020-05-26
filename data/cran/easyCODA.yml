@@ -1,0 +1,15 @@
+version: 0.31.1
+title: Compositional Data Analysis in Practice
+maintainer: Michael Greenacre
+description: |-
+  Univariate and multivariate methods for compositional data
+  analysis, based on logratios. The package implements the approach in the
+  book Compositional Data Analysis in Practice by Michael Greenacre (2018),
+  where accent is given to simple pairwise logratios. Selection can be made
+  of logratios that account for a maximum percentage of logratio variance.
+  Various multivariate analyses of logratios are included in the package.
+date_publication: '2019-03-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=easyCODA
+url_git: https://github.com/michaelgreenacre/CODAinPractice/

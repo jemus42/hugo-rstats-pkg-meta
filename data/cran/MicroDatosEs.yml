@@ -1,0 +1,10 @@
+version: 0.8.2
+title: Utilities for Official Spanish Microdata
+maintainer: Carlos J. Gil Bellosta
+description: Provides utilities for reading and processing microdata from Spanish
+  official statistics with R.
+date_publication: '2016-08-26'
+bug_reports: ''
+url: http://www.datanalytics.com/2012/08/06/un-paseo-por-el-paquete-microdatoses-y-la-epa-de-nuevo/
+url_cran: https://CRAN.R-project.org/package=MicroDatosEs
+url_git: ''

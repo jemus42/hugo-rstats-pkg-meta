@@ -1,0 +1,10 @@
+version: '1.1'
+title: Empirical Likelihood (EL) for Comparing Two Survival Functions
+maintainer: Guo-You Lan
+description: Functions for computing critical values and implementing the one-sided/two-sided
+  EL tests.
+date_publication: '2018-08-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EL2Surv
+url_git: ''

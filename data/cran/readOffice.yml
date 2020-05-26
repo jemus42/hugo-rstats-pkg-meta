@@ -1,0 +1,11 @@
+version: 0.2.2
+title: Read Text Out of Modern Office Files
+maintainer: Mark Ewing
+description: |-
+  Reads in text from 'unstructured' modern Microsoft Office files (XML based files) such as Word and PowerPoint.
+  This does not read in structured data (from Excel or Access) as there are many other great packages to that do so already.
+date_publication: '2017-03-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=readOffice
+url_git: ''

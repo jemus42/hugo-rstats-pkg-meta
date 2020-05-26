@@ -1,0 +1,9 @@
+version: 0.0-24
+title: TK Rplot
+maintainer: Luke Tierney
+description: Simple mechanism for placing R graphics in a Tk widget.
+date_publication: '2018-07-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tkrplot
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.0.1
+title: Turn HTML 'Shiny'
+maintainer: Nicholas Jhirad
+description: |-
+  Contains functions for converting existing HTML/JavaScript
+  source into equivalent 'shiny' functions. Bootstraps the process of making
+  new 'shiny' functions by allowing us to turn HTML snippets directly into
+  R functions.
+date_publication: '2017-07-05'
+bug_reports: https://github.com/shapenaji/midas/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=midas
+url_git: ''

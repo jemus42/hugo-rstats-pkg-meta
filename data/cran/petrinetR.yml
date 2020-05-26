@@ -1,0 +1,12 @@
+version: 0.2.1
+title: Building, Visualizing, Exporting and Replaying Petri Nets
+maintainer: Gert Janssenswillen
+description: |-
+  Functions for the construction of Petri Nets. Petri Nets can be replayed by firing enabled transitions.
+  Silent transitions will be hidden by the execution handler. Also includes functionalities for the visualization of Petri Nets and
+  export of Petri Nets to PNML (Petri Net Markup Language) files.
+date_publication: '2019-03-08'
+bug_reports: https://github.com/gertjanssenswillen/petrinetR/issues
+url: https://www.bupar.net
+url_cran: https://CRAN.R-project.org/package=petrinetR
+url_git: ''

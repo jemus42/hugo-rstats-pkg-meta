@@ -1,0 +1,9 @@
+version: 1.0-3
+title: Variable Descriptions
+maintainer: Torsten Hothorn
+description: Abstract descriptions of (yet) unobserved variables.
+date_publication: '2020-02-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=variables
+url_git: http://ctm.R-forge.R-project.org

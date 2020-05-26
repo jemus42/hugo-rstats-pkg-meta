@@ -1,0 +1,13 @@
+version: 0.2.1
+title: |-
+  Find Code Snippets, R Scripts, R Markdown, PDF and Text Files
+  with Pattern Matching
+maintainer: David Zumbach
+description: |-
+  Scans all directories and subdirectories of a path for code snippets, R scripts,
+  R Markdown, PDF or text files containing a specific pattern.  Files found can be copied to a new folder.
+date_publication: '2018-03-13'
+bug_reports: https://github.com/zumbov2/findR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=findR
+url_git: ''

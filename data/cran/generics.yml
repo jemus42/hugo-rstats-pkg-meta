@@ -1,0 +1,13 @@
+version: 0.0.2
+title: |-
+  Common S3 Generics not Provided by Base R Methods Related to
+  Model Fitting
+maintainer: Max Kuhn
+description: |-
+  In order to reduce potential package dependencies and conflicts,
+  generics provides a number of commonly used S3 generics.
+date_publication: '2018-11-29'
+bug_reports: https://github.com/r-lib/generics
+url: ''
+url_cran: https://CRAN.R-project.org/package=generics
+url_git: https://github.com/r-lib/generics

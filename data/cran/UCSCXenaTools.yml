@@ -1,0 +1,12 @@
+version: 1.3.1
+title: Download and Explore Datasets from UCSC Xena Data Hubs
+maintainer: Shixiang Wang
+description: |-
+  Download and explore datasets from UCSC Xena data hubs, which are
+  a collection of UCSC-hosted public databases such as TCGA, ICGC, TARGET, GTEx, CCLE, and others.
+  Databases are normalized so they can be combined, linked, filtered, explored and downloaded.
+date_publication: '2020-03-18'
+bug_reports: https://github.com/ropensci/UCSCXenaTools/issues
+url: https://docs.ropensci.org/UCSCXenaTools
+url_cran: https://CRAN.R-project.org/package=UCSCXenaTools
+url_git: https://github.com/ropensci/UCSCXenaTools

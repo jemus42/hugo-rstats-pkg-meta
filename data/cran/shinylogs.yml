@@ -1,0 +1,11 @@
+version: 0.1.7
+title: Record Everything that Happens in a 'Shiny' Application
+maintainer: Victor Perrier
+description: |-
+  Track and record the use of applications and the user's interactions with 'Shiny' inputs.
+  Allow to save inputs clicked, output generated and eventually errors.
+date_publication: '2019-08-21'
+bug_reports: https://github.com/dreamRs/shinylogs/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinylogs
+url_git: https://github.com/dreamRs/shinylogs

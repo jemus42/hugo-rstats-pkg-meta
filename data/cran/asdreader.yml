@@ -1,0 +1,15 @@
+version: 0.1-3
+title: Reading ASD Binary Files in R
+maintainer: Pierre Roudier
+description: |-
+  A simple driver that reads binary data created by the ASD Inc.
+  portable spectrometer instruments, such as the FieldSpec (for more information,
+  see <http://www.asdi.com/products/fieldspec-spectroradiometers>). Spectral data
+  can be extracted from the ASD files as raw (DN), white reference, radiance, or
+  reflectance. Additionally, the metadata information contained in the ASD file
+  header can also be accessed.
+date_publication: '2017-09-13'
+bug_reports: http://github.com/pierreroudier/asdreader/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=asdreader
+url_git: http://github.com/pierreroudier/asdreader

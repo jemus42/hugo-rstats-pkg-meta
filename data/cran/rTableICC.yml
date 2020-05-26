@@ -1,0 +1,15 @@
+version: 1.0.7
+title: Random Generation of Contingency Tables
+maintainer: Haydar Demirhan
+description: Contains functions for random generation of R x C and 2 x 2 x K contingency
+  tables. In addition to the generation of contingency tables over predetermined intraclass-correlated
+  clusters, it is possible to generate contingency tables without intraclass correlations
+  under product multinomial, multinomial, and Poisson sampling plans. It also consists
+  of a function for generation of random data from a given discrete probability distribution
+  function. See Demirhan (2016) <https://journal.r-project.org/archive/2016-1/demirhan.pdf>
+  for more information.
+date_publication: '2018-05-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rTableICC
+url_git: ''

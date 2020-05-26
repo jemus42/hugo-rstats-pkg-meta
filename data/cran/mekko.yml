@@ -1,0 +1,13 @@
+version: 0.1.0
+title: 'Variable Width Bar Charts: Bar Mekko'
+maintainer: Eric Rynerson
+description: |-
+  Create variable width bar charts i.e.
+  "bar mekko" charts to include important quantitative context.
+  Closely related to mosaic, spine (or spinogram), matrix,
+  submarine, olympic, Mondrian or product plots and tree maps.
+date_publication: '2018-01-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mekko
+url_git: ''

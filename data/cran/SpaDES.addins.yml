@@ -1,0 +1,11 @@
+version: 0.1.2
+title: Development Tools for 'SpaDES' and 'SpaDES' Modules
+maintainer: Alex M Chubaty
+description: |-
+  Provides 'RStudio' addins for 'SpaDES' packages and 'SpaDES' module
+  development. See '?SpaDES.addins' for an overview of the tools provided.
+date_publication: '2019-02-03'
+bug_reports: https://github.com/PredictiveEcology/SpaDES.addins/issues
+url: http://spades-addins.predictiveecology.org/
+url_cran: https://CRAN.R-project.org/package=SpaDES.addins
+url_git: https://github.com/PredictiveEcology/SpaDES.addins

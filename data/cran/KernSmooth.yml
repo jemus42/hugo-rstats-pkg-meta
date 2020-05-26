@@ -1,0 +1,12 @@
+version: 2.23-17
+title: Functions for Kernel Smoothing Supporting Wand & Jones (1995)
+maintainer: Brian Ripley
+description: |-
+  Functions for kernel smoothing (and density estimation)
+  corresponding to the book:
+  Wand, M.P. and Jones, M.C. (1995) "Kernel Smoothing".
+date_publication: '2020-04-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=KernSmooth
+url_git: ''

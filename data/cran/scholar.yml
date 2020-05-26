@@ -1,0 +1,12 @@
+version: 0.1.7
+title: Analyse Citation Data from Google Scholar
+maintainer: Guangchuang Yu
+description: |-
+  Provides functions to extract citation data from Google
+  Scholar.  Convenience functions are also provided for comparing
+  multiple scholars and predicting future h-index values.
+date_publication: '2018-07-03'
+bug_reports: https://github.com/jkeirstead/scholar/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=scholar
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.2.5
+title: Tidyverse-Style Interface for Geocoding
+maintainer: Jesse Cambon
+description: An intuitive tidyverse-style interface for geocoding. Obtains latitude
+  and longitude coordinates in tibble format from addresses. The currently supported
+  services are the US Census geocoder and Nominatim (OSM).
+date_publication: '2020-03-22'
+bug_reports: https://github.com/jessecambon/tidygeocoder/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tidygeocoder
+url_git: https://github.com/jessecambon/tidygeocoder

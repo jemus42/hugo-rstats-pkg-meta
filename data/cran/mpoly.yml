@@ -1,0 +1,9 @@
+version: 1.1.1
+title: Symbolic Computation and More with Multivariate Polynomials
+maintainer: David Kahle
+description: Symbolic computing with multivariate polynomials in R.
+date_publication: '2020-02-20'
+bug_reports: https://github.com/dkahle/mpoly/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mpoly
+url_git: https://github.com/dkahle/mpoly

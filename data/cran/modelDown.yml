@@ -1,0 +1,18 @@
+version: '1.1'
+title: Make Static HTML Website for Predictive Models
+maintainer: Kamil Romaszko
+description: |-
+  Website generator with HTML summaries for predictive models.
+  This package uses 'DALEX' explainers to describe global model behavior.
+  We can see how well models behave (tabs: Model Performance, Auditor),
+  how much each variable contributes to predictions (tabs: Variable Response)
+  and which variables are the most important for a given model (tabs: Variable Importance).
+  We can also compare Concept Drift for pairs of models (tabs: Drifter).
+  Additionally, data available on the website can be easily recreated in current R session.
+  Work on this package was financially supported by the NCN Opus grant 2017/27/B/ST6/01307
+  at Warsaw University of Technology, Faculty of Mathematics and Information Science.
+date_publication: '2020-04-15'
+bug_reports: https://github.com/ModelOriented/modelDown/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=modelDown
+url_git: https://github.com/ModelOriented/modelDown

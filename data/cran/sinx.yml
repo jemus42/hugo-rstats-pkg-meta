@@ -1,0 +1,12 @@
+version: 0.0.13
+title: Sino Xmen Said
+maintainer: Peng Zhao
+description: Displays a pseudorandom message from a database of quotations. It works
+  as an advanced version of the package 'fortunes', while 'sinx' supports multi-byte
+  languages such as Chinese. The databases of 'sinx' can be given in markdown format,
+  which is easier and more friendly than spread sheets for users.
+date_publication: '2020-05-17'
+bug_reports: https://github.com/pzhaonet/sinx/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sinx
+url_git: https://github.com/pzhaonet/sinx

@@ -1,0 +1,15 @@
+version: 1.0-1
+title: |-
+  Variable Selection for Optimal Individualized Dynamic Treatment
+  Regime
+maintainer: Chengchun Shi
+description: |-
+  Sequential advantage selection (SAS, Fan, Lu and Song, 2016) <arXiv:1405.5239>
+  and penalized A-learning (PAL, Shi, et al., 2018) methods are implement for selecting
+  important variables involved in optimal individualized (dynamic) treatment regime in
+  both single-stage or multi-stage studies.
+date_publication: '2018-09-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ITRSelect
+url_git: ''

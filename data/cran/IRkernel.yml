@@ -1,0 +1,12 @@
+version: '1.1'
+title: Native R Kernel for the 'Jupyter Notebook'
+maintainer: Philipp Angerer
+description: |2-
+
+  The R kernel for the 'Jupyter' environment executes R code which the front-end
+  ('Jupyter Notebook' or other front-ends) submits to the kernel via the network.
+date_publication: '2019-12-06'
+bug_reports: https://github.com/IRkernel/IRkernel/issues/
+url: https://irkernel.github.io
+url_cran: https://CRAN.R-project.org/package=IRkernel
+url_git: ''

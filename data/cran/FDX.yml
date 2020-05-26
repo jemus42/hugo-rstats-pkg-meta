@@ -1,0 +1,13 @@
+version: 1.0.1
+title: |-
+  False Discovery Exceedance Controlling Multiple Testing
+  Procedures
+maintainer: Florian Junge
+description: Multiple testing procedures for heterogeneous and discrete tests as described
+  in Döhler and Roquain (2019) <arXiv:1912.04607v1>. The main algorithms of the paper
+  are available as continuous, discrete and weighted versions.
+date_publication: '2020-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FDX
+url_git: ''

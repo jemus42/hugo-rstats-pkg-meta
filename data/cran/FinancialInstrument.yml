@@ -1,0 +1,11 @@
+version: 1.3.1
+title: Financial Instrument Model Infrastructure and Meta-Data
+maintainer: Ross Bennett
+description: |-
+  Infrastructure for defining meta-data and
+  relationships for financial instruments.
+date_publication: '2018-01-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FinancialInstrument
+url_git: https://github.com/braverock/FinancialInstrument

@@ -1,0 +1,13 @@
+version: 1.0-3
+title: Dynamic Path Approach
+maintainer: Emile Chappin
+description: A GUI or command-line operated data analysis tool, for<U+000a>analyzing
+  time-dependent simulation data in which multiple<U+000a>instantaneous or time-lagged
+  relations are assumed. This<U+000a>package uses Structural Equation Modeling (the
+  sem package). It<U+000a>is aimed to deal with time-dependent data and estimate whether<U+000a>a
+  causal diagram fits data from an (agent-based) simulation<U+000a>model.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dpa
+url_git: ''

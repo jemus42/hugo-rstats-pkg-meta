@@ -1,0 +1,14 @@
+version: 0.5-1
+title: Exact Variable-Subset Selection in Linear Regression
+maintainer: Marc Hofmann
+description: |-
+  Exact and approximation algorithms for variable-subset
+  selection in ordinary linear regression models.  Either compute all
+  submodels with the lowest residual sum of squares, or determine the
+  single-best submodel according to a pre-determined statistical
+  criterion.  Hofmann et al. (2020) <10.18637/jss.v093.i03>.
+date_publication: '2020-05-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lmSubsets
+url_git: https://github.com/marc-hofmann/lmSubsets.R

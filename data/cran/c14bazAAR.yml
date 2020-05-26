@@ -1,0 +1,10 @@
+version: 1.2.0
+title: Download and Prepare C14 Dates from Different Source Databases
+maintainer: Clemens Schmid
+description: Query different C14 date databases and apply basic data cleaning, merging
+  and calibration steps.
+date_publication: '2020-01-12'
+bug_reports: https://github.com/ropensci/c14bazAAR/issues
+url: https://docs.ropensci.org/c14bazAAR
+url_cran: https://CRAN.R-project.org/package=c14bazAAR
+url_git: https://github.com/ropensci/c14bazAAR

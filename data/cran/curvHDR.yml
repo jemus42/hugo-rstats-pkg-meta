@@ -1,0 +1,12 @@
+version: 1.2-1
+title: Filtering of Flow Cytometry Samples
+maintainer: Matt Wand
+description: |-
+  Filtering, also known as gating, of flow cytometry samples using
+  the curvHDR method, which is described in Naumann, U., Luta, G. and
+  Wand, M.P. (2010) <DOI:10.1186/1471-2105-11-44>.
+date_publication: '2019-01-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=curvHDR
+url_git: ''

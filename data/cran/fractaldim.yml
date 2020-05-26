@@ -1,0 +1,10 @@
+version: 0.8-4
+title: Estimation of fractal dimensions
+maintainer: Hana Sevcikova
+description: Implements various methods for estimating fractal dimension of time series
+  and 2-dimensional data.
+date_publication: '2014-02-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fractaldim
+url_git: ''

@@ -1,0 +1,15 @@
+version: 1.0-5
+title: |-
+  Inference for Model-Free Between-Group Parameters for Censored
+  Survival Data
+maintainer: Miki Horiguchi
+description: Performs inference of several model-free group contrast measures, which
+  include difference/ratio of cumulative incidence rates at given time points, quantiles,
+  and restricted mean survival times (RMST). Two kinds of covariate adjustment procedures
+  (i.e., regression and augmentation) for inference of the metrics based on RMST are
+  also included.
+date_publication: '2017-06-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=surv2sampleComp
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.3.2
+title: Easily Add Markdown Help Files to 'shiny' App Elements
+maintainer: Chris Mason-Thom
+description: |-
+  Creates a lightweight way to add markdown helpfiles to 'shiny' apps,
+  using modal dialog boxes, with no need to observe each help button separately.
+date_publication: '2019-11-09'
+bug_reports: https://github.com/cwthom/shinyhelper/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinyhelper
+url_git: ''

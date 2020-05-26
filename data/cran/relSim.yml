@@ -1,0 +1,11 @@
+version: 0.3-1
+title: Relative Simulator
+maintainer: James M. Curran
+description: A set of tools to explore the behaviour statistics used for forensic
+  DNA interpretation when close relatives are involved. The package also offers some
+  useful tools for exploring other forensic DNA situations.
+date_publication: '2019-12-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=relSim
+url_git: ''

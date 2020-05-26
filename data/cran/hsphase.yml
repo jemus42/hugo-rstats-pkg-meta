@@ -1,0 +1,13 @@
+version: 2.0.2
+title: |-
+  Phasing, Pedigree Reconstruction, Sire Imputation and
+  Recombination Events Identification of Half-sib Families Using
+  SNP Data
+maintainer: Mohammad Ferdosi
+description: Identification of recombination events, haplotype reconstruction, sire
+  imputation and pedigree reconstruction using half-sib family SNP data.
+date_publication: '2018-11-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hsphase
+url_git: ''

@@ -1,0 +1,9 @@
+version: '3.1'
+title: Regression Subset Selection
+maintainer: Thomas Lumley
+description: Regression subset selection, including exhaustive search.
+date_publication: '2020-01-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=leaps
+url_git: ''

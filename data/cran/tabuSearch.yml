@@ -1,0 +1,10 @@
+version: 1.1.1
+title: Tabu Search Algorithm for Binary Configurations
+maintainer: Katarina Domijan
+description: Tabu search algorithm for binary configurations. A basic version of the
+  algorithm as described by Fouskakis and Draper (2007) <doi:10.1111/j.1751-5823.2002.tb00174.x>.
+date_publication: '2018-03-25'
+bug_reports: https://gitlab.com/domijank/tabuSearch/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tabuSearch
+url_git: ''

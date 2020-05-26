@@ -1,0 +1,12 @@
+version: '1.0'
+title: K-means using a target variable
+maintainer: Yohei Sato
+description: |-
+  The clustering by k-means of using the target variable.
+  To determine the number of clusters with the variance of
+  the target variable in the cluster.
+date_publication: '2014-03-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ykmeans
+url_git: ''

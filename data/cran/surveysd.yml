@@ -1,0 +1,14 @@
+version: 1.2.0
+title: |-
+  Survey Standard Error Estimation for Cumulated Estimates and
+  their Differences in Complex Panel Designs
+maintainer: Johannes Gussenbauer
+description: Calculate point estimates and their standard errors in complex household
+  surveys using bootstrap replicates. Bootstrapping considers survey design with a
+  rotating panel. A comprehensive description of the methodology can be found under
+  <https://statistikat.github.io/surveysd/articles/methodology.html>.
+date_publication: '2020-02-05'
+bug_reports: https://github.com/statistikat/surveysd/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=surveysd
+url_git: https://github.com/statistikat/surveysd

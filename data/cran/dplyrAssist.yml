@@ -1,0 +1,14 @@
+version: 0.1.0
+title: |-
+  RStudio Addin for Teaching and Learning Data Manipulation Using
+  'dplyr'
+maintainer: Keon-Woong Moon
+description: |-
+  An RStudio addin for teaching and learning data manipulation using the 'dplyr' package.
+  You can learn each steps of data manipulation by clicking your mouse without coding.
+  You can get resultant data (as a 'tibble') and the code for data manipulation.
+date_publication: '2017-09-04'
+bug_reports: https://github.com/cardiomoon/dplyrAssist/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dplyrAssist
+url_git: https://github.com/cardiomoon/dplyrAssist

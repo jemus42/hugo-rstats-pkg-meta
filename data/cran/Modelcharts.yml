@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Classification Model Charts
+maintainer: Krishna Harsha K H
+description: Provides two important functions for producing Gain chart and Lift chart
+  for any classification model.
+date_publication: '2018-03-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Modelcharts
+url_git: ''

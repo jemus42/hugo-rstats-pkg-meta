@@ -1,0 +1,10 @@
+version: '1.2'
+title: Positive definite sparse covariance estimators
+maintainer: Adam J. Rothman
+description: A package to compute and tune some positive definite and<U+000a>sparse
+  covariance estimators
+date_publication: '2013-06-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PDSCE
+url_git: ''

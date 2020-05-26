@@ -1,0 +1,14 @@
+version: '1.0'
+title: Making Sophisticated and Aesthetical Figures in R
+maintainer: Luis Diaz-Garcia
+description: Software that leverages the capabilities of Circos by manipulating data,
+  preparing configuration files, and running the Perl-native Circos directly from
+  the R environment with minimal user intervention. Circos is a novel software that
+  addresses the challenges in visualizing genetic data by creating circular ideograms
+  composed of tracks of heatmaps, scatter plots, line plots, histograms, links between
+  common markers, glyphs, text, and etc. Please see <http://www.circos.ca>.
+date_publication: '2017-01-22'
+bug_reports: ''
+url: http://cggl.horticulture.wisc.edu
+url_cran: https://CRAN.R-project.org/package=SOFIA
+url_git: ''

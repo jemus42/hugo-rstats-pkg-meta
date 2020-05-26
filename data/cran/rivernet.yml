@@ -1,0 +1,15 @@
+version: 1.2.1
+title: Read, Analyze and Plot River Networks
+maintainer: Peter Reichert
+description: |-
+  Functions for reading, analysing and plotting river networks.
+  For this package, river networks consist of sections and nodes with associated attributes,
+  e.g. to characterise their morphological, chemical and biological state.
+  The package provides functions to read this data from text files, to analyse the network
+  structure and network paths and regions consisting of sections and nodes that fulfill
+  prescribed criteria, and to plot the river network and associated properties.
+date_publication: '2020-02-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rivernet
+url_git: ''

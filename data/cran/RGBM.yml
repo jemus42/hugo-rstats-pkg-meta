@@ -1,0 +1,13 @@
+version: 1.0-8
+title: |-
+  LS-TreeBoost and LAD-TreeBoost for Gene Regulatory Network
+  Reconstruction
+maintainer: Raghvendra Mall
+description: Provides an implementation of Regularized LS-TreeBoost & LAD-TreeBoost
+  algorithm for Regulatory Network inference from any type of expression data (Microarray/RNA-seq
+  etc). See Mall et al (2017) <doi:10.1101/132670>.
+date_publication: '2018-01-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RGBM
+url_git: ''

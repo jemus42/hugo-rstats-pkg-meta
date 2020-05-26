@@ -1,0 +1,10 @@
+version: '1.0'
+title: Computations on Conics
+maintainer: Emanuel Huber
+description: Solve some conic related problems (intersection of conics with lines
+  and conics, arc length of an ellipse, polar lines, etc.).
+date_publication: '2014-12-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RConics
+url_git: ''

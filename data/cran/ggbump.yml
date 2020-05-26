@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Bump Chart and Sigmoid Curves
+maintainer: David Sjoberg
+description: A geom for ggplot to create bump plots. Can be good to use for showing
+  rank over time.
+date_publication: '2020-04-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggbump
+url_git: ''

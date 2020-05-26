@@ -1,0 +1,11 @@
+version: 0.0.1
+title: Google from the R Console
+maintainer: Michael W. Kearney
+description: |-
+  This is a wrapper for the command line tool 'googler', which can be
+  found at the following URL: <https://github.com/jarun/googler>.
+date_publication: '2019-09-04'
+bug_reports: https://github.com/mkearney/googler/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=googler
+url_git: https://github.com/mkearney/googler

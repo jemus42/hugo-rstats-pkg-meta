@@ -1,0 +1,11 @@
+version: 1.0.2
+title: Portable File Locking
+maintainer: Gábor Csárdi
+description: |-
+  Place an exclusive or shared lock on a file. It uses 'LockFile'
+  on Windows and 'fcntl' locks on Unix-like systems.
+date_publication: '2018-10-05'
+bug_reports: https://github.com/r-lib/filelock/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=filelock
+url_git: https://github.com/r-lib/filelock#readme

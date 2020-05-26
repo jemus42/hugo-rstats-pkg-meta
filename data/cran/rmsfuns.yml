@@ -1,0 +1,14 @@
+version: 1.0.0.1
+title: |-
+  Quickly View Data Frames in 'Excel', Build Folder Paths and
+  Create Date Vectors
+maintainer: Nico Katzke
+description: |-
+  Contains several useful navigation helper functions, including easily building
+  folder paths, quick viewing dataframes in 'Excel', creating date vectors and changing the
+  console prompt to reflect time.
+date_publication: '2020-05-05'
+bug_reports: https://github.com/nicktz/rmsfuns/issues
+url: https://rmsfuns.nfkatzke.com
+url_cran: https://CRAN.R-project.org/package=rmsfuns
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Generate Personality Insights Sunburst Diagrams
+maintainer: Steph Locke
+description: |-
+  Generates Personality Insights sunburst diagrams
+  based on 'IBM Watson' Personality Insights service output.
+date_publication: '2019-01-14'
+bug_reports: https://github.com/lockedata/ibmsunburst/issues
+url: https://lockedata.github.io/ibmsunburst/
+url_cran: https://CRAN.R-project.org/package=ibmsunburst
+url_git: https://github.com/lockedata/ibmsunburst

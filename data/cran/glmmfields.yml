@@ -1,0 +1,17 @@
+version: 0.1.3
+title: |-
+  Generalized Linear Mixed Models with Robust Random Fields for
+  Spatiotemporal Modeling
+maintainer: Sean C. Anderson
+description: |-
+  Implements Bayesian spatial and spatiotemporal models that
+  optionally allow for extreme spatial deviations through time. 'glmmfields'
+  uses a predictive process approach with random fields implemented through
+  a multivariate-t distribution instead of the usual multivariate normal.
+  Sampling is conducted with 'Stan'. References: Anderson and Ward (2019)
+  <doi:10.1002/ecy.2403>.
+date_publication: '2019-05-18'
+bug_reports: https://github.com/seananderson/glmmfields/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=glmmfields
+url_git: https://github.com/seananderson/glmmfields

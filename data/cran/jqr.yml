@@ -1,0 +1,13 @@
+version: 1.1.0
+title: Client for 'jq', a 'JSON' Processor
+maintainer: Scott Chamberlain
+description: |-
+  Client for 'jq', a 'JSON' processor (<https://stedolan.github.io/jq/>),
+  written in C. 'jq' allows the following with 'JSON' data: index into, parse,
+  do calculations, cut up and filter, change key names and values, perform
+  conditionals and comparisons, and more.
+date_publication: '2018-10-22'
+bug_reports: https://github.com/ropensci/jqr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=jqr
+url_git: https://github.com/ropensci/jqr

@@ -1,0 +1,9 @@
+version: 2016.7-1
+title: Time Frame Coding Kernel Extensions
+maintainer: Paul Gilbert
+description: Extensions and additional 'tframe' utilities.
+date_publication: '2016-08-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tframePlus
+url_git: http://tsanalysis.r-forge.r-project.org/

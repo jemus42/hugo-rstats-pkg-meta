@@ -1,0 +1,12 @@
+version: 0.5.4
+title: User Interface for Collecting and Analysing Social Networks
+maintainer: Bryan Gertzel
+description: |-
+  A 'Shiny' application for the interactive visualisation and
+  analysis of networks that also provides a web interface for collecting
+  social media data using 'vosonSML'.
+date_publication: '2020-05-20'
+bug_reports: https://github.com/vosonlab/VOSONDash/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=VOSONDash
+url_git: https://github.com/vosonlab/VOSONDash

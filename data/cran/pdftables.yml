@@ -1,0 +1,15 @@
+version: '0.1'
+title: Programmatic Conversion of PDF Tables
+maintainer: Eric Persson
+description: |-
+  Allows the user to convert PDF tables to formats more amenable to
+  analysis ('.csv', '.xml', or '.xlsx') by wrapping the PDFTables API.
+  In order to use the package, the user needs to sign up for an API account
+  on the PDFTables website (<https://pdftables.com/pdf-to-excel-api>).
+  The package works by taking a PDF file as input, uploading it to PDFTables,
+  and returning a file with the extracted data.
+date_publication: '2016-02-15'
+bug_reports: https://www.github.com/expersso/pdftables/issues
+url: https://pdftables.com
+url_cran: https://CRAN.R-project.org/package=pdftables
+url_git: https://www.github.com/expersso/pdftables

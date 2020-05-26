@@ -1,0 +1,15 @@
+version: 1.0.0
+title: A Generator of Multidimensional Noise
+maintainer: Thomas Lin Pedersen
+description: |-
+  Generation of natural looking noise has many application within
+  simulation, procedural generation, and art, to name a few. The 'ambient'
+  package provides an interface to the 'FastNoise' C++ library and allows for
+  efficient generation of perlin, simplex, worley, cubic, value, and white
+  noise with optional pertubation in either 2, 3, or 4 (in case of simplex and
+  white noise) dimensions.
+date_publication: '2020-03-21'
+bug_reports: https://github.com/thomasp85/ambient/issues
+url: https://ambient.data-imaginist.com
+url_cran: https://CRAN.R-project.org/package=ambient
+url_git: https://github.com/thomasp85/ambient

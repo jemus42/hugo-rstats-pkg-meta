@@ -1,0 +1,11 @@
+version: 0.3.0
+title: Fast DocumentTermMatrix and TermDocumentMatrix Creation
+maintainer: Tyler Rinker
+description: |-
+  Harness the power of 'quanteda', 'data.table' & 'stringi' to quickly generate 'tm' DocumentTermMatrix
+  and TermDocumentMatrix data structures.
+date_publication: '2017-12-16'
+bug_reports: http://github.com/trinker/gofastr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gofastr
+url_git: http://github.com/trinker/gofastr

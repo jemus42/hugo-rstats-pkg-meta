@@ -1,0 +1,12 @@
+version: 0.1.1
+title: An Interactive Environment for Learning Statistics
+maintainer: Daniel Walter
+description: |-
+  Allows students to use R as an interactive educational environment
+  for statistical concepts, ranging from p-values to confidence intervals
+  to stability in time series.
+date_publication: '2015-06-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=learnstats
+url_git: ''

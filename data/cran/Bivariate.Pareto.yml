@@ -1,0 +1,10 @@
+version: 1.0.3
+title: Bivariate Pareto Models
+maintainer: Jia-Han Shih
+description: Perform competing risks analysis under bivariate Pareto models. See Shih
+  et al. (2019) <doi:10.1080/03610926.2018.1425450> for details.
+date_publication: '2019-12-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Bivariate.Pareto
+url_git: ''

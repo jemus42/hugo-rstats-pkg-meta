@@ -1,0 +1,11 @@
+version: '0.2'
+title: Binary Dimensionality Reduction
+maintainer: Andrew J. Landgraf
+description: |-
+  Dimensionality reduction techniques for binary data including
+  logistic PCA.
+date_publication: '2016-03-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=logisticPCA
+url_git: https://github.com/andland/logisticPCA

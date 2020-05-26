@@ -1,0 +1,14 @@
+version: 1.1-2
+title: |-
+  Advanced Functionality for Performing and Evaluating Qualitative
+  Comparative Analysis
+maintainer: Alrik Thiem
+description: Provides advanced functionality for performing configurational comparative
+  research with Qualitative Comparative Analysis (QCA), including crisp-set, multi-value,
+  and fuzzy-set QCA. It also offers advanced tools for sensitivity diagnostics and
+  methodological evaluations of QCA.
+date_publication: '2018-01-11'
+bug_reports: ''
+url: http://www.alrik-thiem.net/;https://www.researchgate.net/profile/Alrik_Thiem
+url_cran: https://CRAN.R-project.org/package=QCApro
+url_git: ''

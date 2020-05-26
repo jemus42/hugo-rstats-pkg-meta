@@ -1,0 +1,9 @@
+version: 0.1.3
+title: Model Confidence Set Procedure
+maintainer: Leopoldo Catania
+description: Perform the model confidence set procedure of Hansen et al (2011) <doi:10.3982/ECTA5771>.
+date_publication: '2017-08-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MCS
+url_git: ''

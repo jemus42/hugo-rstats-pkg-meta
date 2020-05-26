@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Find All TODO Comments and More
+maintainer: Dominik Krzemiński
+description: This is a simple addin to 'RStudio' that finds all 'TODO', 'FIX ME',
+  'CHANGED' etc. comments in your project and shows them as a markers list.
+date_publication: '2020-03-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=todor
+url_git: ''

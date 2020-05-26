@@ -1,0 +1,13 @@
+version: 2.1.0
+title: Methods in Structural Reliability Analysis
+maintainer: Bertrand Iooss
+description: |-
+  Various reliability analysis methods for rare event inference:
+  1) computing failure probability (probability that the output of a numerical model exceeds a threshold),
+  2) computing quantiles of low or high-order,
+  3) Wilks formula to compute quantile(s) from a sample or the size of the required i.i.d. sample.
+date_publication: '2016-04-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mistral
+url_git: ''

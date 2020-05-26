@@ -1,0 +1,12 @@
+version: 1.0.1
+title: |-
+  Estimation of the Local False Discovery Rates by Type II Maximum
+  Likelihood Estimation
+maintainer: M. Padilla
+description: Suite of R functions for the estimation of the local false discovery
+  rate (LFDR) using Type II maximum likelihood estimation (MLE).
+date_publication: '2019-10-02'
+bug_reports: ''
+url: http://www.statomics.com
+url_cran: https://CRAN.R-project.org/package=LFDR.MLE
+url_git: ''

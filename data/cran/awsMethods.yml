@@ -1,0 +1,12 @@
+version: 1.1-1
+title: |-
+  Class and Methods Definitions for Packages 'aws', 'adimpro',
+  'fmri', 'dwi'
+maintainer: Joerg Polzehl
+description: Defines the method extract and provides 'openMP' support as needed in
+  several packages.
+date_publication: '2019-05-08'
+bug_reports: ''
+url: http://www.wias-berlin.de/software/imaging/
+url_cran: https://CRAN.R-project.org/package=awsMethods
+url_git: ''

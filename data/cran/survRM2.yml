@@ -1,0 +1,13 @@
+version: 1.0-2
+title: Comparing Restricted Mean Survival Time
+maintainer: Hajime Uno
+description: Performs two-sample comparisons using the restricted mean survival time
+  (RMST) as a summary measure of the survival time distribution. Three kinds of between-group
+  contrast metrics (i.e., the difference in RMST, the ratio of RMST and the ratio
+  of the restricted mean time lost (RMTL)) are computed. It performs an ANCOVA-type
+  covariate adjustment as well as unadjusted analyses for those measures.
+date_publication: '2017-02-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=survRM2
+url_git: ''

@@ -1,0 +1,15 @@
+version: '1.1'
+title: Analysing Conditional Income Distributions
+maintainer: Alexander Sohn
+description: Functions for the analysis of income distributions for subgroups of the
+  population as defined by a set of variables like age, gender, region, etc. This
+  entails a Kolmogorov-Smirnov test for a mixture distribution as well as functions
+  for moments, inequality measures, entropy measures and polarisation measures of
+  income distributions. This package thus aides the analysis of income inequality
+  by offering tools for the exploratory analysis of income distributions at the disaggregated
+  level.
+date_publication: '2016-02-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=acid
+url_git: ''

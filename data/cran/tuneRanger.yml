@@ -1,0 +1,10 @@
+version: '0.5'
+title: Tune Random Forest of the 'ranger' Package
+maintainer: Philipp Probst
+description: Tuning random forest with one line. The package is mainly based on the
+  packages 'ranger' and 'mlrMBO'.
+date_publication: '2019-04-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tuneRanger
+url_git: ''

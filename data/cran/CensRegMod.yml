@@ -1,0 +1,10 @@
+version: '1.0'
+title: Fits Normal and Student-t Censored Regression Model
+maintainer: Monique Bettio Massuia
+description: Fits univariate censored linear regression model under Normal or Student-t
+  distribution
+date_publication: '2015-01-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CensRegMod
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.1.4
+title: |-
+  Diagnostic Plot and Multivariate Summary Statistics of Weighted
+  Samples from Importance Sampling
+maintainer: Jouni Helske
+description: |-
+  Fast functions for effective sample size, weighted multivariate mean and variance computation,
+  and weight diagnostic plot for generic importance sampling type results.
+date_publication: '2020-05-24'
+bug_reports: https://github.com/helske/diagis/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=diagis
+url_git: ''

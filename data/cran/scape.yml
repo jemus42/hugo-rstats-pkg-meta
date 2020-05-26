@@ -1,0 +1,11 @@
+version: 2.3-2
+title: Statistical Catch-at-Age Plotting Environment
+maintainer: Arni Magnusson
+description: |-
+  Import, plot, and diagnose results from statistical
+  catch-at-age models, used in fisheries stock assessment.
+date_publication: '2018-05-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=scape
+url_git: ''

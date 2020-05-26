@@ -1,0 +1,11 @@
+version: 1.2.0
+title: Ellipse Summary Plot of Quantiles
+maintainer: Shinichiro Tomizono
+description: |-
+  Correlation chart of two set (x and y) of data.
+  Using Quantiles.  Visualize the effect of factor.
+date_publication: '2018-06-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=elliplot
+url_git: ''

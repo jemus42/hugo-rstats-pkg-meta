@@ -1,0 +1,14 @@
+version: '0.6'
+title: |-
+  Pseudo-Vectors Containing All Permutations, Combinations and
+  Subsets of Objects Taken from a Vector.
+maintainer: Richard Ambler
+description: |-
+  Class definitions and constructors for pseudo-vectors containing
+  all permutations, combinations and subsets of objects taken from a vector.
+  Simplifies working with structures commonly encountered in combinatorics.
+date_publication: '2014-09-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=trotter
+url_git: ''

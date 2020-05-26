@@ -1,0 +1,17 @@
+version: 0.1.7
+title: |-
+  Vector Logistic Smooth Transition Models / Realized Covariances
+  Construction
+maintainer: Andrea Bucci
+description: Allows the user to estimate a vector logistic smooth transition autoregressive
+  model via maximum log-likelihood or nonlinear least squares. It further permits
+  to test for linearity in the multivariate framework against a vector logistic smooth
+  transition autoregressive model with a single transition variable. The estimation
+  method is discussed in Terasvirta and Yang (2014, <doi:10.1108/S0731-9053(2013)0000031008>).
+  Also, realized covariances can be constructed from stock market prices or returns,
+  as explained in Andersen et al. (2001, <doi:10.1016/S0304-405X(01)00055-1>).
+date_publication: '2020-05-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=starvars
+url_git: https://github.com/andbucci/starvars

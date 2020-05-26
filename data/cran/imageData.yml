@@ -1,0 +1,17 @@
+version: 0.1-60
+title: |-
+  Aids in Processing and Plotting Data from a Lemna-Tec
+  Scananalyzer
+maintainer: Chris Brien
+description: |-
+  Note that 'imageData' has been superseded by 'growthPheno'.
+  The package 'growthPheno' incorporates all the functionality of
+  'imageData' and has functionality not available in 'imageData',
+  but some 'imageData' functions have been renamed.
+  The 'imageData' package is no longer maintained, but is retained
+  for legacy purposes.
+date_publication: '2020-03-22'
+bug_reports: ''
+url: http://chris.brien.name
+url_cran: https://CRAN.R-project.org/package=imageData
+url_git: ''

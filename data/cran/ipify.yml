@@ -1,0 +1,11 @@
+version: 0.2.0
+title: Query the Ipify Service
+maintainer: Greg Ceccarelli
+description: |-
+  Query the ipify service (<https://www.ipify.org>) to retrieve
+  this machine's public IP address.
+date_publication: '2020-04-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ipify
+url_git: ''

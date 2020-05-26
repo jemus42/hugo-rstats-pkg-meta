@@ -1,0 +1,12 @@
+version: '1.3'
+title: Receiver Operating Characteristics Surface
+maintainer: Tianwei Yu<tyu8@emory.edu>
+description: Plots the Receiver Operating Characteristics Surface for high-throughput
+  class-skewed data, calculates the Volume under the Surface (VUS) and the FDR-Controlled
+  Area Under the Curve (FCAUC), and conducts tests to compare two ROC surfaces. Computes
+  eROC curve and the corresponding AUC for imperfect reference standard.
+date_publication: '2016-09-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ROCS
+url_git: ''

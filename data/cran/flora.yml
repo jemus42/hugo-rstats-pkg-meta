@@ -1,0 +1,11 @@
+version: 0.3.4
+title: Tools for Interacting with the Brazilian Flora 2020
+maintainer: Gustavo Carvalho
+description: |-
+  Tools to quickly compile taxonomic and distribution data from
+  the Brazilian Flora 2020.
+date_publication: '2020-04-28'
+bug_reports: http://www.github.com/gustavobio/flora/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=flora
+url_git: http://www.github.com/gustavobio/flora

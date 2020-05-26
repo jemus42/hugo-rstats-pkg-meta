@@ -1,0 +1,9 @@
+version: 5.8-3.0
+title: R Version of GENetic Optimization Using Derivatives
+maintainer: Jasjeet Singh Sekhon
+description: A genetic algorithm plus derivative optimizer.
+date_publication: '2019-01-24'
+bug_reports: ''
+url: http://sekhon.berkeley.edu/rgenoud/
+url_cran: https://CRAN.R-project.org/package=rgenoud
+url_git: ''

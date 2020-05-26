@@ -1,0 +1,10 @@
+version: 0.1.5.9
+title: File Handlers for Genomic Data Analysis
+maintainer: Daniel Fischer
+description: A collection of I/O tools for handling the most commonly used genomic
+  datafiles, like fasta/-q, bed, gff, gtf, ped/map and vcf.
+date_publication: '2020-03-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GenomicTools.fileHandler
+url_git: ''

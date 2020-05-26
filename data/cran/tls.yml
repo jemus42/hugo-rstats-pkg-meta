@@ -1,0 +1,16 @@
+version: 0.1.0
+title: Tools of Total Least Squares in Error-in-Variables Models
+maintainer: Yan Li
+description: |-
+  Functions for point and interval estimation in
+  error-in-variables models via total least squares or
+  generalized total least squares method. See Golub and Van
+  Loan (1980) <doi:10.1137/0717073>, Gleser (1981)
+  <https://www.jstor.org/stable/2240867>, Ivan Markovsky
+  and Huffel (2007) <doi:10.1016/j.sigpro.2007.04.004> for
+  more information.
+date_publication: '2018-10-06'
+bug_reports: https://github.com/LiYanStat/tls/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tls
+url_git: https://github.com/LiYanStat/tls

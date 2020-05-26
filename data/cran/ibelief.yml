@@ -1,0 +1,16 @@
+version: '1.3'
+title: Belief Function Implementation
+maintainer: Kuang Zhou
+description: |-
+  Some basic functions to implement belief functions including:
+  transformation between belief functions using the method introduced by
+  Philippe Smets (arXiv:1304.1122 [cs.AI]), evidence combination, evidence
+  discounting, decision-making, and constructing masses. Currently, thirteen
+  combination rules and six decision rules are supported. It can also be
+  used to generate different types of random masses when working on belief
+  combination and conflict management.
+date_publication: '2019-10-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ibelief
+url_git: ''

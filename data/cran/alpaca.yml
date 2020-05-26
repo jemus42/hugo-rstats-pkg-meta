@@ -1,0 +1,17 @@
+version: 0.3.2
+title: Fit GLM's with High-Dimensional k-Way Fixed Effects
+maintainer: Amrei Stammann
+description: |-
+  Provides a routine to concentrate out factors with many levels during the
+  optimization of the log-likelihood function of the corresponding generalized linear model (glm).
+  The package is based on the algorithm proposed by Stammann (2018) <arXiv:1707.01815> and is
+  restricted to glm's that are based on maximum likelihood estimation and non-linear. It also offers
+  an efficient algorithm to recover estimates of the fixed effects in a post-estimation routine and
+  includes robust and multi-way clustered standard errors. Further the package provides analytical
+  bias corrections for binary choice models (logit and probit) derived by Fernandez-Val
+  and Weidner (2016) <doi:10.1016/j.jeconom.2015.12.014> and Hinz, Stammann, and Wanner (2019).
+date_publication: '2020-01-12'
+bug_reports: https://github.com/amrei-stammann/alpaca/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=alpaca
+url_git: https://github.com/amrei-stammann/alpaca

@@ -1,0 +1,9 @@
+version: 0.2.0
+title: Color Palettes Based on Fish Species
+maintainer: Nina M. D. Schiettekatte
+description: Implementation of color palettes based on fish species.
+date_publication: '2020-04-20'
+bug_reports: https://github.com/nschiett/fishualize/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=fishualize
+url_git: https://github.com/nschiett/fishualize

@@ -1,0 +1,12 @@
+version: 0.2.1
+title: Methods for Correlation Analysis
+maintainer: Dominique Makowski
+description: Lightweight package for computing different kinds of correlations, such
+  as partial correlations, Bayesian correlations, multilevel correlations, polychoric
+  correlations, biweight correlations, distance correlations and more. Relies on the
+  easystats ecosystem (Lüdecke, Waggoner & Makowski (2019) <doi:10.21105/joss.01412>).
+date_publication: '2020-05-05'
+bug_reports: https://github.com/easystats/correlation/issues
+url: https://easystats.github.io/correlation/
+url_cran: https://CRAN.R-project.org/package=correlation
+url_git: ''

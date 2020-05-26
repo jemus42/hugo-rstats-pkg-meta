@@ -1,0 +1,10 @@
+version: 0.1-2
+title: Statistical Power Simulation for Testing the Rasch Model
+maintainer: Takuya Yanagida
+description: Statistical power simulation for testing the Rasch Model based on a three-way
+  analysis of variance design with mixed classification.
+date_publication: '2015-09-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pwrRasch
+url_git: ''

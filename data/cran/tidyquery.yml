@@ -1,0 +1,9 @@
+version: 0.2.1
+title: Query 'R' Data Frames with 'SQL'
+maintainer: Ian Cook
+description: Use 'SQL' 'SELECT' statements to query 'R' data frames.
+date_publication: '2020-05-09'
+bug_reports: https://github.com/ianmcook/tidyquery/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tidyquery
+url_git: https://github.com/ianmcook/tidyquery

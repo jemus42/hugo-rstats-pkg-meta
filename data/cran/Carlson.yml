@@ -1,0 +1,13 @@
+version: 1.0.0
+title: Carlson Elliptic Integrals and Incomplete Elliptic Integrals
+maintainer: Stéphane Laurent
+description: Evaluation of the Carlson elliptic integrals and the incomplete elliptic
+  integrals with complex arguments. The implementations use Carlson's algorithms <doi.org/10.1007/BF02198293>.
+  Applications of elliptic integrals include probability distributions, geometry,
+  physics, mechanics, electrodynamics, statistical mechanics, astronomy, geodesy,
+  geodesics on conics, and magnetic field calculations.
+date_publication: '2020-03-04'
+bug_reports: https://github.com/stla/Carlson/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Carlson
+url_git: https://github.com/stla/Carlson

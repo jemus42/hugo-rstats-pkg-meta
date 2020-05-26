@@ -1,0 +1,13 @@
+version: 1.0.2
+title: Computational Methods for Numerical Analysis
+maintainer: James Howard
+description: |-
+  Provides the source and examples for James P. Howard, II,
+  "Computational Methods for Numerical Analysis with R,"
+  <http://howardjp.github.io/cmna/>, a book on numerical
+  methods in R.
+date_publication: '2019-07-23'
+bug_reports: https://github.com/howardjp/cmna/issues
+url: https://howardjp.github.io/cmna/
+url_cran: https://CRAN.R-project.org/package=cmna
+url_git: ''

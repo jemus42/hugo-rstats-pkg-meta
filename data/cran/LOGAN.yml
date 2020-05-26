@@ -1,0 +1,15 @@
+version: 1.0.0
+title: Log File Analysis in International Large-Scale Assessments
+maintainer: Denise Reis Costa
+description: |-
+  Enables users to handle the dataset cleaning for
+  conducting specific analyses with the log files from two international
+  educational assessments: the Programme for International Student Assessment
+  (PISA, <http://www.oecd.org/pisa/>) and the Programme for the International Assessment of Adult Competencies
+  (PIAAC, <http://www.oecd.org/skills/piaac/>). An illustration of the analyses can be found on the LOGAN Shiny app
+  (<https://loganpackage.shinyapps.io/shiny/>) on your browser.
+date_publication: '2019-05-04'
+bug_reports: https://github.com/derecost/LOGAN/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=LOGAN
+url_git: ''

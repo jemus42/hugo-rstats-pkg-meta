@@ -1,0 +1,14 @@
+version: 0.1.4
+title: Store Distance Matrices on Disk
+maintainer: Komala Sheshachala Srikanth
+description: Provides utilities to compute, store and access distance matrices on
+  disk as file-backed matrices provided by the 'bigstatsr' package. File-backed distance
+  matrices are stored as a symmetric matrix to facilitate out-of-memory operations
+  on file-backed matrix while the in-memory 'dist' object stores only the lower diagonal
+  elements. 'disto' provides an unified interface to work with in-memory and disk-based
+  distance matrices.
+date_publication: '2019-03-16'
+bug_reports: https://github.com/talegari/bigdist/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bigdist
+url_git: https://github.com/talegari/bigdist

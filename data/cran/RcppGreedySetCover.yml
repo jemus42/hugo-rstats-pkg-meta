@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Greedy Set Cover
+maintainer: Matthias Kaeding
+description: A fast implementation of the greedy algorithm for the set cover problem
+  using 'Rcpp'.
+date_publication: '2018-01-24'
+bug_reports: http://github.com/matthiaskaeding/RcppGreedySetCover/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcppGreedySetCover
+url_git: http://github.com/matthiaskaeding/RcppGreedySetCover

@@ -1,0 +1,11 @@
+version: 1.7.0.1
+title: R functions for NetWorkSpaces and Sleigh
+maintainer: REvolution Computing
+description: Provides coordination and parallel execution facilities,<U+000a>as well
+  as limited cross-language data exchange, using the<U+000a>netWorkSpaces server developed
+  by REvolution Computing
+date_publication: '2010-04-13'
+bug_reports: ''
+url: http://nws-r.sourceforge.net/
+url_cran: https://CRAN.R-project.org/package=nws
+url_git: ''

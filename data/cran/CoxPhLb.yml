@@ -1,0 +1,12 @@
+version: 1.2.0
+title: Analyzing Right-Censored Length-Biased Data
+maintainer: Chi Hyun Lee
+description: Performs analysis of right-censored length-biased data using Cox model.
+  It contains model fitting and checking, and the stationarity assumption test. The
+  model fitting and checking methods are described in Qin and Shen (2010) <doi:10.1111/j.1541-0420.2009.01287.x>
+  and Lee, Ning, and Shen (2018) <doi:10.1007/s10985-018-9422-y>.
+date_publication: '2019-04-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CoxPhLb
+url_git: ''

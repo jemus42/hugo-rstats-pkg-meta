@@ -1,0 +1,15 @@
+version: 1.0.1
+title: |-
+  Scelestial: Steiner Tree Based Single-Cell Lineage Tree
+  Inference
+maintainer: Mohammad Hadi Foroughmand Araabi
+description: |2-
+
+  Scelestial infers a lineage tree from single-cell DNA mutation matrix.
+  It generates a tree with approximately maximum parsimony through
+  a Steiner tree approximation algorithm.
+date_publication: '2020-03-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RScelestial
+url_git: ''

@@ -1,0 +1,10 @@
+version: '1.0'
+title: Open Trade Statistics API Wrapper and Utility Program
+maintainer: Mauricio Vargas
+description: Access 'Open Trade Statistics' API from R to download international trade
+  data.
+date_publication: '2020-04-03'
+bug_reports: https://github.com/ropensci/tradestatistics/issues
+url: https://docs.ropensci.org/tradestatistics/
+url_cran: https://CRAN.R-project.org/package=tradestatistics
+url_git: ''

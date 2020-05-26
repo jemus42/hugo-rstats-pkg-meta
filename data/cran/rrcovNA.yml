@@ -1,0 +1,14 @@
+version: 0.4-15
+title: |-
+  Scalable Robust Estimators with High Breakdown Point for
+  Incomplete Data
+maintainer: Valentin Todorov
+description: |-
+  Robust Location and Scatter Estimation and Robust
+  Multivariate Analysis with High Breakdown Point for Incomplete
+  Data (missing values) (Todorov et al. (2010) <doi:10.1007/s11634-010-0075-2>).
+date_publication: '2020-01-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rrcovNA
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.3-0
+title: Demographic Modelling Using Projection Matrices
+maintainer: Iain Stott
+description: |-
+  Tools for modelling populations and demography using matrix projection models,
+  with deterministic and stochastic model implementations. Includes population projection,
+  indices of short- and long-term population size and growth, perturbation analysis,
+  convergence to stability or stationarity, and diagnostic and manipulation tools.
+date_publication: '2018-03-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=popdemo
+url_git: ''

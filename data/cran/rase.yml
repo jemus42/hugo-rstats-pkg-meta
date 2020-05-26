@@ -1,0 +1,15 @@
+version: 0.3-3
+title: |-
+  Range Ancestral State Estimation for Phylogeography and
+  Comparative Analyses
+maintainer: Ignacio Quintero
+description: Implements the Range Ancestral State Estimation for phylogeography described
+  in Quintero, I., Keil, P., Jetz, W., & Crawford, F. W. (2015) <DOI:10.1093/sysbio/syv057>.
+  It also includes Bayesian inference of ancestral states under a Brownian Motion
+  model of character evolution and Maximum Likelihood estimation of rase for n-dimensional
+  data. Visualizing functions in 3D are implemented using the rgl package.
+date_publication: '2017-09-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rase
+url_git: ''

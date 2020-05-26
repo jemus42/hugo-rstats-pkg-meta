@@ -1,0 +1,12 @@
+version: 0.2.4
+title: |-
+  Flexible Pair-Copula Estimation in D-Vines using Bivariate
+  Penalized Splines
+maintainer: Christian Schellhase
+description: Flexible Pair-Copula Estimation in D-vines using Bivariate Penalized
+  Splines.
+date_publication: '2015-07-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=penDvine
+url_git: ''

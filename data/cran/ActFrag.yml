@@ -1,0 +1,15 @@
+version: 0.1.1
+title: |-
+  Activity Fragmentation Metrics Extracted from Minute Level
+  Activity Data
+maintainer: Junrui Di
+description: |-
+  Recent studies haven shown that, on top of total daily active/sedentary volumes, the time
+  accumulation strategies provide more sensitive information. This package provides functions to extract
+  commonly used fragmentation metrics to quantify such time accumulation strategies based on minute level
+  actigraphy-measured activity counts data.
+date_publication: '2020-02-11'
+bug_reports: https://github.com/junruidi/ActFrag/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ActFrag
+url_git: https://github.com/junruidi/ActFrag

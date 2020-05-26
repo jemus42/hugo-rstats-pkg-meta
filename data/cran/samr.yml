@@ -1,0 +1,10 @@
+version: '3.0'
+title: 'SAM: Significance Analysis of Microarrays'
+maintainer: Rob Tibshirani
+description: Significance Analysis of Microarrays for differential expression analysis,
+  RNAseq data and related problems.
+date_publication: '2018-10-16'
+bug_reports: ''
+url: https://statweb.stanford.edu/~tibs/SAM
+url_cran: https://CRAN.R-project.org/package=samr
+url_git: ''

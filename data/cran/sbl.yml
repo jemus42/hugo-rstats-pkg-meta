@@ -1,0 +1,12 @@
+version: 0.1.0
+title: |-
+  Sparse Bayesian Learning for QTL Mapping and Genome-Wide
+  Association Studies
+maintainer: Meiyue Wang
+description: Implements sparse Bayesian learning method for QTL mapping and genome-wide
+  association studies.
+date_publication: '2018-10-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sbl
+url_git: ''

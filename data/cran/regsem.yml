@@ -1,0 +1,13 @@
+version: 1.5.2
+title: Regularized Structural Equation Modeling
+maintainer: Ross Jacobucci
+description: |-
+  Uses both ridge and lasso penalties (and extensions) to penalize
+  specific parameters in structural equation models. The package offers additional
+  cost functions, cross validation, and other extensions beyond traditional structural
+  equation models. Also contains a function to perform exploratory mediation (XMed).
+date_publication: '2020-02-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=regsem
+url_git: ''

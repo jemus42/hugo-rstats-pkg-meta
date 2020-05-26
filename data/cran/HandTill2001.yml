@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Multiple Class Area under ROC Curve
+maintainer: Andreas Dominik Cullmann
+description: |-
+  An S4 implementation of Eq. (3) and Eq. (7) by
+  David J. Hand and Robert J. Till (2001) <DOI:10.1023/A:1010920819831>.
+date_publication: '2019-12-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HandTill2001
+url_git: https://gitlab.com/fvafrCU/HandTill2001

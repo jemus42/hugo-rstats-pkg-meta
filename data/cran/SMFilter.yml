@@ -1,0 +1,13 @@
+version: 1.0.3
+title: |-
+  Filtering Algorithms for the State Space Models on the Stiefel
+  Manifold
+maintainer: Yukai Yang
+description: Provides the filtering algorithms for the state space models on the Stiefel
+  manifold as well as the corresponding sampling algorithms for uniform, vector Langevin-Bingham
+  and matrix Langevin-Bingham distributions on the Stiefel manifold.
+date_publication: '2018-12-12'
+bug_reports: https://github.com/yukai-yang/SMFilter/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=SMFilter
+url_git: https://github.com/yukai-yang/SMFilter

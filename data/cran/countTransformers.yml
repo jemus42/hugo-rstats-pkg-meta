@@ -1,0 +1,11 @@
+version: 0.0.6
+title: Transform Counts in RNA-Seq Data Analysis
+maintainer: Zeyu Zhang
+description: 'Provide data transformation functions to transform counts in RNA-seq
+  data analysis. Please see the reference: Zhang Z, Yu D, Seo M, Hersh CP, Weiss ST,
+  Qiu W. (2019) <doi.org/10.1038/s41598-019-41315-w>.'
+date_publication: '2019-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=countTransformers
+url_git: ''

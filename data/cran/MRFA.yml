@@ -1,0 +1,15 @@
+version: '0.4'
+title: |-
+  Fitting and Predicting Large-Scale Nonlinear Regression Problems
+  using Multi-Resolution Functional ANOVA (MRFA) Approach
+maintainer: Chih-Li Sung
+description: |-
+  Performs the MRFA approach proposed by Sung et al. (2019+) <arXiv:1709.07064> to fit
+  and predict nonlinear regression problems, particularly for large-scale and
+  high-dimensional problems. The application includes deterministic or stochastic
+  computer experiments, spatial datasets, and so on.
+date_publication: '2019-01-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MRFA
+url_git: ''

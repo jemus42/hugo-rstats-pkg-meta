@@ -1,0 +1,9 @@
+version: 0.1-16
+title: Data sets and scripts for Modeling Psychophysical Data in R.
+maintainer: Ken Knoblauch
+description: Data sets and scripts for Modeling Psychophysical Data in R (Springer).
+date_publication: '2014-12-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MPDiR
+url_git: ''

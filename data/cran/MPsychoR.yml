@@ -1,0 +1,10 @@
+version: 0.10-7
+title: Modern Psychometrics with R
+maintainer: Patrick Mair
+description: Supplementary materials and datasets for the book "Modern Psychometrics
+  With R" (Mair, 2018, Springer useR! series).
+date_publication: '2018-05-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MPsychoR
+url_git: ''

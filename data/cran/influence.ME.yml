@@ -1,0 +1,20 @@
+version: 0.9-9
+title: Tools for Detecting Influential Data in Mixed Effects Models
+maintainer: Rense Nieuwenhuis
+description: |-
+  Provides a collection of tools for
+  detecting influential cases in generalized mixed effects
+  models. It analyses models that were estimated using 'lme4'. The
+  basic rationale behind identifying influential data is that
+  when single units are omitted from the data, models
+  based on these data should not produce substantially different
+  estimates. To standardize the assessment of how influential a
+  (single group of) observation(s) is, several measures of
+  influence are common practice, such as Cook's Distance.
+  In addition, we provide a measure of percentage change of the fixed point
+  estimates and a simple procedure to detect changing levels of significance.
+date_publication: '2017-06-07'
+bug_reports: ''
+url: http://www.rensenieuwenhuis.nl/r-project/influenceme/
+url_cran: https://CRAN.R-project.org/package=influence.ME
+url_git: ''

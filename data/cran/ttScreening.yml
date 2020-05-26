@@ -1,0 +1,13 @@
+version: '1.6'
+title: |-
+  Genome-Wide DNA Methylation Sites Screening by Use of Training
+  and Testing Samples
+maintainer: Meredith Ray
+description: A screening process utilizing training and testing samples to filter
+  out uninformative DNA methylation sites. Surrogate variables (SVs) of DNA methylation
+  are included in the filtering process to explain unknown factor effects.
+date_publication: '2018-10-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ttScreening
+url_git: ''

@@ -1,0 +1,15 @@
+version: '1.7'
+title: Merging Linkage Maps by Linear Programming
+maintainer: Jeffrey Endelman
+description: Creates a consensus genetic map by merging linkage maps from different
+  populations.  The software uses linear programming (LP) to efficiently minimize
+  the mean absolute error between the consensus map and the linkage maps.  This minimization
+  is performed subject to linear inequality constraints that ensure the ordering of
+  the markers in the linkage maps is preserved.  When marker order is inconsistent
+  between linkage maps, a minimum set of ordinal constraints is deleted to resolve
+  the conflicts.
+date_publication: '2018-06-07'
+bug_reports: ''
+url: http://potatobreeding.cals.wisc.edu/software
+url_cran: https://CRAN.R-project.org/package=LPmerge
+url_git: ''

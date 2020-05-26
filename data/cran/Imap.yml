@@ -1,0 +1,10 @@
+version: '1.32'
+title: Interactive Mapping
+maintainer: John R. Wallace
+description: Zoom in and out of maps or any supplied lines or points,<U+000a>with
+  control for color, poly fill, and aspect.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Imap
+url_git: ''

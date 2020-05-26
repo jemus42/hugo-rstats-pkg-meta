@@ -1,0 +1,10 @@
+version: '1.1'
+title: Extended Empirical Likelihood
+maintainer: Yu Zhang
+description: Compute the extended empirical log likelihood ratio (Tsao & Wu, 2014)
+  for the mean and parameters defined by estimating equations.
+date_publication: '2015-09-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=eel
+url_git: ''

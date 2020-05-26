@@ -1,0 +1,14 @@
+version: 0.1.0
+title: Joint Species Distribution Models
+maintainer: Ghislain Vieilledent
+description: |-
+  Fits joint species distribution models ('jSDM')
+  in a hierarchical Bayesian framework (Warton et al. 2015
+  <doi:10.1016/j.tree.2015.09.007>). The Gibbs sampler is written
+  in C++. It uses 'Rcpp', 'Armadillo' and 'GSL' to maximize computation
+  efficiency.
+date_publication: '2019-07-02'
+bug_reports: https://github.com/ghislainv/jSDM/issues
+url: https://ecology.ghislainv.fr/jSDM
+url_cran: https://CRAN.R-project.org/package=jSDM
+url_git: https://github.com/ghislainv/jSDM

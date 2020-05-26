@@ -1,0 +1,15 @@
+version: 0.1.0
+title: |-
+  Examine Measurement Invariance via Equivalence Testing and
+  Projection Method
+maintainer: Ge Jiang
+description: Functions for examining measurement invariance via equivalence testing
+  along with adjusted RMSEA(root mean square error of approximation; Steiger & Lind,
+  1980) cutoff values. In particular, a projection-based method is implemented to
+  test the equality of latent factor means across groups without assuming the equality
+  of intercepts.
+date_publication: '2017-08-04'
+bug_reports: https://github.com/gabriellajg/equaltestMI/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=equaltestMI
+url_git: ''

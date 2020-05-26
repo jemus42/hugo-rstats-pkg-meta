@@ -1,0 +1,20 @@
+version: 1.1-6
+title: |-
+  Measures of Risk for the Compound Poisson Risk Process with
+  Diffusion
+maintainer: Benjamin Baumgartner
+description: |-
+  Based on the compound Poisson risk process that is perturbed by
+  a Brownian motion, saddlepoint approximations to some measures of risk are
+  provided. Various approximation methods for the probability of ruin are
+  also included. Furthermore, exact values of both the risk measures as well
+  as the probability of ruin are available if the individual claims follow
+  a hypo-exponential distribution (i. e., if it can be represented as a sum
+  of independent exponentially distributed random variables with different
+  rate parameters). For more details see Gatto and Baumgartner (2014)
+  <doi:10.1007/s11009-012-9316-5>.
+date_publication: '2019-04-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sdprisk
+url_git: ''

@@ -1,0 +1,16 @@
+version: '1.14'
+title: |-
+  Analysis and Visualization of Droplet Digital PCR in R and on
+  the Web
+maintainer: Dean Attali
+description: |-
+  An interface to explore, analyze, and visualize droplet digital PCR
+  (ddPCR) data in R. This is the first non-proprietary software for analyzing
+  two-channel ddPCR data. An interactive tool was also created and is available
+  online to facilitate this analysis for anyone who is not comfortable with
+  using R.
+date_publication: '2020-03-23'
+bug_reports: https://github.com/daattali/ddpcr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ddpcr
+url_git: https://github.com/daattali/ddpcr

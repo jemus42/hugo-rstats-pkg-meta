@@ -1,0 +1,12 @@
+version: 0.1.0.1
+title: Interactive Data Tables Based on 'React Table'
+maintainer: Greg Lin
+description: |-
+  Interactive data tables for R, based on the 'React Table'
+  JavaScript library. Provides an HTML widget that can be used in 'R Markdown'
+  documents and 'Shiny' applications, or viewed from an R console.
+date_publication: '2020-02-29'
+bug_reports: https://github.com/glin/reactable/issues
+url: https://glin.github.io/reactable
+url_cran: https://CRAN.R-project.org/package=reactable
+url_git: https://github.com/glin/reactable

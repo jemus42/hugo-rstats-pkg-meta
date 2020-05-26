@@ -1,0 +1,11 @@
+version: '0.9'
+title: A Computational Tool for Astrochronology
+maintainer: Stephen Meyers
+description: Routines for astrochronologic testing, astronomical time scale construction,
+  and time series analysis. Also included are a range of statistical analysis and
+  modeling routines that are relevant to time scale development and paleoclimate analysis.
+date_publication: '2019-01-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=astrochron
+url_git: ''

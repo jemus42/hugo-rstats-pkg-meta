@@ -1,0 +1,17 @@
+version: 1.0.7
+title: |-
+  Access London Natural History Museum Host-Helminth Record
+  Database
+maintainer: Tad Dallas
+description: |-
+  Access to large host-parasite data is often hampered by the
+  availability of data and difficulty in obtaining it in a programmatic way
+  to encourage analyses. 'helminthR' provides a programmatic interface to the
+  London Natural History Museum's host-parasite database, one of the largest
+  host-parasite databases existing currently <http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/>. The package allows the user
+  to query by host species, parasite species, and geographic location.
+date_publication: '2019-02-03'
+bug_reports: https://github.com/rOpenSci/helminthR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=helminthR
+url_git: https://github.com/rOpenSci/helminthR

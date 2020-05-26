@@ -1,0 +1,11 @@
+version: 0.0.4
+title: Tumor Growth Rate Analysis
+maintainer: Julia Wilkerson
+description: A tool to obtain tumor growth rates from clinical trial patient data.  Output
+  includes individual and summary data for tumor growth rate estimates as well as
+  optional plots of the observed and predicted tumor quantity over time.
+date_publication: '2016-02-04'
+bug_reports: ''
+url: https://wilkersj.shinyapps.io/tumgrShiny
+url_cran: https://CRAN.R-project.org/package=tumgr
+url_git: https://github.com/wilkersj/tumgr

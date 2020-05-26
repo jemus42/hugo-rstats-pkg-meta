@@ -1,0 +1,10 @@
+version: 1.0.2
+title: Latin Hypercube Samples
+maintainer: Rob Carnell
+description: Provides a number of methods for creating and augmenting Latin Hypercube
+  Samples and Orthogonal Array Latin Hypercube Samples.
+date_publication: '2020-04-13'
+bug_reports: https://github.com/bertcarnell/lhs/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=lhs
+url_git: https://github.com/bertcarnell/lhs

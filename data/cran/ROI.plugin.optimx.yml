@@ -1,0 +1,11 @@
+version: 0.3-3
+title: '''optimx'' Plug-in for the ''R'' Optimization Infrastructure'
+maintainer: Florian Schwendinger
+description: |-
+  Enhances the R Optimization Infrastructure ('ROI') package
+  with the 'optimx' package.
+date_publication: '2020-04-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ROI.plugin.optimx
+url_git: http://R-Forge.R-project.org/projects/roi

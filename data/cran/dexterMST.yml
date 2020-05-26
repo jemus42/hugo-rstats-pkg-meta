@@ -1,0 +1,12 @@
+version: 0.1.2
+title: CML Calibration of Multi Stage Tests
+maintainer: Timo Bechger
+description: |-
+  Conditional Maximum Likelihood Calibration and data management of multistage tests.
+  Functions for calibration of the Extended Nominal Response and the Interaction models, DIF and profile analysis.
+  See Robert J. Zwitser and Gunter Maris (2015)<doi:10.1007/s11336-013-9369-6>.
+date_publication: '2019-08-20'
+bug_reports: https://github.com/jessekps/dexter/issues
+url: http://dexterities.netlify.com
+url_cran: https://CRAN.R-project.org/package=dexterMST
+url_git: ''

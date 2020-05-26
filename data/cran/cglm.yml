@@ -1,0 +1,10 @@
+version: '1.1'
+title: Fits Conditional Generalized Linear Models
+maintainer: Arvid Sjolander
+description: Estimates the ratio of the regression coefficients and the dispersion
+  parameter in conditional generalized linear models for clustered data.
+date_publication: '2019-12-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cglm
+url_git: ''

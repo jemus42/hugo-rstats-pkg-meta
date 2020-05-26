@@ -1,0 +1,9 @@
+version: 2.1.0
+title: Permutation Tests for Linear Models
+maintainer: Marco Torchiano
+description: Linear model functions using permutation tests.
+date_publication: '2016-08-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lmPerm
+url_git: https://github.com/mtorchiano/lmPerm

@@ -1,0 +1,10 @@
+version: 0.1.0
+title: D3 Scatterplot Matrices
+maintainer: Garth Tarr
+description: Creates an interactive scatterplot matrix using the D3 JavaScript library.
+  See <http://d3js.org/> for more information on D3.
+date_publication: '2015-04-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pairsD3
+url_git: http://github.com/garthtarr/pairsD3/

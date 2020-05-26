@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Integrative Inference of De Novo Cis-Regulatory Modules
+maintainer: Xi Chen
+description: Prior transcription factor binding knowledge and target gene expression
+  data are integrated in a Bayesian framework for functional cis-regulatory module
+  inference. Using Gibbs sampling, we iteratively estimate transcription factor associations
+  for each gene, regulation strength for each binding event and the hidden activity
+  for each transcription factor.
+date_publication: '2018-06-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BICORN
+url_git: ''

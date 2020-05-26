@@ -1,0 +1,11 @@
+version: 0.3-1
+title: '''alabama'' Plug-in for the ''R'' Optimization Infrastructure'
+maintainer: Florian Schwendinger
+description: |-
+  Enhances the R Optimization Infrastructure ('ROI') package
+  with the 'alabama' solver for solving nonlinear optimization problems.
+date_publication: '2018-05-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ROI.plugin.alabama
+url_git: http://R-Forge.R-project.org/projects/roi

@@ -1,0 +1,17 @@
+version: '2.1'
+title: |-
+  Fitting Univariate Censored Linear Regression Model with
+  Autoregressive Errors
+maintainer: Fernanda L. Schumacher
+description: |-
+  It fits an univariate left or right censored linear regression model
+  with autoregressive errors under the normal distribution. It provides estimates
+  and standard errors of the parameters, prediction of future observations and
+  it supports missing values on the dependent variable.
+  It also performs influence diagnostic through local influence for three possible
+  perturbation schemes.
+date_publication: '2016-09-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ARCensReg
+url_git: ''

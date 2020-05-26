@@ -1,0 +1,9 @@
+version: 0.1-2
+title: Deducer GUI for Text Data
+maintainer: Ian Fellows
+description: A GUI for text mining
+date_publication: '2014-06-13'
+bug_reports: ''
+url: http://www.deducer.org/manual.htmlhttp://www.fellstat.com<U+000a>http://research.cens.ucla.edu/
+url_cran: https://CRAN.R-project.org/package=DeducerText
+url_git: ''

@@ -1,0 +1,9 @@
+version: '1.1'
+title: Generate and Modify Synthetic Datasets
+maintainer: Francis Huang
+description: Set of functions to create datasets using a correlation matrix.
+date_publication: '2015-03-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gendata
+url_git: ''

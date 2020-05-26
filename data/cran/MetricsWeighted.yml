@@ -1,0 +1,18 @@
+version: 0.5.1
+title: |-
+  Weighted Metrics, Scoring Functions and Performance Measures for
+  Machine Learning
+maintainer: Michael Mayer
+description: |-
+  Provides weighted versions of several metrics,
+  scoring functions and performance measures used in machine learning,
+  including average unit deviances of the Bernoulli, Tweedie, Poisson,
+  and Gamma distributions, see Jorgensen B. (1997, ISBN:
+  978-0412997112). The package also contains a weighted version of
+  generalized R-squared, see e.g. Cohen, J. et al. (2002, ISBN:
+  978-0805822236). Furthermore, 'dplyr' chains are supported.
+date_publication: '2020-04-18'
+bug_reports: https://github.com/mayer79/MetricsWeighted/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=MetricsWeighted
+url_git: https://github.com/mayer79/MetricsWeighted

@@ -1,0 +1,10 @@
+version: 0.6.1
+title: Package required POI jars for the xlsx package
+maintainer: Adrian A. Dragulescu
+description: The xlsxjars package collects all the external jars<U+000a>required for
+  the xlxs package. This release corresponds to POI<U+000a>3.10.1.
+date_publication: '2014-08-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=xlsxjars
+url_git: ''

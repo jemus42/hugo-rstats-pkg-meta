@@ -1,0 +1,13 @@
+version: '0.3'
+title: |-
+  Phylogenetic Eigenvectors Regression and Phylogentic
+  Signal-Representation Curve
+maintainer: Thiago Santos
+description: Estimates (and controls for) phylogenetic signal through phylogenetic
+  eigenvectors regression (PVR) and phylogenetic signal-representation (PSR) curve,
+  along with some plot utilities.
+date_publication: '2018-05-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PVR
+url_git: ''

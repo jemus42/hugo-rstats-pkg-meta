@@ -1,0 +1,10 @@
+version: '5.7'
+title: Functional Time Series Analysis
+maintainer: Han Lin Shang
+description: Functions for visualizing, modeling, forecasting and hypothesis testing
+  of functional time series.
+date_publication: '2020-05-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ftsa
+url_git: ''

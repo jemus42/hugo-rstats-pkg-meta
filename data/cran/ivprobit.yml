@@ -1,0 +1,10 @@
+version: '1.1'
+title: Instrumental Variables Probit Model
+maintainer: Zaghdoudi Taha
+description: 'Compute the instrumental variables probit model using  the Amemiya''s
+  Generalized Least Squares estimators (Amemiya, Takeshi, (1978) <doi: 10.2307/1911443>).'
+date_publication: '2018-02-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ivprobit
+url_git: ''

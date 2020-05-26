@@ -1,0 +1,13 @@
+version: 2.2.0
+title: Fast and Simple 'MongoDB' Client for R
+maintainer: Jeroen Ooms
+description: |-
+  High-performance MongoDB client based on 'mongo-c-driver' and 'jsonlite'.
+  Includes support for aggregation, indexing, map-reduce, streaming, encryption,
+  enterprise authentication, and GridFS. The online user manual provides an overview
+  of the available methods in the package: <https://jeroen.github.io/mongolite/>.
+date_publication: '2020-03-17'
+bug_reports: https://github.com/jeroen/mongolite/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mongolite
+url_git: https://github.com/jeroen/mongolite/(devel)https://jeroen.github.io/mongolite/(usermanual)http://mongoc.org/(upstream)

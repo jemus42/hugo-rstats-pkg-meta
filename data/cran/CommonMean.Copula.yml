@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Common Mean Vector under Copula Models
+maintainer: Jia-Han Shih
+description: Estimate bivariate common mean vector under copula models with known
+  correlation. In the current version, available copulas include the Clayton, Farlie-Gumbel-Morgenstern
+  (FGM), and Gaussian copulas. See Shih et al. (2019) <doi:10.1080/02331888.2019.1581782>
+  for details under the FGM copula.
+date_publication: '2019-12-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CommonMean.Copula
+url_git: ''

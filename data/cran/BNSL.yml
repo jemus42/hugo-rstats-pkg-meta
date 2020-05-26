@@ -1,0 +1,10 @@
+version: 0.1.4
+title: Bayesian Network Structure Learning
+maintainer: Joe Suzuki
+description: From a given data frame, this package learns its Bayesian network structure
+  based on a selected score.
+date_publication: '2019-01-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BNSL
+url_git: ''

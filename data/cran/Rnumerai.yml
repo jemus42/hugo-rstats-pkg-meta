@@ -1,0 +1,13 @@
+version: '2.1'
+title: Interface to the Numerai Machine Learning Tournament API
+maintainer: Eric Hare
+description: |-
+  Routines to interact with the Numerai Machine Learning Tournament
+  API <https://numer.ai>. The functionality includes the ability to automatically download the
+  current tournament data, submit predictions, and to get information for your
+  user. General 'GraphQL' queries can also be executed.
+date_publication: '2020-04-18'
+bug_reports: https://github.com/Omni-Analytics-Group/Rnumerai/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rnumerai
+url_git: https://github.com/Omni-Analytics-Group/Rnumerai

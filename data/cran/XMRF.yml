@@ -1,0 +1,9 @@
+version: '1.0'
+title: Markov Random Fields for High-Throughput Genetics Data
+maintainer: Ying-Wooi Wan
+description: Fit Markov Networks to a wide range of high-throughput genomics data.
+date_publication: '2015-06-25'
+bug_reports: ''
+url: http://www.liuzlab.org/XMRF/
+url_cran: https://CRAN.R-project.org/package=XMRF
+url_git: ''

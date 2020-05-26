@@ -1,0 +1,20 @@
+version: '1.0'
+title: Hierarchical Bayesian Small Area Estimation
+maintainer: Harm Jan Boonstra
+description: |-
+  Functions to compute small area estimates based on a basic
+  area or unit-level model. The model is fit using restricted
+  maximum likelihood, or in a hierarchical Bayesian way. In the
+  latter case numerical integration is used to average over the
+  posterior density for the between-area variance.  The output
+  includes the model fit, small area estimates and corresponding
+  MSEs, as well as some model selection measures. Additional
+  functions provide means to compute aggregate estimates and
+  MSEs, to minimally adjust the small area estimates to
+  benchmarks at a higher aggregation level, and to graphically
+  compare different sets of small area estimates.
+date_publication: '2012-09-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hbsae
+url_git: ''

@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Convert Dates to Arbitrary Week Definitions
+maintainer: Zhian N. Kamvar
+description: |-
+  Which day a week starts depends heavily on the either the local or
+  professional context. This package is designed to be a lightweight solution
+  to easily switching between week-based date definitions.
+date_publication: '2020-04-29'
+bug_reports: https://github.com/reconhub/aweek/issues
+url: https://www.repidemicsconsortium.org/aweek
+url_cran: https://CRAN.R-project.org/package=aweek
+url_git: ''

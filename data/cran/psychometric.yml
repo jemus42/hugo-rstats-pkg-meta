@@ -1,0 +1,11 @@
+version: '2.2'
+title: Applied Psychometric Theory
+maintainer: Thomas D. Fletcher
+description: Contains functions useful for correlation theory,<U+000a>meta-analysis
+  (validity-generalization), reliability, item<U+000a>analysis, inter-rater reliability,
+  and classical utility
+date_publication: '2010-08-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=psychometric
+url_git: ''

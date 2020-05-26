@@ -1,0 +1,14 @@
+version: 0.4.6.1
+title: A Toolbox for Non-Tabular Data Manipulation
+maintainer: Kun Ren
+description: |-
+  Provides a set of functions for data manipulation with
+  list objects, including mapping, filtering, grouping, sorting,
+  updating, searching, and other useful functions. Most functions
+  are designed to be pipeline friendly so that data processing with
+  lists can be chained.
+date_publication: '2016-04-04'
+bug_reports: https://github.com/renkun-ken/rlist/issues
+url: https://renkun.me/rlist
+url_cran: https://CRAN.R-project.org/package=rlist
+url_git: https://github.com/renkun-ken/rlist

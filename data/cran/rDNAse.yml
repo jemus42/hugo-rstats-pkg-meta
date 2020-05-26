@@ -1,0 +1,13 @@
+version: 1.1-1
+title: |-
+  Generating Various Numerical Representation Schemes of DNA
+  Sequences
+maintainer: Min-feng Zhu
+description: |-
+  Comprehensive toolkit for generating various numerical                                 representation schemes of DNA sequence. The descriptors and similarity
+  scores included are extensively used in bioinformatics and chemogenomics.
+date_publication: '2016-07-14'
+bug_reports: https://github.com/wind22zhu/rDNAse/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rDNAse
+url_git: https://github.com/wind22zhu/rDNAse

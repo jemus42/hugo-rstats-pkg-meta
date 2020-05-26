@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Subsets with Reference Semantics
+maintainer: '"David Hugh-Jones"'
+description: |-
+  Provides subsets with reference semantics, i.e. subsets
+  which automatically reflect changes in the original object, and which
+  optionally update the original object when they are changed.
+date_publication: '2017-12-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=refset
+url_git: http://github.com/hughjonesd/refset

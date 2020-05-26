@@ -1,0 +1,13 @@
+version: 2.1.0
+title: Piecewise Structural Equation Modeling
+maintainer: Jon Lefcheck
+description: |-
+  Implements piecewise structural equation modeling from a single
+  list of structural equations, with new methods for non-linear, latent, and
+  composite variables, standardized coefficients, query-based prediction and
+  indirect effects. See <http://jslefche.github.io/piecewiseSEM/> for more.
+date_publication: '2019-12-05'
+bug_reports: https://github.com/jslefche/piecewiseSEM/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=piecewiseSEM
+url_git: https://github.com/jslefche/

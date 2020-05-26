@@ -1,0 +1,13 @@
+version: '2.0'
+title: Model Evaluation and Analysis
+maintainer: A. Marcia Barbosa
+description: Analyses species distribution models and evaluates their performance.
+  It includes functions for performing variation partitioning, calculating several
+  measures of model discrimination and calibration, optimizing prediction thresholds
+  based on a number of criteria, performing multivariate environmental similarity
+  surface (MESS) analysis, and displaying various analytical plots.
+date_publication: '2020-01-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=modEvA
+url_git: http://modeva.r-forge.r-project.org/

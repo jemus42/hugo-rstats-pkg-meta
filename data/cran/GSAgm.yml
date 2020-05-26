@@ -1,0 +1,10 @@
+version: '1.0'
+title: Gene Set Analysis using the Gamma Method
+maintainer: Rama Raghavan
+description: GSAgm is an R package that completes a self-contained gene set analysis
+  (GSA) for RNA-seq and SNP data using the Gamma Method.
+date_publication: '2014-04-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GSAgm
+url_git: ''

@@ -1,0 +1,10 @@
+version: 1.6.7
+title: Read and Write ODS Files
+maintainer: Chung-hong Chan
+description: Import ODS (OpenDocument Spreadsheet) into R as a data frame. Also support
+  writing data frame into ODS file.
+date_publication: '2018-11-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=readODS
+url_git: ''

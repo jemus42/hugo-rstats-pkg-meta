@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Fit Measure Cutoffs in SEM
+maintainer: Bjarne Schmalbach
+description: Calculate cutoff values for model fit measures used in structural equation
+  modeling (SEM) by simulating and testing data sets (cf. Hu & Bentler, 1999 <doi:10.1080/10705519909540118>)
+  with the same parameters (population model, number of observations, etc.) as the
+  model under consideration.
+date_publication: '2019-12-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ezCutoffs
+url_git: ''

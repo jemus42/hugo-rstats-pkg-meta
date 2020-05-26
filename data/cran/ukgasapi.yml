@@ -1,0 +1,10 @@
+version: '0.17'
+title: API for UK Gas Market Information
+maintainer: Timothy Wong
+description: Allows users to access live UK gas market information via National Grid's
+  API.
+date_publication: '2019-11-14'
+bug_reports: https://github.com/timothy-wong/ukgasapi/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ukgasapi
+url_git: ''

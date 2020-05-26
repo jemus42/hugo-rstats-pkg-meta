@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Shiny Wrappers for RGL
+maintainer: Jeff Allen
+description: |-
+  Shiny wrappers for the RGL package. This package exposes RGL's
+  ability to export WebGL visualization in a shiny-friendly format.
+date_publication: '2013-10-13'
+bug_reports: https://github.com/trestletech/shinyRGL/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinyRGL
+url_git: ''

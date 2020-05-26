@@ -1,0 +1,11 @@
+version: '0.1'
+title: Gabriel Graph Based Large-Margin Classifiers
+maintainer: Felipe Campos
+description: Contains the implementation of a binary large margin classifier based
+  on Gabriel Graph. References for this method can be found in L.C.B. Torres et al.
+  (2015) <doi:10.1049/el.2015.1644>.
+date_publication: '2020-04-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GGClassification
+url_git: ''

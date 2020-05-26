@@ -1,0 +1,13 @@
+version: '0.1'
+title: |-
+  Bias-Corrected Estimates for Generalized Linear Models for
+  Dependent Data
+maintainer: Nicola Lunardon
+description: Provides bias-corrected estimates for the regression coefficients of
+  a marginal model estimated with generalized estimating equations. Details about
+  the bias formula used are in Lunardon, N., Scharfstein, D. (2017) <doi:10.1002/sim.7366>.
+date_publication: '2017-06-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BCgee
+url_git: ''

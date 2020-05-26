@@ -1,0 +1,14 @@
+version: 0.4.5
+title: Maximum Likelihood Difference Scaling
+maintainer: Ken Knoblauch
+description: |-
+  Difference scaling is a method for scaling perceived
+  supra-threshold differences.  The package contains functions that
+  allow the user to design and run a difference scaling experiment,
+  to fit the resulting data by maximum likelihood and test the
+  internal validity of the estimated scale.
+date_publication: '2015-08-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MLDS
+url_git: ''

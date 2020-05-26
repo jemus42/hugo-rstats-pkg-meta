@@ -1,0 +1,10 @@
+version: '1.0'
+title: Batch Effect Detection via Guided Principal Components Analysis
+maintainer: Sarah Reese
+description: This package implements guided principal components analysis for the
+  detection of batch effects in high-throughput data.
+date_publication: '2013-07-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gPCA
+url_git: ''

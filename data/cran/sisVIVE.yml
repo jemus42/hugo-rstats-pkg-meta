@@ -1,0 +1,11 @@
+version: '1.4'
+title: Some Invalid Some Valid Instrumental Variables Estimator
+maintainer: Hyunseung Kang
+description: Selects invalid instruments amongst a candidate of potentially bad instruments.
+  The algorithm selects potentially invalid instruments and provides an estimate of
+  the causal effect between exposure and outcome.
+date_publication: '2017-05-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sisVIVE
+url_git: ''

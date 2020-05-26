@@ -1,0 +1,11 @@
+version: 1.0.10
+title: RCommander Plugin for Teaching Statistical Methods
+maintainer: Manuel A. Mosquera Rodríguez
+description: |-
+  RCommander plugin for teaching statistical methods.
+  It adds a new menu for making easier the teaching of the main concepts about the main statistical methods.
+date_publication: '2018-12-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.TeachStat
+url_git: ''

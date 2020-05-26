@@ -1,0 +1,14 @@
+version: 1.0.3
+title: Hot Spots
+maintainer: Anthony Darrouzet-Nardi
+description: The hotspots package is designed to look within a set of measured values
+  of a variable and identify values that are disproportionately high based on both
+  the deviance of any given value from a statistical distribution and its similarity
+  to other values. Because this relative magnitude of each value is taken into account,
+  a value that is a statistical outlier may not always be a hot spot if other values
+  are similarly large.
+date_publication: '2018-05-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hotspots
+url_git: ''

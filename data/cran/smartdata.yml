@@ -1,0 +1,12 @@
+version: 1.0.3
+title: Data Preprocessing
+maintainer: Ignacio Cordón
+description: |-
+  Eases data preprocessing tasks, providing a data flow based
+  on a pipe operator which eases cleansing, transformation, oversampling,
+  or instance/feature selection operations.
+date_publication: '2019-12-18'
+bug_reports: http://github.com/ncordon/smartdata/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=smartdata
+url_git: http://github.com/ncordon/smartdata

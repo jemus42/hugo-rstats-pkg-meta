@@ -1,0 +1,16 @@
+version: 0.3.12
+title: |-
+  LIME-Based Explanations with Interpretable Inputs Based on
+  Ceteris Paribus Profiles
+maintainer: Mateusz Staniak
+description: |-
+  Local explanations of machine learning models describe, how features contributed to a single prediction.
+  This package implements an explanation method based on LIME
+  (Local Interpretable Model-agnostic Explanations,
+  see Tulio Ribeiro, Singh, Guestrin (2016) <doi:10.1145/2939672.2939778>) in which interpretable
+  inputs are created based on local rather than global behaviour of each original feature.
+date_publication: '2019-12-18'
+bug_reports: https://github.com/ModelOriented/localModel/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=localModel
+url_git: https://github.com/ModelOriented/localModel

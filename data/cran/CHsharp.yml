@@ -1,0 +1,11 @@
+version: '0.4'
+title: Choi and Hall Style Data Sharpening
+maintainer: John Braun
+description: |-
+  Functions for use in perturbing data prior to use of nonparametric smoothers
+  and clustering.
+date_publication: '2015-10-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CHsharp
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.5
+title: Download and Process Public Domain Works from Project Gutenberg
+maintainer: David Robinson
+description: |-
+  Download and process public domain works in the Project
+  Gutenberg collection <http://www.gutenberg.org/>. Includes metadata for
+  all Project Gutenberg works, so that they can be searched and retrieved.
+date_publication: '2019-09-10'
+bug_reports: http://github.com/ropensci/gutenbergr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gutenbergr
+url_git: http://github.com/ropensci/gutenbergr

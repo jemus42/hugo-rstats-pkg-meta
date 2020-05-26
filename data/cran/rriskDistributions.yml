@@ -1,0 +1,14 @@
+version: 2.1.2
+title: Fitting Distributions to Given Data or Known Quantiles
+maintainer: Matthias Greiner
+description: |-
+  Collection of functions for fitting distributions to given data or
+  by known quantiles. Two main functions fit.perc() and fit.cont() provide
+  users a GUI that allows to choose a most appropriate distribution without
+  any knowledge of the R syntax. Note, this package is a part of the 'rrisk'
+  project.
+date_publication: '2017-03-24'
+bug_reports: ''
+url: http://www.bfr.bund.de/cd/52158
+url_cran: https://CRAN.R-project.org/package=rriskDistributions
+url_git: ''

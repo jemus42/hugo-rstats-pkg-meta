@@ -1,0 +1,10 @@
+version: 1.0-1
+title: Regression Models for Monozygotic Twin Data
+maintainer: Aldo Cordova-Palomera
+description: Linear and logistic regression models for quantitative genetic analysis
+  of data from monozygotic twins.
+date_publication: '2015-01-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mztwinreg
+url_git: https://github.com/AldoCP/mztwinreg

@@ -1,0 +1,11 @@
+version: 1.0.1
+title: Fitting Tails by the Empirical Residual Coefficient of Variation
+maintainer: Isabel Serra
+description: |-
+  Provides a methodology simple and trustworthy for the analysis of extreme values and multiple threshold tests for a generalized Pareto distribution, together
+  with an automatic threshold selection algorithm. See del Castillo, J, Daoudi, J and Lockhart, R (2014) <doi:10.1111/sjos.12037>.
+date_publication: '2019-10-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ercv
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.0.0
+title: Progress Bars for Downloads in 'shiny' Apps
+maintainer: Athos Damiani
+description: |-
+  Modifies the progress() function from 'httr' package to let it
+  send output to progressBar() function from 'shinyWidgets' package.
+  It is just a tweak at the original functions from 'httr' package to
+  make it smooth for 'shiny' developers.
+date_publication: '2019-03-22'
+bug_reports: https://github.com/curso-r/shinyhttr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinyhttr
+url_git: https://github.com/curso-r/shinyhttr

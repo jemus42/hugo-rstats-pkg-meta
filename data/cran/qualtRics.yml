@@ -1,0 +1,15 @@
+version: 3.1.3
+title: Download 'Qualtrics' Survey Data
+maintainer: Julia Silge
+description: |-
+  Provides functions to access survey results directly into R using
+  the 'Qualtrics' API. 'Qualtrics' <https://www.qualtrics.com/about/> is an
+  online survey and data collection software platform. See
+  <https://api.qualtrics.com/> for more information about the 'Qualtrics' API.
+  This package is community-maintained and is not officially supported by
+  'Qualtrics'.
+date_publication: '2020-05-22'
+bug_reports: https://github.com/ropensci/qualtRics/issues
+url: https://docs.ropensci.org/qualtRics/
+url_cran: https://CRAN.R-project.org/package=qualtRics
+url_git: https://github.com/ropensci/qualtRics

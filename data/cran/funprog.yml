@@ -1,0 +1,15 @@
+version: 0.2.0
+title: Functional Programming
+maintainer: Pierre-Yves Berrard
+description: |2-
+
+  High-order functions for data manipulation : sort or group data, given one
+  or more auxiliary functions. Functions are inspired by other pure
+  functional programming languages ('Haskell' mainly). The package also
+  provides built-in function operators for creating compact anonymous
+  functions, as well as the possibility to use the 'purrr' package syntax.
+date_publication: '2020-02-25'
+bug_reports: https://gitlab.com/py_b/funprog/issues
+url: https://py_b.gitlab.io/funprog
+url_cran: https://CRAN.R-project.org/package=funprog
+url_git: https://gitlab.com/py_b/funprog

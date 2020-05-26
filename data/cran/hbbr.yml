@@ -1,0 +1,13 @@
+version: 1.1.2
+title: |-
+  Hierarchical Bayesian Benefit-Risk Assessment Using Discrete
+  Choice Experiment
+maintainer: Saurabh Mukhopadhyay
+description: Implements assessment of benefit-risk balance using Bayesian Discrete
+  Choice Experiment. For more details see the article by Mukhopadhyay et al. (2019)
+  <DOI:10.1080/19466315.2018.1527248>.
+date_publication: '2019-10-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hbbr
+url_git: ''

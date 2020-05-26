@@ -1,0 +1,10 @@
+version: 1.0.5
+title: Auxiliary Package for Package 'CollapsABEL'
+maintainer: Kaiyin Zhong
+description: Provides some low level functions for processing PLINK input and output
+  files.
+date_publication: '2016-03-31'
+bug_reports: https://bitbucket.org/kindlychung/collutils/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=collUtils
+url_git: https://bitbucket.org/kindlychung/collutils

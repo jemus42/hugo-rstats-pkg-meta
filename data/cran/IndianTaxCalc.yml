@@ -1,0 +1,12 @@
+version: 1.0.2
+title: Indian Income Tax Calculator
+maintainer: Sulthan
+description: Calculate Indian Income Tax liability for Financial years of Individual
+  resident aged below 60 years,Senior Citizen,Super Senior Citizen, Firm, Local Authority,
+  Any Non Resident Individual / Hindu Undivided Family / Association of Persons /Body
+  of Individuals / Artificial Judicial Person, Co-operative Society.
+date_publication: '2017-05-08'
+bug_reports: https://github.com/iamsulthan/IndianTaxCalc/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=IndianTaxCalc
+url_git: https://github.com/iamsulthan/IndianTaxCalc

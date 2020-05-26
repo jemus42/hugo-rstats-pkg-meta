@@ -1,0 +1,15 @@
+version: 0.3.1
+title: Construct Rich Tables for Output to 'HTML'/'Excel'
+maintainer: Christopher Bailiss
+description: |-
+  Easily create tables from data
+  frames/matrices.  Create/manipulate tables
+  row-by-row, column-by-column or cell-by-cell.
+  Use common formatting/styling to output
+  rich tables as 'HTML', 'HTML widgets' or to
+  'Excel'.
+date_publication: '2020-03-07'
+bug_reports: https://github.com/cbailiss/basictabler/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=basictabler
+url_git: https://github.com/cbailiss/basictabler

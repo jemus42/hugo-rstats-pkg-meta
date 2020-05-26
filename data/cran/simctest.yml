@@ -1,0 +1,10 @@
+version: '2.6'
+title: Safe Implementation of Monte Carlo Tests
+maintainer: Axel Gandy
+description: Algorithms for the implementation and evaluation of Monte Carlo tests,
+  as well as for their use in multiple testing procedures.
+date_publication: '2019-11-04'
+bug_reports: ''
+url: http://www2.imperial.ac.uk/~agandy
+url_cran: https://CRAN.R-project.org/package=simctest
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Accesses Weather Data from the Iowa Environment Mesonet
+maintainer: Maëlle Salmon
+description: |-
+  Allows to get weather data from Automated Surface Observing System (ASOS) stations (airports) in the
+  whole world thanks to the Iowa Environment Mesonet website.
+date_publication: '2016-09-10'
+bug_reports: http://github.com/ropenscilabs/riem/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=riem
+url_git: http://github.com/ropenscilabs/riem

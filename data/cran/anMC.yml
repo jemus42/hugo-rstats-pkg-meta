@@ -1,0 +1,11 @@
+version: 0.2.2
+title: Compute High Dimensional Orthant Probabilities
+maintainer: Dario Azzimonti
+description: Computationally efficient method to estimate orthant probabilities of
+  high-dimensional Gaussian vectors. Further implements a function to compute conservative
+  estimates of excursion sets under Gaussian random field priors.
+date_publication: '2019-10-25'
+bug_reports: ''
+url: https://doi.org/10.1080/10618600.2017.1360781
+url_cran: https://CRAN.R-project.org/package=anMC
+url_git: ''

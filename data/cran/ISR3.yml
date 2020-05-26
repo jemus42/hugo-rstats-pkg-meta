@@ -1,0 +1,12 @@
+version: '0.98'
+title: Iterative Sequential Regression
+maintainer: Jonathan Lisic
+description: |-
+  Performs multivariate normal imputation through iterative sequential
+  regression.  Conditional dependency structure between imputed variables can be
+  specified a priori to accelerate imputation.
+date_publication: '2016-10-14'
+bug_reports: https://github.com/jlisic/isr3/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ISR3
+url_git: ''

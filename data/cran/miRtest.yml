@@ -1,0 +1,9 @@
+version: '1.8'
+title: combined miRNA- and mRNA-testing
+maintainer: Stephan Artmann
+description: combined miRNA- and mRNA-testing
+date_publication: '2014-11-27'
+bug_reports: ''
+url: http://www.ncbi.nlm.nih.gov/pubmed/22723856
+url_cran: https://CRAN.R-project.org/package=miRtest
+url_git: ''

@@ -1,0 +1,13 @@
+version: 2.1.0
+title: Utility Functions for Conducting and Interpreting Meta-Analyses
+maintainer: Maya B. Mathur
+description: |-
+  Contains functions to estimate the proportion of effects stronger than a threshold
+  of scientific importance (function prop_stronger), to nonparametrically characterize the distribution of effects in a meta-analysis (calib_ests, pct_pval),
+  to make effect size conversions (r_to_d, r_to_z, z_to_r), to compute and format inference in a meta-analysis (format_CI, format_stat, tau_CI), to scrape results from
+  existing meta-analyses for re-analysis (scrape_meta, parse_CI_string).
+date_publication: '2019-11-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MetaUtility
+url_git: ''

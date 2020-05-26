@@ -1,0 +1,15 @@
+version: 0.3-0
+title: |-
+  'Multi-Solution' Binary Linear Problem Plug-in for the 'R'
+  Optimization Interface
+maintainer: Florian Schwendinger
+description: |-
+  Enhances the 'R' Optimization Infrastructure ('ROI') package
+  with the possibility to obtain multiple solutions for linear
+  problems with binary variables. The main function is copied
+  (with small modifications) from the relations package.
+date_publication: '2017-10-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ROI.plugin.msbinlp
+url_git: http://R-Forge.R-project.org/projects/roi

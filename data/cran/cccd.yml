@@ -1,0 +1,11 @@
+version: '1.5'
+title: Class Cover Catch Digraphs
+maintainer: David J. Marchette
+description: |-
+  Class Cover Catch Digraphs, neighborhood graphs, and
+  relatives.
+date_publication: '2015-06-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cccd
+url_git: ''

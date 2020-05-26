@@ -1,0 +1,13 @@
+version: 3.5-0
+title: Functions to Support the ICES Transparent Assessment Framework
+maintainer: Arni Magnusson
+description: |-
+  Functions to support the ICES Transparent Assessment Framework
+  <https://taf.ices.dk> to organize data, methods, and results used in ICES
+  assessments. ICES is an organization facilitating international collaboration
+  in marine science.
+date_publication: '2020-05-15'
+bug_reports: ''
+url: https://taf.ices.dk
+url_cran: https://CRAN.R-project.org/package=icesTAF
+url_git: ''

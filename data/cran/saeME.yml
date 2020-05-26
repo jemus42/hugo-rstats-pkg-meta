@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Small Area Estimation with Measurement Error
+maintainer: Muhammad Rifqi Mubarak
+description: A set of functions and datasets implementation of small area estimation
+  when auxiliary variable is measured with error. These functions provide a empirical
+  best linear unbiased prediction (EBLUP) estimator and mean squared error (MSE) estimator
+  of the EBLUP. These models were developed by Ybarra and Lohr (2008) <doi:10.1093/biomet/asn048>.
+date_publication: '2020-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=saeME
+url_git: ''

@@ -1,0 +1,9 @@
+version: '0.5'
+title: Interfaces to Various State-of-Art SVD and Eigensolvers
+maintainer: Anton Korobeynikov
+description: R bindings to SVD and eigensolvers (PROPACK, nuTRLan).
+date_publication: '2019-08-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=svd
+url_git: http://github.com/asl/svd

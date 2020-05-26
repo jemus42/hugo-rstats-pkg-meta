@@ -1,0 +1,11 @@
+version: 1.9-5.0
+title: Student Growth Percentiles & Percentile Growth Trajectories
+maintainer: Damian W. Betebenner
+description: An analytic framework for the calculation of norm- and criterion-referenced
+  academic growth estimates using large scale, longitudinal education assessment data
+  as developed in Betebenner (2009) <doi:10.1111/j.1745-3992.2009.00161.x>.
+date_publication: '2020-01-30'
+bug_reports: https://github.com/CenterForAssessment/SGP/issues
+url: https://sgp.io
+url_cran: https://CRAN.R-project.org/package=SGP
+url_git: https://github.com/CenterForAssessment/SGP

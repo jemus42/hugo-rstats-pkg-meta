@@ -1,0 +1,17 @@
+version: 1.0-11
+title: Nonparametric Methods for Cognitive Diagnosis
+maintainer: Yi Zheng
+description: An array of nonparametric and parametric estimation methods for cognitive
+  diagnostic models, including nonparametric classification of examinee attribute
+  profiles, joint maximum likelihood estimation (JMLE) of examinee attribute profiles
+  and item parameters, and nonparametric refinement of the Q-matrix, as well as conditional
+  maximum likelihood estimation (CMLE) of examinee attribute profiles given item parameters
+  and CMLE of item parameters given examinee attribute profiles. Currently the nonparametric
+  methods in the package support both conjunctive and disjunctive models, and the
+  parametric methods in the package support the DINA model, the DINO model, the NIDA
+  model, the G-NIDA model, and the R-RUM model.
+date_publication: '2019-11-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NPCD
+url_git: ''

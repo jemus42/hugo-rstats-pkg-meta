@@ -1,0 +1,10 @@
+version: '1.0'
+title: Data Estimation using Weighted Averages of Multiple Regressions
+maintainer: Olivia Cheronet
+description: For multivariate datasets, this function enables the estimation of missing
+  data using the Weighted AVERage of all possible Regressions using the data available.
+date_publication: '2016-02-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=WaverR
+url_git: ''

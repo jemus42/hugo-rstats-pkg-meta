@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Predicted Interval Plots
+maintainer: Ray Griner
+description: |-
+  Generate Predicted Interval Plots.  Simulate and plot
+  confidence intervals of an effect estimate given observed data
+  and a hypothesis about the distribution of future data.
+date_publication: '2012-09-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PIPS
+url_git: ''

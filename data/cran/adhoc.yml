@@ -1,0 +1,16 @@
+version: '1.1'
+title: |-
+  Calculate Ad Hoc Distance Thresholds for DNA Barcoding
+  Identification
+maintainer: Gontran Sonet
+description: Two functions to calculate intra- and interspecific pairwise distances,
+  evaluate DNA barcoding identification error and calculate an ad hoc distance threshold
+  for each particular reference library of DNA barcodes. Specimen identification at
+  this ad hoc distance threshold (using the best close match method) will produce
+  identifications with an estimated relative error probability that can be fixed by
+  the user (e.g. 5%).
+date_publication: '2017-03-17'
+bug_reports: ''
+url: http://jemu.myspecies.info/computer-programs
+url_cran: https://CRAN.R-project.org/package=adhoc
+url_git: ''

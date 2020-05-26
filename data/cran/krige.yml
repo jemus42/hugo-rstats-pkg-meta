@@ -1,0 +1,10 @@
+version: 0.4.1
+title: Geospatial Kriging with Metropolis Sampling
+maintainer: Jason S. Byers
+description: Estimates kriging models for geographical point-referenced data. Method
+  is described in Monogan and Gill (2016) <doi:10.1017/psrm.2015.5>.
+date_publication: '2020-03-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=krige
+url_git: ''

@@ -1,0 +1,15 @@
+version: 0.0-4
+title: |-
+  A Parallel Clustering Non-Uniform Memory Access ('NUMA')
+  Optimized Package
+maintainer: Disa Mhembere
+description: The clustering 'NUMA' Optimized Routines package or 'clusternor' is a
+  highly optimized package for performing clustering in parallel with accelerations
+  specifically targeting multi-core Non-Uniform Memory Access ('NUMA') hardware architectures.
+  Disa Mhembere, Da Zheng, Carey E. Priebe, Joshua T. Vogelstein, Randal Burns (2019)
+  <arXiv:1902.09527>.
+date_publication: '2020-02-16'
+bug_reports: https://github.com/flashxio/knor/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=clusternor
+url_git: https://github.com/neurodata/knorR

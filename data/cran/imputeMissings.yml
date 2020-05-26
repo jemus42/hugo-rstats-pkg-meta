@@ -1,0 +1,10 @@
+version: 0.0.3
+title: Impute Missing Values in a Predictive Context
+maintainer: Matthijs Meire
+description: Compute missing values on a training data set and impute them on a new
+  data set. Current available options are median/mode and random forest.
+date_publication: '2016-09-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=imputeMissings
+url_git: ''

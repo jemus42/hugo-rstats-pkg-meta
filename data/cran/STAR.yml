@@ -1,0 +1,11 @@
+version: 0.3-7
+title: Spike Train Analysis with R
+maintainer: Christophe Pouzat
+description: |-
+  Functions to analyze neuronal spike trains from a single
+  neuron or from several neurons recorded simultaneously.
+date_publication: '2012-11-09'
+bug_reports: ''
+url: http://sites.google.com/site/spiketrainanalysiswithr
+url_cran: https://CRAN.R-project.org/package=STAR
+url_git: ''

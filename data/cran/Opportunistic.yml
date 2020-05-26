@@ -1,0 +1,13 @@
+version: '1.2'
+title: |-
+  Routing Distribution, Broadcasts, Transmissions and Receptions
+  in an Opportunistic Network
+maintainer: Christian E. Galarza
+description: Computes the routing distribution, the expectation of the number of broadcasts,
+  transmissions and receptions considering an Opportunistic transport model. It provides
+  theoretical results and also estimated values based on Monte Carlo simulations.
+date_publication: '2017-06-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Opportunistic
+url_git: ''

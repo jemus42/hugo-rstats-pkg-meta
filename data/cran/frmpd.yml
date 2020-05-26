@@ -1,0 +1,9 @@
+version: 1.1.0
+title: Regression Analysis of Panel Fractional Responses
+maintainer: Joaquim J.S. Ramalho
+description: Estimation of panel data regression models for fractional responses.
+date_publication: '2016-08-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=frmpd
+url_git: ''

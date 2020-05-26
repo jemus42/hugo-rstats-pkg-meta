@@ -1,0 +1,16 @@
+version: 0.6-3
+title: Fast, Low Memory-Footprint Digests of R Objects
+maintainer: Gabriel Becker
+description: |-
+  Provides an R interface to Bob Jenkin's streaming,
+  non-cryptographic 'SpookyHash' hash algorithm for use in digest-based
+  comparisons of R objects. 'fastdigest' plugs directly into R's internal
+  serialization machinery, allowing digests of all R objects the serialize()
+  function supports, including reference-style objects via custom hooks. Speed is
+  high and scales linearly by object size; memory usage is constant and
+  negligible.
+date_publication: '2015-10-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fastdigest
+url_git: ''

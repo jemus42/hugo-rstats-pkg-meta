@@ -1,0 +1,12 @@
+version: 1.0.4
+title: Generalized Farlie-Gumbel-Morgenstern Copula
+maintainer: Jia-Han Shih
+description: Compute bivariate dependence measures and perform bivariate competing
+  risks analysis under the generalized Farlie-Gumbel-Morgenstern (FGM) copula. See
+  Shih and Emura (2018) <doi:10.1007/s00180-018-0804-0> and Shih and Emura (2019)
+  <doi:10.1007/s00362-016-0865-5> for details.
+date_publication: '2019-12-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GFGM.copula
+url_git: ''

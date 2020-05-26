@@ -1,0 +1,13 @@
+version: 0.8.2
+title: Creates Co-Occurrence Matrices of Spatial Data
+maintainer: Jakub Nowosad
+description: |-
+  Builds co-occurrence matrices based on spatial raster data.
+  It includes creation of weighted co-occurrence matrices (wecoma) and
+  integrated co-occurrence matrices
+  (incoma; Vadivel et al. (2007) <doi:10.1016/j.patrec.2007.01.004>).
+date_publication: '2020-03-17'
+bug_reports: https://github.com/Nowosad/comat/issues
+url: https://nowosad.github.io/comat/
+url_cran: https://CRAN.R-project.org/package=comat
+url_git: ''

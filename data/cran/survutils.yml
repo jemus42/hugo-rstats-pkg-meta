@@ -1,0 +1,14 @@
+version: 1.0.2
+title: Utility Functions for Survival Analysis
+maintainer: Fong Chun Chan
+description: |-
+  Functional programming principles to iteratively run Cox
+  regression and plot its results. The results are reported in tidy data
+  frames. Additional utility functions are available for working with
+  other aspects of survival analysis such as survival curves, C-statistics,
+  etc.
+date_publication: '2018-07-22'
+bug_reports: https://github.com/tinyheero/survutils/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=survutils
+url_git: https://github.com/tinyheero/survutils

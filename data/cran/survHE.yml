@@ -1,0 +1,16 @@
+version: 1.0.65
+title: Survival Analysis in Health Economic Evaluation
+maintainer: Gianluca Baio
+description: Contains a suite of functions for survival analysis in health economics.
+  These can be used to run survival models under a frequentist (based on maximum likelihood)
+  or a Bayesian approach (both based on Integrated Nested Laplace Approximation or
+  Hamiltonian Monte Carlo). The user can specify a set of parametric models using
+  a common notation and select the preferred mode of inference. The results can also
+  be post-processed to produce probabilistic sensitivity analysis and can be used
+  to export the output to an Excel file (e.g. for a Markov model, as often done by
+  modellers and practitioners).
+date_publication: '2018-11-09'
+bug_reports: https://github.com/giabaio/survHE/issues
+url: http://www.statistica.it/gianluca
+url_cran: https://CRAN.R-project.org/package=survHE
+url_git: https://github.com/giabaio/survHE

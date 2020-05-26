@@ -1,0 +1,13 @@
+version: 0.0.5
+title: |-
+  Data Structure and Manipulations Tool for Host and Viral
+  Population
+maintainer: Jean-Francois Rey
+description: |-
+  Statistical Methods for Inferring Transmissions of Infectious Diseases from deep sequencing data (SMITID).
+  It allow sequence-space-time host and viral population data storage, indexation and querying.
+date_publication: '2019-06-14'
+bug_reports: https://gitlab.paca.inra.fr/SMITID/structR/issues
+url: https://informatique-mia.inra.fr/biosp/anr-smitid-project
+url_cran: https://CRAN.R-project.org/package=SMITIDstruct
+url_git: ''

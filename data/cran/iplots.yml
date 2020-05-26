@@ -1,0 +1,9 @@
+version: 1.1-7.1
+title: iPlots - interactive graphics for R
+maintainer: Simon Urbanek
+description: Interactive plots for R.
+date_publication: '2018-06-17'
+bug_reports: ''
+url: http://www.iPlots.org/
+url_cran: https://CRAN.R-project.org/package=iplots
+url_git: ''

@@ -1,0 +1,17 @@
+version: 0.1.0
+title: Cramer von Mises Tests for Discrete or Grouped Distributions
+maintainer: Shaun Zheng Sun
+description: Implements Cramer-von Mises Statistics for testing fit to (1) fully specified
+  discrete distributions as described in Choulakian, Lockhart and Stephens (1994)
+  <doi:10.2307/3315828> (2) discrete distributions with unknown parameters that must
+  be estimated from the sample data, see Spinelli & Stephens (1997) <doi:10.2307/3315735>
+  and Lockhart, Spinelli and Stephens (2007) <doi:10.1002/cjs.5550350111> (3) grouped
+  continuous distributions with Unknown Parameters, see Spinelli (2001) <doi:10.2307/3316040>.
+  Maximum likelihood estimation (MLE) is used to estimate the parameters. The package
+  computes the Cramer-von Mises Statistics, Anderson-Darling Statistics and the Watson-Stephens
+  Statistics and their p-values.
+date_publication: '2019-11-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cvmdisc
+url_git: ''

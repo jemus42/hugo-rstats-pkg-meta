@@ -1,0 +1,11 @@
+version: 1.0.1
+title: Probabilistic Fisher Discriminant Analysis
+maintainer: Charles Bouveyron
+description: Probabilistic Fisher discriminant analysis (pFDA) is a probabilistic
+  version of the popular and powerful Fisher linear discriminant analysis for dimensionality
+  reduction and classification.
+date_publication: '2015-05-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=probFDA
+url_git: ''

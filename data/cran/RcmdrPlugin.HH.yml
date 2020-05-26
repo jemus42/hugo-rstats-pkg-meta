@@ -1,0 +1,12 @@
+version: 1.1-47
+title: Rcmdr Support for the HH Package
+maintainer: Richard M. Heiberger
+description: |-
+  Rcmdr menu support for many of the functions in the HH package.
+  The focus is on menu items for functions we use in our introductory
+  courses.
+date_publication: '2018-05-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.HH
+url_git: ''

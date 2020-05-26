@@ -1,0 +1,15 @@
+version: 0.6.0
+title: |-
+  Bayesian Nonparametric Spectral Density Estimation Using
+  B-Spline Priors
+maintainer: Matthew C. Edwards
+description: Implementation of a Metropolis-within-Gibbs MCMC algorithm to flexibly
+  estimate the spectral density of a stationary time series.  The algorithm updates
+  a nonparametric B-spline prior using the Whittle likelihood to produce pseudo-posterior
+  samples and is based on the work presented in Edwards, M.C., Meyer, R. and Christensen,
+  N., Statistics and Computing (2018). <doi.org/10.1007/s11222-017-9796-9>.
+date_publication: '2018-10-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bsplinePsd
+url_git: ''

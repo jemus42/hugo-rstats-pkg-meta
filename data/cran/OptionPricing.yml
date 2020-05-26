@@ -1,0 +1,10 @@
+version: '0.1'
+title: Option Pricing with Efficient Simulation Algorithms
+maintainer: Wolfgang Hormann
+description: Efficient Monte Carlo Algorithms for the price and the sensitivities
+  of Asian and European Options under Geometric Brownian Motion.
+date_publication: '2014-11-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OptionPricing
+url_git: ''

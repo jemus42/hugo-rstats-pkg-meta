@@ -1,0 +1,17 @@
+version: 0.2.0
+title: Design and Analysis of a 2x2 Factorial Trial
+maintainer: Eric Leifer
+description: |-
+  Used for the design and analysis of a 2x2 factorial trial for
+  a time-to-event endpoint.  It performs power calculations and significance
+  testing as well as providing estimates of the relevant hazard ratios and the
+  corresponding 95% confidence intervals.  Important reference papers include
+  Slud EV. (1994) <https://www.ncbi.nlm.nih.gov/pubmed/8086609>
+  Lin DY, Gong J, Gallo P, Bunn PH, Couper D. (2016) <DOI:10.1111/biom.12507>
+  Leifer ES, Troendle JF, Kolecki A, Follmann DA. (2020)
+  <https://github.com/EricSLeifer/factorial2x2/blob/master/Leifer%20et%20al.%20paper.pdf>.
+date_publication: '2020-04-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=factorial2x2
+url_git: ''

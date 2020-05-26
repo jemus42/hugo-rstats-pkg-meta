@@ -1,0 +1,17 @@
+version: 0.9.0
+title: |-
+  A Future API for Parallel and Distributed Processing using
+  'batchtools'
+maintainer: Henrik Bengtsson
+description: |-
+  Implementation of the Future API on top of the 'batchtools' package.
+  This allows you to process futures, as defined by the 'future' package,
+  in parallel out of the box, not only on your local machine or ad-hoc
+  cluster of machines, but also via high-performance compute ('HPC') job
+  schedulers such as 'LSF', 'OpenLava', 'Slurm', 'SGE', and 'TORQUE' / 'PBS',
+  e.g. 'y <- future.apply::future_lapply(files, FUN = process)'.
+date_publication: '2020-04-14'
+bug_reports: https://github.com/HenrikBengtsson/future.batchtools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=future.batchtools
+url_git: https://github.com/HenrikBengtsson/future.batchtools

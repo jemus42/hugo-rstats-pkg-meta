@@ -1,0 +1,11 @@
+version: 0.0.5
+title: A Collection of Efficient and Extremely Fast R Functions II
+maintainer: Manos Papadakis
+description: A collection of fast statistical and utility functions for data analysis.
+  Functions for regression, maximum likelihood, column-wise statistics and many more
+  have been included. C++ has been utilized to speed up the functions.
+date_publication: '2019-12-16'
+bug_reports: https://github.com/RfastOfficial/Rfast2/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rfast2
+url_git: https://github.com/RfastOfficial/Rfast2

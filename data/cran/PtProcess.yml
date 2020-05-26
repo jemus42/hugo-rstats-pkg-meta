@@ -1,0 +1,12 @@
+version: 3.3-13
+title: Time Dependent Point Process Modelling
+maintainer: David Harte
+description: Fits and analyses time dependent marked point process models with an
+  emphasis on earthquake modelling. For a more detailed introduction to the package,
+  see the topic "PtProcess". A list of recent changes can be found in the topic "Change
+  Log".
+date_publication: '2017-11-16'
+bug_reports: ''
+url: http://www.statsresearch.co.nz/dsh/sslib/
+url_cran: https://CRAN.R-project.org/package=PtProcess
+url_git: ''

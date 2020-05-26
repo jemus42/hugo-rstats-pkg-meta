@@ -1,0 +1,12 @@
+version: 2.6.3
+title: Interface to API 'vk.com'
+maintainer: Alexey Seleznev
+description: |-
+  Load data from vk.com api about your communiti users and views,
+  ads performance, post on user wall and etc. For more detail see
+  <https://vk.com/dev/first_guide>.
+date_publication: '2019-12-11'
+bug_reports: https://github.com/selesnow/rvkstat/issues
+url: http://selesnow.github.io/rvkstat
+url_cran: https://CRAN.R-project.org/package=rvkstat
+url_git: ''

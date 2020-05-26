@@ -1,0 +1,14 @@
+version: '1.1'
+title: Specificity Index Statistic
+maintainer: Alan B. Wells
+description: 'This package contains functions to calculate the Specificity Index statistic,
+  which can be used for comparative quantitative analysis to identify genes enriched
+  in specific cell populations across a large number of profiles, as well as perform
+  numerous post-processing operations. NOTE:Supplementary data (human & mouse expression
+  sets, calculated pSI datasets, etc.) can be found in pSI.data package located at
+  the following URL: http://genetics.wustl.edu/jdlab/psi_package/'
+date_publication: '2014-01-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pSI
+url_git: ''

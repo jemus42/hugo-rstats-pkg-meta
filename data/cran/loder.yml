@@ -1,0 +1,11 @@
+version: 0.2.0
+title: Dependency-Free Access to PNG Image Files
+maintainer: Jon Clayden
+description: |-
+  Read and write access to PNG image files using the LodePNG
+  library. The package has no external dependencies.
+date_publication: '2018-06-15'
+bug_reports: https://github.com/jonclayden/loder/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=loder
+url_git: https://github.com/jonclayden/loder

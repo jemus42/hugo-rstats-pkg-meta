@@ -1,0 +1,12 @@
+version: '1.3'
+title: Testing One Hypothesis Multiple Times
+maintainer: Sara Algeri
+description: Approximations of global p-values when testing hypothesis in presence
+  of non-identifiable nuisance parameters. The method relies on the Euler characteristic
+  heuristic and the expected Euler characteristic is efficiently computed by  in Algeri
+  and van Dyk (2018) <arXiv:1803.03858>.
+date_publication: '2019-08-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TOHM
+url_git: ''

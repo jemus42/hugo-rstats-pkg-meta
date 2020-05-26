@@ -1,0 +1,17 @@
+version: 0.1.5
+title: Stratification and Matching for Large Observational Data Sets
+maintainer: Rachael C. Aikens
+description: |-
+  A pilot matching design to automatically
+  stratify and match large datasets.  The manual_stratify() function allows
+  users to manually stratify a dataset based on categorical variables of
+  interest, while the auto_stratify() function does automatically by
+  allocating a held-aside (pilot) data set, fitting a prognostic score
+  (see Hansen (2008) <doi:10.1093/biomet/asn004>) on the pilot set, and stratifying the data set based
+  on prognostic score quantiles.  The strata_match() function then does optimal
+  matching of the data set in parallel within strata.
+date_publication: '2020-04-09'
+bug_reports: https://github.com/raikens1/stratamatch/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=stratamatch
+url_git: https://github.com/raikens1/stratamatch

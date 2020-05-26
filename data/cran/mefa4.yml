@@ -1,0 +1,13 @@
+version: 0.3-7
+title: Multivariate Data Handling with S4 Classes and Sparse Matrices
+maintainer: Peter Solymos
+description: |-
+  An S4 update of the 'mefa' package
+  using sparse matrices for enhanced efficiency.
+  Sparse array-like objects are supported via
+  lists of sparse matrices.
+date_publication: '2020-02-28'
+bug_reports: https://github.com/psolymos/mefa4/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mefa4
+url_git: https://github.com/psolymos/mefa4

@@ -1,0 +1,12 @@
+version: 0.2.0
+title: Create 2D Principal Component Plots with Bootstrapping
+maintainer: Joshua Starmer
+description: |-
+  Draws a 2D principal component plot using the first 2 principal
+  components from the original and bootstrapped data to give some sense of
+  variability.
+date_publication: '2015-06-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pcaBootPlot
+url_git: https://github.com/starmerj/pcaBootPlot

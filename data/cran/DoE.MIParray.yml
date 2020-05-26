@@ -1,0 +1,19 @@
+version: '0.13'
+title: Creation of Arrays by Mixed Integer Programming
+maintainer: Ulrike Groemping
+description: '''CRAN'' packages ''DoE.base'' and ''Rmosek'' and non-''CRAN'' package
+  ''gurobi'' are enhanced with functionality for the creation of optimized arrays
+  for experimentation, where optimization is in terms of generalized minimum aberration.
+  It is also possible to optimally extend existing arrays to larger run size. Optimization
+  requires the availability of at least one of the commercial products ''Gurobi''
+  or ''Mosek'' (free academic licenses available for both). For installing ''Gurobi''
+  and its R package ''gurobi'', follow instructions at <http://www.gurobi.com/downloads/gurobi-optimizer>
+  and <http://www.gurobi.com/documentation/7.5/refman/r_api_overview.html> (or higher
+  version). For installing ''Mosek'' and its R package ''Rmosek'', follow instructions
+  at <https://www.mosek.com/downloads/> and <http://docs.mosek.com/8.1/rmosek/install-interface.html>,
+  or use the functionality in the stump CRAN R package ''Rmosek''.'
+date_publication: '2019-07-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DoE.MIParray
+url_git: ''

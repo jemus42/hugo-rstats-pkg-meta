@@ -1,0 +1,11 @@
+version: 1.9.3
+title: Linked Micromap Plots
+maintainer: Marcus W. Beck
+description: |-
+  This group of functions simplifies the creation of linked micromap
+  plots.
+date_publication: '2018-02-08'
+bug_reports: ''
+url: http://www.jstatsoft.org/v63/i02/
+url_cran: https://CRAN.R-project.org/package=micromap
+url_git: ''

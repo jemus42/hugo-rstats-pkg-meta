@@ -1,0 +1,13 @@
+version: 1.0.1
+title: I/O Operations with Sparse Matrices
+maintainer: Dmitriy Selivanov
+description: |-
+  Fast 'SVMlight' reader and writer.
+  'SVMlight' is most commonly used format for storing
+  sparse matrices (possibly with some target variable) on disk.
+  For additional information about 'SVMlight' format see <http://svmlight.joachims.org/>.
+date_publication: '2020-01-13'
+bug_reports: https://github.com/dselivanov/sparsio/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sparsio
+url_git: https://github.com/dselivanov/sparsio

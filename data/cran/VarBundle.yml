@@ -1,0 +1,13 @@
+version: 0.3.0
+title: Read-Only Variable Bundles
+maintainer: Brandon C. Loudermilk
+description: |-
+  Easily create list-like structures with constant, read-only
+  variables. Combines the flexibility of lists with read-only fields.
+  Supports defensive programming by throwing errors on field assignment,
+  helping mitigate the introduction of logical runtime bugs.
+date_publication: '2018-08-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=VarBundle
+url_git: ''

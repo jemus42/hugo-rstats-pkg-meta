@@ -1,0 +1,14 @@
+version: 0.2.8
+title: Implementation of Core Data Structures
+maintainer: Simon Dirmeier
+description: |-
+  Implementation of advanced data structures such as hashmaps,
+  heaps, or queues. Advanced data structures are essential
+  in many computer science and statistics problems, for example graph
+  algorithms or string analysis. The package uses 'Boost' and 'STL' data
+  types and extends these to R with 'Rcpp' modules.
+date_publication: '2018-12-19'
+bug_reports: https://github.com/dirmeier/datastructures/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=datastructures
+url_git: https://github.com/dirmeier/datastructures

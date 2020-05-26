@@ -1,0 +1,15 @@
+version: 0.1.3
+title: Pairwise Association of Functional Annotations
+maintainer: Daphne Ezer
+description: |-
+  Finds pairs of functional annotations or gene ontology (GO)
+  terms that are enriched within a directed network (such as a gene
+  regulatory network).  This works with or without edge weights and
+  includes visualizations (both as a network where the functions are
+  nodes and as a heatmap).  PAFway is an acronym for Pairwise Associations of
+  Functional annotations in biological networks and pathWAYs.
+date_publication: '2020-02-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PAFway
+url_git: ''

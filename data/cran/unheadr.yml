@@ -1,0 +1,13 @@
+version: 0.2.1
+title: Handle Data with Messy Header Rows and Broken Values
+maintainer: Luis D. Verde Arregoitia
+description: |-
+  Verb-like functions to work with messy data, often derived from
+  spreadsheets or parsed PDF tables. Includes functions for unwrapping
+  values broken up across rows, relocating embedded grouping values,
+  and to annotate meaningful formatting in spreadsheet files.
+date_publication: '2020-03-04'
+bug_reports: https://github.com/luisDVA/unheadr/issues
+url: https://unheadr.liomys.mx/
+url_cran: https://CRAN.R-project.org/package=unheadr
+url_git: https://github.com/luisDVA/unheadr

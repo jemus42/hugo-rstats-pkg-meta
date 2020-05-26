@@ -1,0 +1,14 @@
+version: 0.1.1
+title: |-
+  A Pairwise Likelihood Augmented Cox Estimator for Left-Truncated
+  Data
+maintainer: Fan Wu
+description: |-
+  A semi-parametric estimation method for the Cox model
+  with left-truncated data using augmented information
+  from the marginal of truncation times.
+date_publication: '2016-04-30'
+bug_reports: https://github.com/942kid/plac/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=plac
+url_git: https://github.com/942kid/plac

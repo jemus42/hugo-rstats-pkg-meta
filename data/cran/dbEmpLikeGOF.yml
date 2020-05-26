@@ -1,0 +1,9 @@
+version: 1.2.4
+title: Goodness-of-fit and two sample comparison tests using sample<U+000a>entropy
+maintainer: Lori A. Shepherd
+description: Goodness-of-fit and two sample comparison tests using sample entropy
+date_publication: '2013-08-26'
+bug_reports: ''
+url: <U+000a>http://sphhp.buffalo.edu/biostat/research/software/EmpLike.GOF/index.php
+url_cran: https://CRAN.R-project.org/package=dbEmpLikeGOF
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.2.7
+title: Automatic Differentiation of Multivariate Operations
+maintainer: Steven E. Pav
+description: |-
+  An object that supports automatic differentiation
+  of matrix- and multidimensional-valued functions with
+  respect to multidimensional independent variables.
+  Automatic differentiation is via 'forward accumulation'.
+date_publication: '2020-02-08'
+bug_reports: https://github.com/shabbychef/madness/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=madness
+url_git: https://github.com/shabbychef/madness

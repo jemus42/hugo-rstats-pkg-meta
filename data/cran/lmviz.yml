@@ -1,0 +1,12 @@
+version: 0.1.2
+title: A Package to Visualize Linear Models Features and Play with Them
+maintainer: Francesco Pauli
+description: |-
+  Contains three shiny applications.
+  Two are meant to explore linear model inference feature through simulation.
+  The third is a game to learn interpreting diagnostic plots.
+date_publication: '2019-05-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lmviz
+url_git: ''

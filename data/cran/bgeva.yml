@@ -1,0 +1,11 @@
+version: 0.3-1
+title: Binary Generalized Extreme Value Additive Models
+maintainer: Giampiero Marra
+description: Routine for fitting regression models for binary rare events with linear
+  and nonlinear covariate effects when using the quantile function of the Generalized
+  Extreme Value random variable.
+date_publication: '2017-05-19'
+bug_reports: ''
+url: http://www.ucl.ac.uk/statistics/people/giampieromarra
+url_cran: https://CRAN.R-project.org/package=bgeva
+url_git: ''

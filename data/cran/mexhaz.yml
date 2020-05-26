@@ -1,0 +1,11 @@
+version: '1.7'
+title: Mixed Effect Excess Hazard Models
+maintainer: Hadrien Charvat
+description: Fit flexible (excess) hazard regression models with the possibility of
+  including non-proportional effects of covariables and of adding a random effect
+  at the cluster level (corresponding to a shared frailty).
+date_publication: '2019-12-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mexhaz
+url_git: ''

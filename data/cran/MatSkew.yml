@@ -1,0 +1,10 @@
+version: 0.1.5
+title: Matrix Skew-T Parameter Estimation
+maintainer: Michael P.B. Gallaugher
+description: 'Performs matrix skew-t parameter estimation, Gallaugher and McNicholas
+  (2017)  <doi: 10.1002/sta4.143>.'
+date_publication: '2019-07-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MatSkew
+url_git: ''

@@ -1,0 +1,10 @@
+version: 0.1.10
+title: Balanced Factorial Designs
+maintainer: Maximilian Rabe
+description: Generate balanced factorial designs with crossed and nested random and
+  fixed effects <https://github.com/mmrabe/designr>.
+date_publication: '2020-05-25'
+bug_reports: https://github.com/mmrabe/designr/issues
+url: https://maxrabe.com/designr
+url_cran: https://CRAN.R-project.org/package=designr
+url_git: ''

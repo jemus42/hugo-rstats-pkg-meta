@@ -1,0 +1,12 @@
+version: 0.1.8
+title: Amazon Web Services Customer Engagement APIs
+maintainer: David Kretch
+description: |-
+  Interface to Amazon Web Services customer engagement APIs,
+  including 'Simple Email Service', 'Connect' contact center service,
+  and more <https://aws.amazon.com/>.
+date_publication: '2020-04-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=paws.customer.engagement
+url_git: ''

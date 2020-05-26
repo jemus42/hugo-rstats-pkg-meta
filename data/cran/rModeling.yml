@@ -1,0 +1,12 @@
+version: 0.0.3
+title: A Framework of Cross-Validation
+maintainer: Shuxia Guo
+description: A framework of cross-validation for spectral data analysis that allows
+  for automatic tuning of model parameters and for model evaluation. It is particularly
+  useful for applications where intra-group heterogeneity is significant due to inter
+  individual differences. S. Guo, T. Bocklitz, U. Neugebauer, J.Popp (2017) <doi:10.1039/C7AY01363A>.
+date_publication: '2020-02-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rModeling
+url_git: ''

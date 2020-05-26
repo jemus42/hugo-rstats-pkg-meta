@@ -1,0 +1,11 @@
+version: 1.11.189
+title: '''AWS'' Java ''SDK'' for R'
+maintainer: Gergely Daroczi
+description: Installs the compiled Java modules of the Amazon Web Services ('AWS')
+  'SDK' to be used in downstream R packages interacting with 'AWS'. See <https://aws.amazon.com/sdk-for-java>
+  for more information on the 'AWS' 'SDK' for Java.
+date_publication: '2017-09-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AWR
+url_git: https://gitlab.com/daroczig/AWR

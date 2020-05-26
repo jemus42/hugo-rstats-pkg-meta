@@ -1,0 +1,14 @@
+version: 1.0.9
+title: |-
+  Mass Spectrometry Metabolomics Feature Clustering and
+  Interpretation
+maintainer: '"Broeckling,Corey"'
+description: 'A feature clustering algorithm for non-targeted mass spectrometric metabolomics
+  data. This method is compatible with gas and liquid chromatography coupled mass
+  spectrometry, including indiscriminant tandem mass spectrometry <DOI: 10.1021/ac501530d>
+  data.'
+date_publication: '2019-09-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RAMClustR
+url_git: https://github.com/cbroeckl/RAMClustR

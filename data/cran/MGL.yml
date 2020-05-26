@@ -1,0 +1,13 @@
+version: '1.1'
+title: Module Graphical Lasso
+maintainer: Safiye Celik
+description: 'An aggressive dimensionality reduction and network estimation<U+000a>technique
+  for a high-dimensional Gaussian graphical model (GGM). Please<U+000a>refer to: Efficient
+  Dimensionality Reduction for High-Dimensional Network<U+000a>Estimation, Safiye
+  Celik, Benjamin A. Logsdon, Su-In Lee, Proceedings of<U+000a>The 31st International
+  Conference on Machine Learning, 2014, p. 1953--1961.'
+date_publication: '2014-11-05'
+bug_reports: ''
+url: https://sites.google.com/a/cs.washington.edu/mgl/
+url_cran: https://CRAN.R-project.org/package=MGL
+url_git: ''

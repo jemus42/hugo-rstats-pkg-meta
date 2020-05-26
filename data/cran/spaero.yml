@@ -1,0 +1,12 @@
+version: 0.5.0
+title: Software for Project AERO
+maintainer: Eamon O'Dea
+description: |-
+  Implements methods for anticipating the emergence and eradication
+  of infectious diseases from surveillance time series. Also provides support
+  for computational experiments testing the performance of such methods.
+date_publication: '2019-05-24'
+bug_reports: https://github.com/e3bo/spaero/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=spaero
+url_git: ''

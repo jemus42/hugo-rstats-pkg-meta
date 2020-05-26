@@ -1,0 +1,12 @@
+version: 1.1-3
+title: Robust Covariance Estimation via Nearest Neighbor Cleaning
+maintainer: Hana Sevcikova
+description: |-
+  The cov.nnve() function implements robust covariance estimation
+  by the nearest neighbor variance estimation (NNVE) method of
+  Wang and Raftery (2002) <DOI:10.1198/016214502388618780>.
+date_publication: '2017-05-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=covRobust
+url_git: ''

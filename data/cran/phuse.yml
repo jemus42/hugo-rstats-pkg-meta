@@ -1,0 +1,13 @@
+version: 0.2.2
+title: Web Application Framework for 'PhUSE' Scripts
+maintainer: Hanming Tu
+description: |-
+  Make it easy to review, download and execute scripts stored in Github
+  'phuse-scripts' repository <https://github.com/phuse-org/phuse-scripts>. Some examples
+  included show the web application framework using the script metadata. The 'PhUSE'
+  is Pharmaceutical Users Software Exchange <http://www.phuse.eu>.
+date_publication: '2020-01-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=phuse
+url_git: ''

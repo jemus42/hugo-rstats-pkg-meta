@@ -1,0 +1,15 @@
+version: 0.9.5
+title: Interface to Download Meteorological (and Hydrological) Datasets
+maintainer: Bartosz Czernecki
+description: |-
+  Automatize downloading of meteorological and hydrological data from publicly available repositories:
+  OGIMET (<http://ogimet.com/index.phtml.en>),
+  University of Wyoming - atmospheric vertical profiling data (<http://weather.uwyo.edu/upperair>),
+  Polish Institute of Meterology and Water Management - National Research Institute (<https://dane.imgw.pl>),
+  and National Oceanic & Atmospheric Administration (NOAA).
+  This package also allows for adding geographical coordinates for each observation.
+date_publication: '2020-05-05'
+bug_reports: https://github.com/bczernecki/climate/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=climate
+url_git: https://github.com/bczernecki/climate

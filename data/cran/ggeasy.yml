@@ -1,0 +1,11 @@
+version: 0.1.2
+title: Easy Access to 'ggplot2' Commands
+maintainer: Jonathan Carroll
+description: |-
+  Provides a series of aliases to commonly used but difficult
+  to remember 'ggplot2' sequences.
+date_publication: '2020-03-19'
+bug_reports: https://github.com/jonocarroll/ggeasy/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggeasy
+url_git: https://github.com/jonocarroll/ggeasy

@@ -1,0 +1,11 @@
+version: '0.1'
+title: Code for integer partitioning
+maintainer: Daniel McGlinn
+description: |-
+  Provides algorithims for randomly sampling a feasible set defined
+  by a given total and number of elements using integer partitioning.
+date_publication: '2013-12-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rpartitions
+url_git: https://github.com/klocey/partitions

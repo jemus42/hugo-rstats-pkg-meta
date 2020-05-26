@@ -1,0 +1,11 @@
+version: 0.2.5
+title: |-
+  Search and Download Data from the Swiss Federal Statistical
+  Office (BFS)
+maintainer: Félix Luginbuhl
+description: Search and download data from the Swiss Federal Statistical Office <https://www.bfs.admin.ch/>.
+date_publication: '2020-03-25'
+bug_reports: https://github.com/lgnbhl/BFS/issues
+url: https://felixluginbuhl.com/BFS
+url_cran: https://CRAN.R-project.org/package=BFS
+url_git: https://github.com/lgnbhl/BFS

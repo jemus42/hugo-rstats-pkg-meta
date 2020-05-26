@@ -1,0 +1,17 @@
+version: 0.2.3
+title: Simulate and Sample from Ecological Interaction Networks
+maintainer: Carl Boettiger
+description: |-
+  Randomly generate a wide range of interaction networks with
+  specified size, average degree, modularity, and topological
+  structure. Sample nodes and links from within simulated networks
+  randomly, by degree, by module, or by abundance. Simulations
+  and sampling routines are implemented in 'FORTRAN', providing
+  efficient generation times even for large networks. Basic
+  visualization methods also included. Algorithms implemented
+  here are described in de Aguiar et al. (2017) <arXiv:1708.01242>.
+date_publication: '2019-07-13'
+bug_reports: https://github.com/cboettig/EcoNetGen/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=EcoNetGen
+url_git: https://github.com/cboettig/EcoNetGen

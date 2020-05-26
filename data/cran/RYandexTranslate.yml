@@ -1,0 +1,13 @@
+version: '1.0'
+title: R Interface to Yandex Translate API
+maintainer: Mukul Chaware
+description: |-
+  'Yandex Translate' (https://translate.yandex.com/) is a statistical machine translation system.
+  The system translates separate words, complete texts, and webpages.
+  This package can be used to detect language from text and to translate it to supported target language.
+  For more info: https://tech.yandex.com/translate/doc/dg/concepts/About-docpage/ .
+date_publication: '2016-02-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RYandexTranslate
+url_git: https://github.com/mukul13/RYandexTranslate

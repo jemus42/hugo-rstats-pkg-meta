@@ -1,0 +1,15 @@
+version: 1.2-4
+title: Weaning Age Reconstruction with Nitrogen Isotope Analysis
+maintainer: Takumi Tsutaya
+description: |-
+  This estimates precise weaning ages
+  for a given skeletal population
+  by analyzing the stable nitrogen isotope ratios of them.
+  Bone collagen turnover rates estimated anew and
+  the approximate Bayesian computation (ABC)
+  were adopted in this package.
+date_publication: '2019-10-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=WARN
+url_git: ''

@@ -1,0 +1,13 @@
+version: '1.4'
+title: Wild Binary Segmentation for Multiple Change-Point Detection
+maintainer: Rafal Baranowski
+description: |-
+  Provides efficient implementation of the Wild Binary Segmentation and Binary
+  Segmentation algorithms for estimation of the number and locations of
+  multiple change-points in the piecewise constant function plus Gaussian
+  noise model.
+date_publication: '2019-05-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=wbs
+url_git: ''

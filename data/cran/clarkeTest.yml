@@ -1,0 +1,15 @@
+version: 0.1.0
+title: Distribution-Free Tests of Non-Nested Models
+maintainer: Dave Armstrong
+description: |-
+  Implementation of Clarke's distribution-free test of
+  non-nested models.  Currently supported model functions are:
+  lm(), glm() ('binomial', 'poisson', 'negative binomial' links),
+  polr() ('MASS'), clm() ('ordinal'), and multinom() ('nnet').
+  For more information on the test, see Clarke (2007)
+  <doi:10.1093/pan/mpm004>.
+date_publication: '2020-03-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=clarkeTest
+url_git: ''

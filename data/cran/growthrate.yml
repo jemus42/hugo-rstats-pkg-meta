@@ -1,0 +1,12 @@
+version: '1.3'
+title: Bayesian reconstruction of growth velocity
+maintainer: Ian W. McKeague
+description: |-
+  A nonparametric empirical Bayes method for recovering
+  gradients (or growth velocities) from observations of smooth
+  functions (e.g., growth curves) at isolated time points.
+date_publication: '2014-08-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=growthrate
+url_git: ''

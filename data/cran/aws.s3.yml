@@ -1,0 +1,11 @@
+version: 0.3.21
+title: '''AWS S3'' Client Package'
+maintainer: Simon Urbanek
+description: |-
+  A simple client package for the Amazon Web Services ('AWS') Simple
+  Storage Service ('S3') 'REST' 'API' <https://aws.amazon.com/s3/>.
+date_publication: '2020-04-07'
+bug_reports: https://github.com/cloudyr/aws.s3/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=aws.s3
+url_git: https://github.com/cloudyr/aws.s3

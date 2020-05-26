@@ -1,0 +1,14 @@
+version: '0.2'
+title: |-
+  A graphical user interface for calculating power and sample size
+  for hierarchical data
+maintainer: Kari Tokola
+description: HierO is a graphical user interface (GUI) tool for calculating optimal
+  statistical power and sample size for hierarchical data structure. HierO constructs
+  a user defined sample size optimization problem to GAMS (General Algebraic Modeling
+  System)form and uses Rneos package to send the problem to NEOS server for solving.
+date_publication: '2015-01-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HierO
+url_git: ''

@@ -1,0 +1,15 @@
+version: '1.2'
+title: Choice Modeling in R
+maintainer: John V Colias
+description: Implements an MCMC algorithm to estimate a hierarchical<U+000a>multinomial
+  logit model with a normal heterogeneity<U+000a>distribution. The algorithm uses
+  a hybrid Gibbs Sampler with a<U+000a>random walk metropolis step for the MNL coefficients
+  for each<U+000a>unit. Dependent variable may be discrete or continuous.<U+000a>Independent
+  variables may be discrete or continuous with<U+000a>optional order constraints.
+  Means of the distribution of<U+000a>heterogeneity can optionally be modeled as a
+  linear function of<U+000a>unit characteristics variables.
+date_publication: '2012-11-20'
+bug_reports: ''
+url: http://www.decisionanalyst.com
+url_cran: https://CRAN.R-project.org/package=ChoiceModelR
+url_git: ''

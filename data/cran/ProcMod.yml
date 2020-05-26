@@ -1,0 +1,10 @@
+version: 1.0.3
+title: Informative Procrustean Matrix Correlation
+maintainer: Eric Coissac
+description: Estimates corrected Procrustean correlation between matrices for removing
+  overfitting effect. Coissac Eric and Gonindard-Melodelima Christelle (2019) <bioarXiv:10.1101/842070>.
+date_publication: '2019-11-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ProcMod
+url_git: ''

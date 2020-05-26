@@ -1,0 +1,13 @@
+version: '0.15'
+title: |-
+  Reverse Geocoding with the Photon Geocoder for OpenStreetMap,
+  Google Maps, and Bing
+maintainer: Michael Hudecheck
+description: Function revgeo() allows you to use the Photon geocoder for OpenStreetMap
+  <http://photon.komoot.de>, Google Maps <http://maps.google.com>, and Bing <https://www.bingmapsportal.com>
+  to reverse geocode coordinate pairs with minimal hassle.
+date_publication: '2017-11-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=revgeo
+url_git: ''

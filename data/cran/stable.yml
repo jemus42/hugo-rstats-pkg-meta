@@ -1,0 +1,15 @@
+version: 1.1.4
+title: |-
+  Probability Functions and Generalized Regression Models for
+  Stable Distributions
+maintainer: Bruce Swihart
+description: |-
+  Density, distribution, quantile and hazard functions of a
+  stable variate; generalized regression models for the parameters
+  of a stable distribution. See the README for how to make equivalent calls
+  to those of 'stabledist'. See github for Journal article.
+date_publication: '2019-02-04'
+bug_reports: https://github.com/swihart/stable/issues
+url: http://www.commanster.eu/rcode.html
+url_cran: https://CRAN.R-project.org/package=stable
+url_git: ''

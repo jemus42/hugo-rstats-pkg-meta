@@ -1,0 +1,13 @@
+version: 0.1-1
+title: Stellar CharactEristics Pisa Estimation gRid for Binary Systems
+maintainer: Matteo Dell'Omodarme
+description: SCEPtER pipeline for estimating the stellar age for double-lined detached
+  binary systems. The observational constraints adopted in the recovery are the effective
+  temperature, the metallicity [Fe/H], the mass, and the radius of the two stars.
+  The results are obtained adopting a maximum likelihood technique over a grid of
+  pre-computed stellar models.
+date_publication: '2014-12-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SCEPtERbinary
+url_git: ''

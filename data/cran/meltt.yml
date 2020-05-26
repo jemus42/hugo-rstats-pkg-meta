@@ -1,0 +1,12 @@
+version: 0.4.1
+title: Matching Event Data by Location, Time and Type
+maintainer: Karsten Donnay
+description: Framework for merging and disambiguating event data based on spatiotemporal
+  co-occurrence and secondary event characteristics. It can account for intrinsic
+  "fuzziness" in the coding of events, varying event taxonomies and different geo-precision
+  codes.
+date_publication: '2020-04-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=meltt
+url_git: ''

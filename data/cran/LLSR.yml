@@ -1,0 +1,12 @@
+version: 0.0.2.19
+title: Data Analysis of Liquid-Liquid Systems using R
+maintainer: Diego F Coelho
+description: Originally design to characterise Aqueous Two Phase Systems, LLSR provide
+  a simple way to analyse experimental data and obtain phase diagram parameters, among
+  other properties, systematically. The package will include (every other update)
+  new functions in order to comprise useful tools in liquid-liquid extraction research.
+date_publication: '2019-03-05'
+bug_reports: https://github.com/diegofcoelho/LLSR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=LLSR
+url_git: ''

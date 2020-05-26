@@ -1,0 +1,11 @@
+version: 0.2.5
+title: Regression Methods for IBD Linkage With Covariates
+maintainer: Jason P. Sinnwell
+description: A method to test genetic linkage with covariates by<U+000a>regression
+  methods with response IBD sharing for relative<U+000a>pairs.  Account for correlations
+  of IBD statistics and<U+000a>covariates for relative pairs within the same pedigree.
+date_publication: '2013-04-20'
+bug_reports: ''
+url: http://mayoresearch.mayo.edu/mayo/research/schaid_lab/software.cfm
+url_cran: https://CRAN.R-project.org/package=ibdreg
+url_git: ''

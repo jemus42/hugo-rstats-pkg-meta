@@ -1,0 +1,9 @@
+version: 0.2-5
+title: Truncated Gaussian Regression Models
+maintainer: Yves Croissant
+description: Estimation of models for truncated Gaussian variables by maximum likelihood.
+date_publication: '2018-08-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=truncreg
+url_git: http://R-Forge.R-project.org/projects/truncreg/

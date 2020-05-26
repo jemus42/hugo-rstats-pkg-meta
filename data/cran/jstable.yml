@@ -1,0 +1,12 @@
+version: 0.9.4
+title: Create Tables from Different Types of Regression
+maintainer: Jinseob Kim
+description: Create regression tables from generalized linear model(GLM), generalized
+  estimating equation(GEE), generalized linear mixed-effects model(GLMM), Cox proportional
+  hazards model, survey-weighted generalized linear model(svyglm) and survey-weighted
+  Cox model results for publication.
+date_publication: '2020-05-04'
+bug_reports: https://github.com/jinseob2kim/jstable/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=jstable
+url_git: https://github.com/jinseob2kim/jstable

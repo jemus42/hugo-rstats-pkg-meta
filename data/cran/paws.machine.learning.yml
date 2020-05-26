@@ -1,0 +1,13 @@
+version: 0.1.8
+title: Amazon Web Services Machine Learning APIs
+maintainer: David Kretch
+description: |-
+  Interface to Amazon Web Services machine learning APIs,
+  including 'SageMaker' managed machine learning service, natural
+  language processing, speech recognition, translation, and more
+  <https://aws.amazon.com/machine-learning/>.
+date_publication: '2020-04-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=paws.machine.learning
+url_git: ''

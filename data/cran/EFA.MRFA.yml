@@ -1,0 +1,16 @@
+version: 1.0.9
+title: Dimensionality Assessment Using Minimum Rank Factor Analysis
+maintainer: David Navarro-Gonzalez
+description: |-
+  Performs parallel analysis (Timmerman & Lorenzo-Seva, 2011
+  <doi:10.1037/a0023353>) and hull method (Lorenzo-Seva, Timmerman, & Kiers,
+  2011 <doi:10.1080/00273171.2011.564527>) for assessing the dimensionality
+  of a set of variables using minimum rank factor analysis (see ten Berge &
+  Kiers, 1991 <doi:10.1007/BF02294464> for more information). The package
+  also includes the option to compute minimum rank factor analysis by
+  itself, as well as the greater lower bound calculation.
+date_publication: '2020-04-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EFA.MRFA
+url_git: ''

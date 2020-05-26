@@ -1,0 +1,12 @@
+version: 1.0.9
+title: |-
+  Random Effects and/or Sample Selection Models for Panel Count
+  Data
+maintainer: Jing Peng
+description: A high performance package implementing random effects and/or sample
+  selection models for panel count data.
+date_publication: '2015-10-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PanelCount
+url_git: ''

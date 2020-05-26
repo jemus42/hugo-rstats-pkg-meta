@@ -1,0 +1,13 @@
+version: 0.3.0
+title: '''HTTP'' Status Code Helper'
+maintainer: Scott Chamberlain
+description: |-
+  Find and explain the meaning of 'HTTP' status codes.
+  Functions included for searching for codes by full or partial number,
+  by message, and get appropriate dog and cat images for many
+  status codes.
+date_publication: '2020-04-10'
+bug_reports: https://github.com/sckott/httpcode/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=httpcode
+url_git: https://github.com/sckott/httpcode

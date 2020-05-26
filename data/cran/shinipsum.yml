@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Lorem-Ipsum Helper Function for 'shiny' Prototyping
+maintainer: Colin Fay
+description: |-
+  Prototype your 'shiny' apps quickly with these
+  Lorem-Ipsum helper functions. Generate random elements
+  for 'shiny' outputs that can be used as placeholder in your application.
+date_publication: '2020-04-30'
+bug_reports: https://github.com/Thinkr-open/shinipsum/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinipsum
+url_git: https://github.com/Thinkr-open/shinipsum

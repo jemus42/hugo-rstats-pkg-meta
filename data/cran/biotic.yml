@@ -1,0 +1,11 @@
+version: 0.1.2
+title: Calculation of Freshwater Biotic Indices
+maintainer: Dr Rob Briers
+description: |-
+  Calculates a range of UK freshwater invertebrate biotic indices
+  including BMWP, Whalley, WHPT, Habitat-specific BMWP, AWIC, LIFE and PSI.
+date_publication: '2016-04-20'
+bug_reports: https://github.com/robbriers/biotic/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=biotic
+url_git: https://github.com/robbriers/biotic

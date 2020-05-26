@@ -1,0 +1,15 @@
+version: 1.2-16
+title: Lazy Learning for Local Regression
+maintainer: Gianluca Bontempi
+description: |-
+  By combining constant, linear, and quadratic local models,
+  lazy estimates the value of an unknown multivariate function on
+  the basis of a set of possibly noisy samples of the function
+  itself.  This implementation of lazy learning automatically
+  adjusts the bandwidth on a query-by-query basis through a
+  leave-one-out cross-validation.
+date_publication: '2018-07-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lazy
+url_git: ''

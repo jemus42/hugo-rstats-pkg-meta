@@ -1,0 +1,9 @@
+version: 1.2.1
+title: Robust Asymptotic Statistics
+maintainer: Matthias Kohl
+description: Base S4-classes and functions for robust asymptotic statistics.
+date_publication: '2019-04-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RobAStBase
+url_git: http://robast.r-forge.r-project.org/

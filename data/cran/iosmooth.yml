@@ -1,0 +1,11 @@
+version: '0.94'
+title: Functions for Smoothing with Infinite Order Flat-Top Kernels
+maintainer: Timothy L. McMurry
+description: |-
+  Density, spectral density, and regression estimation using infinite
+  order flat-top kernels.
+date_publication: '2017-01-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=iosmooth
+url_git: ''

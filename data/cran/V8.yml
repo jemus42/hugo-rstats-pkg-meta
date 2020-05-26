@@ -1,0 +1,12 @@
+version: 3.0.2
+title: Embedded JavaScript and WebAssembly Engine for R
+maintainer: Jeroen Ooms
+description: |-
+  An R interface to V8: Google's open source JavaScript and WebAssembly
+  engine. This package can be compiled either with V8 version 6 and up, a NodeJS
+  shared library, or the legacy 3.14/3.15 branch of V8.
+date_publication: '2020-03-14'
+bug_reports: https://github.com/jeroen/v8/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=V8
+url_git: https://jeroen.cran.dev/V8(docs)https://github.com/jeroen/v8(devel)https://v8.dev(upstream)

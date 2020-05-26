@@ -1,0 +1,12 @@
+version: 1.0.5
+title: Power Analysis for Generalised Linear Mixed Models by Simulation
+maintainer: Green Peter
+description: |-
+  Calculate power for generalised linear mixed models, using
+  simulation. Designed to work with models fit using the 'lme4' package.
+  Described in Green and MacLeod, 2016 <doi:10.1111/2041-210X.12504>.
+date_publication: '2019-01-29'
+bug_reports: https://github.com/pitakakariki/simr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=simr
+url_git: https://github.com/pitakakariki/simr

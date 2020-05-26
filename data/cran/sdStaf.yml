@@ -1,0 +1,11 @@
+version: 1.0.2
+title: Species Distribution and Stability Future Models
+maintainer: P. Joser Atauchi
+description: Functions for post processing the outcomes of ecological niche models.
+  It further include methods to build stability maps based on species distribution
+  models under climate change projections and to reduce environmental data.
+date_publication: '2018-10-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sdStaf
+url_git: ''

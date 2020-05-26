@@ -1,0 +1,13 @@
+version: '2.1'
+title: |-
+  Multivariate Sparse Group Lasso for the Multivariate Multiple
+  Linear Regression with an Arbitrary Group Structure
+maintainer: Yanming Li
+description: For fitting multivariate response and multiple predictor linear regressions
+  with an arbitrary group structure assigned on the regression coefficient matrix,
+  using the multivariate sparse group lasso and the mixed coordinate descent algorithm.
+date_publication: '2016-11-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MSGLasso
+url_git: ''

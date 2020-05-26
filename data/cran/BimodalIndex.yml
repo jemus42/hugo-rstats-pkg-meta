@@ -1,0 +1,13 @@
+version: 1.1.9
+title: The Bimodality Index
+maintainer: Kevin R. Coombes
+description: |-
+  Defines the functions used to compute the
+  bimodal index as defined by Wang et al. (2009)
+  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2730180/>,
+  <doi:10.4137/CIN.S2846>.
+date_publication: '2019-05-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BimodalIndex
+url_git: http://oompa.r-forge.r-project.org/

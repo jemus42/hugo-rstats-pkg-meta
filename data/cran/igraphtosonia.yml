@@ -1,0 +1,11 @@
+version: '1.0'
+title: Convert iGraph graps to SoNIA .son files
+maintainer: Sean J Westwood
+description: |-
+  This program facilitates exporting igraph graphs to the
+  SoNIA file format
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=igraphtosonia
+url_git: ''

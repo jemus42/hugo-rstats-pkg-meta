@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Data Analysis with Ceiling and/or Floor Data
+maintainer: Qimin Liu
+description: An implementation of data analytic methods in R for analyses for data
+  with ceiling/floor effects. The package currently includes functions for mean/variance
+  estimation and mean comparison tests. Implemented methods are from Aitkin (1964)
+  <doi:10.1007/BF02289723> and Liu & Wang (in prep).
+date_publication: '2018-02-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DACF
+url_git: ''

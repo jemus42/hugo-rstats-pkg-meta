@@ -1,0 +1,14 @@
+version: '1.0'
+title: |-
+  Estimation of Heritability in High Dimensional Sparse Linear
+  Mixed Models using Variable Selection
+maintainer: Anna Bonnet
+description: Our method is a variable selection method to select active components
+  in sparse linear mixed models in order to estimate the heritability. The selection
+  allows us to reduce the size of the data sets which improves the accuracy of the
+  estimations. Our package also provides a confidence interval for the estimated heritability.
+date_publication: '2015-07-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EstHer
+url_git: ''

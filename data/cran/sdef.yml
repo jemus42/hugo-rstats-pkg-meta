@@ -1,0 +1,12 @@
+version: '1.7'
+title: Synthesizing List of Differentially Expressed Features
+maintainer: Alberto Cassese
+description: |-
+  Performs two tests to evaluate if the
+  experiments are associated and returns a list of interesting
+  features common to all the experiments.
+date_publication: '2018-05-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sdef
+url_git: ''

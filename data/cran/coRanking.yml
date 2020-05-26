@@ -1,0 +1,11 @@
+version: 0.2.1
+title: Co-Ranking Matrix
+maintainer: Guido Kraemer
+description: |-
+  Calculates the co-ranking matrix to assess the
+  quality of a dimensionality reduction.
+date_publication: '2020-02-12'
+bug_reports: https://github.com/gdkrmr/coRanking/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=coRanking
+url_git: https://github.com/gdkrmr/coRanking

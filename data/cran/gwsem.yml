@@ -1,0 +1,17 @@
+version: 0.1.17
+title: Genome-Wide Structural Equation Modeling
+maintainer: Joshua N. Pritikin
+description: |-
+  Melds genome-wide association tests with structural
+  equation modeling (SEM) using 'OpenMx'. This package contains
+  low-level C/C++ code to rapidly read genetic data encoded in U.K.
+  Biobank or 'plink' formats. Prebuilt modeling options include one and
+  two factor models. Alternately, analyses may utilize arbitrary,
+  user-provided SEMs.  See Verhulst, Maes, & Neale (2017)
+  <doi:10.1007/s10519-017-9842-6> for details. An updated manuscript is
+  in preparation.
+date_publication: '2020-03-27'
+bug_reports: https://github.com/jpritikin/gwsem/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gwsem
+url_git: https://github.com/jpritikin/gwsem

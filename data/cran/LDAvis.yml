@@ -1,0 +1,16 @@
+version: 0.3.2
+title: Interactive Visualization of Topic Models
+maintainer: Carson Sievert
+description: |-
+  Tools to create an interactive web-based visualization of a
+  topic model that has been fit to a corpus of text data using
+  Latent Dirichlet Allocation (LDA). Given the estimated parameters of
+  the topic model, it computes various summary statistics as input to
+  an interactive visualization built with D3.js that is accessed via
+  a browser. The goal is to help users interpret the topics in their
+  LDA topic model.
+date_publication: '2015-10-24'
+bug_reports: https://github.com/cpsievert/LDAvis/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=LDAvis
+url_git: https://github.com/cpsievert/LDAvis

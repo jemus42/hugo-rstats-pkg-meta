@@ -1,0 +1,13 @@
+version: 1.0.0
+title: |-
+  Design and Monitoring of Clinical Trials with Negative Binomial
+  Endpoint
+maintainer: Xiaodong Luo
+description: |-
+  Calculates various functions needed for design and monitoring clinical trials with negative binomial endpoint
+  with variable follow-up.
+date_publication: '2018-11-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NBDesign
+url_git: ''

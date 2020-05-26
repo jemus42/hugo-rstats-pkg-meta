@@ -1,0 +1,15 @@
+version: 0.2.1
+title: |-
+  Acquisition and Processing of NASA Soil Moisture Active-Passive
+  (SMAP) Data
+maintainer: Maxwell Joseph
+description: |2-
+
+  Facilitates programmatic access to NASA Soil Moisture Active
+  Passive (SMAP) data with R. It includes functions to search for, acquire,
+  and extract SMAP data.
+date_publication: '2019-04-22'
+bug_reports: https://github.com/ropensci/smapr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=smapr
+url_git: https://github.com/ropensci/smapr

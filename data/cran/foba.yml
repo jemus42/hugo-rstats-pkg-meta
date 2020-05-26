@@ -1,0 +1,11 @@
+version: '0.1'
+title: greedy variable selection
+maintainer: Tong Zhang
+description: foba is a package that implements forward, backward, and foba sparse
+  learning algorithms for ridge regression, described in the paper "Adaptive Forward-Backward
+  Greedy Algorithm for Learning Sparse Representations".
+date_publication: ''
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=foba
+url_git: ''

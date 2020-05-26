@@ -1,0 +1,10 @@
+version: 0.1.7
+title: Turn vectors and lists of vectors into indexed structures
+maintainer: Gaston Sanchez
+description: Package designed for working with vectors and lists of vectors,<U+000a>mainly
+  for turning them into other indexed data structures.
+date_publication: '2014-02-17'
+bug_reports: ''
+url: http://www.gastonsanchez.com
+url_cran: https://CRAN.R-project.org/package=turner
+url_git: ''

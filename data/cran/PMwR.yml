@@ -1,0 +1,14 @@
+version: 0.14-0
+title: Portfolio Management with R
+maintainer: Enrico Schumann
+description: |-
+  Functions and examples for 'Portfolio
+  Management with R': backtesting investment and
+  trading strategies, computing profit/loss and
+  returns, analysing trades, handling lists of
+  transactions, reporting, and more.
+date_publication: '2020-03-11'
+bug_reports: ''
+url: http://enricoschumann.net/PMwR/
+url_cran: https://CRAN.R-project.org/package=PMwR
+url_git: https://github.com/enricoschumann/PMwR

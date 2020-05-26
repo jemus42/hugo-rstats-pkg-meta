@@ -1,0 +1,14 @@
+version: 0.1.1
+title: Analysing and plotting genotype-phenotype maps
+maintainer: Arne B. Gjuvsland
+description: 'This package contains tools for studying genotype-phenotype (GP) maps
+  for bi-allelic loci underlying quantitative phenotypes. The 0.1 version is released
+  in connection with the publication of Gjuvsland et al. (2003) and implements basic
+  line plots and the monotonicity measures for GP maps presented in the paper. Reference:
+  Gjuvsland AB, Wang Y, Plahte E and Omholt SW (2013) Monotonicity is a key feature
+  of genotype-phenotype maps. Front. Genet. 4:216. doi: 10.3389/fgene.2013.00216 [\href{http://www.frontiersin.org/Journal/10.3389/fgene.2013.00216/full}{link}]'
+date_publication: '2014-01-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gpmap
+url_git: ''

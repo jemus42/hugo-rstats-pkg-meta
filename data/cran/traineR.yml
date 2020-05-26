@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Predictive Models Homologator
+maintainer: Oldemar Rodriguez R.
+description: |-
+  Methods to unify the different ways of creating predictive models and their different predictive formats. It includes
+  methods such as K-Nearest Neighbors, Decision Trees, ADA Boosting, Extreme Gradient Boosting, Random Forest, Neural Networks, Deep Learning,
+  Support Vector Machines and Bayesian Methods.
+date_publication: '2019-10-07'
+bug_reports: ''
+url: http://www.promidat.com
+url_cran: https://CRAN.R-project.org/package=traineR
+url_git: ''

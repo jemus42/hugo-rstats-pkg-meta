@@ -1,0 +1,11 @@
+version: 1.0.1
+title: Multiple Testing Procedure for Grouped Hypotheses
+maintainer: Zhigen Zhao
+description: Contains functions for a two-stage multiple testing procedure for grouped
+  hypothesis, aiming at controlling both the total posterior false discovery rate
+  and within-group false discovery rate.
+date_publication: '2015-11-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GroupTest
+url_git: ''

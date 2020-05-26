@@ -1,0 +1,11 @@
+version: 0.1-2
+title: Bayesian Community Ecology Analysis
+maintainer: Nick Golding
+description: |-
+  Bayesian multivariate binary (probit) regression
+  models for analysis of ecological communities.
+date_publication: '2015-07-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BayesComm
+url_git: ''

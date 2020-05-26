@@ -1,0 +1,14 @@
+version: 2.1-3
+title: |-
+  Simulate Bipartite Graphs with Fixed Marginals Through
+  Sequential Importance Sampling
+maintainer: Ryan Admiraal
+description: |-
+  Tools to simulate bipartite networks/graphs with the
+  degrees of the nodes fixed and specified. 'networksis' is part
+  of the 'statnet' suite of packages for network analysis.
+date_publication: '2015-04-16'
+bug_reports: ''
+url: http://statnet.org
+url_cran: https://CRAN.R-project.org/package=networksis
+url_git: ''

@@ -1,0 +1,14 @@
+version: 1.1.0
+title: '''DataSHIELD'' Implementation on Local Datasets'
+maintainer: Yannick Marcon
+description: |-
+  'DataSHIELD' is an infrastructure and series of R packages that
+  enables the remote and 'non-disclosive' analysis of sensitive research data.
+  This 'DataSHIELD Interface' implementation is for analyzing datasets living
+  in the current R session. The purpose of this is primarily for lightweight
+  'DataSHIELD' analysis package development.
+date_publication: '2020-05-18'
+bug_reports: https://github.com/datashield/DSLite
+url: http://www.datashield.ac.ukhttps://doi.org/10.1093/ije/dyu188
+url_cran: https://CRAN.R-project.org/package=DSLite
+url_git: ''

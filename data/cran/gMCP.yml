@@ -1,0 +1,11 @@
+version: 0.8-15
+title: Graph Based Multiple Comparison Procedures
+maintainer: Kornelius Rohmeyer
+description: |-
+  Functions and a graphical user interface for graphical described
+  multiple test procedures.
+date_publication: '2020-03-23'
+bug_reports: https://github.com/kornl/gMCP/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gMCP
+url_git: http://gsrmtp.r-forge.r-project.org/

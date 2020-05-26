@@ -1,0 +1,11 @@
+version: 1.0.0
+title: A Dataset of Favourite Numbers
+maintainer: Oliver Keyes
+description: |-
+  A dataset of favourite numbers, selected from an online poll of over 30,000 people by Alex Bellos
+  (http://pages.bloomsbury.com/favouritenumber).
+date_publication: '2015-07-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=favnums
+url_git: ''

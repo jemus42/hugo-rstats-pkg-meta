@@ -1,0 +1,13 @@
+version: '0.1'
+title: |-
+  Multi-Marker Molecular Signature for Treatment-specific Subgroup
+  Identification
+maintainer: Lin Li
+description: |-
+  The package implements a multi-marker molecular signature (MMMS) approach
+  for treatment-specific subgroup identification.
+date_publication: '2014-03-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MMMS
+url_git: ''

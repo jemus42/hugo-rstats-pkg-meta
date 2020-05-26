@@ -1,0 +1,11 @@
+version: '2.0'
+title: Assigning Ancestry Based on Population References
+maintainer: Eoghan T O'Halloran
+description: |-
+  Assigns genetic ancestry to an individual and
+  studies relationships between local and global populations.
+date_publication: '2016-09-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AncestryMapper
+url_git: ''

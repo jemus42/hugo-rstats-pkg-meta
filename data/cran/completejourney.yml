@@ -1,0 +1,13 @@
+version: 1.1.0
+title: Retail Shopping Data
+maintainer: Brad Boehmke
+description: |-
+  Retail shopping transactions for 2,469 households over one year.
+  Originates from the 84.51° Complete Journey 2.0 source files
+  <https://www.8451.com/area51> which also includes useful metadata on
+  products, coupons, campaigns, and promotions.
+date_publication: '2019-09-28'
+bug_reports: https://github.com/bradleyboehmke/completejourney/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=completejourney
+url_git: https://github.com/bradleyboehmke/completejourney

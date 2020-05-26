@@ -1,0 +1,9 @@
+version: 1.0.1
+title: An Interface to Google Drive
+maintainer: Jennifer Bryan
+description: Manage Google Drive files from R.
+date_publication: '2020-05-05'
+bug_reports: https://github.com/tidyverse/googledrive/issues
+url: https://googledrive.tidyverse.org
+url_cran: https://CRAN.R-project.org/package=googledrive
+url_git: https://github.com/tidyverse/googledrive

@@ -1,0 +1,14 @@
+version: 0.3-1
+title: R Utilities Accompanying the Software Package BayesX
+maintainer: Nikolaus Umlauf
+description: |-
+  Functions for exploring and visualising estimation results
+  obtained with BayesX, a free software for estimating structured additive
+  regression models (<http://www.BayesX.org>). In addition,
+  functions that allow to read, write and manipulate map objects that are required in spatial
+  analyses performed with BayesX.
+date_publication: '2019-08-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BayesX
+url_git: ''

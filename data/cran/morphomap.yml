@@ -1,0 +1,12 @@
+version: '1.1'
+title: Morphometric Maps, Bone Landmarking and Cross Sectional Geometry
+maintainer: Antonio Profico
+description: Extract cross sections from long bone meshes at specified intervals along
+  the diaphysis. Calculate two and three-dimensional morphometric maps, cross-sectional
+  geometric parameters, and semilandmarks on the periosteal and endosteal contours
+  of each cross section.
+date_publication: '2020-01-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=morphomap
+url_git: ''

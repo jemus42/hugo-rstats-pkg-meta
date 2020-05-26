@@ -1,0 +1,10 @@
+version: 0.2.0
+title: Analysis of Symmetry of Parasitic Infections
+maintainer: Matt Wayland
+description: Tools for the analysis and visualization of bilateral asymmetry in parasitic
+  infections.
+date_publication: '2016-09-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=aspi
+url_git: ''

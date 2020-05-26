@@ -1,0 +1,12 @@
+version: 0.1.14
+title: Projects for Text Version Comparison and Analytics in R
+maintainer: Peter Meissner
+description: |-
+  Provides data structures and methods for measuring, coding,
+  and analysing text within text corpora. The package allows for manual as
+  well computer aided coding on character, token and text pair level.
+date_publication: '2016-11-06'
+bug_reports: https://github.com/petermeissner/diffrprojects/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=diffrprojects
+url_git: https://github.com/petermeissner/diffrprojects

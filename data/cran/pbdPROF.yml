@@ -1,0 +1,9 @@
+version: 0.4-0
+title: Programming with Big Data -- MPI Profiling Tools
+maintainer: Wei-Chen Chen
+description: MPI profiling tools.
+date_publication: '2019-11-16'
+bug_reports: http://group.r-pbd.org/
+url: http://r-pbd.org/
+url_cran: https://CRAN.R-project.org/package=pbdPROF
+url_git: ''

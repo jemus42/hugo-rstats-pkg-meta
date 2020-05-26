@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Sliding Window Discrete Fourier Transform (SWDFT)
+maintainer: Lee F. Richardson
+description: |-
+  Implements the Sliding Window Discrete Fourier Transform (SWDFT). Also provides
+  statistical methods based on the SWDFT, and graphical tools to display the outputs.
+date_publication: '2019-04-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=swdft
+url_git: ''

@@ -1,0 +1,16 @@
+version: '0.2'
+title: |-
+  Visualize 'Reproducibility' and 'Replicability' in a Comparison
+  of Scientific Studies
+maintainer: Prasad Patil
+description: |-
+  Users may specify what fundamental qualities of a new study have
+  or have not changed in an attempt to reproduce or replicate an
+  original study. A comparison of the differences is visualized.
+  Visualization approach follows 'Patil', 'Peng', and
+  'Leek' (2016) <doi:10.1101/066803>.
+date_publication: '2019-03-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=scifigure
+url_git: ''

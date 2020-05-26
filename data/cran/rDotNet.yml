@@ -1,0 +1,13 @@
+version: 0.9.1
+title: |-
+  Low-Level Interface to the '.NET' Virtual Machine Along the
+  Lines of the R C/Call API
+maintainer: Jonathan Shore
+description: Low-level interface to '.NET' virtual machine along the lines of the
+  R C .call interface.  Can create '.NET' object, call methods, get or set properties,
+  call static functions, etc.
+date_publication: '2017-09-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rDotNet
+url_git: https://github.com/tr8dr/.Net-Bridge/tree/master/src/R/rDotNet

@@ -1,0 +1,11 @@
+version: 1.3.1
+title: Test Shiny Apps
+maintainer: Winston Chang
+description: |-
+  For automated testing of Shiny applications, using a headless
+  browser, driven through 'WebDriver'.
+date_publication: '2019-05-06'
+bug_reports: https://github.com/rstudio/shinytest/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinytest
+url_git: https://github.com/rstudio/shinytest

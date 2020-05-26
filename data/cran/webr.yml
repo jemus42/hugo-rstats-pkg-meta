@@ -1,0 +1,13 @@
+version: 0.1.5
+title: Data and Functions for Web-Based Analysis
+maintainer: Keon-Woong Moon
+description: |-
+  Several analysis-related functions for the book entitled
+  "Web-based Analysis without R in Your Computer"(written in Korean, ISBN 978-89-5566-185-9)
+  by Keon-Woong Moon. The main function plot.htest() shows the distribution of statistic for
+  the object of class 'htest'.
+date_publication: '2020-01-26'
+bug_reports: https://github.com/cardiomoon/webr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=webr
+url_git: https://github.com/cardiomoon/webr

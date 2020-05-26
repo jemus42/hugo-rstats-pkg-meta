@@ -1,0 +1,14 @@
+version: 0.10.1
+title: Solve Generalized Estimating Equations
+maintainer: Lee McDaniel
+description: |-
+  GEE estimation of the parameters in mean structures with possible
+  correlation between the outcomes. User-specified mean link and variance
+  functions are allowed, along with observation weighting. The 'M' in the name
+  'geeM' is meant to emphasize the use of the Matrix package, which allows for an
+  implementation based fully in R.
+date_publication: '2018-06-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=geeM
+url_git: ''

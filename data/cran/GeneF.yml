@@ -1,0 +1,13 @@
+version: '1.0'
+title: Package for Generalized F-statistics
+maintainer: Yinglei Lai
+description: |-
+  This package implements several generalized F-statistics.
+  The current version includes a generalized F-statistic based on
+  the flexible isotonic/monotonic regression or order restricted
+  hypothesis testing.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GeneF
+url_git: ''

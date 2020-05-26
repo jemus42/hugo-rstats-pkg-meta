@@ -1,0 +1,11 @@
+version: 1.4.1
+title: Calculate Species Richness and Extrapolation Metrics
+maintainer: Eric Archer
+description: |-
+  Calculate species richness functions for rarefaction and
+  extrapolation.
+date_publication: '2016-04-16'
+bug_reports: https://github.com/EricArcher/sprex/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sprex
+url_git: ''

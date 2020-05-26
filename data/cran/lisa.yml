@@ -1,0 +1,10 @@
+version: 0.1.1
+title: Color Palettes from Color Lisa
+maintainer: Tyler Littlefield
+description: Contains 128 palettes from Color Lisa. All palettes are based on masterpieces
+  from the worlds greatest artists. For more information, see <http://colorlisa.com/>.
+date_publication: '2019-11-03'
+bug_reports: https://github.com/tyluRp/lisa/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=lisa
+url_git: https://github.com/tyluRp/lisa

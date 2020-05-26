@@ -1,0 +1,12 @@
+version: '2.0'
+title: Base64 Encoder and Decoder
+maintainer: Jeroen Ooms
+description: |-
+  Compatibility wrapper to replace the orphaned package by
+  Romain Francois. New applications should use the 'openssl' or
+  'base64enc' package instead.
+date_publication: '2016-05-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=base64
+url_git: ''

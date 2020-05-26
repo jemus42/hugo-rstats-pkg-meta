@@ -1,0 +1,15 @@
+version: 0.1.9
+title: Examples using 'Rcpp' to Interface R and C++
+maintainer: Dirk Eddelbuettel
+description: |-
+  Examples for Seamless R and C++ integration
+  The 'Rcpp' package contains a C++ library that facilitates the integration of
+  R and C++ in various ways. This package provides some usage examples.
+  Note that the documentation in this package currently does not cover all the
+  features in the package. The site <http://gallery.rcpp.org> regroups a large
+  number of examples for 'Rcpp'.
+date_publication: '2019-08-24'
+bug_reports: https://github.com/eddelbuettel/rcppexamples/issues
+url: http://dirk.eddelbuettel.com/code/rcpp.examples.html
+url_cran: https://CRAN.R-project.org/package=RcppExamples
+url_git: ''

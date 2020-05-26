@@ -1,0 +1,11 @@
+version: 1.0.0
+title: A Data Cube 'dplyr' Backend
+maintainer: Hadley Wickham
+description: |-
+  An implementation of a data cube extracted out of
+  'dplyr' for backward compatibility.
+date_publication: '2020-02-29'
+bug_reports: https://github.com/hadley/cubelyr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=cubelyr
+url_git: https://github.com/hadley/cubelyr

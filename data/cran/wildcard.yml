@@ -1,0 +1,9 @@
+version: 1.1.0
+title: Templates for Data Frames
+maintainer: William Michael Landau
+description: Generate data frames from templates.
+date_publication: '2017-09-16'
+bug_reports: https://github.com/wlandau/wildcard/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=wildcard
+url_git: https://github.com/wlandau/wildcard

@@ -1,0 +1,13 @@
+version: 1.7.0
+title: Example Data from the Multi-Modal MRI 'Reproducibility' Resource
+maintainer: John Muschelli
+description: |-
+  Multi-modal magnetic resonance imaging ('MRI')
+  data from the 'Kirby21' 'reproducibility' study
+  <https://www.nitrc.org/projects/multimodal/>, including functional
+  and structural imaging.
+date_publication: '2018-08-13'
+bug_reports: ''
+url: https://www.nitrc.org/projects/multimodal/
+url_cran: https://CRAN.R-project.org/package=kirby21.base
+url_git: ''

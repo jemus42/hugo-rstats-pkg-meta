@@ -1,0 +1,14 @@
+version: 1.1.1
+title: |-
+  Time Series Analysis Toolkit Based on Symbolic Aggregate
+  Discretization, i.e. SAX
+maintainer: Pavel Senin
+description: |-
+  Implements time series z-normalization, SAX, HOT-SAX, VSM, SAX-VSM, RePair, and RRA
+  algorithms facilitating time series motif (i.e., recurrent pattern), discord (i.e., anomaly),
+  and characteristic pattern discovery along with interpretable time series classification.
+date_publication: '2020-02-13'
+bug_reports: https://github.com/jMotif/jmotif-R/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=jmotif
+url_git: https://github.com/jMotif/jmotif-R

@@ -1,0 +1,11 @@
+version: '1.5'
+title: Quantitative Psychology Tools
+maintainer: Thomas D. Fletcher
+description: |-
+  Contains functions useful for data screening, testing
+  moderation, mediation and estimating power.
+date_publication: '2012-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=QuantPsyc
+url_git: ''

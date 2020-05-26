@@ -1,0 +1,11 @@
+version: 1.0.2
+title: Compute Deviation and Correspondence Between Spatial Paths
+maintainer: Shane T. Mueller
+description: 'Functions to compute and display the area-based deviation between spatial
+  paths and to compute a mapping based on minimizing area and distance-based cost.  For
+  details, see: Mueller, S. T., Perelman, B. S., & Veinott, E. S. (2016) <DOI:10.3758/s13428-015-0562-7>.'
+date_publication: '2017-03-22'
+bug_reports: ''
+url: https://sites.google.com/a/mtu.edu/mapping/
+url_cran: https://CRAN.R-project.org/package=pathmapping
+url_git: https://github.com/stmueller/pathmapping/

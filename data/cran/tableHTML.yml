@@ -1,0 +1,13 @@
+version: 2.0.0
+title: A Tool to Create HTML Tables
+maintainer: Theo Boutaris
+description: |-
+  A tool to create and style HTML tables with CSS. These can
+  be exported and used in any application that accepts HTML (e.g. 'shiny',
+  'rmarkdown', 'PowerPoint'). It also provides functions to create CSS files
+  (which also work with shiny).
+date_publication: '2019-03-16'
+bug_reports: https://github.com/LyzandeR/tableHTML/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tableHTML
+url_git: https://github.com/LyzandeR/tableHTML

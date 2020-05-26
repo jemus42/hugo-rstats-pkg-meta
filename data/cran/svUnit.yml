@@ -1,0 +1,9 @@
+version: 1.0.3
+title: '''SciViews'' - Unit, Integration and System Testing'
+maintainer: Philippe Grosjean
+description: A complete unit test system and functions to implement its GUI part.
+date_publication: '2020-04-20'
+bug_reports: https://github.com/SciViews/svUnit/issues
+url: https://www.sciviews.org/svUnit/
+url_cran: https://CRAN.R-project.org/package=svUnit
+url_git: https://github.com/SciViews/svUnit

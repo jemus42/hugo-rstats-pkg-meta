@@ -1,0 +1,13 @@
+version: 0.5.0
+title: US Maps Including Alaska and Hawaii
+maintainer: Paolo Di Lorenzo
+description: |-
+  Obtain United States map data frames of varying region types (e.g. county,
+  state). The map data frames include Alaska and Hawaii conveniently placed to the
+  bottom left, as they appear in most maps of the US. Convenience functions for plotting
+  choropleths and working with FIPS codes are also provided.
+date_publication: '2019-09-12'
+bug_reports: https://github.com/pdil/usmap/issues
+url: https://dilorenzo.pl/pkgs/usmap
+url_cran: https://CRAN.R-project.org/package=usmap
+url_git: ''

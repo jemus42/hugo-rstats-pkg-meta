@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Directed Weighted Clustering Coefficient
+maintainer: Gian Paolo Clemente
+description: |-
+  Allows the computation of clustering coefficients for directed and weighted networks by using different approaches.
+  It allows to compute clustering coefficients that are not present in 'igraph' package.
+  A description of clustering coefficients can be found in "Directed clustering in weighted networks: a new perspective", Clemente, G.P., Grassi, R. (2017),
+  <doi:10.1016/j.chaos.2017.12.007>.
+date_publication: '2018-01-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DirectedClustering
+url_git: ''

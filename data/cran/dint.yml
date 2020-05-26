@@ -1,0 +1,14 @@
+version: 2.1.3
+title: A Toolkit for Year-Quarter, Year-Month and Year-Isoweek Dates
+maintainer: Stefan Fleck
+description: |-
+  S3 classes and methods to create and work
+  with year-quarter, year-month and year-isoweek vectors. Basic
+  arithmetic operations (such as adding and subtracting) are supported,
+  as well as formatting and converting to and from standard R date
+  types.
+date_publication: '2020-02-06'
+bug_reports: https://github.com/s-fleck/dint/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dint
+url_git: https://github.com/s-fleck/dint

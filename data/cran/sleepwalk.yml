@@ -1,0 +1,14 @@
+version: 0.3.0
+title: Interactively Explore Dimension-Reduced Embeddings
+maintainer: Svetlana Ovchinnikova
+description: |-
+  A tool to interactively explore the
+  embeddings created by dimension reduction methods such as
+  Principal Components Analysis (PCA), Multidimensional Scaling (MDS),
+  T-distributed Stochastic Neighbour Embedding (t-SNE),
+  Uniform Manifold Approximation and Projection (UMAP) or any other.
+date_publication: '2020-02-26'
+bug_reports: https://github.com/anders-biostat/sleepwalk/issues
+url: https://anders-biostat.github.io/sleepwalk/
+url_cran: https://CRAN.R-project.org/package=sleepwalk
+url_git: ''

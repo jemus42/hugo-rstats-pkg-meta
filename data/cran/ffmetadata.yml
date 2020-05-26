@@ -1,0 +1,14 @@
+version: 1.0.0
+title: Access to Fragile Families Metadata
+maintainer: Ryan Vinh
+description: |-
+  A collection of functions that allows users to retrieve
+  metadata for the Fragile Families challenge via a Web API
+  (<http://api.metadata.fragilefamilies.princeton.edu>).
+  Users can select and search metadata for relevant variables by
+  filtering on different attribute names.
+date_publication: '2018-11-19'
+bug_reports: https://github.com/fragilefamilieschallenge/ffmetadata/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ffmetadata
+url_git: https://github.com/fragilefamilieschallenge/ffmetadata

@@ -1,0 +1,18 @@
+version: '1.0'
+title: |-
+  Finding Locally D-optimal optimal designs for some nonlinear and
+  generalized linear models.
+maintainer: Ehsan Masoudi
+description: |-
+  this package provides functions for Finding Locally
+  D-optimal designs for Logistic, Negative Binomial, Poisson,
+  Michaelis-Menten, Exponential, Log-Linear, Emax, Richards,
+  Weibull and Inverse Quadratic regression models and also
+  functions for auto-constructing Fisher information matrix and
+  Frechet derivative based on some input variables and without
+  user-interfere.
+date_publication: '2013-03-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LDOD
+url_git: ''

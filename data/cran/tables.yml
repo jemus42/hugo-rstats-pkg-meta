@@ -1,0 +1,12 @@
+version: 0.8.8
+title: Formula-Driven Table Generation
+maintainer: Duncan Murdoch
+description: |-
+  Computes and displays complex tables of summary statistics.
+  Output may be in LaTeX, HTML, plain text, or an R
+  matrix for further processing.
+date_publication: '2019-05-13'
+bug_reports: https://r-forge.r-project.org/tracker/?atid=5053&group_id=1277
+url: ''
+url_cran: https://CRAN.R-project.org/package=tables
+url_git: https://r-forge.r-project.org/projects/tables/

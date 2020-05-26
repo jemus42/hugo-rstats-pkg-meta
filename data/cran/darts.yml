@@ -1,0 +1,12 @@
+version: '1.0'
+title: Statistical Tools to Analyze Your Darts Game
+maintainer: Ryan Tibshirani
+description: Are you aiming at the right spot in darts? Maybe not! Use<U+000a>this
+  package to find your optimal aiming location. For a better<U+000a>explanation, go
+  to<U+000a>http://www-stat.stanford.edu/~ryantibs/darts/ or see the paper<U+000a>"A
+  Statistician Plays Darts".
+date_publication: '2011-01-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=darts
+url_git: ''

@@ -1,0 +1,12 @@
+version: 1.0-4.2
+title: Semiparametic Regression
+maintainer: Billy Aung Myint
+description: |-
+  Functions for semiparametric regression analysis, to
+  complement the book: Ruppert, D., Wand, M.P. and Carroll, R.J.
+  (2003). Semiparametric Regression. Cambridge University Press.
+date_publication: '2018-04-16'
+bug_reports: ''
+url: http://matt-wand.utsacademics.info/SPmanu.pdf
+url_cran: https://CRAN.R-project.org/package=SemiPar
+url_git: ''

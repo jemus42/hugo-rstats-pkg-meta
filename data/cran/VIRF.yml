@@ -1,0 +1,12 @@
+version: 0.1.0
+title: |-
+  Computation of Volatility Impulse Response Function of
+  Multivariate Time Series
+maintainer: Dr. Ranjit Kumar Paul
+description: Computation of volatility impulse response function for multivariate
+  time series model using algorithm by Jin, Lin and Tamvakis (2012) <doi.org/10.1016/j.eneco.2012.03.003>.
+date_publication: '2019-05-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=VIRF
+url_git: ''

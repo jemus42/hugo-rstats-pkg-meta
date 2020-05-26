@@ -1,0 +1,11 @@
+version: '1.1'
+title: Student's t Vector Autoregression (StVAR)
+maintainer: Niraj Poudyal
+description: |-
+  Estimation of
+  multivariate Student's t dynamic regression models for a given degrees of freedom and lag length. Users can also specify the trends and dummies of any kind in matrix form.
+date_publication: '2017-02-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=StVAR
+url_git: ''

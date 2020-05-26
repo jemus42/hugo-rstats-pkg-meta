@@ -1,0 +1,11 @@
+version: '0.2'
+title: Translation of Base R-Like Functions for 'data.table' Objects
+maintainer: Robin Van Oirbeek
+description: Some heavily used base R functions are reconstructed to also be compliant
+  to data.table objects. Also, some general helper functions that could be of interest
+  for working with data.table objects are included.
+date_publication: '2020-03-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=R2DT
+url_git: ''

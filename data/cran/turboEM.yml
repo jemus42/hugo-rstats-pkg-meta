@@ -1,0 +1,18 @@
+version: '2020.1'
+title: |-
+  A Suite of Convergence Acceleration Schemes for EM, MM and Other
+  Fixed-Point Algorithms
+maintainer: Ravi Varadhan
+description: |-
+  Algorithms for accelerating the convergence of slow,
+  monotone sequences from smooth, contraction mapping such as the
+  EM and MM algorithms. It can be used to accelerate any smooth,
+  linearly convergent acceleration scheme.  A tutorial style
+  introduction to this package is available in a vignette on the
+  CRAN download page or, when the package is loaded in an R
+  session, with vignette("turboEM").
+date_publication: '2020-01-13'
+bug_reports: ''
+url: http://www.jhsph.edu/agingandhealth/People/Faculty_personal_pages/Varadhan.html
+url_cran: https://CRAN.R-project.org/package=turboEM
+url_git: ''

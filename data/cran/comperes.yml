@@ -1,0 +1,17 @@
+version: 0.2.4
+title: Manage Competition Results
+maintainer: Evgeni Chasnovski
+description: |-
+  Tools for storing and managing competition results.
+  Competition is understood as a set of games in which players gain some
+  abstract scores.  There are two ways for storing results: in long (one
+  row per game-player) and wide (one row per game with fixed amount of
+  players) formats. This package provides functions for creation and
+  conversion between them. Also there are functions for computing their
+  summary and Head-to-Head values for players. They leverage grammar of
+  data manipulation from 'dplyr'.
+date_publication: '2020-05-09'
+bug_reports: https://github.com/echasnovski/comperes/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=comperes
+url_git: https://github.com/echasnovski/comperes

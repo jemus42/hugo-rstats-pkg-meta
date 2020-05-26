@@ -1,0 +1,15 @@
+version: 1.0.7
+title: Exact Test and Visualization of Multi-Set Intersections
+maintainer: Minghui Wang
+description: Identification of sets of objects with shared features is a common operation
+  in all disciplines. Analysis of intersections among multiple sets is fundamental
+  for in-depth understanding of their complex relationships. This package implements
+  a theoretical framework for efficient computation of statistical distributions of
+  multi-set intersections based upon combinatorial theory, and provides multiple scalable
+  techniques for visualizing the intersection statistics. The statistical algorithm
+  behind this package was published in Wang et al. (2015) <doi:10.1038/srep16923>.
+date_publication: '2019-06-21'
+bug_reports: https://github.com/mw201608/SuperExactTest/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=SuperExactTest
+url_git: https://github.com/mw201608/SuperExactTest/

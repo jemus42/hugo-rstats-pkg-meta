@@ -1,0 +1,11 @@
+version: 1.5.1
+title: Visualisation of Raw or Segmented Accelerometer Data
+maintainer: Charles Sweetland
+description: |-
+  Creates visualisations in two and three dimensions of simulated
+  data based on detected segments or raw accelerometer data.
+date_publication: '2019-12-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GENEAsphere
+url_git: ''

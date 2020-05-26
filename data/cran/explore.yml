@@ -1,0 +1,12 @@
+version: 0.5.5
+title: Simplifies Exploratory Data Analysis
+maintainer: Roland Krasser
+description: Interactive data exploration with one line of code or use an easy to
+  remember set of tidy functions for exploratory data analysis. Introduces three main
+  verbs. explore() to graphically explore a variable or table, describe() to describe
+  a variable or table and report() to create an automated report.
+date_publication: '2020-04-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=explore
+url_git: http://github.com/rolkra/explore

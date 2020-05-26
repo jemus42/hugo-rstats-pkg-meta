@@ -1,0 +1,18 @@
+version: 0.3.1
+title: Interaction Analysis of Repeated Measure Data
+maintainer: Fei Zhou
+description: Extensive penalized variable selection methods have been developed in
+  the past two decades for analyzing high dimensional omics data, such as gene expressions,
+  single nucleotide polymorphisms (SNPs), copy number variations (CNVs) and others.
+  However, lipidomics data have been rarely investigated by using high dimensional
+  variable selection methods. This package incorporates our recently developed penalization
+  procedures to conduct interaction analysis for high dimensional lipidomics data
+  with repeated measurements. The core module of this package is developed in C++.
+  The development of this software package and the associated statistical methods
+  have been partially supported by an Innovative Research Award from Johnson Cancer
+  Research Center, Kansas State University.
+date_publication: '2020-04-20'
+bug_reports: https://github.com/feizhoustat/interep/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=interep
+url_git: https://github.com/feizhoustat/interep

@@ -1,0 +1,13 @@
+version: 1.1-1
+title: Generalized Nonlinear Models
+maintainer: Heather Turner
+description: Functions to specify and fit generalized nonlinear models, including
+  models with multiplicative interaction terms such as the UNIDIFF model from sociology
+  and the AMMI model from crop science, and many others.  Over-parameterized representations
+  of models are used throughout; functions are provided for inference on estimable
+  parameter combinations, as well as standard methods for diagnostics etc.
+date_publication: '2020-02-03'
+bug_reports: https://github.com/hturner/gnm/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gnm
+url_git: https://github.com/hturner/gnm

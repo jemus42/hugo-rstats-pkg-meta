@@ -1,0 +1,16 @@
+version: '1.7'
+title: Printing Floating Point Numbers in a Human-Friendly Format
+maintainer: Kevin Wright
+description: |-
+  Print vectors (and data frames) of floating point numbers
+  using a non-scientific format optimized for human readers.  Vectors
+  of numbers are rounded using significant digits, aligned at the
+  decimal point, and all zeros trailing the decimal point are dropped.
+  See: Wright (2016). Lucid: An R Package for Pretty-Printing Floating Point
+  Numbers. In JSM Proceedings, Statistical Computing Section. Alexandria,
+  VA: American Statistical Association. 2270-2279.
+date_publication: '2019-02-06'
+bug_reports: https://github.com/kwstat/lucid/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=lucid
+url_git: https://github.com/kwstat/lucid

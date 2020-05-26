@@ -1,0 +1,14 @@
+version: '2.62'
+title: |-
+  Bayesian Structure Learning in Graphical Models using
+  Birth-Death MCMC
+maintainer: Reza Mohammadi
+description: Statistical tools for Bayesian structure learning in undirected graphical
+  models for continuous, discrete, and mixed data. The package is implemented the
+  recent improvements in the Bayesian graphical models literature, including Mohammadi
+  and Wit (2015) <doi:10.1214/14-BA889>, Mohammadi and Wit (2019) <doi:10.18637/jss.v089.i03>.
+date_publication: '2019-12-05'
+bug_reports: ''
+url: https://www.uva.nl/profile/a.mohammadi
+url_cran: https://CRAN.R-project.org/package=BDgraph
+url_git: ''

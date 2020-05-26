@@ -1,0 +1,9 @@
+version: '0.14'
+title: Tests for outliers
+maintainer: Lukasz Komsta
+description: A collection of some tests commonly used for identifying<U+000a>outliers.
+date_publication: '2011-01-24'
+bug_reports: ''
+url: http://www.komsta.net/
+url_cran: https://CRAN.R-project.org/package=outliers
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.6
+title: Measures of the Sturdiness of Regression Coefficients
+maintainer: Carlos Cinelli
+description: |-
+  Implements the s-values proposed by Ed. Leamer.
+  It provides a context-minimal approach for sensitivity analysis using extreme
+  bounds to assess the sturdiness of regression coefficients.
+date_publication: '2018-07-15'
+bug_reports: https://github.com/carloscinelli/sValues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sValues
+url_git: ''

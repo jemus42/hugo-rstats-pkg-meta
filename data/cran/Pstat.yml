@@ -1,0 +1,15 @@
+version: '1.2'
+title: Assessing Pst Statistics
+maintainer: Blondeau Da Silva Stephane
+description: Calculating Pst values to assess differentiation among populations from
+  a set of quantitative traits is the primary purpose of such a package. The bootstrap
+  method provides confidence intervals and distribution histograms of Pst. Variations
+  of Pst in function of the parameter c/h^2 are studied as well. Finally, the package
+  proposes different transformations especially to eliminate any variation resulting
+  from allometric growth (calculation of residuals from linear regressions, Reist
+  standardizations or Aitchison transformation).
+date_publication: '2017-11-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Pstat
+url_git: ''

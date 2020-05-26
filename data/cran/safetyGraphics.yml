@@ -1,0 +1,12 @@
+version: 1.1.0
+title: Create Interactive Graphics Related to Clinical Trial Safety
+maintainer: Jeremy Wildfire
+description: A framework for evaluation of clinical trial safety. Users can interactively
+  explore their data using the 'Shiny' application or create standalone 'htmlwidget'
+  charts. Interactive charts are built using 'd3.js' and 'webcharts.js' 'JavaScript'
+  libraries.
+date_publication: '2020-01-15'
+bug_reports: https://github.com/SafetyGraphics/safetyGraphics/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=safetyGraphics
+url_git: https://github.com/SafetyGraphics/safetyGraphics

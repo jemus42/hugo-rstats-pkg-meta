@@ -1,0 +1,16 @@
+version: 4.6.8
+title: Wavelets Statistics and Transforms
+maintainer: Guy Nason
+description: |-
+  Performs 1, 2 and 3D real and complex-valued wavelet transforms,
+  nondecimated transforms, wavelet packet transforms, nondecimated
+  wavelet packet transforms, multiple wavelet transforms,
+  complex-valued wavelet transforms, wavelet shrinkage for
+  various kinds of data, locally stationary wavelet time series,
+  nonstationary multiscale transfer function modeling, density
+  estimation.
+date_publication: '2016-10-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=wavethresh
+url_git: ''

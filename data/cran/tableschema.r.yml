@@ -1,0 +1,16 @@
+version: 1.1.1
+title: Table Schema 'Frictionless Data'
+maintainer: Kleanthis Koupidis
+description: Allows to work with 'Table Schema' (<http://specs.frictionlessdata.io/table-schema/>).
+  'Table Schema' is well suited for use cases around handling and validating tabular
+  data in text formats such as 'csv', but its utility extends well beyond this core
+  usage, towards a range of applications where data benefits from a portable schema
+  format. The 'tableschema.r' package can load and validate any table schema descriptor,
+  allow the creation and modification of descriptors, expose methods for reading and
+  streaming data that conforms to a 'Table Schema' via the 'Tabular Data Resource'
+  abstraction.
+date_publication: '2020-03-12'
+bug_reports: https://github.com/frictionlessdata/tableschema-r/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tableschema.r
+url_git: https://github.com/frictionlessdata/tableschema-r

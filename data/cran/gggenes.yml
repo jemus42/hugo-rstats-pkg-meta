@@ -1,0 +1,11 @@
+version: 0.4.0
+title: Draw Gene Arrow Maps in 'ggplot2'
+maintainer: David Wilkins
+description: |-
+  Provides a 'ggplot2' geom and helper functions for drawing gene
+  arrow maps.
+date_publication: '2019-06-24'
+bug_reports: https://github.com/wilkox/gggenes/issues
+url: https://wilkox.org/gggenes
+url_cran: https://CRAN.R-project.org/package=gggenes
+url_git: ''

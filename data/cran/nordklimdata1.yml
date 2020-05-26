@@ -1,0 +1,15 @@
+version: '1.2'
+title: Dataset for Climate Analysis with Data from the Nordic Region
+maintainer: Jose Gama
+description: |-
+  The Nordklim dataset 1.0 is a unique and useful achievement for climate
+  analysis. It includes observations of twelve different climate elements from
+  more than 100 stations in the Nordic region, in time span over 100 years.
+  The project contractors were NORDKLIM/NORDMET on behalf of the National
+  meteorological services in Denmark (DMI), Finland (FMI), Iceland (VI),
+  Norway (DNMI) and Sweden (SMHI).
+date_publication: '2015-07-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nordklimdata1
+url_git: ''

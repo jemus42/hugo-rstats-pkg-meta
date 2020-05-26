@@ -1,0 +1,10 @@
+version: '1.1'
+title: Risk Management
+maintainer: Marcelo Brutti Righi
+description: Computes risk measures from data, as well as performs risk management
+  procedures.
+date_publication: '2015-12-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=riskR
+url_git: ''

@@ -1,0 +1,17 @@
+version: 1.2.2
+title: Genetic Analysis Package
+maintainer: Jing Hua Zhao
+description: |-
+  It is designed as an integrated package for genetic data
+  analysis of both population and family data. Currently, it
+  contains functions for sample size calculations of both
+  population-based and family-based designs, probability of
+  familial disease aggregation, kinship calculation, statistics
+  in linkage analysis, and association analysis involving genetic
+  markers including haplotype analysis with or without environmental
+  covariates.
+date_publication: '2020-02-02'
+bug_reports: https://github.com/jinghuazhao/R/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gap
+url_git: https://github.com/jinghuazhao/R

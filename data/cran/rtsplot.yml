@@ -1,0 +1,13 @@
+version: 0.1.3
+title: Time Series Plot
+maintainer: Irina Kapler
+description: |-
+  A fast and elegant time series visualization package. In addition to the
+  standard R plot types, this package supports candle sticks, open-high-low-close, and
+  volume plots. Useful for visualizing any time series data, e.g., stock prices and
+  technical indicators.
+date_publication: '2020-03-29'
+bug_reports: https://bitbucket.org/rtsvizteam/rtsplot/issues
+url: https://rtsvizteam.bitbucket.io/pkg/rtsplot
+url_cran: https://CRAN.R-project.org/package=rtsplot
+url_git: https://bitbucket.org/rtsvizteam/rtsplot

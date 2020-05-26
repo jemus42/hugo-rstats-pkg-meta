@@ -1,0 +1,12 @@
+version: 2.0.1
+title: Interface to 'typeform' Results
+maintainer: Colin Gillespie
+description: |-
+  An R interface to the 'typeform'
+  <https://typeform.com> application program interface.  Also provides
+  functions for downloading your results.
+date_publication: '2020-03-23'
+bug_reports: https://github.com/csgillespie/rtypeform/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rtypeform
+url_git: https://github.com/csgillespie/rtypeform

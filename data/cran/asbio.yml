@@ -1,0 +1,10 @@
+version: 1.6-3
+title: A Collection of Statistical Tools for Biologists
+maintainer: Ken Aho
+description: 'Contains functions from: Aho, K. (2014) Foundational and Applied Statistics
+  for Biologists using R.  CRC/Taylor and Francis, Boca Raton, FL, ISBN: 978-1-4398-7338-0.'
+date_publication: '2020-02-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=asbio
+url_git: ''

@@ -1,0 +1,13 @@
+version: '1.0'
+title: Abbreviate Strings to Short, Unique Identifiers
+maintainer: Shaun Jackman
+description: For each string in a set of strings, determine a unique tag that is a
+  substring of fixed size k unique to that string, if it has one. If no such unique
+  substring exists, the least frequent substring is used. If multiple unique substrings
+  exist, the lexicographically smallest substring is used. This lexicographically
+  smallest substring of size k is called the "UniqTag" of that string.
+date_publication: '2015-04-29'
+bug_reports: https://github.com/sjackman/uniqtag/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=uniqtag
+url_git: https://github.com/sjackman/uniqtag

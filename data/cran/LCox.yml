@@ -1,0 +1,15 @@
+version: 0.1.0
+title: |-
+  A Tool for Selecting Genes Related to Survival Outcomes using
+  Longitudinal Gene Expression Data
+maintainer: Jiehuan Sun
+description: Longitudinal genomics data and survival outcome are common in biomedical
+  studies. It is of great interest to select genes related to the survival outcome.
+  LCox is a computationally efficient tool for selecting genes related to the survival
+  outcome using the longitudinal genomics data. LCox is powerful to detect different
+  forms of dependence between the longitudinal biomarkers and the survival outcome.
+date_publication: '2017-07-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LCox
+url_git: ''

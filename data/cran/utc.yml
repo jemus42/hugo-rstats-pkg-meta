@@ -1,0 +1,11 @@
+version: 0.1.5
+title: Coordinated Universal Time Transformations
+maintainer: Antonio J. Segura
+description: 'Three functions are provided: first function changes time from local
+  to UTC, other changes from UTC to local and third returns difference between local
+  and UTC. %h+% operator is also provided it adds hours to a time.'
+date_publication: '2019-01-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=utc
+url_git: ''

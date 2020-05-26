@@ -1,0 +1,10 @@
+version: '1.0'
+title: Value at Risk
+maintainer: Hung Vu
+description: 'Many method to compute, predict and back-test VaR. For more detail,
+  see the report: Value at Risk <researchgate.net>.'
+date_publication: '2015-11-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=jvnVaR
+url_git: ''

@@ -1,0 +1,14 @@
+version: '1.4'
+title: Tools for plotting skew-T diagrams and wind profiles
+maintainer: Doug Nychka
+description: RadioSonde is a collection of programs for reading and<U+000a>plotting
+  SKEW-T,log p diagrams and wind profiles for data<U+000a>collected by radiosondes
+  (the typical weather balloon-borne<U+000a>instrument), which we will call "flights",
+  "sondes", or<U+000a>"profiles" throughout the associated documentation.  The raw<U+000a>data
+  files are in a common format that has a header followed by<U+000a>specific variables.  Use
+  "help(ExampleSonde)" for the full<U+000a>explanation of the data files.
+date_publication: '2014-09-17'
+bug_reports: ''
+url: http://www.image.ucar.edu/Software/RadioSonde
+url_cran: https://CRAN.R-project.org/package=RadioSonde
+url_git: ''

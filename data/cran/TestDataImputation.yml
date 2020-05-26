@@ -1,0 +1,15 @@
+version: '1.1'
+title: Missing Item Responses Imputation for Test and Assessment Data
+maintainer: Shenghai Dai
+description: |-
+  Functions for imputing missing item responses for dichotomous and
+  polytomous test and assessment data. This package enables missing imputation
+  methods that are suitable for test and assessment data, including: listwise (LW)
+  deletion, treating as incorrect (IN), person mean imputation (PM), item mean
+  imputation (IM), two-way imputation (TW), logistic regression imputation (LR),
+  and EM imputation.
+date_publication: '2019-03-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TestDataImputation
+url_git: ''

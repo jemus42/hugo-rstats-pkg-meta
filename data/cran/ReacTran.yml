@@ -1,0 +1,11 @@
+version: 1.4.3.1
+title: Reactive Transport Modelling in 1d, 2d and 3d
+maintainer: Karline Soetaert
+description: |-
+  Routines for developing models that describe reaction and advective-diffusive transport in one, two or three dimensions.
+  Includes transport routines in porous media, in estuaries, and in bodies with variable shape.
+date_publication: '2017-08-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ReacTran
+url_git: ''

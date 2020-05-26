@@ -1,0 +1,12 @@
+version: 2.0.1
+title: Multivariate Dose-Response Meta-Analysis
+maintainer: Alessio Crippa
+description: |-
+  Estimates dose-response relations from summarized dose-response
+  data and to combines them according to principles of (multivariate)
+  random-effects models.
+date_publication: '2017-09-12'
+bug_reports: https://github.com/alecri/dosresmeta/issues
+url: https://alecri.github.io/software/dosresmeta.html
+url_cran: https://CRAN.R-project.org/package=dosresmeta
+url_git: ''

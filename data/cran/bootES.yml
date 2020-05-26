@@ -1,0 +1,9 @@
+version: '1.2'
+title: Bootstrap Effect Sizes
+maintainer: Daniel Gerlanc
+description: Calculate robust measures of effect sizes using the bootstrap.
+date_publication: '2015-08-14'
+bug_reports: ''
+url: http://www.enplusadvisors.com
+url_cran: https://CRAN.R-project.org/package=bootES
+url_git: ''

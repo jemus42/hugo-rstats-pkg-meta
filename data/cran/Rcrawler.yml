@@ -1,0 +1,11 @@
+version: 0.1.9-1
+title: Web Crawler and Scraper
+maintainer: Salim Khalil
+description: Performs parallel web crawling and web scraping. It is designed to crawl,
+  parse and store web pages to produce data that can be directly used for analysis
+  application. For details see Khalil and Fakir (2017) <DOI:10.1016/j.softx.2017.04.004>.
+date_publication: '2018-11-11'
+bug_reports: https://github.com/salimk/Rcrawler/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rcrawler
+url_git: https://github.com/salimk/Rcrawler/

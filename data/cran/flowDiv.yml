@@ -1,0 +1,10 @@
+version: '2.0'
+title: Cytometric Diversity Indices from Gated Data
+maintainer: Bruno M.S. Wanderley
+description: Uses multidimensional contingency tables to calculate ecological diversity
+  indices for gated populations.
+date_publication: '2017-11-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=flowDiv
+url_git: ''

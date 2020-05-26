@@ -1,0 +1,17 @@
+version: 1.4.1
+title: Basic Finance; NPV/IRR/Annuities/Bond-Pricing; Black Scholes
+maintainer: Jayanth Varma
+description: |-
+  Implements the basic financial analysis
+  functions similar to (but not identical to) what
+  is available in most spreadsheet software. This
+  includes finding the IRR and NPV of regularly
+  spaced cash flows and annuities. Bond pricing and
+  YTM calculations are included. In addition, Black
+  Scholes option pricing and Greeks are also
+  provided.
+date_publication: '2019-03-15'
+bug_reports: http://github.com/jrvarma/jrvFinance/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=jrvFinance
+url_git: http://github.com/jrvarma/jrvFinance

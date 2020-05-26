@@ -1,0 +1,10 @@
+version: 0.4-2
+title: Statistical Analysis of Environmental Space-Time Processes
+maintainer: Davor Cubranic
+description: Functions and datasets to support the book by Nhu D Le and James V Zidek,
+  Springer (2006).
+date_publication: '2015-06-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EnviroStat
+url_git: ''

@@ -1,0 +1,15 @@
+version: 1.1.1
+title: Level-Dependent Cross-Validation Thresholding
+maintainer: Donghoh Kim
+description: This package carries out level-dependent cross-validation<U+000a>method
+  for the selection of thresholding value in wavelet<U+000a>shrinkage. This procedure
+  is implemented by coupling a<U+000a>conventional cross validation with an imputation
+  method due to<U+000a>a limitation of data length, a power of 2. It can be easily<U+000a>applied
+  to classical leave-one-out and k-fold cross validation.<U+000a>Since the procedure
+  is computationally fast, a level-dependent<U+000a>cross validation can be performed
+  for wavelet shrinkage of<U+000a>various data such as a data with correlated errors.
+date_publication: '2013-01-18'
+bug_reports: ''
+url: http://dasan.sejong.ac.kr/~dhkim/software_cvthresh.html
+url_cran: https://CRAN.R-project.org/package=CVThresh
+url_git: ''

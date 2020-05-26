@@ -1,0 +1,13 @@
+version: 0.3.0
+title: Simple Conjoint Tidying, Analysis, and Visualization
+maintainer: Thomas J. Leeper
+description: Simple tidying, analysis, and visualization of conjoint (factorial) experiments,
+  including estimation and visualization of average marginal component effects ('AMCEs')
+  and marginal means ('MMs') for weighted and un-weighted survey data, along with
+  useful reference category diagnostics and statistical tests. Estimation of 'AMCEs'
+  is based upon methods described by Hainmueller, Hopkins, and Yamamoto (2014) <doi:10.1093/pan/mpt024>.
+date_publication: '2018-07-30'
+bug_reports: https://github.com/leeper/cregg/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=cregg
+url_git: https://github.com/leeper/cregg

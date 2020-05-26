@@ -1,0 +1,12 @@
+version: 0.6.5
+title: A factory of self-describing properties.
+maintainer: Tengfei Yin
+description: Supports the definition of sets of properties on objects. Observers can
+  listen to changes on individual properties or the set as a whole. The properties
+  are meant to be fully self-describing. In support of this, there is a framework
+  for defining enumerated types, as well as other bounded types, as S4 classes.
+date_publication: '2011-12-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=objectProperties
+url_git: ''

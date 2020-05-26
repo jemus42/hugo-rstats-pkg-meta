@@ -1,0 +1,15 @@
+version: 2.0.0
+title: |-
+  Mixed FLP and ML Estimation of ETAS Space-Time Point Processes
+  for Earthquake Description
+maintainer: Marcello Chiodi
+description: 'Estimation of the components of an ETAS (Epidemic Type Aftershock Sequence)
+  model for earthquake description. Non-parametric background seismicity can be estimated
+  through FLP (Forward Likelihood Predictive). New version 2.0.0: covariates have
+  been introduced to explain the effects of external factors on the induced seismicity;
+  the parametrization has been changed; Chiodi, Adelfio (2017)<doi:10.18637/jss.v076.i03>.'
+date_publication: '2020-05-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=etasFLP
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Tools for using Network Reporting Estimators
+maintainer: Dennis M. Feehan
+description: |-
+  Functions useful
+  for producing estimates from data that were collected using network
+  reporting techniques like network scale-up, indirect sampling,
+  network reporting, and sibling history.
+date_publication: '2016-06-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=networkreporting
+url_git: ''

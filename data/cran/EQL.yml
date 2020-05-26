@@ -1,0 +1,12 @@
+version: 1.0-1
+title: Extended-Quasi-Likelihood-Function (EQL)
+maintainer: Thorn Thaler
+description: |-
+  Computation of the EQL for a given family of variance
+  functions, Saddlepoint-approximations and related auxiliary
+  functions (e.g. Hermite polynomials).
+date_publication: '2019-08-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EQL
+url_git: ''

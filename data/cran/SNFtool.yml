@@ -1,0 +1,12 @@
+version: 2.3.0
+title: Similarity Network Fusion
+maintainer: Daniel Cole
+description: Similarity Network Fusion takes multiple views of a network and fuses
+  them together to construct an overall status matrix. The input to our algorithm
+  can be feature vectors, pairwise distances, or pairwise similarities. The learned
+  status matrix can then be used for retrieval, clustering, and classification.
+date_publication: '2018-04-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SNFtool
+url_git: ''

@@ -1,0 +1,10 @@
+version: 0.0.6
+title: Extended Empirical Saddlepoint Density Approximations
+maintainer: Matteo Fasiolo
+description: Tools for fitting the Extended Empirical Saddlepoint (EES) density of
+  Fasiolo et al. (2018) <doi:10.1214/18-EJS1433>.
+date_publication: '2020-01-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=esaddle
+url_git: https://github.com/mfasiolo/esaddle

@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Easily Tidy Gapminder Datasets
+maintainer: Anicet Ebou
+description: |-
+  A toolset that allows you to easily import and tidy data sheets retrieved
+  from Gapminder data web tools. It will therefore contribute to reduce the time
+  used in data cleaning of Gapminder indicator data sheets as they are very messy.
+date_publication: '2020-02-04'
+bug_reports: https://github.com/ebedthan/tidygapminder/issues
+url: https://ebedthan.github.io/tidygapminder
+url_cran: https://CRAN.R-project.org/package=tidygapminder
+url_git: ''

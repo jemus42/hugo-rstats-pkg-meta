@@ -1,0 +1,12 @@
+version: 1.0-0
+title: Binary and Multiclass Boosting Algorithms
+maintainer: Tofigh Naghibi
+description: |-
+  Performs binary and multiclass boosting in maximum-margin, sparse, smooth and normal settings
+  as described in "A Boosting Framework on Grounds of Online Learning" by T. Naghibi and B. Pfister, (2014).
+  For further information regarding the algorithms, please refer to http://arxiv.org/abs/1409.7202
+date_publication: '2014-11-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=maboost
+url_git: ''

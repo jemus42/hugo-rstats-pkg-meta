@@ -1,0 +1,12 @@
+version: '1.0'
+title: Blinder-Oaxaca Decomposition for Generalized Linear Model
+maintainer: Aurelien Nicosia
+description: |-
+  Perform the Blinder-Oaxaca decomposition for generalized linear
+  model with bootstrapped standard errors. The twofold and threefold
+  decomposition are given, even the generalized linear model output in each group.
+date_publication: '2015-08-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GeneralOaxaca
+url_git: ''

@@ -1,0 +1,15 @@
+version: 0.4.7
+title: Analyze MS/MS Protein Melting Data
+maintainer: Jeremy Volkening
+description: |-
+  Software to aid in modeling and analyzing mass-spectrometry-based
+  proteome melting data. Quantitative data is imported and normalized and
+  thermal behavior is modeled at the protein level. Methods exist for
+  normalization, modeling, visualization, and export of results. For a
+  general introduction to MS-based thermal profiling, see Savitski et al.
+  (2014) <doi:10.1126/science.1255784>.
+date_publication: '2017-04-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mstherm
+url_git: ''

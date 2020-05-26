@@ -1,0 +1,10 @@
+version: '1.7'
+title: Download and Aggregate High Frequency Trading Data from Bovespa
+maintainer: Marcelo Perlin
+description: Downloads and aggregates high frequency trading data for Brazilian instruments
+  directly from Bovespa ftp site <ftp://ftp.bmf.com.br/MarketData/>.
+date_publication: '2019-04-08'
+bug_reports: https://github.com/msperlin/GetHFData/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=GetHFData
+url_git: https://github.com/msperlin/GetHFData/

@@ -1,0 +1,12 @@
+version: 0.1.7
+title: Power and Sample Size Calculation for eQTL Analysis
+maintainer: Weiliang Qiu
+description: |-
+  Power and sample size calculation for eQTL analysis
+  based on ANOVA or simple linear regression. It can also calculate power/sample size
+  for testing the association of a SNP to a continuous type phenotype.
+date_publication: '2020-04-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=powerEQTL
+url_git: https://github.com/sterding/powerEQTL

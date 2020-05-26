@@ -1,0 +1,11 @@
+version: 0.0.1
+title: Tools for 'ROMS' the Regional Ocean Modeling System
+maintainer: Michael D. Sumner
+description: |-
+  Helper functions for working with Regional Ocean Modeling System 'ROMS' output. See
+  <https://www.myroms.org/> for more information about 'ROMS'.
+date_publication: '2017-05-01'
+bug_reports: https://github.com/mdsumner/angstroms/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=angstroms
+url_git: https://github.com/mdsumner/angstroms

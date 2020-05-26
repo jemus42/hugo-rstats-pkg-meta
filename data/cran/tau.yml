@@ -1,0 +1,9 @@
+version: 0.0-21
+title: Text Analysis Utilities
+maintainer: Kurt Hornik
+description: Utilities for text analysis.
+date_publication: '2019-03-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tau
+url_git: ''

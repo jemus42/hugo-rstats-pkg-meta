@@ -1,0 +1,9 @@
+version: 1.0-7
+title: Infrastructure for Computing with Basis Functions
+maintainer: Torsten Hothorn
+description: Some very simple infrastructure for basis functions.
+date_publication: '2020-02-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=basefun
+url_git: http://ctm.R-forge.R-project.org

@@ -1,0 +1,15 @@
+version: 1.0-12
+title: |-
+  Tools for Generating, Visualizing, and Analysing Link
+  Communities in Networks
+maintainer: Alex T. Kalinka
+description: Link communities reveal the nested and overlapping structure in networks,
+  and uncover the key nodes that form connections to multiple communities. linkcomm
+  provides a set of tools for generating, visualizing, and analysing link communities
+  in networks of arbitrary size and type. The linkcomm package also includes tools
+  for generating, visualizing, and analysing Overlapping Cluster Generator (OCG) communities.
+date_publication: '2020-03-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=linkcomm
+url_git: ''

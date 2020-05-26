@@ -1,0 +1,13 @@
+version: 0.6-18
+title: Demand Analysis with the Almost Ideal Demand System (AIDS)
+maintainer: Arne Henningsen
+description: |-
+  Functions and tools
+  for analysing consumer demand
+  with the Almost Ideal Demand System (AIDS)
+  suggested by Deaton and Muellbauer (1980).
+date_publication: '2017-03-16'
+bug_reports: ''
+url: http://www.micEcon.org
+url_cran: https://CRAN.R-project.org/package=micEconAids
+url_git: ''

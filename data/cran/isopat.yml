@@ -1,0 +1,11 @@
+version: '1.0'
+title: Calculation of isotopic pattern for a given molecular formula
+maintainer: Martin Loos
+description: |-
+  The function calculates the isotopic pattern (fine
+  structures) for a given chemical formula.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=isopat
+url_git: ''

@@ -1,0 +1,9 @@
+version: 0.4.0
+title: Tile Manager
+maintainer: Andrew Plowright
+description: Tools for creating and detecting tiling schemes for geospatial datasets.
+date_publication: '2020-05-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TileManager
+url_git: ''

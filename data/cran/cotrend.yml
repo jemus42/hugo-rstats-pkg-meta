@@ -1,0 +1,17 @@
+version: 1.0.2
+title: Consistent Co-Trending Rank Selection
+maintainer: A. Christian Silva
+description: |-
+  Implements cointegration/co-trending rank selection
+  algorithm in Guo and Shintani (2013) "Consistent
+  co-trending rank selection when both stochastic and nonlinear
+  deterministic trends are present".
+  The Econometrics Journal 16: 473-483
+  <doi:10.1111/j.1368-423X.2012.00392.x>.
+  Numbered examples correspond to Feb 2011 preprint
+  <http://www.fas.nus.edu.sg/ecs/events/seminar/seminar-papers/05Apr11.pdf>.
+date_publication: '2019-10-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cotrend
+url_git: ''

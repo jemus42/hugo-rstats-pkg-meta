@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Create a Shiny Date-Range Input
+maintainer: Sebastian Gatscha
+description: A Shiny Input for date-ranges, which pops up two calendars for selecting
+  dates, times, or predefined ranges like "Last 30 Days". It wraps the JavaScript
+  library 'daterangepicker' which is available at <https://www.daterangepicker.com>.
+date_publication: '2020-03-20'
+bug_reports: https://github.com/trafficonese/daterangepicker/issues
+url: https://www.daterangepicker.com
+url_cran: https://CRAN.R-project.org/package=daterangepicker
+url_git: https://github.com/trafficonese/daterangepicker/

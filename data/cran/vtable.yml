@@ -1,0 +1,11 @@
+version: 1.0.1
+title: Variable Table for Variable Documentation
+maintainer: Nick Huntington-Klein
+description: Automatically generates HTML variable documentation including variable
+  names, labels, classes, value labels (if applicable), value ranges, and summary
+  statistics. See the vignette "vtable" for a package overview.
+date_publication: '2020-04-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=vtable
+url_git: ''

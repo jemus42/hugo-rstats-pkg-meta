@@ -1,0 +1,13 @@
+version: 1.1.0
+title: Lightweight Portable Message Queue Using 'SQLite'
+maintainer: Gábor Csárdi
+description: |-
+  Temporary and permanent message queues for R. Built on top of
+  'SQLite' databases. 'SQLite' provides locking, and makes it possible
+  to detect crashed consumers. Crashed jobs can be automatically marked
+  as "failed", or put in the queue again, potentially a limited number of times.
+date_publication: '2019-03-08'
+bug_reports: https://github.com/r-lib/liteq/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=liteq
+url_git: https://github.com/r-lib/liteq#readme

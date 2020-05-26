@@ -1,0 +1,12 @@
+version: 1.1.4
+title: Convenience Functions, Moving Window Statistics, and Graphics
+maintainer: Dane R. Van Domelen
+description: Contains functions that do something convenient (e.g. create BMI categories),
+  functions for calculating moving-window statistics efficiently, and functions for
+  generating various figures (e.g. histograms with fitted probability mass/density
+  function).
+date_publication: '2019-12-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dvmisc
+url_git: ''

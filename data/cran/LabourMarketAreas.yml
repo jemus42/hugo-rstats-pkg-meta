@@ -1,0 +1,14 @@
+version: 3.2.4
+title: |-
+  Identification, Tuning, Visualisation and Analysis of Labour
+  Market Areas
+maintainer: Luisa Franconi
+description: Produces Labour Market Areas from commuting flows available at elementary
+  territorial units. It provides tools for automatic tuning based on spatial contiguity.
+  It also allows for statistical analyses and visualisation of the new functional
+  geography.
+date_publication: '2020-03-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LabourMarketAreas
+url_git: ''

@@ -1,0 +1,19 @@
+version: 1.1.25
+title: |-
+  Evaluation of Failure Time Surrogate Endpoints in Individual
+  Patient Data Meta-Analyses
+maintainer: Stefan Michiels
+description: |-
+  Provides functions for the evaluation of
+  surrogate endpoints when both the surrogate and the true endpoint are failure
+  time variables. The approaches implemented are:
+  (1) the two-step approach (Burzykowski et al, 2001) <DOI:10.1111/1467-9876.00244> with a copula model (Clayton, Plackett, Hougaard) at
+  the first step and either a linear regression of log-hazard ratios at the second
+  step (either adjusted or not for measurement error);
+  (2) mixed proportional hazard models estimated via mixed Poisson GLM
+  (Rotolo et al, 2019 <DOI:10.1177/0962280217718582>).
+date_publication: '2019-01-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=surrosurv
+url_git: ''

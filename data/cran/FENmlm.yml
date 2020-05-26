@@ -1,0 +1,10 @@
+version: 2.4.3
+title: Fixed Effects Nonlinear Maximum Likelihood Models
+maintainer: Laurent Berge
+description: Efficient estimation of maximum likelihood models with multiple fixed-effects.
+  Standard-errors can easily and flexibly be clustered and estimations exported.
+date_publication: '2019-09-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FENmlm
+url_git: ''

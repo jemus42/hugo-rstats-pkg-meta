@@ -1,0 +1,12 @@
+version: 3.2.19
+title: Bridge Between 'R' and 'Scala' with Callbacks
+maintainer: David B. Dahl
+description: '''Scala'' <http://www.scala-lang.org/> is embedded in ''R'' and callbacks
+  from ''Scala'' to ''R'' are available. Support is provided to write ''R'' packages
+  that access ''Scala''. After installation, please run ''rscala::scalaConfig()''.  The
+  vignette provides an update of the original paper <doi:10.18637/jss.v092.i04>.'
+date_publication: '2020-04-05'
+bug_reports: https://github.com/dbdahl/rscala/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rscala
+url_git: https://github.com/dbdahl/rscala

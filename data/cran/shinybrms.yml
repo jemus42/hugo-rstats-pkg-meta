@@ -1,0 +1,14 @@
+version: 1.0.1
+title: Graphical User Interface (Shiny App) for Package 'brms'
+maintainer: Frank Weber
+description: |-
+  A graphical user interface (GUI) for the
+  package 'brms' which allows to fit Bayesian regression models using 'Stan'
+  (<https://mc-stan.org/>) (more specifically, using its R interface, the
+  package 'rstan'). The GUI is a 'Shiny' (<https://shiny.rstudio.com/>) app,
+  i.e. it was created using the package 'shiny'.
+date_publication: '2020-03-26'
+bug_reports: https://github.com/fweber144/shinybrms/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinybrms
+url_git: https://github.com/fweber144/shinybrms

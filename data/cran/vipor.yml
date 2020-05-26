@@ -1,0 +1,14 @@
+version: 0.4.5
+title: |-
+  Plot Categorical Data Using Quasirandom Noise and Density
+  Estimates
+maintainer: Scott Sherrill-Mix
+description: |-
+  Generate a violin point plot, a combination of a violin/histogram
+  plot and a scatter plot by offsetting points within a category based on their
+  density using quasirandom noise.
+date_publication: '2017-03-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=vipor
+url_git: ''

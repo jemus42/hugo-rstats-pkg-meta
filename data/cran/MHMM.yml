@@ -1,0 +1,15 @@
+version: 1.0.0
+title: Finite Mixture of Hidden Markov Model
+maintainer: Matthieu Marbac
+description: Estimation of the latent states and partition by maximum likelihood.
+  Model can be used for analyzing accelerometer data. In such a case, the latent states
+  corresponds to activity levels and the partition permits to consider heterogeneity
+  within the population. Emission laws are zero-inflated gamma distributions. Their
+  parameters depends on the latent states but not on the partition, to compare the
+  time spent by activity levels between classes. Model description is available in
+  Du Roy de Chaumaray, M. and Marbac, M. and Navarro, F. (2019) <arXiv:1906.01547>.
+date_publication: '2020-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MHMM
+url_git: ''

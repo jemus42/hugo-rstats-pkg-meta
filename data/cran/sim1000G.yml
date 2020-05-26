@@ -1,0 +1,11 @@
+version: '1.40'
+title: |-
+  Genotype Simulations for Rare or Common Variants Using
+  Haplotypes from 1000 Genomes
+maintainer: Apostolos Dimitromanolakis
+description: Generates realistic simulated genetic data in families or unrelated individuals.
+date_publication: '2019-06-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sim1000G
+url_git: ''

@@ -1,0 +1,11 @@
+version: 1.0.5
+title: Download Data from the European Social Survey on the Fly
+maintainer: Jorge Cimentada
+description: Download data from the European Social Survey directly from their website
+  <http://www.europeansocialsurvey.org/>. There are two families of functions that
+  allow you to download and interactively check all countries and rounds available.
+date_publication: '2019-12-11'
+bug_reports: https://github.com/ropensci/essurvey/issues
+url: https://docs.ropensci.org/essurvey/
+url_cran: https://CRAN.R-project.org/package=essurvey
+url_git: https://github.com/ropensci/essurvey

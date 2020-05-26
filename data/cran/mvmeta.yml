@@ -1,0 +1,10 @@
+version: 1.0.3
+title: Multivariate and Univariate Meta-Analysis and Meta-Regression
+maintainer: Antonio Gasparrini
+description: Collection of functions to perform fixed and random-effects multivariate
+  and univariate meta-analysis and meta-regression.
+date_publication: '2019-12-10'
+bug_reports: ''
+url: http://www.ag-myresearch.com/package-mvmeta
+url_cran: https://CRAN.R-project.org/package=mvmeta
+url_git: ''

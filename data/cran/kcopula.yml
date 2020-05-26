@@ -1,0 +1,11 @@
+version: 0.1.0
+title: The Bivariate K-Copula
+maintainer: Marcel Kremer
+description: |-
+  Provides the density and distribution function of the bivariate
+  K-copula by Wollschläger and Schäfer (2016) <doi:10.21314/JOR.2016.342>.
+date_publication: '2020-04-07'
+bug_reports: https://github.com/mlkremer/kcopula/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=kcopula
+url_git: https://github.com/mlkremer/kcopula

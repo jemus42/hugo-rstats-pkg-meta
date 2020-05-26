@@ -1,0 +1,12 @@
+version: 0.1.1
+title: The Reinert Method for Textual Data Clustering
+maintainer: Julien Barnier
+description: |-
+  An R implementation of the Reinert text clustering method. For more
+  details about the algorithm see the included vignettes or Reinert (1990)
+  <doi:10.1177/075910639002600103>.
+date_publication: '2020-05-09'
+bug_reports: https://github.com/juba/rainette/issues
+url: https://juba.github.io/rainette/
+url_cran: https://CRAN.R-project.org/package=rainette
+url_git: ''

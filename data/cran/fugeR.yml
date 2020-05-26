@@ -1,0 +1,16 @@
+version: 0.1.2
+title: |-
+  FUzzy GEnetic, a machine learning algorithm to construct
+  prediction model based on fuzzy logic.
+maintainer: Alexandre Bujard
+description: |-
+  This is an evolutionary algorithm for fuzzy systems, a
+  genetic algorithm is used to construct a fuzzy system able to
+  fit the given training data.  This fuzzy system can then be
+  used as a prediction model, it's composed of fuzzy logic rules
+  that provide a good lingustic representation.
+date_publication: '2012-08-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fugeR
+url_git: ''

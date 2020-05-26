@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Tools for Understanding Highway Performance
+maintainer: Paul Ossenbruggen
+description: 'Analytical tools are designed to help people understand the complex
+  relationships associated with freeway performance and traffic breakdown. Emphasis
+  is placed on: (1) Traffic noise or volatility; (2) Driver behavior and safety; and
+  (3) Stochastic modeling, models that explain breakdown and performance.'
+date_publication: '2018-08-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cartools
+url_git: ''

@@ -1,0 +1,11 @@
+version: '1.0'
+title: Load Associated Press Election Results with Elex
+maintainer: Geoff Hing
+description: Provides R access to election results data. Wraps elex (https://github.com/newsdev/elex/),
+  a Python package and command line tool for fetching and parsing Associated Press
+  election results.
+date_publication: '2016-02-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=elexr
+url_git: ''

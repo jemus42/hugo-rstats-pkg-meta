@@ -1,0 +1,21 @@
+version: 1.1.2
+title: Some Movies to Illustrate Concepts in Statistics
+maintainer: Paul J. Northrop
+description: |-
+  Provides movies to help students to understand statistical
+  concepts.  The 'rpanel' package  <https://cran.r-project.org/package=rpanel>
+  is used to create interactive plots that move to illustrate key statistical
+  ideas and methods.  There are movies to: visualise probability distributions
+  (including user-supplied ones); illustrate sampling distributions of the
+  sample mean (central limit theorem), the median, the sample maximum
+  (extremal types theorem) and (the Fisher transformation of the) Pearson
+  product moment correlation coefficient; examine the influence of an
+  individual observation in simple linear regression; illustrate key concepts
+  in statistical hypothesis testing. Also provided are dpqr functions for the
+  distribution of the Fisher transformation of the correlation coefficient
+  under sampling from a bivariate normal distribution.
+date_publication: '2020-01-08'
+bug_reports: http://github.com/paulnorthrop/smovie/issues
+url: https://paulnorthrop.github.io/smovie/
+url_cran: https://CRAN.R-project.org/package=smovie
+url_git: http://github.com/paulnorthrop/smovie/

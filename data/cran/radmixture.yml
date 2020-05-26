@@ -1,0 +1,14 @@
+version: 0.0.1
+title: Calculate Population Stratification
+maintainer: Beilei Bian
+description: Implementation of ADMIXTURE for individual ancestry inference in R. Specifically,
+  ADMIXTURE is a software tool for maximum likelihood estimation of individual ancestries
+  from multilocus SNP genotype datasets, see <https://www.genetics.ucla.edu/software/admixture/>.
+  Users can use 'radmixture' to calculate ancestry components with different public
+  datasets. It is very convenient and fast for personal genotype data. For more details,
+  see <https://github.com/wegene-llc/radmixture/blob/master/README.md>.
+date_publication: '2017-03-13'
+bug_reports: https://github.com/wegene-llc/radmixture/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=radmixture
+url_git: https://github.com/wegene-llc/radmixture

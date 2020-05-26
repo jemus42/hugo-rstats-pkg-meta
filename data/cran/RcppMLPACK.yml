@@ -1,0 +1,15 @@
+version: 1.0.10-7
+title: '''Rcpp'' Integration for the ''MLPACK'' Library'
+maintainer: Qiang Kou
+description: |-
+  'MLPACK' is an intuitive, fast, scalable C++ machine learning
+  library, meant to be a machine learning analog to 'LAPACK'. It
+  aims to implement a wide array of machine learning methods
+  and function as a Swiss army knife for machine learning
+  researchers: 'MLPACK' is available from <http://www.mlpack.org/>;
+  sources are included in the package.
+date_publication: '2020-04-21'
+bug_reports: https://github.com/thirdwing/RcppMLPACK1/issues
+url: http://www.mlpack.org/
+url_cran: https://CRAN.R-project.org/package=RcppMLPACK
+url_git: https://github.com/thirdwing/RcppMLPACK1

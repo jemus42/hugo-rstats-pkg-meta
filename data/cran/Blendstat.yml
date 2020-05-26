@@ -1,0 +1,10 @@
+version: 1.0.3
+title: Joint Analysis of Experiments with Mixtures and Random Effects
+maintainer: Paulo Cesar Ossani
+description: Performs a joint analysis of experiments with mixtures and random effects,
+  taking on a process variable represented by a covariable.
+date_publication: '2020-03-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Blendstat
+url_git: ''

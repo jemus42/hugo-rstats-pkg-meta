@@ -1,0 +1,13 @@
+version: 0.17-0
+title: |-
+  Maximum Likelihood Estimation of a log-Concave Density Based on
+  Censored Data
+maintainer: Dominic Schuhmacher
+description: Based on right or interval censored data, compute the maximum likelihood
+  estimator of a (sub)probability density under the assumption that it is log-concave.
+  For further information see Duembgen, Rufibach and Schuhmacher (2014) <doi:10.1214/14-EJS930>.
+date_publication: '2019-11-27'
+bug_reports: ''
+url: http://www.dominic.schuhmacher.name
+url_cran: https://CRAN.R-project.org/package=logconcens
+url_git: ''

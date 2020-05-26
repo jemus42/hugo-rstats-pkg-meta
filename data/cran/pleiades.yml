@@ -1,0 +1,13 @@
+version: 0.2.0
+title: Interface to the 'Pleiades' 'Archeological' Database
+maintainer: Scott Chamberlain
+description: |-
+  Provides a set of functions for interacting with the
+  'Pleiades' (<https://pleiades.stoa.org/>) 'API', including
+  getting status data, places data, and creating a 'GeoJSON'
+  based map on 'GitHub' 'gists'.
+date_publication: '2017-06-15'
+bug_reports: https://github.com/ropensci/pleiades/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pleiades
+url_git: https://github.com/ropensci/pleiades

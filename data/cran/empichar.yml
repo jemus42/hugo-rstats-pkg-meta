@@ -1,0 +1,13 @@
+version: 1.0.0
+title: |-
+  Evaluates the Empirical Characteristic Function for Multivariate
+  Samples
+maintainer: Guillermo Basulto-Elias
+description: |-
+  Evaluates the empirical characteristic function of univariate and multivariate samples.
+  This package uses 'RcppArmadillo' for fast evaluation. It is also possible to export the code to be used in other packages at 'C++' level.
+date_publication: '2019-05-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=empichar
+url_git: ''

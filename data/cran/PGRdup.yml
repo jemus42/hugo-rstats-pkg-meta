@@ -1,0 +1,18 @@
+version: 0.2.3.5
+title: |-
+  Discover Probable Duplicates in Plant Genetic Resources
+  Collections
+maintainer: J. Aravind
+description: |-
+  Provides functions to aid the identification of probable/possible
+  duplicates in Plant Genetic Resources (PGR) collections using
+  'passport databases' comprising of information records of each constituent
+  sample. These include methods for cleaning the data, creation of a
+  searchable Key Word in Context (KWIC) index of keywords associated with
+  sample records and the identification of nearly identical records with
+  similar information by fuzzy, phonetic and semantic matching of keywords.
+date_publication: '2020-02-10'
+bug_reports: https://github.com/aravind-j/PGRdup/issues
+url: https://doi.org/10.5281/zenodo.841963
+url_cran: https://CRAN.R-project.org/package=PGRdup
+url_git: https://github.com/aravind-j/PGRdup

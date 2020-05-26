@@ -1,0 +1,17 @@
+version: 0.6.0
+title: Toolbox for Model Building and Forecasting
+maintainer: Ivan Svetunkov
+description: |-
+  Implements functions and instruments for regression model building and its
+  application to forecasting. The main scope of the package is in variables selection
+  and models specification for cases of time series data. This includes promotional
+  modelling, selection between different dynamic regressions with non-standard
+  distributions of errors, selection based on cross validation, solutions to the fat
+  regression model problem and more. Models developed in the package are tailored
+  specifically for forecasting purposes. So as a results there are several methods
+  that allow producing forecasts from these models and visualising them.
+date_publication: '2020-05-20'
+bug_reports: https://github.com/config-i1/greybox/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=greybox
+url_git: https://github.com/config-i1/greybox

@@ -1,0 +1,14 @@
+version: 0.3.6
+title: Extensions to 'ggplot2' for Radiation Spectra
+maintainer: Pedro J. Aphalo
+description: |-
+  Additional annotations, stats, geoms and scales for plotting
+  "light" spectra with 'ggplot2', together with specializations of ggplot()
+  and autoplot() methods for spectral data and waveband definitions
+  stored in objects of classes defined in package 'photobiology'. Part of the
+  'r4photobiology' suite, Aphalo P. J. (2015) <doi:10.19232/uv4pb.2015.1.14>.
+date_publication: '2020-04-28'
+bug_reports: https://bitbucket.org/aphalo/ggspectra/issues/
+url: https://docs.r4photobiology.info/ggspectra/
+url_cran: https://CRAN.R-project.org/package=ggspectra
+url_git: https://bitbucket.org/aphalo/ggspectra/

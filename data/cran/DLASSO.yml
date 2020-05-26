@@ -1,0 +1,13 @@
+version: 2.0.2
+title: |-
+  Implementation of Adaptive or Non-Adaptive Differentiable Lasso
+  and SCAD Penalties in Linear Models
+maintainer: Hamed Haseli Mashhadi
+description: An implementation of the differentiable lasso (dlasso) and SCAD (dSCAD)
+  using iterative ridge algorithm. This package allows selecting the tuning parameter
+  by AIC, BIC, GIC and GIC.
+date_publication: '2017-06-08'
+bug_reports: ''
+url: http://hamedhaseli.webs.com
+url_cran: https://CRAN.R-project.org/package=DLASSO
+url_git: ''

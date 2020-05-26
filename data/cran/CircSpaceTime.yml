@@ -1,0 +1,14 @@
+version: 0.9.0
+title: Spatial and Spatio-Temporal Bayesian Model for Circular Data
+maintainer: Mario Santoro
+description: |-
+  Implementation of Bayesian models for spatial and spatio-temporal
+  interpolation of circular data using Gaussian Wrapped and Gaussian Projected distributions.
+  We developed the methods described in Jona Lasinio G. et al. (2012) <doi: 10.1214/12-aoas576>,
+  Wang F. et al. (2014) <doi: 10.1080/01621459.2014.934454> and
+  Mastrantonio G. et al. (2016) <doi: 10.1007/s11749-015-0458-y>.
+date_publication: '2019-06-06'
+bug_reports: https://github.com/santoroma/CircSpaceTime
+url: ''
+url_cran: https://CRAN.R-project.org/package=CircSpaceTime
+url_git: https://github.com/santoroma/CircSpaceTime

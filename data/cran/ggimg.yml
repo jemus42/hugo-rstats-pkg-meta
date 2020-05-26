@@ -1,0 +1,15 @@
+version: 0.1.0
+title: Graphics Layers for Plotting Image Data with 'ggplot2'
+maintainer: Taylor B. Arnold
+description: |-
+  Provides two new layer types for displaying image data as layers
+  within the Grammar of Graphics framework. Displays images using either a
+  rectangle interface, with a fixed bounding box, or a point interface using a
+  central point and general size parameter. Images can be given as local
+  JPEG or PNG files, external resources, or as a list column containing
+  raster image data.
+date_publication: '2020-03-20'
+bug_reports: http://github.com/statsmaths/ggimg/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggimg
+url_git: https://github.com/statsmaths/ggimg

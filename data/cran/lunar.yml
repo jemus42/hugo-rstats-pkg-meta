@@ -1,0 +1,11 @@
+version: 0.1-04
+title: Lunar Phase & Distance, Seasons and Other Environmental Factors
+maintainer: Emmanuel Lazaridis
+description: |-
+  Provides functions to calculate lunar and other environmental
+  covariates.
+date_publication: '2014-09-08'
+bug_reports: ''
+url: http://statistics.lazaridis.eu
+url_cran: https://CRAN.R-project.org/package=lunar
+url_git: ''

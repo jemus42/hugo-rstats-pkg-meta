@@ -1,0 +1,11 @@
+version: 1.1-1
+title: Tools for Multivariate Nonparametrics
+maintainer: Klaus Nordhausen
+description: Tools for multivariate nonparametrics, as location tests based on marginal
+  ranks, spatial median and spatial signs computation, Hotelling's T-test, estimates
+  of shape are implemented.
+date_publication: '2018-03-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ICSNP
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.4-3
+title: Functions for Wind Resource Assessment
+maintainer: Christian Graul
+description: |-
+  A collection of functions to analyse, visualize and interpret wind data
+  and to calculate the potential energy production of wind turbines.
+date_publication: '2018-11-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bReeze
+url_git: https://github.com/chgrl/bReeze

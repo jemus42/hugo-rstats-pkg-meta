@@ -1,0 +1,14 @@
+version: 1.0.1
+title: Heritability of Gene Expression for Next-Generation Sequencing
+maintainer: W. Jenny Shi
+description: |-
+  Statistical framework to analyze heritability of gene expression
+  based on next-generation sequencing data and simulating sequencing reads.
+  Variance partition coefficients (VPC) are computed using linear mixed effects
+  and generalized linear mixed effects models. Compound Poisson and negative
+  binomial models are included. Reference: Rudra, Pratyaydipta, et al. "Model based heritability scores for high-throughput sequencing data." BMC bioinformatics 18.1 (2017): 143.
+date_publication: '2019-02-11'
+bug_reports: https://github.com/KechrisLab/HeritSeq/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=HeritSeq
+url_git: ''

@@ -1,0 +1,18 @@
+version: 0.4.5
+title: Reversible-Jump MCMC Using Post-Processing
+maintainer: Nick Gelling
+description: |-
+  Performs reversible-jump Markov chain Monte Carlo (Green, 1995)
+  <doi:10.2307/2337340>, specifically the restriction introduced by
+  Barker & Link (2013) <doi:10.1080/00031305.2013.791644>. By utilising
+  a 'universal parameter' space, RJMCMC is treated as a Gibbs sampling
+  problem. Previously-calculated posterior distributions are used to
+  quickly estimate posterior model probabilities. Jacobian matrices are
+  found using automatic differentiation. For a detailed description of
+  the package, see Gelling, Schofield & Barker (2019)
+  <doi:10.1111/anzs.12263>.
+date_publication: '2019-07-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rjmcmc
+url_git: ''

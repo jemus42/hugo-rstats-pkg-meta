@@ -1,0 +1,14 @@
+version: '0.2'
+title: |-
+  Benchmark and Correctness Data for Weighted Random Sampling
+  Without Replacement
+maintainer: Kirill Müller
+description: |-
+  Includes performance measurements and results of repeated
+  experiment runs (for correctness checks) for code in the
+  'wrswoR' package.
+date_publication: '2017-09-25'
+bug_reports: https://github.com/krlmlr/wrswoR.benchmark/issues
+url: http://krlmlr.github.io/wrswoR.benchmark
+url_cran: https://CRAN.R-project.org/package=wrswoR.benchmark
+url_git: ''

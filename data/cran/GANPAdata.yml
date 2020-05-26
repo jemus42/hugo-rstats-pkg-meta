@@ -1,0 +1,12 @@
+version: '1.0'
+title: The GANPA Datasets Package
+maintainer: Zhaoyuan Fang
+description: This is a dataset package for GANPA, which implements a<U+000a>network-based
+  gene weighting approach to pathway analysis. This<U+000a>package includes data useful
+  for GANPA, such as a functional<U+000a>association network, pathways, an expression
+  dataset and<U+000a>multi-subunit proteins.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GANPAdata
+url_git: ''

@@ -1,0 +1,19 @@
+version: 1.0.1
+title: Nonparametric Estimation of the Trend and Its Derivatives in TS
+maintainer: Dominik Schulz
+description: |-
+  The nonparametric trend and its derivatives in equidistant time
+  series (TS) with short-memory stationary errors can be estimated. The
+  estimation is conducted via local polynomial regression using an
+  automatically selected bandwidth obtained by a built-in iterative plug-in
+  algorithm or a bandwidth fixed by the user. A Nadaraya-Watson kernel
+  smoother is also built-in as a comparison.
+  The methods of the package are described in
+  Feng, Y., and Gries, T., (2017) <http://groups.uni-paderborn.de/wp-wiwi/RePEc/pdf/ciepap/WP102.pdf>.
+  A current version of the paper that is also referred to in the
+  documentation of the functions is prepared for publication.
+date_publication: '2019-12-02'
+bug_reports: ''
+url: https://wiwi.uni-paderborn.de/en/dep4/feng/https://wiwi.uni-paderborn.de/dep4/gries/
+url_cran: https://CRAN.R-project.org/package=smoots
+url_git: ''

@@ -1,0 +1,13 @@
+version: 5.0.1
+title: Parallel Programming Tools for 'Rcpp'
+maintainer: Kevin Ushey
+description: |-
+  High level functions for parallel programming with 'Rcpp'.
+  For example, the 'parallelFor()' function can be used to convert the work of
+  a standard serial "for" loop into a parallel one and the 'parallelReduce()'
+  function can be used for accumulating aggregate or other values.
+date_publication: '2020-05-06'
+bug_reports: https://github.com/RcppCore/RcppParallel/issues
+url: http://rcppcore.github.io/RcppParallel
+url_cran: https://CRAN.R-project.org/package=RcppParallel
+url_git: https://github.com/RcppCore/RcppParallel

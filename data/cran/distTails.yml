@@ -1,0 +1,11 @@
+version: 0.1.2
+title: A Collection of Full Defined Distribution Tails
+maintainer: Sergi Vilardell
+description: A full definition for Weibull tails and Full-Tails Gamma and tools for
+  fitting these distributions to empirical tails. This package build upon the paper
+  by del Castillo, Joan & Daoudi, Jalila & Serra, Isabel. (2012) <doi:10.1017/asb.2017.9>.
+date_publication: '2019-09-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=distTails
+url_git: https://github.com/SergiVilardell/distTails

@@ -1,0 +1,18 @@
+version: 3.2.1
+title: Bindings to AppArmor and Security Related Linux Tools
+maintainer: Jeroen Ooms
+description: |-
+  Bindings to kernel methods for enforcing security restrictions.
+  AppArmor can apply mandatory access control (MAC) policies on a given task
+  (process) via security profiles with detailed ACL definitions. In addition
+  this package implements bindings for setting process resource limits (rlimit),
+  uid, gid, affinity and priority. The high level R function 'eval.secure'
+  builds on these methods to perform dynamic sandboxing: it evaluates a single
+  R expression within a temporary fork which acts as a sandbox by enforcing
+  fine grained restrictions without affecting the main R process. A portable
+  version of this function is now available in the 'unix' package.
+date_publication: '2020-01-31'
+bug_reports: http://github.com/jeroen/RAppArmor/issues
+url: http://www.jstatsoft.org/v55/i07/(paper)
+url_cran: https://CRAN.R-project.org/package=RAppArmor
+url_git: http://github.com/jeroen/RAppArmor#readme(devel)

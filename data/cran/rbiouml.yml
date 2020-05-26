@@ -1,0 +1,10 @@
+version: '1.9'
+title: Interact with BioUML Server
+maintainer: Ivan Yevshin
+description: Functions for connecting to BioUML server, querying BioUML repository
+  and launching BioUML analyses.
+date_publication: '2019-11-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rbiouml
+url_git: ''

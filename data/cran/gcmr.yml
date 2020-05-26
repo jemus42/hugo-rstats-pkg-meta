@@ -1,0 +1,11 @@
+version: 1.0.2
+title: Gaussian Copula Marginal Regression
+maintainer: Cristiano Varin
+description: |-
+  Likelihood inference in Gaussian copula marginal
+  regression models.
+date_publication: '2020-01-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gcmr
+url_git: ''

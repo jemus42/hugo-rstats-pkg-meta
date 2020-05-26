@@ -1,0 +1,11 @@
+version: '2.0'
+title: Hierarchical Clustering with Spatial Constraints
+maintainer: Marie Chavent
+description: |-
+  Implements a Ward-like hierarchical clustering
+  algorithm including spatial/geographical constraints.
+date_publication: '2017-07-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ClustGeo
+url_git: ''

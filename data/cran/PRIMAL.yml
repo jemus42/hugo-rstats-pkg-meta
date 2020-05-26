@@ -1,0 +1,14 @@
+version: 1.0.2
+title: Parametric Simplex Method for Sparse Learning
+maintainer: Zichong Li
+description: Implements a unified framework of parametric simplex method for a variety
+  of sparse learning problems (e.g., Dantzig selector (for linear regression), sparse
+  quantile regression, sparse support vector machines, and compressive sensing) combined
+  with efficient hyper-parameter selection strategies. The core algorithm is implemented
+  in C++ with Eigen3 support for portable high performance linear algebra. For more
+  details about parametric simplex method, see Haotian Pang (2017) <https://papers.nips.cc/paper/6623-parametric-simplex-method-for-sparse-learning.pdf>.
+date_publication: '2020-01-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PRIMAL
+url_git: ''

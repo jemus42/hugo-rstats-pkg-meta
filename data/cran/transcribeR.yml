@@ -1,0 +1,11 @@
+version: 0.0.0
+title: Automated Transcription of Audio Files Through the HP IDOL API
+maintainer: Christopher Lucas
+description: |-
+  Transcribes audio to text with the HP IDOL API. Includes functions to upload files,
+  retrieve transcriptions, and monitor jobs.
+date_publication: '2015-08-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=transcribeR
+url_git: ''

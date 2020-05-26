@@ -1,0 +1,15 @@
+version: 0.1.0
+title: |-
+  Convert Categorical Representations of Logicals to Actual
+  Logicals
+maintainer: Oliver Keyes
+description: |-
+  Survey systems and other third-party data sources commonly use non-standard representations of logical values when
+  it comes to qualitative data - "Yes", "No" and "N/A", say. batman is a package designed to seamlessly convert these into logicals.
+  It is highly localised, and contains equivalents to boolean values in languages including German, French, Spanish, Italian,
+  Turkish, Chinese and Polish.
+date_publication: '2015-10-26'
+bug_reports: https://github.com/ironholds/batman/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=batman
+url_git: https://github.com/ironholds/batman

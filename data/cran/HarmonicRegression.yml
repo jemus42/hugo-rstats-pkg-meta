@@ -1,0 +1,12 @@
+version: '1.0'
+title: Harmonic Regression to One or more Time Series
+maintainer: Paal O. Westermark
+description: Fits the first harmonics in a Fourier expansion to one or more time series.
+  Trend elimination can be performed.  Computed values include estimates of amplitudes
+  and phases, as well as confidence intervals and p-values for the null hypothesis
+  of Gaussian noise.
+date_publication: '2015-04-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HarmonicRegression
+url_git: ''

@@ -1,0 +1,16 @@
+version: 1.0.1
+title: |-
+  Causal Effects from Observational Studies with Clustered
+  Interference
+maintainer: Brian G. Barkley
+description: |-
+  Estimating causal effects from observational studies assuming
+  clustered (or partial) interference. These inverse probability-weighted
+  estimators target new estimands arising from population-level treatment
+  policies. The estimands and estimators are introduced in Barkley et al.
+  (2017) <arXiv:1711.04834>.
+date_publication: '2019-03-18'
+bug_reports: http://github.com/BarkleyBG/clusteredinterference/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=clusteredinterference
+url_git: http://github.com/BarkleyBG/clusteredinterference

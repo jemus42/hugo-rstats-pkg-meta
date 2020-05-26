@@ -1,0 +1,13 @@
+version: 1.1.1
+title: Van Westendorp Price Sensitivity Meter Analysis
+maintainer: Max Alletsee
+description: |-
+  An implementation of the van Westendorp Price
+  Sensitivity Meter in R, which is a survey-based approach
+  to analyze consumer price preferences and sensitivity
+  (van Westendorp 1976, isbn:9789283100386).
+date_publication: '2019-08-23'
+bug_reports: https://github.com/alletsee/pricesensitivitymeter/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pricesensitivitymeter
+url_git: https://github.com/alletsee/pricesensitivitymeter

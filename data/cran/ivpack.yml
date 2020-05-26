@@ -1,0 +1,10 @@
+version: '1.2'
+title: Instrumental Variable Estimation.
+maintainer: Dylan Small
+description: This package contains functions for carrying out instrumental variable
+  estimation of causal effects and power analyses for instrumental variable studies.
+date_publication: '2014-10-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ivpack
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.3.4.1
+title: Reverse-Correlation Image-Classification Toolbox
+maintainer: Ron Dotsch
+description: Functions to generate stimuli and analyze data of reverse correlation
+  image classification experiments (psychophysical tasks aimed at visualizing cognitive
+  mental representations of faces).
+date_publication: '2016-07-13'
+bug_reports: ''
+url: http://ron.dotsch.org/rcicr
+url_cran: https://CRAN.R-project.org/package=rcicr
+url_git: ''

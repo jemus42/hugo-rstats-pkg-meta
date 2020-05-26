@@ -1,0 +1,13 @@
+version: 0.9.8
+title: Client for the YouTube API
+maintainer: Gaurav Sood
+description: |-
+  Get comments posted on YouTube videos, information on how many
+  times a video has been liked, search for videos with particular content, and
+  much more. You can also scrape captions from a few videos. To learn more about
+  the YouTube API, see <https://developers.google.com/youtube/v3/>.
+date_publication: '2019-06-26'
+bug_reports: http://github.com/soodoku/tuber/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tuber
+url_git: http://github.com/soodoku/tuber

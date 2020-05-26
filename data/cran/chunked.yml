@@ -1,0 +1,12 @@
+version: 0.5.0
+title: Chunkwise Text-File Processing for 'dplyr'
+maintainer: Edwin de Jonge
+description: |-
+  Data stored in text file can be processed chunkwise using 'dplyr' commands. These
+  are recorded and executed per data chunk, so large files can be processed with
+  limited memory using the 'LaF' package.
+date_publication: '2020-03-24'
+bug_reports: https://github.com/edwindj/chunked/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=chunked
+url_git: https://github.com/edwindj/chunked

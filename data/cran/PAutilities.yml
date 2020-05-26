@@ -1,0 +1,16 @@
+version: 1.0.1
+title: Streamline Physical Activity Research
+maintainer: Paul R. Hibbing
+description: |-
+  A collection of utilities that are useful for a broad range of
+  tasks that are common in physical activity research, including the
+  following: creation of Bland-Altman plots, formatted descriptive
+  statistics, metabolic calculations (e.g. basal metabolic rate predictions)
+  and conversions, demographic calculations (age and age-for-body-mass-index
+  percentile), bout analysis of moderate-to-vigorous intensity physical
+  activity, and analysis of bout detection algorithm performance.
+date_publication: '2020-05-17'
+bug_reports: https://github.com/paulhibbing/PAutilities/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=PAutilities
+url_git: https://github.com/paulhibbing/PAutilities

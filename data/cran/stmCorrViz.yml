@@ -1,0 +1,13 @@
+version: '1.3'
+title: A Tool for Structural Topic Model Visualizations
+maintainer: Antonio Coppola
+description: |-
+  Generates an interactive visualization of topic correlations/
+  hierarchy in a Structural Topic Model (STM) of Roberts, Stewart, and Tingley.
+  The package performs a hierarchical clustering of topics which are then exported
+  to a JSON object and visualized using D3.
+date_publication: '2016-07-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=stmCorrViz
+url_git: ''

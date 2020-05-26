@@ -1,0 +1,12 @@
+version: '3.3'
+title: |-
+  Simulation, Estimation and Forecasting of Beta-Skew-t-EGARCH
+  Models
+maintainer: Genaro Sucarrat
+description: Simulation, estimation and forecasting of first-order Beta-Skew-t-EGARCH
+  models with leverage (one-component, two-component, skewed versions).
+date_publication: '2016-10-16'
+bug_reports: ''
+url: http://www.sucarrat.net/
+url_cran: https://CRAN.R-project.org/package=betategarch
+url_git: ''

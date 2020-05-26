@@ -1,0 +1,14 @@
+version: 0.8-13
+title: Simulation of Ecological (and Other) Dynamic Systems
+maintainer: Thomas Petzoldt
+description: |-
+  An object oriented framework to simulate
+  ecological (and other) dynamic systems. It can be used for
+  differential equations, individual-based (or agent-based) and other
+  models as well. It supports structuring of simulation scenarios (to avoid copy
+  and paste) and aims to improve readability and re-usability of code.
+date_publication: '2019-07-15'
+bug_reports: ''
+url: http://www.simecol.de/
+url_cran: https://CRAN.R-project.org/package=simecol
+url_git: ''

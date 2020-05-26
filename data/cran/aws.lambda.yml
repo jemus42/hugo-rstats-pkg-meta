@@ -1,0 +1,11 @@
+version: 0.2.0
+title: AWS Lambda Client Package
+maintainer: Jon Harmon
+description: |-
+  A simple client package for the Amazon Web Services ('AWS') Lambda
+  API <https://aws.amazon.com/lambda/>.
+date_publication: '2020-04-15'
+bug_reports: https://github.com/cloudyr/aws.lambda/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=aws.lambda
+url_git: https://github.com/cloudyr/aws.lambda

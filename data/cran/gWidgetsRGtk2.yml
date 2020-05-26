@@ -1,0 +1,9 @@
+version: 0.0-86.1
+title: Toolkit Implementation of gWidgets for RGtk2
+maintainer: John Verzani
+description: Port of the gWidgets API to the RGtk2 toolkit.
+date_publication: '2020-05-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gWidgetsRGtk2
+url_git: ''

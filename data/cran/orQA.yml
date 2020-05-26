@@ -1,0 +1,12 @@
+version: 0.2.1
+title: Order Restricted Assessment Of Microarray Titration Experiments
+maintainer: Florian Klinglmueller
+description: |-
+  Assess repeatability, accuracy and corss-platform
+  agreement of titration microarray data based on order
+  restricted inference procedures
+date_publication: '2010-12-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=orQA
+url_git: ''

@@ -1,0 +1,11 @@
+version: 1.1.1
+title: Spatial Data Framework for ggplot2
+maintainer: Dewey Dunnington
+description: |-
+  Spatial data plus the power of the ggplot2 framework means easier mapping when input
+  data are already in the form of spatial objects.
+date_publication: '2020-04-27'
+bug_reports: https://github.com/paleolimbot/ggspatial/issues
+url: https://paleolimbot.github.io/ggspatial
+url_cran: https://CRAN.R-project.org/package=ggspatial
+url_git: https://github.com/paleolimbot/ggspatial

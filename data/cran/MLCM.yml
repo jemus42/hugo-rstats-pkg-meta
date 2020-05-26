@@ -1,0 +1,14 @@
+version: 0.4.2
+title: Maximum Likelihood Conjoint Measurement
+maintainer: Guillermo Aguilar
+description: 'Conjoint measurement is a psychophysical procedure in which stimulus
+  pairs are presented that vary along 2 or more dimensions and the observer is required
+  to compare the stimuli along one of them.  This package contains functions to estimate
+  the contribution of the n scales to the judgment by a maximum likelihood method
+  under several hypotheses of how the perceptual dimensions interact. Reference: Knoblauch
+  & Maloney (2012) "Modeling Psychophysical Data in R". <doi:10.1007/978-1-4614-4475-6>.'
+date_publication: '2019-03-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MLCM
+url_git: ''

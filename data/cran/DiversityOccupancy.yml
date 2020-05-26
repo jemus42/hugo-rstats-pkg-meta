@@ -1,0 +1,12 @@
+version: 1.0.6
+title: Building Diversity Models from Multiple Species Occupancy Models
+maintainer: Derek Corcoran
+description: Predictions of alpha diversity are fitted from presence data, first abundance
+  is modeled from occupancy models and then, several diversity indices are calculated
+  and finally GLM models are used to predict diversity in different environments and
+  select priority areas.
+date_publication: '2017-03-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DiversityOccupancy
+url_git: ''

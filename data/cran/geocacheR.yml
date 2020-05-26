@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Tools for Geocaching
+maintainer: Alun Hewinson
+description: |-
+  Tools for solving common geocaching puzzle types, and other
+  Geocaching-related tasks.
+date_publication: '2020-02-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=geocacheR
+url_git: ''

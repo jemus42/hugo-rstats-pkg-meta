@@ -1,0 +1,12 @@
+version: 0.1.0
+title: R Wrapper for LiveChat REST API
+maintainer: Lawrence Wu
+description: |-
+  Provides a wrapper around LiveChat's API. The R functions allow for
+  one to extract chat sessions, raw text of chats between agents and customers and
+  events.
+date_publication: '2016-02-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=livechatR
+url_git: https://github.com/lawwu/livechatR

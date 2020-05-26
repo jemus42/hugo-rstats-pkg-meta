@@ -1,0 +1,14 @@
+version: 1.0.0
+title: Sparse Redundancy Analysis
+maintainer: Attila Csala
+description: |-
+  Sparse redundancy analysis
+  for high dimensional (biomedical) data. Directional multivariate analysis
+  to express the maximum variance in the predicted data set by a linear
+  combination of variables of the predictive data set. Implemented in a
+  partial least squares framework, for more details see Csala et al. (2017) <doi:10.1093/bioinformatics/btx374>.
+date_publication: '2017-12-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sRDA
+url_git: ''

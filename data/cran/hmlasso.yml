@@ -1,0 +1,12 @@
+version: 0.0.1
+title: Lasso with High Missing Rate
+maintainer: Masaaki Takada
+description: |2-
+
+  A simple implementation of HMLasso (Lasso with High Missing rate).
+  Takada, M., Fujisawa, H., & Nishikawa, T. (2019) <arXiv:1811.00255>.
+date_publication: '2019-08-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hmlasso
+url_git: ''

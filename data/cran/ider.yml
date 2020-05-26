@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Various Methods for Estimating Intrinsic Dimension
+maintainer: Hideitsu Hino
+description: |-
+  An implementation of various methods for estimating intrinsic
+  dimension of vector-valued dataset or distance matrix. Most methods implemented
+  are based on different notion of fractal dimension such as the capacity
+  dimension, the box-counting dimension, and the information dimension.
+date_publication: '2017-04-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ider
+url_git: ''

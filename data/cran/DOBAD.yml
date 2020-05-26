@@ -1,0 +1,12 @@
+version: 1.0.6
+title: |-
+  Analysis of Discretely Observed Linear
+  Birth-and-Death(-and-Immigration) Markov Chains
+maintainer: Charles Doss
+description: Provides Frequentist (EM) and Bayesian  (MCMC) Methods for Inference
+  of  Birth-Death-Immigration Markov Chains.
+date_publication: '2017-12-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DOBAD
+url_git: ''

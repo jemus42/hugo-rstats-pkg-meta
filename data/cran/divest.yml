@@ -1,0 +1,11 @@
+version: 0.8.2
+title: Get Images Out of DICOM Format Quickly
+maintainer: Jon Clayden
+description: |-
+  Provides tools to sort DICOM-format medical image files, and
+  convert them to NIfTI-1 format.
+date_publication: '2020-01-10'
+bug_reports: https://github.com/jonclayden/divest/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=divest
+url_git: https://github.com/jonclayden/divest

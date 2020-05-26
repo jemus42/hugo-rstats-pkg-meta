@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Automatically Search Errors or Warnings
+maintainer: James Balamuta
+description: |-
+  Provides environment hooks that obtain errors and warnings which
+  occur during the execution of code to automatically search for solutions.
+date_publication: '2020-02-24'
+bug_reports: https://github.com/r-assist/errorist/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=errorist
+url_git: https://github.com/r-assist/errorist

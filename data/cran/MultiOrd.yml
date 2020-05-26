@@ -1,0 +1,10 @@
+version: 2.4.2
+title: Generation of Multivariate Ordinal Variates
+maintainer: Ran Gao
+description: A method for multivariate ordinal data generation given marginal distributions
+  and correlation matrix based on the methodology proposed by Demirtas (2006) <DOI:10.1080/10629360600569246>.
+date_publication: '2020-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MultiOrd
+url_git: ''

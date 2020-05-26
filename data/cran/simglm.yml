@@ -1,0 +1,14 @@
+version: 0.7.4
+title: Simulate Models Based on the Generalized Linear Model
+maintainer: Brandon LeBeau
+description: |-
+  Simulates regression models,
+  including both simple regression and generalized linear mixed
+  models with up to three level of nesting. Power simulations that are
+  flexible allowing the specification of missing data, unbalanced designs,
+  and different random error distributions are built into the package.
+date_publication: '2019-05-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=simglm
+url_git: ''

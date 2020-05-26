@@ -1,0 +1,12 @@
+version: 0.1-11
+title: Bayesian Model Averaging with INLA
+maintainer: Virgilio Gómez-Rubio
+description: |-
+  Fit Spatial Econometrics models using Bayesian model averaging
+  on models fitted with INLA. The INLA package can be obtained from
+  <http://www.r-inla.org>.
+date_publication: '2018-07-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=INLABMA
+url_git: ''

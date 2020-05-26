@@ -1,0 +1,11 @@
+version: '0.1'
+title: Predicting Rankings of Labels
+maintainer: Artur Aiguzhinov
+description: 'An implementation of distance-based ranking algorithms to predict rankings
+  of labels.  Two common algorithms are included: the naive Bayes and the nearest
+  neighbor algorithms.'
+date_publication: '2015-11-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=labelrank
+url_git: ''

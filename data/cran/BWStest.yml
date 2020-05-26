@@ -1,0 +1,14 @@
+version: 0.2.2
+title: Baumgartner Weiss Schindler Test of Equal Distributions
+maintainer: Steven E. Pav
+description: |-
+  Performs the 'Baumgartner-Weiss-Schindler' two-sample test of equal
+  probability distributions, <doi:10.2307/2533862>. Also performs
+  similar rank-based tests for equal probability distributions due to
+  Neuhauser <doi:10.1080/10485250108832874> and
+  Murakami <doi:10.1080/00949655.2010.551516>.
+date_publication: '2018-10-18'
+bug_reports: https://github.com/shabbychef/BWStest/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=BWStest
+url_git: https://github.com/shabbychef/BWStest

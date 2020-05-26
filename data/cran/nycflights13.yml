@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Flights that Departed NYC in 2013
+maintainer: Hadley Wickham
+description: |-
+  Airline on-time data for all flights departing NYC
+  in 2013.  Also includes useful 'metadata' on airlines, airports,
+  weather, and planes.
+date_publication: '2019-09-16'
+bug_reports: https://github.com/hadley/nycflights13/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=nycflights13
+url_git: http://github.com/hadley/nycflights13

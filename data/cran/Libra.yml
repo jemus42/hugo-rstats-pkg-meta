@@ -1,0 +1,15 @@
+version: '1.6'
+title: Linearized Bregman Algorithms for Generalized Linear Models
+maintainer: Jiechao Xiong
+description: |-
+  Efficient procedures for fitting the regularization path
+  for linear, binomial, multinomial, Ising and Potts models with lasso,
+  group lasso or column lasso(only for multinomial) penalty.
+  The package uses Linearized Bregman Algorithm to solve the
+  regularization path through iterations. Bregman Inverse Scale Space Differential
+  Inclusion solver is also provided for linear model with lasso penalty.
+date_publication: '2018-06-09'
+bug_reports: ''
+url: http://arxiv.org/abs/1406.7728
+url_cran: https://CRAN.R-project.org/package=Libra
+url_git: ''

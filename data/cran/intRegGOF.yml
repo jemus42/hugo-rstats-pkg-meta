@@ -1,0 +1,12 @@
+version: 0.85-5
+title: Integrated Regression Goodness of Fit
+maintainer: Jorge Luis Ojeda Cabrera
+description: |-
+  Performs Goodness of Fit for regression models
+  using Integrated Regression method. Works for several
+  different fitting techniques.
+date_publication: '2018-05-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=intRegGOF
+url_git: ''

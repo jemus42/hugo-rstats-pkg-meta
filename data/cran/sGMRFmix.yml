@@ -1,0 +1,16 @@
+version: 0.3.0
+title: |-
+  Sparse Gaussian Markov Random Field Mixtures for Anomaly
+  Detection
+maintainer: Koji Makiyama
+description: |-
+  An implementation of sparse Gaussian Markov random field mixtures
+  presented by Ide et al. (2016) <doi:10.1109/ICDM.2016.0119>.
+  It provides a novel anomaly detection method for multivariate noisy sensor data.
+  It can automatically handle multiple operational modes.
+  And it can also compute variable-wise anomaly scores.
+date_publication: '2018-04-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sGMRFmix
+url_git: ''

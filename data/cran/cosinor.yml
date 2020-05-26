@@ -1,0 +1,12 @@
+version: '1.1'
+title: Tools for estimating and predicting the cosinor model
+maintainer: Michael Sachs
+description: cosinor is a set of simple functions that transforms longitudinal<U+000a>data
+  to estimate the cosinor linear model as described in Tong (1976).<U+000a>Methods
+  are given to summarize the mean, amplitude and acrophase, to<U+000a>predict the
+  mean annual outcome value, and to test the coefficients.
+date_publication: '2014-07-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cosinor
+url_git: http://github.com/sachsmc/cosinor

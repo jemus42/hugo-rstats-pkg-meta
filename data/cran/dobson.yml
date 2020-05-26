@@ -1,0 +1,10 @@
+version: '0.4'
+title: Data from the GLM Book by Dobson and Barnett
+maintainer: Adrian Barnett
+description: 'Example datasets from the book "An Introduction to Generalised Linear
+  Models" (Year: 2018, ISBN:9781138741515) by Dobson and Barnett.'
+date_publication: '2018-11-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dobson
+url_git: ''

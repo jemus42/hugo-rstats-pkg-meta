@@ -1,0 +1,15 @@
+version: 1.9.4
+title: Flexible Regression Models for Survival Data
+maintainer: Thomas Scheike
+description: |-
+  Programs for Martinussen and Scheike (2006), `Dynamic Regression
+  Models for Survival Data', Springer Verlag.  Plus more recent developments.
+  Additive survival model, semiparametric proportional odds model, fast
+  cumulative residuals, excess risk models and more. Flexible competing risks
+  regression including GOF-tests. Two-stage frailty modelling. PLS for the
+  additive risk model. Lasso in the 'ahaz' package.
+date_publication: '2019-07-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=timereg
+url_git: https://github.com/scheike/timereg.git

@@ -1,0 +1,9 @@
+version: '1.0'
+title: Construct an Unsupervised Hidden Markov Model
+maintainer: Paul TERNYNCK
+description: Construct a Hidden Markov Model with states learnt by unsupervised classification.
+date_publication: '2016-04-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=uHMM
+url_git: ''

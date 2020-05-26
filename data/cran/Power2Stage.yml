@@ -1,0 +1,13 @@
+version: 0.5.2
+title: |-
+  Power and Sample-Size Distribution of 2-Stage Bioequivalence
+  Studies
+maintainer: Detlew Labes
+description: |-
+  Contains functions to obtain the operational characteristics of
+  bioequivalence studies with 2-stage designs (TSD) via simulations.
+date_publication: '2019-04-20'
+bug_reports: https://github.com/Detlew/Power2Stage/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Power2Stage
+url_git: https://github.com/Detlew/Power2Stage

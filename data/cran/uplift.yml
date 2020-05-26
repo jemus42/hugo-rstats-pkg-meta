@@ -1,0 +1,9 @@
+version: 0.3.5
+title: Uplift Modeling
+maintainer: Leo Guelman
+description: An integrated package for building and testing uplift models
+date_publication: '2014-03-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=uplift
+url_git: ''

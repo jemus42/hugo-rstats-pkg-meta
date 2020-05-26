@@ -1,0 +1,12 @@
+version: '1.0'
+title: Generates binomial random numbers via the coupling from the past<U+000a>algorithm
+maintainer: Francisco Jureitg
+description: Binomial random numbers are generated via the perfect<U+000a>sampling
+  algorithm. At each iteration dual markov chains are<U+000a>generated and coalescence
+  is checked. In case coalescence<U+000a>occurs, the resulting number is outputted.
+  In case not, then<U+000a>the algorithm is restarted from T(t)=2*T(t) until coalescence<U+000a>occurs.
+date_publication: '2012-09-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=binomialcftp
+url_git: ''

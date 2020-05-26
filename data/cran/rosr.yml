@@ -1,0 +1,12 @@
+version: 0.0.10
+title: Create Reproducible Research Projects
+maintainer: Peng Zhao
+description: Creates reproducible academic projects with integrated academic elements,
+  including datasets, references, codes, images, manuscripts, dissertations, slides
+  and so on. These elements are well connected so that they can be easily synchronized
+  and updated.
+date_publication: '2020-05-11'
+bug_reports: https://github.com/pzhaonet/rosr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rosr
+url_git: https://github.com/pzhaonet/rosr

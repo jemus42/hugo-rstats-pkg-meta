@@ -1,0 +1,14 @@
+version: 0.3.2
+title: Easily Scrape and Process AFL Data
+maintainer: James Day
+description: |-
+  An easy package for scraping and processing Australia Rules Football (AFL)
+  data. 'fitzRoy' provides a range of functions for accessing publicly available data
+  from 'AFL Tables' <https://afltables.com>, 'Footy Wire' <https://www.footywire.com> and
+  'The Squiggle' <https://squiggle.com.au>. Further functions allow for easy processing,
+  cleaning and transformation of this data into formats that can be used for analysis.
+date_publication: '2020-05-23'
+bug_reports: https://github.com/jimmyday12/fitzRoy/issues
+url: https://jimmyday12.github.io/fitzRoy/
+url_cran: https://CRAN.R-project.org/package=fitzRoy
+url_git: https://github.com/jimmyday12/fitzRoy

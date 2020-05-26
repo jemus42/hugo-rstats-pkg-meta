@@ -1,0 +1,9 @@
+version: 1.1.4
+title: Reading Data from NetCDF Files for 'REddyProc'
+maintainer: Thomas Wutzler
+description: Extension to 'REddyProc' that allows reading data from netCDF files.
+date_publication: '2018-05-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=REddyProcNCDF
+url_git: https://github.com/bgctw/REddyProcNCDF

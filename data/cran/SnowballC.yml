@@ -1,0 +1,15 @@
+version: 0.7.0
+title: Snowball Stemmers Based on the C 'libstemmer' UTF-8 Library
+maintainer: Milan Bouchet-Valat
+description: |-
+  An R interface to the C 'libstemmer' library that implements
+  Porter's word stemming algorithm for collapsing words to a common
+  root to aid comparison of vocabulary. Currently supported languages are
+  Danish, Dutch, English, Finnish, French, German, Hungarian, Italian,
+  Norwegian, Portuguese, Romanian, Russian, Spanish, Swedish
+  and Turkish.
+date_publication: '2020-04-01'
+bug_reports: https://github.com/nalimilan/R.TeMiS/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=SnowballC
+url_git: https://github.com/nalimilan/R.TeMiS

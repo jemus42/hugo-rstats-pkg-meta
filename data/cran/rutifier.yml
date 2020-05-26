@@ -1,0 +1,12 @@
+version: 1.0.4
+title: Chilean Rol Unico Tributario
+maintainer: Mauricio Santelices
+description: A RUT (Rol Unico Tributario) is an unique and personal identification
+  number implemented in Chile to identify citizens and taxpayers. Rutifier allows
+  to validate if a RUT exist or not and change between the different formats a RUT
+  can have.
+date_publication: '2020-03-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rutifier
+url_git: ''

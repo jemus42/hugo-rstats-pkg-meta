@@ -1,0 +1,11 @@
+version: '2.4'
+title: Tools for Multiple Imputation of Missing Data
+maintainer: Thomas Lumley
+description: |-
+  Tools to perform analyses and combine results from
+  multiple-imputation datasets.
+date_publication: '2019-04-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mitools
+url_git: ''

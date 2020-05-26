@@ -1,0 +1,13 @@
+version: '1.0'
+title: Clinical Utility of DNA Testing
+maintainer: Thuy Trang Nguyen
+description: This package provides the estimation of an index measuring<U+000a>the
+  clinical utility of DNA testing in the context of<U+000a>gene-environment interactions
+  on a disease. The corresponding<U+000a>gene-environment interaction effect on the
+  additive scale can<U+000a>also be obtained. The estimation is based on case-control
+  or<U+000a>cohort data. The method was developed by Nguyen et al. 2013.
+date_publication: '2013-04-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=clinUtiDNA
+url_git: ''

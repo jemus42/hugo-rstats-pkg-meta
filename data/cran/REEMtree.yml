@@ -1,0 +1,14 @@
+version: 0.90.3
+title: |-
+  Regression Trees with Random Effects for Longitudinal (Panel)
+  Data
+maintainer: Rebecca Sela
+description: |-
+  This package estimates regression trees with random
+  effects as a way to use data mining techniques to describe
+  longitudinal or panel data.
+date_publication: '2011-08-08'
+bug_reports: ''
+url: http://pages.stern.nyu.edu/~jsimonof/REEMtree/
+url_cran: https://CRAN.R-project.org/package=REEMtree
+url_git: ''

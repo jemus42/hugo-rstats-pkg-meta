@@ -1,0 +1,12 @@
+version: 3.18.12
+title: Bayesian Model Averaging
+maintainer: Hana Sevcikova
+description: |-
+  Package for Bayesian model averaging and variable selection for linear models,
+  generalized linear models and survival models (cox
+  regression).
+date_publication: '2020-03-11'
+bug_reports: ''
+url: http://stats.research.att.com/volinsky/bma.html
+url_cran: https://CRAN.R-project.org/package=BMA
+url_git: https://github.com/hanase/BMA

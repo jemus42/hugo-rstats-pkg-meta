@@ -1,0 +1,13 @@
+version: 0.3.0
+title: |-
+  Cystic Fibrosis Survival Prediction Model Based on Stanojevic
+  Model
+maintainer: Amin Adibi
+description: Allows clinicians to predict survival probabilities over the next two
+  years for cystic fibrosis patients, based on the clinical prediction models published
+  in Stanojevic et al. (2019) <doi:10.1183/13993003.00224-2019>.
+date_publication: '2020-05-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cfmortality
+url_git: ''

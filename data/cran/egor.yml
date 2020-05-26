@@ -1,0 +1,15 @@
+version: 0.20.03
+title: Import and Analyse Ego-Centered Network Data
+maintainer: Till Krenz
+description: |-
+  Tools for importing, analyzing and visualizing ego-centered
+  network data. Supports several data formats, including the export formats of
+  'EgoNet', 'EgoWeb 2.0' and 'openeddi'. An interactive (shiny) app for the
+  intuitive visualization of ego-centered networks is provided. Also included
+  are procedures for creating and visualizing Clustered Graphs
+  (Lerner 2008 <DOI:10.1109/PACIFICVIS.2008.4475458>).
+date_publication: '2020-03-03'
+bug_reports: https://github.com/tilltnet/egor/issues
+url: https://tilltnet.github.io/egor/
+url_cran: https://CRAN.R-project.org/package=egor
+url_git: https://github.com/tilltnet/egor

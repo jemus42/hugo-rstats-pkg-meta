@@ -1,0 +1,13 @@
+version: 0.5.1
+title: Path Diagrams for Lavaan Models via DiagrammeR
+maintainer: Alex Lishinski
+description: |-
+  Plots path diagrams from models in lavaan using the plotting
+  functionality from the DiagrammeR package. DiagrammeR provides nice path diagrams
+  via Graphviz, and these functions make it easy to generate these diagrams from a
+  lavaan path model without having to write the DOT language graph specification.
+date_publication: '2018-04-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lavaanPlot
+url_git: https://github.com/alishinski/lavaanPlot

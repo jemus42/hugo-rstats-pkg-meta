@@ -1,0 +1,12 @@
+version: 1.2.5
+title: Network Analysis and Visualization
+maintainer: Gábor Csárdi
+description: |-
+  Routines for simple graphs and network analysis. It can
+  handle large graphs very well and provides functions for generating random
+  and regular graphs, graph visualization, centrality methods and much more.
+date_publication: '2020-03-19'
+bug_reports: https://github.com/igraph/igraph/issues
+url: http://igraph.org
+url_cran: https://CRAN.R-project.org/package=igraph
+url_git: ''

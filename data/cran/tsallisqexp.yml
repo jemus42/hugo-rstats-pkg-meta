@@ -1,0 +1,11 @@
+version: 0.9-3
+title: Tsallis q-Exp Distribution
+maintainer: Christophe Dutang
+description: Tsallis distribution also known as the q-exponential family distribution.
+  Provide distribution d, p, q, r functions, fitting and testing functions. Project
+  initiated by Paul Higbie and based on Cosma Shalizi's code.
+date_publication: '2018-08-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tsallisqexp
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Posterior Mean Panel Predictor
+maintainer: Michal Oleszak
+description: |-
+  Dynamic panel modelling framework based on an empirical-Bayes approach.
+  Contains tools for computing point forecasts and bootstrapping prediction intervals.
+  Reference: Liu et al. (2016) <doi:10.2139/ssrn.2889000>.
+date_publication: '2019-10-15'
+bug_reports: https://github.com/MichalOleszak/pmpp/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pmpp
+url_git: https://github.com/MichalOleszak/pmpp

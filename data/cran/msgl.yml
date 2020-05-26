@@ -1,0 +1,18 @@
+version: 2.3.9
+title: Multinomial Sparse Group Lasso
+maintainer: Niels Richard Hansen
+description: |-
+  Multinomial logistic regression with sparse group lasso
+  penalty. Simultaneous feature selection and parameter
+  estimation for classification. Suitable for high dimensional
+  multiclass classification with many classes. The algorithm
+  computes the sparse group lasso penalized maximum likelihood
+  estimate. Use of parallel computing for cross validation and
+  subsampling is supported through the 'foreach' and 'doParallel'
+  packages. Development version is on GitHub, please report
+  package issues on GitHub.
+date_publication: '2019-05-08'
+bug_reports: https://github.com/nielsrhansen/msgl/issues
+url: http://www.sciencedirect.com/science/article/pii/S0167947313002168
+url_cran: https://CRAN.R-project.org/package=msgl
+url_git: https://github.com/nielsrhansen/msgl

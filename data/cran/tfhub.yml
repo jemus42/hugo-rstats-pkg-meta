@@ -1,0 +1,15 @@
+version: 0.8.0
+title: Interface to 'TensorFlow' Hub
+maintainer: Daniel Falbel
+description: |-
+  'TensorFlow' Hub is a library for the publication, discovery, and
+  consumption of reusable parts of machine learning models. A module is a
+  self-contained piece of a 'TensorFlow' graph, along with its weights and
+  assets, that can be reused across different tasks in a process known as
+  transfer learning. Transfer learning train a model with a smaller dataset,
+  improve generalization, and speed up training.
+date_publication: '2020-05-22'
+bug_reports: https://github.com/rstudio/tfhub/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tfhub
+url_git: https://github.com/rstudio/tfhub

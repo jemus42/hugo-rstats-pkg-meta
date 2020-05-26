@@ -1,0 +1,13 @@
+version: 0.1.0
+title: |-
+  Fitting a Log-Binomial Model using the Bekhit-Schöpe-Wagenpfeil
+  (BSW) Algorithm
+maintainer: Adam Bekhit
+description: Implements a modified Newton-type algorithm (BSW algorithm) for solving
+  the maximum likelihood estimation problem in fitting a log-binomial model under
+  linear inequality constraints.
+date_publication: '2020-03-25'
+bug_reports: https://github.com/adam-bec/BSW/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=BSW
+url_git: https://github.com/adam-bec/BSW

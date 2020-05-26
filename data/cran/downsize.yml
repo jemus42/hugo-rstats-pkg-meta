@@ -1,0 +1,9 @@
+version: 0.2.2
+title: A Tool to Downsize Large Workflows for Testing
+maintainer: William Michael Landau
+description: Toggles the test and production versions of a large workflow.
+date_publication: '2017-04-03'
+bug_reports: https://github.com/wlandau/downsize/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=downsize
+url_git: https://github.com/wlandau/downsize

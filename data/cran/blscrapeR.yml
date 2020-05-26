@@ -1,0 +1,11 @@
+version: 3.2.0
+title: An API Wrapper for the Bureau of Labor Statistics (BLS)
+maintainer: Kris Eberwein
+description: Scrapes various data from <https://www.bls.gov/>. The U.S. Bureau of
+  Labor Statistics is the statistical branch of the United States Department of Labor.
+  The package has additional functions to help parse, analyze and visualize the data.
+date_publication: '2019-12-17'
+bug_reports: https://github.com/keberwein/blscrapeR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=blscrapeR
+url_git: https://github.com/keberwein/blscrapeR

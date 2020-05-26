@@ -1,0 +1,11 @@
+version: 0.1.6
+title: Functions for Time Series Analysis and Forecasting
+maintainer: Rami Krispin
+description: Provides a set of tools for descriptive and predictive analysis of time
+  series data. That includes functions for interactive visualization of time series
+  objects and as well utility functions for automation time series forecasting.
+date_publication: '2020-01-21'
+bug_reports: https://github.com/RamiKrispin/TSstudio/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=TSstudio
+url_git: https://github.com/RamiKrispin/TSstudio

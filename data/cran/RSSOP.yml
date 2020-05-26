@@ -1,0 +1,13 @@
+version: '1.1'
+title: |-
+  Simulation of Supply Reservoir Systems using Standard Operation
+  Policy
+maintainer: Rezgar Arabzadeh
+description: Reservoir Systems Standard Operation Policy. A system for simulation
+  of supply reservoirs. It proposes functionalities for plotting and evaluation of
+  supply reservoirs systems.
+date_publication: '2016-08-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RSSOP
+url_git: ''

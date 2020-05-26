@@ -1,0 +1,12 @@
+version: 0.6.7
+title: Polynomial Regression
+maintainer: Norm Matloff
+description: Automate formation and evaluation of polynomial regression models. The
+  motivation for this package is described in 'Polynomial Regression As an Alternative
+  to Neural Nets' by Xi Cheng, Bohdan Khomtchouk, Norman Matloff, and Pete Mohanty
+  (<arXiv:1806.06850>).
+date_publication: '2020-04-04'
+bug_reports: https://github.com/matloff/polyreg/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=polyreg
+url_git: https://github.com/matloff/polyreg

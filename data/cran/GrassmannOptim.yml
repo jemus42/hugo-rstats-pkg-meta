@@ -1,0 +1,10 @@
+version: '2.0'
+title: Grassmann Manifold Optimization
+maintainer: Kofi Placid Adragni
+description: Optimizing a function F(U), where U is a semi-orthogonal matrix and F
+  is invariant under an orthogonal transformation of U
+date_publication: '2013-12-02'
+bug_reports: ''
+url: http://www.math.umbc.edu/~kofi/GrassmannOptim
+url_cran: https://CRAN.R-project.org/package=GrassmannOptim
+url_git: ''

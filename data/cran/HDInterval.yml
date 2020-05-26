@@ -1,0 +1,11 @@
+version: 0.2.2
+title: Highest (Posterior) Density Intervals
+maintainer: Mike Meredith
+description: A generic function and a set of methods to calculate highest density
+  intervals for a variety of classes of objects which can specify a probability density
+  distribution, including MCMC output, fitted density objects, and functions.
+date_publication: '2020-05-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HDInterval
+url_git: ''

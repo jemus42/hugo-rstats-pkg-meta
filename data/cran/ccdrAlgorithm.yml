@@ -1,0 +1,13 @@
+version: 0.0.5
+title: CCDr Algorithm for Learning Sparse Gaussian Bayesian Networks
+maintainer: Bryon Aragam
+description: Implementation of the CCDr (Concave penalized Coordinate Descent with
+  reparametrization) structure learning algorithm as described in Aragam and Zhou
+  (2015) <http://www.jmlr.org/papers/v16/aragam15a.html>. This is a fast, score-based
+  method for learning Bayesian networks that uses sparse regularization and block-cyclic
+  coordinate descent.
+date_publication: '2018-06-01'
+bug_reports: https://github.com/itsrainingdata/ccdrAlgorithm/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ccdrAlgorithm
+url_git: https://github.com/itsrainingdata/ccdrAlgorithm

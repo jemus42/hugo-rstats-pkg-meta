@@ -1,0 +1,15 @@
+version: 0.1.0
+title: |-
+  Interactive Shiny Presentation for Working with Multinomial
+  Logistic Regression
+maintainer: Kartikeya Bolar
+description: An interactive presentation on  the topic of Multinomial Logistic Regression.
+  It is helpful to those who want to learn Multinomial Logistic Regression quickly
+  and get a hands on experience. The presentation has a template for solving problems
+  on Multinomial Logistic Regression. Runtime examples are provided in the package
+  function as well as at  <https://jarvisatharva.shinyapps.io/MultinomPresentation>.
+date_publication: '2019-03-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MNLR
+url_git: ''

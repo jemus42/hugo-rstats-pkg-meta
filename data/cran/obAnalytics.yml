@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Limit Order Book Analytics
+maintainer: Philip Stubbings
+description: |-
+  Data processing, visualisation and analysis of Limit Order Book
+  event data.
+date_publication: '2016-11-11'
+bug_reports: https://github.com/phil8192/ob-analytics/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=obAnalytics
+url_git: https://github.com/phil8192/ob-analytics

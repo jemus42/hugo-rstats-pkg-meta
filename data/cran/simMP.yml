@@ -1,0 +1,13 @@
+version: 0.17.3
+title: |-
+  Simulate Somatic Mutations in Cancer Genomes from Mutational
+  Processes
+maintainer: Nan Zhou
+description: Simulates somatic single base substitutions carried in cancer genomes.
+  By only providing a human reference genome, substitutions that result from mutational
+  processes operative in every cancer genome can be generated.
+date_publication: '2017-04-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=simMP
+url_git: ''

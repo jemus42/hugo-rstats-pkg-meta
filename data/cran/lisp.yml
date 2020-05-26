@@ -1,0 +1,11 @@
+version: '0.1'
+title: List-processing à la SRFI-1
+maintainer: Peter Danenberg
+description: Though SRFI-1 scopes both list-processing and higher-order<U+000a>programming,
+  we'll save some list-orthogonal functions for the<U+000a>`functional' package; this
+  is freely a mixture of<U+000a>implementation and API.
+date_publication: '2012-01-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lisp
+url_git: ''

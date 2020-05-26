@@ -1,0 +1,10 @@
+version: '1.6'
+title: Estimation of Overlapping in Empirical Distributions
+maintainer: Massimiliano Pastore
+description: Functions for estimating the overlapping area of two or more kernel density
+  estimations from empirical data.
+date_publication: '2020-03-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=overlapping
+url_git: ''

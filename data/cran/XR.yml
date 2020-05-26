@@ -1,0 +1,13 @@
+version: 0.7.2
+title: A Structure for Interfaces from R
+maintainer: John Chambers
+description: |-
+  Support for interfaces from R to other languages,
+  built around a class for evaluators and a combination of functions, classes and
+  methods for communication. Will be used through a specific language interface
+  package. Described in the book "Extending R".
+date_publication: '2018-03-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=XR
+url_git: ''

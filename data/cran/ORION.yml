@@ -1,0 +1,13 @@
+version: 1.0.1
+title: Ordinal Relations
+maintainer: HA Kestler
+description: Functions to handle ordinal relations reflected within the feature space.
+  Those function allow to search for ordinal relations in multi-class datasets. One
+  can check whether proposed relations are reflected in a specific feature representation.
+  Furthermore, it provides functions to filter, organize and further analyze those
+  ordinal relations.
+date_publication: '2020-05-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ORION
+url_git: ''

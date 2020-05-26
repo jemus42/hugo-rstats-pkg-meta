@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Make Labeling of R Data Sets Easy
+maintainer: Adrian Maldet
+description: |-
+  Assign meaningful labels to data frame columns.
+  'labelmachine' manages your label assignment rules in 'yaml' files
+  and makes it easy to use the same labels in multiple projects.
+date_publication: '2019-10-11'
+bug_reports: https://github.com/a-maldet/labelmachine/issues
+url: https://a-maldet.github.io/labelmachine
+url_cran: https://CRAN.R-project.org/package=labelmachine
+url_git: https://github.com/a-maldet/labelmachine

@@ -1,0 +1,13 @@
+version: 1.0.8
+title: |-
+  Retrieval, Analysis, and Anomaly Calculation of Daily Hydrologic
+  Time Series Data
+maintainer: Karen R. Ryberg
+description: Imports U.S. Geological Survey (USGS) daily hydrologic data from USGS
+  web services (see <https://waterservices.usgs.gov/> for more information), plots
+  the data, addresses some common data problems, and calculates and plots anomalies.
+date_publication: '2017-04-28'
+bug_reports: ''
+url: https://pubs.usgs.gov/of/2012/1168/
+url_cran: https://CRAN.R-project.org/package=waterData
+url_git: ''

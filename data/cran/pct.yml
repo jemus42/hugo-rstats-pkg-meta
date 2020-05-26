@@ -1,0 +1,15 @@
+version: 0.4.0
+title: Propensity to Cycle Tool
+maintainer: Robin Lovelace
+description: |-
+  Functions and example data to teach and
+  increase the reproducibility of the methods and code underlying
+  the Propensity to Cycle Tool (PCT), a research project and web application
+  hosted at <https://www.pct.bike/>.
+  For an academic paper on the methods,
+  see Lovelace et al (2017) <doi:10.5198/jtlu.2016.862>.
+date_publication: '2020-03-02'
+bug_reports: https://github.com/ITSLeeds/pct/issues
+url: https://itsleeds.github.io/pct/
+url_cran: https://CRAN.R-project.org/package=pct
+url_git: https://github.com/ITSLeeds/pct

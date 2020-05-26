@@ -1,0 +1,14 @@
+version: 0.2.0
+title: Main Effects and Interactions in Mixed and Incomplete Data
+maintainer: Genevieve Robin
+description: Generalized low-rank models for mixed and incomplete data frames. The
+  main function may be used for dimensionality reduction of imputation of numeric,
+  binary and count data (simultaneously). Main effects such as column means, group
+  effects, or effects of row-column side information (e.g. user/item attributes in
+  recommendation system) may also be modelled in addition to the low-rank model. Geneviève
+  Robin, Olga Klopp, Julie Josse, Éric Moulines, Robert Tibshirani (2018) <arXiv:1806.09734>.
+date_publication: '2019-03-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mimi
+url_git: ''

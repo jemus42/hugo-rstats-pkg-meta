@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Create 'ggplot2' Plots in a Loop
+maintainer: Luke Smith
+description: |-
+  Pass a data frame and mapping aesthetics to ggloop() in order
+  to create a list of 'ggplot2' plots. The way x-y and dots are paired together
+  is controlled by the remapping arguments. Geoms, themes, facets, and other
+  features can be added with the special %L+% (L-plus) operator.
+date_publication: '2016-10-20'
+bug_reports: https://github.com/seasmith/ggloop/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggloop
+url_git: https://github.com/seasmith/ggloop

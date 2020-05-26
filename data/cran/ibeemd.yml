@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Irregular-lattice based ensemble empirical mode decomposition
+maintainer: Maogui Hu
+description: A data-driven and adaptive hierarchical-scale decomposition method for
+  irregular-lattice field (represented by polygons).
+date_publication: '2014-08-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ibeemd
+url_git: ''

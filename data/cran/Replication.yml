@@ -1,0 +1,12 @@
+version: 0.1.2
+title: Test Replications by Means of the Prior Predictive p-Value
+maintainer: M.A.J. Zondervan-Zwijnenburg
+description: Allows for the computation of a prior predictive p-value to test replication
+  of relevant features of original studies. Relevant features are captured in informative
+  hypotheses. The package also allows for the computation of power. The statistical
+  underpinnings are described in Zondervan-Zwijnenburg (2019) <doi:10.31234/osf.io/uvh5s>.
+date_publication: '2020-04-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Replication
+url_git: ''

@@ -1,0 +1,13 @@
+version: '1.0'
+title: Uses Grieg-Smith method on 2 dimentional spatial data
+maintainer: Brian McGuire
+description: |-
+  The function GriegSmith accepts either quadrat count data,
+  a point process object(ppp) or a matrix of x and y coordinates.
+  The function calculates a nested analysis of variance and
+  simulation envelopes.
+date_publication: '2013-03-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GriegSmith
+url_git: ''

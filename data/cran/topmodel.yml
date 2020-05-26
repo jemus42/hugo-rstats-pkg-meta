@@ -1,0 +1,13 @@
+version: 0.7.3
+title: Implementation of the Hydrological Model TOPMODEL in R
+maintainer: Wouter Buytaert
+description: |-
+  Set of hydrological functions including an R
+  implementation of the hydrological model TOPMODEL, which is
+  based on the 1995 FORTRAN version by Keith Beven. From version
+  0.7.0, the package is put into maintenance mode.
+date_publication: '2018-02-01'
+bug_reports: ''
+url: http://paramo.cc.ic.ac.uk/topmodel_tutorial
+url_cran: https://CRAN.R-project.org/package=topmodel
+url_git: ''

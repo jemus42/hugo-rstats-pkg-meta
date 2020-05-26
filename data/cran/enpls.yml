@@ -1,0 +1,13 @@
+version: '6.1'
+title: Ensemble Partial Least Squares Regression
+maintainer: Nan Xiao
+description: |-
+  An algorithmic framework for measuring feature importance,
+  outlier detection, model applicability domain evaluation,
+  and ensemble predictive modeling with (sparse)
+  partial least squares regressions.
+date_publication: '2019-05-18'
+bug_reports: https://github.com/nanxstats/enpls/issues
+url: https://nanx.me/enpls/
+url_cran: https://CRAN.R-project.org/package=enpls
+url_git: https://github.com/nanxstats/enpls

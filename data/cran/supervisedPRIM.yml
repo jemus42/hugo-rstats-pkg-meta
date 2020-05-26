@@ -1,0 +1,16 @@
+version: 2.0.0
+title: |-
+  Supervised Classification Learning and Prediction using Patient
+  Rule Induction Method (PRIM)
+maintainer: David Shaub
+description: |-
+  The Patient Rule Induction Method (PRIM) is typically
+  used for "bump hunting" data mining to identify regions with abnormally
+  high concentrations of data with large or small values. This package
+  extends this methodology so that it can be applied to binary classification
+  problems and used for prediction.
+date_publication: '2016-10-01'
+bug_reports: https://github.com/dashaub/supervisedPRIM/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=supervisedPRIM
+url_git: https://github.com/dashaub/supervisedPRIM

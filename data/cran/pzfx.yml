@@ -1,0 +1,9 @@
+version: 0.2.0
+title: Read and Write 'GraphPad Prism' Files
+maintainer: Yue Jiang
+description: Read and write 'GraphPad Prism' '.pzfx' files in R.
+date_publication: '2019-01-08'
+bug_reports: https://github.com/Yue-Jiang/pzfx/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pzfx
+url_git: https://github.com/Yue-Jiang/pzfx

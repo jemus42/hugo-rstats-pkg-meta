@@ -1,0 +1,13 @@
+version: '1.0'
+title: |-
+  Social Representation Theory Application: The Free Evocation of
+  Words Technique
+maintainer: Gabriel Henrique Oliveira Assuncao
+description: |-
+  Using The Free Evocation of Words Technique method with some functions, this package will make a
+  social representation and other analysis. The Free Evocation of Words Technique consists of collecting a number of words evoked by a subject facing exposure to an inducer term. The purpose of this technique is to understand the relationships created between words evoked by the individual and the inducer term. This technique is included in the theory of social representations, therefore, on the information transmitted by an individual, seeks to create a profile that define a social group.
+date_publication: '2016-04-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TELP
+url_git: ''

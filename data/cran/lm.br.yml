@@ -1,0 +1,12 @@
+version: 2.9.3
+title: Linear Model with Breakpoint
+maintainer: Marc Adams
+description: |-
+  Exact significance tests for a changepoint in linear or multiple linear regression.
+  Confidence regions with exact coverage probabilities for the changepoint.  The method is from
+  Knowles, Siegmund and Zhang (1991) <doi:10.1093/biomet/78.1.15>.
+date_publication: '2017-04-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lm.br
+url_git: ''

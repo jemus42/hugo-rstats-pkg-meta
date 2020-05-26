@@ -1,0 +1,12 @@
+version: 0.4.2
+title: R Ultimate Multilabel Dataset Repository
+maintainer: David Charte
+description: |-
+  Large collection of multilabel datasets along with the functions
+  needed to export them to several formats, to make partitions, and to obtain
+  bibliographic information.
+date_publication: '2019-01-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mldr.datasets
+url_git: https://github.com/fcharte/mldr.datasets

@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Operations to Ease Data Analyses Specific to Nigeria
+maintainer: Victor Ordu
+description: |-
+  A set of convenience functions as well as geographical/political
+  data about Nigeria, aimed at simplifying work with data and information that
+  are specific to the country.
+date_publication: '2020-05-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=naijR
+url_git: ''

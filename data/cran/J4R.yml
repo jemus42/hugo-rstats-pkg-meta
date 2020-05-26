@@ -1,0 +1,16 @@
+version: 1.0.7
+title: Create 'Java' Objects and Execute 'Java' Methods
+maintainer: Mathieu Fortin
+description: |-
+  Makes it possible to create 'Java' objects and to execute 'Java' methods from the 'R' environment.
+  The 'Java' Virtual Machine is handled by a gateway server. Commands are sent to the server
+  through a socket connection from the 'R' environment. Calls to 'Java' methods allow for
+  vectors so that a particular method is iteratively run on each element of the vector. A
+  score algorithm also makes the calls to 'Java' methods less restrictive. The gateway server
+  relies on the runnable 'Java' library 'j4r.jar'. This library is licensed under the LGPL-3. Its
+  sources are included in this package.
+date_publication: '2020-04-14'
+bug_reports: https://sourceforge.net/p/repiceasource/tickets/
+url: https://sourceforge.net/p/repiceasource/wiki/J4R/
+url_cran: https://CRAN.R-project.org/package=J4R
+url_git: ''

@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Panel Cointegration Tests
+maintainer: Georgi Marinov
+description: Computation of the Pedroni (1999) panel cointegration test statistics.  Reported
+  are the empirical and the standardized values.
+date_publication: '2015-07-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pco
+url_git: ''

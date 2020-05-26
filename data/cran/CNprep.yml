@@ -1,0 +1,12 @@
+version: '2.0'
+title: Pre-process DNA Copy Number (CN) Data for Detection of CN Events
+maintainer: Guoli Sun
+description: This package evaluates DNA copy number data, using both their initial
+  form (copy number as a noisy function of genomic position) and their approximation
+  by a piecewise-constant function (segmentation), for the purpose of identifying
+  genomic regions where the copy number differs from the norm.
+date_publication: '2014-12-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CNprep
+url_git: ''

@@ -1,0 +1,10 @@
+version: 1.2.2
+title: Access Databases from the Federal Statistical Office of Germany
+maintainer: Moritz Marbach
+description: Retrieve and import data from different databases of the Federal Statistical
+  Office of Germany (DESTATIS) using their SOAP XML web service.
+date_publication: '2020-02-15'
+bug_reports: https://github.com/sumtxt/wiesbaden/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=wiesbaden
+url_git: https://github.com/sumtxt/wiesbaden/

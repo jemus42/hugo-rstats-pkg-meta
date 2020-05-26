@@ -1,0 +1,13 @@
+version: '3.1'
+title: Fitting Mixed Models with Known Covariance Structures
+maintainer: Deniz Akdemir
+description: The main functions are 'emmreml', and 'emmremlMultiKernel'. 'emmreml'
+  solves a mixed model with known covariance structure using the 'EMMA' algorithm.  'emmremlMultiKernel'
+  is a wrapper for 'emmreml' to handle multiple random components with known covariance
+  structures. The function 'emmremlMultivariate' solves a multivariate gaussian mixed
+  model with known covariance structure using the 'ECM' algorithm.
+date_publication: '2015-07-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EMMREML
+url_git: ''

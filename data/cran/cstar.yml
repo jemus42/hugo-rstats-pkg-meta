@@ -1,0 +1,12 @@
+version: '1.0'
+title: Substantive significance testing for regression estimates and<U+000a>marginal
+  effects.
+maintainer: Justin Esarey
+description: Functions that allow a researcher to examine the robustness of the substantive
+  significance of their findings. Implements ideas set out in Esarey and Danneman
+  (2014).
+date_publication: '2014-05-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cstar
+url_git: ''

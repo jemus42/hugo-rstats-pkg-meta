@@ -1,0 +1,11 @@
+version: '1.0'
+title: Multibiplot Analysis in R
+maintainer: Ana Belen Nieto Librero
+description: |-
+  A GUI with which users can construct and interact
+  with Multibiplot Analysis and provides inferential results by using Bootstrap Methods.
+date_publication: '2015-06-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=multibiplotGUI
+url_git: ''

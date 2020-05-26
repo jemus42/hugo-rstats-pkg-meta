@@ -1,0 +1,17 @@
+version: 1.0.7
+title: |-
+  Easily Carry Out Latent Profile Analysis (LPA) Using Open-Source
+  or Commercial Software
+maintainer: Joshua M Rosenberg
+description: |-
+  An interface to the 'mclust' package to easily
+  carry out latent profile analysis ("LPA"). Provides functionality to
+  estimate commonly-specified models. Follows a tidy approach, in that
+  output is in the form of a data frame that can subsequently be
+  computed on. Also has functions to interface to the commercial 'MPlus'
+  software via the 'MplusAutomation' package.
+date_publication: '2020-05-13'
+bug_reports: https://github.com/data-edu/tidyLPA/issues
+url: https://data-edu.github.io/tidyLPA/
+url_cran: https://CRAN.R-project.org/package=tidyLPA
+url_git: ''

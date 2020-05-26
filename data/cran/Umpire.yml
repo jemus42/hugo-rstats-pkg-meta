@@ -1,0 +1,14 @@
+version: 2.0.1
+title: Simulating Realistic Gene Expression and Clinical Data
+maintainer: Kevin R. Coombes
+description: |-
+  The Ultimate Microrray Prediction, Reality and Inference
+  Engine (UMPIRE) is a package to facilitate the simulation of realistic
+  microarray data sets with links to associated outcomes. See Zhang and
+  Coombes (2012) <doi:10.1186/1471-2105-13-S13-S1>. Version 2.0 adds the
+  ability to simulate realistic mixed-typed clinical data.
+date_publication: '2020-04-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Umpire
+url_git: http://oompa.r-forge.r-project.org/

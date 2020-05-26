@@ -1,0 +1,12 @@
+version: 2.1.5
+title: Stable Isotope Bayesian Ellipses in R
+maintainer: Andrew Jackson
+description: |-
+  Fits bi-variate ellipses to stable isotope data using Bayesian
+  inference with the aim being to describe and compare their isotopic
+  niche.
+date_publication: '2020-05-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SIBER
+url_git: ''

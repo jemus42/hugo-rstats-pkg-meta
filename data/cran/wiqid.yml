@@ -1,0 +1,14 @@
+version: 0.2.3
+title: Quick and Dirty Estimates for Wildlife Populations
+maintainer: Mike Meredith
+description: Provides simple, fast functions for maximum likelihood and Bayesian estimates
+  of wildlife population parameters, suitable for use with simulated data or bootstraps.
+  Early versions were indeed quick and dirty, but optional error-checking routines
+  and meaningful error messages have been added. Includes single and multi-season
+  occupancy, closed capture population estimation, survival, species richness and
+  distance measures.
+date_publication: '2020-01-08'
+bug_reports: https://github.com/mikemeredith/wiqid/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=wiqid
+url_git: ''

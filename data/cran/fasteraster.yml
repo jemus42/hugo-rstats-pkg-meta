@@ -1,0 +1,13 @@
+version: 1.1.1
+title: Raster Image Processing and Vector Recognition
+maintainer: Andy Bosyi
+description: |-
+  If there is a need to recognise edges on a raster image or a bitmap or any kind of a matrix, one can find packages
+  that does only 90 degrees vectorization. Typically the nature of artefact images is linear and can be vectorized in much more
+  efficient way than draw a series of 90 degrees lines. The fasteraster package does recognition of lines using only one pass.
+  It also allows to calculate mass and the mass centers for the recognized zones or polygons.
+date_publication: '2017-03-19'
+bug_reports: ''
+url: http://bosyi.com/craft/
+url_cran: https://CRAN.R-project.org/package=fasteraster
+url_git: ''

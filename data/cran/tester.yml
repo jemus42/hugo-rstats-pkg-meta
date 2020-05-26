@@ -1,0 +1,9 @@
+version: 0.1.7
+title: Tests and checks characteristics of R objects
+maintainer: Gaston Sanchez
+description: tester allows you to test characteristics of common R objects.
+date_publication: '2013-11-14'
+bug_reports: ''
+url: http://www.gastonsanchez.com
+url_cran: https://CRAN.R-project.org/package=tester
+url_git: ''

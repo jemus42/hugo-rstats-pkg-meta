@@ -1,0 +1,13 @@
+version: 1.6.1
+title: Help for Writing Unit Tests Based on Function Examples
+maintainer: Rory Nolan
+description: |-
+  Take the examples written in your documentation of
+  functions and use them to create shells (skeletons which must be
+  manually completed by the user) of test files to be tested with the
+  'testthat' package. Sort of like python 'doctests' for R.
+date_publication: '2020-04-15'
+bug_reports: https://www.github.com/rorynolan/exampletestr/issues
+url: https://rorynolan.github.io/exampletestr
+url_cran: https://CRAN.R-project.org/package=exampletestr
+url_git: https://github.com/rorynolan/exampletestr#readme

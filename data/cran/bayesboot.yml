@@ -1,0 +1,14 @@
+version: 0.2.2
+title: An Implementation of Rubin's (1981) Bayesian Bootstrap
+maintainer: Rasmus Bååth
+description: |-
+  Functions for performing the Bayesian bootstrap as introduced by
+  Rubin (1981) <doi:10.1214/aos/1176345338> and for summarizing the result.
+  The implementation can handle both summary statistics that works on a
+  weighted version of the data and summary statistics that works on a
+  resampled data set.
+date_publication: '2018-06-29'
+bug_reports: https://github.com/rasmusab/bayesboot/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bayesboot
+url_git: https://github.com/rasmusab/bayesboot

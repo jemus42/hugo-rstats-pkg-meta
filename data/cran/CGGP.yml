@@ -1,0 +1,16 @@
+version: 1.0.2
+title: Composite Grid Gaussian Processes
+maintainer: Collin Erickson
+description: |-
+  Run computer experiments using the adaptive composite grid
+  algorithm with a Gaussian process model.
+  The algorithm works best when running an experiment that can evaluate thousands
+  of points from a deterministic computer simulation.
+  This package is an implementation of a forthcoming paper by Plumlee,
+  Erickson, Ankenman, et al. For a preprint of the paper,
+  contact the maintainer of this package.
+date_publication: '2020-03-29'
+bug_reports: https://github.com/CollinErickson/CGGP/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=CGGP
+url_git: https://github.com/CollinErickson/CGGP

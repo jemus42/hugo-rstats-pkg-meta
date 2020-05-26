@@ -1,0 +1,11 @@
+version: '2.0'
+title: Pathway Analysis Methods for Genomewide Association Data
+maintainer: Marina Evangelou
+description: 'Bayesian hierarchical methods for pathway analysis of genomewide association
+  data: Normal/Bayes factors and Sparse Normal/Adaptive lasso. The Frequentist Fisher''s
+  product method is included as well.'
+date_publication: '2015-12-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PAGWAS
+url_git: ''

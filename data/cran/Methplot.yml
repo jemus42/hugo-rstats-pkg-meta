@@ -1,0 +1,9 @@
+version: '1.0'
+title: Visualize the methylation patterns
+maintainer: Xin Yang
+description: It plots the output from Methpup (https://github.com/XinYang6699/Methpup)
+date_publication: '2014-04-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Methplot
+url_git: ''

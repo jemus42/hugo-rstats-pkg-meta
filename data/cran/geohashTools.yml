@@ -1,0 +1,10 @@
+version: 0.3.0
+title: Tools for Working with Geohashes
+maintainer: Michael Chirico
+description: Tools for working with Gustavo Niemeyer's geohash coordinate system,
+  including API for interacting with other common R GIS libraries.
+date_publication: '2019-10-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=geohashTools
+url_git: https://github.com/MichaelChirico/geohashTools

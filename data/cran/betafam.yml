@@ -1,0 +1,12 @@
+version: '1.0'
+title: Detecting rare variants for quantitative traits using nuclear<U+000a>families
+maintainer: Wei Guo
+description: To detecting rare variants for quantitative traits using<U+000a>nuclear
+  families, the linear combination methods are proposed<U+000a>using the estimated
+  regression coefficients from the multiple<U+000a>regression and regularized regression
+  as the weights.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=betafam
+url_git: ''

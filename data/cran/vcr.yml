@@ -1,0 +1,17 @@
+version: 0.5.4
+title: Record 'HTTP' Calls to Disk
+maintainer: Scott Chamberlain
+description: |-
+  Record test suite 'HTTP' requests and replays them during
+  future runs. A port of the Ruby gem of the same name
+  (<https://github.com/vcr/vcr/>). Works by hooking into the 'webmockr'
+  R package for matching 'HTTP' requests by various rules ('HTTP' method,
+  'URL', query parameters, headers, body, etc.), and then caching
+  real 'HTTP' responses on disk in 'cassettes'. Subsequent 'HTTP' requests
+  matching any previous requests in the same 'cassette' use a cached
+  'HTTP' response.
+date_publication: '2020-03-31'
+bug_reports: https://github.com/ropensci/vcr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=vcr
+url_git: https://github.com/ropensci/vcr/(devel)https://books.ropensci.org/http-testing/(usermanual)

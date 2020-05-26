@@ -1,0 +1,17 @@
+version: 1.2.2
+title: |-
+  Supplemental U.S. 2000 Census Tract Boundaries for 20 Eastern
+  States, District and Territory without Seer Registries for
+  'SeerMapper'
+maintainer: Fanni Zhang
+description: |-
+  Provides supplemental 2000 census tract boundaries for the 20 states, district and territory
+  without Seer Registries that are east of the Mississippi river
+  for use with the 'SeerMapper' package.
+  The data contained in this
+  package is derived from U.S. Census data and is in the public domain.
+date_publication: '2020-05-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SeerMapperEast
+url_git: ''

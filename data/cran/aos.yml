@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Animate on Scroll Library for 'shiny'
+maintainer: Félix Luginbuhl
+description: |-
+  Trigger animation effects on scroll on any HTML element
+  of 'shiny' and 'rmarkdown', such as any text or plot, thanks to
+  the 'AOS' Animate On Scroll jQuery library.
+date_publication: '2020-04-29'
+bug_reports: https://github.com/lgnbhl/aos/issues
+url: https://felixluginbuhl.com/aos
+url_cran: https://CRAN.R-project.org/package=aos
+url_git: https://github.com/lgnbhl/aos

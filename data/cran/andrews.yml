@@ -1,0 +1,9 @@
+version: '1.0'
+title: Andrews curves
+maintainer: Jaroslav Myslivec
+description: Andrews curves for visualization of multidimensional data
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=andrews
+url_git: ''

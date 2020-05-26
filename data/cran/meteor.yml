@@ -1,0 +1,11 @@
+version: 0.3-4
+title: Meteorological Data Manipulation
+maintainer: Robert J. Hijmans
+description: A set of functions for weather and climate data manipulation, and other
+  helper functions, to support dynamic ecological modelling, particularly crop and
+  crop disease modeling.
+date_publication: '2019-08-08'
+bug_reports: https://github.com/cropmodels/meteor/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=meteor
+url_git: ''

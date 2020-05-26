@@ -1,0 +1,10 @@
+version: 0.42.3
+title: PC-Axis with R
+maintainer: Carlos J. Gil Bellosta
+description: Provides a set of functions for reading and writing PC-Axis files, used
+  by different statistical organizations around the globe for data dissemination.
+date_publication: '2020-05-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pxR
+url_git: https://github.com/cjgb/pxR

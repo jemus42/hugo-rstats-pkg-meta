@@ -1,0 +1,14 @@
+version: 2.3.3
+title: |-
+  Fast Truncated Singular Value Decomposition and Principal
+  Components Analysis for Large Dense and Sparse Matrices
+maintainer: B. W. Lewis
+description: |-
+  Fast and memory efficient methods for truncated singular value
+  decomposition and principal components analysis of large sparse and dense
+  matrices.
+date_publication: '2019-02-05'
+bug_reports: https://github.com/bwlewis/irlba/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=irlba
+url_git: ''

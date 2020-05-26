@@ -1,0 +1,11 @@
+version: 0.4.4
+title: Freshing Up your 'ggplot2' Plots
+maintainer: Stefan McKinnon Edwards
+description: |-
+  Functions for working with legends and axis lines of 'ggplot2',
+  facets that repeat axis lines on all panels, and some 'knitr' extensions.
+date_publication: '2020-04-03'
+bug_reports: https://github.com/stefanedwards/lemon/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=lemon
+url_git: https://github.com/stefanedwards/lemon

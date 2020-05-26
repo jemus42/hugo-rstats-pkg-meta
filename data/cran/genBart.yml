@@ -1,0 +1,14 @@
+version: 1.0.1
+title: Generate 'BART' File
+maintainer: Jacob Cardenas
+description: |-
+  A set of functions to generate and format results from statistical
+  analyses of a wide range of high throughput experiments that can then
+  be uploaded into the 'BART' (Bio-Statistical Analysis Reporting Tool) 'shiny'
+  app <https://github.com/jcardenas14/BART>. The app provides users with tools
+  to visualize and efficiently sift through large amounts of data and results.
+date_publication: '2018-03-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=genBart
+url_git: ''

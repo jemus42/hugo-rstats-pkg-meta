@@ -1,0 +1,13 @@
+version: 0.1.7
+title: Automatic Item Generator for Quantitative Multiple-Choice Items
+maintainer: Subhabrata Patra (Shubh)
+description: |-
+  A tool for automatic generation of sibling items from a parent item model defined by
+  the user. It is an implementation of the process automatic item generation (AIG) focused
+  on generating quantitative multiple-choice type of items (see Embretson, Kingston
+  (2018) <doi:10.1111/jedm.12166>).
+date_publication: '2020-05-20'
+bug_reports: https://github.com/shubh-b/QAIG/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=QAIG
+url_git: https://github.com/shubh-b/QAIG

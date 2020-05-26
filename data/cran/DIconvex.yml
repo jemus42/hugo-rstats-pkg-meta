@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Finding Patterns of Monotonicity and Convexity in Data
+maintainer: Liudmila Karagyaur
+description: Given  an initial set of points, this package minimizes the number of
+  elements to discard from this set such that there exists at least one monotonic
+  and convex mapping within pre-specified upper and lower bounds.
+date_publication: '2018-09-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DIconvex
+url_git: ''

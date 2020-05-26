@@ -1,0 +1,14 @@
+version: 2.0.6
+title: Tools for Creating Universal Numeric Fingerprints for Data
+maintainer: Thomas Leeper
+description: |-
+  Computes a universal numeric fingerprint (UNF) for an R data
+  object. UNF is a cryptographic hash or signature that can be used to uniquely
+  identify (a version of) a rectangular dataset, or a subset thereof. UNF can
+  be used, in tandem with a DOI, to form a persistent citation to a versioned
+  dataset.
+date_publication: '2017-06-13'
+bug_reports: https://github.com/leeper/UNF/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=UNF
+url_git: https://github.com/leeper/UNF

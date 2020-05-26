@@ -1,0 +1,13 @@
+version: 1.5.5
+title: Political Science Computational Laboratory
+maintainer: Simon Jackman
+description: "Bayesian analysis of item-response theory (IRT) models,\nroll call analysis;
+  computing highest density regions; maximum\nlikelihood estimation of zero-inflated
+  and hurdle models for count\ndata; goodness-of-fit measures for GLMs; data sets
+  used\nin writing\tand teaching at the Political Science\nComputational Laboratory;
+  seats-votes curves."
+date_publication: '2020-03-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pscl
+url_git: http://github.com/atahk/pscl

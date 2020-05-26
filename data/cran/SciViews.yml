@@ -1,0 +1,11 @@
+version: 0.9-13.1
+title: SciViews - Main package
+maintainer: Philippe Grosjean
+description: |-
+  Functions to install SciViews additions to R, and more
+  tools.
+date_publication: '2019-11-16'
+bug_reports: https://github.com/SciViews/SciViews/issues
+url: http://www.sciviews.org/SciViews-R
+url_cran: https://CRAN.R-project.org/package=SciViews
+url_git: https://github.com/SciViews/SciViews

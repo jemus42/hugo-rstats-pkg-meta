@@ -1,0 +1,14 @@
+version: 1.0.1
+title: Novel Methods for Parallel Coordinates
+maintainer: Norm Matloff
+description: |-
+  New approaches to parallel coordinates plots for
+  multivariate data visualization, including applications to clustering,
+  outlier hunting and regression diagnostics.  Includes general functions
+  for multivariate nonparametric density and regression estimation,
+  using parallel computation.
+date_publication: '2016-01-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=freqparcoord
+url_git: ''

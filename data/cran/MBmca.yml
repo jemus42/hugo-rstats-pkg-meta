@@ -1,0 +1,12 @@
+version: 0.0.3-5
+title: Nucleic Acid Melting Curve Analysis on Microbead Surfaces with R
+maintainer: Stefan Roediger
+description: |-
+  The MBmca package provides data sets and lightweight utilities for
+  nucleic acid melting curve analysis and presentation on microbead surfaces
+  but also for reactions in solution (e.g., qPCR).
+date_publication: '2015-01-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MBmca
+url_git: https://github.com/michbur/MBmca/

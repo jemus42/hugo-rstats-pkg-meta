@@ -1,0 +1,10 @@
+version: 2.2.2
+title: Probabilistic Latent Feature Analysis
+maintainer: Michel Meulders
+description: Functions for estimating probabilistic latent feature models with a disjunctive,
+  conjunctive or additive mapping rule on (aggregated) binary three-way data.
+date_publication: '2018-10-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=plfm
+url_git: ''

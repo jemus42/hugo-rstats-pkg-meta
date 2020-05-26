@@ -1,0 +1,13 @@
+version: 0.9.1
+title: Build and Raytrace 3D Scenes
+maintainer: Tyler Morgan-Wall
+description: Render scenes using pathtracing. Build 3D scenes out of spheres, cubes,
+  planes, disks, triangles, line segments, cylinders, ellipsoids, and 3D models in
+  the 'Wavefront' OBJ file format. Supports several material types, textures, multicore
+  rendering, and tone-mapping. Based on the "Ray Tracing in One Weekend" book series.
+  Peter Shirley (2018) <https://raytracing.github.io>.
+date_publication: '2020-04-19'
+bug_reports: ''
+url: https://www.rayrender.net
+url_cran: https://CRAN.R-project.org/package=rayrender
+url_git: https://github.com/tylermorganwall/rayrender

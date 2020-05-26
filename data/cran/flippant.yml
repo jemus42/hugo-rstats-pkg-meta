@@ -1,0 +1,16 @@
+version: 1.1.0
+title: Dithionite Scramblase Assay Analysis
+maintainer: Johannes Graumann
+description: |-
+  The lipid scrambling activity of protein extracts and purified
+  scramblases is often determined using a fluorescence-based assay involving
+  many manual steps. flippant offers an integrated solution for the analysis
+  and publication-grade graphical presentation of dithionite scramblase
+  assays, as well as a platform for review, dissemination and extension of the
+  strategies it employs. The package's name derives from a play on the fact
+  that lipid scrambling is also sometimes referred to as 'flipping'.
+date_publication: '2017-02-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=flippant
+url_git: ''

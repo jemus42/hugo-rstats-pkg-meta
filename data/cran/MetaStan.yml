@@ -1,0 +1,13 @@
+version: 0.2.0
+title: Bayesian Meta-Analysis via 'Stan'
+maintainer: Burak Kuersad Guenhan
+description: |-
+  Performs Bayesian meta-analysis and model-based meta-analysis using 'Stan'.
+  Includes binomial-normal hierarchical models and option to use weakly informative priors for the
+  heterogeneity parameter and the treatment effect parameter which are described in
+  Guenhan, Roever, and Friede (2020) <doi:10.1002/jrsm.1370>.
+date_publication: '2020-04-09'
+bug_reports: https://github.com/gunhanb/MetaStan/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=MetaStan
+url_git: https://github.com/gunhanb/MetaStan

@@ -1,0 +1,10 @@
+version: 0.0.4
+title: OpenAnalytics Colors Package
+maintainer: Jason Waddell
+description: Provides carefully chosen color palettes as used a.o. at OpenAnalytics
+  <http://www.openanalytics.eu>.
+date_publication: '2015-11-30'
+bug_reports: ''
+url: http://www.openanalytics.eu
+url_cran: https://CRAN.R-project.org/package=oaColors
+url_git: ''

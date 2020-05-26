@@ -1,0 +1,22 @@
+version: 2.1-0
+title: FITS (Flexible Image Transport System) Utilities
+maintainer: Andrew Harris
+description: |-
+  Utilities to read and write files in the FITS (Flexible
+  Image Transport System) format, a standard format in astronomy (see
+  e.g. <https://en.wikipedia.org/wiki/FITS> for more information).
+  Present low-level routines allow: reading, parsing, and modifying
+  FITS headers; reading FITS images (multi-dimensional arrays);
+  reading FITS binary and ASCII tables; and writing FITS images
+  (multi-dimensional arrays).  Higher-level functions allow: reading
+  files composed of one or more headers and a single (perhaps
+  multidimensional) image or single table; reading tables into
+  data frames; generating vectors for image array axes; scaling and
+  writing images as 16-bit integers.  Known incompletenesses are
+  reading random group extensions, as well as
+  bit, complex, and array descriptor data types in binary tables.
+date_publication: '2016-11-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FITSio
+url_git: ''

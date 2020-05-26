@@ -1,0 +1,16 @@
+version: 1.8.6
+title: Tools for Splitting, Applying and Combining Data
+maintainer: Hadley Wickham
+description: |-
+  A set of tools that solves a common set of
+  problems: you need to break a big problem down into manageable pieces,
+  operate on each piece and then put all the pieces back together.  For
+  example, you might want to fit a model to each spatial location or
+  time point in your study, summarise data by panels or collapse
+  high-dimensional arrays to simpler summary statistics. The development
+  of 'plyr' has been generously supported by 'Becton Dickinson'.
+date_publication: '2020-03-03'
+bug_reports: https://github.com/hadley/plyr/issues
+url: http://had.co.nz/plyr
+url_cran: https://CRAN.R-project.org/package=plyr
+url_git: https://github.com/hadley/plyr

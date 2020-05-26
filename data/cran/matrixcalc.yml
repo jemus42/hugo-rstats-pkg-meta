@@ -1,0 +1,14 @@
+version: 1.0-3
+title: Collection of functions for matrix calculations
+maintainer: Frederick Novomestky
+description: A collection of functions to support matrix calculations<U+000a>for probability,
+  econometric and numerical analysis. There are<U+000a>additional functions that are
+  comparable to APL functions which<U+000a>are useful for actuarial models such as
+  pension mathematics.<U+000a>This package is used for teaching and research purposes
+  at the<U+000a>Department of Finance and Risk Engineering, New York<U+000a>University,
+  Polytechnic Institute, Brooklyn, NY 11201.
+date_publication: '2012-09-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=matrixcalc
+url_git: ''

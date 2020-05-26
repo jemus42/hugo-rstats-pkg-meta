@@ -1,0 +1,16 @@
+version: 1.0.7
+title: |-
+  Inferring Developmental Chronologies from Single-Cell RNA
+  Sequencing Data
+maintainer: Robrecht Cannoodt
+description: |-
+  An accurate and easy tool for performing linear trajectory inference on
+  single cells using single-cell RNA sequencing data. In addition, SCORPIUS
+  provides functions for discovering the most important genes with respect to
+  the reconstructed trajectory, as well as nice visualisation tools.
+  Cannoodt et al. (2016) <doi:10.1101/079509>.
+date_publication: '2020-05-11'
+bug_reports: https://github.com/rcannood/SCORPIUS/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=SCORPIUS
+url_git: http://github.com/rcannood/SCORPIUS

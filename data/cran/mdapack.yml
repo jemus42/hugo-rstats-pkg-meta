@@ -1,0 +1,11 @@
+version: 0.0.2
+title: Medical Data Analysis Pack
+maintainer: Henry Nanji
+description: |-
+  An implementation of functions for medical data analysis which perform basic data pre processing,
+  univariate and bivariate analysis.Kirkwood et al. (2003) <doi:10.1002/sim.1961>.
+date_publication: '2020-05-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mdapack
+url_git: ''

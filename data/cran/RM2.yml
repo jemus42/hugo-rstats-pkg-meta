@@ -1,0 +1,11 @@
+version: '0.0'
+title: Revenue Management and Pricing Package
+maintainer: Tudor Bodea
+description: |-
+  RM2 is a simple package that implements functions used in
+  revenue management and pricing environments.
+date_publication: '2008-08-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RM2
+url_git: ''

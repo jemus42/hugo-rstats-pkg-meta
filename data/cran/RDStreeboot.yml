@@ -1,0 +1,11 @@
+version: '1.0'
+title: RDS Tree Bootstrap Method
+maintainer: Aaron J. Baraff
+description: A tree bootstrap method for estimating uncertainty in respondent-driven
+  samples (RDS). Quantiles are estimated by multilevel resampling in such a way that
+  preserves the dependencies of and accounts for the high variability of the RDS process.
+date_publication: '2016-11-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RDStreeboot
+url_git: ''

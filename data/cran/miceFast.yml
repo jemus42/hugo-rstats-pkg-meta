@@ -1,0 +1,15 @@
+version: 0.5.1
+title: Fast Imputations Using 'Rcpp' and 'Armadillo'
+maintainer: Maciej Nasinski
+description: |2-
+
+  Fast imputations under the object-oriented programming paradigm.
+  There was used quantitative models with a closed-form solution. Thus package is based on linear algebra operations.
+  The biggest improvement in time performance could be achieve for a calculation where a grouping variable have to be used.
+  A single evaluation of a quantitative model for the multiple imputations is another major enhancement.
+  Moreover there are offered a few functions built to work with popular R packages such as 'data.table' or 'dplyr'.
+date_publication: '2019-08-19'
+bug_reports: https://github.com/Polkas/miceFast/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=miceFast
+url_git: https://github.com/Polkas/miceFast

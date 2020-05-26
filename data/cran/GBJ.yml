@@ -1,0 +1,19 @@
+version: 0.5.3
+title: |-
+  Generalized Berk-Jones Test for Set-Based Inference in Genetic
+  Association Studies
+maintainer: Ryan Sun
+description: |-
+  Offers the Generalized Berk-Jones (GBJ) test for set-based inference in genetic
+  association studies. The GBJ is designed as an alternative to tests such as Berk-Jones (BJ),
+  Higher Criticism (HC), Generalized Higher Criticism (GHC), Minimum p-value (minP), and Sequence
+  Kernel Association Test (SKAT). All of these other methods (except for SKAT) are also implemented
+  in this package, and we additionally provide an omnibus test (OMNI) which integrates information from each of the tests.
+  The GBJ has been shown to outperform other tests in genetic association studies when signals
+  are correlated and moderately sparse. Please see the vignette for a quickstart guide or the paper at
+  <doi:10.1080/01621459.2019.1660170> for full details.
+date_publication: '2020-01-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GBJ
+url_git: ''

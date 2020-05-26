@@ -1,0 +1,11 @@
+version: 0.2.4
+title: Text Mining using 'dplyr', 'ggplot2', and Other Tidy Tools
+maintainer: Julia Silge
+description: |-
+  Text mining for word processing and sentiment analysis using
+  'dplyr', 'ggplot2', and other tidy tools.
+date_publication: '2020-04-17'
+bug_reports: http://github.com/juliasilge/tidytext/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tidytext
+url_git: http://github.com/juliasilge/tidytext

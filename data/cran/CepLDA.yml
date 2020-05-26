@@ -1,0 +1,15 @@
+version: 1.0.0
+title: |-
+  Discriminant Analysis of Time Series in the Presence of
+  Within-Group Spectral Variability
+maintainer: Zeda Li<zeda.li@temple.edu>
+description: |-
+  Performs cepstral based discriminant analysis of groups of time series
+  when there exists Variability in power spectra from time series within the same group
+  as described in R.T. Krafty (2016) "Discriminant Analysis of Time Series in the
+  Presence of Within-Group Spectral Variability" Journal of Time Series Analysis.
+date_publication: '2016-01-18'
+bug_reports: ''
+url: http://astro.temple.edu/~tuf28410/
+url_cran: https://CRAN.R-project.org/package=CepLDA
+url_git: ''

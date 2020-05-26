@@ -1,0 +1,13 @@
+version: 0.1.6
+title: Join Tables Together on Inexact Matching
+maintainer: David Robinson
+description: |-
+  Join tables together based not on whether columns
+  match exactly, but whether they are similar by some comparison.
+  Implementations include string distance and regular expression
+  matching.
+date_publication: '2020-05-15'
+bug_reports: https://github.com/dgrtwo/fuzzyjoin/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=fuzzyjoin
+url_git: https://github.com/dgrtwo/fuzzyjoin

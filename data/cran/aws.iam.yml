@@ -1,0 +1,11 @@
+version: 0.1.8
+title: AWS IAM Client Package
+maintainer: Simon Urbanek
+description: |-
+  A simple client for the Amazon Web Services ('AWS') Identity
+  and Access Management ('IAM') 'API' <https://aws.amazon.com/iam/>.
+date_publication: '2020-04-07'
+bug_reports: https://github.com/cloudyr/aws.iam/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=aws.iam
+url_git: https://github.com/cloudyr/aws.iam

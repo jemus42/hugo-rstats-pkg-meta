@@ -1,0 +1,13 @@
+version: '2.2'
+title: Toolkit to Identify Candidate Synthetic Lethality
+maintainer: Mark Wappett
+description: |-
+  Enables the user to infer potential synthetic lethal relationships
+  by analysing relationships between bimodally distributed gene pairs in big
+  gene expression datasets.  Enables the user to visualise these candidate
+  synthetic lethal relationships.
+date_publication: '2017-01-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BiSEp
+url_git: ''

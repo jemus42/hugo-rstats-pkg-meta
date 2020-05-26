@@ -1,0 +1,12 @@
+version: 1.1.0
+title: Spatial Floor Simulation (Isotropic)
+maintainer: Le Zheng
+description: Spatial floor simulation with exponential/Gaussian variance-covariance
+  function (isotropic), with specification of distance function, nugget, sill, range.
+  The methodology follows Nole A.C. Cressie (2015) <doi:10.1002/9781119115151>. The
+  original release is 2017-08-29.
+date_publication: '2018-04-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SpatialFloor
+url_git: ''

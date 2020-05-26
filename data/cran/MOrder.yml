@@ -1,0 +1,11 @@
+version: '0.1'
+title: Check Time Homogeneity and Markov Chain Order
+maintainer: Dr Robert Canales
+description: |-
+  MOrder provide functions to check time homogeneity and order
+  of markov chain by using chi-squared test, AIC value and BIC value.
+date_publication: '2014-12-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MOrder
+url_git: ''

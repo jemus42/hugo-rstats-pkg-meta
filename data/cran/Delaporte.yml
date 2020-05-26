@@ -1,0 +1,15 @@
+version: 7.0.2
+title: Statistical Functions for the Delaporte Distribution
+maintainer: Avraham Adler
+description: Provides probability mass, distribution, quantile, random-variate generation,
+  and method-of-moments parameter-estimation functions for the Delaporte distribution.
+  The Delaporte is a discrete probability distribution which can be considered the
+  convolution of a negative binomial distribution with a Poisson distribution. Alternatively,
+  it can be considered a counting distribution with both Poisson and negative binomial
+  components. It has been studied in actuarial science as a frequency distribution
+  which has more variability than the Poisson, but less than the negative binomial.
+date_publication: '2019-05-17'
+bug_reports: https://bitbucket.org/aadler/delaporte/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Delaporte
+url_git: https://bitbucket.org/aadler/delaporte

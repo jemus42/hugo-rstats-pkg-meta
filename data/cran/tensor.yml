@@ -1,0 +1,11 @@
+version: '1.5'
+title: Tensor product of arrays
+maintainer: Jonathan Rougier
+description: The tensor product of two arrays is notionally an outer<U+000a>product
+  of the arrays collapsed in specific extents by summing<U+000a>along the appropriate
+  diagonals.
+date_publication: '2012-05-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tensor
+url_git: ''

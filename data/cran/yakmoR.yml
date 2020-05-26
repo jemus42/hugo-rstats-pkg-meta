@@ -1,0 +1,11 @@
+version: 0.1.1
+title: A Simple Wrapper for the k-Means Library Yakmo
+maintainer: Aydin Demircioglu
+description: This is a simple wrapper for the yakmo K-Means library (developed by
+  Naoki Yoshinaga, see http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/yakmo/). It performs
+  fast and robust (orthogonal) K-Means.
+date_publication: '2015-08-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=yakmoR
+url_git: ''

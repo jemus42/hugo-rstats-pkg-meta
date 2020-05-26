@@ -1,0 +1,10 @@
+version: 0.5.0
+title: Forest Fire History Analysis
+maintainer: Steven Malevich
+description: Tools to read, write, parse, and analyze forest fire history data (e.g.
+  FHX). Described in Malevich et al. (2018) <doi:10.1016/j.dendro.2018.02.005>.
+date_publication: '2019-08-21'
+bug_reports: https://github.com/ltrr-arizona-edu/burnr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=burnr
+url_git: https://github.com/ltrr-arizona-edu/burnr/

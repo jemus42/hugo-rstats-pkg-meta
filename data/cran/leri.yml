@@ -1,0 +1,15 @@
+version: 0.0.1
+title: Access Landscape Evaporative Response Index Raster Data
+maintainer: Max Joseph
+description: |-
+  Finds and downloads Landscape Evaporative Response
+  Index (LERI) data, then reads the data into 'R' using the 'raster'
+  package. The LERI product measures anomalies in actual
+  evapotranspiration, to support drought monitoring and early warning
+  systems. More info on LERI is available at
+  <https://www.esrl.noaa.gov/psd/leri/>.
+date_publication: '2019-09-09'
+bug_reports: https://github.com/earthlab/leri/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=leri
+url_git: https://github.com/earthlab/leri

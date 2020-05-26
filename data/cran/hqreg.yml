@@ -1,0 +1,12 @@
+version: '1.4'
+title: |-
+  Regularization Paths for Lasso or Elastic-Net Penalized Huber
+  Loss Regression and Quantile Regression
+maintainer: Congrui Yi
+description: Efficient algorithms for fitting regularization paths for lasso or elastic-net
+  penalized regression models with Huber loss, quantile loss or squared loss.
+date_publication: '2017-02-16'
+bug_reports: ''
+url: http://arxiv.org/abs/1509.02957
+url_cran: https://CRAN.R-project.org/package=hqreg
+url_git: ''

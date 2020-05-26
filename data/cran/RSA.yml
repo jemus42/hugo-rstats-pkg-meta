@@ -1,0 +1,18 @@
+version: 0.10.0
+title: Response Surface Analysis
+maintainer: Felix Schönbrodt
+description: |-
+  Advanced response surface analysis. The main function RSA computes
+  and compares several nested polynomial regression models (full second- or
+  third-order polynomial, shifted and rotated squared difference model,
+  rising ridge surfaces, basic squared difference model, asymmetric or
+  level-dependent congruence effect models). The package provides plotting
+  functions for 3d wireframe surfaces, interactive 3d plots, and contour plots.
+  Calculates many surface parameters (a1 to a5, principal axes, stationary point,
+  eigenvalues) and provides standard, robust, or bootstrapped standard errors
+  and confidence intervals for them.
+date_publication: '2020-04-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RSA
+url_git: ''

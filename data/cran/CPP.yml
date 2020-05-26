@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Composition of Probabilistic Preferences (CPP)
+maintainer: Luiz O. Gavião
+description: CPP is a multiple criteria decision method to evaluate alternatives on
+  complex decision making problems, by a probabilistic approach. The CPP was created
+  and expanded by Sant'Anna, Annibal P. (2015) <doi:10.1007/978-3-319-11277-0>.
+date_publication: '2018-05-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CPP
+url_git: ''

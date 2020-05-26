@@ -1,0 +1,10 @@
+version: '1.14'
+title: Regularization for semiparametric additive hazards regression
+maintainer: Anders Gorst-Rasmussen
+description: Computationally efficient procedures for regularized<U+000a>estimation
+  with the semiparametric additive hazards regression<U+000a>model.
+date_publication: '2013-06-03'
+bug_reports: ''
+url: http://www.gorst.dk/software.htm
+url_cran: https://CRAN.R-project.org/package=ahaz
+url_git: ''

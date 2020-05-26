@@ -1,0 +1,11 @@
+version: 2.2.0
+title: Bivariate Angular Mixture Models
+maintainer: Saptarshi Chakraborty
+description: Fit (using Bayesian methods) and simulate mixtures of univariate and
+  bivariate angular distributions. Chakraborty and Wong (2017) <arXiv:1708.07804>
+  .
+date_publication: '2019-12-18'
+bug_reports: https://github.com/c7rishi/BAMBI/issues
+url: https://arxiv.org/abs/1708.07804
+url_cran: https://CRAN.R-project.org/package=BAMBI
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Solve Rational Matrix Equation
+maintainer: Aditi Tiwari
+description: |-
+  Given a symmetric positive definite matrix Q and a non-singular matrix L, find symmetric positive definite solution X such that X = Q + L (X inv) L^T.
+  Reference: Benner, P., Faßbender, H. On the Solution of the Rational Matrix Equation.
+  Benner, Faßbender (2007) <doi:10.1155/2007/21850>.
+date_publication: '2018-11-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SolveRationalMatrixEquation
+url_git: ''

@@ -1,0 +1,18 @@
+version: 0.9.2
+title: |-
+  Bayesian Survival Model with Lasso Shrinkage Using Generalized
+  Weibull Regression
+maintainer: Alireza S. Mahani
+description: Bayesian survival model using Weibull regression on both scale and shape
+  parameters. Dependence of shape parameter on covariates permits deviation from proportional-hazard
+  assumption, leading to dynamic - i.e. non-constant with time - hazard ratios between
+  subjects. Bayesian Lasso shrinkage in the form of two Laplace priors - one for scale
+  and one for shape coefficients - allows for many covariates to be included. Cross-validation
+  helper functions can be used to tune the shrinkage parameters. Monte Carlo Markov
+  Chain (MCMC) sampling using a Gibbs wrapper around Radford Neal's univariate slice
+  sampler (R package MfUSampler) is used for coefficient estimation.
+date_publication: '2016-09-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BSGW
+url_git: ''

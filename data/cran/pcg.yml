@@ -1,0 +1,12 @@
+version: '1.1'
+title: Preconditioned Conjugate Gradient Algorithm for solving Ax=b
+maintainer: B N Mandal
+description: The package solves linear system of equations Ax=b by using Preconditioned
+  Conjugate Gradient Algorithm where A is real symmetric positive definite matrix.
+  A suitable preconditioner matrix may be provided by user. This can also be used
+  to minimize quadratic function (x'Ax)/2-bx for unknown x.
+date_publication: '2014-04-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pcg
+url_git: ''

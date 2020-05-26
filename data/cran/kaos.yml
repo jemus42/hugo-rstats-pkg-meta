@@ -1,0 +1,13 @@
+version: 0.1.2
+title: |-
+  Encoding of Sequences Based on Frequency Matrix Chaos Game
+  Representation
+maintainer: Hannah Franziska Löchel
+description: |-
+  Sequences encoding by using the chaos game representation.
+  Löchel et al. (2019) <doi:10.1093/bioinformatics/btz493>.
+date_publication: '2019-09-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=kaos
+url_git: ''

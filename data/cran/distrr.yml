@@ -1,0 +1,14 @@
+version: 0.0.5
+title: Estimate and Manage Empirical Distributions
+maintainer: Sandro Petrillo Burri
+description: |-
+  Tools to estimate and manage empirical distributions,
+  which should work with survey data. One of the main features is the
+  possibility to create data cubes of estimated statistics, that include
+  all the combinations of the variables of interest (see for example functions
+  dcc5() and dcc6()).
+date_publication: '2019-01-03'
+bug_reports: ''
+url: https://gibonet.github.io/distrr
+url_cran: https://CRAN.R-project.org/package=distrr
+url_git: https://github.com/gibonet/distrr

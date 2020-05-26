@@ -1,0 +1,11 @@
+version: 1.4.4
+title: Functions for Plotting Graphical Shapes, Colors
+maintainer: Karline Soetaert
+description: |-
+  Functions for plotting graphical shapes
+  such as ellipses, circles, cylinders, arrows, ...
+date_publication: '2018-02-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=shape
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.7-1
+title: Group Iterative Multiple Model Estimation
+maintainer: KM Gates
+description: |-
+  Automated identification and estimation of group- and
+  individual-level relations in time series data from within a structural
+  equation modeling framework.
+date_publication: '2020-02-15'
+bug_reports: https://github.com/GatesLab/gimme/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gimme
+url_git: https://github.com/GatesLab/gimme/

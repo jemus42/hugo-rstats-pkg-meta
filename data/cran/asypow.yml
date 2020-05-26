@@ -1,0 +1,12 @@
+version: 2015.6.25
+title: Calculate Power Utilizing Asymptotic Likelihood Ratio Methods
+maintainer: Kjetil B Halvorsen
+description: |-
+  A set of routines written in the S language
+  that calculate power and related quantities utilizing asymptotic
+  likelihood ratio methods.
+date_publication: '2015-06-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=asypow
+url_git: ''

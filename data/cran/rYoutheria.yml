@@ -1,0 +1,13 @@
+version: 1.0.3
+title: Access to the YouTheria Mammal Trait Database
+maintainer: Tom August
+description: |-
+  A programmatic interface to web-services of YouTheria. YouTheria is
+  an online database of mammalian trait data <http://www.utheria.org/>.
+date_publication: '2016-04-12'
+bug_reports: |2-
+
+  https://github.com/biologicalrecordscentre/rYoutheria/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rYoutheria
+url_git: https://github.com/BiologicalRecordsCentre/rYoutheria

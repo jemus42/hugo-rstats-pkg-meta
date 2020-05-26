@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Creates Synonyms From Target Words
+maintainer: Nicholas Tierney
+description: |-
+  Generates synonyms from a given word drawing from a synonym list
+  from the 'moby' project <http://moby-thesaurus.org/>.
+date_publication: '2019-12-20'
+bug_reports: https://github.com/ropenscilabs/syn/issues
+url: http://syn.njtierney.com/
+url_cran: https://CRAN.R-project.org/package=syn
+url_git: https://github.com/ropenscilabs/syn

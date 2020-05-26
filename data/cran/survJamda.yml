@@ -1,0 +1,12 @@
+version: 1.1.4
+title: |-
+  Survival Prediction by Joint Analysis of Microarray Gene
+  Expression Data
+maintainer: Haleh Yasrebi<hyasrebi@yahoo.com>
+description: Microarray gene expression data can be analyzed individually or jointly
+  using merging methods or meta-analysis to predict patients' survival and risk assessment.
+date_publication: '2015-11-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=survJamda
+url_git: ''

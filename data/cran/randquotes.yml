@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Get Random Quotes from Quotes on Design API
+maintainer: AbdulMajedRaja RS
+description: |-
+  Connects to the site <http://quotesondesign.com/>
+  that uses the 'WordPress' built-in REST API
+  to provide a way for you to grab quotes.
+date_publication: '2019-10-25'
+bug_reports: https://github.com/amrrs/randquotes/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=randquotes
+url_git: https://github.com/amrrs/randquotes

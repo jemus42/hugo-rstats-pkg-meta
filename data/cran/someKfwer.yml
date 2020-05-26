@@ -1,0 +1,11 @@
+version: '1.2'
+title: Controlling the Generalized Familywise Error Rate
+maintainer: L. Finos
+description: |-
+  This package collects some procedures controlling the
+  Generalized Familywise Error Rate.
+date_publication: '2014-11-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=someKfwer
+url_git: ''

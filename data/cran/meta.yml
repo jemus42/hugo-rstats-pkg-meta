@@ -1,0 +1,19 @@
+version: 4.12-0
+title: General Package for Meta-Analysis
+maintainer: Guido Schwarzer
+description: |-
+  User-friendly general package providing standard methods for meta-analysis and supporting Schwarzer, Carpenter, and Rücker <DOI:10.1007/978-3-319-21416-0>, "Meta-Analysis with R" (2015):
+  - fixed effect and random effects meta-analysis;
+  - several plots (forest, funnel, Galbraith / radial, L'Abbe, Baujat, bubble);
+  - statistical tests and trim-and-fill method to evaluate bias in meta-analysis;
+  - import data from 'RevMan 5';
+  - prediction interval, Hartung-Knapp method for random effects model;
+  - cumulative meta-analysis and leave-one-out meta-analysis;
+  - meta-regression;
+  - generalised linear mixed models;
+  - produce forest plot summarising several (subgroup) meta-analyses.
+date_publication: '2020-05-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=meta
+url_git: https://github.com/guido-s/metahttp://meta-analysis-with-r.org

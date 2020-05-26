@@ -1,0 +1,10 @@
+version: 0.4.1
+title: Functions and data for "Data Mining with R"
+maintainer: Luis Torgo
+description: This package includes functions and data accompanying the book<U+000a>"Data
+  Mining with R, learning with case studies" by Luis Torgo, CRC Press 2010.
+date_publication: '2013-08-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DMwR
+url_git: ''

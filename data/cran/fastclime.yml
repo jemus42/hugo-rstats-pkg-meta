@@ -1,0 +1,17 @@
+version: 1.4.1
+title: |-
+  A Fast Solver for Parameterized LP Problems, Constrained L1
+  Minimization Approach to Sparse Precision Matrix Estimation and
+  Dantzig Selector
+maintainer: Haotian Pang
+description: |-
+  Provides a method of recovering the precision matrix efficiently
+  and solving for the dantzig selector by applying the parametric
+  simplex method.  The computation is based on a linear optimization
+  solver. It also contains a generic LP solver and a parameterized LP
+  solver using parametric simplex method.
+date_publication: '2016-04-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fastclime
+url_git: ''

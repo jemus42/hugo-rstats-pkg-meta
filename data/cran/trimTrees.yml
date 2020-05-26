@@ -1,0 +1,10 @@
+version: '1.2'
+title: Trimmed opinion pools of trees in a random forest
+maintainer: Yael Grushka-Cockayne
+description: Creates point and probability forecasts from the trees in a random forest
+  using a trimmed opinion pool.
+date_publication: '2014-08-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=trimTrees
+url_git: ''

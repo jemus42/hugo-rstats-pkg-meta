@@ -1,0 +1,12 @@
+version: 3.5.7
+title: Plot a Model's Residuals, Response, and Partial Dependence Plots
+maintainer: Stephen Milborrow
+description: |-
+  Plot model surfaces for a wide variety of models
+  using partial dependence plots and other techniques.
+  Also plot model residuals and other information on the model.
+date_publication: '2020-04-15'
+bug_reports: ''
+url: http://www.milbo.users.sonic.net
+url_cran: https://CRAN.R-project.org/package=plotmo
+url_git: ''

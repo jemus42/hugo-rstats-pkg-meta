@@ -1,0 +1,10 @@
+version: '1.3'
+title: Inductive Confidence Intervals for the difference between two<U+000a>proportions
+maintainer: Guogen Shan
+description: This is a package for exact Confidence Intervals for the<U+000a>difference
+  between two independent or dependent proportions.
+date_publication: '2013-07-04'
+bug_reports: ''
+url: <U+000a>http://www.wright.edu/~weizhen.wang/wanghome.htm
+url_cran: https://CRAN.R-project.org/package=ExactCIdiff
+url_git: ''

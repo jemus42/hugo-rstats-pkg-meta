@@ -1,0 +1,13 @@
+version: '1.0'
+title: Joint Change Point Detection
+maintainer: Michael Messer
+description: Procedures for joint detection of changes in both expectation and variance
+  in univariate sequences. Performs a statistical test of the null hypothesis of the
+  absence of change points. In case of rejection performs an algorithm for change
+  point detection. References - Bivariate change point detection (2019+), Michael
+  Messer.
+date_publication: '2019-03-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=jcp
+url_git: ''

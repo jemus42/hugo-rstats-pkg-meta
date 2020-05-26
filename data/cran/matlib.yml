@@ -1,0 +1,18 @@
+version: 0.9.3
+title: |-
+  Matrix Functions for Teaching and Learning Linear Algebra and
+  Multivariate Statistics
+maintainer: Michael Friendly
+description: |-
+  A collection of matrix functions for teaching and learning matrix
+  linear algebra as used in multivariate statistical methods. These functions are
+  mainly for tutorial purposes in learning matrix algebra ideas using R. In some
+  cases, functions are provided for concepts available elsewhere in R, but where
+  the function call or name is not obvious. In other cases, functions are provided
+  to show or demonstrate an algorithm. In addition, a collection of functions are
+  provided for drawing vector diagrams in 2D and 3D.
+date_publication: '2020-04-02'
+bug_reports: https://github.com/friendly/matlib/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=matlib
+url_git: https://github.com/friendly/matlib

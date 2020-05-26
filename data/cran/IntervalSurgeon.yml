@@ -1,0 +1,10 @@
+version: '1.0'
+title: Operating on Integer-Bounded Intervals
+maintainer: Daniel Greene
+description: Functions for manipulating integer-bounded intervals including finding
+  overlaps, piling and merging.
+date_publication: '2018-06-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IntervalSurgeon
+url_git: ''

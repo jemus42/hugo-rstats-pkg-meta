@@ -1,0 +1,11 @@
+version: 0.8-8
+title: apsrtable model-output formatter for social science
+maintainer: Michael Malecki
+description: Formats latex tables from one or more model objects<U+000a>side-by-side
+  with standard errors below, not unlike tables<U+000a>found in such journals as the
+  American Political Science<U+000a>Review.
+date_publication: '2012-04-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=apsrtable
+url_git: ''

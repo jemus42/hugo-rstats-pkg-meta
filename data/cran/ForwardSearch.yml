@@ -1,0 +1,10 @@
+version: '1.0'
+title: Forward Search using asymptotic theory
+maintainer: Bent Nielsen
+description: Forward Search analysis of time series regressions. Implements the asymptotic
+  theory developed in Johansen and Nielsen (2013, 2014).
+date_publication: '2014-09-10'
+bug_reports: ''
+url: http://users.ox.ac.uk/~nuff0078/
+url_cran: https://CRAN.R-project.org/package=ForwardSearch
+url_git: ''

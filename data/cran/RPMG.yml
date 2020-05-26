@@ -1,0 +1,12 @@
+version: 2.2-3
+title: |-
+  Graphical User Interface (GUI) for Interactive R Analysis
+  Sessions
+maintainer: Jonathan M. Lees
+description: Really Poor Man's Graphical User Interface, used to create interactive
+  R analysis sessions with simple R commands.
+date_publication: '2019-09-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RPMG
+url_git: ''

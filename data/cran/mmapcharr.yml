@@ -1,0 +1,12 @@
+version: 0.3.0
+title: Memory-Map Character Files
+maintainer: Florian Privé
+description: |-
+  Uses memory-mapping to enable the random access of elements of
+  a text file of characters separated by characters as if it were a simple
+  R(cpp) matrix.
+date_publication: '2019-02-26'
+bug_reports: https://github.com/privefl/mmapcharr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mmapcharr
+url_git: https://github.com/privefl/mmapcharr

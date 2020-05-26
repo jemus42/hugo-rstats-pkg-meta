@@ -1,0 +1,10 @@
+version: '1.4'
+title: Spatial Individual-Plant Modelling
+maintainer: Oscar Garcia
+description: A platform for experimenting with spatially explicit individual-based
+  vegetation models.
+date_publication: '2019-04-01'
+bug_reports: ''
+url: http://forestgrowth.unbc.ca/siplab
+url_cran: https://CRAN.R-project.org/package=siplab
+url_git: ''

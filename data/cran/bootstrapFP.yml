@@ -1,0 +1,12 @@
+version: 0.4.3
+title: Bootstrap Algorithms for Finite Population Inference
+maintainer: Roberto Sichera
+description: |-
+  Finite Population bootstrap algorithms to estimate the variance
+  of the Horvitz-Thompson estimator for single-stage sampling.
+  For a survey of bootstrap methods for finite populations, see Mashreghi et Al. (2016) <doi:10.1214/16-SS113>.
+date_publication: '2019-02-24'
+bug_reports: https://github.com/rhobis/bootstrapFP/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bootstrapFP
+url_git: ''

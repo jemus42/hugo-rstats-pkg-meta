@@ -1,0 +1,14 @@
+version: 1.5.2
+title: |-
+  Consensus Analysis, Model-Based Clustering, and Cultural
+  Consensus Theory Applications
+maintainer: Royce Anders
+description: Consensus analysis, model-based clustering, and cultural consensus theory
+  applications to response data (e.g. questionnaires). The models are applied using
+  hierarchical Bayesian inference. The current package version supports binary, ordinal,
+  and continuous data formats.
+date_publication: '2017-10-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CCTpack
+url_git: ''

@@ -1,0 +1,17 @@
+version: '1.2'
+title: Categorical Landscape Simulation Facility
+maintainer: Dario Masante
+description: Simulates categorical maps on actual geographical realms, starting from
+  either empty landscapes or landscapes provided by the user (e.g. land use maps).
+  Allows to tweak or create landscapes while retaining a high degree of control on
+  its features, without the hassle of specifying each location attribute. In this
+  it differs from other tools which generate null or neutral landscapes in a theoretical
+  space. The basic algorithm currently implemented uses a simple agent style/cellular
+  automata growth model, with no rules (apart from areas of exclusion) and von Neumann
+  neighbourhood (four cells, aka Rook case). Outputs are raster dataset exportable
+  to any common GIS format.
+date_publication: '2017-07-05'
+bug_reports: https://github.com/dariomasante/landscapeR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=landscapeR
+url_git: https://github.com/dariomasante/landscapeR

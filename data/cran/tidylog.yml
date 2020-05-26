@@ -1,0 +1,9 @@
+version: 1.0.1
+title: Logging for 'dplyr' and 'tidyr' Functions
+maintainer: Benjamin Elbers
+description: Provides feedback about 'dplyr' and 'tidyr' operations.
+date_publication: '2020-04-17'
+bug_reports: https://github.com/elbersb/tidylog/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tidylog
+url_git: https://github.com/elbersb/tidylog/

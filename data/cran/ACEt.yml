@@ -1,0 +1,11 @@
+version: 1.8.0
+title: Estimating Dynamic Heritability and Twin Model Comparison
+maintainer: Liang He
+description: Twin models that are able to estimate the dynamic behaviour of the variance
+  components in the classical twin models with respect to age using B-splines and
+  P-splines.
+date_publication: '2017-05-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ACEt
+url_git: ''

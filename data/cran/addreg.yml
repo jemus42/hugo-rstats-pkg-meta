@@ -1,0 +1,11 @@
+version: '3.0'
+title: Additive Regression for Discrete Data
+maintainer: Mark W. Donoghoe
+description: |-
+  Methods for fitting identity-link GLMs and GAMs to discrete data,
+  using EM-type algorithms with more stable convergence properties than standard methods.
+date_publication: '2017-12-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=addreg
+url_git: https://github.com/mdonoghoe/addreg

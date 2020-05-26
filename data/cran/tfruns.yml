@@ -1,0 +1,13 @@
+version: '1.4'
+title: Training Run Tools for 'TensorFlow'
+maintainer: JJ Allaire
+description: |-
+  Create and manage unique directories for each 'TensorFlow'
+  training run. Provides a unique, time stamped directory for each run
+  along with functions to retrieve the directory of the latest run or
+  latest several runs.
+date_publication: '2018-08-25'
+bug_reports: https://github.com/rstudio/tfruns/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tfruns
+url_git: https://github.com/rstudio/tfruns

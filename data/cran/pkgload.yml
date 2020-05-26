@@ -1,0 +1,12 @@
+version: 1.0.2
+title: Simulate Package Installation and Attach
+maintainer: Jim Hester
+description: |-
+  Simulates the process of installing a package
+  and then attaching it. This is a key part of the 'devtools' package as it
+  allows you to rapidly iterate while developing a package.
+date_publication: '2018-10-29'
+bug_reports: https://github.com/r-lib/pkgload/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pkgload
+url_git: https://github.com/r-lib/pkgload

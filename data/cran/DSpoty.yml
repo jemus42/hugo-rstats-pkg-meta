@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Get 'Spotify' API Multiple Information
+maintainer: Alberto Almuiña
+description: |-
+  You can retrieve 'Spotify' API Information such as artists, albums, tracks, features tracks, recommendations or related artists.
+  This package allows you to search all the information by name and also includes a distance based algorithm to find similar songs.
+  More information: <https://developer.spotify.com/documentation/web-api/> .
+date_publication: '2020-01-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DSpoty
+url_git: https://github.com/AlbertoAlmuinha/DSpoty

@@ -1,0 +1,12 @@
+version: 1.0.3
+title: Vanilla HTML Components for 'Dash'
+maintainer: Ryan Patrick Kyle
+description: '''Dash'' is a web application framework that provides pure Python and
+  R abstraction around HTML, CSS, and JavaScript. Instead of writing HTML or using
+  an HTML templating engine, you compose your layout using R functions within the
+  ''dashHtmlComponents'' package. The source for this package is on GitHub: plotly/dash-html-components.'
+date_publication: '2020-05-06'
+bug_reports: https://github.com/plotly/dash-html-components/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dashHtmlComponents
+url_git: https://github.com/plotly/dash-html-components

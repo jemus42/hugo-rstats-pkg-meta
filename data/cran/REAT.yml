@@ -1,0 +1,12 @@
+version: 3.0.2
+title: Regional Economic Analysis Toolbox
+maintainer: Thomas Wieland
+description: Collection of models and analysis methods used in regional and urban
+  economics and (quantitative) economic geography, e.g. measures of inequality, regional
+  disparities and convergence, regional specialization as well as accessibility and
+  spatial interaction models.
+date_publication: '2019-11-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=REAT
+url_git: ''

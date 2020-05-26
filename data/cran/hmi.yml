@@ -1,0 +1,13 @@
+version: 0.9.18
+title: Hierarchical Multiple Imputation
+maintainer: Matthias Speidel
+description: Runs single level and multilevel imputation models. The user just has
+  to pass the data to the main function and, optionally, his analysis model. Basically
+  the package then translates this analysis model into commands to impute the data
+  according to it with functions from 'mice', 'MCMCglmm' or routines build for this
+  package.
+date_publication: '2020-05-03'
+bug_reports: http://github.com/matthiasspeidel/hmi/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=hmi
+url_git: http://github.com/matthiasspeidel/hmi

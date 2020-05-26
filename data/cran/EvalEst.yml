@@ -1,0 +1,14 @@
+version: 2015.4-2
+title: Dynamic Systems Estimation - Extensions
+maintainer: Paul Gilbert
+description: |-
+  Provides functions for evaluating (time series) model
+  estimation methods. These facilitate Monte Carlo experiments of repeated
+  simulations and estimations. Also provides methods for
+  looking at the distribution of the results from these experiments,
+  including model roots (which are an equivalence class invariant).
+date_publication: '2015-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EvalEst
+url_git: http://tsanalysis.r-forge.r-project.org/

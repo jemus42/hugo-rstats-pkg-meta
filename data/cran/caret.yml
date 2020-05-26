@@ -1,0 +1,11 @@
+version: 6.0-86
+title: Classification and Regression Training
+maintainer: Max Kuhn
+description: |-
+  Misc functions for training and plotting classification and
+  regression models.
+date_publication: '2020-03-20'
+bug_reports: https://github.com/topepo/caret/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=caret
+url_git: https://github.com/topepo/caret/

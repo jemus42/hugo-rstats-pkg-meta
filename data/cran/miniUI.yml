@@ -1,0 +1,11 @@
+version: 0.1.1.1
+title: Shiny UI Widgets for Small Screens
+maintainer: Joe Cheng
+description: |-
+  Provides UI widget and layout functions for writing Shiny apps
+  that work well on small screens.
+date_publication: '2018-05-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=miniUI
+url_git: ''

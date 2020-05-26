@@ -1,0 +1,10 @@
+version: 1.0-3
+title: FDR-Control in Multiscale Change-Point Segmentation
+maintainer: Timo Aspelmeier
+description: Estimate step functions via multiscale inference with controlled false
+  discovery rate (FDR). For details see H. Li, A. Munk and H. Sieling (2016) <doi:10.1214/16-EJS1131>.
+date_publication: '2017-09-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FDRSeg
+url_git: ''

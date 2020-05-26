@@ -1,0 +1,16 @@
+version: 0.2.1
+title: Adaptive Builder for Formatted Strings
+maintainer: Kun Ren
+description: |-
+  Provides a set of functions to facilitate building formatted strings
+  under various replacement rules: C-style formatting, variable-based formatting,
+  and number-based formatting. C-style formatting is basically identical to built-in
+  function 'sprintf'. Variable-based formatting allows users to put variable names
+  in a formatted string which will be replaced by variable values. Number-based
+  formatting allows users to use index numbers to represent the corresponding
+  argument value to appear in the string.
+date_publication: '2015-09-09'
+bug_reports: https://github.com/renkun-ken/rprintf/issues
+url: http://renkun.me/rprintf
+url_cran: https://CRAN.R-project.org/package=rprintf
+url_git: https://github.com/renkun-ken/rprintf

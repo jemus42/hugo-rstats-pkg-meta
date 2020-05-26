@@ -1,0 +1,9 @@
+version: 0.2.1
+title: Helper Methods for 'simmer' Trajectories
+maintainer: Iñaki Ucar
+description: Provides wrappers for common activity patterns in 'simmer' trajectories.
+date_publication: '2019-01-09'
+bug_reports: https://github.com/r-simmer/simmer.bricks/issues
+url: http://r-simmer.org
+url_cran: https://CRAN.R-project.org/package=simmer.bricks
+url_git: https://github.com/r-simmer/simmer.bricks

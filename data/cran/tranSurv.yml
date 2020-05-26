@@ -1,0 +1,16 @@
+version: 1.2.0
+title: |-
+  Estimating a Survival Distribution in the Presence of Dependent
+  Left Truncation and Right Censoring
+maintainer: Sy Han (Steven) Chiou
+description: A structural transformation model for a latent, quasi-independent truncation
+  time as a function of the observed dependent truncation time and the event time,
+  and an unknown dependence parameter. The dependence parameter is chosen to minimize
+  the conditional Kendall's tau (Martin and Betensky, 2005) <doi:10.1198/016214504000001538>.
+  The marginal distribution for the truncation time and the event time are completely
+  left unspecified.
+date_publication: '2019-05-24'
+bug_reports: http://github.com/stc04003/tranSurv/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tranSurv
+url_git: http://github.com/stc04003/tranSurv

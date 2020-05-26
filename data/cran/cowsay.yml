@@ -1,0 +1,12 @@
+version: 0.8.0
+title: Messages, Warnings, Strings with Ascii Animals
+maintainer: Scott Chamberlain
+description: |-
+  Allows printing of character strings as messages/warnings/etc.
+  with ASCII animals, including cats, cows, frogs, chickens, ghosts,
+  and more.
+date_publication: '2020-02-06'
+bug_reports: https://github.com/sckott/cowsay/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=cowsay
+url_git: https://github.com/sckott/cowsay

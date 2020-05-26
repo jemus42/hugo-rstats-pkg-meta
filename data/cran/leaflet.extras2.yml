@@ -1,0 +1,10 @@
+version: 1.0.0
+title: Extra Functionality for 'leaflet' Package
+maintainer: Gatscha Sebastian
+description: Several 'leaflet' plugins are integrated, which are available as extension
+  to the 'leaflet' package.
+date_publication: '2020-05-18'
+bug_reports: https://github.com/trafficonese/leaflet.extras2/issues
+url: https://trafficonese.github.io/leaflet.extras2
+url_cran: https://CRAN.R-project.org/package=leaflet.extras2
+url_git: https://github.com/trafficonese/leaflet.extras2

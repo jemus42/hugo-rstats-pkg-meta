@@ -1,0 +1,10 @@
+version: '1.9'
+title: Intermittent Time Series Forecasting
+maintainer: Nikolaos Kourentzes
+description: Functions for analysing and forecasting intermittent demand/slow moving
+  items time series.
+date_publication: '2016-03-10'
+bug_reports: ''
+url: http://kourentzes.com/forecasting/2014/06/23/intermittent-demand-forecasting-package-for-r/
+url_cran: https://CRAN.R-project.org/package=tsintermittent
+url_git: ''

@@ -1,0 +1,15 @@
+version: 1.0.0
+title: Multiple Change-Point Detection and Segmentation
+maintainer: Piotr Fryzlewicz
+description: |-
+  The breakfast package performs multiple change-point detection in data
+  sequences, or sequence segmentation, using computationally efficient multiscale
+  methods. This version of the package implements the "Tail-Greedy Unbalanced Haar",
+  "Wild Binary Segmentation" and "Adaptive Wild Binary Segmentation" change-point
+  detection and segmentation methodologies. To start with, see the function
+  segment.mean.
+date_publication: '2017-09-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=breakfast
+url_git: ''

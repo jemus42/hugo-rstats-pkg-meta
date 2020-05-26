@@ -1,0 +1,10 @@
+version: '0.4'
+title: DDI with R
+maintainer: Adrian Dusa
+description: Useful functions for various DDI (Data Documentation Initiative) related
+  inputs and outputs.
+date_publication: '2019-09-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DDIwR
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.0.5
+title: |-
+  Implementation of the DetMCD Algorithm (Robust and Deterministic
+  Estimation of Location and Scatter)
+maintainer: Vakili Kaveh
+description: Implementation of DetMCD, a new algorithm for robust and deterministic
+  estimation of location and scatter. The benefits of robust and deterministic estimation
+  are explained in Hubert, Rousseeuw and Verdonck (2012) <doi:10.1080/10618600.2012.672100>.
+date_publication: '2018-05-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DetMCD
+url_git: ''

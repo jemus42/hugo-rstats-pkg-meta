@@ -1,0 +1,17 @@
+version: '1.5'
+title: |-
+  Elementary Epidemiological Functions for Epidemiology and
+  Biostatistics
+maintainer: Michael A Rotondi
+description: "Contains elementary tools for analysis of\ncommon epidemiological problems,
+  ranging from sample size\nestimation, through 2x2 contingency table analysis and
+  basic\nmeasures of agreement (kappa, sensitivity/specificity).\nAppropriate print
+  and summary statements are also written to\nfacilitate interpretation wherever possible.
+  \ Source code is \tcommented throughout to facilitate modification.  The target
+  audience includes advanced undergraduate and graduate students\nin epidemiology
+  or biostatistics courses, and clinical researchers."
+date_publication: '2018-11-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=epibasix
+url_git: ''

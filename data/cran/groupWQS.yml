@@ -1,0 +1,10 @@
+version: 0.0.1
+title: Group Weighted Quantile Sum Regression
+maintainer: Matthew Carli
+description: Fits weighted quantile sum (WQS) regressions for one or more chemical
+  groups with continuous or binary outcomes. Wheeler D, Czarnota J.(2016) <doi:10.1289/isee.2016.4698>.
+date_publication: '2020-04-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=groupWQS
+url_git: ''

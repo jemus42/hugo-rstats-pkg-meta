@@ -1,0 +1,12 @@
+version: '1.1'
+title: R-to-Java Interface for 'CMA-ES'
+maintainer: Wolfgang Konen
+description: |-
+  Tool for providing access to the Java version 'CMAEvolutionStrategy' of
+  Nikolaus Hansen. 'CMA-ES' is the Covariance Matrix Adaptation Evolution Strategy,
+  see https://www.lri.fr/~hansen/cmaes_inmatlab.html#java.
+date_publication: '2015-04-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rCMA
+url_git: ''

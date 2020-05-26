@@ -1,0 +1,16 @@
+version: 1.0.1
+title: Generalized Laplace Mixed-Effects Models
+maintainer: Marco Geraci
+description: |-
+  Provides functions to fit linear mixed models
+  based on convolutions of the generalized Laplace (GL) distribution.
+  The GL mixed-effects model includes four special cases with normal random
+  effects and normal errors (NN), normal random effects and Laplace errors (NL),
+  Laplace random effects and normal errors (LN), and Laplace random effects
+  and Laplace errors (LL). The methods are described in Geraci and Farcomeni (2020,
+  Statistical Methods in Medical Research) <doi:10.1177/0962280220903763>.
+date_publication: '2020-03-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nlmm
+url_git: ''

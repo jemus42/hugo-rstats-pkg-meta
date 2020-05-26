@@ -1,0 +1,13 @@
+version: 1.2.3
+title: methods for analyzing introgression between divergent lineages
+maintainer: C. Alex Buerkle
+description: introgress provides functions for analyzing introgression<U+000a>of genotypes
+  between divergent, hybridizing lineages, including<U+000a>estimating genomic clines
+  from multi-locus genotype data and<U+000a>testing for deviations from neutral expectations.
+  Functions are<U+000a>also provided for maximum likelihood estimation of molecular<U+000a>hybrid
+  index and graphical analysis.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: http://www.uwyo.edu/buerkle/software/introgress/
+url_cran: https://CRAN.R-project.org/package=introgress
+url_git: ''

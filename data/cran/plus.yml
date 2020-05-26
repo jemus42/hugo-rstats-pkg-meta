@@ -1,0 +1,11 @@
+version: '1.0'
+title: Penalized Linear Unbiased Selection
+maintainer: Cun-Hui Zhang
+description: |-
+  Efficient procedures for fitting an entire regression
+  sequences with different model types.
+date_publication: '2012-05-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=plus
+url_git: ''

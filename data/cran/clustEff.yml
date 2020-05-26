@@ -1,0 +1,11 @@
+version: 0.1.2
+title: Clusters of Effects Curves in Quantile Regression Models
+maintainer: Gianluca Sottile
+description: Clustering method to cluster both effects curves, through quantile regression
+  coefficient modeling, and curves in functional data analysis. Sottile G. and Adelfio
+  G. (2017) <https://iwsm2017.webhosting.rug.nl/IWSM_2017_V2.pdf>.
+date_publication: '2017-12-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=clustEff
+url_git: ''

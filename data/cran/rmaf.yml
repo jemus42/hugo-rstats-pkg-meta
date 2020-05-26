@@ -1,0 +1,11 @@
+version: 3.0.1
+title: Refined Moving Average Filter
+maintainer: Debin Qiu
+description: Uses refined moving average filter based on the optimal and data-driven
+  moving average lag q or smoothing spline to estimate trend and seasonal components,
+  as well as irregularity (residuals) for univariate time series or data.
+date_publication: '2015-04-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rmaf
+url_git: ''

@@ -1,0 +1,11 @@
+version: 1.0.2
+title: A Parser for 'ArchieML'
+maintainer: Noam Ross
+description: |-
+  Parses the 'ArchieML' format from the New York Times <http://archieml.org>.
+  Also provides utilities for retrieving Google Drive documents for parsing.
+date_publication: '2019-05-07'
+bug_reports: https://github.com/noamross/rchie/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rchie
+url_git: https://github.com/noamross/rchie

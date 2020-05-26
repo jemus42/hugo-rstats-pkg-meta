@@ -1,0 +1,15 @@
+version: 0.8-1
+title: Using Fonts More Easily in R Graphs
+maintainer: Yixuan Qiu
+description: |-
+  Making it easy to use various types of fonts ('TrueType',
+  'OpenType', Type 1, web fonts, etc.) in R graphs, and supporting most output
+  formats of R graphics including PNG, PDF and SVG. Text glyphs will be converted
+  into polygons or raster images, hence after the plot has been created, it no
+  longer relies on the font files. No external software such as 'Ghostscript' is
+  needed to use this package.
+date_publication: '2020-05-25'
+bug_reports: https://github.com/yixuan/showtext/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=showtext
+url_git: https://github.com/yixuan/showtext

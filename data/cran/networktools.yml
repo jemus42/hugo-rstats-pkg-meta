@@ -1,0 +1,10 @@
+version: 1.2.3
+title: Tools for Identifying Important Nodes in Networks
+maintainer: Payton Jones
+description: Includes assorted tools for network analysis. Bridge centrality; goldbricker;
+  MDS, PCA, & eigenmodel network plotting.
+date_publication: '2020-04-20'
+bug_reports: http://github.com/paytonjjones/networktools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=networktools
+url_git: ''

@@ -1,0 +1,9 @@
+version: 0.3-0
+title: Classes and Methods for Lagged Objects
+maintainer: Georgi N. Boshnakov
+description: Provides classes and methods for lagged objects.
+date_publication: '2019-05-27'
+bug_reports: https://github.com/GeoBosh/lagged/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=lagged
+url_git: https://github.com/GeoBosh/laggedhttps://geobosh.github.io/lagged/

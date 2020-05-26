@@ -1,0 +1,13 @@
+version: 1.1.5
+title: Analytical Tools for Radiation Oncology
+maintainer: Reid F. Thompson
+description: Designed for the import, analysis, and visualization of dosimetric and
+  volumetric data in Radiation Oncology, the tools herein enable import of dose-volume
+  histogram information from multiple treatment planning system platforms and 3D structural
+  representations and dosimetric information from 'DICOM-RT' files.  These tools also
+  enable subsequent visualization and statistical analysis of these data.
+date_publication: '2019-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RadOnc
+url_git: ''

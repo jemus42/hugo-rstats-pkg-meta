@@ -1,0 +1,13 @@
+version: 0.2.2
+title: Create n-Dimensional, Quasi-Proportional Venn Diagrams
+maintainer: Victor Quesada
+description: |-
+  Provides an interface for the "nVenn"" algorithm. This algorithm works for any number of sets,
+  and usually yields pleasing and informative Venn diagrams with proportionality information.
+  However, representing more than six sets takes a long time and is hard to interpret, unless many of the
+  regions are empty. If you cannot make sense of the result, you may want to consider 'UpSetR'.
+date_publication: '2020-05-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nVennR
+url_git: ''

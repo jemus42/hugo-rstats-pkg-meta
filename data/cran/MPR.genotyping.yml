@@ -1,0 +1,12 @@
+version: '0.8'
+title: Maximum Parsimony of Recombination to Infer Parental Genotypes
+maintainer: Weitong Guo
+description: |-
+  Infer parental genotypes based on low-coverage population sequencing data and
+  thus can genotype mapping populations and construct ultra-high density linkage map
+  in a parent-independent manner. Weibo Xie et al. (2010) <doi:10.1073/pnas.1005931107>.
+date_publication: '2018-01-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MPR.genotyping
+url_git: ''

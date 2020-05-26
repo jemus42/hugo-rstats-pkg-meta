@@ -1,0 +1,15 @@
+version: 0.1.2
+title: |-
+  Library Snapshot for Packages and Dependencies in Use by Current
+  Session
+maintainer: Peter Meissner
+description: |-
+  Generate a local library copy with relevant packages.
+  All packages currently found within the search path - except base packages -
+  will be copied to the directory provided and can be used later on with the
+  .libPaths() function.
+date_publication: '2018-02-13'
+bug_reports: https://github.com/petermeissner/librarysnapshot/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=librarysnapshot
+url_git: https://github.com/petermeissner/librarysnapshot

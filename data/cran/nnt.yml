@@ -1,0 +1,14 @@
+version: 0.1.4
+title: The Number Needed to Treat (NNT) for Survival Endpoint
+maintainer: Zhao Yang
+description: |-
+  Estimate the NNT using the proposed method in Yang and Yin's paper (2019)
+  <doi:10.1371/journal.pone.0223301>, in which the NNT-RMST (number needed to
+  treat based on the restricted mean survival time) is defined as the RMST (restricted
+  mean survival time) in the control group divided by the difference in RMSTs
+  between the treatment and control groups up to a chosen time t.
+date_publication: '2020-04-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nnt
+url_git: ''

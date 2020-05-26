@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Loewe's Additivity
+maintainer: Shannon Gallagher
+description: Estimate model parameters to determine whether two compounds have synergy,
+  antagonism, or Loewe's Additivity.
+date_publication: '2020-03-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=loewesadditivity
+url_git: ''

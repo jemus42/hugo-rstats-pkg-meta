@@ -1,0 +1,14 @@
+version: 1.0.2
+title: |-
+  Bayesian Neural Network for High-Dimensional Nonlinear Variable
+  Selection
+maintainer: Bochao Jia
+description: Perform Bayesian variable selection for high-dimensional nonlinear systems
+  and also can be used to test nonlinearity for a general regression problem. The
+  computation can be accelerated using multiple CPUs. You can refer to <doi:10.1080/01621459.2017.1409122>
+  for more detail.
+date_publication: '2018-02-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BNN
+url_git: ''

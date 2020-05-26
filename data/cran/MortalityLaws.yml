@@ -1,0 +1,17 @@
+version: 1.8.4
+title: Parametric Mortality Models, Life Tables and HMD
+maintainer: Marius D. Pascariu
+description: |-
+  Fit the most popular human mortality 'laws', and construct
+  full and abridge life tables given various input indices. A mortality
+  law is a parametric function that describes the dying-out process of
+  individuals in a population during a significant portion of their
+  life spans. For a comprehensive review of the most important mortality
+  laws see Tabeau (2001) <doi:10.1007/0-306-47562-6_1>.
+  Practical functions for downloading data from various human mortality
+  databases are provided as well.
+date_publication: '2020-03-16'
+bug_reports: https://github.com/mpascariu/MortalityLaws/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=MortalityLaws
+url_git: https://github.com/mpascariu/MortalityLaws

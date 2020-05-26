@@ -1,0 +1,14 @@
+version: '2.1'
+title: Tools for Approximate Bayesian Computation (ABC)
+maintainer: Blum Michael
+description: |-
+  Implements several ABC algorithms for
+  performing parameter estimation, model selection, and goodness-of-fit.
+  Cross-validation tools are also available for measuring the
+  accuracy of ABC estimates, and to calculate the
+  misclassification probabilities of different models.
+date_publication: '2015-05-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=abc
+url_git: ''

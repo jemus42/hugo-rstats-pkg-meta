@@ -1,0 +1,14 @@
+version: 1.0.3
+title: |-
+  Fisheries Stock Assessment Simulation Testing with Stock
+  Synthesis
+maintainer: Kelli F. Johnson
+description: |-
+  Develops a framework for fisheries stock assessment simulation
+  testing with Stock Synthesis (SS) as described in Anderson et al.
+  (2014) <doi:10.1371/journal.pone.0092725>.
+date_publication: '2019-11-08'
+bug_reports: https://github.com/ss3sim/ss3sim/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ss3sim
+url_git: https://github.com/ss3sim/ss3sim

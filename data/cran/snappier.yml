@@ -1,0 +1,9 @@
+version: 0.1.0
+title: Compress and Decompress 'Snappy' Encoded Data
+maintainer: Huw Campbell
+description: Compression and decompression with 'Snappy'.
+date_publication: '2018-02-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=snappier
+url_git: ''

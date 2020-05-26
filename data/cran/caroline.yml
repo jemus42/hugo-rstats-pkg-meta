@@ -1,0 +1,18 @@
+version: 0.7.6
+title: A Collection of Database, Data Structure, Visualization, and<U+000a>Utility
+  Functions for R
+maintainer: David Schruth
+description: 'The caroline R library contains dozens of functions useful<U+000a>for:
+  database migration (dbWriteTable2), database style joins &<U+000a>aggregation (nerge,
+  groupBy & bestBy), data structure<U+000a>conversion (nv, tab2df), legend table making
+  (sstable &<U+000a>leghead), plot annotation (labsegs & mvlabs), data<U+000a>visualization
+  (violins, pies & raPlot), character string<U+000a>manipulation (m & pad), file I/O
+  (write.delim), batch scripting<U+000a>and more.  The package''s greatest<U+000a>contributions
+  lie in the database style merge, aggregation and<U+000a>interface functions as well
+  as in it''s extensive use and<U+000a>propagation of row, column and vector names
+  in most functions.'
+date_publication: '2013-10-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=caroline
+url_git: ''

@@ -1,0 +1,10 @@
+version: '2.0'
+title: Dynamic Correlation Analysis for High Dimensional Data
+maintainer: Tianwei Yu
+description: Finding dominant latent signals that regulate dynamic correlation between
+  many pairs of variables.
+date_publication: '2017-07-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DCA
+url_git: ''

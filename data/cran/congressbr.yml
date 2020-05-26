@@ -1,0 +1,15 @@
+version: 0.2.2
+title: |-
+  Downloads, Unpacks and Tidies Legislative Data from the
+  Brazilian Federal Senate and Chamber of Deputies
+maintainer: Robert McDonnell
+description: |-
+  Downloads and tidies data from the Brazilian Federal Senate and
+  Chamber of Deputies Application Programming Interfaces available at <http://
+  legis.senado.gov.br/dadosabertos/> and <https://dadosabertos.camara.leg.br/>
+  respectively.
+date_publication: '2019-12-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=congressbr
+url_git: ''

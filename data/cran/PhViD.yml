@@ -1,0 +1,10 @@
+version: 1.0.8
+title: PharmacoVigilance Signal Detection
+maintainer: Ismaïl Ahmed
+description: A collection of several pharmacovigilance signal detection methods extended
+  to the multiple comparison setting.
+date_publication: '2016-11-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PhViD
+url_git: ''

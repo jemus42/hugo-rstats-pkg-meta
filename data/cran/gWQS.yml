@@ -1,0 +1,10 @@
+version: 2.0.1
+title: Generalized Weighted Quantile Sum Regression
+maintainer: Stefano Renzetti
+description: Fits Weighted Quantile Sum (WQS) regressions for continuous, binomial,
+  multinomial and count outcomes.
+date_publication: '2020-03-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gWQS
+url_git: ''

@@ -1,0 +1,17 @@
+version: '2.1'
+title: |-
+  Estimate the Four Parameters of Stable Laws using Different
+  Methods
+maintainer: Georgi N. Boshnakov
+description: |-
+  Estimate the four parameters of stable laws using maximum
+  likelihood method, generalised method of moments with
+  finite and continuum number of points, iterative
+  Koutrouvelis regression and Kogon-McCulloch method.  The
+  asymptotic properties of the estimators (covariance
+  matrix, confidence intervals) are also provided.
+date_publication: '2016-07-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=StableEstim
+url_git: ''

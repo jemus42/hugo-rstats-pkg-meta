@@ -1,0 +1,11 @@
+version: 0.6.0
+title: Parses LaTeX Documents for Errors
+maintainer: Hugh Parsonage
+description: Checks LaTeX documents and .bib files for typing errors, such as spelling
+  errors, incorrect quotation marks. Also provides useful functions for parsing and
+  linting bibliography files.
+date_publication: '2018-08-25'
+bug_reports: https://github.com/HughParsonage/TeXCheckR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=TeXCheckR
+url_git: https://github.com/HughParsonage/TeXCheckR

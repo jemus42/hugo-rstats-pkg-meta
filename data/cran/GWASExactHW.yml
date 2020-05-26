@@ -1,0 +1,13 @@
+version: '1.01'
+title: Exact Hardy-Weinburg testing for Genome Wide Association Studies
+maintainer: Ian Painter
+description: |-
+  This package contains a function to do exact
+  Hardy-Weinburg testing (using Fisher's test) for SNP genotypes
+  as typically obtained in a Genome Wide Association Study
+  (GWAS).
+date_publication: '2013-01-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GWASExactHW
+url_git: ''

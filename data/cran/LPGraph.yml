@@ -1,0 +1,14 @@
+version: '2.1'
+title: Nonparametric Smoothing of Laplacian Graph Spectra
+maintainer: Kaijun Wang
+description: |-
+  A nonparametric method to approximate Laplacian graph spectra of a network with
+  ordered vertices. This provides a computationally efficient algorithm for obtaining an
+  accurate and smooth estimate of the graph Laplacian basis. The approximation results can
+  then be used for tasks like change point detection, k-sample testing, and so on. The
+  primary reference is Mukhopadhyay, S. and Wang, K. (2018, Technical Report).
+date_publication: '2020-01-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LPGraph
+url_git: ''

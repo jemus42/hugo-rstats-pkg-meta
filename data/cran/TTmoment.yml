@@ -1,0 +1,13 @@
+version: '1.0'
+title: |-
+  Sampling and Calculating the First and Second Moments for the
+  Doubly Truncated Multivariate t Distribution
+maintainer: Hsiu J. Ho
+description: Computing the first two moments of the truncated multivariate t (TMVT)
+  distribution under the double truncation. Appling the slice sampling algorithm to
+  generate random variates from the TMVT distribution.
+date_publication: '2015-05-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TTmoment
+url_git: ''

@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Compressive Big Data Analytics
+maintainer: Simeone Marino
+description: Classification performed on Big Data. It uses concepts from compressive
+  sensing, and implements ensemble predictor (i.e., 'SuperLearner') and knockoff filtering
+  as the main machine learning and feature mining engines.
+date_publication: '2018-04-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CBDA
+url_git: https://github.com/SOCR/CBDA

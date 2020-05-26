@@ -1,0 +1,11 @@
+version: 1.0.9
+title: More Powerful Unconditional Testing of Negative Binomial Means<U+000a>for Digital
+  Gene Expression Data
+maintainer: Emmanuel Dimont
+description: Extends edgeR functionality by improving on exactTest using an unconditional
+  exact test of negative binomial means.
+date_publication: '2014-09-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=edgeRun
+url_git: ''

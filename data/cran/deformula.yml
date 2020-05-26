@@ -1,0 +1,13 @@
+version: 0.1.1
+title: |-
+  Integration of One-Dimensional Functions with Double Exponential
+  Formulas
+maintainer: Hiroyuki Okamura
+description: |-
+  Numerical quadrature of functions of one variable over a finite or infinite interval
+  with double exponential formulas.
+date_publication: '2015-10-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=deformula
+url_git: ''

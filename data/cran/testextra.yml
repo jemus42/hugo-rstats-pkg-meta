@@ -1,0 +1,12 @@
+version: 0.1.0.1
+title: Extract Test Blocks
+maintainer: Andrew Redd
+description: |-
+  A collection of testing enhancements and utilities.
+  Including utilities for extracting inline test blocks from
+  package source files.
+date_publication: '2019-12-18'
+bug_reports: https://github.com/RDocTaskForce/testextra/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=testextra
+url_git: https://github.com/RDocTaskForce/testextra

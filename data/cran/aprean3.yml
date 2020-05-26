@@ -1,0 +1,14 @@
+version: 1.0.1
+title: |-
+  Datasets from Draper and Smith "Applied Regression Analysis"
+  (3rd Ed., 1998)
+maintainer: Luca Braglia
+description: |-
+  An unofficial companion to the textbook "Applied Regression
+  Analysis" by N.R. Draper and H. Smith (3rd Ed., 1998) including all the
+  accompanying datasets.
+date_publication: '2015-05-09'
+bug_reports: https://github.com/lbraglia/aprean3/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=aprean3
+url_git: https://github.com/lbraglia/aprean3

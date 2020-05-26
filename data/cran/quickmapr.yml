@@ -1,0 +1,17 @@
+version: 0.3.0
+title: Quickly Map and Explore Spatial Data
+maintainer: Jeffrey W. Hollister
+description: |-
+  While analyzing geospatial data, easy visualization is often
+  needed that allows for quick plotting, and simple, but easy interactivity.
+  Additionally, visualizing geospatial data in projected coordinates is also
+  desirable. The 'quickmapr' package provides a simple method to visualize
+  'sp', 'sf' (via coercion to 'sp'), and 'raster' objects, allows for basic
+  zooming, panning, identifying,labeling, selecting, and measuring spatial
+  objects.  Importantly, it does not require that the data be in geographic
+  coordinates.
+date_publication: '2018-06-03'
+bug_reports: https://github.com/jhollist/quickmapr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=quickmapr
+url_git: https://www.github.com/jhollist/quickmapr

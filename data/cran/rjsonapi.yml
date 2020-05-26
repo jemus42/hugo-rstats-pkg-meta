@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Consumer for APIs that Follow the JSON API Specification
+maintainer: Scott Chamberlain
+description: |-
+  Consumer for APIs that Follow the JSON API Specification
+  (<http://jsonapi.org/>). Package mostly consumes data - with experimental
+  support for serving JSON API data.
+date_publication: '2017-01-09'
+bug_reports: https://github.com/ropensci/rjsonapi/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rjsonapi
+url_git: https://github.com/ropensci/rjsonapi

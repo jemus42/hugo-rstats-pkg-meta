@@ -1,0 +1,11 @@
+version: 1.3.0
+title: Manipulate Formulas and Evaluate Marginal Effects
+maintainer: Fan Yang
+description: Provides tools to manipulate formulas, such as getting x, y or contrasts
+  from the model/formula, and functions to evaluate and check the marginal effects
+  of a linear model.
+date_publication: '2016-07-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=linear.tools
+url_git: ''

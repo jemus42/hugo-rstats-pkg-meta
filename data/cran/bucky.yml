@@ -1,0 +1,12 @@
+version: 1.0.6
+title: Bucky's Archive for Data Analysis in the Social Sciences
+maintainer: Alexander Tahk
+description: Provides functions for various statistical techniques commonly used in
+  the social sciences, including functions to compute clustered robust standard errors,
+  combine results across multiply-imputed data sets, and simplify the addition of
+  robust and clustered robust standard errors.
+date_publication: '2019-12-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bucky
+url_git: http://github.com/atahk/bucky

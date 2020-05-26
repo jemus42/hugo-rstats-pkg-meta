@@ -1,0 +1,16 @@
+version: 1.2.4
+title: Multi-Resolution Scanning for Cross-Sample Differences
+maintainer: Li Ma
+description: |-
+  An implementation of the MRS algorithm for comparison across distributions,
+  as described in Jacopo Soriano, Li Ma (2016) <doi:10.1111/rssb.12180>.
+  The model is based on a nonparametric process taking the form of a Markov model
+  that transitions between a "null" and an "alternative" state
+  on a multi-resolution partition tree of the sample space.
+  MRS effectively detects and characterizes a variety of underlying differences.
+  These differences can be visualized using several plotting functions.
+date_publication: '2018-01-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MRS
+url_git: ''

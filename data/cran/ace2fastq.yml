@@ -1,0 +1,16 @@
+version: 0.6.0
+title: ACE File to FASTQ Converter
+maintainer: Reinhard Simon
+description: |-
+  The ACE file format is used in genomics to store contigs from sequencing machines.
+  This tools converts it into FASTQ format. Both formats contain the
+  sequence characters and their
+  corresponding quality information. Unlike the FASTQ file, the ace file stores the
+  quality values numerically.
+  The conversion algorithm uses the standard Sanger formula. The package facilitates insertion
+  into pipelines, and content inspection.
+date_publication: '2019-06-20'
+bug_reports: https://github.com/c5sire/ace2fastq/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ace2fastq
+url_git: https://github.com/c5sire/ace2fastq

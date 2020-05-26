@@ -1,0 +1,12 @@
+version: 0.4.0
+title: Bayesian Aggregate Treatment Effects
+maintainer: Witold Wiecek
+description: |-
+  Running and comparing meta-analyses of data with hierarchical
+  Bayesian models in Stan, including convenience functions for formatting
+  data, plotting and pooling measures specific to meta-analysis.
+date_publication: '2020-02-28'
+bug_reports: https://github.com/wwiecek/baggr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=baggr
+url_git: https://github.com/wwiecek/baggr

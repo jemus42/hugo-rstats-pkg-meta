@@ -1,0 +1,15 @@
+version: '3.0'
+title: High-Performance Stemmer, Tokenizer, and Spell Checker
+maintainer: Jeroen Ooms
+description: |-
+  Low level spell checker and morphological analyzer based on the
+  famous 'hunspell' library <https://hunspell.github.io>. The package can analyze
+  or check individual words as well as parse text, latex, html or xml documents.
+  For a more user-friendly interface use the 'spelling' package which builds on
+  this package to automate checking of files, documentation and vignettes in all
+  common formats.
+date_publication: '2018-12-15'
+bug_reports: https://github.com/ropensci/hunspell/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=hunspell
+url_git: https://github.com/ropensci/hunspell#readme(devel)https://hunspell.github.io(upstream)

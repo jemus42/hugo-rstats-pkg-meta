@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Classification Evaluation Metrics
+maintainer: G. Dudnik
+description: A fast, robust and easy-to-use calculation of multi-class classification
+  evaluation metrics based on confusion matrix.
+date_publication: '2018-11-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mltest
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.0.1
+title: |-
+  Tools for Pre-Processing Emission-Excitation-Matrix (EEM)
+  Fluorescence Data
+maintainer: Philippe Massicotte
+description: |-
+  Provides various tools for preprocessing Emission-Excitation-Matrix (EEM) for Parallel Factor Analysis (PARAFAC). Different
+  methods are also provided to calculate common metrics such as humification index and fluorescence index.
+date_publication: '2019-06-26'
+bug_reports: https://github.com/PMassicotte/eemR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=eemR
+url_git: https://github.com/PMassicotte/eemR

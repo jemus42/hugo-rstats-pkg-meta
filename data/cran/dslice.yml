@@ -1,0 +1,11 @@
+version: 1.2.0
+title: Dynamic Slicing
+maintainer: Chao Ye
+description: Dynamic slicing is a method designed for dependency detection between
+  a categorical variable and a continuous variable. It could be applied for non-parametric
+  hypothesis testing and gene set enrichment analysis.
+date_publication: '2018-11-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dslice
+url_git: ''

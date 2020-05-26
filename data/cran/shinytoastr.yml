@@ -1,0 +1,11 @@
+version: 2.1.1
+title: Notifications from 'Shiny'
+maintainer: Gábor Csárdi
+description: |-
+  Browser notifications in 'Shiny' apps, using
+  'toastr': <https://github.com/CodeSeven/toastr#readme>.
+date_publication: '2016-06-06'
+bug_reports: https://github.com/mangothecat/shinytoastr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinytoastr
+url_git: https://github.com/mangothecat/shinytoastr

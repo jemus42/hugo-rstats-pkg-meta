@@ -1,0 +1,15 @@
+version: '1.0'
+title: Models for Drying and Soaking Kinetics of Seeds
+maintainer: Anderson Rodrigo da Silva
+description: |-
+  Bringing together tools for modeling drying and soaking (rehydration)
+  kinetics of seeds. This package contains several widely used predictive models
+  (e.g.: da Silva et al., 2018). As these are nonlinear, the functions are interactive-based
+  and easy-to-use. Least squares estimates are obtained with just a few visual adjustments
+  of the initial parameter values.
+  Reference: da Silva AR et al. (2018) <doi:10.2134/agronj2017.07.0373>.
+date_publication: '2019-02-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=seedwater
+url_git: ''

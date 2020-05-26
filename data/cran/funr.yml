@@ -1,0 +1,11 @@
+version: 0.3.2
+title: Simple Utility Providing Terminal Access to all R Functions
+maintainer: Sahil Seth
+description: |-
+  A small utility which wraps Rscript and provides access to all R
+  functions from the shell.
+date_publication: '2016-04-19'
+bug_reports: https://github.com/sahilseth/funr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=funr
+url_git: https://github.com/sahilseth/funr

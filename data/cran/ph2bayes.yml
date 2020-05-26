@@ -1,0 +1,11 @@
+version: 0.0.2
+title: Bayesian Single-Arm Phase II Designs
+maintainer: Kengo Nagashima
+description: |-
+  An implementation of Bayesian single-arm phase II design methods for binary outcome based on posterior
+  probability (Thall and Simon (1994) <doi:10.2307/2533377>) and predictive probability (Lee and Liu (2008) <doi:10.1177/1740774508089279>).
+date_publication: '2018-02-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ph2bayes
+url_git: ''

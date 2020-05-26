@@ -1,0 +1,11 @@
+version: 1.3.4
+title: |-
+  Locally Stationary Two-Dimensional Wavelet Process Estimation
+  Scheme
+maintainer: Idris Eckley
+description: Estimates two-dimensional local wavelet spectra.
+date_publication: '2018-05-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LS2W
+url_git: ''

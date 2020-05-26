@@ -1,0 +1,10 @@
+version: '1.1'
+title: ARMA-GARCH/APARCH Models with GEV and Stable Distributions
+maintainer: Thiago Sousa
+description: Package for simulation and estimation of ARMA-GARCH/APARCH models with
+  GEV and stable distributions.
+date_publication: '2015-08-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GEVStableGarch
+url_git: ''

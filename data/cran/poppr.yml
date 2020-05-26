@@ -1,0 +1,14 @@
+version: 2.8.5
+title: Genetic Analysis of Populations with Mixed Reproduction
+maintainer: Zhian N. Kamvar
+description: |-
+  Population genetic analyses for hierarchical analysis of partially
+  clonal populations built upon the architecture of the 'adegenet' package.
+  Originally described in Kamvar, Tabima, and Grünwald (2014)
+  <doi:10.7717/peerj.281> with version 2.0 described in Kamvar, Brooks, and
+  Grünwald (2015) <doi:10.3389/fgene.2015.00208>.
+date_publication: '2020-02-25'
+bug_reports: https://github.com/grunwaldlab/poppr/issues
+url: https://grunwaldlab.github.io/poppr
+url_cran: https://CRAN.R-project.org/package=poppr
+url_git: https://github.com/grunwaldlab/poppr

@@ -1,0 +1,13 @@
+version: 0.5.0
+title: Penalized Orthogonal-Components Regression
+maintainer: Dabao Zhang
+description: Penalized orthogonal-components regression (POCRE) is a supervised dimension
+  reduction method for high-dimensional data. It sequentially constructs orthogonal
+  components (with selected features) which are maximally correlated to the response
+  residuals. POCRE can also construct common components for multiple responses and
+  thus build up latent-variable models.
+date_publication: '2018-07-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=POCRE
+url_git: ''

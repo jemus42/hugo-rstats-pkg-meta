@@ -1,0 +1,12 @@
+version: 1.5.8
+title: Empirical Mode Decomposition and Hilbert Spectral Analysis
+maintainer: Donghoh Kim
+description: |-
+  For multiscale analysis, this package carries out empirical mode decomposition and Hilbert spectral
+  analysis. For usage of EMD, see Kim and Oh, 2009 (Kim, D and Oh, H.-S. (2009) EMD: A Package for Empirical
+  Mode Decomposition and Hilbert Spectrum, The R Journal, 1, 40-46).
+date_publication: '2018-12-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EMD
+url_git: ''

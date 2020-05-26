@@ -1,0 +1,11 @@
+version: 1.0.6
+title: Regularized Greedy Forest
+maintainer: Lampros Mouselimis
+description: Regularized Greedy Forest wrapper of the 'Regularized Greedy Forest'
+  <https://github.com/RGF-team/rgf/tree/master/python-package> 'python' package, which
+  also includes a Multi-core implementation (FastRGF) <https://github.com/RGF-team/rgf/tree/master/FastRGF>.
+date_publication: '2019-01-15'
+bug_reports: https://github.com/RGF-team/rgf/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=RGF
+url_git: https://github.com/RGF-team/rgf/tree/master/R-package

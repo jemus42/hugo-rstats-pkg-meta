@@ -1,0 +1,11 @@
+version: 0.2.0
+title: Describe Data in R Using Common Descriptive Statistics
+maintainer: Paul Hendricks
+description: |-
+  Allows users to quickly and easily describe data using
+  common descriptive statistics.
+date_publication: '2015-09-17'
+bug_reports: https://github.com/paulhendricks/describer/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=describer
+url_git: https://github.com/paulhendricks/describer

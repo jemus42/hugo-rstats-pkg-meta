@@ -1,0 +1,12 @@
+version: 1.0.4
+title: Riskset ROC curve estimation from censored survival data
+maintainer: Paramita Saha-Chaudhuri<U+000a><paramita.sahachaudhuri.work@gmail.com>
+description: Compute time-dependent Incident/dynamic accuracy measures<U+000a>(ROC
+  curve, AUC, integrated AUC )from censored survival data<U+000a>under proportional
+  or non-proportional hazard assumption of<U+000a>Heagerty & Zheng (Biometrics, Vol
+  61 No 1, 2005, PP 92-105).
+date_publication: '2012-09-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=risksetROC
+url_git: ''

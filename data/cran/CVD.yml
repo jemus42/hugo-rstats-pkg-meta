@@ -1,0 +1,10 @@
+version: 1.0.2
+title: Color Vision Deficiencies
+maintainer: Jose Gama
+description: Methods for color vision deficiencies (CVD), to help understanding and
+  mitigating issues with CVDs and to generate tests for diagnosis and interpretation.
+date_publication: '2016-11-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CVD
+url_git: ''

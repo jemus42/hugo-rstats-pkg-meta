@@ -1,0 +1,13 @@
+version: '1.2'
+title: methods of distance-based gene set functional enrichment<U+000a>analysis.
+maintainer: Li Jin
+description: This package provides methods and examples to support a<U+000a>method
+  of Gene Set Analysis (GSA).  DBGSA is a novel<U+000a>distance-based gene set enrichment
+  analysis method. We consider<U+000a>that, the distance between 2 groups with different
+  phenotype by<U+000a>focusing on the gene expression should be larger, if a certain<U+000a>gene
+  functional set was significantly associated with a<U+000a>particular phenotype.
+date_publication: '2012-01-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DBGSA
+url_git: ''

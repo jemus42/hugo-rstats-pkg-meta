@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Dynamic Panel Data Models
+maintainer: Taha Zaghdoudi
+description: Computes the first stage GMM estimate of a dynamic linear model with
+  p lags of the dependent variables.
+date_publication: '2016-08-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dynpanel
+url_git: ''

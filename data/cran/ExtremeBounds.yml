@@ -1,0 +1,12 @@
+version: 0.1.6
+title: Extreme Bounds Analysis (EBA)
+maintainer: Marek Hlavac
+description: An implementation of Extreme Bounds Analysis (EBA), a global sensitivity
+  analysis that examines the robustness of determinants in regression models. The
+  package supports both Leamer's and Sala-i-Martin's versions of EBA, and allows users
+  to customize all aspects of the analysis.
+date_publication: '2018-01-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ExtremeBounds
+url_git: ''

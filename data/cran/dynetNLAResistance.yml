@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Resisting Neighbor Label Attack in a Dynamic Network
+maintainer: Jiaqi Tang
+description: An anonymization algorithm to resist neighbor label attack in a dynamic
+  network.
+date_publication: '2016-11-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dynetNLAResistance
+url_git: ''

@@ -1,0 +1,14 @@
+version: '1.0'
+title: Process an MCMC Sample of Clusterings
+maintainer: Arno Fritsch
+description: |-
+  Implements methods for processing a sample of (hard)
+  clusterings, e.g. the MCMC output of a Bayesian clustering
+  model. Among them are methods that find a single best
+  clustering to represent the sample, which are based on the
+  posterior similarity matrix or a relabelling algorithm.
+date_publication: '2012-07-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mcclust
+url_git: ''

@@ -1,0 +1,11 @@
+version: '0.8'
+title: Fitting Structural Equation Mixture Models
+maintainer: Nora Umbach
+description: |-
+  Estimation of structural equation models with nonlinear effects
+  and underlying nonnormal distributions.
+date_publication: '2017-05-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nlsem
+url_git: ''

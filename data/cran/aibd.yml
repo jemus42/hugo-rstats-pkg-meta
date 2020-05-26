@@ -1,0 +1,11 @@
+version: 0.1.8
+title: Attraction Indian Buffet Distribution
+maintainer: David B. Dahl
+description: An implementation of probability mass function and sampling algorithms
+  is provided for the attraction Indian buffet distribution (AIBD), originally from
+  Dahl (2016) <https://ww2.amstat.org/meetings/jsm/2016/onlineprogram/ActivityDetails.cfm?SessionID=213038>.
+date_publication: '2020-03-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=aibd
+url_git: ''

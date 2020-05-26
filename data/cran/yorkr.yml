@@ -1,0 +1,11 @@
+version: 0.0.9
+title: Analyze Cricket Performances Based on Data from Cricsheet
+maintainer: Tinniam V Ganesh
+description: |-
+  Analyzing performances of cricketers and cricket teams
+  based on 'yaml' match data from Cricsheet <http://cricsheet.org>.
+date_publication: '2020-05-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=yorkr
+url_git: https://github.com/tvganesh/yorkr

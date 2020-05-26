@@ -1,0 +1,11 @@
+version: 0.2-2
+title: Functions for Ecdat
+maintainer: Spencer Graves
+description: |-
+  Functions to update data sets in Ecdat and to create,
+  manipulate, plot, and analyze those and similar data sets.
+date_publication: '2020-02-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Ecfun
+url_git: ''

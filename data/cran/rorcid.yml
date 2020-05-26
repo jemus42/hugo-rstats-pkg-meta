@@ -1,0 +1,12 @@
+version: 0.6.4
+title: Interface to the 'Orcid.org' API
+maintainer: Scott Chamberlain
+description: |-
+  Client for the 'Orcid.org' API (<https://orcid.org/>).
+  Functions included for searching for people, searching by 'DOI',
+  and searching by 'Orcid' 'ID'.
+date_publication: '2020-02-06'
+bug_reports: https://github.com/ropensci/rorcid/issues
+url: https://docs.ropensci.org/rorcid(docs)
+url_cran: https://CRAN.R-project.org/package=rorcid
+url_git: https://github.com/ropensci/rorcid(devel)

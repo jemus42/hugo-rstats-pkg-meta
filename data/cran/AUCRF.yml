@@ -1,0 +1,10 @@
+version: '1.1'
+title: Variable Selection with Random Forest and the Area Under the<U+000a>Curve
+maintainer: Victor Urrea
+description: Variable selection using Random Forest based on optimizing<U+000a>the
+  area-under-the ROC curve (AUC) of the Random Forest.
+date_publication: '2012-03-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AUCRF
+url_git: ''

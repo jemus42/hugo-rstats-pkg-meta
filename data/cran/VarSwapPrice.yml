@@ -1,0 +1,11 @@
+version: '1.0'
+title: Pricing a variance swap on an equity index
+maintainer: Paolo Zagaglia
+description: |-
+  Computes a portfolio of European options that replicates
+  the cost of capturing the realised variance of an equity index.
+date_publication: '2012-03-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=VarSwapPrice
+url_git: ''

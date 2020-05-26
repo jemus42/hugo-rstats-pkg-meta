@@ -1,0 +1,10 @@
+version: 0.0.3
+title: Cluster Weighted Models by EM algorithm
+maintainer: Giorgio Spedicato
+description: This package estimates gaussian cluster weighted linear regressions by
+  EM algorithm.
+date_publication: '2014-01-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cwm
+url_git: ''

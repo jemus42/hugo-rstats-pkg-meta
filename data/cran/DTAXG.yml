@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Diagnostic Test Assessment in the Absence of Gold Standard
+maintainer: Zhicheng Du
+description: |-
+  To calculate the sensitivity and specificity in the absence of gold standard using the Bayesian method.
+  The Bayesian method can be referenced at Haiyan Gu and Qiguang Chen (1999) <doi:10.3969/j.issn.1002-3674.1999.04.004>.
+date_publication: '2019-03-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DTAXG
+url_git: ''

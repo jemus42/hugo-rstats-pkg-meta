@@ -1,0 +1,17 @@
+version: '2.1'
+title: |-
+  Models for Continuous Traits Evolving in Macroevolutionary
+  Landscapes of any Shape
+maintainer: Florian C. Boucher
+description: 'Provides a set of functions to fit general macroevolutionary models
+  for continuous traits evolving in adaptive landscapes of any shape. This package
+  implements the Fokker-Planck-Kolmogorov model (FPK), in which the trait evolves
+  under random diffusion but is also subject to a force that pulls it towards specific
+  values - this force can be of any shape. FPK has a version in which hard reflective
+  bounds exist at the extremes of the trait interval: this second model is called
+  BBMV.'
+date_publication: '2018-04-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BBMV
+url_git: ''

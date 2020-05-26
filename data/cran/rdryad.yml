@@ -1,0 +1,12 @@
+version: 0.4.0
+title: Access for Dryad Web Services
+maintainer: Scott Chamberlain
+description: |-
+  Interface to the Dryad "Solr" API, their "OAI-PMH" service, and
+  fetch datasets. Dryad (<http://datadryad.org/>) is a curated host of
+  data underlying scientific publications.
+date_publication: '2018-06-18'
+bug_reports: https://github.com/ropensci/rdryad/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rdryad
+url_git: https://github.com/ropensci/rdryad

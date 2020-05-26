@@ -1,0 +1,15 @@
+version: 3.2.0
+title: Storage Management in 'Azure'
+maintainer: Hong Ooi
+description: 'Manage storage in Microsoft''s ''Azure'' cloud: <https://azure.microsoft.com/services/storage>.
+  On the admin side, ''AzureStor'' includes features to create, modify and delete
+  storage accounts. On the client side, it includes an interface to blob storage,
+  file storage, and ''Azure Data Lake Storage Gen2'': upload and download files and
+  blobs; list containers and files/blobs; create containers; and so on. Authenticated
+  access to storage is supported, via either a shared access key or a shared access
+  signature (SAS). Part of the ''AzureR'' family of packages.'
+date_publication: '2020-04-11'
+bug_reports: https://github.com/Azure/AzureStor/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=AzureStor
+url_git: https://github.com/Azure/AzureStorhttps://github.com/Azure/AzureR

@@ -1,0 +1,13 @@
+version: 0.1.1
+title: |-
+  Voting Systems, Instant-Runoff Voting, Borda Method, Various
+  Condorcet Methods
+maintainer: Jiang Wu
+description: |-
+  Various methods to count ballots in voting systems are provided.
+  Functions to check validity of ballots are also provided to ensure flexibility.
+date_publication: '2018-04-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=votesys
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.1.0
+title: |-
+  Wrapper for 'Python' Module 'sqlparse': Parse, Split, and Format
+  'SQL'
+maintainer: Michael Simmler
+description: Wrapper for the non-validating 'SQL' parser 'Python' module 'sqlparse'
+  <https://github.com/andialbrecht/sqlparse>. It allows parsing, splitting, and formatting
+  'SQL' statements.
+date_publication: '2019-09-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sqlparseR
+url_git: ''

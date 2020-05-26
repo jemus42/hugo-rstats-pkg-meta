@@ -1,0 +1,12 @@
+version: '1.1'
+title: Model Selection for Index of Asymmetry Distribution
+maintainer: Satoshi Takahashi
+description: Calculate AIC's and AICc's of unimodal model (one normal distribution)
+  and bimodal model(a mixture of two normal distributions) which fit the distribution
+  of indices of asymmetry (IAS), and plot their density, to help determine IAS distribution
+  is unimodal or bimodal.
+date_publication: '2015-09-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IASD
+url_git: ''

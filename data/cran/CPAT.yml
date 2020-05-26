@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Change Point Analysis Tests
+maintainer: Curtis Miller
+description: 'Implements several statistical tests for structural change, specifically
+  the tests featured in Horváth, Rice and Miller (in press): CUSUM (with weighted/trimmed
+  variants), Darling-Erdös, Hidalgo-Seo, Andrews, and the new Rényi-type test.'
+date_publication: '2018-12-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CPAT
+url_git: ''

@@ -1,0 +1,13 @@
+version: '1.6'
+title: Simulating from the Polya Posterior
+maintainer: Glen Meeden
+description: |-
+  Simulate via Markov chain Monte Carlo (hit-and-run algorithm)
+  a Dirichlet distribution conditioned to satisfy a finite set of linear
+  equality and inequality constraints (hence to lie in a convex polytope
+  that is a subset of the unit simplex).
+date_publication: '2020-05-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=polyapost
+url_git: ''

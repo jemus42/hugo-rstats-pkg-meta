@@ -1,0 +1,9 @@
+version: 0.2-0
+title: Deducer Plug-in Example
+maintainer: Ian Fellows
+description: A example GUI plug-in package to serve as a template.
+date_publication: '2012-03-17'
+bug_reports: ''
+url: http://www.deducer.org/pmwiki/index.php?n=Main.Development
+url_cran: https://CRAN.R-project.org/package=DeducerPlugInExample
+url_git: ''

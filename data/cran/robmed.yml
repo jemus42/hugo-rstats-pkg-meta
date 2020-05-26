@@ -1,0 +1,9 @@
+version: 0.6.0
+title: (Robust) Mediation Analysis
+maintainer: Andreas Alfons
+description: Perform mediation analysis via a (fast and robust) bootstrap test.
+date_publication: '2020-02-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=robmed
+url_git: ''

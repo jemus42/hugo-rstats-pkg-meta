@@ -1,0 +1,17 @@
+version: 1.8.2
+title: |-
+  Modeling Framework for Cellular Communities in their
+  Environments
+maintainer: Johannes Zimmermann
+description: |-
+  Can be used for simulation of organisms living in
+  communities (Bauer and Zimmermann (2017) <doi:10.1371/journal.pcbi.1005544>).
+  Each organism is represented individually and genome scale
+  metabolic models determine the uptake and release of compounds. Biological
+  processes such as movement, diffusion, chemotaxis and kinetics are available
+  along with data analysis techniques.
+date_publication: '2020-05-20'
+bug_reports: https://github.com/euba/BacArena/issues
+url: https://BacArena.github.io/
+url_cran: https://CRAN.R-project.org/package=BacArena
+url_git: ''

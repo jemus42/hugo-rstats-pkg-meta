@@ -1,0 +1,14 @@
+version: 1.0.5
+title: |-
+  An Interactive Application for ODE Parameter Inference Using
+  Gradient Matching
+maintainer: Joe Wandy
+description: |-
+  An interactive Shiny application to perform fast parameter inference on
+  dynamical systems (described by ordinary differential equations) using gradient matching.
+  Please see the project page for more details.
+date_publication: '2018-02-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinyKGode
+url_git: https://github.com/joewandy/shinyKGode

@@ -1,0 +1,11 @@
+version: 0.2.0
+title: Casting Values into Shape
+maintainer: Kevin Kuo
+description: |-
+  Helper functions with a consistent interface to coerce and verify
+  the types and shapes of values for input checking.
+date_publication: '2019-02-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=forge
+url_git: ''

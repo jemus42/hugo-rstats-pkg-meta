@@ -1,0 +1,11 @@
+version: '0.36'
+title: Event Study Analysis
+maintainer: Dr. Simon Mueller
+description: Perform Event Studies from through our <http://EventStudyTools.com> Application
+  Programming Interface, parse the results, visualize it, and / or use the results
+  in further analysis.
+date_publication: '2019-03-14'
+bug_reports: https://github.com/EventStudyTools/api-wrapper.r/issues
+url: http://eventstudytools.com
+url_cran: https://CRAN.R-project.org/package=EventStudy
+url_git: ''

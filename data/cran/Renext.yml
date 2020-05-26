@@ -1,0 +1,11 @@
+version: 3.1-0
+title: Renewal Method for Extreme Values Extrapolation
+maintainer: Lise Bardet
+description: Peaks Over Threshold (POT) or 'methode du renouvellement'. The distribution
+  for the exceedances can be chosen, and heterogeneous data (including historical
+  data or block data) can be used in a Maximum-Likelihood framework.
+date_publication: '2016-07-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Renext
+url_git: ''

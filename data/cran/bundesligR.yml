@@ -1,0 +1,10 @@
+version: 0.1.0
+title: All Final Tables of the Bundesliga
+maintainer: Philipp Ottolinger
+description: All final tables of Germany's highest football (soccer!) league, the
+  Bundesliga. Contains data from 1964 to 2016.
+date_publication: '2016-08-12'
+bug_reports: https://github.com/ottlngr/bundesligR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bundesligR
+url_git: https://github.com/ottlngr/bundesligR

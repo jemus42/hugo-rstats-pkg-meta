@@ -1,0 +1,10 @@
+version: '1.2'
+title: Lomb-Scargle Periodogram
+maintainer: Thomas Ruf
+description: Computes the Lomb-Scargle Periodogram for unevenly sampled time series.
+  Includes a randomization procedure to obtain reliable p-values.
+date_publication: '2019-11-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lomb
+url_git: ''

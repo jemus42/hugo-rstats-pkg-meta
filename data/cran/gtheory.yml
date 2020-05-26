@@ -1,0 +1,12 @@
+version: 0.1.2
+title: Apply Generalizability Theory with R
+maintainer: Christopher T. Moore
+description: |-
+  Estimates variance components, generalizability coefficients,
+  universe scores, and standard errors when observed scores contain variation from
+  one or more measurement facets (e.g., items and raters).
+date_publication: '2016-10-30'
+bug_reports: ''
+url: http://EvaluationDashboard.com
+url_cran: https://CRAN.R-project.org/package=gtheory
+url_git: ''

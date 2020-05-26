@@ -1,0 +1,10 @@
+version: 1.2.4
+title: Continual Reassessment Method (CRM) for Phase I Clinical Trials
+maintainer: Qianxing Mo
+description: Functions for phase I clinical trials using the continual reassessment
+  method.
+date_publication: '2018-09-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CRM
+url_git: ''

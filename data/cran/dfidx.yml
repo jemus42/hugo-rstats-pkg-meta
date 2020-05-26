@@ -1,0 +1,10 @@
+version: 0.0-3
+title: Indexed Data Frames
+maintainer: Yves Croissant
+description: Provides extended data frames, with a special data frame column which
+  contains two indexes, with potentially a nesting structure.
+date_publication: '2020-05-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dfidx
+url_git: ''

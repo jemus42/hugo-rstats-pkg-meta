@@ -1,0 +1,12 @@
+version: 1.8.1
+title: Geostatistical Modelling with Likelihood and Bayes
+maintainer: Patrick Brown
+description: |-
+  Geostatistical modelling facilities using Raster and SpatialPoints
+  objects are provided. Non-Gaussian models are fit using INLA, and Gaussian
+  geostatistical models use Maximum Likelihood Estimation.  For details see Brown (2015) <doi:10.18637/jss.v063.i12>.
+date_publication: '2020-05-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=geostatsp
+url_git: ''

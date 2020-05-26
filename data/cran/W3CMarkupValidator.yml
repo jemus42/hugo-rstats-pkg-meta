@@ -1,0 +1,12 @@
+version: 0.1-6
+title: R Interface to W3C Markup Validation Services
+maintainer: Kurt Hornik
+description: |2-
+
+  R interface to a W3C Markup Validation service.
+  See <http://validator.w3.org/> for more information.
+date_publication: '2017-02-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=W3CMarkupValidator
+url_git: ''

@@ -1,0 +1,12 @@
+version: '1.1'
+title: 2D Cartesian Coordinate Transformation
+maintainer: German Carrillo
+description: A package for applying affine and similarity transformations on vector
+  spatial data (sp objects). Transformations can be defined from control points or
+  directly from parameters. If redundant control points are provided Least Squares
+  is applied allowing to obtain residuals and RMSE.
+date_publication: '2014-10-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=vec2dtransf
+url_git: ''

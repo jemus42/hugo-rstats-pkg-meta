@@ -1,0 +1,13 @@
+version: 0.1-21
+title: Regression with Functional Data
+maintainer: Julia Wrobel
+description: |-
+  Methods for regression for functional
+  data, including function-on-scalar, scalar-on-function, and
+  function-on-function regression. Some of the functions are applicable to
+  image data.
+date_publication: '2019-12-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=refund
+url_git: ''

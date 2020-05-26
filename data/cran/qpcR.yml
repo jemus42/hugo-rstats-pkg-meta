@@ -1,0 +1,11 @@
+version: 1.4-1
+title: Modelling and Analysis of Real-Time PCR Data
+maintainer: Andrej-Nikolai Spiess
+description: Model fitting, optimal model selection and calculation of various features
+  that are essential in the analysis of quantitative real-time polymerase chain reaction
+  (qPCR).
+date_publication: '2018-06-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=qpcR
+url_git: ''

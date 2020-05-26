@@ -1,0 +1,12 @@
+version: 0.4.2
+title: React Helpers
+maintainer: Kent Russell
+description: |-
+  Make it easy to use 'React' in R with 'htmlwidget' scaffolds,
+  helper dependency functions, an embedded 'Babel' 'transpiler',
+  and examples.
+date_publication: '2020-01-24'
+bug_reports: https://github.com/react-R/reactR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=reactR
+url_git: https://github.com/react-R/reactR

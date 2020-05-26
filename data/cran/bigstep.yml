@@ -1,0 +1,13 @@
+version: 1.0.3
+title: Stepwise Selection for Large Data Sets
+maintainer: Piotr Szulc
+description: |-
+  Selecting linear and generalized linear models for large data sets
+  using modified stepwise procedure and modern selection criteria (like
+  modifications of Bayesian Information Criterion). Selection can be
+  performed on data which exceed RAM capacity.
+date_publication: '2019-07-25'
+bug_reports: http://github.com/pmszulc/bigstep/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bigstep
+url_git: http://github.com/pmszulc/bigstep

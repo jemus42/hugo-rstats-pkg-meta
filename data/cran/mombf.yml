@@ -1,0 +1,12 @@
+version: 2.2.9
+title: |-
+  Bayesian Model Selection and Averaging for Non-Local and Local
+  Priors
+maintainer: David Rossell
+description: Bayesian model selection and averaging for regression and mixtures for
+  non-local and selected local priors.
+date_publication: '2019-12-06'
+bug_reports: https://github.com/davidrusi/mombf/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mombf
+url_git: https://github.com/davidrusi/mombf

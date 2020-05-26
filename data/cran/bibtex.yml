@@ -1,0 +1,9 @@
+version: 0.4.2.2
+title: Bibtex Parser
+maintainer: Romain Francois
+description: Utility to parse a bibtex file.
+date_publication: '2020-01-02'
+bug_reports: https://github.com/romainfrancois/bibtex/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bibtex
+url_git: https://github.com/romainfrancois/bibtex

@@ -1,0 +1,11 @@
+version: '0.1'
+title: Rasterize Graphical Output
+maintainer: Paul Murrell
+description: |-
+  Provides R functions to selectively rasterize components
+  of 'grid' output.
+date_publication: '2019-03-06'
+bug_reports: ''
+url: https://stattech.wordpress.fos.auckland.ac.nz/2018/05/25/2018-05-selective-raster-graphics/
+url_cran: https://CRAN.R-project.org/package=rasterize
+url_git: https://github.com/pmur002/rasterize

@@ -1,0 +1,16 @@
+version: 0.0.1
+title: Build a Meta-Package Universe
+maintainer: Michael Wayne Kearney
+description: |-
+  Build your own universe of packages similar to the 'tidyverse'
+  package <https://tidyverse.org/> with this meta-package creator. Create a
+  package-verse, or meta package, by supplying a custom name for the
+  collection of packages and the vector of desired package names to include–
+  and optionally supply a destination directory, an indicator of whether to
+  keep the created package directory, and/or a vector of verbs implement via
+  the 'usethis' <http://usethis.r-lib.org/> package.
+date_publication: '2018-11-14'
+bug_reports: https://github.com/mkearney/pkgverse/issues
+url: https://pkgverse.mikewk.com
+url_cran: https://CRAN.R-project.org/package=pkgverse
+url_git: ''

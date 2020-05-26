@@ -1,0 +1,13 @@
+version: 0.2.0
+title: Japanese Utility Functions and Data
+maintainer: Shinya Uryu
+description: |-
+  Some data treated by the Japanese R user require
+  unique operations and processing. These are caused by address, Kanji,
+  and traditional year representations.  'zipangu' transforms specific
+  to Japan into something more general one.
+date_publication: '2020-01-10'
+bug_reports: https://github.com/uribo/zipangu/issues
+url: https://uribo.github.io/zipangu
+url_cran: https://CRAN.R-project.org/package=zipangu
+url_git: https://github.com/uribo/zipangu

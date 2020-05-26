@@ -1,0 +1,11 @@
+version: '0.1'
+title: Multivariate Analogy of Quantiles
+maintainer: Somedip Karmakar
+description: Could be used to obtain spatial depths, spatial ranks and outliers of
+  multivariate random variables. Could also be used to visualize DD-plots (a multivariate
+  generalization of QQ-plots).
+date_publication: '2015-12-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=depth.plot
+url_git: ''

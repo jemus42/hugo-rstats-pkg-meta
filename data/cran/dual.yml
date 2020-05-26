@@ -1,0 +1,14 @@
+version: 0.0.3
+title: Automatic Differentiation with Dual Numbers
+maintainer: Luca Sartore
+description: |-
+  Automatic differentiation is achieved by using dual numbers without
+  providing hand-coded gradient functions. The output value of a mathematical
+  function is returned with the values of its exact first derivative
+  (or gradient). For more details see Baydin, Pearlmutter, Radul, and Siskind
+  (2018) <http://jmlr.org/papers/volume18/17-468/17-468.pdf>.
+date_publication: '2019-12-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dual
+url_git: ''

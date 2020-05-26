@@ -1,0 +1,14 @@
+version: 2.2-5.6
+title: |-
+  Smoothing Methods for Nonparametric Regression and Density
+  Estimation
+maintainer: Adrian Bowman
+description: |-
+  This is software linked to the book
+  'Applied Smoothing Techniques for Data Analysis -
+  The Kernel Approach with S-Plus Illustrations' Oxford University Press.
+date_publication: '2018-09-27'
+bug_reports: ''
+url: http://www.stats.gla.ac.uk/~adrian/sm
+url_cran: https://CRAN.R-project.org/package=sm
+url_git: ''

@@ -1,0 +1,9 @@
+version: 0.1.4
+title: Multiple Ordinal Tobit (MOT) Model
+maintainer: Marvin N. Wright
+description: Fit right censored Multiple Ordinal Tobit (MOT) model.
+date_publication: '2017-05-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lmmot
+url_git: ''

@@ -1,0 +1,11 @@
+version: '0.5'
+title: Latent Variable Models with Censored and Binary Outcomes
+maintainer: Klaus K. Holst
+description: |-
+  Lava plugin allowing combinations of left and right censored and
+  binary outcomes.
+date_publication: '2017-03-31'
+bug_reports: https://github.com/kkholst/lava.tobit/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=lava.tobit
+url_git: https://github.com/kkholst/lava.tobit

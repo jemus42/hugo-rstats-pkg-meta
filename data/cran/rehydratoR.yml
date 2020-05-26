@@ -1,0 +1,14 @@
+version: 0.5.2
+title: Downloads Tweets from a List of Tweet IDs
+maintainer: Kevin Coakley
+description: |-
+  Facilitates replication of Twitter-based research by handling
+  common programming tasks needed when downloading tweets.  Specifically, it ensures a
+  user does not exceed Twitter’s rate limits, and it saves tweets in moderately sized files.
+  While a user could perform these tasks in their own code, doing so may be beyond the
+  capabilities of many users.
+date_publication: '2019-02-08'
+bug_reports: https://github.com/kevincoakley/rehydratoR/issues
+url: https://kevincoakley.github.io/rehydratoR/
+url_cran: https://CRAN.R-project.org/package=rehydratoR
+url_git: ''

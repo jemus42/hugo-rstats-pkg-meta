@@ -1,0 +1,15 @@
+version: 0.1.6
+title: Utilities for Multi-Label Learning
+maintainer: Adriano Rivolli
+description: |-
+  Multi-label learning strategies and others procedures to support multi-
+  label classification in R. The package provides a set of multi-label procedures such as
+  sampling methods, transformation strategies, threshold functions, pre-processing
+  techniques and evaluation metrics. A complete overview of the matter can be seen in
+  Zhang, M. and Zhou, Z. (2014) <doi:10.1109/TKDE.2013.39> and Gibaja, E. and
+  Ventura, S. (2015) A Tutorial on Multi-label Learning.
+date_publication: '2020-02-07'
+bug_reports: https://github.com/rivolli/utiml
+url: ''
+url_cran: https://CRAN.R-project.org/package=utiml
+url_git: https://github.com/rivolli/utiml

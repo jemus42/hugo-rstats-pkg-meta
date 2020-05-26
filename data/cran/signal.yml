@@ -1,0 +1,13 @@
+version: 0.7-6
+title: Signal Processing
+maintainer: Uwe Ligges
+description: |-
+  A set of signal processing functions originally written for 'Matlab' and 'Octave'.
+  Includes filter generation utilities, filtering functions,
+  resampling routines, and visualization of filter models. It also
+  includes interpolation functions.
+date_publication: '2015-07-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=signal
+url_git: ''

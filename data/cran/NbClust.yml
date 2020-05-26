@@ -1,0 +1,11 @@
+version: '3.0'
+title: Determining the Best Number of Clusters in a Data Set
+maintainer: Malika Charrad
+description: It provides 30 indexes for determining the optimal number of clusters
+  in a data set and offers the best clustering scheme from different results to the
+  user.
+date_publication: '2015-04-13'
+bug_reports: ''
+url: https://sites.google.com/site/malikacharrad/research/nbclust-package
+url_cran: https://CRAN.R-project.org/package=NbClust
+url_git: ''

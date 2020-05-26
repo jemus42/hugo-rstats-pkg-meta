@@ -1,0 +1,10 @@
+version: 0.3.2
+title: Get 'Cryptocurrencies' Market Cap Prices from Coin Market Cap
+maintainer: AbdulMajedRaja RS
+description: Extract and monitor price and market cap of 'Cryptocurrencies' from 'Coin
+  Market Cap' <https://coinmarketcap.com/api/>.
+date_publication: '2020-03-25'
+bug_reports: https://github.com/amrrs/coinmarketcapr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=coinmarketcapr
+url_git: http://github.com/amrrs/coinmarketcapr

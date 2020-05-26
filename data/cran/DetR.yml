@@ -1,0 +1,13 @@
+version: 0.0.5
+title: |-
+  Suite of Deterministic and Robust Algorithms for Linear
+  Regression
+maintainer: Kaveh Vakili
+description: |-
+  DetLTS, DetMM (and DetS) Algorithms for Deterministic, Robust
+  Linear Regression.
+date_publication: '2018-05-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DetR
+url_git: ''

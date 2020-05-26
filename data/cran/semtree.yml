@@ -1,0 +1,17 @@
+version: 0.9.14
+title: Recursive Partitioning for Structural Equation Models
+maintainer: Andreas M. Brandmaier
+description: |-
+  SEM Trees and SEM Forests -- an extension of model-based decision
+  trees and forests to Structural Equation Models (SEM). SEM trees hierarchically
+  split empirical data into homogeneous groups sharing similar data patterns
+  with respect to a SEM by recursively selecting optimal predictors of these
+  differences. SEM forests are an extension of SEM trees. They are ensembles of
+  SEM trees each built on a random sample of the original data. By aggregating
+  over a forest, we obtain measures of variable importance that are more robust
+  than measures from single trees.
+date_publication: '2020-01-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=semtree
+url_git: ''

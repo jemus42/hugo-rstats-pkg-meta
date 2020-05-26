@@ -1,0 +1,9 @@
+version: 3.2.1
+title: Random Fields (and Bridges) Simulations
+maintainer: Alexandre Brouste
+description: Tools for random fields and bridges simulations.
+date_publication: '2015-03-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FieldSim
+url_git: ''

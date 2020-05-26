@@ -1,0 +1,12 @@
+version: 1.0.2
+title: |-
+  Functions and Datasets to Accompany the Book "The R Software:
+  Fundamentals of Programming and Statistical Analysis"
+maintainer: Pierre Lafaye de Micheaux
+description: 'Functions and datasets for the reader of the book "The R Software: Fundamentals
+  of Programming and Statistical Analysis".'
+date_publication: '2018-05-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TRSbook
+url_git: ''

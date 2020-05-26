@@ -1,0 +1,11 @@
+version: '0.24'
+title: Power Calculations for SNP Studies with Censored Outcomes
+maintainer: Alexander Sibley
+description: Conduct asymptotic and empirical power and sample size calculations for
+  Single-Nucleotide Polymorphism (SNP) association studies with right censored time
+  to event outcomes.
+date_publication: '2016-06-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=survSNP
+url_git: https://bitbucket.org/kowzar/survsnp

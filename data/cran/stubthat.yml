@@ -1,0 +1,9 @@
+version: 1.2.1
+title: Stubbing Framework for R
+maintainer: Sainath Adapa
+description: Create stubs of functions for use while testing.
+date_publication: '2018-01-13'
+bug_reports: https://github.com/sainathadapa/stubthat/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=stubthat
+url_git: https://github.com/sainathadapa/stubthat

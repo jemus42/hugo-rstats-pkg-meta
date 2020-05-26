@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Computes and Compares Species Richnesses
+maintainer: Jean-Pierre Rossi
+description: |-
+  Computes rarefaction curves, cumulated and mean species
+  richness. Compares these estimates by means of randomization
+  tests.
+date_publication: '2016-08-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rich
+url_git: ''

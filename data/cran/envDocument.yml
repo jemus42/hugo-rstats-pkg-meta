@@ -1,0 +1,13 @@
+version: 2.4.1
+title: Document the R Working Environment
+maintainer: Donald Jackson
+description: |-
+  Prints out information about the R working environment
+  (system, R version,loaded and attached packages and versions) from a single
+  function "env_doc()".  Optionally adds information on git repository,
+  tags, commits and remotes (if available).
+date_publication: '2019-08-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=envDocument
+url_git: https://github.com/dgJacks0n/envDocument

@@ -1,0 +1,18 @@
+version: 0.1.0
+title: |-
+  Spatial Simulation and Scale-Dependent Analysis of Biodiversity
+  Changes
+maintainer: Felix May
+description: |-
+  Tools for the simulation, analysis and sampling of spatial
+  biodiversity data (May et al. 2017) <doi:10.1101/209502>.
+  In the simulation tools user define the numbers of
+  species and individuals, the species abundance distribution and species
+  aggregation. Functions for analysis include species rarefaction
+  and accumulation curves, species-area relationships and the distance
+  decay of similarity.
+date_publication: '2017-11-02'
+bug_reports: https://github.com/MoBiodiv/mobsim
+url: ''
+url_cran: https://CRAN.R-project.org/package=mobsim
+url_git: http://github.com/MoBiodiv/mobsim

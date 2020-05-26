@@ -1,0 +1,12 @@
+version: 0.6.0.0
+title: Stan-Based Fit to Gastric Emptying Curves
+maintainer: Dieter Menne
+description: |-
+  Stan-based curve-fitting function
+  for use with package 'breathtestcore' by the same author.
+  Stan functions are refactored here for easier testing.
+date_publication: '2020-03-22'
+bug_reports: https://github.com/dmenne/breathteststan/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=breathteststan
+url_git: https://github.com/dmenne/breathteststan

@@ -1,0 +1,11 @@
+version: '0.1'
+title: Score Equity Assessment- summary index computation
+maintainer: Anne Corinne Huggins-Manley
+description: This package conducts Score Equity Assessment (SEA; Dorans, 2004) by
+  calculating and plotting multiple SEA indices as introduced by a variety of authors
+  and summarized by Huggins and Penfield (2012).
+date_publication: '2014-11-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SEAsic
+url_git: ''

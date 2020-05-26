@@ -1,0 +1,13 @@
+version: 0.5.3
+title: Tools for working with the National Hydrography Dataset
+maintainer: Joseph Stachelek
+description: |-
+  Tools for working with the National Hydrography Dataset, with
+  functions for querying, downloading, and networking both the NHD
+  <https://www.usgs.gov/core-science-systems/ngp/national-hydrography>
+  and NHDPlus <https://nhdplus.com/NHDPlus/> datasets.
+date_publication: '2020-03-23'
+bug_reports: https://github.com/jsta/nhdR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=nhdR
+url_git: https://github.com/jsta/nhdR

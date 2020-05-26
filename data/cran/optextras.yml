@@ -1,0 +1,18 @@
+version: 2019-12.4
+title: Tools to Support Optimization Possibly with Bounds and Masks
+maintainer: John C Nash
+description: |-
+  Tools to assist in safely applying user generated objective and
+  derivative function to optimization programs. These are primarily function
+  minimization methods with at most bounds and masks on the parameters.
+  Provides a way to check the basic computation of objective functions that
+  the user provides, along with proposed gradient and Hessian functions,
+  as well as to wrap such functions to avoid failures when inadmissible parameters
+  are provided. Check bounds and masks. Check scaling or optimality conditions.
+  Perform an axial search to seek lower points on the objective function surface.
+  Includes forward, central and backward gradient approximation codes.
+date_publication: '2019-12-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=optextras
+url_git: ''

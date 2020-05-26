@@ -1,0 +1,11 @@
+version: '0.6'
+title: Alpha-NOMINATE Ideal Point Estimator
+maintainer: Christopher Hare
+description: 'Fits ideal point model described in Carroll, Lewis, Lo, Poole and Rosenthal
+  (2013), "The Structure of Utility in Models of Spatial Voting," American Journal
+  of Political Science 57(4): 1008--1028, <doi:10.1111/ajps.12029>.'
+date_publication: '2017-10-08'
+bug_reports: ''
+url: http://k7moa.com/alphanominate.htm
+url_cran: https://CRAN.R-project.org/package=anominate
+url_git: ''

@@ -1,0 +1,18 @@
+version: 0.9.1
+title: |-
+  Provide namespace managment functions not (yet) present in base
+  R
+maintainer: Gregory R. Warnes
+description: |-
+  This package provides user-level functions to manage
+  namespaces not (yet) available in base R: 'registerNamespace',
+  'unregisterNamespace', 'makeNamespace', and
+  'getRegisteredNamespace'
+
+  ('makeNamespaces' is extracted from the R 'base' package source code:
+  src/library/base/R/namespace.R)
+date_publication: '2012-09-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=namespace
+url_git: ''

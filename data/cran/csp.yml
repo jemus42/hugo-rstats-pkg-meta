@@ -1,0 +1,9 @@
+version: 0.1.0
+title: Correlates of State Policy Data Set in R
+maintainer: Eric Persson
+description: Provides the Correlates of State Policy data set for easy use in R.
+date_publication: '2016-07-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=csp
+url_git: http://ippsr.msu.edu/public-policy/correlates-state-policyhttps://github.com/expersso/csp

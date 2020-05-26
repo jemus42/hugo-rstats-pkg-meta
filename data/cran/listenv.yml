@@ -1,0 +1,12 @@
+version: 0.8.0
+title: Environments Behaving (Almost) as Lists
+maintainer: Henrik Bengtsson
+description: List environments are environments that have list-like properties.  For
+  instance, the elements of a list environment are ordered and can be accessed and
+  iterated over using index subsetting, e.g. 'x <- listenv(a = 1, b = 2); for (i in
+  seq_along(x)) x[[i]] <- x[[i]] ^ 2; y <- as.list(x)'.
+date_publication: '2019-12-05'
+bug_reports: https://github.com/HenrikBengtsson/listenv/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=listenv
+url_git: https://github.com/HenrikBengtsson/listenv

@@ -1,0 +1,16 @@
+version: 1.1.0
+title: Automated Test Assembly
+maintainer: Michael Chajewski
+description: |-
+  Provides a collection of psychometric methods to process item metadata
+  and use target assessment and measurement blueprint constraints to assemble a test form. Currently two automatic
+  test assembly (ata) approaches are enabled. For example, the weighted (positive) deviations method, wdm(), proposed
+  by Swanson and Stocking (1993) <doi:10.1177/014662169301700205> was implemented in its full specification allowing
+  for both item selection as well as test form refinement. The linear constraint programming approach, atalp(), uses the
+  linear equation solver by Berkelaar et. al (2014) <http://lpsolve.sourceforge.net/5.5/>
+  to enable a variety of approaches to select items.
+date_publication: '2020-05-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ata
+url_git: ''

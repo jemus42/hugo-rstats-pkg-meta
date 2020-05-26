@@ -1,0 +1,9 @@
+version: 0.10-47
+title: Time Series Analysis and Computational Finance
+maintainer: Kurt Hornik
+description: Time series analysis and computational finance.
+date_publication: '2019-06-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tseries
+url_git: ''

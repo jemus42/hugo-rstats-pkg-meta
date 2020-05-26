@@ -1,0 +1,12 @@
+version: 0.99.3
+title: 'Community Assembly by Traits: Individuals and Beyond'
+maintainer: Adrien Taudiere
+description: Detect and quantify community assembly processes using trait values of
+  individuals or populations, the T-statistics (Violle et al. (2012) <doi:10.1016/j.tree.2011.11.014>)
+  and other metrics, and dedicated null models described in Taudiere & Violle (2016)
+  <doi:10.1111/ecog.01433>.
+date_publication: '2020-03-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cati
+url_git: https://github.com/adrientaudiere/cati

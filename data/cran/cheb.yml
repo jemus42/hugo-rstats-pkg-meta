@@ -1,0 +1,9 @@
+version: '0.3'
+title: Discrete Linear Chebyshev Approximation
+maintainer: Jan de Leeuw
+description: Discrete Linear Chebyshev Approximation
+date_publication: '2013-02-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cheb
+url_git: ''

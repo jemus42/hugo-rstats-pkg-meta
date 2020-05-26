@@ -1,0 +1,11 @@
+version: '0.2'
+title: Use R for Fun
+maintainer: Yihui Xie
+description: |-
+  This is a collection of R games and other funny stuff, such as the
+  classic Mine sweeper and sliding puzzles.
+date_publication: '2018-12-05'
+bug_reports: https://github.com/yihui/fun/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=fun
+url_git: https://github.com/yihui/fun

@@ -1,0 +1,10 @@
+version: 0.9-21
+title: Analysis of Quaternary Science Data
+maintainer: Steve Juggins
+description: Constrained clustering, transfer functions, and other methods for analysing
+  Quaternary science data.
+date_publication: '2019-04-23'
+bug_reports: ''
+url: http://www.staff.ncl.ac.uk/stephen.juggins/
+url_cran: https://CRAN.R-project.org/package=rioja
+url_git: ''

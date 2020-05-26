@@ -1,0 +1,17 @@
+version: 1.1.0
+title: Efficient Sampling on the Simplex
+maintainer: Scott Vander Wiel
+description: |-
+  The SALTSampler package facilitates Monte Carlo Markov Chain (MCMC)
+  sampling of random variables on a simplex. A Self-Adjusting Logit Transform
+  (SALT) proposal is used so that sampling is still efficient even in difficult
+  cases, such as those in high dimensions or with parameters that differ by orders
+  of magnitude. Special care is also taken to maintain accuracy even when some
+  coordinates approach 0 or 1 numerically. Diagnostic and graphic functions are
+  included in the package, enabling easy assessment of the convergence and mixing
+  of the chain within the constrained space.
+date_publication: '2017-08-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SALTSampler
+url_git: ''

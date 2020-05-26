@@ -1,0 +1,14 @@
+version: 1.0.0
+title: Sampler for Verification Studies
+maintainer: Paul C. Boutros
+description: |-
+  A binding for the 'valection' program which offers various ways to
+  sample the outputs of competing algorithms or parameterizations, and fairly
+  assess their performance against each other. The 'valection' C library is
+  required to use this package and can be downloaded from:
+  <http://labs.oicr.on.ca/boutros-lab/software/valection>. Cooper CI, et al; Valection: Design Optimization for Validation and Verification Studies; Biorxiv 2018; <doi:10.1101/254839>.
+date_publication: '2018-02-06'
+bug_reports: ''
+url: http://labs.oicr.on.ca/boutros-lab/software/valection
+url_cran: https://CRAN.R-project.org/package=valection
+url_git: ''

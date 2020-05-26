@@ -1,0 +1,10 @@
+version: '0.4'
+title: Non-Parametric Tests of Independence Between Random Vectors
+maintainer: Pierre Lafaye De Micheaux
+description: Functions for non-parametric tests of independence (mutual or serial)
+  between some quantitative random vectors.
+date_publication: '2020-04-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IndependenceTests
+url_git: ''

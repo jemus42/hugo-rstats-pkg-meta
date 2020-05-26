@@ -1,0 +1,13 @@
+version: 1.1.1
+title: |-
+  Efficient Bayesian Inference for Time-Varying Parameter Models
+  with Shrinkage
+maintainer: Peter Knaus
+description: Efficient Markov chain Monte Carlo (MCMC) algorithms for fully Bayesian
+  estimation of time-varying parameter models with shrinkage priors. Details on the
+  algorithms used are provided in Bitto and Frühwirth-Schnatter (2019) <doi:10.1016/j.jeconom.2018.11.006>.
+date_publication: '2019-10-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=shrinkTVP
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.1.0
+title: |-
+  Shiny User Interface for Multiple Source Capture Recapture
+  Models
+maintainer: Ian E. Fellows
+description: |-
+  Implements user interfaces for log-linear models, Bayesian model averaging and
+  Bayesian Dirichlet process mixture models.
+date_publication: '2019-01-19'
+bug_reports: ''
+url: https://fellstat.github.io/shinyrecap/
+url_cran: https://CRAN.R-project.org/package=shinyrecap
+url_git: ''

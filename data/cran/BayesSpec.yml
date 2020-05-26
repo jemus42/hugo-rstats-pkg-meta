@@ -1,0 +1,14 @@
+version: 0.5.3
+title: Bayesian Spectral Analysis Techniques
+maintainer: Andrew Ferris
+description: 'An implementation of methods for spectral analysis using the Bayesian
+  framework. It includes functions for modelling spectrum as well as appropriate plotting
+  and output estimates. There is segmentation capability with RJ MCMC (Reversible
+  Jump Markov Chain Monte Carlo). The package takes these methods predominantly from
+  the 2012 paper "AdaptSPEC: Adaptive Spectral Estimation for Nonstationary Time Series"
+  <DOI:10.1080/01621459.2012.716340>.'
+date_publication: '2017-02-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BayesSpec
+url_git: ''

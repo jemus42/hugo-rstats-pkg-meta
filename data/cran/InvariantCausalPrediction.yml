@@ -1,0 +1,11 @@
+version: '0.8'
+title: Invariant Causal Prediction
+maintainer: Nicolai Meinshausen
+description: Confidence intervals for causal effects, using data collected in different
+  experimental or environmental conditions. Hidden variables can be included in the
+  model with a more experimental version.
+date_publication: '2019-11-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=InvariantCausalPrediction
+url_git: ''

@@ -1,0 +1,15 @@
+version: 0.5.1
+title: snp.plotter
+maintainer: Augustin Luna
+description: |-
+  Creates plots of p-values using single SNP and/or haplotype data.
+  Main features of the package include options to display a linkage
+  disequilibrium (LD) plot and the ability to plot multiple datasets
+  simultaneously. Plots can be created using global and/or individual
+  haplotype p-values along with single SNP p-values. Images are created as
+  either PDF/EPS files.
+date_publication: '2014-02-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=snp.plotter
+url_git: https://github.com/cannin/snp_plotterorhttp://cbdb.nimh.nih.gov/~kristin/snp.plotter.html

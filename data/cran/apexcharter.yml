@@ -1,0 +1,14 @@
+version: 0.1.4
+title: |-
+  Create Interactive Chart with the JavaScript 'ApexCharts'
+  Library
+maintainer: Victor Perrier
+description: |-
+  Provides an 'htmlwidgets' interface to 'apexcharts.js'.
+  'Apexcharts' is a modern JavaScript charting library to build interactive charts and visualizations with simple API.
+  'Apexcharts' examples and documentation are available here: <https://apexcharts.com/>.
+date_publication: '2020-03-31'
+bug_reports: https://github.com/dreamRs/apexcharter/issues
+url: https://dreamrs.github.io/apexcharter
+url_cran: https://CRAN.R-project.org/package=apexcharter
+url_git: https://github.com/dreamRs/apexcharter

@@ -1,0 +1,11 @@
+version: 0.1.22
+title: Turner Miscellaneous
+maintainer: Stephen Turner
+description: |-
+  Miscellaneous utility functions for data manipulation,
+  data tidying, and working with gene expression data.
+date_publication: '2019-12-05'
+bug_reports: ''
+url: http://stephenturner.github.io/Tmisc
+url_cran: https://CRAN.R-project.org/package=Tmisc
+url_git: https://github.com/stephenturner/Tmisc

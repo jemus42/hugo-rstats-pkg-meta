@@ -1,0 +1,10 @@
+version: 1.0.4
+title: System Identification in R
+maintainer: Suraj Yerramilli
+description: Provides functions for constructing mathematical models of dynamical
+  systems from measured input-output data.
+date_publication: '2017-01-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sysid
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.2.12
+title: |-
+  Data Preparation, Estimation and Prediction in Multi-State
+  Models
+maintainer: Hein Putter
+description: Contains functions for data preparation, descriptives, hazard estimation
+  and prediction with Aalen-Johansen or simulation in competing risks and multi-state
+  models, see Putter, Fiocco, Geskus (2007) <doi:10.1002/sim.2712>.
+date_publication: '2019-12-11'
+bug_reports: ''
+url: https://www.lumc.nl/org/bds/research/medische-statistiek/survival-analysis/
+url_cran: https://CRAN.R-project.org/package=mstate
+url_git: ''

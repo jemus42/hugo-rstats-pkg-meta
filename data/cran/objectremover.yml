@@ -1,0 +1,15 @@
+version: 0.7.0
+title: |-
+  'RStudio' Addin for Removing Objects from the Global Environment
+  Based on Patterns and Object Type
+maintainer: Alan Yeung
+description: An 'RStudio' addin to assist with removing objects from the global environment.
+  Features include removing objects according to name patterns and object type. During
+  the course of an analysis, temporary objects are often created and this tool assists
+  with removing them quickly. This can be useful when memory management within 'R'
+  is important.
+date_publication: '2019-06-23'
+bug_reports: https://github.com/alan-y/objectremover/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=objectremover
+url_git: https://github.com/alan-y/objectremover

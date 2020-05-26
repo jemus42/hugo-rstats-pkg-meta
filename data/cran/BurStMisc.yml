@@ -1,0 +1,10 @@
+version: '1.1'
+title: Burns Statistics Miscellaneous
+maintainer: Pat Burns
+description: Script search, corner, genetic optimization, permutation tests, write
+  expect test.
+date_publication: '2016-08-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BurStMisc
+url_git: ''

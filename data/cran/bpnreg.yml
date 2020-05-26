@@ -1,0 +1,17 @@
+version: 1.0.3
+title: Bayesian Projected Normal Regression Models for Circular Data
+maintainer: Jolien Cremers
+description: |-
+  Fitting Bayesian multiple and mixed-effect regression models for
+  circular data based on the projected normal distribution. Both continuous
+  and categorical predictors can be included. Sampling from the posterior is
+  performed via an MCMC algorithm. Posterior descriptives of all parameters,
+  model fit statistics and Bayes factors for hypothesis tests for inequality
+  constrained hypotheses are provided. See Cremers, Mulder & Klugkist (2018)
+  <doi:10.1111/bmsp.12108> and Nuñez-Antonio & Guttiérez-Peña (2014)
+  <doi:10.1016/j.csda.2012.07.025>.
+date_publication: '2020-02-04'
+bug_reports: https://github.com/joliencremers/bpnreg/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bpnreg
+url_git: https://github.com/joliencremers/bpnreg

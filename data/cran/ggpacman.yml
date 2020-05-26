@@ -1,0 +1,12 @@
+version: 0.1.0
+title: A 'ggplot2' and 'gganimate' Version of Pac-Man
+maintainer: Mickaël Canouil
+description: |-
+  A funny coding challenge to reproduce the game Pac-Man using 'ggplot2' and 'gganimate'.
+  It provides a pre-defined moves set for Pac-Man and the ghosts for the first level of the
+  game Pac-Man as well as polygon datasets to draw ghosts in 'ggplot2'.
+date_publication: '2020-05-16'
+bug_reports: https://github.com/mcanouil/pacman/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggpacman
+url_git: https://github.com/mcanouil/pacman

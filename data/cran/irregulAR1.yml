@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Functions for Irregularly Sampled AR(1) Processes
+maintainer: Benjamin Allévius
+description: |-
+  Simulation and density evaluation of irregularly sampled stationary
+  AR(1) processes with Gaussian errors using the algorithms described in
+  Allévius (2018) <arXiv:1801.03791>.
+date_publication: '2018-05-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=irregulAR1
+url_git: ''

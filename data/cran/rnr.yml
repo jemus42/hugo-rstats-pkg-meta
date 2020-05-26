@@ -1,0 +1,12 @@
+version: 0.2.1
+title: Rosenbaum and Rubin Sensitivity
+maintainer: Jongbin Jung
+description: |-
+  Apply sensitivity analysis for offline policy evaluation, as
+  implemented in Jung et al. (2017) <arXiv:1702.04690> based
+  on Rosenbaum and Rubin (1983) <http://www.jstor.org/stable/2345524>.
+date_publication: '2018-04-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rnr
+url_git: ''

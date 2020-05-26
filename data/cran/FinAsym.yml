@@ -1,0 +1,13 @@
+version: '1.0'
+title: Classifies implicit trading activity from market quotes and<U+000a>computes
+  the probability of informed trading
+maintainer: Paolo Zagaglia
+description: 'This package accomplishes two tasks: a) it classifies<U+000a>implicit
+  trading activity from quotes in OTC markets using the<U+000a>algorithm of Lee and
+  Ready (1991); b) based on information for<U+000a>trade initiation, the package computes
+  the probability of<U+000a>informed trading of Easley and O''Hara (1987).'
+date_publication: '2012-04-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FinAsym
+url_git: ''

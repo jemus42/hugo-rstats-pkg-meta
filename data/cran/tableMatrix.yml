@@ -1,0 +1,14 @@
+version: 0.82.0
+title: Combines 'data.table' and 'matrix' Classes
+maintainer: Petr Lenhard
+description: |-
+  Provides two classes extending 'data.table' class. Simple
+  'tableList' class wraps 'data.table' and any additional structures together.
+  More complex 'tableMatrix' class combines 'data.table' and
+  'matrix'. See <http://github.com/InferenceTechnologies/tableMatrix> for more
+  information and examples.
+date_publication: '2018-06-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tableMatrix
+url_git: ''

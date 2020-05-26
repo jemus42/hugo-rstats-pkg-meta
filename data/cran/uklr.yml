@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Client to United Kingdom Land Registry
+maintainer: Kostas Vasilopoulos
+description: |-
+  Access data from Land Registry Open Data
+  <http://landregistry.data.gov.uk/> through 'SPARQL' queries. 'uklr'
+  supports the house price index, transaction and price paid data.
+date_publication: '2020-04-14'
+bug_reports: https://github.com/kvasilopoulos/uklr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=uklr
+url_git: https://github.com/kvasilopoulos/uklr

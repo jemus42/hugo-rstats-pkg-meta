@@ -1,0 +1,12 @@
+version: 1.5.1
+title: FISH Based Normalization and Copy Number inference of SNP<U+000a>microarray
+  data
+maintainer: Luca Agnelli
+description: Normalizes the data from a file containing the raw values<U+000a>of the
+  SNP probes of microarrray data by using the FISH probes<U+000a>and their corresponding
+  CNs.
+date_publication: '2012-03-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FBN
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.2.3
+title: Report Functions to Create HTML and PDF Files
+maintainer: Richard Hooijmaijers
+description: |-
+  Create and combine HTML and PDF reports from within R.
+  Possibility to design tables and listings for reporting and also include R plots.
+date_publication: '2020-03-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=R3port
+url_git: https://github.com/RichardHooijmaijers/R3port

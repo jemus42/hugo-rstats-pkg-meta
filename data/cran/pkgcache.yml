@@ -1,0 +1,12 @@
+version: 1.0.7
+title: Cache 'CRAN'-Like Metadata and R Packages
+maintainer: Gábor Csárdi
+description: |-
+  Metadata and package cache for CRAN-like repositories.
+  This is a utility package to be used by package management tools
+  that want to take advantage of caching.
+date_publication: '2020-04-18'
+bug_reports: https://github.com/r-lib/pkgcache/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pkgcache
+url_git: https://github.com/r-lib/pkgcache#readme

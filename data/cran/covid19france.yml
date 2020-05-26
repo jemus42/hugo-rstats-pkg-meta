@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Cases of COVID-19 in France
+maintainer: Amanda Dobbyn
+description: |-
+  Imports and cleans 'opencovid19-fr'
+  <https://github.com/opencovid19-fr/data> data on COVID-19 in France.
+date_publication: '2020-04-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=covid19france
+url_git: ''

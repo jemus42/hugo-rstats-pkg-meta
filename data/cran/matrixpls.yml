@@ -1,0 +1,14 @@
+version: 1.0.9
+title: Matrix-Based Partial Least Squares Estimation
+maintainer: Mikko Rönkkö
+description: |-
+  Partial Least Squares Path Modeling
+  algorithm and related algorithms. The algorithm implementations aim for
+  computational efficiency using matrix algebra and covariance data. The
+  package is designed toward Monte Carlo simulations and includes functions
+  to perform simple Monte Carlo simulations.
+date_publication: '2020-03-02'
+bug_reports: https://github.com/mronkko/matrixpls/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=matrixpls
+url_git: https://github.com/mronkko/matrixpls

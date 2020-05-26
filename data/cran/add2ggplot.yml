@@ -1,0 +1,9 @@
+version: 0.3.0
+title: Add to 'ggplot2'
+maintainer: Jiaxiang Li
+description: Create 'ggplot2' themes and color palettes.
+date_publication: '2020-02-07'
+bug_reports: https://github.com/JiaxiangBU/add2ggplot/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=add2ggplot
+url_git: https://github.com/JiaxiangBU/add2ggplot

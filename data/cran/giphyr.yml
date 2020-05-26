@@ -1,0 +1,15 @@
+version: 0.2.0
+title: R Interface to the Giphy API
+maintainer: Hao Zhu
+description: |-
+  An interface to the 'API' of 'Giphy', a popular index-based search
+  engine for 'GIFs' and animated stickers (see <http://giphy.com/faq> and
+  <https://github.com/Giphy/GiphyAPI> for more information about 'Giphy' and
+  its 'API') . This package also provides a 'RStudio Addin', which can help
+  users easily search and download 'GIFs' and insert them to a 'rmarkdown'
+  presentation.
+date_publication: '2019-04-30'
+bug_reports: https://github.com/haozhu233/giphyr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=giphyr
+url_git: https://github.com/haozhu233/giphyr

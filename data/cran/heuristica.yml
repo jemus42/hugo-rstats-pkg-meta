@@ -1,0 +1,16 @@
+version: 1.0.2
+title: Heuristics Including Take the Best and Unit-Weight Linear
+maintainer: Jean Whitmore
+description: |-
+  Implements various heuristics like Take The Best and
+  unit-weight linear, which do two-alternative choice: which of
+  two objects will have a higher criterion?  Also offers functions
+  to assess performance, e.g. percent correct across all row pairs
+  in a data set and finding row pairs where models disagree.
+  New models can be added by implementing a fit and predict function--
+  see vignette.
+date_publication: '2019-08-21'
+bug_reports: https://github.com/jeanimal/heuristica/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=heuristica
+url_git: https://github.com/jeanimal/heuristica

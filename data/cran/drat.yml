@@ -1,0 +1,14 @@
+version: 0.1.5
+title: '''Drat'' R Archive Template'
+maintainer: Dirk Eddelbuettel
+description: |-
+  Creation and use of R Repositories via helper functions
+  to insert packages into a repository, and to add repository information
+  to the current R session. Two primary types of repositories are support:
+  gh-pages at GitHub, as well as local repositories on either the same machine
+  or a local network. Drat is a recursive acronym: Drat R Archive Template.
+date_publication: '2019-03-28'
+bug_reports: https://github.com/eddelbuettel/drat/issues
+url: http://dirk.eddelbuettel.com/code/drat.html
+url_cran: https://CRAN.R-project.org/package=drat
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.3.4
+title: Geostatistical Analysis in R
+maintainer: Joshua French
+description: Implements common geostatistical methods in a clean, straightforward,
+  efficient manner. The methods are discussed in Schabenberger and Gotway (2004, <ISBN:9781584883227>)
+  and Waller and Gotway (2004, <ISBN:9780471387718>).
+date_publication: '2020-04-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gear
+url_git: ''

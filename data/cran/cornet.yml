@@ -1,0 +1,11 @@
+version: 0.0.4
+title: Elastic Net with Dichotomised Outcomes
+maintainer: Armin Rauschenberger
+description: Implements lasso and ridge regression for dichotomised outcomes (Rauschenberger
+  et al. 2019). Such outcomes are not naturally but artificially binary. They indicate
+  whether an underlying measurement is greater than a threshold.
+date_publication: '2020-03-18'
+bug_reports: https://github.com/rauschenberger/cornet/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=cornet
+url_git: https://github.com/rauschenberger/cornet

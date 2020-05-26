@@ -1,0 +1,10 @@
+version: 0.1-5
+title: Fast Covariance Estimation for Sparse Functional Data
+maintainer: Luo Xiao
+description: 'We implement the Fast Covariance Estimation for Sparse Functional Data
+  paper published in Statistics and Computing <doi: 10.1007/s11222-017-9744-8>.'
+date_publication: '2019-01-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=face
+url_git: ''

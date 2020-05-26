@@ -1,0 +1,14 @@
+version: 1.7-1
+title: Phase I/II Adaptive Dose-Finding Design for MTA
+maintainer: Jacques-Henri Jourdan
+description: |-
+  Phase I/II adaptive dose-finding design for single-agent
+  Molecularly Targeted Agent (MTA), according to the paper "Phase
+  I/II Dose-Finding Design for Molecularly Targeted Agent: Plateau
+  Determination using Adaptive Randomization", Riviere Marie-Karelle et
+  al. (2016) <doi:10.1177/0962280216631763>.
+date_publication: '2020-01-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dfmta
+url_git: ''

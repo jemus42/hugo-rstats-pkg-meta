@@ -1,0 +1,14 @@
+version: 7.1.0
+title: In-Line Documentation for R
+maintainer: Hadley Wickham
+description: |-
+  Generate your Rd documentation, 'NAMESPACE' file,
+  and collation field using specially formatted comments. Writing
+  documentation in-line with code makes it easier to keep your
+  documentation up-to-date as your requirements change. 'Roxygen2' is
+  inspired by the 'Doxygen' system for C++.
+date_publication: '2020-03-11'
+bug_reports: https://github.com/r-lib/roxygen2/issues
+url: https://roxygen2.r-lib.org/
+url_cran: https://CRAN.R-project.org/package=roxygen2
+url_git: https://github.com/r-lib/roxygen2

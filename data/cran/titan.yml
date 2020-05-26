@@ -1,0 +1,11 @@
+version: 1.0-16
+title: Titration analysis for mass spectrometry data
+maintainer: Tom Price
+description: |-
+  GUI to analyze mass spectrometric data on the relative
+  abundance of two substances from a titration series.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: http://sgdp.iop.kcl.ac.uk/tprice/software.html
+url_cran: https://CRAN.R-project.org/package=titan
+url_git: ''

@@ -1,0 +1,10 @@
+version: '1.1'
+title: Mixture Rasch Models with JMLE
+maintainer: John T. Willse
+description: Estimates Rasch models and mixture Rasch models, including the dichotomous
+  Rasch model, the rating scale model, and the partial credit model.
+date_publication: '2014-03-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mixRasch
+url_git: ''

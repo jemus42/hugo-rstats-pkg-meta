@@ -1,0 +1,12 @@
+version: '1.0'
+title: Regulatory DNA Element Prediction
+maintainer: Yupeng He
+description: Predicting regulatory DNA elements based on epigenomic signatures. This
+  package is more of a set of building blocks than a direct solution. REPTILE regulatory
+  prediction pipeline is built on this R package. See <https://github.com/yupenghe/REPTILE>
+  for more information.
+date_publication: '2016-06-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=REPTILE
+url_git: https://github.com/yupenghe/REPTILE

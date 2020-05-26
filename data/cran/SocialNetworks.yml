@@ -1,0 +1,10 @@
+version: '1.1'
+title: Generates social networks based on distance.
+maintainer: Glenna Nightingale
+description: 'Generates social networks using either of two<U+000a>approaches: using
+  either pairwise distances or territorial area intersections.'
+date_publication: '2014-08-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SocialNetworks
+url_git: ''

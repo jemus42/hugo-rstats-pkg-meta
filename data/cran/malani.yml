@@ -1,0 +1,11 @@
+version: '1.0'
+title: Machine Learning Assisted Network Inference
+maintainer: Mehrab Ghanat Bari
+description: Find dark genes. These genes are often disregarded due to no detected
+  mutation or differential expression, but are important in coordinating the functionality
+  in cancer networks.
+date_publication: '2016-09-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=malani
+url_git: ''

@@ -1,0 +1,10 @@
+version: '1.3'
+title: Define Segments in y-Axis for 'ggplot2'
+maintainer: Jiacheng Lou
+description: It is not very easy to define segments for y-axis in a 'ggplot2' plot.
+  gg.gap() function in this package can carry it out.
+date_publication: '2019-09-30'
+bug_reports: https://github.com/ChrisLou-bioinfo/gg.gap/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gg.gap
+url_git: https://github.com/ChrisLou-bioinfo/gg.gap

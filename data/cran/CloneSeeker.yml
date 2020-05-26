@@ -1,0 +1,13 @@
+version: 1.0.10
+title: Seeking and Finding Clones in Copy Number and Sequencing Data
+maintainer: Kevin R. Coombes
+description: |-
+  Defines the classes and functions used to simulate and
+  to analyze data sets describing copy number variants and,
+  optionally, sequencing mutations in order to detect clonal subsets.
+  See Zucker et al. (2019) <doi:10.1093/bioinformatics/btz057>.
+date_publication: '2020-04-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CloneSeeker
+url_git: http://oompa.r-forge.r-project.org/

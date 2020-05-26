@@ -1,0 +1,10 @@
+version: '1.0'
+title: Quantile Regression Forests for 'ranger'
+maintainer: Philipp Probst
+description: This is the implementation of quantile regression forests for the fast
+  random forest package 'ranger'.
+date_publication: '2017-12-15'
+bug_reports: https://github.com/PhilippPro/quantregRanger/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=quantregRanger
+url_git: https://github.com/PhilippPro/quantregRanger

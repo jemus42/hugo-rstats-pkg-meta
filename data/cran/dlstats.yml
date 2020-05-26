@@ -1,0 +1,12 @@
+version: 0.1.3
+title: Download Stats of R Packages
+maintainer: Guangchuang Yu
+description: |-
+  Monthly download stats of 'CRAN' and 'Bioconductor' packages.
+  Download stats of 'CRAN' packages is from the 'RStudio' 'CRAN mirror', see <http://cranlogs.r-pkg.org>.
+  'Bioconductor' package download stats is at <https://bioconductor.org/packages/stats/>.
+date_publication: '2019-11-14'
+bug_reports: https://github.com/GuangchuangYu/dlstats/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dlstats
+url_git: https://github.com/GuangchuangYu/dlstats

@@ -1,0 +1,9 @@
+version: '1.1'
+title: Compute SPI index
+maintainer: Josemir Neves
+description: Compute the SPI index using R
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spi
+url_git: ''

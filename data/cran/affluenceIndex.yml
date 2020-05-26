@@ -1,0 +1,11 @@
+version: '1.0'
+title: Affluence Indices
+maintainer: Alicja Wolny-Dominiak
+description: Computes the statistical indices of affluence (richness) and constructs
+  bootstrap confidence intervals for these indices. Also computes the Wolfson polarization
+  index.
+date_publication: '2017-03-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=affluenceIndex
+url_git: ''

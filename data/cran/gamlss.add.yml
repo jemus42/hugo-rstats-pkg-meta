@@ -1,0 +1,12 @@
+version: 5.1-6
+title: |-
+  Extra Additive Terms for Generalized Additive Models for
+  Location Scale and Shape
+maintainer: Mikis Stasinopoulos
+description: Interface for extra smooth functions including tensor products, neural
+  networks and decision trees.
+date_publication: '2020-02-03'
+bug_reports: ''
+url: http://www.gamlss.org/
+url_cran: https://CRAN.R-project.org/package=gamlss.add
+url_git: ''

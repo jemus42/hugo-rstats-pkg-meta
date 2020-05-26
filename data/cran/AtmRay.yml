@@ -1,0 +1,11 @@
+version: '1.31'
+title: Acoustic Traveltime Calculations for 1-D Atmospheric Models
+maintainer: Jake Anderson
+description: Calculates acoustic traveltimes and ray paths in 1-D,<U+000a>linear atmospheres.  Later
+  versions will support arbitrary 1-D<U+000a>atmospheric models, such as radiosonde
+  measurements and<U+000a>standard reference atmospheres.
+date_publication: '2013-03-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AtmRay
+url_git: ''

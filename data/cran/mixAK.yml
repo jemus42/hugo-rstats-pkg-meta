@@ -1,0 +1,15 @@
+version: '5.2'
+title: |-
+  Multivariate Normal Mixture Models and Mixtures of Generalized
+  Linear Mixed Models Including Model Based Clustering
+maintainer: Arnošt Komárek
+description: Contains a mixture of statistical methods including the MCMC methods
+  to analyze normal mixtures. Additionally, model based clustering methods are implemented
+  to perform classification based on (multivariate) longitudinal (or otherwise correlated)
+  data. The basis for such clustering is a mixture of multivariate generalized linear
+  mixed models.
+date_publication: '2020-02-10'
+bug_reports: ''
+url: http://msekce.karlin.mff.cuni.cz/~komarek
+url_cran: https://CRAN.R-project.org/package=mixAK
+url_git: ''

@@ -1,0 +1,17 @@
+version: '1.2'
+title: |-
+  Early Testing for a Treatment Effect using Surrogate Marker
+  Information
+maintainer: Layla Parast
+description: 'Provides functions to test for a treatment effect in terms of the difference
+  in survival between a treatment group and a control group using surrogate marker
+  information obtained at some early time point in a time-to-event outcome setting.
+  Nonparametric kernel estimation is used to estimate the test statistic and perturbation
+  resampling is used for variance estimation. More details will be available in the
+  future in: Parast L, Cai T, Tian L (2019). Using a Surrogate Marker for Early Testing
+  of a Treatment Effect. Biometrics, In press.'
+date_publication: '2020-03-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SurrogateTest
+url_git: ''

@@ -1,0 +1,14 @@
+version: 0.1.1
+title: Finite Mixture Modeling for Raw and Binned Data
+maintainer: Youjiao Yu
+description: Performs maximum likelihood estimation for finite mixture models for
+  families including Normal, Weibull, Gamma and Lognormal by using EM algorithm, together
+  with Newton-Raphson algorithm or bisection method when necessary. It also conducts
+  mixture model selection by using information criteria or bootstrap likelihood ratio
+  test. The data used for mixture model fitting can be raw data or binned data. The
+  model fitting process is accelerated by using R package 'Rcpp'.
+date_publication: '2018-06-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mixR
+url_git: ''

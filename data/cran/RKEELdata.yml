@@ -1,0 +1,13 @@
+version: 1.0.5
+title: Datasets from 'KEEL' for it Use in 'RKEEL'
+maintainer: Jose M. Moyano
+description: '''KEEL'' is a popular Java software for a large number of different
+  knowledge data discovery tasks. Furthermore, ''RKEEL'' is a package with a R code
+  layer between R and ''KEEL'', for using ''KEEL'' in R code. This package includes
+  the datasets from ''KEEL'' in .dat format for its use in ''RKEEL'' package. For
+  more information about ''KEEL'', see <http://www.keel.es/>.'
+date_publication: '2018-05-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RKEELdata
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.1.0.0
+title: Access to Flickr API
+maintainer: Koki Ando
+description: |-
+  Provides an interface to the Flickr API <https://www.flickr.com/services/api/>
+  and allows R users to download data on Flickr.
+date_publication: '2019-01-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FlickrAPI
+url_git: ''

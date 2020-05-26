@@ -1,0 +1,9 @@
+version: 1.0.1
+title: Plotting Multi-Dimensional Data - Using 'rgl'
+maintainer: Karline Soetaert
+description: The 'rgl' implementation of plot3D functions.
+date_publication: '2016-01-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=plot3Drgl
+url_git: ''

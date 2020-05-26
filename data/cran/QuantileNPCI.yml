@@ -1,0 +1,11 @@
+version: 0.9.0
+title: Nonparametric Confidence Intervals for Quantiles
+maintainer: Li Yan
+description: Based on Alan D. Hutson (1999) <doi:10.1080/02664769922458>, "Calculating
+  nonparametric confidence intervals for quantiles using fractional order statistics",
+  Journal of Applied Statistics, 26:3, 343-353.
+date_publication: '2019-09-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=QuantileNPCI
+url_git: ''

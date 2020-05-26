@@ -1,0 +1,9 @@
+version: '0.3'
+title: Axis Labeling
+maintainer: Justin Talbot
+description: Provides a range of axis labeling algorithms
+date_publication: '2014-08-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=labeling
+url_git: ''

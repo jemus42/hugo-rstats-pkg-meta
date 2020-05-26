@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Boxplots for Directional Data
+maintainer: Davide Buttarazzi
+description: Functions for drawing boxplots for data on (the boundary of) a unit circle
+  (i.e., circular and axial data), from Buttarazzi D., Pandolfo G., Porzio G.C. (2018)
+  <doi:10.1111/biom.12889>.
+date_publication: '2020-05-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bpDir
+url_git: ''

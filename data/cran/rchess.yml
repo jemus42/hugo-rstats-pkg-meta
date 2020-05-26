@@ -1,0 +1,14 @@
+version: '0.1'
+title: |-
+  Chess Move, Generation/Validation, Piece Placement/ Movement,
+  and Check/Checkmate/Stalemate Detection
+maintainer: Joshua Kunst
+description: |-
+  R package for chess validations, pieces movements and check
+  detection. Also integrates functions to plot chess boards given a
+  Forsyth Edwards and Portable Game notations.
+date_publication: '2015-11-05'
+bug_reports: https://github.com/jbkunst/rchess/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rchess
+url_git: https://github.com/jbkunst/rchess

@@ -1,0 +1,10 @@
+version: '1.2'
+title: Estimation of Prevalence Ratios using Logistic Models
+maintainer: Raydonal Ospina
+description: Estimation of prevalence ratios using logistic models and confidence
+  intervals with delta and bootstrap methods.
+date_publication: '2013-09-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=prLogistic
+url_git: ''

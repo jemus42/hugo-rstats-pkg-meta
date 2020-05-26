@@ -1,0 +1,14 @@
+version: 1.0.6
+title: Read Untidy Excel Files
+maintainer: Duncan Garmonsway
+description: |-
+  Imports non-tabular from Excel files into R.  Exposes cell content,
+  position and formatting in a tidy structure for further manipulation.
+  Tokenizes Excel formulas.  Supports '.xlsx' and '.xlsm' via the embedded
+  'RapidXML' C++ library <http://rapidxml.sourceforge.net>.  Does not support
+  '.xlsb' or '.xls'.
+date_publication: '2020-05-09'
+bug_reports: https://github.com/nacnudus/tidyxl/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tidyxl
+url_git: https://github.com/nacnudus/tidyxl

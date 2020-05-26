@@ -1,0 +1,11 @@
+version: 0.3.4
+title: Functional Programming Tools
+maintainer: Lionel Henry
+description: |-
+  A complete and consistent functional programming
+  toolkit for R.
+date_publication: '2020-04-17'
+bug_reports: https://github.com/tidyverse/purrr/issues
+url: http://purrr.tidyverse.org
+url_cran: https://CRAN.R-project.org/package=purrr
+url_git: https://github.com/tidyverse/purrr

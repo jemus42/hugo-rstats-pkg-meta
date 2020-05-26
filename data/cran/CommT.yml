@@ -1,0 +1,14 @@
+version: 0.1.1
+title: |-
+  Comparative Phylogeographic Analysis using the Community Tree
+  Framework
+maintainer: Michael Gruenstaeudl
+description: Provides functions to measure the difference between constrained and
+  unconstrained gene tree distributions using various tree distance metrics. Constraints
+  are enforced prior to this analysis via the estimation of a tree under the community
+  tree model.
+date_publication: '2015-06-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CommT
+url_git: ''

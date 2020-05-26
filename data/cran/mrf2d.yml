@@ -1,0 +1,15 @@
+version: 0.2.0
+title: Markov Random Field Models for Image Analysis
+maintainer: Victor Freguglia
+description: |-
+  Model fitting, sampling and visualization
+  for the (Hidden) Markov Random Field model with pairwise interactions and
+  general interaction structure from
+  Freguglia, Garcia & Bicas (2019) <doi:10.1002/env.2613>,
+  which has many popular models used in 2-dimensional lattices
+  as particular cases, like the Ising Model and Potts Model.
+date_publication: '2020-02-21'
+bug_reports: https://github.com/Freguglia/mrf2d/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mrf2d
+url_git: https://github.com/Freguglia/mrf2d

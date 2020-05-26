@@ -1,0 +1,9 @@
+version: '0.941'
+title: Design of QTL experiments
+maintainer: Saunak Sen
+description: Tools for the design of QTL experiments
+date_publication: '2012-10-29'
+bug_reports: ''
+url: http://www.biostat.ucsf.edu/sen/
+url_cran: https://CRAN.R-project.org/package=qtlDesign
+url_git: ''

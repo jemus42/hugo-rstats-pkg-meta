@@ -1,0 +1,9 @@
+version: 0.3.1
+title: Julian Miscellaneous Function
+maintainer: TszKin Julian Chan
+description: Some handy function in R
+date_publication: '2014-03-07'
+bug_reports: TszKin Julian Chan <ctszkin@gmail.com>
+url: ''
+url_cran: https://CRAN.R-project.org/package=Jmisc
+url_git: ''

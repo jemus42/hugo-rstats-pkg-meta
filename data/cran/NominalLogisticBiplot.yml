@@ -1,0 +1,19 @@
+version: '0.2'
+title: Biplot representations of categorical data
+maintainer: Julio Cesar Hernandez Sanchez
+description: Analysis of a matrix of polytomous items using Nominal Logistic Biplots
+  (NLB)<U+000a>according to Hernandez-Sanchez and Vicente-Villardon (2013).<U+000a>The
+  NLB procedure extends the binary logistic biplot to nominal (polytomous) data.<U+000a>The  individuals
+  are represented as points on a plane and the  variables are represented<U+000a>as
+  convex prediction regions rather than vectors as in a classical or binary biplot.<U+000a>Using
+  the methods from Computational Geometry, the set of prediction regions is converted
+  to a set of points<U+000a>in such a way that the prediction for each individual
+  is established by its closest<U+000a>"category point". Then interpretation is based
+  on distances rather than on projections.<U+000a>In this package we implement the
+  geometry of such a representation and construct computational algorithms<U+000a>for
+  the estimation of parameters and the calculation of prediction regions.
+date_publication: '2014-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NominalLogisticBiplot
+url_git: ''

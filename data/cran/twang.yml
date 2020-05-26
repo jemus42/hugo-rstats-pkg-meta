@@ -1,0 +1,12 @@
+version: '1.6'
+title: Toolkit for Weighting and Analysis of Nonequivalent Groups
+maintainer: Matthew Cefalu
+description: |-
+  Provides functions for propensity score
+  estimating and weighting, nonresponse weighting, and diagnosis
+  of the weights.
+date_publication: '2020-02-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=twang
+url_git: ''

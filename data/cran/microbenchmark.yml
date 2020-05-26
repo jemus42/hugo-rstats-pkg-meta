@@ -1,0 +1,11 @@
+version: 1.4-7
+title: Accurate Timing Functions
+maintainer: Joshua M. Ulrich
+description: |-
+  Provides infrastructure to accurately measure and compare
+  the execution time of R expressions.
+date_publication: '2019-09-24'
+bug_reports: https://github.com/joshuaulrich/microbenchmark/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=microbenchmark
+url_git: https://github.com/joshuaulrich/microbenchmark/

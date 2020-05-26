@@ -1,0 +1,13 @@
+version: '1.14'
+title: |-
+  Modelling Actual, Potential and Reference Crop
+  Evapotranspiration
+maintainer: Danlu Guo
+description: Uses data and constants to calculate potential evapotranspiration (PET)
+  and actual evapotranspiration (AET) from 21 different formulations including Penman,
+  Penman-Monteith FAO 56, Priestley-Taylor and Morton formulations.
+date_publication: '2019-05-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Evapotranspiration
+url_git: ''

@@ -1,0 +1,16 @@
+version: 1.3.1
+title: Multivariate Methods Based on Projections and Related Concepts
+maintainer: Guy Nason
+description: |-
+  Functionality to compute the projection median via several
+  algorithms. This package also provides functions to plot different
+  multivariate medians and multivariate quantiles in two-dimensional and
+  three-dimensional data respectively. See Chen, F. and Nason, G.P. (2020)
+  "A new method for computing the projection median, its influence curve
+  and techniques for the production of projected quantile plots." PLOS One
+  (accepted for publication).
+date_publication: '2020-04-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Yamm
+url_git: ''

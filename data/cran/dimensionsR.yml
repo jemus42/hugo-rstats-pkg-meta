@@ -1,0 +1,12 @@
+version: 0.0.1
+title: |-
+  Gathering Bibliographic Records from 'Digital Science
+  Dimensions' Using 'DSL' API
+maintainer: Massimo Aria
+description: A set of tools to extract bibliographic content from 'Digital Science
+  Dimensions' using 'DSL' API <https://www.dimensions.ai/dimensions-apis/>.
+date_publication: '2020-03-20'
+bug_reports: https://github.com/massimoaria/dimensionsR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dimensionsR
+url_git: https://github.com/massimoaria/dimensionsR

@@ -1,0 +1,9 @@
+version: 0.0.2
+title: Data for the 'dgo' Package
+maintainer: James Dunham
+description: Provides data used by package 'dgo' in examples and vignettes.
+date_publication: '2017-02-14'
+bug_reports: https://github.com/jamesdunham/dgodata/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dgodata
+url_git: https://github.com/jamesdunham/dgodata

@@ -1,0 +1,11 @@
+version: 1.0.1
+title: High Throughput Phenotyping
+maintainer: Giovanny Covarrubias-Pazaran
+description: Performs image segmentation in fruit or seeds pictures in order to measure
+  physical features in a high-throughput manner for genome-wide association (GWAS)
+  and genomic selection programs.
+date_publication: '2016-04-10'
+bug_reports: ''
+url: http://www.wisc.edu
+url_cran: https://CRAN.R-project.org/package=GiNA
+url_git: ''

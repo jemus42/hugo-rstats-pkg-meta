@@ -1,0 +1,15 @@
+version: 1.3.2
+title: Interface to the 'HDF5' Binary Data Format
+maintainer: Holger Hoefling
+description: |-
+  'HDF5' is a data model, library and file format for storing
+  and managing large amounts of data. This package provides a nearly
+  feature complete, object oriented  wrapper for the 'HDF5' API
+  <https://support.hdfgroup.org/HDF5/doc/RM/RM_H5Front.html> using R6 classes.
+  Additionally, functionality is added so that 'HDF5' objects behave very
+  similar to their corresponding R counterparts.
+date_publication: '2020-03-25'
+bug_reports: https://github.com/hhoeflin/hdf5r/issues
+url: https://hhoeflin.github.io/hdf5r
+url_cran: https://CRAN.R-project.org/package=hdf5r
+url_git: https://github.com/hhoeflin/hdf5r

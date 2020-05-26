@@ -1,0 +1,9 @@
+version: '1.1'
+title: Degree Weighted Lasso
+maintainer: Nurgazy Sulaimanov
+description: Infers networks with hubs using degree weighted Lasso method.
+date_publication: '2017-10-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DWLasso
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.4
+title: Provides ZENIT-POLAR Substitution Cipher Method of Encryption
+maintainer: Adelmo Filho
+description: Implementation of ZENIT-POLAR substitution cipher method of encryption
+  using by default the TENIS-POLAR cipher. This last cipher of encryption became famous
+  through the collection of Brazilian books "Os Karas" by the author Pedro Bandeira.
+  For more details, see "A Cryptographic Dictionary" (GC&CS, 1944).
+date_publication: '2019-03-08'
+bug_reports: https://github.com/adelmofilho/tenispolaR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tenispolaR
+url_git: https://github.com/adelmofilho/tenispolaR

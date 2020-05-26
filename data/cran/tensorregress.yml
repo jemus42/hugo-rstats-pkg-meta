@@ -1,0 +1,11 @@
+version: '2.0'
+title: Generalized Tensor Regression with Covariates on Multiple Modes
+maintainer: Zhuoyan Xu
+description: Implement the generalized tensor regression in Xu, Hu and Wang (2019)
+  <arXiv:1910.09499>. Solve tensor-response regression given covariates on multiple
+  modes with alternating updating algorithm.
+date_publication: '2020-03-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tensorregress
+url_git: ''

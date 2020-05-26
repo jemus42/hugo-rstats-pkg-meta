@@ -1,0 +1,13 @@
+version: '1.0'
+title: A Penalized EM algorithm incorporating missing-data mechanism
+maintainer: Lin Chen
+description: This package provides functions to perform multivariate Gaussian parameter
+  estimation based on data with abundance-dependent missingness. It implements a penalized
+  Expectation-Maximization (EM) algorithm. The package is tailored for but not limited
+  to proteomics data applications, in which a large proportion of the data are often
+  missing-not-at-random with lower values (or absolute values) more likely to be missing.
+date_publication: '2014-01-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PEMM
+url_git: ''

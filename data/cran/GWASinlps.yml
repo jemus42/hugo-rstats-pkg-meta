@@ -1,0 +1,15 @@
+version: '1.2'
+title: |-
+  Nonlocal Prior Based Iterative SNP Selection Tool for
+  Genome-Wide Association Studies
+maintainer: Nilotpal Sanyal
+description: Performs variable selection with data from Genome-wide association studies
+  (GWAS) combining, in an iterative variable selection framework, the computational
+  efficiency of the screen-and-select approach based on some association learning
+  and the parsimonious uncertainty quantification provided by the use of nonlocal
+  priors, as described in Sanyal et al. (2018).
+date_publication: '2018-07-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GWASinlps
+url_git: ''

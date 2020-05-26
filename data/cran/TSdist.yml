@@ -1,0 +1,13 @@
+version: '3.6'
+title: Distance Measures for Time Series Data
+maintainer: Usue Mori
+description: A set of commonly used distance measures and some additional functions
+  which, although initially not designed for this purpose, can be used to measure
+  the dissimilarity between time series. These measures can be used to perform clustering,
+  classification or other data mining tasks which require the definition of a distance
+  measure between time series.
+date_publication: '2019-07-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TSdist
+url_git: ''

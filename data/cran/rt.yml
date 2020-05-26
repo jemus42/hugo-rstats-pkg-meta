@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Interface to the 'Request Tracker' API
+maintainer: Bryce Mecum
+description: |-
+  Provides a programmatic interface to the 'Request Tracker' (RT)
+  HTTP API <https://rt-wiki.bestpractical.com/wiki/REST>. 'RT' is a popular
+  ticket tracking system.
+date_publication: '2020-04-27'
+bug_reports: https://github.com/nceas/rt/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rt
+url_git: https://github.com/nceas/rt

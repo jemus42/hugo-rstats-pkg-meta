@@ -1,0 +1,9 @@
+version: 1.5-6
+title: General Polygon Clipping Library for R
+maintainer: Roger D. Peng
+description: General polygon clipping routines for R based on Alan Murta's C library.
+date_publication: '2020-02-28'
+bug_reports: ''
+url: http://www.cs.man.ac.uk/~toby/gpc/
+url_cran: https://CRAN.R-project.org/package=gpclib
+url_git: http://github.com/rdpeng/gpclib

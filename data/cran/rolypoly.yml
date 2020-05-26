@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Identifying Trait-Relevant Functional Annotations
+maintainer: Diego Calderon
+description: |-
+  Using enrichment of genome-wide association summary statistics to
+  identify trait-relevant cellular functional annotations.
+date_publication: '2017-03-16'
+bug_reports: https://github.com/dcalderon/rolypoly/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rolypoly
+url_git: https://github.com/dcalderon/rolypoly

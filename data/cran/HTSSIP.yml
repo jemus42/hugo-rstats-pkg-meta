@@ -1,0 +1,16 @@
+version: 1.4.1
+title: |-
+  High Throughput Sequencing of Stable Isotope Probing Data
+  Analysis
+maintainer: Samuel Barnett
+description: |-
+  Functions for analyzing high throughput sequencing
+  stable isotope probing (HTS-SIP) data.
+  Analyses include high resolution stable isotope probing (HR-SIP),
+  multi-window high resolution stable isotope probing (MW-HR-SIP),
+  and quantitative stable isotope probing (q-SIP).
+date_publication: '2019-09-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HTSSIP
+url_git: ''

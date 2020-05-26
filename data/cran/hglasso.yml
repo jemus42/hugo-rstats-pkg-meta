@@ -1,0 +1,12 @@
+version: '1.2'
+title: Learning graphical models with hubs
+maintainer: Kean Ming Tan
+description: Implements the hub graphical lasso and hub covariance graph proposal
+  by Tan, KM., London, P., Mohan, K., Lee, S-I., Fazel, M., and Witten, D. (2014).
+  Learning graphical models with hubs. To appear in Journal of Machine Learning Research.
+  arXiv.org/pdf/1402.7349.pdf.
+date_publication: '2014-08-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hglasso
+url_git: ''

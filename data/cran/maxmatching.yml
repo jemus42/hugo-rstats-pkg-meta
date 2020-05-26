@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Maximum Matching for General Weighted Graph
+maintainer: Bowen Deng
+description: |-
+  Computes the maximum matching for unweighted graph and maximum
+  matching for (un)weighted bipartite graph efficiently.
+date_publication: '2017-01-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=maxmatching
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.1.5
+title: |-
+  Bayesian State-Space Modeling of Mouse-Tracking Experiments via
+  Stan
+maintainer: Antonio Calcagnì
+description: Estimates previously compiled state-space modeling for mouse-tracking
+  experiments using the 'rstan' package, which provides the R interface to the Stan
+  C++ library for Bayesian estimation.
+date_publication: '2019-01-16'
+bug_reports: https://github.com/antcalcagni/ssMousetrack/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ssMousetrack
+url_git: ''

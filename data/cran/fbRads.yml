@@ -1,0 +1,11 @@
+version: '0.2'
+title: Analyzing and Managing Facebook Ads from R
+maintainer: Gergely Daroczi
+description: Wrapper functions around the Facebook Marketing 'API' to create, read,
+  update and delete custom audiences, images, campaigns, ad sets, ads and related
+  content.
+date_publication: '2016-04-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fbRads
+url_git: https://github.com/cardcorp/fbRads

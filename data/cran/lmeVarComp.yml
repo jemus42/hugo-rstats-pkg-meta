@@ -1,0 +1,15 @@
+version: '1.1'
+title: |-
+  Testing for a Subset of Variance Components in Linear Mixed
+  Models
+maintainer: Yichi Zhang
+description: |-
+  Test zero variance components in linear mixed models and
+  test additivity in nonparametric regression
+  using the restricted likelihood ratio test and the generalized F-test.
+  Details can be found at Zhang et al (2016) <doi:10.1002/cjs.11295>.
+date_publication: '2018-05-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lmeVarComp
+url_git: ''

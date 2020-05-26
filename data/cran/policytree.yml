@@ -1,0 +1,13 @@
+version: 0.9.2
+title: |-
+  Policy Learning via Doubly Robust Empirical Welfare Maximization
+  over Trees
+maintainer: Erik Sverdrup
+description: |-
+  Multi-action treatment effect estimation and policy learning
+  as in Zhou, Athey and Wager (2018) <arXiv:1810.04778>.
+date_publication: '2020-03-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=policytree
+url_git: https://github.com/grf-labs/policytree

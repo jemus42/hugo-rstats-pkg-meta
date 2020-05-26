@@ -1,0 +1,11 @@
+version: 0.2.2
+title: An 'Rcpp' Interface to Active Bindings
+maintainer: Kirill Müller
+description: |-
+  Provides an easy way to fill an environment with active bindings
+  that call a C++ function.
+date_publication: '2018-03-29'
+bug_reports: https://github.com/krlmlr/bindrcpp/issues
+url: https://krlmlr.github.io/bindrcpp
+url_cran: https://CRAN.R-project.org/package=bindrcpp
+url_git: https://github.com/krlmlr/bindrcpp

@@ -1,0 +1,12 @@
+version: 1.2.0
+title: Analyze Bunching in a Kink or Notch Setting
+maintainer: Itai Trilnick
+description: |-
+  View and analyze data where bunching is expected. Estimate counter-
+  factual distributions. For earnings data, estimate the compensated
+  elasticity of earnings w.r.t. the net-of-tax rate.
+date_publication: '2017-01-30'
+bug_reports: http://github.com/trilnick/bunchr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bunchr
+url_git: http://github.com/trilnick/bunchr

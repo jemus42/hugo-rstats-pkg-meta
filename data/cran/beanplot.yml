@@ -1,0 +1,10 @@
+version: '1.2'
+title: Visualization via Beanplots (like Boxplot/Stripchart/Violin<U+000a>Plot)
+maintainer: Peter Kampstra
+description: Plots univariate comparison graphs, an alternative to<U+000a>boxplot/stripchart/violin
+  plot.
+date_publication: '2014-09-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=beanplot
+url_git: ''

@@ -1,0 +1,10 @@
+version: 1.2.1
+title: Building Polygenic Risk Score Using GWAS Summary Statistics
+maintainer: Ting-Huei Chen
+description: Shrinkage estimator for polygenic risk prediction models based on summary
+  statistics of genome-wide association studies.
+date_publication: '2019-11-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SummaryLasso
+url_git: ''

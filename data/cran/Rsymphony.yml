@@ -1,0 +1,9 @@
+version: 0.1-28
+title: SYMPHONY in R
+maintainer: Kurt Hornik
+description: An R interface to the SYMPHONY solver for mixed-integer linear programs.
+date_publication: '2017-11-07'
+bug_reports: ''
+url: https://projects.coin-or.org/SYMPHONY
+url_cran: https://CRAN.R-project.org/package=Rsymphony
+url_git: http://R-Forge.R-project.org/projects/rsymphony

@@ -1,0 +1,10 @@
+version: '1.1'
+title: Sequential Monte Carlo (SMC) Algorithm
+maintainer: Gopi Goswami
+description: particle filtering, auxiliary particle filtering and sequential Monte
+  Carlo algorithms
+date_publication: '2011-12-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SMC
+url_git: ''

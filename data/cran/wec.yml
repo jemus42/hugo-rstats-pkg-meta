@@ -1,0 +1,14 @@
+version: 0.4-1
+title: Weighted Effect Coding
+maintainer: Rense Nieuwenhuis
+description: Provides functions to create factor variables with contrasts based on
+  weighted effect coding, and their interactions. In weighted effect coding the estimates
+  from a first order regression model show the deviations per group from the sample
+  mean. This is especially useful when a researcher has no directional hypotheses
+  and uses a sample from a population in which the number of observation per group
+  is different.
+date_publication: '2017-10-31'
+bug_reports: ''
+url: http://www.ru.nl/sociology/mt/wec/downloads/
+url_cran: https://CRAN.R-project.org/package=wec
+url_git: ''

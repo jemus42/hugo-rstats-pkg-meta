@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Column Profile for Tables and Datasets
+maintainer: Arnaldo Vitaliano
+description: |-
+  Profiles datasets (collecting statistics and informative summaries
+  about that data) on data frames and 'ODBC' tables: maximum, minimum, mean, standard deviation, nulls,
+  distinct values, data patterns, data/format frequencies.
+date_publication: '2019-08-02'
+bug_reports: https://github.com/avitaliano/datrProfile/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=datrProfile
+url_git: https://github.com/avitaliano/datrProfile

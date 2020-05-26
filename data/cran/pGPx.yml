@@ -1,0 +1,14 @@
+version: 0.1.1
+title: Pseudo-Realizations for Gaussian Process Excursions
+maintainer: Dario Azzimonti
+description: Computes pseudo-realizations from the posterior distribution of a Gaussian
+  Process (GP) with the method described in Azzimonti et al. (2016) <doi:10.1137/141000749>.
+  The realizations are obtained from simulations of the field at few well chosen points
+  that minimize the expected distance in measure between the true excursion set of
+  the field and the approximate one. Also implements a R interface for (the main function
+  of) Distance Transform of sampled Functions (<http://cs.brown.edu/people/pfelzens/dt/index.html>).
+date_publication: '2018-08-20'
+bug_reports: ''
+url: https://epubs.siam.org/doi/abs/10.1137/141000749
+url_cran: https://CRAN.R-project.org/package=pGPx
+url_git: ''

@@ -1,0 +1,10 @@
+version: 3.2.3
+title: Detection of Outliers in Circular-Circular Regression
+maintainer: Azade Ghazanfarihesari
+description: Detection of outliers in circular-circular regression models, modifying
+  its and estimating of models parameters.
+date_publication: '2016-01-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CircOutlier
+url_git: ''

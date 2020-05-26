@@ -1,0 +1,15 @@
+version: 0.1-2
+title: Relaxed Lasso
+maintainer: Nicolai Meinshausen
+description: Relaxed Lasso is a generalisation of the Lasso shrinkage<U+000a>technique
+  for linear regression. Both variable selection and<U+000a>parameter estimation is
+  achieved by regular Lasso, yet both<U+000a>steps do not necessarily use the same
+  penalty parameter. The<U+000a>results include all standard Lasso solutions but allow
+  often<U+000a>for sparser models while having similar or even slightly better<U+000a>predictive
+  performance if many predictor variables are present.<U+000a>The package depends
+  on the LARS package.
+date_publication: '2012-06-01'
+bug_reports: ''
+url: http://www.stats.ox.ac.uk/~meinshau/
+url_cran: https://CRAN.R-project.org/package=relaxo
+url_git: ''

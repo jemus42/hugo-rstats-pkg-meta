@@ -1,0 +1,13 @@
+version: 1.1.1
+title: |-
+  Convert Between 'R' Objects and Javascript Object Notation
+  (JSON)
+maintainer: David Cooley
+description: |-
+  Conversions between 'R' objects and Javascript Object Notation (JSON) using
+  the 'rapidjsonr' library <https://CRAN.R-project.org/package=rapidjsonr>.
+date_publication: '2020-03-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=jsonify
+url_git: ''

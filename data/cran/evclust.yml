@@ -1,0 +1,14 @@
+version: 1.1.0
+title: Evidential Clustering
+maintainer: Thierry Denoeux
+description: |-
+  Various clustering algorithms that produce a credal partition,
+  i.e., a set of Dempster-Shafer mass functions representing the membership of objects
+  to clusters. The mass functions quantify the cluster-membership uncertainty of the objects.
+  The algorithms are: Evidential c-Means (ECM), Relational Evidential c-Means (RECM),
+  Constrained Evidential c-Means (CECM), EVCLUS, EK-NNclus and bootclus.
+date_publication: '2020-01-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=evclust
+url_git: ''

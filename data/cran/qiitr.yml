@@ -1,0 +1,11 @@
+version: 0.1.1
+title: R Interface to Qiita API
+maintainer: Hiroaki Yutani
+description: |-
+  Qiita is a technical knowledge sharing and collaboration platform for programmers.
+  See <https://qiita.com/api/v2/docs> for more information.
+date_publication: '2020-05-16'
+bug_reports: https://github.com/yutannihilation/qiitr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=qiitr
+url_git: https://github.com/yutannihilation/qiitr

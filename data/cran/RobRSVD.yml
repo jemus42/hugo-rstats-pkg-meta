@@ -1,0 +1,12 @@
+version: '1.0'
+title: Robust Regularized Singular Value Decomposition
+maintainer: Lingsong Zhang
+description: This package provides the function to calculate SVD, regularized SVD,
+  robust SVD and robust regularized SVD method. The robust SVD methods use alternating
+  iteratively reweighted least squares methods. The regularized SVD uses generalized
+  cross validation to choose the optimal smoothing parameters.
+date_publication: '2013-12-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RobRSVD
+url_git: ''

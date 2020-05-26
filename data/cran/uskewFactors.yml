@@ -1,0 +1,12 @@
+version: '2.0'
+title: |-
+  Model-Based Clustering via Mixtures of Unrestricted Skew-t
+  Sactor Analyzer Models
+maintainer: Paula M. Murray
+description: Implements mixtures of unrestricted skew-t factor analyzer models via
+  the EM algorithm.
+date_publication: '2016-05-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=uskewFactors
+url_git: ''

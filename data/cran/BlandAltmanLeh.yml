@@ -1,0 +1,12 @@
+version: 0.3.1
+title: Plots (Slightly Extended) Bland-Altman Plots
+maintainer: Bernhard Lehnert
+description: |-
+  Bland-Altman Plots using either base graphics or ggplot2,
+  augmented with confidence intervals, with detailed return values and
+  a sunflowerplot option for data with ties.
+date_publication: '2015-12-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BlandAltmanLeh
+url_git: ''

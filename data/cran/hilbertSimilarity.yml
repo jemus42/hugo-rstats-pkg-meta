@@ -1,0 +1,15 @@
+version: 0.4.3
+title: Hilbert Similarity Index for High Dimensional Data
+maintainer: Yann Abraham
+description: |-
+  Quantifying similarity between high-dimensional single cell samples is challenging, and usually requires
+  some simplifying hypothesis to be made. By transforming the high dimensional space into a high dimensional grid,
+  the number of cells in each sub-space of the grid is characteristic of a given sample. Using a Hilbert curve
+  each sample can be visualized as a simple density plot, and the distance between samples can be calculated from
+  the distribution of cells using the Jensen-Shannon distance. Bins that correspond to significant differences
+  between samples can identified using a simple bootstrap procedure.
+date_publication: '2019-11-11'
+bug_reports: http://github.com/yannabraham/hilbertSimilarity/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=hilbertSimilarity
+url_git: http://github.com/yannabraham/hilbertSimilarity

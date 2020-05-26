@@ -1,0 +1,9 @@
+version: 1.2.8
+title: Clustering Indices
+maintainer: Bernard Desgraupes
+description: Compute clustering validation indices.
+date_publication: '2018-07-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=clusterCrit
+url_git: ''

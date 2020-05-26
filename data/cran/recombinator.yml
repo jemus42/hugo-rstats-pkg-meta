@@ -1,0 +1,9 @@
+version: 1.0.1
+title: Recombinate Nested Lists to Dataframes
+maintainer: Peter Hurford
+description: Turns nested lists into data.frames in an orderly manner.
+date_publication: '2019-01-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=recombinator
+url_git: ''

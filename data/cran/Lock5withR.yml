@@ -1,0 +1,13 @@
+version: 1.2.2
+title: 'Datasets for ''Statistics: Unlocking the Power of Data'''
+maintainer: Randall Pruim
+description: |-
+  Data sets and other utilities for
+  'Statistics: Unlocking the Power of Data'
+  by Lock, Lock, Lock, Lock and Lock
+  (ISBN : 978-0-470-60187-7, http://lock5stat.com/).
+date_publication: '2015-12-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Lock5withR
+url_git: ''

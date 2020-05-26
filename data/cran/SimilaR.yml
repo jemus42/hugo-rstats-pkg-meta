@@ -1,0 +1,13 @@
+version: 1.0.7
+title: R Source Code Similarity Evaluation
+maintainer: Maciej Bartoszuk
+description: |-
+  An implementation of a novel method to quantify the similarity
+  the code-base of R functions by means of program dependence graphs.
+  Possible use cases include detection of code clones for improving
+  software quality and of plagiarism among students' homework assignments.
+date_publication: '2020-04-06'
+bug_reports: https://github.com/bartoszukm/SimilaR/issues
+url: http://similar.rexamine.com/
+url_cran: https://CRAN.R-project.org/package=SimilaR
+url_git: ''

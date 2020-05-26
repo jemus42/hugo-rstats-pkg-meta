@@ -1,0 +1,12 @@
+version: '1.4'
+title: Fitting Markov Switching Models
+maintainer: Josep A. Sanchez-Espigares
+description: Estimation, inference and diagnostics for Univariate Autoregressive Markov
+  Switching Models for Linear and Generalized Models. Distributions for the series
+  include gaussian, Poisson, binomial and gamma cases. The EM algorithm is used for
+  estimation (see Perlin (2012) <doi:10.2139/ssrn.1714016>).
+date_publication: '2018-07-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MSwM
+url_git: ''

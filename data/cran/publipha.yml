@@ -1,0 +1,15 @@
+version: 0.1.1
+title: Bayesian Meta-Analysis with Publications Bias and P-Hacking
+maintainer: Jonas Moss
+description: |-
+  Tools for Bayesian estimation of meta-analysis models that account
+  for publications bias or p-hacking. For publication bias, this package
+  implements a variant of the p-value based selection model of Hedges (1992)
+  <doi:10.1214/ss/1177011364> with discrete selection probabilities. It also
+  implements the mixture of truncated normals model for p-hacking described
+  in Moss and De Bin (2019) <arXiv:1911.12445>.
+date_publication: '2020-01-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=publipha
+url_git: ''

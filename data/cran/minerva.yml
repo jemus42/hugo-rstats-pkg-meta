@@ -1,0 +1,15 @@
+version: 1.5.8
+title: |-
+  Maximal Information-Based Nonparametric Exploration for Variable
+  Analysis
+maintainer: Michele Filosi
+description: |-
+  Wrapper for 'minepy' implementation of Maximal
+  Information-based Nonparametric Exploration statistics (MIC and
+  MINE family). Detailed information of the ANSI C implementation of
+  'minepy' can be found at <http://minepy.readthedocs.io/en/latest>.
+date_publication: '2019-05-27'
+bug_reports: ''
+url: http://minepy.readthedocs.io/en/latest
+url_cran: https://CRAN.R-project.org/package=minerva
+url_git: ''

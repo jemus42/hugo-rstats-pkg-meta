@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Effective Information and Causal Emergence
+maintainer: Travis Byrum
+description: |-
+  Methods and utilities for causal emergence.
+  Used to explore and compute various information theory metrics for networks, such as effective information, effectiveness and causal emergence.
+date_publication: '2020-04-23'
+bug_reports: https://github.com/travisbyrum/einet/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=einet
+url_git: https://github.com/travisbyrum/einet

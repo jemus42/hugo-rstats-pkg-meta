@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Encoders for Categorical Variables
+maintainer: nl zhang
+description: Contains some commonly used categorical variable encoders, such as 'LabelEncoder'
+  and 'OneHotEncoder'. Inspired by the encoders implemented in Python 'sklearn.preprocessing'
+  package (see <http://scikit-learn.org/stable/modules/preprocessing.html>).
+date_publication: '2017-03-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CatEncoders
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Semantic Version Utilities
+maintainer: Adam Wheeler
+description: |-
+  Semantic Versions allow for standardized management versions.
+  This package implements semantic versioning handling in R. using R6 to
+  create a mutable object that can handle deciphering and checking versions.
+date_publication: '2020-02-22'
+bug_reports: https://github.com/ajwtech/semverutils/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=semverutils
+url_git: https://github.com/ajwtech/semverutils

@@ -1,0 +1,13 @@
+version: 0.2.0
+title: Get 'Silhouettes' of 'Organisms' from 'Phylopic'
+maintainer: Scott Chamberlain
+description: |-
+  Work with 'Phylopic' web service (<http://phylopic.org/api/>)
+  to get 'silhouette' images of 'organisms', search names, and more.
+  Includes functions for adding 'silhouettes' to both base plots and
+  ggplot2 plots.
+date_publication: '2018-11-19'
+bug_reports: https://github.com/sckott/rphylopic/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rphylopic
+url_git: https://github.com/sckott/rphylopic

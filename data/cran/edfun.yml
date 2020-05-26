@@ -1,0 +1,11 @@
+version: 0.2.0
+title: Creating Empirical Distribution Functions
+maintainer: Tal Galili
+description: |-
+  Easily creating empirical distribution functions from data: 'dfun', 'pfun',
+  'qfun' and 'rfun'.
+date_publication: '2016-08-27'
+bug_reports: https://github.com/talgalili/edfun/issues
+url: https://www.r-statistics.com/tag/edfun/
+url_cran: https://CRAN.R-project.org/package=edfun
+url_git: https://github.com/talgalili/edfun/

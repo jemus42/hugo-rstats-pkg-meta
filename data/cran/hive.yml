@@ -1,0 +1,13 @@
+version: 0.2-2
+title: Hadoop InteractiVE
+maintainer: Stefan Theussl
+description: |-
+  Hadoop InteractiVE facilitates distributed
+  computing via the MapReduce paradigm through R and Hadoop. An easy to use
+  interface to Hadoop, the Hadoop Distributed File System (HDFS),
+  and Hadoop Streaming is provided.
+date_publication: '2020-01-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hive
+url_git: ''

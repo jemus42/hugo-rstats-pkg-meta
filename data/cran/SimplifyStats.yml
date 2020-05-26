@@ -1,0 +1,12 @@
+version: 2.0.4
+title: Simplifies Pairwise Statistical Analyses
+maintainer: Zachary Colburn
+description: Pairwise group comparisons are often performed. While there are many
+  packages that can perform these analyses, often it is the case that only a subset
+  of comparisons are desired. 'SimplifyStats' performs pairwise comparisons and returns
+  the results in a tidy fashion.
+date_publication: '2020-04-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SimplifyStats
+url_git: ''

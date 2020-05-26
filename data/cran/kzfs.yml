@@ -1,0 +1,13 @@
+version: 1.5.0.2
+title: |-
+  Multi-Scale Motions Separation with Kolmogorov-Zurbenko
+  Periodogram Signals
+maintainer: Ming Luo
+description: |-
+  Separation of wave motions in different scales and directions based on
+  Kolmogorov-Zurbenko Periodograms and Kolmogorov-Zurbenko Fourier Transform.
+date_publication: '2019-06-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=kzfs
+url_git: ''

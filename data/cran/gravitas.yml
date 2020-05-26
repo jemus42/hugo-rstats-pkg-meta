@@ -1,0 +1,20 @@
+version: 0.1.2
+title: |-
+  Explore Probability Distributions for Bivariate Temporal
+  Granularities
+maintainer: Sayani Gupta
+description: |-
+  Provides tools for systematically exploring large quantities of
+  temporal data across nonlinear temporal granularities
+  (deconstructions of time) by visualizing probability distributions.
+  Nonlinear time granularities can be circular, quasi-circular or
+  aperiodic. 'gravitas' computes nonlinear
+  single-order-up or multiple-order-up granularities, check the
+  feasibility of creating plots for any two nonlinear granularities
+  and recommend probability distributions plots for exploring
+  periodicity in the data.
+date_publication: '2020-02-17'
+bug_reports: https://github.com/Sayani07/gravitas/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gravitas
+url_git: https://github.com/Sayani07/gravitas/

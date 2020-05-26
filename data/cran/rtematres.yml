@@ -1,0 +1,9 @@
+version: '0.2'
+title: The rtematres API package
+maintainer: Claas-Thido Pfaff
+description: Exploit controlled vocabularies organized on tematres servers.
+date_publication: '2013-08-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rtematres
+url_git: https://github.com/cpfaff/rtematres

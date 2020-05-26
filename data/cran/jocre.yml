@@ -1,0 +1,14 @@
+version: 0.3.3
+title: Joint Confidence Regions
+maintainer: Philip Pallmann
+description: Computing and plotting joint confidence regions and intervals. Regions
+  include classical ellipsoids, minimum-volume or minimum-length regions, and an empirical
+  Bayes region. Intervals include the TOST procedure with ordinary or expanded intervals
+  and a fixed-sequence procedure. Such regions and intervals are useful e.g., for
+  the assessment of multi-parameter (bio-)equivalence. Joint confidence regions for
+  the mean and variance of a normal distribution are available as well.
+date_publication: '2017-05-12'
+bug_reports: https://github.com/PhilipPallmann/jocre/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=jocre
+url_git: ''

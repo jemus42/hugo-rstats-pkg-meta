@@ -1,0 +1,12 @@
+version: 3.1.0
+title: Feature Selection Algorithms for Computer Aided Diagnosis
+maintainer: Jose Gerardo Tamez-Pena
+description: Contains a set of utilities for building and testing statistical models
+  (linear, logistic,ordinal or COX) for Computer Aided Diagnosis/Prognosis applications.
+  Utilities include data adjustment, univariate analysis, model building, model-validation,
+  longitudinal analysis, reporting and visualization.
+date_publication: '2018-11-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FRESA.CAD
+url_git: ''

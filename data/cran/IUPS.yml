@@ -1,0 +1,12 @@
+version: '1.0'
+title: Incorporating Uncertainties in Propensity Scores
+maintainer: Weihua An
+description: |-
+  This package includes functions to incorporate
+  uncertainties in estimated propensity scores and provide
+  adjusted standard errors for making valid causal inference.
+date_publication: '2013-06-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IUPS
+url_git: ''

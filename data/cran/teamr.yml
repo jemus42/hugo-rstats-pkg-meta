@@ -1,0 +1,13 @@
+version: 0.0.1
+title: Send Formatted Messages, Images and Objects to Microsoft 'Teams'
+maintainer: Michael Yan
+description: |-
+  Package of wrapper functions using R6 class to send requests to
+  Microsoft 'Teams' <https://products.office.com/en-us/microsoft-teams/group-chat-software> through webhooks.
+  When you need to share information or data from R to 'Teams', rather than copying/pasting, you
+  can use this package to send well-formatted output from multiple R objects.
+date_publication: '2019-07-18'
+bug_reports: https://github.com/wwwjk366/teamr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=teamr
+url_git: https://github.com/wwwjk366/teamr

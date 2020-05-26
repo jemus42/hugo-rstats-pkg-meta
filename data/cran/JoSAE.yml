@@ -1,0 +1,13 @@
+version: 0.3.0
+title: Unit-Level and Area-Level Small Area Estimation
+maintainer: Johannes Breidenbach
+description: Implementation of some unit and area level EBLUP estimators as well as
+  the estimators of their MSE also under heteroscedasticity. The package further documents
+  the publications Breidenbach and Astrup (2012) <DOI:10.1007/s10342-012-0596-7>,
+  Breidenbach et al. (2016) <DOI:10.1016/j.rse.2015.07.026> and Breidenbach et al.
+  (2018 in press). The vignette further explains the use of the implemented functions.
+date_publication: '2018-05-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=JoSAE
+url_git: ''

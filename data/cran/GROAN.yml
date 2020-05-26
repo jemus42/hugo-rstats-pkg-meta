@@ -1,0 +1,10 @@
+version: 1.2.0
+title: Genomic Regression Workbench
+maintainer: Nelson Nazzicari
+description: Workbench for testing genomic regression accuracy on (optionally noisy)
+  phenotypes.
+date_publication: '2018-10-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GROAN
+url_git: ''

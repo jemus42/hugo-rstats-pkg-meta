@@ -1,0 +1,9 @@
+version: 0.3-2
+title: Heteroscedastic t-Regression
+maintainer: Julian Taylor
+description: Functions for the fitting and summarizing of heteroscedastic t-regression.
+date_publication: '2018-06-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hett
+url_git: ''

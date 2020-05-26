@@ -1,0 +1,10 @@
+version: 0.3.2
+title: Pharmacokinetic/pharmacodynamic models
+maintainer: Douglas Bates
+description: Provides functions to evaluate common<U+000a>pharmacokinetic/pharmacodynamic
+  models and their gradients.
+date_publication: '2012-01-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PKPDmodels
+url_git: http://PKPD.R-forge.R-project.org

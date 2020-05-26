@@ -1,0 +1,10 @@
+version: 1.0-0
+title: Categorical Randomized Block Data Analysis
+maintainer: David Allingham
+description: Implements a statistical test for comparing bar plots or histograms of
+  categorical data derived from a randomized block repeated measures layout.
+date_publication: '2019-04-02'
+bug_reports: ''
+url: https://carma.newcastle.edu.au/davida/
+url_cran: https://CRAN.R-project.org/package=crblocks
+url_git: ''

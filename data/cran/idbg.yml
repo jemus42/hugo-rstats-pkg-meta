@@ -1,0 +1,9 @@
+version: '1.0'
+title: R debugger
+maintainer: Ronen Kimchi
+description: An interactive R debugger
+date_publication: '2012-02-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=idbg
+url_git: ''

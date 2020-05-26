@@ -1,0 +1,23 @@
+version: 0.2.3
+title: Tools to Manipulate and Query Semantic Data
+maintainer: Carl Boettiger
+description: |-
+  The Resource Description Framework, or 'RDF' is a widely used
+  data representation model that forms the cornerstone of the
+  Semantic Web. 'RDF' represents data as a graph rather than
+  the familiar data table or rectangle of relational databases.
+  The 'rdflib' package provides a friendly and concise user interface
+  for performing common tasks on 'RDF' data, such as reading, writing
+  and converting between the various serializations of 'RDF' data,
+  including 'rdfxml', 'turtle', 'nquads', 'ntriples', and 'json-ld';
+  creating new 'RDF' graphs, and performing graph queries using 'SPARQL'.
+  This package wraps the low level 'redland' R package which
+  provides direct bindings to the 'redland' C library.  Additionally,
+  the package supports the newer and more developer friendly
+  'JSON-LD' format through the 'jsonld' package. The package
+  interface takes inspiration from the Python 'rdflib' library.
+date_publication: '2020-01-10'
+bug_reports: https://github.com/ropensci/rdflib/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rdflib
+url_git: https://github.com/ropensci/rdflib

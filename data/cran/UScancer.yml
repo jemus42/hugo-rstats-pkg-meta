@@ -1,0 +1,11 @@
+version: 0.1-2
+title: Create US cancer datasets from SEER, IARC, and US Census data
+maintainer: Jonathan Lee
+description: This package contains functions to read cancer data from SEER (http://seer.cancer.gov/)
+  and IARC (http://www.iarc.fr) to create datasets at the county level based on US
+  census information.
+date_publication: '2014-08-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=UScancer
+url_git: ''

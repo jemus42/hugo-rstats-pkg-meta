@@ -1,0 +1,14 @@
+version: 1.2.1
+title: Machine Learning Foundations
+maintainer: Kyle Peterson
+description: 'Offers a gentle introduction to machine learning concepts for practitioners
+  with a statistical pedigree: decomposition of model error (bias-variance trade-off),
+  nonlinear correlations, information theory and functional permutation/bootstrap
+  simulations. Székely GJ, Rizzo ML, Bakirov NK. (2007). <doi:10.1214/009053607000000505>.
+  Reshef DN, Reshef YA, Finucane HK, Grossman SR, McVean G, Turnbaugh PJ, Lander ES,
+  Mitzenmacher M, Sabeti PC. (2011). <doi:10.1126/science.1205438>.'
+date_publication: '2018-06-25'
+bug_reports: ''
+url: http://mlf-project.us/
+url_cran: https://CRAN.R-project.org/package=mlf
+url_git: ''

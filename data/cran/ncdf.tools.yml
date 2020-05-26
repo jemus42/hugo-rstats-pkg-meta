@@ -1,0 +1,12 @@
+version: 0.7.1.295
+title: Easier 'NetCDF' File Handling
+maintainer: Jannis v. Buttlar
+description: |-
+  Set of tools to simplify the handling of 'NetCDF' files with the 'RNetCDF' package.
+  Most functions are wrappers of basic functions from the 'RNetCDF' package to easily run combinations of these
+  functions for frequently encountered tasks.
+date_publication: '2015-05-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ncdf.tools
+url_git: ''

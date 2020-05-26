@@ -1,0 +1,15 @@
+version: 1.0.4
+title: |-
+  Selecting Bandwidth for Kernel Density Estimator with Minimum
+  Distance Method
+maintainer: Genzo Kaga
+description: Selects bandwidth for the kernel density estimator with minimum distance
+  method as proposed by Devroye and Lugosi (1996). The minimum distance method directly
+  selects the optimal kernel density estimator from countably infinite kernel density
+  estimators and indirectly selects the optimal bandwidth. This package selects the
+  optimal bandwidth from finite kernel density estimators.
+date_publication: '2016-02-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=md
+url_git: ''

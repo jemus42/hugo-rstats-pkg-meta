@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Computes Powell's Generalized Synthetic Control Estimator
+maintainer: Philip Barrett
+description: |-
+  Computes the generalized synthetic control estimator described in
+  Powell (2017) <doi:10.7249/WR1142>.  Provides both point estimates, and hypothesis testing.
+date_publication: '2018-10-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pgsc
+url_git: https://github.com/philipbarrett/pgsc

@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Classical Boson Sampling
+maintainer: Raphaël Clifford
+description: |-
+  Classical Boson Sampling using the algorithm of
+  Clifford and Clifford (2017) <arXiv:1706.01260>. Also provides functions for
+  generating random unitary matrices, evaluation of matrix permanents (both
+  real and complex) and evaluation of complex permanent minors.
+date_publication: '2017-09-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BosonSampling
+url_git: ''

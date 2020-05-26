@@ -1,0 +1,15 @@
+version: 0.2.1
+title: Density Ratio Estimation
+maintainer: Koji Makiyama
+description: |-
+  Density ratio estimation.
+  The estimated density ratio function can be used in many applications such as
+  anomaly detection, change-point detection, covariate shift adaptation.
+  The implemented methods are uLSIF (Hido et al. (2011) <doi:10.1007/s10115-010-0283-2>),
+  RuLSIF (Yamada et al. (2011) <doi:10.1162/NECO_a_00442>),
+  and KLIEP (Sugiyama et al. (2007) <doi:10.1007/s10463-008-0197-x>).
+date_publication: '2019-06-30'
+bug_reports: https://github.com/hoxo-m/densratio/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=densratio
+url_git: https://github.com/hoxo-m/densratio

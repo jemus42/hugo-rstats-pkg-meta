@@ -1,0 +1,14 @@
+version: '0.3'
+title: Simple Git Client for R
+maintainer: Jeroen Ooms
+description: |-
+  Simple git client based on 'libgit2' with user-friendly authentication
+  and support for both SSH and HTTPS remotes on all platforms. User credentials
+  are shared with command line 'git' through the git-credential store and ssh keys
+  stored on disk or ssh-agent. On Linux, a somewhat recent  version of 'libgit2' is
+  required.
+date_publication: '2019-10-29'
+bug_reports: http://github.com/r-lib/gert/issues
+url: https://jeroen.cran.dev/gert(website)
+url_cran: https://CRAN.R-project.org/package=gert
+url_git: httsp://github.com/r-lib/gert(devel)

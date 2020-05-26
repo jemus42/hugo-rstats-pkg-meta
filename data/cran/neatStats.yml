@@ -1,0 +1,14 @@
+version: 1.2.0
+title: Neat and Painless Statistical Reporting
+maintainer: Gáspár Lukács
+description: |-
+  User-friendly, clear and simple statistics, primarily for
+  publication in psychological science. The main functions are wrappers for
+  other packages, but there are various additions as well. Every relevant step
+  from data aggregation to reportable printed statistics is covered for basic
+  experimental designs.
+date_publication: '2020-05-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=neatStats
+url_git: https://github.com/gasparl/neatstats

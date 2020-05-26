@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Plotting and Comparing Means with Violin Plots
+maintainer: Jefferson Paril
+description: Produces violin plots with optional mean comparison with Tukey's honest
+  significant difference and linear regression. This package aims to be a simple and
+  quick visualization tool for comparing means and assessing trends of categorical
+  factors.
+date_publication: '2020-03-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=violinplotter
+url_git: ''

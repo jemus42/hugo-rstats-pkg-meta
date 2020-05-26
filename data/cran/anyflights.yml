@@ -1,0 +1,14 @@
+version: 0.2.0
+title: |-
+  Query `nycflights13`-Like Air Travel Data for Given Years and
+  Airports
+maintainer: Simon P. Couch
+description: |-
+  Supplies a set of functions to query air travel data for user-
+  specified years and airports. Datasets include on-time flights, airlines,
+  airports, planes, and weather.
+date_publication: '2020-04-27'
+bug_reports: https://github.com/simonpcouch/anyflights/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=anyflights
+url_git: http://github.com/simonpcouch/anyflights

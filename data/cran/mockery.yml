@@ -1,0 +1,16 @@
+version: 0.4.2
+title: Mocking Library for R
+maintainer: Jim Hester
+description: |2-
+
+  The two main functionalities of this package are creating mock
+  objects (functions) and selectively intercepting calls to a given
+  function that originate in some other function. It can be used
+  with any testing framework available for R. Mock objects can
+  be injected with either this package's own stub() function or a
+  similar with_mock() facility present in the 'testthat' package.
+date_publication: '2019-09-03'
+bug_reports: https://github.com/jfiksel/mockery/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mockery
+url_git: https://github.com/jfiksel/mockery

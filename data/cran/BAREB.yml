@@ -1,0 +1,15 @@
+version: 0.1.0
+title: A Bayesian Repulsive Biclustering Model for Periodontal Data
+maintainer: Yuliang Li
+description: |-
+  BAREB, a BAyesian REpulsive Biclustering model,
+  that can simultaneously cluster the Periodontal diseases (PD) patients
+  and their tooth sites after taking the patient- and site-level covariates into consideration.
+  BAREB uses the determinantal point process (DPP) prior to induce diversity
+  among different biclusters to facilitate parsimony and interpretability.
+  Essentially, BAREB is a cluster-wise linear model based on Yuliang (2019) <arXiv:1902.05680>.
+date_publication: '2020-03-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BAREB
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.0.1
+title: Inference and Clustering of Functional Data
+maintainer: Andrea Martino
+description: |-
+  Some methods for the inference and clustering of univariate and
+  multivariate functional data, using a generalization of Mahalanobis
+  distance, along with some functions useful for the analysis of functional data.
+  For further details, see Martino A., Ghiglietti, A., Ieva, F. and Paganoni A. M. (2017) <arXiv:1708.00386>.
+date_publication: '2018-04-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gmfd
+url_git: ''

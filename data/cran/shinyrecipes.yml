@@ -1,0 +1,14 @@
+version: 0.1.0
+title: |-
+  Gadget to Use the Data Preprocessing 'recipes' Package
+  Interactively
+maintainer: Alberto Almuiña
+description: |-
+  This gadget allows you to use the 'recipes' package belonging to 'tidymodels' to carry
+  out the data preprocessing tasks in an interactive way. Build your 'recipe' by dragging the variables,
+  visually analyze your data to decide which steps to use, add those steps and preprocess your data.
+date_publication: '2020-05-05'
+bug_reports: https://github.com/AlbertoAlmuinha/shinyrecipes/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinyrecipes
+url_git: https://github.com/AlbertoAlmuinha/shinyrecipes

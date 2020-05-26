@@ -1,0 +1,12 @@
+version: 0.2.0
+title: '''Leaflet-timeline'' Plugin for Leaflet'
+maintainer: Kent Russell
+description: |-
+  Use the 'leaflet-timeline' plugin with a leaflet widget to add an
+  interactive slider with play, pause, and step buttons to explore temporal
+  geographic spatial data changes.
+date_publication: '2020-01-26'
+bug_reports: https://github.com/timelyportfolio/leaftime/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=leaftime
+url_git: https://github.com/timelyportfolio/leaftime

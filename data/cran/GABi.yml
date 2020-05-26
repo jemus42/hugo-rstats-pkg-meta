@@ -1,0 +1,10 @@
+version: '0.1'
+title: Framework for Generalized Subspace Pattern Mining
+maintainer: Ed Curry
+description: Generalized subspace pattern mining in data arrays, using a genetic algorithm
+  framework.
+date_publication: '2013-09-17'
+bug_reports: ''
+url: http://www1.imperial.ac.uk/medicine/people/e.curry/
+url_cran: https://CRAN.R-project.org/package=GABi
+url_git: ''

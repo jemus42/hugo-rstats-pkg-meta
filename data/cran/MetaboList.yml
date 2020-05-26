@@ -1,0 +1,12 @@
+version: '2.0'
+title: |-
+  Annotation of Metabolites from Liquid Chromatography-Mass
+  Spectrometry Data
+maintainer: Manuel David Peris Diaz
+description: Automatic metabolite annotation from Liquid Chromatography-Mass Spectrometry
+  (LC-MS and LC-MS/MS DIA) analysis.
+date_publication: '2019-08-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MetaboList
+url_git: ''

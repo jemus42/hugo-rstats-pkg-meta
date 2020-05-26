@@ -1,0 +1,11 @@
+version: 1.3.4
+title: Photometry Tools
+maintainer: Aaron Robotham
+description: Core package containing all the tools for simple and advanced source
+  extraction. This is used to create inputs for 'ProFit', or for source detection,
+  extraction and photometry in its own right.
+date_publication: '2018-11-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ProFound
+url_git: ''

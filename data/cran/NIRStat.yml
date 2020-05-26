@@ -1,0 +1,16 @@
+version: '1.0'
+title: |-
+  Novel Statistical Methods for Studying Near-Infrared
+  Spectroscopy (NIRS) Time Series Data
+maintainer: Yikai Wang
+description: 'Provides transfusion-related differential tests on Near-infrared spectroscopy
+  (NIRS) time series with detection limit, which contains two testing statistics:
+  Mean Area Under the Curve (MAUC) and slope statistic. This package applied a penalized
+  spline method within an imputation setting. Testing is conducted by a nested permutation
+  approach within imputation. Refer to Guo et al (2018) <arXiv:1801.08153> for further
+  details.'
+date_publication: '2018-01-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NIRStat
+url_git: ''

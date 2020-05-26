@@ -1,0 +1,13 @@
+version: 1.2-3.1
+title: |-
+  Approximate Conditional Inference for Logistic and Loglinear
+  Models
+maintainer: Alessandra R. Brazzale
+description: |-
+  Higher order likelihood-based inference for logistic and
+  loglinear models.
+date_publication: '2018-04-16'
+bug_reports: ''
+url: http://statwww.epfl.ch/AA/
+url_cran: https://CRAN.R-project.org/package=cond
+url_git: ''

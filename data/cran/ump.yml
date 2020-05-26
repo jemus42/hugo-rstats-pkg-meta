@@ -1,0 +1,16 @@
+version: 0.5-8
+title: Uniformly Most Powerful Tests
+maintainer: Charles J. Geyer
+description: |-
+  Does uniformly most powerful (UMP) and uniformly most
+  powerful unbiased (UMPU) tests.  At present only distribution implemented
+  is binomial distribution.  Also does fuzzy tests and confidence intervals
+  (following Geyer and Meeden, 2005, <doi:10.1214/088342305000000340>)
+  for the binomial
+  distribution (one-tailed procedures based on UMP test and two-tailed
+  procedures based on UMPU test).
+date_publication: '2017-03-27'
+bug_reports: ''
+url: http://www.stat.umn.edu/geyer/fuzz/
+url_cran: https://CRAN.R-project.org/package=ump
+url_git: ''

@@ -1,0 +1,14 @@
+version: 0.3.5
+title: Larger-than-RAM Disk-Based Data Manipulation Framework
+maintainer: Dai ZJ
+description: |-
+  A disk-based data manipulation tool for working with
+  large-than-RAM datasets. Aims to lower the barrier-to-entry for
+  manipulating large datasets by adhering closely to popular and
+  familiar data manipulation paradigms like dplyr verbs and
+  data.table syntax.
+date_publication: '2020-05-08'
+bug_reports: https://github.com/xiaodaigh/disk.frame/issues
+url: https://diskframe.com
+url_cran: https://CRAN.R-project.org/package=disk.frame
+url_git: ''

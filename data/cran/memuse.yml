@@ -1,0 +1,13 @@
+version: 4.1-0
+title: Memory Estimation Utilities
+maintainer: Drew Schmidt
+description: |-
+  How much ram do you need to store a 100,000 by 100,000 matrix?
+  How much ram is your current R session using? How much ram do you even have?
+  Learn the scintillating answer to these and many more such questions with
+  the 'memuse' package.
+date_publication: '2020-02-17'
+bug_reports: https://github.com/shinra-dev/memuse/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=memuse
+url_git: https://github.com/shinra-dev/memuse

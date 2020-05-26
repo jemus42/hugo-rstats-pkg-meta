@@ -1,0 +1,14 @@
+version: 0.8.6.2
+title: |-
+  Trust Region Optimization for Nonlinear Functions with Sparse
+  Hessians
+maintainer: Michael Braun
+description: |-
+  Trust region algorithm for nonlinear optimization. Efficient when
+  the Hessian of the objective function is sparse (i.e., relatively few nonzero
+  cross-partial derivatives). See Braun, M. (2014) <doi:10.18637/jss.v060.i04>.
+date_publication: '2018-03-27'
+bug_reports: ''
+url: http://coxprofs.cox.smu.edu/braunm
+url_cran: https://CRAN.R-project.org/package=trustOptim
+url_git: ''

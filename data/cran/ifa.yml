@@ -1,0 +1,9 @@
+version: '7.0'
+title: Independent Factor Analysis
+maintainer: Cinzia Viroli
+description: The package performes Independent Factor Analysis
+date_publication: '2012-01-17'
+bug_reports: ''
+url: www2.stat.unibo.it/viroli
+url_cran: https://CRAN.R-project.org/package=ifa
+url_git: ''

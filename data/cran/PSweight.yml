@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Propensity Score Weighting for Causal Inference
+maintainer: Tianhui Zhou
+description: Supports propensity score weighting analysis of observational studies
+  and randomized trials. Enables the estimation and inference of average causal effects
+  among target populations with binary and multiple treatments using the methods developed
+  in Li, Morgan and Zaslavsky (2018) <doi:10.1080/01621459.2016.1260466> and Li and
+  Li (2019) <doi:10.1214/19-AOAS1282>.
+date_publication: '2020-05-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PSweight
+url_git: https://github.com/thuizhou/PSweight

@@ -1,0 +1,9 @@
+version: 0.1.1
+title: Ask Yes-No Questions
+maintainer: Joe Thorley
+description: Asks Yes-No questions with variable or custom responses.
+date_publication: '2020-03-04'
+bug_reports: https://github.com/poissonconsulting/yesno/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=yesno
+url_git: https://github.com/poissonconsulting/yesno

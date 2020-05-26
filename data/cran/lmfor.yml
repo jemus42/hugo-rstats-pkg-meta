@@ -1,0 +1,12 @@
+version: '1.4'
+title: Functions for Forest Biometrics
+maintainer: Lauri Mehtatalo
+description: Functions for different purposes related to Forest biometrics, including
+  illustrative graphics, numerical computation, modeling height-diameter relationships,
+  prediction of tree volumes, modelling of diameter distributions and estimation off
+  stand density using ITD. Several empirical datasets are also included.
+date_publication: '2019-10-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lmfor
+url_git: ''

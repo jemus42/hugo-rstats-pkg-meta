@@ -1,0 +1,11 @@
+version: 1.0.7
+title: Computation of Power and Level Tables for Hypothesis Tests
+maintainer: Pierre Lafaye De Micheaux
+description: Functions for the computation of power and level tables for hypothesis
+  tests, in Latex format, functions to build explanatory graphs for studying power
+  of test statistics.
+date_publication: '2018-08-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PoweR
+url_git: ''

@@ -1,0 +1,11 @@
+version: '3.2'
+title: Fits Piecewise Constant Models with Data-Adaptive Knots
+maintainer: Ashley Petersen
+description: 'Implements the fused lasso additive model as proposed in Petersen, A.,
+  Witten, D., and Simon, N. (2016). Fused Lasso Additive Model. Journal of Computational
+  and Graphical Statistics, 25(4): 1005-1025.'
+date_publication: '2018-04-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=flam
+url_git: ''

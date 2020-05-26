@@ -1,0 +1,15 @@
+version: 0.1-6
+title: Bayesian Estimation of Incoherent Neutron Scattering Backgrounds
+maintainer: Anton Gagin
+description: |-
+  We implemented a Bayesian-statistics approach for
+  subtraction of incoherent scattering from neutron total-scattering data.
+  In this approach, the estimated background signal associated with
+  incoherent scattering maximizes the posterior probability, which combines
+  the likelihood of this signal in reciprocal and real spaces with the prior
+  that favors smooth lines.
+date_publication: '2016-03-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BBEST
+url_git: ''

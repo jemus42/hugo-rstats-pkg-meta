@@ -1,0 +1,18 @@
+version: 0.3.3
+title: |-
+  Change-Point Estimation for Expensive and High-Dimensional
+  Models
+maintainer: Leland Bybee
+description: This implements the methods developed in, L. Bybee and Y. Atchade. (2018).  Contains
+  a series of methods for estimating change-points given user specified black-box
+  models.  The methods include binary segmentation for multiple change-point estimation.
+  For estimating each individual change-point the package includes simulated annealing,
+  brute force, and, for Gaussian graphical models, an applications specific rank-one
+  update implementation.  Additionally, code for estimating Gaussian graphical models
+  is included.  The goal of this package is to allow for the efficient estimation
+  of change-points in complicated models with high dimensional data.
+date_publication: '2019-09-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=changepointsHD
+url_git: ''

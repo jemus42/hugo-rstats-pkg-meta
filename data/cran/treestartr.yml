@@ -1,0 +1,13 @@
+version: 0.1.0
+title: |-
+  Generate Starting Trees for Combined Molecular, Morphological
+  and Stratigraphic Data
+maintainer: April Wright
+description: |-
+  Combine a list of taxa with a phylogeny to generate a starting tree for use in
+  total evidence dating analyses.
+date_publication: '2019-01-09'
+bug_reports: https://github.com/ropensci/treeStartR/issues
+url: https://ropensci.github.io/treeStartR/
+url_cran: https://CRAN.R-project.org/package=treestartr
+url_git: ''

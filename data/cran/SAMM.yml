@@ -1,0 +1,15 @@
+version: 1.1.1
+title: Some Algorithms for Mixed Models
+maintainer: Deniz Akdemir
+description: This program can be used to fit Gaussian linear mixed models (LMM). Univariate
+  and multivariate response models, multiple variance components, as well as, certain
+  correlation and covariance structures are supported. In many occasions, the user
+  can pick one of the several mixed model fitting algorithms, which are explained
+  further in the details section. Some algorithms are specific to certain types of
+  models (univariate or multivariate, diagonal or non-diagonal residual, one or multiple
+  variance components, etc,...).
+date_publication: '2018-12-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SAMM
+url_git: ''

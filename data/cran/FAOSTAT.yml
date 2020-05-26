@@ -1,0 +1,12 @@
+version: 2.1.2
+title: Download Data from the FAOSTAT Database
+maintainer: Paul Rougieux
+description: |-
+  Download Data from the FAOSTAT Database of the Food and Agricultural Organization (FAO) of the United Nations.
+  A list of functions to download statistics from FAOSTAT (database of the FAO <http://www.fao.org/faostat/en/#data>)
+  and WDI (database of the World Bank <https://data.worldbank.org/>), and to perform some harmonization operations.
+date_publication: '2020-04-06'
+bug_reports: https://gitlab.com/paulrougieux/faostatpackage/-/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=FAOSTAT
+url_git: https://gitlab.com/paulrougieux/faostatpackage

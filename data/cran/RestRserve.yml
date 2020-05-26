@@ -1,0 +1,16 @@
+version: 0.2.2
+title: A Framework for Building HTTP API
+maintainer: Dmitriy Selivanov
+description: |2-
+
+  Allows to easily create high-performance full featured HTTP APIs from R
+  functions. Provides high-level classes such as 'Request', 'Response',
+  'Application', 'Middleware' in order to streamline server side
+  application development. Out of the box allows to serve requests using
+  'Rserve' package, but flexible enough to integrate with other HTTP servers
+  such as 'httpuv'.
+date_publication: '2020-04-12'
+bug_reports: https://github.com/rexyai/RestRserve/issues
+url: http://restrserve.org
+url_cran: https://CRAN.R-project.org/package=RestRserve
+url_git: https://github.com/rexyai/RestRserve

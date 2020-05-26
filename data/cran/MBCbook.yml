@@ -1,0 +1,15 @@
+version: 0.1.1
+title: |-
+  Companion Package for the Book "Model-Based Clustering and
+  Classification for Data Science" by Bouveyron et al. (2019,
+  ISBN:9781108644181).
+maintainer: Charles Bouveyron
+description: The companion package provides all original data sets and functions that
+  are used in the book "Model-Based Clustering and Classification for Data Science"
+  by Charles Bouveyron, Gilles Celeux, T. Brendan Murphy and Adrian E. Raftery (2019,
+  ISBN:9781108644181).
+date_publication: '2019-07-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MBCbook
+url_git: ''

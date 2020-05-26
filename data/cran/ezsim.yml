@@ -1,0 +1,9 @@
+version: 0.5.5
+title: provide an easy to use framework to conduct simulation
+maintainer: TszKin Julian Chan
+description: ezsim provides a handy way to run simulation and examine its result
+date_publication: '2014-06-26'
+bug_reports: TszKin Julian Chan <ctszkin@gmail.com>
+url: ''
+url_cran: https://CRAN.R-project.org/package=ezsim
+url_git: ''

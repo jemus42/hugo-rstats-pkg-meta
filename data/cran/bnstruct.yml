@@ -1,0 +1,18 @@
+version: 1.0.8
+title: |-
+  Bayesian Network Structure Learning from Data with Missing
+  Values
+maintainer: Alberto Franzin
+description: |-
+  Bayesian Network Structure Learning from Data with Missing Values.
+  The package implements the Silander-Myllymaki complete search,
+  the Max-Min Parents-and-Children, the Hill-Climbing, the
+  Max-Min Hill-climbing heuristic searches, and the Structural
+  Expectation-Maximization algorithm. Available scoring functions are
+  BDeu, AIC, BIC. The package also implements methods for generating and using
+  bootstrap samples, imputed data, inference.
+date_publication: '2020-05-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bnstruct
+url_git: ''

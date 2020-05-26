@@ -1,0 +1,20 @@
+version: 2.2.0
+title: |-
+  Tools for Fast Computing and Plotting Euclidean Minimum Spanning
+  Trees
+maintainer: Allan Quadros
+description: |-
+  Computes Euclidean Minimum Spanning Trees (EMST) using the fast
+  Dual-Tree Boruvka algorithm (March, Ram, Gray, 2010,
+  <doi:10.1145/1835804.1835882>) implemented in 'mlpack' - the C++ Machine
+  Learning library (Curtin et al., 2013). 'emstreeR' heavily relies on
+  'RcppMLPACK' and 'Rcpp', working as a wrapper to the C++ fast EMST
+  algorithm. Thus, R users do not have to deal with the R-'Rcpp'-C++
+  integration. The package also provides functions and an S3 method for
+  readily plotting Minimum Spanning Trees (MST) using either 'base' R,
+  'scatterplot3d' or 'ggplot2' style.
+date_publication: '2019-05-08'
+bug_reports: https://github.com/allanvc/emstreeR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=emstreeR
+url_git: ''

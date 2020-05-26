@@ -1,0 +1,11 @@
+version: 1.0.5
+title: Robust Analysis using Forward Search
+maintainer: Ken Beath
+description: |-
+  Robust analysis using forward search in linear and
+  generalized linear regression models, as described in Atkinson, A.C. and Riani, M. (2000), Robust Diagnostic Regression Analysis, First Edition. New York: Springer.
+date_publication: '2019-12-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=forward
+url_git: ''

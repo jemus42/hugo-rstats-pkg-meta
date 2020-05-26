@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Visualization Tools for Genealogical Data
+maintainer: Lindsay Rutter
+description: Methods for searching through genealogical data and displaying the results.
+  Plotting algorithms assist with data exploration and publication-quality image generation.
+  Includes interactive genealogy visualization tools. Provides parsing and calculation
+  methods for variables in descendant branches of interest. Uses the Grammar of Graphics.
+date_publication: '2020-03-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggenealogy
+url_git: ''

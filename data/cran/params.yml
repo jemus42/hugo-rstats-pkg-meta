@@ -1,0 +1,12 @@
+version: 0.6.1
+title: Simplify Parameters
+maintainer: Sahil Seth
+description: |-
+  An interface to simplify organizing parameters used in a package,
+  using external configuration files. This attempts to provide a cleaner
+  alternative to options().
+date_publication: '2016-04-19'
+bug_reports: https://github.com/sahilseth/params/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=params
+url_git: https://github.com/sahilseth/params

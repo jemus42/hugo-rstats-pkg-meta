@@ -1,0 +1,9 @@
+version: 1.0.1
+title: Futile Options Management
+maintainer: Brian Lee Yung Rowe
+description: A scoped options management framework. Used in other packages.
+date_publication: '2018-04-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=futile.options
+url_git: ''

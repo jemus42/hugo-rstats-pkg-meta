@@ -1,0 +1,12 @@
+version: '0.3'
+title: Import Origin(R) Project Files
+maintainer: Ivan Krylov
+description: |-
+  Read the data from Origin(R) project files ('*.opj')
+  <https://www.originlab.com/doc/User-Guide/Origin-File-Types>.
+  No write support is planned.
+date_publication: '2020-03-14'
+bug_reports: https://github.com/aitap/Ropj/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Ropj
+url_git: https://github.com/aitap/Ropj

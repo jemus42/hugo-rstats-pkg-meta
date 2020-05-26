@@ -1,0 +1,15 @@
+version: '1.1'
+title: Threshold Estimation Approaches
+maintainer: Johannes Ossberger
+description: Different approaches for selecting the threshold in generalized Pareto
+  distributions. Most of them are based on minimizing the AMSE-criterion or at least
+  by reducing the bias of the assumed GPD-model. Others are heuristically motivated
+  by searching for stable sample paths, i.e. a nearly constant region of the tail
+  index estimator with respect to k, which is the number of data in the tail. The
+  third class is motivated by graphical inspection. In addition, a sequential testing
+  procedure for GPD-GoF-tests is also implemented here.
+date_publication: '2020-04-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tea
+url_git: ''

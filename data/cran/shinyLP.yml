@@ -1,0 +1,13 @@
+version: 1.1.2
+title: Bootstrap Landing Home Pages for Shiny Applications
+maintainer: Jasmine Dumas
+description: |-
+  Provides functions that wrap HTML Bootstrap
+  components code to enable the design and layout of informative landing home
+  pages for Shiny applications. This can lead to a better user experience for
+  the users and writing less HTML for the developer.
+date_publication: '2018-04-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinyLP
+url_git: https://github.com/jasdumas/shinyLP

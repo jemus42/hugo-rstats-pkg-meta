@@ -1,0 +1,9 @@
+version: 1.0-4
+title: Relational Event Models
+maintainer: Carter T. Butts
+description: Tools to fit relational event models.
+date_publication: '2015-03-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=relevent
+url_git: ''

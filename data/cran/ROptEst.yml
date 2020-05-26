@@ -1,0 +1,11 @@
+version: 1.2.1
+title: Optimally Robust Estimation
+maintainer: Matthias Kohl
+description: |-
+  Optimally robust estimation in general smoothly parameterized models using S4
+  classes and methods.
+date_publication: '2019-04-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ROptEst
+url_git: http://robast.r-forge.r-project.org/

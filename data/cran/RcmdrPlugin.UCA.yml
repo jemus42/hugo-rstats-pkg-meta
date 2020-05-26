@@ -1,0 +1,12 @@
+version: 4.2-6
+title: UCA Rcmdr Plug-in
+maintainer: Manuel Munoz-Marquez
+description: |-
+  Some extensions to Rcmdr (R Commander), randomness test,
+  variance test for one normal sample and predictions using active model,
+  made by R-UCA project and used in teaching statistics at University of Cadiz (UCA).
+date_publication: '2018-12-30'
+bug_reports: ''
+url: http://knuth.uca.es/RcmdrPlugin.UCA
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.UCA
+url_git: ''

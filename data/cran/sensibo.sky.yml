@@ -1,0 +1,13 @@
+version: 1.0.0
+title: |-
+  Access to 'Sensibo Sky' API V2 for Air Conditioners Remote
+  Control
+maintainer: Gabriele Baldassarre
+description: |-
+  Provides an interface to the 'Sensibo Sky' API which allows to remotely control non-smart air conditioning units.
+  See <https://sensibo.com> for more informations.
+date_publication: '2019-06-24'
+bug_reports: https://github.com/theclue/sensibo.sky/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sensibo.sky
+url_git: https://github.com/theclue/sensibo.sky

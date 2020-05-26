@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Read 'ImageJ' Region of Interest (ROI) Files
+maintainer: David C Sterratt
+description: |-
+  Provides functions to read 'ImageJ' (http://imagej.nih.gov/ij/)
+  Region of Interest (ROI) files, to plot the ROIs and to convert them to
+  'spatstat' (http://spatstat.org/) spatial patterns.
+date_publication: '2015-05-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RImageJROI
+url_git: https://github.com/davidcsterratt/RImageJROI

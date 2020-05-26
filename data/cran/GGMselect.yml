@@ -1,0 +1,13 @@
+version: 0.1-12.4
+title: Gaussian Graphs Models Selection
+maintainer: Benjamin Auder
+description: |-
+  Graph estimation in Gaussian Graphical Models, following the method
+  developed by C. Giraud, S. Huet and N. Verzelen (2012) <doi:10.1515/1544-6115.1625>.
+  The main functions return the adjacency matrix of an undirected graph
+  estimated from a data matrix.
+date_publication: '2020-01-10'
+bug_reports: ''
+url: http://genome.jouy.inra.fr/logiciels/GGMselect/
+url_cran: https://CRAN.R-project.org/package=GGMselect
+url_git: ''

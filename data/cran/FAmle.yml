@@ -1,0 +1,13 @@
+version: 1.3.5
+title: |-
+  Maximum Likelihood and Bayesian Estimation of Univariate
+  Probability Distributions
+maintainer: Thomas Petzoldt
+description: |-
+  Estimate parameters of univariate probability distributions
+  with maximum likelihood and Bayesian methods.
+date_publication: '2017-06-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FAmle
+url_git: https://github.com/tpetzoldt/FAmle

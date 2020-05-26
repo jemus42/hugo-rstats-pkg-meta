@@ -1,0 +1,13 @@
+version: '1.23'
+title: Firth's Bias-Reduced Logistic Regression
+maintainer: Georg Heinze
+description: |-
+  Fit a logistic regression model using Firth's bias reduction method, equivalent to penalization of the log-likelihood by the Jeffreys
+  prior. Confidence intervals for regression coefficients can be computed by penalized profile likelihood. Firth's method was proposed as ideal
+  solution to the problem of separation in logistic regression. If needed, the bias reduction can be turned off such that ordinary
+  maximum likelihood logistic regression is obtained.
+date_publication: '2018-07-19'
+bug_reports: ''
+url: http://cemsiis.meduniwien.ac.at/en/kb/science-research/software/statistical-software/fllogistf/
+url_cran: https://CRAN.R-project.org/package=logistf
+url_git: ''

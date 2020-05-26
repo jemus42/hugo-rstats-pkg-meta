@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Semiparametric Analysis of Changepoint
+maintainer: Zhong Guan
+description: |-
+  Semiparametric empirical likelihood ratio
+  based test of changepoint with one-change or epidemic alternatives
+  with data-based model diagnostic
+date_publication: ''
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sac
+url_git: ''

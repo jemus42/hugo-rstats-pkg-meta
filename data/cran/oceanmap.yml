@@ -1,0 +1,11 @@
+version: 0.1.1
+title: A Plotting Toolbox for 2D Oceanographic Data
+maintainer: Robert K. Bauer
+description: Plotting toolbox for 2D oceanographic data (satellite data, sea surface
+  temperature, chlorophyll, ocean fronts & bathymetry). Recognized classes and formats
+  include netcdf, Raster, '.nc' and '.gz' files.
+date_publication: '2020-03-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=oceanmap
+url_git: ''

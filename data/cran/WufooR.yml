@@ -1,0 +1,13 @@
+version: 1.0.1
+title: R Wrapper for the 'Wufoo.com' - The Form Building Service
+maintainer: John Malc
+description: |-
+  Allows form managers to download entries from their respondents
+  using Wufoo JSON API (<https://www.wufoo.com>). Additionally, the Wufoo reports - when public - can be
+  also acquired programmatically. Note that building new forms within this package
+  is not supported.
+date_publication: '2020-04-11'
+bug_reports: https://github.com/dmpe/wufoor/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=WufooR
+url_git: https://github.com/dmpe/wufoor

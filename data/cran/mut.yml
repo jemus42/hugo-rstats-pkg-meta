@@ -1,0 +1,11 @@
+version: '1.1'
+title: Pairwise Likelihood Ratios
+maintainer: Thore Egeland
+description: Main function LR2 calculates likelihood ratio for non-inbred relationships
+  accounting for mutation, silent alleles and theta correction. Egeland, Pinto and
+  Amorim (2017) <DOI:10.1016/j.fsigen.2017.04.018>.
+date_publication: '2017-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mut
+url_git: ''

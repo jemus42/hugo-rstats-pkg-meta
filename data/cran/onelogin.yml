@@ -1,0 +1,11 @@
+version: 0.2.0
+title: Interact with the 'OneLogin' API
+maintainer: Alex Gold
+description: |-
+  The identity provider ['OneLogin']<http://onelogin.com> is used for
+  authentication via Single Sign On (SSO). This package provides an R interface to their API.
+date_publication: '2019-08-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=onelogin
+url_git: ''

@@ -1,0 +1,16 @@
+version: 0.1.2
+title: |-
+  Optimos Prime Helps Calculate Autoecological Data for Biological
+  Species
+maintainer: Joaquín Cochero
+description: |-
+  Calculates autoecological data (optima and tolerance ranges) of a biological species
+  given an environmental matrix. The package calculates by weighted averaging, using the number of occurrences to adjust the
+  tolerance assigned to each taxon to estimate optima and tolerance range in cases where taxa
+  have unequal occurrences. See the detailed methodology by Birks et al. (1990) <doi:10.1098/rstb.1990.0062>, and a
+  case example by Potapova and Charles (2003) <doi:10.1046/j.1365-2427.2003.01080.x>.
+date_publication: '2020-01-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=optimos.prime
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.9-3
+title: Functions to Calculate Relatedness on Diploid Genetic Data
+maintainer: Philipp Kraemer
+description: Functions to calculate pairwise relatedness on diploid genetic datasets.
+  Different estimators for relatedness can be combined with information on geographical
+  distances. Information on heterozygosity, allele- and genotype diversity as well
+  as genetic F-statistics are provided for each population.
+date_publication: '2017-03-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Demerelate
+url_git: ''

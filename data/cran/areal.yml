@@ -1,0 +1,14 @@
+version: 0.1.6
+title: Areal Weighted Interpolation
+maintainer: Christopher Prener
+description: |-
+  A pipeable, transparent implementation of areal weighted interpolation
+  with support for interpolating multiple variables in a single function call.
+  These tools provide a full-featured workflow for validation and estimation
+  that fits into both modern data management (e.g. tidyverse) and spatial
+  data (e.g. sf) frameworks.
+date_publication: '2020-05-12'
+bug_reports: https://github.com/slu-openGIS/areal/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=areal
+url_git: https://github.com/slu-openGIS/areal

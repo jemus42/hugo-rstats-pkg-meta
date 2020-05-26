@@ -1,0 +1,12 @@
+version: 2.3.2
+title: Unit Testing for R
+maintainer: Hadley Wickham
+description: |-
+  Software testing is important, but, in part because it is
+  frustrating and boring, many of us avoid it. 'testthat' is a testing framework
+  for R that is easy to learn and use, and integrates with your existing 'workflow'.
+date_publication: '2020-03-02'
+bug_reports: https://github.com/r-lib/testthat/issues
+url: http://testthat.r-lib.org
+url_cran: https://CRAN.R-project.org/package=testthat
+url_git: https://github.com/r-lib/testthat

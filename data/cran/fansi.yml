@@ -1,0 +1,11 @@
+version: 0.4.1
+title: ANSI Control Sequence Aware String Functions
+maintainer: Brodie Gaslam
+description: |-
+  Counterparts to R string manipulation functions that account for
+  the effects of ANSI text formatting control sequences.
+date_publication: '2020-01-08'
+bug_reports: https://github.com/brodieG/fansi/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=fansi
+url_git: https://github.com/brodieG/fansi

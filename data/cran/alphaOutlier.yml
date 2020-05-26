@@ -1,0 +1,14 @@
+version: 1.2.0
+title: |-
+  Obtain Alpha-Outlier Regions for Well-Known Probability
+  Distributions
+maintainer: Andre Rehage
+description: 'Given the parameters of a distribution, the package uses the concept
+  of alpha-outliers by Davies and Gather (1993) to flag outliers in a data set. See
+  Davies, L.; Gather, U. (1993): The identification of multiple outliers, JASA, 88
+  423, 782-792, <doi:10.1080/01621459.1993.10476339> for details.'
+date_publication: '2016-09-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=alphaOutlier
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.4.1
+title: 'Locally Gaussian Distributions: Estimation and Methods'
+maintainer: Håkon Otneim
+description: |-
+  An implementation of locally Gaussian distributions. It provides methods for
+  implementing locally Gaussian multivariate density estimation, conditional density
+  estimation, various independence tests for iid and time series data, a test for conditional
+  independence and a test for financial contagion.
+date_publication: '2019-12-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lg
+url_git: ''

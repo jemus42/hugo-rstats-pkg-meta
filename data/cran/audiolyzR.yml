@@ -1,0 +1,9 @@
+version: 0.4-9
+title: 'audiolyzR: Give your data a listen'
+maintainer: Eric Stone
+description: Creates audio representations of common plots in R
+date_publication: '2013-02-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=audiolyzR
+url_git: ''

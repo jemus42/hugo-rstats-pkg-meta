@@ -1,0 +1,12 @@
+version: 0.1.1
+title: |-
+  Analytical Procedures in Support of Brazilian Public Sector
+  External Auditing
+maintainer: Bruno Melo
+description: Set of analytical procedures based on advanced data analysis in support
+  of Brazil's public sector external control activity.
+date_publication: '2017-09-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcextTools
+url_git: http://github.com/brunomssmelo/RcextTools/

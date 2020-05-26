@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Connect MonetDB to R
+maintainer: Hannes Muehleisen
+description: Allows to pull data from MonetDB into R. Includes a DBI implementation
+  and a dplyr backend.
+date_publication: '2016-03-21'
+bug_reports: ''
+url: http://www.monetdb.org
+url_cran: https://CRAN.R-project.org/package=MonetDB.R
+url_git: ''

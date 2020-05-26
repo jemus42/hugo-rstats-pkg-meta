@@ -1,0 +1,12 @@
+version: 0.1.1
+title: R Package for Pairwise Preference Elicitation
+maintainer: John Lepird
+description: |-
+  Allows users to derive multi-objective weights from pairwise comparisons, which
+  research shows is more repeatable, transparent, and intuitive other techniques. These weights
+  can be rank existing alternatives or to define a multi-objective utility function for optimization.
+date_publication: '2017-02-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=prefeR
+url_git: ''

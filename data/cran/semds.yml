@@ -1,0 +1,13 @@
+version: 0.9-6
+title: Structural Equation Multidimensional Scaling
+maintainer: Patrick Mair
+description: Fits a structural equation multidimensional scaling (SEMDS) model for
+  asymmetric and three-way input dissimilarities. It assumes that the dissimilarities
+  are measured with errors. The latent dissimilarities are estimated as factor scores
+  within an SEM framework while the objects are represented in a low-dimensional space
+  as in MDS.
+date_publication: '2018-12-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=semds
+url_git: ''

@@ -1,0 +1,10 @@
+version: '1.0'
+title: Normalized Laplacian Matrix and Laplacian Map
+maintainer: Tianhao Wu
+description: Constructs the normalized Laplacian matrix of a square matrix, returns
+  the eigenvectors (singular vectors) and visualization of normalized Laplacian map.
+date_publication: '2016-07-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=matrixLaplacian
+url_git: ''

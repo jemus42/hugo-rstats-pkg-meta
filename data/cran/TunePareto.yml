@@ -1,0 +1,10 @@
+version: '2.5'
+title: Multi-Objective Parameter Tuning for Classifiers
+maintainer: Hans Kestler
+description: Generic methods for parameter tuning of classification algorithms using
+  multiple scoring functions.
+date_publication: '2018-06-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TunePareto
+url_git: ''

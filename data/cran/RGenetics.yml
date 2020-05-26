@@ -1,0 +1,9 @@
+version: '0.1'
+title: R packages for genetics research
+maintainer: Felix Yanhui Fan
+description: R packages for genetics research
+date_publication: '2013-11-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RGenetics
+url_git: ''

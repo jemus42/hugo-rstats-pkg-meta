@@ -1,0 +1,21 @@
+version: 1.0.1
+title: Probabilistic neural networks
+maintainer: Pierre-Olivier Chasset
+description: |-
+  The program pnn implements the algorithm proposed by
+  Specht (1990).  It is written in the R statistical language. It
+  solves a common problem in automatic learning. Knowing a set of
+  observations described by a vector of quantitative variables,
+  we classify them in a given number of groups. Then, the
+  algorithm is trained with this datasets and should guess
+  afterwards the group of any new observation. This neural
+  network has the main advantage to begin generalization
+  instantaneously even with a small set of known observations. It
+  is delivered with four functions (learn, smooth, perf and
+  guess) and a dataset. The functions are documented with
+  examples and provided with unit tests.
+date_publication: '2013-05-07'
+bug_reports: ''
+url: http://flow.chasset.net/pnn/
+url_cran: https://CRAN.R-project.org/package=pnn
+url_git: ''

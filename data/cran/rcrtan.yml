@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Criterion-Referenced Test Analysis
+maintainer: Geoffrey T. LaFlair
+description: |-
+  Contains methods for criterion-referenced test analyses as
+  described in Brown & Hudson (2002). This includes cut-score item discrimination
+  analyses and measures of dependability.
+date_publication: '2018-12-19'
+bug_reports: https://github.com/gtlaflair/rcrtan/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rcrtan
+url_git: https://github.com/gtlaflair/rcrtan

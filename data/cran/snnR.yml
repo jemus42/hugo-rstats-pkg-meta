@@ -1,0 +1,11 @@
+version: '1.0'
+title: Sparse Neural Networks for Genomic Selection in Animal Breeding
+maintainer: Yangfan Wang<yfwang@ouc.edu.cn>
+description: Solve the problem of over-parameterization in neural networks for genomic
+  selection. Daniel Gianola, Hayrettin OkutEmail, Kent A Weigel and Guilherme JM Rosa
+  (2011) <doi:10.1186/1471-2156-12-87>.
+date_publication: '2017-11-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=snnR
+url_git: ''

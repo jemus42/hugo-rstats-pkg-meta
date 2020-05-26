@@ -1,0 +1,11 @@
+version: 2.0.0
+title: Discovery of Motifs in Spatial-Time Series
+maintainer: Heraldo Borges
+description: Allow to identify motifs in spatial-time series. A motif is a previously
+  unknown subsequence of a (spatial) time series with relevant number of occurrences.
+  For this purpose, the Combined Series Approach (CSA) is used.
+date_publication: '2020-01-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=STMotif
+url_git: ''

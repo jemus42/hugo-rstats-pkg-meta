@@ -1,0 +1,12 @@
+version: 0.1.6
+title: Orthogonal B-Spline Basis Functions
+maintainer: Andrew Redd
+description: |-
+  Represents the basis functions for B-splines in a simple matrix
+  formulation that facilitates, taking integrals, derivatives, and
+  making orthogonal the basis functions.
+date_publication: '2015-03-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=orthogonalsplinebasis
+url_git: https://github.com/halpo/obsplines

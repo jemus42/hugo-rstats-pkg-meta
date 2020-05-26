@@ -1,0 +1,9 @@
+version: 0.0-2
+title: Hurst-Kolmogorov Process
+maintainer: Hristos Tyralis
+description: Methods to make inference about the Hurst-Kolmogorov and the AR(1) process.
+date_publication: '2016-01-15'
+bug_reports: ''
+url: www.itia.ntua.gr/en/softinfo/31/
+url_cran: https://CRAN.R-project.org/package=HKprocess
+url_git: ''

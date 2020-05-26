@@ -1,0 +1,22 @@
+version: 0.2-2
+title: Syllable Counting and Readability Measurements
+maintainer: Drew Schmidt
+description: |-
+  An English language syllable counter, plus readability score
+  measure-er. For readability, we support 'Flesch' Reading Ease and
+  'Flesch-Kincaid' Grade Level ('Kincaid' 'et al'. 1975)
+  <https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1055&context=istlibrary>,
+  Automated Readability Index ('Senter' and Smith 1967)
+  <http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD0667273>,
+  Simple Measure of Gobbledygook (McLaughlin 1969)
+  <https://www.semanticscholar.org/paper/SMOG-Grading-A-New-Readability-Formula.-Laughlin/5fccb74c14769762b3de010c5e8a1a7ce700d17a>,
+  and 'Coleman-Liau' (Coleman and 'Liau' 1975) <doi:10.1037/h0076540>. The
+  package has been carefully optimized and should be very efficient, both in
+  terms of run time performance and memory consumption. The main methods are
+  'vectorized' by document, and scores for multiple documents are computed in
+  parallel via 'OpenMP'.
+date_publication: '2020-02-23'
+bug_reports: https://github.com/wrathematics/sylcount/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sylcount
+url_git: https://github.com/wrathematics/sylcount

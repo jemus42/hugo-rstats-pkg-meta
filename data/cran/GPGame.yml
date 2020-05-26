@@ -1,0 +1,12 @@
+version: 1.1.0
+title: Solving Complex Game Problems using Gaussian Processes
+maintainer: Victor Picheny
+description: Sequential strategies for finding a game equilibrium are proposed in
+  a black-box setting (expensive pay-off evaluations, no derivatives). The algorithm
+  handles noiseless or noisy evaluations. Two acquisition functions are available.
+  Graphical outputs can be generated automatically.
+date_publication: '2018-03-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GPGame
+url_git: ''

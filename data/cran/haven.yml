@@ -1,0 +1,12 @@
+version: 2.3.0
+title: Import and Export 'SPSS', 'Stata' and 'SAS' Files
+maintainer: Hadley Wickham
+description: |-
+  Import foreign statistical formats into R via the
+  embedded 'ReadStat' C library,
+  <https://github.com/WizardMac/ReadStat>.
+date_publication: '2020-05-24'
+bug_reports: https://github.com/tidyverse/haven/issues
+url: http://haven.tidyverse.org
+url_cran: https://CRAN.R-project.org/package=haven
+url_git: https://github.com/tidyverse/haven

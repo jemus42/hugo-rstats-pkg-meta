@@ -1,0 +1,14 @@
+version: 2.3.0
+title: |-
+  Facilitating Estimation of the Intraclass Correlation
+  Coefficient
+maintainer: Matthew Wolak
+description: Assist in the estimation of the Intraclass Correlation Coefficient (ICC)
+  from variance components of a one-way analysis of variance and also estimate the
+  number of individuals or groups necessary to obtain an ICC estimate with a desired
+  confidence interval width.
+date_publication: '2015-06-17'
+bug_reports: http://github.com/matthewwolak/ICC/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ICC
+url_git: http://github.com/matthewwolak/ICC

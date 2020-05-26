@@ -1,0 +1,16 @@
+version: 0.6.3
+title: |-
+  API Client and Dataset Management for the Demographic and Health
+  Survey (DHS) Data
+maintainer: OJ Watson
+description: |-
+  Provides a client for (1) querying the DHS API for survey indicators
+  and metadata (<https://api.dhsprogram.com/#/index.html>), (2) identifying surveys
+  and datasets for analysis, (3) downloading survey datasets from the DHS website,
+  (4) loading datasets and associate metadata into R, and (5) extracting variables
+  and combining datasets for pooled analysis.
+date_publication: '2019-03-19'
+bug_reports: https://github.com/ropensci/rdhs/issues
+url: https://ropensci.github.io/rdhs/
+url_cran: https://CRAN.R-project.org/package=rdhs
+url_git: ''

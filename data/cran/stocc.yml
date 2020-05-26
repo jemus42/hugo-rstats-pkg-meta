@@ -1,0 +1,12 @@
+version: '1.30'
+title: Fit a Spatial Occupancy Model via Gibbs Sampling
+maintainer: Devin S. Johnson
+description: |-
+  Fit a spatial-temporal occupancy models using
+  a probit formulation instead of a traditional logit
+  model.
+date_publication: '2015-08-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=stocc
+url_git: ''

@@ -1,0 +1,12 @@
+version: 1.2.1
+title: Authenticate and Create Google APIs
+maintainer: Mark Edmondson
+description: |-
+  Create R functions that interact with OAuth2 Google APIs
+  <https://developers.google.com/apis-explorer/> easily,
+  with auto-refresh and Shiny compatibility.
+date_publication: '2020-04-26'
+bug_reports: https://github.com/MarkEdmondson1234/googleAuthR/issues
+url: http://code.markedmondson.me/googleAuthR/
+url_cran: https://CRAN.R-project.org/package=googleAuthR
+url_git: ''

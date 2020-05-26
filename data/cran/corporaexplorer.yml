@@ -1,0 +1,18 @@
+version: 0.8.2
+title: A 'Shiny' App for Exploration of Text Collections
+maintainer: Kristian Lundby Gjerde
+description: |-
+  Facilitates dynamic exploration of text collections through an
+  intuitive graphical user interface and the power of regular expressions.
+  The package contains 1) a helper function to convert a data frame to a
+  'corporaexplorerobject', 2) a 'Shiny' app for fast and flexible exploration
+  of a 'corporaexplorerobject', and 3) a 'Shiny' app for simple
+  retrieval/extraction of documents from a 'corporaexplorerobject' in a
+  reading-friendly format. The package also includes demo apps with which
+  one can explore Jane Austen's novels and the State of the Union Addresses
+  (data from the 'janeaustenr' and 'sotu' packages respectively).
+date_publication: '2020-03-07'
+bug_reports: https://github.com/kgjerde/corporaexplorer/issues
+url: https://kgjerde.github.io/corporaexplorer
+url_cran: https://CRAN.R-project.org/package=corporaexplorer
+url_git: https://github.com/kgjerde/corporaexplorer

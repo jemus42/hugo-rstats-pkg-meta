@@ -1,0 +1,10 @@
+version: 2.4.2
+title: Robust Sparse K-Means
+maintainer: Yumi Kondo
+description: This RSKC package contains a function RSKC which runs the robust sparse
+  K-means clustering algorithm.
+date_publication: '2016-08-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RSKC
+url_git: ''

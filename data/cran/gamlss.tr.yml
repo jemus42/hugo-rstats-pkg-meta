@@ -1,0 +1,13 @@
+version: 5.1-0
+title: Generating and Fitting Truncated `gamlss.family' Distributions
+maintainer: Mikis Stasinopoulos
+description: |-
+  This is an add on package to GAMLSS. The purpose of this
+  package is to allow users to defined truncated distributions in
+  GAMLSS models. The main function gen.trun() generates truncated
+  version of an existing GAMLSS family distribution.
+date_publication: '2018-10-22'
+bug_reports: ''
+url: http://www.gamlss.org/
+url_cran: https://CRAN.R-project.org/package=gamlss.tr
+url_git: ''

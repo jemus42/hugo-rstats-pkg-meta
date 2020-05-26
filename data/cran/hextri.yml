@@ -1,0 +1,10 @@
+version: '0.6'
+title: Hexbin Plots with Triangles
+maintainer: Thomas Lumley
+description: Display hexagonally binned scatterplots for multi-class data, using coloured
+  triangles to show class proportions.
+date_publication: '2016-04-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hextri
+url_git: ''

@@ -1,0 +1,14 @@
+version: 1.0.1
+title: Easy Interface to Effective Concentration Calculations
+maintainer: Zhian N. Kamvar
+description: |-
+  Because fungicide resistance is an important phenotypic trait for
+  fungi and oomycetes, it is necessary to have a standardized method of
+  statistically analyzing the Effective Concentration (EC) values. This
+  package is designed for those who are not terribly familiar with R to be
+  able to analyze and plot an entire set of isolates using the 'drc' package.
+date_publication: '2016-12-05'
+bug_reports: https://github.com/grunwaldlab/ezec/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ezec
+url_git: https://github.com/grunwaldlab/ezec

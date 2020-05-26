@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Optimal Timing Identification
+maintainer: Xiao Lin
+description: Identify the optimal timing for new treatment initiation during multiple
+  state disease transition, including  multistate model fitting, simulation of mean
+  residual lifetime for a given transition state, and estimation of confidence interval.
+  The method is referred to de Wreede, L., Fiocco, M., & Putter, H. (2011) <doi:10.18637/jss.v038.i07>.
+date_publication: '2017-11-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OptimalTiming
+url_git: ''

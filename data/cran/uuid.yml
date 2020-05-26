@@ -1,0 +1,9 @@
+version: 0.1-4
+title: Tools for Generating and Handling of UUIDs
+maintainer: Simon Urbanek
+description: Tools for generating and handling of UUIDs (Universally Unique Identifiers).
+date_publication: '2020-02-26'
+bug_reports: ''
+url: http://www.rforge.net/uuid
+url_cran: https://CRAN.R-project.org/package=uuid
+url_git: ''

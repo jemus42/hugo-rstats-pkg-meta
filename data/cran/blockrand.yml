@@ -1,0 +1,10 @@
+version: '1.5'
+title: Randomization for Block Random Clinical Trials
+maintainer: Greg Snow
+description: Create randomizations for block random clinical trials.  Can also produce
+  a pdf file of randomization cards.
+date_publication: '2020-04-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=blockrand
+url_git: ''

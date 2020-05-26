@@ -1,0 +1,12 @@
+version: 2.7-2
+title: Partial Least Squares and Principal Component Regression
+maintainer: Bjørn-Helge Mevik
+description: |-
+  Multivariate regression methods
+  Partial Least Squares Regression (PLSR), Principal Component
+  Regression (PCR) and Canonical Powered Partial Least Squares (CPPLS).
+date_publication: '2019-10-01'
+bug_reports: https://github.com/bhmevik/pls/issues
+url: http://mevik.net/work/software/pls.html
+url_cran: https://CRAN.R-project.org/package=pls
+url_git: https://github.com/bhmevik/pls

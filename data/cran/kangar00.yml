@@ -1,0 +1,14 @@
+version: '1.4'
+title: Kernel Approaches for Nonlinear Genetic Association Regression
+maintainer: Juliane Manitz
+description: 'Methods to extract information on pathways, genes and various single-nucleotid
+  polymorphisms (SNPs) from online databases. It provides functions for data preparation
+  and evaluation of genetic influence on a binary outcome using the logistic kernel
+  machine test (LKMT). Three different kernel functions are offered to analyze genotype
+  information in this variance component test: A linear kernel, a size-adjusted kernel
+  and a network-based kernel (Friedrichs et al., 2017, <doi:10.1155/2017/6742763>).'
+date_publication: '2020-02-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=kangar00
+url_git: ''

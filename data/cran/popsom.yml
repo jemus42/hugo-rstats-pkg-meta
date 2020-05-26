@@ -1,0 +1,10 @@
+version: 4.2.1
+title: Functions for Constructing and Evaluating Self-Organizing Maps
+maintainer: Lutz Hamel
+description: State of the art functions for constructing and evaluating self-organizing
+  maps.
+date_publication: '2019-06-03'
+bug_reports: ''
+url: http://homepage.cs.uri.edu/faculty/hamel/
+url_cran: https://CRAN.R-project.org/package=popsom
+url_git: ''

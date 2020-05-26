@@ -1,0 +1,14 @@
+version: 2.7-2
+title: Tools for the Analysis of Air Pollution Data
+maintainer: David Carslaw
+description: |-
+  Tools to analyse, interpret and understand air
+  pollution data. Data are typically hourly time series
+  and both monitoring data and dispersion model output
+  can be analysed.  Many functions can also be applied to
+  other data, including meteorological and traffic data.
+date_publication: '2020-04-02'
+bug_reports: https://github.com/davidcarslaw/openair/issues
+url: http://davidcarslaw.github.io/openair/
+url_cran: https://CRAN.R-project.org/package=openair
+url_git: ''

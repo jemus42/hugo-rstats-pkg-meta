@@ -1,0 +1,17 @@
+version: 0.1.2
+title: |-
+  Efficient Computations of Standard Clustering Comparison
+  Measures
+maintainer: Julien Chiquet
+description: |-
+  Implements an efficient O(n) algorithm based on bucket-sorting for
+  fast computation of standard clustering comparison measures. Available measures
+  include adjusted Rand index (ARI), normalized information distance (NID),
+  normalized mutual information (NMI), adjusted mutual information (AMI),
+  normalized variation information (NVI) and entropy, as described in Vinh et al (2009)
+  <doi:10.1145/1553374.1553511>.
+date_publication: '2019-06-29'
+bug_reports: https://github.com/jchiquet/aricode/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=aricode
+url_git: https://github.com/jchiquet/aricode(devversion)

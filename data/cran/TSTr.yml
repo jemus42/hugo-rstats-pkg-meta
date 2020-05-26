@@ -1,0 +1,12 @@
+version: '1.2'
+title: Ternary Search Tree for Auto-Completion and Spell Checking
+maintainer: Ricardo Merino
+description: A ternary search tree is a type of prefix tree with up to three children
+  and the ability for incremental string search. The package uses this ability for
+  word auto-completion and spell checking. Includes a dataset with the 10001 most
+  frequent English words.
+date_publication: '2015-10-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TSTr
+url_git: ''

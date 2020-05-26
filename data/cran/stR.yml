@@ -1,0 +1,16 @@
+version: '0.4'
+title: STR Decomposition
+maintainer: Alexander Dokumentov
+description: 'Methods for decomposing seasonal data: STR (a Seasonal-Trend decomposition
+  procedure based on Regression) and Robust STR. In some ways, STR is similar to Ridge
+  Regression and Robust STR can be related to LASSO. They allow for multiple seasonal
+  components, multiple linear covariates with constant, flexible and seasonal influence.
+  Seasonal patterns (for both seasonal components and seasonal covariates) can be
+  fractional and flexible over time; moreover they can be either strictly periodic
+  or have a more complex topology. The methods provide confidence intervals for the
+  estimated components. The methods can be used for forecasting.'
+date_publication: '2018-05-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=stR
+url_git: https://bitbucket.org/alexanderdokumentov/strpackage

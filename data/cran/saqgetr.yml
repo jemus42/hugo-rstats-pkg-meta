@@ -1,0 +1,16 @@
+version: 0.1.19
+title: Import Air Quality Monitoring Data in a Fast and Easy Way
+maintainer: Stuart K. Grange
+description: |-
+  A collection of tools to access prepared air quality monitoring
+  data files from web servers with ease and speed. Air quality data are
+  sourced from open and publicly accessible repositories and can be found in
+  these locations:
+  <https://www.eea.europa.eu/data-and-maps/data/airbase-the-european-air-quality-database-8>
+  and <http://discomap.eea.europa.eu/map/fme/AirQualityExport.htm>. The web
+  server space has been provided by Ricardo Energy & Environment.
+date_publication: '2020-01-09'
+bug_reports: https://github.com/skgrange/saqgetr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=saqgetr
+url_git: https://github.com/skgrange/saqgetr

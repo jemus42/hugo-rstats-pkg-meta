@@ -1,0 +1,11 @@
+version: 1.64.5
+title: May All Data be Reproducible and Transparent (MADRaT) *
+maintainer: Jan Philipp Dietrich
+description: |-
+  Provides a framework which should improve reproducibility and transparency in data processing. It provides functionality such as automatic meta data creation and management, rudimentary quality management, data caching, work-flow management and data aggregation.
+  * The title is a wish not a promise. By no means we expect this package to deliver everything what is needed to achieve full reproducibility and transparency, but we believe that it supports efforts in this direction.
+date_publication: '2019-12-17'
+bug_reports: https://github.com/pik-piam/madrat/issues
+url: https://doi.org/10.5281/zenodo.1115490
+url_cran: https://CRAN.R-project.org/package=madrat
+url_git: https://github.com/pik-piam/madrat

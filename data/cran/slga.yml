@@ -1,0 +1,10 @@
+version: 1.1.1
+title: Data Access Tools for the Soil and Landscape Grid of Australia
+maintainer: Lauren O'Brien
+description: Provides access to soil and landscape grid of Australia raster datasets
+  via existing open geospatial consortium web coverage services. See <https://www.csiro.au/soil-and-landscape-grid>.
+date_publication: '2020-03-31'
+bug_reports: https://github.com/obrl-soil/slga/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=slga
+url_git: https://github.com/obrl-soil/slga

@@ -1,0 +1,14 @@
+version: 2.1.0
+title: |-
+  "Finding Groups in Data": Cluster Analysis Extended Rousseeuw et
+  al.
+maintainer: Martin Maechler
+description: |-
+  Methods for Cluster analysis.  Much extended the original from
+  Peter Rousseeuw, Anja Struyf and Mia Hubert,
+  based on Kaufman and Rousseeuw (1990) "Finding Groups in Data".
+date_publication: '2019-06-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cluster
+url_git: ''

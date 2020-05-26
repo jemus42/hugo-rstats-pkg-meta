@@ -1,0 +1,13 @@
+version: 0.2.2
+title: Download Regularly Maintained Political Science Data Sets
+maintainer: Christopher Gandrud
+description: |-
+  This R package includes functions for gathering commonly used and
+  regularly maintained data set in political science. It also includes
+  functions for combining components from these data sets into variables that
+  have been suggested in the literature, but are not regularly maintained.
+date_publication: '2016-09-03'
+bug_reports: https://github.com/christophergandrud/psData/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=psData
+url_git: ''

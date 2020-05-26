@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Read and Write Files to SQLite Databases
+maintainer: Sebastian Dalgarno
+description: |-
+  Reads and writes files to SQLite databases <https://www.sqlite.org/index.html> as flobs
+  (a flob is a blob that preserves the file extension).
+date_publication: '2020-05-13'
+bug_reports: https://github.com/poissonconsulting/dbflobr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dbflobr
+url_git: https://github.com/poissonconsulting/dbflobr

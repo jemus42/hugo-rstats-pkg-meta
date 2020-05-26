@@ -1,0 +1,12 @@
+version: '0.3'
+title: Oblique Random Forests from Recursive Linear Model Splits
+maintainer: D.N. Splitthoff
+description: 'Random forest with oblique decision trees for binary<U+000a>classification
+  tasks. Discriminative node models in the tree<U+000a>are based on: ridge regression,
+  partial least squares<U+000a>regression, logistic regression, linear support vector<U+000a>machines,
+  or random coefficients.'
+date_publication: '2012-08-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=obliqueRF
+url_git: ''

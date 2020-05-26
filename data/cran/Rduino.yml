@@ -1,0 +1,12 @@
+version: '0.1'
+title: A Microcontroller Interface
+maintainer: Peter Hoff
+description: Functions for connecting to and interfacing with an 'Arduino' or similar
+  device. Functionality includes uploading of sketches, setting and reading digital
+  and analog pins, and rudimentary servo control. This project is not affiliated with
+  the 'Arduino' company, <https://www.arduino.cc/>.
+date_publication: '2017-10-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rduino
+url_git: ''

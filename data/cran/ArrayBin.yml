@@ -1,0 +1,12 @@
+version: '0.2'
+title: Binarization of numeric data arrays
+maintainer: Ed Curry
+description: Fast adaptive binarization for numeric data arrays,<U+000a>particularly
+  designed for high-throughput biological datasets.<U+000a>Includes options to filter
+  out rows of the array with<U+000a>insufficient magnitude or variation (based on
+  gap statistic).
+date_publication: '2013-06-21'
+bug_reports: ''
+url: <U+000a>http://www1.imperial.ac.uk/medicine/people/e.curry/
+url_cran: https://CRAN.R-project.org/package=ArrayBin
+url_git: ''

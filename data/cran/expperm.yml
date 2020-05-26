@@ -1,0 +1,12 @@
+version: '1.6'
+title: Computing Expectations and Marginal Likelihoods for Permutations
+maintainer: Ben Powell
+description: A set of functions for computing expected permutation matrices given
+  a matrix of likelihoods for each individual assignment. It has been written to accompany
+  the forthcoming paper 'Computing expectations and marginal likelihoods for permutations'.
+  Publication details will be updated as soon as they are finalized.
+date_publication: '2019-05-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=expperm
+url_git: ''

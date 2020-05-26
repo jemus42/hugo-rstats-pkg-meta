@@ -1,0 +1,20 @@
+version: 1.0.9
+title: |-
+  Cross-Recurrence Quantification Analysis for Categorical and
+  Continuous Time-Series
+maintainer: Moreno I. Coco
+description: |2-
+
+  Cross-recurrence quantification analysis
+  of two time-series, of either categorical or
+  continuous values. It provides different methods
+  for profiling cross-recurrence, i.e., only looking
+  at the diagonal recurrent points, as well as more
+  in-depth measures of the whole cross-recurrence plot,
+  e.g., recurrence rate. Please refer to by Coco and Dale (2014)
+  <doi:10.3389/fpsyg.2014.00510> for further details about the method.
+date_publication: '2018-10-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=crqa
+url_git: ''

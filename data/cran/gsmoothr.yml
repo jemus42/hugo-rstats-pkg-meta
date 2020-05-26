@@ -1,0 +1,9 @@
+version: 0.1.7
+title: Smoothing tools
+maintainer: Mark Robinson
+description: Tools rewritten in C for various smoothing tasks
+date_publication: '2014-06-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gsmoothr
+url_git: ''

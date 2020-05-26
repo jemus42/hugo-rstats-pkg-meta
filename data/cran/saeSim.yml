@@ -1,0 +1,14 @@
+version: 0.10.0
+title: Simulation Tools for Small Area Estimation
+maintainer: Sebastian Warnholz
+description: |-
+  Tools for the simulation of data in the context of small area
+  estimation. Combine all steps of your simulation - from data generation
+  over drawing samples to model fitting - in one object. This enables easy
+  modification and combination of different scenarios. You can store your
+  results in a folder or start the simulation in parallel.
+date_publication: '2019-03-28'
+bug_reports: https://github.com/wahani/saeSim/issues
+url: https://wahani.github.io/saeSim
+url_cran: https://CRAN.R-project.org/package=saeSim
+url_git: ''

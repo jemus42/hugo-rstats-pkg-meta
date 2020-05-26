@@ -1,0 +1,11 @@
+version: 0.6-0
+title: Regression Analysis of Grouped and Coarse Data
+maintainer: Dimitris Rizopoulos
+description: |-
+  Regression models for grouped and coarse data, under the
+  Coarsened At Random assumption.
+date_publication: '2009-10-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=grouped
+url_git: ''

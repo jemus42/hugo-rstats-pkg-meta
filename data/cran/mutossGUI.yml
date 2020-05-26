@@ -1,0 +1,10 @@
+version: 0.1-11
+title: A Graphical User Interface for the MuToss Project
+maintainer: Kornelius Rohmeyer
+description: The mutossGUI package provides a graphical user interface for the MuToss
+  Project.
+date_publication: '2017-12-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mutossGUI
+url_git: http://mutoss.r-forge.r-project.org/

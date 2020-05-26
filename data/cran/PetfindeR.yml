@@ -1,0 +1,14 @@
+version: 2.0.0
+title: '''Petfinder'' API Wrapper'
+maintainer: Aaron Schlegel
+description: |2-
+
+  Wrapper of the 'Petfinder API' <https://www.petfinder.com/developers/v2/docs/> that implements
+  methods for interacting with and extracting data from the 'Petfinder' database. The 'Petfinder
+  REST API' allows access to the 'Petfinder' database, one of the largest online databases of
+  adoptable animals and animal welfare organizations across North America.
+date_publication: '2019-08-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PetfindeR
+url_git: https://github.com/aschleg/PetfindeR

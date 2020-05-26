@@ -1,0 +1,10 @@
+version: '2.0'
+title: Analyze Multivariate Phenotypes by Combining Univariate Results
+maintainer: Shuo Li
+description: Combining Univariate Association Test Results of Multiple Phenotypes
+  for Detecting Pleiotropy.
+date_publication: '2016-09-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CUMP
+url_git: ''

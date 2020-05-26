@@ -1,0 +1,13 @@
+version: '1.1'
+title: Bayesian Single Arm Sample Size Calculation Software
+maintainer: Peter Dutton
+description: |-
+  Bayesian sample size calculation software and examples for EuroSARC
+  clinical trials which utilise Bayesian methodology. These trials rely on
+  binomial based endpoints so the majority of programs found here relate to this
+  sort of endpoint. Developed as part of the EuroSARC FP7 grant.
+date_publication: '2017-11-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EurosarcBayes
+url_git: ''

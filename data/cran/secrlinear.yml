@@ -1,0 +1,10 @@
+version: 1.1.1
+title: Spatially Explicit Capture-Recapture for Linear Habitats
+maintainer: Murray Efford
+description: Tools for spatially explicit capture-recapture analysis of animal populations
+  in linear habitats, extending package 'secr'.
+date_publication: '2017-12-12'
+bug_reports: ''
+url: http://www.otago.ac.nz/density
+url_cran: https://CRAN.R-project.org/package=secrlinear
+url_git: ''

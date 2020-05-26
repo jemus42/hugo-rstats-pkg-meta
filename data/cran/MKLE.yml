@@ -1,0 +1,11 @@
+version: '0.05'
+title: Maximum kernel likelihood estimation.
+maintainer: Thomas Jaki
+description: |-
+  Package for fast computation of the maximum kernel
+  likelihood estimator (mkle)
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MKLE
+url_git: ''

@@ -1,0 +1,9 @@
+version: 0.1.0
+title: Generate a Monochromatic Palette
+maintainer: Sebastian Dalgarno
+description: Generate a palette of tints, shades or both from a single colour.
+date_publication: '2020-04-17'
+bug_reports: https://github.com/poissonconsulting/tinter/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tinter
+url_git: https://github.com/poissonconsulting/tinter

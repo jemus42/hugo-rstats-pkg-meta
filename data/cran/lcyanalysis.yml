@@ -1,0 +1,10 @@
+version: 1.0.4
+title: Stock Data Analysis Functions
+maintainer: Chun-Yu Liu
+description: Analysis of stock data ups and downs trend, the stock technical analysis
+  indicators function have trend line, reversal pattern and market trend.
+date_publication: '2020-02-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lcyanalysis
+url_git: ''

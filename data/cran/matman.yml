@@ -1,0 +1,12 @@
+version: 1.1.0
+title: Material Management
+maintainer: Leon Binder
+description: A set of functions, classes and methods for performing ABC and ABC/XYZ
+  analyses, identifying overperforming, underperforming and constantly performing
+  items, and plotting, analyzing as well as predicting the temporal development of
+  items.
+date_publication: '2020-05-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=matman
+url_git: ''

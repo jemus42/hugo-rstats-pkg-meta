@@ -1,0 +1,14 @@
+version: 2.0.5
+title: Smooth Estimation of GPD Shape Parameter
+maintainer: Kaspar Rufibach
+description: Given independent and identically distributed observations X(1), ...,
+  X(n) from a Generalized Pareto distribution with shape parameter gamma in [-1,0],
+  offers several estimates to compute estimates of gamma. The estimates are based
+  on the principle of replacing the order statistics by quantiles of a distribution
+  function based on a log--concave density function. This procedure is justified by
+  the fact that the GPD density is log--concave for gamma in [-1,0].
+date_publication: '2016-07-13'
+bug_reports: ''
+url: http://www.kasparrufibach.ch
+url_cran: https://CRAN.R-project.org/package=smoothtail
+url_git: ''

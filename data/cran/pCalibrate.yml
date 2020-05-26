@@ -1,0 +1,12 @@
+version: 0.2-1
+title: Bayesian Calibrations of p-Values
+maintainer: Manuela Ott
+description: Implements transformations of p-values to the smallest possible Bayes
+  factor within the specified class of alternative hypotheses, as described in Held
+  & Ott (2018, <doi:10.1146/annurev-statistics-031017-100307>). Covers several common
+  testing scenarios such as z-tests, t-tests, likelihood ratio tests and the F-test.
+date_publication: '2020-03-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pCalibrate
+url_git: ''

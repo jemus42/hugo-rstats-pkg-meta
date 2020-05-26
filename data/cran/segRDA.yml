@@ -1,0 +1,14 @@
+version: 1.0.2
+title: Modeling Non-Continuous Linear Responses of Ecological Data
+maintainer: Danilo C Vieira
+description: 'Tools for modeling non-continuous linear responses of ecological communities
+  to environmental data. The package is straightforward through three steps: (1) data
+  ordering (function OrdData()), (2) split-moving-window analysis (function SMW())
+  and (3) piecewise redundancy analysis (function pwRDA()). Relevant references include
+  Cornelius and Reynolds (1991) <doi:10.2307/1941559> and Legendre and Legendre (2012,
+  ISBN: 9780444538697).'
+date_publication: '2019-07-31'
+bug_reports: https://github.com/DaniloCVieira/segRDA/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=segRDA
+url_git: https://github.com/DaniloCVieira/segRDA

@@ -1,0 +1,11 @@
+version: 0.0.1
+title: Effective File Navigation from the R Console
+maintainer: Ronald E. Robertson
+description: |-
+  Functions for printing the contents of a folder as columns in a ragged-bottom data.frame and for
+  viewing the details (size, time created, time modified, etc.) of a folder's top level contents.
+date_publication: '2016-07-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=files
+url_git: ''

@@ -1,0 +1,12 @@
+version: '1.3'
+title: Extract Text from Microsoft Word Documents
+maintainer: Jeroen Ooms
+description: |-
+  Wraps the 'AntiWord' utility to extract text from Microsoft
+  Word documents. The utility only supports the old 'doc' format, not the
+  new xml based 'docx' format. Use the 'xml2' package to read the latter.
+date_publication: '2018-11-09'
+bug_reports: http://github.com/ropensci/antiword/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=antiword
+url_git: https://github.com/ropensci/antiword#readme(devel)http://www.winfield.demon.nl(upstream)

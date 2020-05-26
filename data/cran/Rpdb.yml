@@ -1,0 +1,11 @@
+version: '2.3'
+title: Read, Write, Visualize and Manipulate PDB Files
+maintainer: Julien Idé
+description: |-
+  Provides tools to read, write, visualize PDB files and perform some
+  structural manipulations.
+date_publication: '2017-09-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rpdb
+url_git: ''

@@ -1,0 +1,14 @@
+version: 1.0.6
+title: Intrinsic Dimension for Data Mining
+maintainer: Jean Golay
+description: |-
+  Contains techniques for mining large and high-dimensional data
+  sets by using the concept of Intrinsic Dimension (ID). Here the ID is
+  not necessarily an integer. It is extended to fractal dimensions. And
+  the Morisita estimator is used for the ID estimation, but other
+  tools are included as well.
+date_publication: '2019-05-25'
+bug_reports: ''
+url: https://www.sites.google.com/site/jeangolayresearch/
+url_cran: https://CRAN.R-project.org/package=IDmining
+url_git: ''

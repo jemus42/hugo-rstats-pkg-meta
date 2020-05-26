@@ -1,0 +1,9 @@
+version: 1.2.2
+title: Semi-parametric estimators of truncated regression models
+maintainer: Anita Lindmark
+description: Semi-parametric estimation of truncated linear regression models
+date_publication: '2014-05-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=truncSP
+url_git: ''

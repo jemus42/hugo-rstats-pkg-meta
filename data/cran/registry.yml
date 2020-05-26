@@ -1,0 +1,9 @@
+version: 0.5-1
+title: Infrastructure for R Package Registries
+maintainer: David Meyer
+description: Provides a generic infrastructure for creating and using registries.
+date_publication: '2019-03-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=registry
+url_git: ''

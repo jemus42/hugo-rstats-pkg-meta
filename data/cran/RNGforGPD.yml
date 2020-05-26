@@ -1,0 +1,12 @@
+version: 1.0.2
+title: Random Number Generation for Generalized Poisson Distribution
+maintainer: Ruizhe Chen
+description: Generation of univariate and multivariate data that follow the generalized
+  Poisson distribution. The details of the univariate part are explained in Demirtas
+  (2017), and the multivariate part is an extension of the correlated Poisson data
+  generation routine that was introduced in Yahav and Shmueli (2012).
+date_publication: '2019-06-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RNGforGPD
+url_git: ''

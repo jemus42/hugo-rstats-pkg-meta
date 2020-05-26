@@ -1,0 +1,12 @@
+version: 1.3-1
+title: The Cross-match Test
+maintainer: Ruth Heller
+description: This package performs a test for comparing two<U+000a>multivariate distributions
+  by using the distance between<U+000a>observations.  The input is a distance matrix
+  and the labels of<U+000a>the two groups to be compared, the output is the number
+  of<U+000a>cross-matches and a p-value.
+date_publication: '2012-06-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=crossmatch
+url_git: ''

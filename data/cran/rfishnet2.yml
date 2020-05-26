@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Exploratory Data Analysis for FishNet2 Data
+maintainer: Kennedy Dorsey
+description: |-
+  Provides data processing and summarization of data from FishNet2.net
+  in text and graphical outputs. Allows efficient filtering of information and
+  data cleaning.
+date_publication: '2019-12-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rfishnet2
+url_git: https://github.com/kdors/rfishnet2

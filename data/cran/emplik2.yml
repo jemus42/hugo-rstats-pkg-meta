@@ -1,0 +1,12 @@
+version: '1.21'
+title: |-
+  Empirical Likelihood Ratio Test for Two Samples with Censored
+  Data
+maintainer: William H. Barton
+description: Calculates the p-value for a mean-type hypothesis (or multiple mean-type
+  hypotheses) based on two samples with censored data.
+date_publication: '2018-08-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=emplik2
+url_git: ''

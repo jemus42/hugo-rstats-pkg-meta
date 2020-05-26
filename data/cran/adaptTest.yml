@@ -1,0 +1,13 @@
+version: '1.0'
+title: Adaptive two-stage tests
+maintainer: Marc Vandemeulebroecke<U+000a><marc.vandemeulebroecke@novartis.com>
+description: 'The functions defined in this program serve for<U+000a>implementing
+  adaptive two-stage tests. Currently, four tests<U+000a>are included: Bauer and Koehne
+  (1994), Lehmacher and Wassmer<U+000a>(1999), Vandemeulebroecke (2006), and the horizontal<U+000a>conditional
+  error function. User-defined tests can also be<U+000a>implemented. Reference: Vandemeulebroecke,
+  An investigation of<U+000a>two-stage tests, Statistica Sinica 2006.'
+date_publication: '2009-10-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=adaptTest
+url_git: ''

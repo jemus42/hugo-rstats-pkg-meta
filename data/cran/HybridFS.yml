@@ -1,0 +1,14 @@
+version: 0.1.3
+title: A Hybrid Filter-Wrapper Feature Selection Method
+maintainer: Yamini Pandari
+description: A hybrid method of feature selection which combines both filter and wrapper
+  methods. The first level involves feature reduction based on some of the important
+  filter methods while the second level involves feature subset selection as in a
+  wrapper method. Comparative analysis with the existing feature selection packages
+  shows this package results in higher classification accuracy, reduced processing
+  time and improved data handling capacity.
+date_publication: '2019-06-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HybridFS
+url_git: ''

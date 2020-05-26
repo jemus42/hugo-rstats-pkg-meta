@@ -1,0 +1,12 @@
+version: 0.3-3
+title: R Optimization Infrastructure
+maintainer: Stefan Theussl
+description: |-
+  The R Optimization Infrastructure ('ROI') is a
+  sophisticated framework for handling optimization problems in R.
+  More information can be found on the 'ROI' homepage <http://roi.r-forge.r-project.org/>.
+date_publication: '2020-03-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ROI
+url_git: http://roi.r-forge.r-project.org/

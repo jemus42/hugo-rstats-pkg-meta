@@ -1,0 +1,9 @@
+version: 4.13-20
+title: Generalized Estimation Equation Solver
+maintainer: Brian Ripley
+description: Generalized Estimation Equation solver.
+date_publication: '2019-11-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gee
+url_git: ''

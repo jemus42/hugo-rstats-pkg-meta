@@ -1,0 +1,14 @@
+version: 1.1.0.1
+title: Generate Attractive Random Colors
+maintainer: Ron Ammar
+description: |-
+  Simple methods to generate attractive random colors. The random
+  colors are from a wrapper of 'randomColor.js'
+  <https://github.com/davidmerfield/randomColor>. In addition, it also generates
+  optimally distinct colors based on k-means (inspired by 'IWantHue'
+  <https://github.com/medialab/iwanthue>).
+date_publication: '2019-11-24'
+bug_reports: https://github.com/ronammar/randomcoloR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=randomcoloR
+url_git: ''

@@ -1,0 +1,9 @@
+version: '1.2'
+title: Clinical Significance Functions
+maintainer: Jim Lemon
+description: Functions for calculating clinical significance.
+date_publication: '2016-07-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=clinsig
+url_git: ''

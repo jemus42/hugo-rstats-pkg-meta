@@ -1,0 +1,9 @@
+version: 0.0.1
+title: Convert Strings to Elder Futhark Runes
+maintainer: Bryan Jenks
+description: Convert a string of text characters to Elder Futhark Runes <https://en.wikipedia.org/wiki/Elder_Futhark>.
+date_publication: '2020-02-22'
+bug_reports: https://github.com/tallguyjenks/runes
+url: ''
+url_cran: https://CRAN.R-project.org/package=runes
+url_git: ''

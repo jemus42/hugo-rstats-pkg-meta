@@ -1,0 +1,12 @@
+version: 1.4.1
+title: The Conditional Probability Function of a Competing Event
+maintainer: Arthur Allignol
+description: Permits to estimate the conditional probability function of a competing
+  event, and to fit, using the temporal process regression or the pseudo-value approach,
+  a proportional-odds model to the conditional probability function (or other models
+  by specifying another link function). See <doi:10.1111/j.1467-9876.2010.00729.x>.
+date_publication: '2018-05-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Cprob
+url_git: ''

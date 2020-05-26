@@ -1,0 +1,12 @@
+version: 1.1-9
+title: Big Quadratic Inverse Covariance Estimation
+maintainer: Khalid B. Kunji
+description: |-
+  Use Newton's method, coordinate descent, and METIS clustering
+  to solve the L1 regularized Gaussian MLE inverse covariance
+  matrix estimation problem.
+date_publication: '2020-05-15'
+bug_reports: ''
+url: https://bigdata.oden.utexas.edu/software/1035/http://glaros.dtc.umn.edu/gkhome/views/metishttp://www.pcg-random.org/download.htmlhttps://gcc.gnu.org/projects/gomp/
+url_cran: https://CRAN.R-project.org/package=BigQuic
+url_git: ''

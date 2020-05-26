@@ -1,0 +1,11 @@
+version: 0.3-1
+title: Model-Based Dose-Escalation Trials
+maintainer: Philip Pallmann
+description: User-friendly Shiny apps for designing and evaluating phase I cancer
+  clinical trials, with the aim to estimate the maximum tolerated dose (MTD) of a
+  novel drug, using a Bayesian decision procedure based on logistic regression.
+date_publication: '2017-11-16'
+bug_reports: https://github.com/PhilipPallmann/modest/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=modest
+url_git: ''

@@ -1,0 +1,9 @@
+version: 0.2.0
+title: Client Package for the U.S. Federal Register API
+maintainer: Thomas J. Leeper
+description: Access data from the Federal Register API <https://www.federalregister.gov/developers/api/v1>.
+date_publication: '2015-12-22'
+bug_reports: https://github.com/rOpenGov/federalregister/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=federalregister
+url_git: https://github.com/rOpenGov/federalregister

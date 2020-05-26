@@ -1,0 +1,13 @@
+version: 0.4-0
+title: Interface to the CIMIS Web API
+maintainer: Michael Koohafkan
+description: |-
+  Connect to the California Irrigation Management
+  Information System (CIMIS) Web API. See the CIMIS main page
+  <https://cimis.water.ca.gov> and web API documentation
+  <https://et.water.ca.gov> for more information.
+date_publication: '2020-01-22'
+bug_reports: https://github.com/mkoohafkan/cimir/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=cimir
+url_git: https://github.com/mkoohafkan/cimir

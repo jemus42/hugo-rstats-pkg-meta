@@ -1,0 +1,12 @@
+version: '1.2'
+title: Tables of Descriptive Statistics in HTML
+maintainer: Benjamin Rich
+description: |-
+  Create HTML tables of descriptive statistics, as one would expect
+  to see as the first table (i.e. "Table 1") in a medical/epidemiological journal
+  article.
+date_publication: '2020-03-23'
+bug_reports: https://github.com/benjaminrich/table1/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=table1
+url_git: https://github.com/benjaminrich/table1

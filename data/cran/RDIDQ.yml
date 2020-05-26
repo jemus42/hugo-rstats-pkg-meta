@@ -1,0 +1,12 @@
+version: '1.0'
+title: It perform Quality check on data
+maintainer: Rahul Mehta
+description: |-
+  The package has many function that helps to perform
+  various quality check on the data.It basically provides many
+  function that helps in performing Extrapolative data analysis.
+date_publication: '2012-12-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RDIDQ
+url_git: ''

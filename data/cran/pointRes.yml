@@ -1,0 +1,11 @@
+version: 1.1.3
+title: Analyzing Pointer Years and Components of Resilience
+maintainer: Marieke van der Maaten-Theunissen
+description: Functions to calculate and plot event and pointer years as well as components
+  of resilience. Designed for dendroecological applications, but also suitable to
+  analyze patterns in other ecological time series.
+date_publication: '2016-12-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pointRes
+url_git: ''

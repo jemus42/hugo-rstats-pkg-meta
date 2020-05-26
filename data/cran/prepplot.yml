@@ -1,0 +1,12 @@
+version: '0.7'
+title: Prepare Figure Region for Base Graphics
+maintainer: Ulrike Groemping
+description: A figure region is prepared, creating a plot region with suitable background
+  color, grid lines or shadings, and providing axes and labeling if not suppressed.
+  Subsequently, information carrying graphics elements can be added (points, lines,
+  barplot with add=TRUE and so forth).
+date_publication: '2018-04-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=prepplot
+url_git: ''

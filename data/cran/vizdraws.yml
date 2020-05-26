@@ -1,0 +1,14 @@
+version: 1.0.0
+title: Visualize Draws from the Prior and Posterior Distributions
+maintainer: Ignacio Martinez
+description: |-
+  Interactive visualization for Bayesian prior and posterior distributions.
+  When both distributions are provided the animation shows a transition from
+  prior to posterior. Finally, the animation splits the distribution using the provided
+  'breaks' into bars that show the probability for each region.
+  If no 'breaks' are providers it will use zero by default.
+date_publication: '2020-04-28'
+bug_reports: ''
+url: http://ignacio82.github.io/vizdraws
+url_cran: https://CRAN.R-project.org/package=vizdraws
+url_git: http://github.com/ignacio82/vizdraws

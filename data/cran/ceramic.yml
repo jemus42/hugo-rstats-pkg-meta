@@ -1,0 +1,12 @@
+version: 0.6.0
+title: Download Online Imagery Tiles
+maintainer: Michael Sumner
+description: |-
+  Download imagery tiles to a standard cache and load the data into raster objects.
+  Facilities for 'AWS' terrain <https://aws.amazon.com/public-datasets/terrain/> terrain and 'Mapbox'
+  <https://www.mapbox.com/> servers are provided.
+date_publication: '2019-07-20'
+bug_reports: https://github.com/hypertidy/ceramic/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ceramic
+url_git: https://github.com/hypertidy/ceramic

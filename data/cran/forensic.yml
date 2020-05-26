@@ -1,0 +1,11 @@
+version: '0.2'
+title: Statistical Methods in Forensic Genetics
+maintainer: Miriam Marusiakova
+description: |-
+  The statistical evaluation of DNA mixtures, DNA profile
+  match probability
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=forensic
+url_git: ''

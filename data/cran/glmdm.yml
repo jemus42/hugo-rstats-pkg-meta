@@ -1,0 +1,11 @@
+version: '2.60'
+title: R Code for Simulation of GLMDM
+maintainer: Jeff Gill
+description: |-
+  This package contains functions to perform generalized
+  linear mixed Dirichlet models using posterior simulation.
+date_publication: '2013-04-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=glmdm
+url_git: ''

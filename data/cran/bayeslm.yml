@@ -1,0 +1,12 @@
+version: 0.8.0
+title: |-
+  Efficient Sampling for Gaussian Linear Regression with Arbitrary
+  Priors
+maintainer: Jingyu He
+description: Efficient sampling for Gaussian linear regression with arbitrary priors,
+  Hahn, He and Hedibert (2018) <arXiv:1806.05738>.
+date_publication: '2018-06-18'
+bug_reports: ''
+url: http://jingyuhe.com/software.html
+url_cran: https://CRAN.R-project.org/package=bayeslm
+url_git: ''

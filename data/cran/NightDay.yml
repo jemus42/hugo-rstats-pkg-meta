@@ -1,0 +1,9 @@
+version: 1.0.1.1
+title: Night and Day Boundary Plot Function
+maintainer: Max Hughes-Brandl
+description: Computes and plots the boundary between night and day.
+date_publication: '2018-04-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NightDay
+url_git: ''

@@ -1,0 +1,16 @@
+version: 0.2.0
+title: Parallel Use of Statistical Packages in Teaching
+maintainer: Gjalt-Jorn Peters
+description: |-
+  When teaching statistics, it can often be desirable to
+  uncouple the content from specific software packages. To ease such
+  efforts, the Rosetta Stats website (<https://rosettastats.com>) allows
+  comparing analyses in different packages. This package is the companion
+  to the Rosetta Stats website, aiming to provide functions that produce
+  output that is similar to output from other statistical packages, thereby
+  facilitating 'software-agnostic' teaching of statistics.
+date_publication: '2019-11-27'
+bug_reports: https://gitlab.com/r-packages/rosetta/issues
+url: https://r-packages.gitlab.io/rosetta
+url_cran: https://CRAN.R-project.org/package=rosetta
+url_git: ''

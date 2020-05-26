@@ -1,0 +1,16 @@
+version: '2.0'
+title: Fast Implementation of Dijkstra Algorithm
+maintainer: Vincent Larmet
+description: |-
+  Calculation of distances, shortest paths and isochrones on weighted graphs using several variants of Dijkstra algorithm.
+  Proposed algorithms are unidirectional Dijkstra (Dijkstra, E. W. (1959) <doi:10.1007/BF01386390>),
+  bidirectional Dijkstra (Goldberg, Andrew & Fonseca F. Werneck, Renato (2005) <https://pdfs.semanticscholar.org/0761/18dfbe1d5a220f6ac59b4de4ad07b50283ac.pdf>),
+  A* search (P. E. Hart, N. J. Nilsson et B. Raphael (1968) <doi:10.1109/TSSC.1968.300136>),
+  new bidirectional A* (Pijls & Post (2009) <http://repub.eur.nl/pub/16100/ei2009-10.pdf>),
+  Contraction hierarchies (R. Geisberger, P. Sanders, D. Schultes and D. Delling (2008) <doi:10.1007/978-3-540-68552-4_24>),
+  PHAST (D. Delling, A.Goldberg, A. Nowatzyk, R. Werneck (2011) <doi:10.1016/j.jpdc.2012.02.007>).
+date_publication: '2020-01-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cppRouting
+url_git: https://github.com/vlarmet/cppRouting

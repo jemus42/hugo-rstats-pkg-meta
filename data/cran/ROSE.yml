@@ -1,0 +1,15 @@
+version: 0.0-3
+title: 'ROSE: Random Over-Sampling Examples'
+maintainer: Nicola Lunardon
+description: |-
+  The package provides functions to deal with binary classification
+  problems in the presence of imbalanced classes. Synthetic balanced samples are
+  generated according to ROSE (Menardi and Torelli, 2013).
+  Functions that implement more traditional remedies to the class imbalance
+  are also provided, as well as different metrics to evaluate a learner accuracy.
+  These are estimated by holdout, bootstrap or cross-validation methods.
+date_publication: '2014-07-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ROSE
+url_git: ''

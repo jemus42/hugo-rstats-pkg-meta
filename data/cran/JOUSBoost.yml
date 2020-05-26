@@ -1,0 +1,11 @@
+version: 2.1.0
+title: Implements Under/Oversampling for Probability Estimation
+maintainer: Matthew Olson
+description: |-
+  Implements under/oversampling for probability estimation.  To be
+  used with machine learning methods such as AdaBoost, random forests, etc.
+date_publication: '2017-07-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=JOUSBoost
+url_git: ''

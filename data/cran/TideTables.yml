@@ -1,0 +1,15 @@
+version: 0.0.2
+title: Tide Analysis and Prediction of Predominantly Semi-Diurnal Tides
+maintainer: Moritz Mueller-Navarra
+description: |-
+  Tide analysis and prediction of predominantly semi-diurnal tides
+  with two high waters and two low waters during one lunar day (~24.842 hours,
+  ~1.035 days). The analysis should preferably cover an observation period of at
+  least 19 years. For shorter periods, for example, the nodal cycle can not be
+  taken into account, which particularly affects the height calculation. The main
+  objective of this package is to produce tide tables.
+date_publication: '2017-09-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TideTables
+url_git: ''

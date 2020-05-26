@@ -1,0 +1,10 @@
+version: 1.0-14
+title: Automatic interpolation package
+maintainer: Paul Hiemstra
+description: This package performs an automatic interpolation by automatically estimating
+  the variogram and then calling gstat.
+date_publication: '2013-08-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=automap
+url_git: ''

@@ -1,0 +1,14 @@
+version: 0.0.2
+title: |-
+  Simulating, Estimating and Diagnosing MGARCH (BEKK and mGJR)
+  Processes
+maintainer: Vehbi Sinan Tunalioglu
+description: |-
+  Procedures to simulate, estimate and diagnose MGARCH
+  processes of BEKK and multivariate GJR (bivariate asymmetric GARCH
+  model) specification.
+date_publication: '2016-04-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mgarchBEKK
+url_git: https://github.com/vst/mgarchBEKK/

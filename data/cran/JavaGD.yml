@@ -1,0 +1,13 @@
+version: 0.6-2
+title: Java Graphics Device
+maintainer: Simon Urbanek
+description: |-
+  Graphics device routing all graphics commands to a Java
+  program. The actual functionality of the JavaGD depends
+  on the Java-side implementation. Simple AWT and Swing
+  implementations are included.
+date_publication: '2020-04-30'
+bug_reports: ''
+url: http://www.rforge.net/JavaGD/
+url_cran: https://CRAN.R-project.org/package=JavaGD
+url_git: ''

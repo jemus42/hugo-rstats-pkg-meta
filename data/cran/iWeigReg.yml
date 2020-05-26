@@ -1,0 +1,12 @@
+version: '1.0'
+title: Improved methods for causal inference and missing data problems
+maintainer: Zhiqiang Tan
+description: |-
+  Improved methods based on inverse probability weighting
+  and outcome regression for causal inference and missing data
+  problems
+date_publication: '2013-02-25'
+bug_reports: ''
+url: http://www.stat.rutgers.edu/~ztan
+url_cran: https://CRAN.R-project.org/package=iWeigReg
+url_git: ''

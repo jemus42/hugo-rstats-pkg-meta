@@ -1,0 +1,12 @@
+version: 0.1.2
+title: |-
+  Companion Package to "Dynamic Prediction in Clinical Survival
+  Analysis"
+maintainer: Hein Putter
+description: The dynpred package contains functions for dynamic prediction in survival
+  analysis.
+date_publication: '2015-07-13'
+bug_reports: ''
+url: http://www.msbi.nl/putter
+url_cran: https://CRAN.R-project.org/package=dynpred
+url_git: ''

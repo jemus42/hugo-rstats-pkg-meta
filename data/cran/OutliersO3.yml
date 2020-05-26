@@ -1,0 +1,13 @@
+version: 0.6.3
+title: Draws Overview of Outliers (O3) Plots
+maintainer: Antony Unwin
+description: Potential outliers are identified for all combinations of a dataset's
+  variables. O3 plots are described in Unwin(2019) <doi:10.1080/10618600.2019.1575226>.
+  The available methods are HDoutliers() from the package 'HDoutliers', FastPCS()
+  from the package 'FastPCS', mvBACON() from 'robustX', adjOutlyingness() from 'robustbase',
+  DectectDeviatingCells() from 'cellWise', covMcd() from 'robustbase'.
+date_publication: '2020-04-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OutliersO3
+url_git: ''

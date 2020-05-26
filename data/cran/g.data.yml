@@ -1,0 +1,14 @@
+version: '2.4'
+title: Delayed-Data Packages
+maintainer: David Brahm
+description: |-
+  Create and maintain delayed-data packages (ddp's).  Data stored in
+  a ddp are available on demand, but do not take up memory until requested.
+  You attach a ddp with g.data.attach(), then read from it and assign to it in
+  a manner similar to S-PLUS, except that you must run g.data.save() to
+  actually commit to disk.
+date_publication: '2013-12-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=g.data
+url_git: ''

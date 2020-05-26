@@ -1,0 +1,13 @@
+version: 1.1.4
+title: Estimates population size from non-invasive sampling
+maintainer: Matthew W. Pennell
+description: Fits models from Miller et al. 2005 to estimate population<U+000a>sizes
+  from natural populations. Several models are implemented.<U+000a>Package also includes
+  functions to perform a likelihood ratio<U+000a>test to choose between models, perform
+  parametric bootstrapping<U+000a>to obtain confidence intervals and multiple functions
+  to<U+000a>simulate data.
+date_publication: '2012-08-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=capwire
+url_git: ''

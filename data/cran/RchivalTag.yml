@@ -1,0 +1,10 @@
+version: 0.1.1
+title: Analyzing Archival Tagging Data
+maintainer: Robert Bauer
+description: A set of functions to generate, access and analyze standard data products
+  from archival tagging data.
+date_publication: '2020-03-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RchivalTag
+url_git: ''

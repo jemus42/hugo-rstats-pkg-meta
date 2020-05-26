@@ -1,0 +1,13 @@
+version: 1.2.0
+title: |-
+  Estimation and Inference Methods for Sorted Causal Effects and
+  Classification Analysis
+maintainer: Shuowen Chen
+description: |-
+  Implements the estimation and inference methods for sorted causal effects and
+  classification analysis as in Chernozhukov, Fernandez-Val and Luo (2018) <doi:10.3982/ECTA14415>.
+date_publication: '2020-04-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SortedEffects
+url_git: https://github.com/yuqimemeda/SortedEffects

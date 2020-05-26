@@ -1,0 +1,10 @@
+version: 1.1.1
+title: Factor Modeling for Radiomics Data
+maintainer: Carel F.W. Peeters
+description: Functions that support stable prediction and classification with radiomics
+  data through factor-analytic modeling. For details, see Peeters et al. (2019) <arXiv:1903.11696>.
+date_publication: '2019-12-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FMradio
+url_git: https://github.com/CFWP/FMradio

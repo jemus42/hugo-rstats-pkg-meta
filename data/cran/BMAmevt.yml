@@ -1,0 +1,13 @@
+version: 1.0.4
+title: |-
+  Multivariate Extremes: Bayesian Estimation of the Spectral
+  Measure
+maintainer: Leo Belzile
+description: Toolkit for Bayesian estimation of the dependence structure in multivariate
+  extreme value parametric models, following Sabourin and Naveau (2014) <doi:10.1016/j.csda.2013.04.021>
+  and Sabourin, Naveau and Fougeres (2013) <doi:10.1007/s10687-012-0163-0>.
+date_publication: '2019-12-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BMAmevt
+url_git: ''

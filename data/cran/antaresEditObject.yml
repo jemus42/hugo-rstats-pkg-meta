@@ -1,0 +1,12 @@
+version: 0.1.9
+title: Edit an 'Antares' Simulation
+maintainer: Veronique Bachelier
+description: |-
+  Edit an 'Antares' simulation before running it : create new areas, links, thermal
+  clusters or binding constraints or edit existing ones. Update 'Antares' general & optimization settings.
+  'Antares' is an open source power system generator, more information available here : <https://antares-simulator.org/>.
+date_publication: '2020-02-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=antaresEditObject
+url_git: ''

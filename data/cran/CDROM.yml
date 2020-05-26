@@ -1,0 +1,17 @@
+version: '1.1'
+title: |-
+  Phylogenetically Classifies Retention Mechanisms of Duplicate
+  Genes from Gene Expression Data
+maintainer: Raquel Assis
+description: |-
+  Classification is based on the recently developed phylogenetic
+  approach by Assis and Bachtrog (2013). The method classifies the
+  evolutionary mechanisms retaining pairs of duplicate genes (conservation,
+  neofunctionalization, subfunctionalization, or specialization) by comparing gene
+  expression profiles of duplicate genes in one species to those of their single-
+  copy ancestral genes in a sister species.
+date_publication: '2016-04-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CDROM
+url_git: ''

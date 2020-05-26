@@ -1,0 +1,10 @@
+version: '2.1'
+title: Quasi-Periodic Time Series Characteristics
+maintainer: Tom Cox
+description: Calculate Characteristics of Quasi-Periodic Time Series, e.g. Estuarine
+  Water Levels.
+date_publication: '2018-08-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Tides
+url_git: ''

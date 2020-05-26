@@ -1,0 +1,13 @@
+version: 1.1.0
+title: |-
+  Trio Model with a Combination of Lasso and Group Lasso
+  Regularization
+maintainer: Timo Stöcker
+description: Fit a trio model via penalized maximum likelihood. The model is fit for
+  a path of values of the penalty parameter. This package is based on Noah Simon,
+  et al. (2011) <doi:10.1080/10618600.2012.681250>.
+date_publication: '2017-12-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TrioSGL
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.2
+title: Estimation of Model-Based Predictions, Contrasts and Means
+maintainer: Dominique Makowski
+description: Implements a general interface for model-based estimations for a wide
+  variety of models (see support list of insight; Lüdecke, Waggoner & Makowski (2019)
+  <doi:10.21105/joss.01412>), used in the computation of marginal means, contrast
+  analysis and predictions.
+date_publication: '2020-03-12'
+bug_reports: https://github.com/easystats/modelbased/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=modelbased
+url_git: https://github.com/easystats/modelbased

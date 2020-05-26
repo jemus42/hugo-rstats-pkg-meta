@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Interface to the 'Datorama' API
+maintainer: Kade Killary
+description: |-
+  A thin wrapper around the 'Datorama' API.
+  Ideal for analyzing marketing data from <https://datorama.com>.
+date_publication: '2017-12-20'
+bug_reports: https://github.com/beigebrucewayne/datoramar/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=datoramar
+url_git: https://github.com/beigebrucewayne/datoramar

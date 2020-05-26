@@ -1,0 +1,12 @@
+version: 0.1.4
+title: Code Examples to Accompany the Book "R for Dummies"
+maintainer: Andrie de Vries
+description: |-
+  Contains all the code examples in the book "R for Dummies" (2nd
+  edition) by Andrie de Vries and Joris Meys. You can view the table of
+  contents as well as the sample code for each chapter.
+date_publication: '2019-03-19'
+bug_reports: https://github.com/andrie/rfordummies/issues
+url: https://rfordummies.com
+url_cran: https://CRAN.R-project.org/package=rfordummies
+url_git: ''

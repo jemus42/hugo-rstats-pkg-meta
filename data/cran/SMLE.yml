@@ -1,0 +1,15 @@
+version: 0.3.1
+title: Joint Feature Screening via Sparse MLE
+maintainer: Qianxiang Zang
+description: Variable selection techniques are essential tools for model selection
+  and estimation in high-dimensional statistical models. Sparse Maximal Likelihood
+  Estimator (SMLE) (Xu and Chen (2014)<doi:10.1080/01621459.2013.879531>) provides
+  an efficient implementation for the joint feature screening method on high-dimensional
+  generalized linear models. It also conducts a post-screening selection based on
+  user-specified selection criterion. The algorithm uses iterative hard thresholding
+  along with parallel computing.
+date_publication: '2020-05-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SMLE
+url_git: ''

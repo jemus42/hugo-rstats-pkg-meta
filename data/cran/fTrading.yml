@@ -1,0 +1,12 @@
+version: '3042.79'
+title: Rmetrics - Trading and Rebalancing Financial Instruments
+maintainer: Tobias Setz
+description: |-
+  A collection of functions for trading and rebalancing financial
+  instruments. It implements various technical indicators to analyse time series such
+  as moving averages or stochastic oscillators.
+date_publication: '2017-11-15'
+bug_reports: ''
+url: http://www.rmetrics.org
+url_cran: https://CRAN.R-project.org/package=fTrading
+url_git: ''

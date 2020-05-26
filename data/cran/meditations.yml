@@ -1,0 +1,9 @@
+version: 1.0.1
+title: Prints a Random Quote from Marcus Aurelius' Book Meditations
+maintainer: Jacob Kaplan
+description: Prints a random quote from Marcus Aurelius' book Meditations.
+date_publication: '2019-01-16'
+bug_reports: https://github.com/jacobkap/meditations/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=meditations
+url_git: https://github.com/jacobkap/meditations

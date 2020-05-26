@@ -1,0 +1,11 @@
+version: 2015.3-1
+title: Constrained Nonlinear Optimization
+maintainer: Ravi Varadhan
+description: Augmented Lagrangian Adaptive Barrier Minimization<U+000a>Algorithm for
+  optimizing smooth nonlinear objective functions<U+000a>with constraints. Linear
+  or nonlinear equality and inequality<U+000a>constraints are allowed.
+date_publication: '2015-03-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=alabama
+url_git: ''

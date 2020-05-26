@@ -1,0 +1,14 @@
+version: 0.1.8
+title: Eye-Tracking Data Analysis
+maintainer: Jacob Dink
+description: |-
+  A set of tools that address tasks along the pipeline from raw
+  data to analysis and visualization for eye-tracking data. Offers several
+  popular types of analyses, including linear and growth curve time analyses,
+  onset-contingent reaction time analyses, as well as several non-parametric
+  bootstrapping approaches.
+date_publication: '2018-12-03'
+bug_reports: https://github.com/jwdink/eyetrackingR/issues
+url: http://eyetracking-r.com
+url_cran: https://CRAN.R-project.org/package=eyetrackingR
+url_git: ''

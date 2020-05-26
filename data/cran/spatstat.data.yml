@@ -1,0 +1,9 @@
+version: 1.4-3
+title: Datasets for 'spatstat'
+maintainer: Adrian Baddeley
+description: Contains all the datasets for the 'spatstat' package.
+date_publication: '2020-01-26'
+bug_reports: https://github.com/spatstat/spatstat.data/issues
+url: http://www.spatstat.org
+url_cran: https://CRAN.R-project.org/package=spatstat.data
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.2.2
+title: Spectral Decomposition of Connectedness Measures
+maintainer: Tomas Krehlik
+description: Accompanies a paper (Barunik, Krehlik (2018) <doi:10.1093/jjfinec/nby001>)
+  dedicated to spectral decomposition of connectedness measures and their interpretation.
+  We implement all the developed estimators as well as the historical counterparts.
+  For more information, see the help or GitHub page (<https://github.com/tomaskrehlik/frequencyConnectedness>)
+  for relevant information.
+date_publication: '2020-02-16'
+bug_reports: https://github.com/tomaskrehlik/frequencyConnectedness/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=frequencyConnectedness
+url_git: https://github.com/tomaskrehlik/frequencyConnectedness

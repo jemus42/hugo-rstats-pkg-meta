@@ -1,0 +1,19 @@
+version: 0.3.1
+title: EXIF Image Data in R
+maintainer: Dewey Dunnington
+description: |-
+  Reads EXIF data using ExifTool <http://www.sno.phy.queensu.ca/~phil/exiftool/>
+  and returns results as a data frame.
+  ExifTool is a platform-independent Perl library plus a command-line
+  application for reading, writing and editing meta information in a wide variety
+  of files. ExifTool supports many different metadata formats including EXIF,
+  GPS, IPTC, XMP, JFIF, GeoTIFF, ICC Profile, Photoshop IRB, FlashPix, AFCP and
+  ID3, as well as the maker notes of many digital cameras by Canon, Casio, FLIR,
+  FujiFilm, GE, HP, JVC/Victor, Kodak, Leaf, Minolta/Konica-Minolta, Motorola, Nikon,
+  Nintendo, Olympus/Epson, Panasonic/Leica, Pentax/Asahi, Phase One, Reconyx, Ricoh,
+  Samsung, Sanyo, Sigma/Foveon and Sony.
+date_publication: '2019-01-13'
+bug_reports: https://github.com/paleolimbot/exifr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=exifr
+url_git: https://github.com/paleolimbot/exifr

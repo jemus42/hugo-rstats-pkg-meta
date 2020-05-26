@@ -1,0 +1,13 @@
+version: '1.8'
+title: Batch Computing with R
+maintainer: Bernd Bischl
+description: |-
+  Provides Map, Reduce and Filter variants to generate jobs on batch
+  computing systems like PBS/Torque, LSF, SLURM and Sun Grid Engine.
+  Multicore and SSH systems are also supported. For further details see the
+  project web page.
+date_publication: '2019-05-14'
+bug_reports: https://github.com/tudo-r/BatchJobs/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=BatchJobs
+url_git: https://github.com/tudo-r/BatchJobs

@@ -1,0 +1,9 @@
+version: 0.1.2
+title: Easy Access for West Java Data
+maintainer: Muhammad Aswan Syahputra
+description: Interface to browse, list, and fetch data about West Java.
+date_publication: '2020-01-13'
+bug_reports: https://github.com/aswansyahputra/jabr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=jabr
+url_git: https://github.com/aswansyahputra/jabr

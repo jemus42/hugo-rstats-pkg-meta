@@ -1,0 +1,14 @@
+version: 1.10.6
+title: |-
+  Identify and Visualize Significantly Responsive Branches in a
+  Phylogenetic Tree
+maintainer: John R. Stevens
+description: Provides tools to identify and visualize branches in a phylogenetic tree
+  that are significantly responsive to some intervention, taking as primary inputs
+  a phylogenetic tree (of class phylo) and a data frame (or matrix) of corresponding
+  tip (OTU) labels and p-values.
+date_publication: '2017-10-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SigTree
+url_git: ''

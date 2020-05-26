@@ -1,0 +1,11 @@
+version: '1.0'
+title: Confidence intervals for crossover points of two simple<U+000a>regression lines
+maintainer: Sunbok Lee
+description: <U+000a>This package provides functions to calculate confidence intervals
+  for crossover points of two simple linear regression lines using<U+000a>the non-linear
+  regression, the delta method, the Fieller method, and the bootstrap methods.
+date_publication: '2014-07-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=crossReg
+url_git: ''

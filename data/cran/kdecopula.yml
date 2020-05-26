@@ -1,0 +1,12 @@
+version: 0.9.2
+title: Kernel Smoothing for Bivariate Copula Densities
+maintainer: Thomas Nagler
+description: |-
+  Provides fast implementations of kernel smoothing techniques for
+  bivariate copula densities, in particular density estimation and resampling,
+  see Nagler (2018) <doi:10.18637/jss.v084.i07>.
+date_publication: '2018-04-09'
+bug_reports: https://github.com/tnagler/kdecopula/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=kdecopula
+url_git: https://github.com/tnagler/kdecopula

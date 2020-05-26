@@ -1,0 +1,14 @@
+version: 0.2.2
+title: Create Meme
+maintainer: Guangchuang Yu
+description: |-
+  The word 'Meme' was originated from the book, 'The Selfish Gene', authored by Richard Dawkins (1976).
+  It is a unit of culture that is passed from one generation to another and correlates to the gene, the unit of physical heredity.
+  The internet memes are captioned photos that are intended to be funny, ridiculous.
+  Memes behave like infectious viruses and travel from person to person quickly through social media.
+  The 'meme' package allows users to make custom memes.
+date_publication: '2019-08-05'
+bug_reports: https://github.com/GuangchuangYu/meme/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=meme
+url_git: https://github.com/GuangchuangYu/meme/

@@ -1,0 +1,15 @@
+version: 0.1.0
+title: |-
+  Standardised Rigid Rotations of Articulated Three-Dimensional
+  Structures
+maintainer: Marta Vidal-Garcia
+description: Here we describe a simple geometric rigid rotation approach that removes
+  the effect of random translation and rotation, enabling the morphological analysis
+  of 3D articulated structures. Our method is based on Cartesian coordinates in 3D
+  space so it can be applied to any morphometric problem that also uses 3D coordinates.
+  See Vidal-García, M., Bandara, L., Keogh, J.S. (2018) <doi:10.1002/ece3.4018>.
+date_publication: '2020-05-06'
+bug_reports: https://github.com/marta-vidalgarcia/ShapeRotator/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ShapeRotator
+url_git: https://github.com/marta-vidalgarcia/ShapeRotator

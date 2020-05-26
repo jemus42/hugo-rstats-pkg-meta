@@ -1,0 +1,10 @@
+version: 1.0.0
+title: Endogenous Switching Regression Models
+maintainer: Bowen Chen
+description: Maximum likelihood estimation of endogenous switching regression models
+  from Heckman (1979) <doi:10.2307/1912352> and estimation of treatment effects.
+date_publication: '2020-02-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=endoSwitch
+url_git: https://github.com/cbw1243/endoSwitch

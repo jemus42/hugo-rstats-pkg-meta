@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Methods for Calculating Gradient Surface Metrics
+maintainer: Annie C. Smith
+description: |-
+  Methods for calculating gradient surface metrics for
+  continuous analysis of landscape features.
+date_publication: '2020-02-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=geodiv
+url_git: ''

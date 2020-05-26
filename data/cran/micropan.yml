@@ -1,0 +1,10 @@
+version: 2.0.1
+title: Microbial Pan-Genome Analysis
+maintainer: Lars Snipen
+description: A collection of functions for computations and visualizations of microbial
+  pan-genomes.
+date_publication: '2020-04-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=micropan
+url_git: ''

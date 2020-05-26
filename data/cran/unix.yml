@@ -1,0 +1,11 @@
+version: 1.5.1
+title: POSIX System Utilities
+maintainer: Jeroen Ooms
+description: |-
+  Bindings to system utilities found in most Unix systems such as
+  POSIX functions which are not part of the Standard C Library.
+date_publication: '2020-01-31'
+bug_reports: https://github.com/jeroen/unix/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=unix
+url_git: https://github.com/jeroen/unix

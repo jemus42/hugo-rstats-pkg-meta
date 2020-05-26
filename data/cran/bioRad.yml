@@ -1,0 +1,12 @@
+version: 0.5.2
+title: Biological Analysis and Visualization of Weather Radar Data
+maintainer: Adriaan M. Dokter
+description: |-
+  Extract, visualize and summarize aerial movements of birds and
+  insects from weather radar data. See <doi:10.1111/ecog.04028>
+  for a software paper describing package and methodologies.
+date_publication: '2020-05-11'
+bug_reports: https://github.com/adokter/bioRad/issues
+url: https://adokter.github.io/bioRad
+url_cran: https://CRAN.R-project.org/package=bioRad
+url_git: https://github.com/adokter/bioRad

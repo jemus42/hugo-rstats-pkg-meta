@@ -1,0 +1,11 @@
+version: 0.1.1
+title: R Bindings for Yummly API
+maintainer: Roman Tsegelskyi
+description: |2-
+
+  Yummly.com is one of the world's largest and most powerful recipe search sites and this package aims to provide R bindings for publicly available Yummly.com Recipe API (https://developer.yummly.com/).
+date_publication: '2015-11-24'
+bug_reports: https://github.com/RomanTsegelskyi/yummlyr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=yummlyr
+url_git: https://github.com/RomanTsegelskyi/yummlyr

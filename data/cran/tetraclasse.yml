@@ -1,0 +1,10 @@
+version: 0.1.21
+title: Satisfaction Analysis using Tetraclasse Model and Llosa Matrix
+maintainer: vincent guyader
+description: The satisfaction Analysis using the tetraclasse model from Sylvie Llosa.
+  Llosa (1997) <http://www.jstor.org/stable/40592578>.
+date_publication: '2017-07-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tetraclasse
+url_git: ''

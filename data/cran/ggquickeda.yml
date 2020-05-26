@@ -1,0 +1,15 @@
+version: 0.1.6
+title: |-
+  Quickly Explore Your Data Using 'ggplot2' and 'table1' Summary
+  Tables
+maintainer: Samer Mouksassi
+description: |-
+  Quickly and easily perform exploratory data analysis by uploading your
+  data as a 'csv' file. Start generating insights using 'ggplot2' plots and
+  'table1' tables with descriptive stats, all using an easy-to-use point and click
+  'Shiny' interface.
+date_publication: '2020-04-17'
+bug_reports: https://github.com/smouksassi/ggquickeda/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggquickeda
+url_git: https://github.com/smouksassi/ggquickeda

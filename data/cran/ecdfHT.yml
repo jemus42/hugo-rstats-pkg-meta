@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Empirical CDF for Heavy Tailed Data
+maintainer: John P Nolan
+description: |-
+  Computes and plots a transformed empirical CDF (ecdf) as a
+  diagnostic for heavy tailed data, specifically data with power law decay on the
+  tails.  Routines for annotating the plot, comparing data to a model, fitting a
+  nonparametric model, and some multivariate extensions are given.
+date_publication: '2016-09-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ecdfHT
+url_git: ''

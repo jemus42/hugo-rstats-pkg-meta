@@ -1,0 +1,14 @@
+version: '1.8'
+title: Structural Equation Modeling Tables
+maintainer: Paul Johnson
+description: |-
+  For confirmatory factor analysis ('CFA') and structural equation
+  models ('SEM') estimated with the 'lavaan' package,
+  this package provides functions to create model summary tables and model
+  comparison tables for hypothesis testing. Tables can be produced in
+  'LaTeX', 'HTML', or comma separated variables ('CSV').
+date_publication: '2020-04-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=semTable
+url_git: ''

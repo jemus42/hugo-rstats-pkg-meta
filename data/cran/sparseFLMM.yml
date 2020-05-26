@@ -1,0 +1,13 @@
+version: 0.3.0
+title: |-
+  Functional Linear Mixed Models for Irregularly or Sparsely
+  Sampled Data
+maintainer: Jona Cederbaum
+description: |-
+  Estimation of functional linear mixed models for irregularly or
+  sparsely sampled data based on functional principal component analysis.
+date_publication: '2019-10-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sparseFLMM
+url_git: ''

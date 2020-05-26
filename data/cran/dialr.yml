@@ -1,0 +1,12 @@
+version: 0.3.1
+title: Parse, Format, and Validate International Phone Numbers
+maintainer: Danny Smith
+description: |-
+  Parse, format, and validate international phone
+  numbers using Google's 'libphonenumber' java library,
+  <https://github.com/google/libphonenumber>.
+date_publication: '2020-04-04'
+bug_reports: https://github.com/socialresearchcentre/dialr/issues
+url: https://socialresearchcentre.github.io/dialr
+url_cran: https://CRAN.R-project.org/package=dialr
+url_git: https://github.com/socialresearchcentre/dialr

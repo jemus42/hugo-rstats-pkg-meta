@@ -1,0 +1,10 @@
+version: 1.1.2
+title: The Unifed Distribution
+maintainer: Oscar Alberto Quijano Xacur
+description: Probability functions, family for glm() and Stan code for working with
+  the unifed distribution (Quijano Xacur, 2019; <doi:10.1186/s40488-019-0102-6>).
+date_publication: '2019-11-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=unifed
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.70-4
+title: Karl Broman's R Code
+maintainer: Karl W Broman
+description: |-
+  Miscellaneous R functions, including functions related to
+  graphics (mostly for base graphics), permutation tests, running
+  mean/median, and general utilities.
+date_publication: '2020-05-22'
+bug_reports: https://github.com/kbroman/broman/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=broman
+url_git: https://github.com/kbroman/broman

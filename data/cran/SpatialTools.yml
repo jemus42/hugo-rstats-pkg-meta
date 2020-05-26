@@ -1,0 +1,11 @@
+version: 1.0.4
+title: Tools for Spatial Data Analysis
+maintainer: Joshua French
+description: Tools for spatial data analysis.  Emphasis on kriging.  Provides functions
+  for prediction and simulation.  Intended to be relatively straightforward, fast,
+  and flexible.
+date_publication: '2018-05-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SpatialTools
+url_git: ''

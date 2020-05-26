@@ -1,0 +1,16 @@
+version: '1.14'
+title: |-
+  Helpers for Parameters in Black-Box Optimization, Tuning and
+  Machine Learning
+maintainer: Jakob Richter
+description: |-
+  Functions for parameter descriptions and operations
+  in black-box optimization, tuning and machine learning. Parameters can
+  be described (type, constraints, defaults, etc.), combined to
+  parameter sets and can in general be programmed on. A useful OptPath
+  object (archive) to log function evaluations is also provided.
+date_publication: '2020-03-24'
+bug_reports: https://github.com/mlr-org/ParamHelpers/issues
+url: https://paramhelpers.mlr-org.com
+url_cran: https://CRAN.R-project.org/package=ParamHelpers
+url_git: https://github.com/mlr-org/ParamHelpers

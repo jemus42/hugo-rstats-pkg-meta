@@ -1,0 +1,14 @@
+version: 0.1.2
+title: Automated Setup and Auto Run for R Language Server
+maintainer: Jozef Hajnala
+description: |-
+  Allows to install the R 'languageserver' with all dependencies
+  into a separate library and use that independent installation
+  automatically when R is instantiated as a language server process.
+  Useful for making language server seamless to use without
+  running into package version conflicts.
+date_publication: '2020-04-10'
+bug_reports: https://github.com/jozefhajnala/languageserversetup/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=languageserversetup
+url_git: https://github.com/jozefhajnala/languageserversetup

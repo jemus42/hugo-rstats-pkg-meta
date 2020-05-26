@@ -1,0 +1,15 @@
+version: 1.1.0
+title: A Genetic-Based Assay for the Identification of Cell Lines
+maintainer: Davide Prandi
+description: 'The SNP Panel Identification Assay (SPIA) is a package that enables
+  an accurate determination of cell line identity from the genotype of single nucleotide
+  polymorphisms (SNPs). The SPIA test allows to discern when two cell lines are close
+  enough to be called similar and when they are not. Details about the method are
+  available at "Demichelis et al. (2008) SNP panel identification assay (SPIA): a
+  genetic-based assay for the identification of cell lines. Nucleic Acids Res., 3,
+  2446-2456".'
+date_publication: '2016-08-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SPIAssay
+url_git: ''

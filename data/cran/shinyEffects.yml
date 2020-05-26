@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Customize Your Web Apps with Fancy Effects
+maintainer: David Granjon
+description: |-
+  Add fancy CSS effects to your 'shinydashboards' or 'shiny' apps.
+  100% compatible with 'shinydashboardPlus' and 'bs4Dash'.
+date_publication: '2018-11-18'
+bug_reports: https://github.com/DivadNojnarg/shinyEffects/issues
+url: https://divadnojnarg.github.io/shinyEffects/
+url_cran: https://CRAN.R-project.org/package=shinyEffects
+url_git: https://github.com/DivadNojnarg/shinyEffects

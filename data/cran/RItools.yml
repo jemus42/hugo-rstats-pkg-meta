@@ -1,0 +1,12 @@
+version: 0.1-17
+title: Randomization Inference Tools
+maintainer: Jake Bowers
+description: Tools for randomization-based inference. Current focus is on the d^2
+  omnibus test of differences of means following Hansen and Bowers (2008) useful for
+  assessing balance in matched observational studies or for analysis of outcomes in
+  block-randomized experiments.
+date_publication: '2019-07-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RItools
+url_git: ''

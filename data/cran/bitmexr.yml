@@ -1,0 +1,13 @@
+version: 0.3.0
+title: R Client for BitMEX
+maintainer: Harry Fisher
+description: |-
+  A client for cryptocurrency exchange BitMEX
+  <https://www.bitmex.com/> including the ability to obtain historic
+  trade data and place, edit and cancel orders. BitMEX's Testnet and
+  live API are both supported.
+date_publication: '2020-05-25'
+bug_reports: https://github.com/hfshr/bitmexr/issues
+url: https://hfshr.github.io/bitmexr
+url_cran: https://CRAN.R-project.org/package=bitmexr
+url_git: https://github.com/hfshr/bitmexr

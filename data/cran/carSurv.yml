@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Correlation-Adjusted Regression Survival (CARS) Scores
+maintainer: Thomas Welchowski
+description: Contains functions to estimate the Correlation-Adjusted Regression Survival
+  (CARS) Scores. The method is described in Welchowski, T. and Zuber, V. and Schmid,
+  M., (2018), Correlation-Adjusted Regression Survival Scores for High-Dimensional
+  Variable Selection, <arXiv:1802.08178>.
+date_publication: '2018-02-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=carSurv
+url_git: ''

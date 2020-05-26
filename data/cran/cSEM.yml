@@ -1,0 +1,21 @@
+version: 0.2.0
+title: Composite-Based Structural Equation Modeling
+maintainer: Manuel E. Rademaker
+description: |-
+  Estimate, assess, test, and study linear, nonlinear, hierarchical
+  and multigroup structural equation models using composite-based approaches
+  and procedures, including estimation techniques such as partial least squares
+  path modeling (PLS-PM) and its derivatives (PLSc, ordPLSc, robustPLSc),
+  generalized structured component analysis (GSCA), generalized structured
+  component analysis with uniqueness terms (GSCAm), generalized canonical
+  correlation analysis (GCCA), principal component analysis (PCA),
+  factor score regression (FSR) using sum score, regression or
+  bartlett scores (including bias correction using Croon’s approach),
+  as well as several tests and typical postestimation procedures
+  (e.g., verify admissibility of the estimates, assess the model fit,
+  test the model fit etc.).
+date_publication: '2020-03-29'
+bug_reports: https://github.com/M-E-Rademaker/cSEM/issues
+url: https://m-e-rademaker.github.io/cSEM/
+url_cran: https://CRAN.R-project.org/package=cSEM
+url_git: https://github.com/M-E-Rademaker/cSEM

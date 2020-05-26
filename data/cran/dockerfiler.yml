@@ -1,0 +1,12 @@
+version: 0.1.3
+title: Easy Dockerfile Creation from R
+maintainer: Colin Fay
+description: |-
+  Build a Dockerfile straight from your R session. 'dockerfiler' allows
+  you to create step by step a Dockerfile, and provide convenient tools to wrap
+  R code inside this Dockerfile.
+date_publication: '2019-03-19'
+bug_reports: https://github.com/ColinFay/dockerfiler/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dockerfiler
+url_git: https://github.com/ColinFay/dockerfiler

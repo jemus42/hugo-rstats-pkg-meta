@@ -1,0 +1,12 @@
+version: 0.0.3
+title: Extract Metadata from 'NetCDF' Files as Data Frames
+maintainer: Michael D. Sumner
+description: |-
+  Tools for handling 'NetCDF' metadata in data frames. The metadata is provided
+  as relations in tabular form, to avoid having to scan printed header output or to navigate
+  nested lists of raw metadata.
+date_publication: '2017-05-02'
+bug_reports: https://github.com/r-gris/ncdump/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ncdump
+url_git: https://github.com/r-gris/ncdump

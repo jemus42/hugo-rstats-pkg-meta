@@ -1,0 +1,10 @@
+version: '1.0'
+title: Software Hotspot Analysis
+maintainer: Csaba Farago
+description: Contains data for software hotspot analysis, along with a function performing
+  the analysis itself.
+date_publication: '2015-10-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hotspot
+url_git: ''

@@ -1,0 +1,13 @@
+version: '1.2'
+title: |-
+  Paralellised Versions of Constraint Based Causal Discovery
+  Algorithms
+maintainer: Thuc Duy Le
+description: Parallelise constraint based causality discovery and causal inference
+  methods. The parallelised algorithms in the package will generate the same results
+  as that of the 'pcalg' package but will be much more efficient.
+date_publication: '2015-12-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ParallelPC
+url_git: ''

@@ -1,0 +1,14 @@
+version: 0.8.2
+title: |-
+  Automatically Position Non-Overlapping Text Labels with
+  'ggplot2'
+maintainer: Kamil Slowikowski
+description: |-
+  Provides text and label geoms for 'ggplot2' that help to avoid
+  overlapping text labels. Labels repel away from each other and away from the
+  data points.
+date_publication: '2020-03-08'
+bug_reports: http://github.com/slowkow/ggrepel/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggrepel
+url_git: http://github.com/slowkow/ggrepel

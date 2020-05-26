@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Computes the noncentral gamma function
+maintainer: Daniel Furtado Ferreira
+description: |-
+  Computes the noncentral gamma function: pdf, cdf, quantile
+  function and inverse for the noncentrality parameter.
+date_publication: '2012-07-05'
+bug_reports: ''
+url: www.dex.ufla.br/~danielff/r_resources.html
+url_cran: https://CRAN.R-project.org/package=ncg
+url_git: ''

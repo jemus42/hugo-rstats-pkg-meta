@@ -1,0 +1,16 @@
+version: '2.0'
+title: |-
+  Multi-Modal Similarity Matrix Factorization for Integrative
+  Multi-Omics Data Analysis
+maintainer: Xiaoyao Yin
+description: |-
+  A new method to implement clustering from multiple modality data of certain samples,
+  the function M2SMF() jointly factorizes multiple similarity matrices into a shared sub-matrix
+  and several modality private sub-matrices, which is further used for clustering. Along with
+  this method, we also provide function to calculate the similarity matrix and function to
+  evaluate the best cluster number from the original data.
+date_publication: '2019-11-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=M2SMF
+url_git: ''

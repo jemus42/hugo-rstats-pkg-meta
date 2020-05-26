@@ -1,0 +1,13 @@
+version: 0.6-5
+title: Spatial Forecast Verification
+maintainer: Eric Gilleland
+description: Spatial forecast verification arose from verifying high-resolution forecasts,
+  where coarser-resolution models generally are favored even when a human forecaster
+  finds the higher-resolution model to be considerably better.  Most newly proposed
+  methods, which largely come from image analysis, computer vision, and similar, are
+  available, with more on the way.
+date_publication: '2019-06-11'
+bug_reports: http://www.ral.ucar.edu/staff/ericg
+url: http://www.ral.ucar.edu/projects/icp/SpatialVx
+url_cran: https://CRAN.R-project.org/package=SpatialVx
+url_git: ''

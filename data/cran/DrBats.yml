@@ -1,0 +1,12 @@
+version: 0.1.5
+title: 'Data Representation: Bayesian Approach That''s Sparse'
+maintainer: Anne Bisson
+description: Feed longitudinal data into a Bayesian Latent Factor Model to obtain
+  a low-rank representation. Parameters are estimated using a Hamiltonian Monte Carlo
+  algorithm with STAN. See G. Weinrott, B. Fontez, N. Hilgert and S. Holmes, "Bayesian
+  Latent Factor Model for Functional Data Analysis", Actes des JdS 2016.
+date_publication: '2019-11-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DrBats
+url_git: ''

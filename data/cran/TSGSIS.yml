@@ -1,0 +1,11 @@
+version: '0.1'
+title: Two Stage-Grouped Sure Independence Screening
+maintainer: Yao-Hwei Fang
+description: To provide a high dimensional grouped variable selection approach for
+  detection of whole-genome SNP effects and SNP-SNP interactions, as described in
+  Fang et al. (2017, under review).
+date_publication: '2017-04-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TSGSIS
+url_git: ''

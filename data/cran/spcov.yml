@@ -1,0 +1,14 @@
+version: '1.01'
+title: Sparse Estimation of a Covariance Matrix
+maintainer: Jacob Bien
+description: |-
+  Provides a covariance estimator for multivariate normal
+  data that is sparse and positive definite.  Implements the
+  majorize-minimize algorithm described in Bien, J., and
+  Tibshirani, R. (2011), "Sparse Estimation of a Covariance
+  Matrix," Biometrika. 98(4). 807--820.
+date_publication: '2012-09-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spcov
+url_git: ''

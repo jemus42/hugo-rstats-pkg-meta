@@ -1,0 +1,11 @@
+version: 0.1.4
+title: Phase II Clinical Trial Design Using Bayesian Methods
+maintainer: Yalin Zhu
+description: |-
+  Calculate the Bayesian posterior/predictive probability and
+  determine the sample size and stopping boundaries for single-arm Phase II design.
+date_publication: '2016-08-21'
+bug_reports: ''
+url: https://allen.shinyapps.io/BayesDesign/
+url_cran: https://CRAN.R-project.org/package=ph2bye
+url_git: ''

@@ -1,0 +1,11 @@
+version: 1.1.0
+title: Spherically Constrained Optimization Routine
+maintainer: Debsurya De
+description: |-
+  A non-convex optimization package that optimizes any function under the criterion, combination of
+  variables are on the surface of a unit sphere, as described in the paper : Das et al. (2019) <arXiv:1909.04024> .
+date_publication: '2019-10-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SCOR
+url_git: https://github.com/synx21/SCOR

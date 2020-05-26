@@ -1,0 +1,13 @@
+version: 1.6.1
+title: Automate Package and Project Setup
+maintainer: Jennifer Bryan
+description: |-
+  Automate package and project setup tasks that are otherwise
+  performed manually. This includes setting up unit testing, test
+  coverage, continuous integration, Git, 'GitHub', licenses, 'Rcpp', 'RStudio'
+  projects, and more.
+date_publication: '2020-04-29'
+bug_reports: https://github.com/r-lib/usethis/issues
+url: https://usethis.r-lib.org
+url_cran: https://CRAN.R-project.org/package=usethis
+url_git: https://github.com/r-lib/usethis

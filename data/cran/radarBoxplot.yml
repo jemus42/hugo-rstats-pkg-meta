@@ -1,0 +1,14 @@
+version: 1.0.0
+title: Implementation of the Radar-Boxplot
+maintainer: Caio Hamamura
+description: |-
+  Creates the radar-boxplot, a plot that was created by the
+  author during his doctoring in forest resources.
+  The radar-boxplot is a visualization feature suited for
+  multivariate classification/clustering. It provides an intuitive
+  deep understanding of the data.
+date_publication: '2019-05-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=radarBoxplot
+url_git: ''

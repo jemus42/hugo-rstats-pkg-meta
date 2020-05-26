@@ -1,0 +1,13 @@
+version: 5.0.1
+title: Systematic Conservation Prioritization in R
+maintainer: Richard Schuster
+description: |-
+  Conservation prioritization using integer
+  programming techniques. To solve large-scale problems, users
+  should install the 'gurobi' optimizer
+  (available from <http://www.gurobi.com/>).
+date_publication: '2020-05-15'
+bug_reports: https://github.com/prioritizr/prioritizr/issues
+url: https://prioritizr.net
+url_cran: https://CRAN.R-project.org/package=prioritizr
+url_git: https://github.com/prioritizr/prioritizr

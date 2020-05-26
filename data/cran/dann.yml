@@ -1,0 +1,13 @@
+version: 0.2.0
+title: Discriminant Adaptive Nearest Neighbor Classification
+maintainer: Greg McMahan
+description: |-
+  Discriminant Adaptive Nearest Neighbor Classification is a
+  variation of k nearest neighbors where the neighborhood is elongated
+  along class boundaries. This package implements dann and sub_dann from
+  Hastie (1995) <https://web.stanford.edu/~hastie/Papers/dann_IEEE.pdf>.
+date_publication: '2020-03-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dann
+url_git: ''

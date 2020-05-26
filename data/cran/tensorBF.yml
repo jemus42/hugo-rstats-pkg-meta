@@ -1,0 +1,14 @@
+version: 1.0.2
+title: Bayesian Tensor Factorization
+maintainer: Suleiman A Khan
+description: Bayesian Tensor Factorization for decomposition of tensor data sets using
+  the trilinear CANDECOMP/PARAFAC (CP) factorization, with automatic component selection.
+  The complete data analysis pipeline is provided, including functions and recommendations
+  for data normalization and model definition, as well as missing value prediction
+  and model visualization. The method performs factorization for three-way tensor
+  datasets and the inference is implemented with Gibbs sampling.
+date_publication: '2018-10-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tensorBF
+url_git: ''

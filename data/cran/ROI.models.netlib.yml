@@ -1,0 +1,12 @@
+version: '1.1'
+title: '''ROI'' Optimization Problems Based on ''NETLIB-LP'''
+maintainer: Florian Schwendinger
+description: |-
+  A collection of 'ROI' optimization problems based on the 'NETLIB-LP' collection.
+  'Netlib' is a software repository, which amongst many other software for scientific computing contains a collection of linear programming problems. The purpose of this package is to make
+  this problems easily accessible from 'R' as 'ROI' optimization problems.
+date_publication: '2019-01-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ROI.models.netlib
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.5.1
+title: Generate Descriptive Statistics
+maintainer: Aravind Hebbali
+description: |-
+  Generate descriptive statistics such as measures of location,
+  dispersion, frequency tables, cross tables, group summaries and multiple
+  one/two way tables.
+date_publication: '2020-02-01'
+bug_reports: https://github.com/rsquaredacademy/descriptr/issues
+url: https://descriptr.rsquaredacademy.com/
+url_cran: https://CRAN.R-project.org/package=descriptr
+url_git: https://github.com/rsquaredacademy/descriptr

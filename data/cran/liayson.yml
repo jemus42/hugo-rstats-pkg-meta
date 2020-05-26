@@ -1,0 +1,14 @@
+version: 1.0.3
+title: |-
+  Linking Singe-Cell Transcriptomes Atween Contemporary
+  Subpopulation Genomes
+maintainer: Noemi Andor
+description: Given an RNA-seq derived cell-by-gene matrix and an DNA-seq derived copy
+  number segmentation, LIAYSON predicts the number of clones present in a tumor, their
+  size, the copy number profile of each clone and the clone membership of each single
+  cell (Andor, N. & Lau, B., et al. (2018) <doi:10.1101/445932>).
+date_publication: '2020-04-30'
+bug_reports: ''
+url: https://groups.google.com/d/forum/liayson
+url_cran: https://CRAN.R-project.org/package=liayson
+url_git: https://github.com/noemiandor/liayson

@@ -1,0 +1,11 @@
+version: '1.28'
+title: A General-Purpose Package for Dynamic Report Generation in R
+maintainer: Yihui Xie
+description: |-
+  Provides a general-purpose tool for dynamic report generation in R
+  using Literate Programming techniques.
+date_publication: '2020-02-06'
+bug_reports: https://github.com/yihui/knitr/issues
+url: https://yihui.org/knitr/
+url_cran: https://CRAN.R-project.org/package=knitr
+url_git: ''

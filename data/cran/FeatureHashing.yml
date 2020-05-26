@@ -1,0 +1,18 @@
+version: 0.9.1.4
+title: |-
+  Creates a Model Matrix via Feature Hashing with a Formula
+  Interface
+maintainer: Wush Wu
+description: |-
+  Feature hashing, also called as the hashing trick, is a method to transform
+  features of a instance to a vector. Thus, it is a method to transform a real dataset to a matrix.
+  Without looking up the indices in an associative array,
+  it applies a hash function to the features and uses their hash values as indices directly.
+  The method of feature hashing in this package was proposed in Weinberger et al. (2009) <arXiv:0902.2206>.
+  The hashing algorithm is the murmurhash3 from the 'digest' package.
+  Please see the README in <https://github.com/wush978/FeatureHashing> for more information.
+date_publication: '2019-11-24'
+bug_reports: https://github.com/wush978/FeatureHashing/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=FeatureHashing
+url_git: https://github.com/wush978/FeatureHashing

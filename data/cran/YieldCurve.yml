@@ -1,0 +1,14 @@
+version: '4.1'
+title: Modelling and estimation of the yield curve
+maintainer: Sergio Salvino Guirreri
+description: |-
+  Modelling the yield curve with some parametric models.
+  The models implemented are: Nelson-Siegel, Diebold-Li and
+  Svensson.  The package also includes the data of the term
+  structure of interest rate of Federal Reserve Bank and European
+  Central Bank.
+date_publication: '2013-01-30'
+bug_reports: ''
+url: http://www.guirreri.host22.com
+url_cran: https://CRAN.R-project.org/package=YieldCurve
+url_git: ''

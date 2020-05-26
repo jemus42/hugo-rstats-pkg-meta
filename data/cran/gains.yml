@@ -1,0 +1,12 @@
+version: '1.2'
+title: Lift (Gains) Tables and Charts
+maintainer: Craig A. Rolling
+description: Constructs gains tables and lift charts for prediction algorithms. Gains
+  tables and lift charts are commonly used in direct marketing applications.  The
+  method is described in Drozdenko and Drake (2002), "Optimal Database Marketing",
+  Chapter 11.
+date_publication: '2017-09-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gains
+url_git: ''

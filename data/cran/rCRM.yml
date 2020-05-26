@@ -1,0 +1,12 @@
+version: '0.1'
+title: Regularized Continual Reassessment Method
+maintainer: Xiang Li
+description: 'Fit a 2-parameter continual reassessment method (CRM) model (O''Quigley
+  and Shen (1996), <doi: 10.2307/2532905>) regularized with L2 norm (Friedman et al.
+  (2010), <doi: 10.18637/jss.v033.i01>) adjusted by the distance with the target dose
+  limiting toxicity (DLT) rate.'
+date_publication: '2018-11-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rCRM
+url_git: ''

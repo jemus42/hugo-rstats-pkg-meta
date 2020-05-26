@@ -1,0 +1,13 @@
+version: 0.2.1
+title: A Framework for Robust Shiny Applications
+maintainer: Vincent Guyader
+description: |-
+  An opinionated framework for building a
+  production-ready 'Shiny' application. This package contains a series
+  of tools for building a robust 'Shiny' application from start to
+  finish.
+date_publication: '2020-03-05'
+bug_reports: https://github.com/ThinkR-open/golem/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=golem
+url_git: https://github.com/ThinkR-open/golem

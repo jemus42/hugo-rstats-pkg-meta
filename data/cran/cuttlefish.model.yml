@@ -1,0 +1,12 @@
+version: '1.0'
+title: An R package to perform LPUE standardization and stock<U+000a>assessment of
+  the English Channel cuttlefish stock using a<U+000a>two-stage biomass model
+maintainer: Michael Gras
+description: This package can be used to standardize abundance indices using the delta-GLM
+  method and to model the English Channel cuttlefish stock using a two-stage biomass
+  model
+date_publication: '2014-04-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cuttlefish.model
+url_git: ''

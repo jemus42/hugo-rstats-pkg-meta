@@ -1,0 +1,11 @@
+version: 1.0.3
+title: Lysate and Secretome Peptide Feature Plotter
+maintainer: Gereon Poschmann
+description: Creates plots of peptides from shotgun proteomics analysis of secretome
+  and lysate samples. These plots contain associated protein features and scores for
+  potential secretion and truncation.
+date_publication: '2020-05-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LSPFP
+url_git: ''

@@ -1,0 +1,15 @@
+version: 0.5.1
+title: Data Structures, Summaries, and Visualisations for Missing Data
+maintainer: Nicholas Tierney
+description: |-
+  Missing values are ubiquitous in data and need to be explored and
+  handled in the initial stages of analysis. 'naniar' provides data structures
+  and functions that facilitate the plotting of missing values and examination
+  of imputations. This allows missing data dependencies to be explored with
+  minimal deviation from the common work patterns of 'ggplot2' and tidy data.
+  The work is fully discussed at Tierney & Cook (2018) <arXiv:1809.02264>.
+date_publication: '2020-04-30'
+bug_reports: https://github.com/njtierney/naniar/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=naniar
+url_git: https://github.com/njtierney/naniar

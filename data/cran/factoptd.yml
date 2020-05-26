@@ -1,0 +1,12 @@
+version: 1.0.3
+title: |-
+  Factorial Optimal Designs for Two-Colour cDNA Microarray
+  Experiments
+maintainer: Dibaba Bayisa Gemechu
+description: Computes factorial A-, D- and E-optimal designs for two-colour cDNA microarray
+  experiments.
+date_publication: '2018-01-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=factoptd
+url_git: ''

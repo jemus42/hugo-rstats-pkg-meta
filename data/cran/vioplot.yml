@@ -1,0 +1,10 @@
+version: 0.3.4
+title: Violin Plot
+maintainer: S. Thomas Kelly
+description: A violin plot is a combination of a box plot and a kernel density plot.
+  This package allows extensive customisation of violin plots.
+date_publication: '2019-11-29'
+bug_reports: https://github.com/TomKellyGenetics/vioplot/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=vioplot
+url_git: https://github.com/TomKellyGenetics/vioplot

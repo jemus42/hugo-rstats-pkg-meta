@@ -1,0 +1,16 @@
+version: 0.2.0
+title: Tools and Palettes for Bivariate Thematic Mapping
+maintainer: Christopher Prener
+description: |-
+  Provides a 'ggplot2' centric approach to bivariate mapping. This is a
+  technique that maps two quantities simultaneously rather than the single value
+  that most thematic maps display. The package provides a suite of tools
+  for calculating breaks using multiple different approaches, a selection of
+  palettes appropriate for bivariate mapping and a scale function for 'ggplot2'
+  calls that adds those palettes to maps. A tool for creating bivariate legends
+  is also included.
+date_publication: '2020-05-06'
+bug_reports: https://github.com/slu-openGIS/biscale/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=biscale
+url_git: https://github.com/slu-openGIS/biscale

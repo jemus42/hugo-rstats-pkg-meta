@@ -1,0 +1,12 @@
+version: 0.1.0
+title: The Demand and Supply for Electricity in the US
+maintainer: Rami Krispin
+description: 'Provides a set of regular time-series datasets, describing the US electricity
+  grid. That includes the total demand and supply, and as well as the demand by energy
+  source (coal, solar, wind, etc.). Source: US Energy Information Administration (Dec
+  2019) <https://www.eia.gov/>.'
+date_publication: '2020-01-24'
+bug_reports: https://github.com/RamiKrispin/USgrid/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=USgrid
+url_git: https://github.com/RamiKrispin/USgrid

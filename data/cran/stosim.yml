@@ -1,0 +1,12 @@
+version: 0.0.14
+title: |-
+  Stochastic Simulator for Reliability Modeling of Repairable
+  Systems
+maintainer: Jacob Ormerod
+description: A toolkit for Reliability Availability and Maintainability (RAM) modeling
+  of industrial process systems.
+date_publication: '2018-05-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=stosim
+url_git: ''

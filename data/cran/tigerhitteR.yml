@@ -1,0 +1,12 @@
+version: 1.1.0
+title: Pre-Process of Time Series Data Set in R
+maintainer: Will Kuan
+description: |-
+  Pre-process for discrete time series data set which is not continuous at the column
+  of 'date'. Refilling records of missing 'date' and other columns to the hollow data set so that
+  final data set is able to be dealt with time series analysis.
+date_publication: '2016-10-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tigerhitteR
+url_git: https://github.com/Willdata/tigerhitteR

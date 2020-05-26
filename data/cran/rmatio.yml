@@ -1,0 +1,13 @@
+version: 0.14.0
+title: Read and Write 'Matlab' Files
+maintainer: Stefan Widgren
+description: |-
+  Read and write 'Matlab' MAT files from R. The 'rmatio'
+  package supports reading MAT version 4, MAT version 5 and MAT
+  compressed version 5. The 'rmatio' package can write version 5 MAT
+  files and version 5 files with variable compression.
+date_publication: '2019-03-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rmatio
+url_git: https://github.com/stewid/rmatio

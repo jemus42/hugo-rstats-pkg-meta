@@ -1,0 +1,11 @@
+version: 1.2-3
+title: Generalized linear and additive models by likelihood based<U+000a>boosting
+maintainer: Harald Binder
+description: This package provides routines for fitting generalized<U+000a>linear
+  and and generalized additive models by likelihood based<U+000a>boosting, using penalized
+  B-splines
+date_publication: '2013-05-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GAMBoost
+url_git: ''

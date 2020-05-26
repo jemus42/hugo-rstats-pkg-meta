@@ -1,0 +1,14 @@
+version: '1.5'
+title: Fast Enrichment Analysis via Circular Permutations
+maintainer: Andrey A Shabalin
+description: |-
+  Fast enrichment analysis for locally correlated statistics
+  via circular permutations.
+  The analysis can be performed at multiple significance thresholds
+  for both primary and auxiliary data sets with
+  efficient correction for multiple testing.
+date_publication: '2019-03-22'
+bug_reports: https://github.com/andreyshabalin/shiftR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=shiftR
+url_git: https://github.com/andreyshabalin/shiftR

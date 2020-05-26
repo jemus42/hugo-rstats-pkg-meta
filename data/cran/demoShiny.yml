@@ -1,0 +1,10 @@
+version: '0.1'
+title: Runs a 'Shiny' App as Demo or Lists All Demo 'Shiny' Apps
+maintainer: Sigbert Klinke
+description: Mimics the demo functionality for 'Shiny' apps in a package. Apps stored
+  to the package subdirectory inst/shiny can be called by demoShiny(topic).
+date_publication: '2020-01-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=demoShiny
+url_git: ''

@@ -1,0 +1,14 @@
+version: '0.2'
+title: |-
+  Programmatic Access to Data and Statistics from the World Bank
+  API
+maintainer: Jesse Piburn
+description: |-
+  Tools for searching and downloading data and statistics from
+  the World Bank Data API (<http://data.worldbank.org/developers/api-overview>)
+  and the World Bank Data Catalog API (<http://data.worldbank.org/developers/data-catalog-api>).
+date_publication: '2018-01-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=wbstats
+url_git: https://github.com/GIST-ORNL/wbstats

@@ -1,0 +1,10 @@
+version: 0.9-12
+title: Low-Level R to Java Interface
+maintainer: Simon Urbanek
+description: Low-level interface to Java VM very much like .C/.Call and friends. Allows
+  creation of objects, calling methods and accessing fields.
+date_publication: '2020-03-24'
+bug_reports: https://github.com/s-u/rJava/issues
+url: http://www.rforge.net/rJava/
+url_cran: https://CRAN.R-project.org/package=rJava
+url_git: ''

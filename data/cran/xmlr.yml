@@ -1,0 +1,10 @@
+version: 0.1.2
+title: Read, Write and Work with 'XML' Data
+maintainer: Per Nyfelt
+description: '''XML'' package for creating and reading and manipulating ''XML'', with
+  an object model based on ''Reference Classes''.'
+date_publication: '2020-05-12'
+bug_reports: https://github.com/Alipsa/xmlr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=xmlr
+url_git: https://github.com/Alipsa/xmlr

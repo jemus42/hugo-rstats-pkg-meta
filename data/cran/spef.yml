@@ -1,0 +1,13 @@
+version: 1.0.9
+title: Semiparametric Estimating Functions
+maintainer: Sy Han (Steven) Chiou
+description: |-
+  Functions for fitting semiparametric regression models for
+  panel count survival data. An overview of the package can be found
+  in Wang and Yan (2011) <doi:10.1016/j.cmpb.2010.10.005> and
+  Chiou et al. (2018) <doi:10.1111/insr.12271>.
+date_publication: '2020-05-24'
+bug_reports: http://github.com/stc04003/spef/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=spef
+url_git: http://github.com/stc04003/spef

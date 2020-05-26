@@ -1,0 +1,14 @@
+version: '2.6'
+title: |-
+  Tools for Modeling Rate-Dependent Hysteretic Processes and
+  Ellipses
+maintainer: Anne Parkhurst
+description: |-
+  Fit, summarize and plot sinusoidal hysteretic processes using:
+  two-step simple harmonic least squares, ellipse-specific non-linear least
+  squares, the direct method, geometric least squares or linear least squares.
+date_publication: '2017-12-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hysteresis
+url_git: ''

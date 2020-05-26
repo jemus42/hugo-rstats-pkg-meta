@@ -1,0 +1,9 @@
+version: '0.1'
+title: Full Randomization Test
+maintainer: Giangiacomo Bravo
+description: Perform full randomization tests.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=frt
+url_git: ''

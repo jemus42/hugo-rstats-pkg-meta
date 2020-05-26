@@ -1,0 +1,11 @@
+version: 0.1.2
+title: Observe and Check your Data
+maintainer: Paul Poncet
+description: |-
+  Checks that a given dataset passes user-specified
+  rules. The main functions are observe_if() and inspect().
+date_publication: '2017-01-29'
+bug_reports: https://github.com/paulponcet/observer/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=observer
+url_git: https://github.com/paulponcet/observer

@@ -1,0 +1,14 @@
+version: 0.2-3
+title: Spatial Downscaling using the Dissever Algorithm
+maintainer: Pierre Roudier
+description: |-
+  Spatial downscaling of coarse grid mapping to fine grid
+  mapping using predictive covariates and a model fitted using the 'caret'
+  package. The original dissever algorithm was published by Malone et al.
+  (2012) <doi:10.1016/j.cageo.2011.08.021>, and extended by Roudier et al.
+  (2017) <doi:10.1016/j.compag.2017.08.021>.
+date_publication: '2018-04-20'
+bug_reports: https://github.com/pierreroudier/dissever/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dissever
+url_git: https://github.com/pierreroudier/dissever

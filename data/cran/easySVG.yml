@@ -1,0 +1,13 @@
+version: 0.1.0
+title: An Easy SVG Basic Elements Generator
+maintainer: Yuting Dai
+description: |-
+  This SVG elements generator can easily generate
+  SVG elements such as rect, line, circle, ellipse, polygon,
+  polyline, text and group. Also, it can combine and
+  output SVG elements into a SVG file.
+date_publication: '2018-01-09'
+bug_reports: https://github.com/ytdai/easySVG/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=easySVG
+url_git: https://github.com/ytdai/easySVG

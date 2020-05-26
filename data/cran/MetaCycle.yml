@@ -1,0 +1,18 @@
+version: 1.2.0
+title: Evaluate Periodicity in Large Scale Data
+maintainer: Gang Wu
+description: |-
+  There are two functions-meta2d and meta3d for
+  detecting rhythmic signals from time-series datasets. For analyzing
+  time-series datasets without individual information, 'meta2d' is
+  suggested, which could incorporates multiple methods from ARSER,
+  JTK_CYCLE and Lomb-Scargle in the detection of interested rhythms. For
+  analyzing time-series datasets with individual information, 'meta3d' is
+  suggested, which takes use of any one of these three methods to analyze
+  time-series data individual by individual and gives out integrated values
+  based on analysis result of each individual.
+date_publication: '2019-04-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MetaCycle
+url_git: ''

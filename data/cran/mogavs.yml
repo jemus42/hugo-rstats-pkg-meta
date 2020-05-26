@@ -1,0 +1,14 @@
+version: 1.1.0
+title: |-
+  Multiobjective Genetic Algorithm for Variable Selection in
+  Regression
+maintainer: Tommi Pajala
+description: Functions for exploring the best subsets in regression with a genetic
+  algorithm. The package is much faster than methods relying on complete enumeration,
+  and is suitable for data sets with large number of variables. For more information,
+  see Sinha, Malo & Kuosmanen (2015) <doi:10.1080/10618600.2014.899236>.
+date_publication: '2018-01-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mogavs
+url_git: ''

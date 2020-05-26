@@ -1,0 +1,16 @@
+version: '1.2'
+title: |-
+  Bayesian Inference on Causal Genetic Variants using Affected
+  Sib-Pairs Data
+maintainer: Claire Dandine-Roulland
+description: |-
+  This package allows to make inference on the properties of causal genetic
+  variants in linkage disequilibrium with genotyped markers. In a first step,
+  we select a subset of variants using a score statistic for affected
+  sib-pairs. In a second step, on the selected subset, we make
+  inference on causal genetic variants in the considered region.
+date_publication: '2015-01-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ASPBay
+url_git: ''

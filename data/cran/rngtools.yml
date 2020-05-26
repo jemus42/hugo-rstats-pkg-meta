@@ -1,0 +1,15 @@
+version: '1.5'
+title: Utility Functions for Working with Random Number Generators
+maintainer: Renaud Gaujoux
+description: |-
+  Provides a set of functions for working with
+  Random Number Generators (RNGs). In particular, a generic
+  S4 framework is defined for getting/setting the current RNG, or RNG data
+  that are embedded into objects for reproducibility.
+  Notably, convenient default methods greatly facilitate the way current
+  RNG settings can be changed.
+date_publication: '2020-01-23'
+bug_reports: http://github.com/renozao/rngtools/issues
+url: https://renozao.github.io/rngtools
+url_cran: https://CRAN.R-project.org/package=rngtools
+url_git: ''

@@ -1,0 +1,14 @@
+version: '0.1'
+title: |-
+  Kvantitatiivsete meetodite praktikumi asjad / Functions used in
+  the course "Quantitative methods in behavioural sciences"
+  (SHPH.00.004), University of Tartu
+maintainer: Kenn Konstabel
+description: |-
+  Kasulikud funktsioonid kvantitatiivsete mudelite kursuse
+  (SHPH.00.004) jaoks
+date_publication: '2014-02-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=praktikum
+url_git: ''

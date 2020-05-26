@@ -1,0 +1,21 @@
+version: '1.0'
+title: |-
+  The package can identify the dysregulated KEGG pathways based on
+  global influence from the internal effect of pathways and
+  crosstalk between pathways.
+maintainer: Junwei Han
+description: |-
+  The package can identify the dysregulated KEGG pathways
+  based on global influence from the internal effect of pathways
+  and crosstalk between pathways. (1) The PAGI package can
+  prioritize the pathways associated with two biological states
+  by statistical significance or FDR. (2) The PAGI package can
+  evaluated the global influence factor (GIF) score in the global
+  gene-gene network constructed based on the relationships of
+  genes extracted from each pathway in KEGG database and the
+  overlapped genes between pathways.
+date_publication: '2013-11-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PAGI
+url_git: ''

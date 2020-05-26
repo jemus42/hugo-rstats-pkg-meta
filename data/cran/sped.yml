@@ -1,0 +1,16 @@
+version: 0.2-1
+title: Multi-Gene Descent Probabilities
+maintainer: Charles J. Geyer
+description: |-
+  Do multi-gene descent probabilities
+  (Thompson, 1983, <doi:10.1098/rspb.1983.0072>)
+  and special cases thereof
+  (Thompson, 1986, <doi:10.1002/zoo.1430050210>)
+  including inbreeding and kinship coefficients.  But does much more:
+  probabilities of any set of genes descending from any other
+  set of genes.
+date_publication: '2020-03-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sped
+url_git: ''

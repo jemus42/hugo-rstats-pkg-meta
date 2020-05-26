@@ -1,0 +1,12 @@
+version: 0.1.0
+title: |-
+  Comparing Nonlinear Curves and Surface Estimations by
+  Semiparametric Methods
+maintainer: Shi Zhao
+description: To compare nonlinear curves and surface estimations between groups using
+  semiparametric methods for cross-sectional and longitudinal dataset.
+date_publication: '2018-02-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gamm4.test
+url_git: ''

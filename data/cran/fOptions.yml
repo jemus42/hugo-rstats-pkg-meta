@@ -1,0 +1,13 @@
+version: '3042.86'
+title: Rmetrics - Pricing and Evaluating Basic Options
+maintainer: Tobias Setz
+description: |-
+  Provides a collection of functions to
+  valuate basic options. This includes the generalized
+  Black-Scholes option, options on futures and options on
+  commodity futures.
+date_publication: '2017-11-16'
+bug_reports: ''
+url: http://www.rmetrics.org
+url_cran: https://CRAN.R-project.org/package=fOptions
+url_git: ''

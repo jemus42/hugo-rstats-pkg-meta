@@ -1,0 +1,11 @@
+version: 0.1-3
+title: R Functions for Bayesian Hazard Rate Estimation
+maintainer: Luca La Rocca
+description: A suite of R functions for Bayesian estimation of smooth<U+000a>hazard
+  rates via Compound Poisson Process (CPP) and Bayesian<U+000a>Penalized Spline (BPS)
+  priors.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: http://www-dimat.unipv.it/luca/bayhaz.htm
+url_cran: https://CRAN.R-project.org/package=BayHaz
+url_git: ''

@@ -1,0 +1,12 @@
+version: 1.0.0
+title: '''NatureServe'' Interface'
+maintainer: Scott Chamberlain
+description: |-
+  Interface to 'NatureServe' (<https://www.natureserve.org/>).
+  Includes methods to get data, image metadata, search taxonomic names,
+  and make maps.
+date_publication: '2020-05-16'
+bug_reports: https://github.com/ropensci/natserv/issues
+url: https://docs.ropensci.org/natserv
+url_cran: https://CRAN.R-project.org/package=natserv
+url_git: https://github.com/ropensci/natserv

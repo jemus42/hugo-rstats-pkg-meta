@@ -1,0 +1,28 @@
+version: 1.1.0
+title: |-
+  A Swift, Versatile Phylogenomic and High-Throughput Sequencing
+  Simulator
+maintainer: Lucas A. Nell
+description: |-
+  Simply and efficiently
+  simulates (i) variants from reference genomes and (ii) reads from both Illumina
+  <https://www.illumina.com/>
+  and Pacific Biosciences (PacBio) <https://www.pacb.com/> platforms.
+  It can either read reference genomes from FASTA files or simulate new ones.
+  Genomic variants can be simulated using summary statistics, phylogenies,
+  Variant Call Format (VCF) files, and coalescent simulations—the latter of which
+  can include selection, recombination, and demographic fluctuations.
+  'jackalope' can simulate single, paired-end, or mate-pair Illumina reads,
+  as well as PacBio reads.
+  These simulations include sequencing errors, mapping qualities, multiplexing,
+  and optical/polymerase chain reaction (PCR) duplicates.
+  Simulating Illumina sequencing is based on ART
+  by Huang et al. (2012) <doi:10.1093/bioinformatics/btr708>.
+  PacBio sequencing simulation is based on
+  SimLoRD  by Stöcker et al. (2016) <doi:10.1093/bioinformatics/btw286>.
+  All outputs can be written to standard file formats.
+date_publication: '2020-02-28'
+bug_reports: https://github.com/lucasnell/jackalope/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=jackalope
+url_git: https://github.com/lucasnell/jackalope

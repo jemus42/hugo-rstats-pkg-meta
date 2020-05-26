@@ -1,0 +1,14 @@
+version: 0.9.2
+title: Adaptive Smoothing of Digital Images
+maintainer: Karsten Tabelow
+description: |-
+  Implements tools for manipulation of digital
+  images and the Propagation Separation approach
+  by Polzehl and Spokoiny (2006) <DOI:10.1007/s00440-005-0464-1>
+  for smoothing digital images, see Polzehl and Tabelow (2007)
+  <DOI:10.18637/jss.v019.i01>.
+date_publication: '2019-11-14'
+bug_reports: ''
+url: http://www.wias-berlin.de/software/imaging/
+url_cran: https://CRAN.R-project.org/package=adimpro
+url_git: ''

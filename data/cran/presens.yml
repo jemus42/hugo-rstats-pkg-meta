@@ -1,0 +1,13 @@
+version: 2.1.0
+title: Interface for PreSens Fiber Optic Data
+maintainer: Matthew A. Birk
+description: |-
+  Makes output files from select PreSens Fiber Optic Oxygen
+  Transmitters easier to work with in R. See <http://www.presens.de> for more
+  information about PreSens (Precision Sensing GmbH). Note: this package is
+  neither created nor maintained by PreSens.
+date_publication: '2016-07-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=presens
+url_git: ''

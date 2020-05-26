@@ -1,0 +1,14 @@
+version: 0.1.1
+title: Easily Install and Load the 'mlr3' Package Family
+maintainer: Patrick Schratz
+description: |-
+  The 'mlr3' package family is a set of packages for
+  machine-learning purposes built in a modular fashion. This wrapper
+  package is aimed to simplify the installation and loading of the core
+  'mlr3' packages. Get more information about the 'mlr3' project at
+  <https://mlr3book.mlr-org.com/>.
+date_publication: '2020-01-19'
+bug_reports: https://github.com/mlr-org/mlr3verse/issues
+url: https://mlr3verse.mlr-org.com
+url_cran: https://CRAN.R-project.org/package=mlr3verse
+url_git: https://github.com/mlr-org/mlr3verse

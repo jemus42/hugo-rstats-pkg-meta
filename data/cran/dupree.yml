@@ -1,0 +1,11 @@
+version: 0.3.0
+title: Identify Duplicated R Code in a Project
+maintainer: Russ Hyde
+description: |-
+  Identifies code blocks that have a high level of similarity
+  within a set of R files.
+date_publication: '2020-04-21'
+bug_reports: https://github.com/russHyde/dupree/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dupree
+url_git: https://github.com/russHyde/dupree

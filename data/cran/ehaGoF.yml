@@ -1,0 +1,16 @@
+version: 0.1.0
+title: Calculates Goodness of Fit Statistics
+maintainer: Alper Gulbe
+description: Calculates 15 different goodness of fit criteria. These are; standard
+  deviation ratio (SDR), coefficient of variation (CV), relative root mean square
+  error (RRMSE), Pearson's correlation coefficients (PC), root mean square error (RMSE),
+  performance index (PI), mean error (ME), global relative approximation error (RAE),
+  mean relative approximation error (MRAE), mean absolute percentage error (MAPE),
+  mean absolute deviation (MAD), coefficient of determination (R-squared), adjusted
+  coefficient of determination (adjusted R-squared), Akaike's information criterion
+  (AIC), and corrected Akaike's information criterion (CAIC).
+date_publication: '2019-11-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ehaGoF
+url_git: ''

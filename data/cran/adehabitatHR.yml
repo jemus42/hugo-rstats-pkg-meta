@@ -1,0 +1,9 @@
+version: 0.4.18
+title: Home Range Estimation
+maintainer: Clement Calenge
+description: A collection of tools for the estimation of animals home range.
+date_publication: '2020-02-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=adehabitatHR
+url_git: ''

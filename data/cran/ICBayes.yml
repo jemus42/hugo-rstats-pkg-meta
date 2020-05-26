@@ -1,0 +1,11 @@
+version: '1.2'
+title: Bayesian Semiparametric Models for Interval-Censored Data
+maintainer: Chun Pan
+description: Contains functions to fit Bayesian semiparametric regression survival
+  models (proportional hazards model, proportional odds model, and probit model) to
+  interval-censored time-to-event data.
+date_publication: '2020-01-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ICBayes
+url_git: ''

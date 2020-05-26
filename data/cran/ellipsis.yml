@@ -1,0 +1,13 @@
+version: 0.3.1
+title: Tools for Working with ...
+maintainer: Hadley Wickham
+description: |-
+  The ellipsis is a powerful tool for extending functions. Unfortunately
+  this power comes at a cost: misspelled arguments will be silently ignored.
+  The ellipsis package provides a collection of functions to catch problems
+  and alert the user.
+date_publication: '2020-05-15'
+bug_reports: https://github.com/r-lib/ellipsis/issues
+url: https://ellipsis.r-lib.org
+url_cran: https://CRAN.R-project.org/package=ellipsis
+url_git: https://github.com/r-lib/ellipsis

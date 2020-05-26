@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Loading Screen for 'Shiny'
+maintainer: John Coene
+description: Full screen and partial loading screens for 'Shiny' with spinners, progress
+  bars, and notifications.
+date_publication: '2020-01-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=waiter
+url_git: ''

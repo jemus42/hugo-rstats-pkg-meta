@@ -1,0 +1,11 @@
+version: 2.0-8
+title: Introductory Statistics with R
+maintainer: Peter Dalgaard
+description: |-
+  Data sets and scripts for text examples and exercises in
+  P. Dalgaard (2008), `Introductory Statistics with R', 2nd ed., Springer Verlag, ISBN 978-0387790534.
+date_publication: '2020-01-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ISwR
+url_git: ''

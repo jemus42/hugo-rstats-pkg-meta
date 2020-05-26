@@ -1,0 +1,13 @@
+version: 0.1.2
+title: Write 'YAML' for 'R Markdown', 'bookdown', 'blogdown', and More
+maintainer: Malcolm Barrett
+description: |-
+  Write 'YAML' front matter for R Markdown and related
+  documents. yml_*() functions write 'YAML' and use_*() functions let
+  you write the resulting 'YAML' to your clipboard or to .yml files
+  related to your project.
+date_publication: '2020-02-03'
+bug_reports: https://github.com/r-lib/ymlthis/issues
+url: https://ymlthis.r-lib.org
+url_cran: https://CRAN.R-project.org/package=ymlthis
+url_git: https://github.com/r-lib/ymlthis

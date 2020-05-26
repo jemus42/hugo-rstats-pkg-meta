@@ -1,0 +1,9 @@
+version: 1.9.6
+title: The YUIMA Project Package for SDEs
+maintainer: Stefano M. Iacus
+description: Simulation and Inference for SDEs and Other Stochastic Processes.
+date_publication: '2020-02-05'
+bug_reports: ''
+url: http://www.yuima-project.com
+url_cran: https://CRAN.R-project.org/package=yuima
+url_git: ''

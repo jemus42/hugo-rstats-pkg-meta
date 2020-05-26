@@ -1,0 +1,10 @@
+version: 1.2.2
+title: Physical Activity with Accelerometers
+maintainer: Marco Geraci
+description: This is a collection of functions to process, format and store accelerometer
+  data.
+date_publication: '2017-02-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pawacc
+url_git: ''

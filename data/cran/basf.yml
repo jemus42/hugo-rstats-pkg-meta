@@ -1,0 +1,14 @@
+version: 0.1.0
+title: Plot Simple Features with 'base' Sensibilities
+maintainer: Michael Sumner
+description: |-
+  Resurrects the standard plot for shapes established by the
+  'base' and 'graphics' packages. This is suited to workflows that require
+  plotting using the established and traditional idioms of plotting spatially
+  coincident data where it belongs. This package depends on 'sf' and only replaces
+  the plot method.
+date_publication: '2020-04-15'
+bug_reports: https://github.com/mdsumner/basf/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=basf
+url_git: https://github.com/mdsumner/basf

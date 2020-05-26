@@ -1,0 +1,11 @@
+version: '1.6'
+title: Plotting Field Plans for Agricultural Experiments
+maintainer: Kevin Wright
+description: |-
+  A function for plotting maps of agricultural field experiments that
+  are laid out in grids.
+date_publication: '2019-09-13'
+bug_reports: https://github.com/kwstat/desplot/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=desplot
+url_git: https://github.com/kwstat/desplot

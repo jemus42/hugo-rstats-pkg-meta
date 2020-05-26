@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Generalized Space-Time Autoregressive Model
+maintainer: Ahmad Zaenal
+description: Multivariate time series analysis based on Generalized Space-Time Autoregressive
+  Model by Ruchjana et al.(2012) <doi:10.1063/1.4724118>.
+date_publication: '2019-06-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gstar
+url_git: ''

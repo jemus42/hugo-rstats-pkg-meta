@@ -1,0 +1,10 @@
+version: '1.0'
+title: Linear Excess Relative Risk Model
+maintainer: David Moriña Soler
+description: Fits a linear excess relative risk model by maximum likelihood, possibly
+  including several variables and allowing for lagged exposures.
+date_publication: '2016-02-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=linERR
+url_git: ''

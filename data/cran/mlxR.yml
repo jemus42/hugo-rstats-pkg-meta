@@ -1,0 +1,15 @@
+version: 4.1.0
+title: Simulation of Longitudinal Data
+maintainer: Marc Lavielle
+description: |-
+  Simulation and visualization of complex
+  models for longitudinal data. The models are encoded using the model coding
+  language 'Mlxtran' and automatically converted into C++ codes.
+  That allows one to implement very easily complex ODE-based models and complex
+  statistical models, including mixed effects models, for continuous, count,
+  categorical, and time-to-event data.
+date_publication: '2019-10-11'
+bug_reports: https://github.com/MarcLavielle/mlxR/issues
+url: http://simulx.webpopix.org
+url_cran: https://CRAN.R-project.org/package=mlxR
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.8.1
+title: Fit Text Inside a Box in 'ggplot2'
+maintainer: David Wilkins
+description: |-
+  Provides 'ggplot2' geoms to fit text into a box by growing, shrinking
+  or wrapping the text.
+date_publication: '2019-07-18'
+bug_reports: https://github.com/wilkox/ggfittext/issues
+url: https://wilkox.org/ggfittext
+url_cran: https://CRAN.R-project.org/package=ggfittext
+url_git: ''

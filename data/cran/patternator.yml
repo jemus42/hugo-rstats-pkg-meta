@@ -1,0 +1,15 @@
+version: 0.1.0
+title: |-
+  Feature Extraction from Female Brown Anole Lizard Dorsal
+  Patterns
+maintainer: Seong Hyun Hwang
+description: Provides a set of functions to efficiently recognize and clean the continuous
+  dorsal pattern of a female brown anole lizard (Anolis sagrei) traced from 'ImageJ',
+  an open platform for scientific image analysis (see <https://imagej.net> for more
+  information), and extract common features such as the pattern sinuosity indices,
+  coefficient of variation, and max-min width.
+date_publication: '2017-06-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=patternator
+url_git: https://github.com/stathwang/patternator

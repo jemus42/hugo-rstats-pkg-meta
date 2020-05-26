@@ -1,0 +1,11 @@
+version: 1.0.1
+title: A Null Model Adapted to Abundance Class Data in Ecology
+maintainer: Benjamin Borgy
+description: A null model randomizing semi-quantitative multi-classes (or ordinal)
+  data by swapping sub-matrices while both the row and the column marginal sums are
+  held constant.
+date_publication: '2017-06-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=swapClass
+url_git: ''

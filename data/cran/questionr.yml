@@ -1,0 +1,13 @@
+version: 0.7.0
+title: Functions to Make Surveys Processing Easier
+maintainer: Julien Barnier
+description: |-
+  Set of functions to make the processing and analysis of
+  surveys easier : interactive shiny apps and addins for data recoding,
+  contingency tables, dataset metadata handling, and several convenience
+  functions.
+date_publication: '2018-11-26'
+bug_reports: https://github.com/juba/questionr/issues
+url: https://juba.github.io/questionr/
+url_cran: https://CRAN.R-project.org/package=questionr
+url_git: ''

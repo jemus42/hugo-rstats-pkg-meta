@@ -1,0 +1,13 @@
+version: 0.1.0
+title: |-
+  Representation Tool For Output Of Connectivity Map (CMap)
+  Analysis
+maintainer: Raphaël Bonnet
+description: |-
+  Automatically displays graphical visualization for exported data table (permutated results) from Connectivity Map (CMap) (2006) <doi:10.1126/science.1132939>.
+  It allows the representation of the statistics (p-value and enrichment) according to each cell lines in the form of a bubble plot.
+date_publication: '2019-11-07'
+bug_reports: https://github.com/Peyronlab/CMapViz/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=CMapViz
+url_git: ''

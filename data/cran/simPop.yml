@@ -1,0 +1,16 @@
+version: 1.2.0
+title: |-
+  Simulation of Synthetic Populations for Survey Data Considering
+  Auxiliary Information
+maintainer: Matthias Templ
+description: |-
+  Tools and methods to simulate populations for surveys based
+  on auxiliary data. The tools include model-based methods, calibration and
+  combinatorial optimization algorithms. The package was developed with support of
+  the International Household Survey Network, DFID Trust Fund TF011722 and funds
+  from the World bank.
+date_publication: '2019-07-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=simPop
+url_git: https://github.com/statistikat/simPop

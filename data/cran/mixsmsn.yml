@@ -1,0 +1,14 @@
+version: 1.1-7
+title: |-
+  Fitting Finite Mixture of Scale Mixture of Skew-Normal
+  Distributions
+maintainer: Marcos Prates
+description: 'Functions to fit finite mixture of scale mixture of skew-normal (FM-SMSN)
+  distributions, details in Prates, Lachos and Cabral (2013) <doi: 10.18637/jss.v054.i12>,
+  Cabral, Lachos and Prates (2012) <doi:10.1016/j.csda.2011.06.026> and Basso, Lachos,
+  Cabral and Ghosh (2010) <doi:10.1016/j.csda.2009.09.031>.'
+date_publication: '2020-04-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mixsmsn
+url_git: ''

@@ -1,0 +1,10 @@
+version: '1.0'
+title: Ecological Quality Ratios Calculation and Plot
+maintainer: Danilo Pecorino
+description: Functions to calculate and plot ecological quality ratios (EQR) as specified
+  by Ballesteros et al. 2007.
+date_publication: '2015-03-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CARLIT
+url_git: ''

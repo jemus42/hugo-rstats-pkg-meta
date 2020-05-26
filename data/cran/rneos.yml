@@ -1,0 +1,11 @@
+version: 0.4-0
+title: XML-RPC Interface to NEOS
+maintainer: Bernhard Pfaff
+description: Within this package the XML-RPC API to NEOS <https://neos-server.org/neos/>
+  is implemented. This enables the user to pass optimization problems to NEOS and
+  retrieve results within R.
+date_publication: '2020-04-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rneos
+url_git: ''

@@ -1,0 +1,10 @@
+version: '0.1'
+title: Sparse (Multicategory) Kernel Discriminant Analysis
+maintainer: Yichao Wu
+description: Sparse (Multicategory) Kernel Discriminant Analysis does variable selection
+  for nonparametric classification
+date_publication: '2013-12-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=skda
+url_git: ''

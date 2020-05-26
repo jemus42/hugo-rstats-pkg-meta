@@ -1,0 +1,13 @@
+version: 1.36.23
+title: Conversion of R Regression Output to LaTeX or HTML Tables
+maintainer: Philip Leifeld
+description: Converts coefficients, standard errors, significance stars, and goodness-of-fit
+  statistics of statistical models into LaTeX tables or HTML tables/MS Word documents
+  or to nicely formatted screen output for the R console for easy model comparison.
+  A list of several models can be combined in a single table. The output is highly
+  customizable. New model types can be easily implemented.
+date_publication: '2017-03-03'
+bug_reports: https://github.com/leifeld/texreg/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=texreg
+url_git: http://github.com/leifeld/texreg/

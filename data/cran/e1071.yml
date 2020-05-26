@@ -1,0 +1,15 @@
+version: 1.7-3
+title: |-
+  Misc Functions of the Department of Statistics, Probability
+  Theory Group (Formerly: E1071), TU Wien
+maintainer: David Meyer
+description: |-
+  Functions for latent class analysis, short time Fourier
+  transform, fuzzy clustering, support vector machines,
+  shortest path computation, bagged clustering, naive Bayes
+  classifier, ...
+date_publication: '2019-11-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=e1071
+url_git: ''

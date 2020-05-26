@@ -1,0 +1,14 @@
+version: 0.1.7
+title: |-
+  Downloading Time Series from ALFRED Database for Various
+  Vintages
+maintainer: Onno Kleen
+description: |-
+  Provides direct access to the ALFRED (<https://alfred.stlouisfed.org>) and FRED (<https://fred.stlouisfed.org>) databases.
+  Its functions return tidy data frames for different releases of the specified time series.
+  Note that this product uses the FRED© API but is not endorsed or certified by the Federal Reserve Bank of St. Louis.
+date_publication: '2019-04-01'
+bug_reports: https://github.com/onnokleen/alfred/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=alfred
+url_git: https://github.com/onnokleen/alfred/

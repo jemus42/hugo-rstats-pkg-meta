@@ -1,0 +1,10 @@
+version: 1.2.1
+title: Projecting Satellite-Derived Phenology in Space
+maintainer: Christian John
+description: This tool projects annual phenology metrics and long-term phenology trends,
+  following methodologies described in John (2016) <https://etda.libraries.psu.edu/catalog/13521clj5135>.
+date_publication: '2018-03-26'
+bug_reports: https://github.com/JepsonNomad/phenomap/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=phenomap
+url_git: https://github.com/JepsonNomad/phenomap

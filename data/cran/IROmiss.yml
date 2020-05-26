@@ -1,0 +1,14 @@
+version: 1.0.2
+title: Imputation Regularized Optimization Algorithm
+maintainer: Bochao Jia
+description: Missing data are frequently encountered in high-dimensional data analysis,
+  but they are usually difficult to deal with using standard algorithms, such as the
+  EM algorithm and its variants. This package provides a general algorithm, the so-called
+  Imputation Regularized Optimization (IRO) algorithm, for high-dimensional missing
+  data problems. You can refer to Liang, F., Jia, B., Xue, J., Li, Q. and Luo, Y.
+  (2018) at <arXiv:1802.02251> for detail.
+date_publication: '2020-02-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IROmiss
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.1.4
+title: Color Palettes using Colormaps Node Module
+maintainer: Bhaskar Karambelkar
+description: Allows to generate colors from palettes defined in the colormap module
+  of 'Node.js'. (see <https://github.com/bpostlethwaite/colormap> for more information).
+  In total it provides 44 distinct palettes made from sequential and/or diverging
+  colors. In addition to the pre defined palettes you can also specify your own set
+  of colors. There are also scale functions that can be used with 'ggplot2'.
+date_publication: '2016-11-15'
+bug_reports: https://github.com/bhaskarvk/colormap/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=colormap
+url_git: https://github.com/bhaskarvk/colormap

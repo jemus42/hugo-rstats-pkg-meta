@@ -1,0 +1,18 @@
+version: 1.2.3
+title: MCMC for Spike and Slab Regression
+maintainer: Steven L. Scott
+description: |-
+  Spike and slab regression with a variety of residual error
+  distributions corresponding to Gaussian, Student T, probit, logit, SVM, and a
+  few others.  Spike and slab regression is Bayesian regression with prior
+  distributions containing a point mass at zero.  The posterior updates the
+  amount of mass on this point, leading to a posterior distribution that is
+  actually sparse, in the sense that if you sample from it many coefficients are
+  actually zeros.  Sampling from this posterior distribution is an elegant way
+  to handle Bayesian variable selection and model averaging.  See
+  <DOI:10.1504/IJMMNO.2014.059942> for an explanation of the Gaussian case.
+date_publication: '2020-05-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BoomSpikeSlab
+url_git: ''

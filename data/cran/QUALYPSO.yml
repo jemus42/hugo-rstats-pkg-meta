@@ -1,0 +1,13 @@
+version: '1.1'
+title: |-
+  Partitioning Uncertainty Components of an Incomplete Ensemble of
+  Climate Projections
+maintainer: Guillaume Evin
+description: |-
+  These functions use data augmentation and Bayesian techniques for the assessment of single-member and incomplete ensembles of climate projections. It provides unbiased estimates of climate change responses of all simulation chains and of all uncertainty variables. It additionally propagates uncertainty due to missing information in the estimates.
+  - Evin, G., B. Hingray, J. Blanchet, N. Eckert, S. Morin, and D. Verfaillie. (2019) <doi:10.1175/JCLI-D-18-0606.1>.
+date_publication: '2019-06-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=QUALYPSO
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.9.9.1
+title: Computes Copula using Ranks and Subsampling
+maintainer: Jerome Collet
+description: Estimation of copula using ranks and subsampling. The main feature of
+  this method is that simulation studies show a low sensitivity to dimension, on realistic
+  cases.
+date_publication: '2018-06-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=subrank
+url_git: ''

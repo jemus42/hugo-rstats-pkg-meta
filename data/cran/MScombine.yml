@@ -1,0 +1,14 @@
+version: '1.4'
+title: |-
+  Combine Data from Positive and Negative Ionization Mode Finding
+  Common Entities
+maintainer: Monica Calderon-Santiago
+description: |-
+  Find common entities detected in both positive and negative
+  ionization mode, delete this entity in the less sensible mode and combine both
+  matrices.
+date_publication: '2019-02-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MScombine
+url_git: ''

@@ -1,0 +1,15 @@
+version: '1.3'
+title: Periodogram Peaks in Correlated Time Series
+maintainer: Stilianos Louca
+description: Calculates the periodogram of a time series, maximum-likelihood fits
+  an Ornstein-Uhlenbeck state space (OUSS) null model and evaluates the statistical
+  significance of periodogram peaks against the OUSS null hypothesis. The OUSS is
+  a parsimonious model for stochastically fluctuating variables with linear stabilizing
+  forces, subject to uncorrelated measurement errors. Contrary to the classical white
+  noise null model for detecting cyclicity, the OUSS model can account for temporal
+  correlations typically occurring in ecological and geological time series.
+date_publication: '2016-11-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=peacots
+url_git: ''

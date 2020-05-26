@@ -1,0 +1,11 @@
+version: 0.2.0
+title: Produce Standard/Formalized Demographics Tables
+maintainer: Will Beasley
+description: |-
+  Augment clinical data with metadata to create
+  output used in conventional publications and reports.
+date_publication: '2018-09-30'
+bug_reports: https://github.com/OuhscBbmc/codified/issues
+url: https://ouhscbbmc.github.io/codified/
+url_cran: https://CRAN.R-project.org/package=codified
+url_git: https://github.com/OuhscBbmc/codified

@@ -1,0 +1,16 @@
+version: 1.1.0
+title: High Level Encryption Wrappers
+maintainer: Rich FitzJohn
+description: |-
+  Encryption wrappers, using low-level support from
+  'sodium' and 'openssl'.  'cyphr' tries to smooth over some pain
+  points when using encryption within applications and data analysis
+  by wrapping around differences in function names and arguments in
+  different encryption providing packages.  It also provides
+  high-level wrappers for input/output functions for seamlessly
+  adding encryption to existing analyses.
+date_publication: '2020-03-09'
+bug_reports: https://github.com/ropensci/cyphr/issues
+url: https://docs.ropensci.org/cyphr
+url_cran: https://CRAN.R-project.org/package=cyphr
+url_git: https://github.com/ropensci/cyphr

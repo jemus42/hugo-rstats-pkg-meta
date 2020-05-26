@@ -1,0 +1,14 @@
+version: '0.1'
+title: Fit 'CemCO' Algorithm
+maintainer: Andre Fujita
+description: |-
+  Functions to fit the 'CemCO' algorithm, a model-based (Gaussian)
+  clustering algorithm that
+  removes/minimizes the effects of undesirable covariates during the
+  clustering process both in cluster centroid and in cluster covariance
+  structures (Relvas C. & Fujita A., (2020) <arXiv:2004.02333>).
+date_publication: '2020-04-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cemco
+url_git: ''

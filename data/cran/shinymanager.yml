@@ -1,0 +1,12 @@
+version: 1.0.200
+title: Authentication Management for 'Shiny' Applications
+maintainer: Benoit Thieurmel
+description: |-
+  Simple and secure authentification mechanism for single 'Shiny' applications.
+  Credentials are stored in an encrypted 'SQLite' database. Source code of main application
+  is protected until authentication is successful.
+date_publication: '2020-02-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinymanager
+url_git: https://github.com/datastorm-open/shinymanager

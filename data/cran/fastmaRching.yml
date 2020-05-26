@@ -1,0 +1,12 @@
+version: 1.1.0
+title: Fast Marching Method for Modelling Evolving Boundaries
+maintainer: Fabio Silva
+description: Fast Marching Method (FMM) first developed by Sethian (1996) <http://www.pnas.org/content/93/4/1591.short>,
+  and further extended by including a second-order approximation, the first-arrival
+  rule, additive weights, and non-homogeneous domains following Silva and Steele (2012)
+  <doi:10.1142/S0219525911003293> and Silva and Steele (2014) <doi:10.1016/j.jas.2014.04.021>.
+date_publication: '2018-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fastmaRching
+url_git: ''

@@ -1,0 +1,10 @@
+version: 1.4.2
+title: Multivariate Statistical Analysis in Chemometrics
+maintainer: P. Filzmoser
+description: R companion to the book "Introduction to Multivariate Statistical Analysis
+  in Chemometrics" written by K. Varmuza and P. Filzmoser (2009).
+date_publication: '2017-03-17'
+bug_reports: ''
+url: http://www.statistik.tuwien.ac.at/public/filz/
+url_cran: https://CRAN.R-project.org/package=chemometrics
+url_git: ''

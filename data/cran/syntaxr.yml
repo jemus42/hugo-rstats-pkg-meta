@@ -1,0 +1,9 @@
+version: 0.8.0
+title: An 'SPSS' Syntax Generator for Multi-Variable Manipulation
+maintainer: Alix Lahuec
+description: A set of functions for generating 'SPSS' syntax files from the R environment.
+date_publication: '2019-04-06'
+bug_reports: https://github.com/greenmeen/syntaxr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=syntaxr
+url_git: https://github.com/greenmeen/syntaxr

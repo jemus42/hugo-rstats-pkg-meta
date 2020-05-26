@@ -1,0 +1,10 @@
+version: 0.2.0
+title: Graduate Statistics Program Datasets
+maintainer: Brett Klamer
+description: A small collection of data on graduate statistics programs from the United
+  States.
+date_publication: '2018-06-17'
+bug_reports: ''
+url: http://brettklamer.com/work/statprograms/
+url_cran: https://CRAN.R-project.org/package=statprograms
+url_git: ''

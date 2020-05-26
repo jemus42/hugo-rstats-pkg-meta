@@ -1,0 +1,14 @@
+version: 0.1.0
+title: A Monte Carlo Based Heterogeneity Test for Meta-Analysis
+maintainer: Ge Jiang
+description: Implements a Monte Carlo Based Heterogeneity Test for standardized mean
+  differences (d), Fisher-transformed Pearson's correlations (r), and natural-logarithm-transformed
+  odds ratio (OR) in Meta-Analysis Studies. Depending on the presence of moderators,
+  this Monte Carlo Based Test can be implemented in the random or mixed-effects model.
+  This package uses rma() function from the R package 'metafor' to obtain parameter
+  estimates and likelihood, so installation of R package 'metafor' is required.
+date_publication: '2019-05-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mc.heterogeneity
+url_git: ''

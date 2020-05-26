@@ -1,0 +1,14 @@
+version: 1.0.1
+title: Inference in Regressions with Shift-Share Structure
+maintainer: Michal Kolesár
+description: |-
+  Provides confidence intervals in least-squares regressions when the
+  variable of interest has a shift-share structure, and in instrumental
+  variables regressions when the instrument has a shift-share structure. The
+  confidence intervals implement the AKM and AKM0 methods developed in Adão,
+  Kolesár, and Morales (2019) <doi:10.1093/qje/qjz025>.
+date_publication: '2020-01-07'
+bug_reports: https://github.com/kolesarm/ShiftShareSE/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ShiftShareSE
+url_git: https://github.com/kolesarm/ShiftShareSE

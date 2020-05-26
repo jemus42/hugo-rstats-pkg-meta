@@ -1,0 +1,16 @@
+version: 1.1.1
+title: |-
+  General-Purpose Optimisation With the Self-Organising Migrating
+  Algorithm
+maintainer: Jon Clayden
+description: This package provides an R implementation of the Self-Organising Migrating
+  Algorithm, a general-purpose, stochastic optimisation algorithm. The approach is
+  similar to that of genetic algorithms, although it is based on the idea of a series
+  of ``migrations'' by a fixed set of individuals, rather than the development of
+  successive generations. It can be applied to any cost-minimisation problem with
+  a bounded parameter space, and is robust to local minima.
+date_publication: '2014-11-25'
+bug_reports: ''
+url: http://www.ft.utb.cz/people/zelinka/soma/
+url_cran: https://CRAN.R-project.org/package=soma
+url_git: https://github.com/jonclayden/soma/

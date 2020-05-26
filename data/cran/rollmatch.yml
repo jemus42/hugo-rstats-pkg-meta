@@ -1,0 +1,12 @@
+version: 2.0.1
+title: Rolling Entry Matching
+maintainer: Rob Chew
+description: Functions to perform propensity score matching on rolling entry interventions
+  for which a suitable "entry" date is not observed for nonparticipants. For more
+  details, please reference Witman, Beadles, Liu, Larsen, Kafali, Gandhi, Amico, and
+  Hoerger (2018) <https://onlinelibrary.wiley.com/doi/abs/10.1111/1475-6773.13086>.
+date_publication: '2019-02-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rollmatch
+url_git: https://github.com/RTIInternational/rollmatch

@@ -1,0 +1,15 @@
+version: 0.2.1
+title: |-
+  Approximate False Positive Rate Control in Selection Frequency
+  for Random Forest
+maintainer: Tom Wilson
+description: |-
+  Approximate false positive rate control in selection frequency for
+  random forest using the methods described by Ender Konukoglu and Melanie Ganz (2014) <arXiv:1410.2838>.
+  Methods for calculating the selection frequency threshold at false positive rates
+  and selection frequency false positive rate feature selection.
+date_publication: '2019-11-18'
+bug_reports: https://github.com/aberHRML/forestControl/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=forestControl
+url_git: https://github.com/aberHRML/forestControl

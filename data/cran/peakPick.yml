@@ -1,0 +1,13 @@
+version: '0.11'
+title: Peak Picking Methods Inspired by Biological Data
+maintainer: Paal O. Westermark
+description: |-
+  Biologically inspired methods for
+  detecting peaks in one-dimensional data, such as time series or genomics data.
+  The algorithms were originally designed by Weber, Ramachandran, and Henikoff,
+  see documentation.
+date_publication: '2015-12-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=peakPick
+url_git: ''

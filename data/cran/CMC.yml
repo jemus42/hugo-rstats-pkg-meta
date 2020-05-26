@@ -1,0 +1,9 @@
+version: '1.0'
+title: Cronbach-Mesbah Curve
+maintainer: Michela Cameletti
+description: Calculation and plot of the stepwise Cronbach-Mesbah Curve
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CMC
+url_git: ''

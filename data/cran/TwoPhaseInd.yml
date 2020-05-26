@@ -1,0 +1,10 @@
+version: 1.1.1
+title: Estimate Gene-Treatment Interaction Exploiting Randomization
+maintainer: James Dai
+description: Estimation of gene-treatment interactions in randomized clinical trials
+  exploiting gene-treatment independence.
+date_publication: '2016-03-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TwoPhaseInd
+url_git: ''

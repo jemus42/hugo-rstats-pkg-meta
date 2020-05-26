@@ -1,0 +1,9 @@
+version: 0.2.20
+title: JSON for R
+maintainer: Alex Couture-Beil
+description: Converts R object into JSON objects and vice-versa.
+date_publication: '2018-06-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rjson
+url_git: ''

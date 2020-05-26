@@ -1,0 +1,11 @@
+version: 2.0-1
+title: Convenient Tools for Working with Oracle Databases
+maintainer: Arni Magnusson
+description: |-
+  Easy-to-use functions to explore Oracle databases and import data
+  into R. User interface for the ROracle package.
+date_publication: '2014-04-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ora
+url_git: ''

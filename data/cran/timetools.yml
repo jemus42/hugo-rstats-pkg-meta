@@ -1,0 +1,19 @@
+version: '1.14'
+title: |-
+  Seasonal/Sequential (Instants/Durations, Even or not) Time
+  Series
+maintainer: Vladislav Navel
+description: 'Objects to manipulate sequential and seasonal time series. Sequential
+  time series based on time instants and time durations are handled. Both can be regularly
+  or unevenly spaced (overlapping durations are allowed). Only POSIX* format are used
+  for dates and times. The following classes are provided : ''POSIXcti'', ''POSIXctp'',
+  ''TimeIntervalDataFrame'', ''TimeInstantDataFrame'', ''SubtimeDataFrame'' ; methods
+  to switch from a class to another and to modify the time support of series (hourly
+  time series to daily time series for instance) are also defined. Tools provided
+  can be used for instance to handle environmental monitoring data (not always produced
+  on a regular time base).'
+date_publication: '2018-01-29'
+bug_reports: ''
+url: http://sourceforge.net/projects/timetools/
+url_cran: https://CRAN.R-project.org/package=timetools
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.4
+title: Dynamic Web-Based Analytics for the Energy Industry
+maintainer: Paul Govan
+description: |-
+  A 'Shiny' web application for energy industry analytics.
+  Take an overview of the industry, measure Key Performance Indicators,
+  identify changes in the industry over time, and discover new relationships in the data.
+date_publication: '2018-12-02'
+bug_reports: https://github.com/paulgovan/eanalytics/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=eAnalytics
+url_git: https://github.com/paulgovan/eanalytics

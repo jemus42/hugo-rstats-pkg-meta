@@ -1,0 +1,12 @@
+version: 0.2.2
+title: |-
+  Retriving Aphia Information from World Register of Marine
+  Species
+maintainer: Jan Holstein
+description: Retrieves taxonomic information from  <http://www.marinespecies.org>
+  using WoRMS' RESTful Webservice. Utility functions aim at taxonomic consistency.
+date_publication: '2018-04-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=worms
+url_git: ''

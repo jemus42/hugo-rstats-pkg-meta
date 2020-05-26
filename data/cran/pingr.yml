@@ -1,0 +1,12 @@
+version: 2.0.0
+title: Check if a Remote Computer is Up
+maintainer: Gábor Csárdi
+description: |-
+  Check if a remote computer is up. It can either
+  just call the system ping command, or check a specified
+  TCP port.
+date_publication: '2019-10-21'
+bug_reports: https://github.com/r-lib/pingr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pingr
+url_git: https://github.com/r-lib/pingr#readme

@@ -1,0 +1,10 @@
+version: 0.9.1
+title: Hydrological Data Discovery Tools
+maintainer: Claudia Vitolo
+description: Tools to discover hydrological data, accessing catalogues and databases
+  from various data providers.
+date_publication: '2020-05-25'
+bug_reports: https://github.com/ropensci/hddtools/issues
+url: http://docs.ropensci.org/hddtools
+url_cran: https://CRAN.R-project.org/package=hddtools
+url_git: https://github.com/ropensci/hddtools

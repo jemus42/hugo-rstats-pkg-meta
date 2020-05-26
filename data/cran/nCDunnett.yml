@@ -1,0 +1,10 @@
+version: 1.1.0
+title: Noncentral Dunnett's Test Distribution
+maintainer: Daniel Furtado Ferreira
+description: Computes the noncentral Dunnett's test distribution (pdf, cdf and quantile)
+  and generates random numbers.
+date_publication: '2015-11-16'
+bug_reports: ''
+url: www.dex.ufla.br/~danielff/r_resources.html
+url_cran: https://CRAN.R-project.org/package=nCDunnett
+url_git: ''

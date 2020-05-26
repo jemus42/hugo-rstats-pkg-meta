@@ -1,0 +1,19 @@
+version: 0.1.1
+title: |-
+  Work with the Bay Area Transportation Commission Application
+  Programming Interface
+maintainer: Tom Buckley
+description: |-
+  For the 9 counties in the San Francisco Bay area
+  the Metropolitan Transportation Commission
+  maintains an Application Programming Interface
+  with information on more than 20 transit operators.
+  This package allows users to retrieve
+  information about transit schedules in the General Transit Feed Specification
+  as published by the Metropolitan Transportation Commission at the following url:
+  <https://511.org/developers/list/apis/>.
+date_publication: '2018-07-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=r511
+url_git: ''

@@ -1,0 +1,17 @@
+version: 1.12.6
+title: Solver for Delay Differential Equations
+maintainer: Rowan Haigh
+description: |-
+  Functions for solving systems of delay differential equations by
+  interfacing with numerical routines written by Simon N. Wood, including
+  contributions from Benjamin J. Cairns. These numerical routines first
+  appeared in Simon Wood's 'solv95' program. This package includes a vignette
+  and a complete user's guide. 'PBSddesolve' originally appeared on CRAN under
+  the name 'ddesolve'. That version is no longer supported. The current name
+  emphasizes a close association with other 'PBS' packages, particularly
+  'PBSmodelling'.
+date_publication: '2019-12-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PBSddesolve
+url_git: https://github.com/pbs-software/pbs-ddesolve

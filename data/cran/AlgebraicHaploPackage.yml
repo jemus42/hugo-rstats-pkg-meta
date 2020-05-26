@@ -1,0 +1,10 @@
+version: '1.2'
+title: Haplotype Two Snips Out of a Paired Group of Patients
+maintainer: Jan Wolfertz
+description: Two unordered pairs of data of two different snips positions is haplotyped
+  by resolving a small number ob closed equations.
+date_publication: '2015-10-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AlgebraicHaploPackage
+url_git: ''

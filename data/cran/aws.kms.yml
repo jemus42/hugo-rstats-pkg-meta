@@ -1,0 +1,10 @@
+version: 0.1.4
+title: '''AWS Key Management Service'' Client Package'
+maintainer: Simon Urbanek
+description: Client package for the 'AWS Key Management Service' <https://aws.amazon.com/kms/>,
+  a cloud service for managing encryption keys.
+date_publication: '2020-04-14'
+bug_reports: https://github.com/cloudyr/aws.kms/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=aws.kms
+url_git: https://github.com/cloudyr/aws.kms

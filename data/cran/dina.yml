@@ -1,0 +1,12 @@
+version: 2.0.0
+title: Bayesian Estimation of DINA Model
+maintainer: James Joseph Balamuta
+description: |-
+  Estimate the Deterministic Input, Noisy "And" Gate (DINA)
+  cognitive diagnostic model parameters using the Gibbs sampler described
+  by Culpepper (2015) <doi:10.3102/1076998615595403>.
+date_publication: '2019-02-01'
+bug_reports: https://github.com/tmsalab/dina/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dina
+url_git: https://github.com/tmsalab/dina

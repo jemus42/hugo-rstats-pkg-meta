@@ -1,0 +1,9 @@
+version: 0.2.0
+title: Give your Dependencies Stars on GitHub!
+maintainer: Naoto Koshimizu
+description: A tool for starring GitHub repositories.
+date_publication: '2017-11-12'
+bug_reports: https://github.com/ksmzn/ThankYouStars/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ThankYouStars
+url_git: https://github.com/ksmzn/ThankYouStars

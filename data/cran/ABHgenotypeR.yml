@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Easy Visualization of ABH Genotypes
+maintainer: Stefan Reuscher
+description: |-
+  Easy to use functions to visualize marker data
+  from biparental populations. Useful for both analyzing and
+  presenting genotypes in the ABH format.
+date_publication: '2016-02-04'
+bug_reports: http://github.com/StefanReuscher/ABHgenotypeR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ABHgenotypeR
+url_git: http://github.com/StefanReuscher/ABHgenotypeR

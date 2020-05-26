@@ -1,0 +1,15 @@
+version: 0.5-2
+title: Knowledge Space Theory
+maintainer: Cord Hockemeyer
+description: |-
+  Knowledge space theory by Doignon and Falmagne (1999)
+  <doi:10.1007/978-3-642-58625-5> is a set- and order-theoretical
+  framework, which proposes mathematical formalisms to operationalize
+  knowledge structures in a particular domain. The 'kst' package provides
+  basic functionalities to generate, handle, and manipulate knowledge
+  structures and knowledge spaces.
+date_publication: '2019-04-07'
+bug_reports: ''
+url: https://homepage.uni-graz.at/en/cord.hockemeyer/
+url_cran: https://CRAN.R-project.org/package=kst
+url_git: ''

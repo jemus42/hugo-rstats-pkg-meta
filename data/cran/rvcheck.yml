@@ -1,0 +1,10 @@
+version: 0.1.8
+title: R/Package Version Check
+maintainer: Guangchuang Yu
+description: Check latest release version of R and R package (both in 'CRAN', 'Bioconductor'
+  or 'Github').
+date_publication: '2020-03-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rvcheck
+url_git: ''

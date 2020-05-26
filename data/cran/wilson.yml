@@ -1,0 +1,11 @@
+version: 2.3.1
+title: Web-Based Interactive Omics Visualization
+maintainer: Hendrik Schultheis
+description: |-
+  Tool-set of modules for creating web-based applications that use plot based strategies to visualize and analyze multi-omics data.
+  This package utilizes the 'shiny' and 'plotly' frameworks to provide a user friendly dashboard for interactive plotting.
+date_publication: '2019-11-18'
+bug_reports: https://github.com/loosolab/wilson/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=wilson
+url_git: https://github.com/loosolab/wilson/

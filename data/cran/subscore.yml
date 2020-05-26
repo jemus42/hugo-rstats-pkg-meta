@@ -1,0 +1,18 @@
+version: '3.1'
+title: |-
+  Computing Subscores in Classical Test Theory and Item Response
+  Theory
+maintainer: Shenghai Dai
+description: |-
+  Functions for computing subscores for a test using different
+  methods in both classical test theory (CTT) and item response theory (IRT). This
+  package enables three sets of subscoring methods within the framework of CTT
+  and IRT: Wainer's augmentation method, Haberman's three subscoring methods, and
+  Yen's objective performance index (OPI). The package also includes the function
+  to compute Proportional Reduction of Mean Squared Errors (PRMSEs) in Haberman's
+  methods which are used to examine whether test subscores are of added value.
+date_publication: '2019-04-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=subscore
+url_git: ''

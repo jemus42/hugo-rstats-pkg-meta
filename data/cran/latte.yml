@@ -1,0 +1,14 @@
+version: 0.2.1
+title: Interface to 'LattE' and '4ti2'
+maintainer: David Kahle
+description: |-
+  Back-end connections to 'LattE' (<https://www.math.ucdavis.edu/~latte>)
+  for counting lattice points and integration inside convex polytopes and
+  '4ti2' (<http://www.4ti2.de/>) for algebraic, geometric, and combinatorial
+  problems on linear spaces and front-end tools facilitating their use in the
+  'R' ecosystem.
+date_publication: '2019-03-25'
+bug_reports: https://github.com/dkahle/latte/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=latte
+url_git: https://github.com/dkahle/latte

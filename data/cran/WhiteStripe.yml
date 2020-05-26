@@ -1,0 +1,18 @@
+version: 2.3.2
+title: |-
+  White Matter Normalization for Magnetic Resonance Images using
+  WhiteStripe
+maintainer: John Muschelli
+description: |-
+  Shinohara (2014) <DOI:10.1016/j.nicl.2014.08.008>
+  introduced 'WhiteStripe', an intensity-based normalization of T1
+  and T2 images, where normal
+  appearing white matter performs well, but requires segmentation.
+  This method performs white matter mean and standard deviation
+  estimates on data that has been rigidly-registered to the 'MNI'
+  template and uses histogram-based methods.
+date_publication: '2019-10-01'
+bug_reports: https://github.com/muschellij2/WhiteStripe/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=WhiteStripe
+url_git: ''

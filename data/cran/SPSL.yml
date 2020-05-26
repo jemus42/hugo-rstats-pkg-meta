@@ -1,0 +1,14 @@
+version: 0.1-9
+title: Site Percolation on Square Lattices (SPSL)
+maintainer: Pavel V. Moskalev
+description: |-
+  Provides basic functionality for labeling
+  iso- & anisotropic percolation clusters on 2D & 3D square lattices
+  with various lattice sizes, occupation probabilities, von Neumann &
+  Moore (1,d)-neighborhoods, and random variables weighting
+  the percolation lattice sites.
+date_publication: '2019-03-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SPSL
+url_git: ''

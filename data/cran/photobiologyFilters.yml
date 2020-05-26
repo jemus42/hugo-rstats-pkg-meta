@@ -1,0 +1,14 @@
+version: 0.5.1
+title: Spectral Transmittance Data for Filters
+maintainer: Pedro J. Aphalo
+description: |-
+  Spectral 'transmittance' data for frequently used filters and
+  similar materials. Plastic sheets and films; photography filters;
+  theatrical gels; machine-vision filters; various types of window glass;
+  optical glass and some laboratory plastics and glassware. Part of the
+  'r4photobiology' suite, Aphalo P. J. (2015) <doi:10.19232/uv4pb.2015.1.14>.
+date_publication: '2020-04-30'
+bug_reports: https://bitbucket.org/aphalo/photobiologyfilters
+url: https://docs.r4photobiology.info/photobiologyFilters/
+url_cran: https://CRAN.R-project.org/package=photobiologyFilters
+url_git: ''

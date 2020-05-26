@@ -1,0 +1,13 @@
+version: 1.1.0
+title: R Client for the eBird Database of Bird Observations
+maintainer: Sebastian Pardo
+description: |-
+  A programmatic client for the eBird database, including functions
+  for searching for bird observations by geographic location (latitude,
+  longitude), eBird hotspots, location identifiers, by notable sightings, by
+  region, and by taxonomic name.
+date_publication: '2019-10-24'
+bug_reports: http://github.com/ropensci/rebird/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rebird
+url_git: http://github.com/ropensci/rebird

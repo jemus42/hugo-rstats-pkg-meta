@@ -1,0 +1,14 @@
+version: 0.3.0
+title: Efficient Rolling / Windowed Operations
+maintainer: Kevin Ushey
+description: |-
+  Provides fast and efficient routines for
+  common rolling / windowed operations. Routines for the
+  efficient computation of windowed mean, median,
+  sum, product, minimum, maximum, standard deviation
+  and variance are provided.
+date_publication: '2018-06-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcppRoll
+url_git: ''

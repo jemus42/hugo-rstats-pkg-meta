@@ -1,0 +1,10 @@
+version: 1.0-26
+title: Read and Write StatDataML Files
+maintainer: David Meyer
+description: Support for reading and writing files in StatDataML---an XML-based data
+  exchange format.
+date_publication: '2015-07-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=StatDataML
+url_git: ''

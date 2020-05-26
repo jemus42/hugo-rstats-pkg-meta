@@ -1,0 +1,11 @@
+version: 2.0.2
+title: Allele Retention, Inbreeding, and Demography
+maintainer: Emily Weiser
+description: Simulate the effect of management or demography on allele retention and
+  inbreeding accumulation in bottlenecked populations of animals with overlapping
+  generations.
+date_publication: '2018-01-11'
+bug_reports: ''
+url: https://sites.google.com/site/alleleretain/
+url_cran: https://CRAN.R-project.org/package=AlleleRetain
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.5.1.1
+title: R Markdown Format for Flexible Dashboards
+maintainer: Richard Iannone
+description: |-
+  Format for converting an R Markdown document to a grid oriented
+  dashboard. The dashboard flexibly adapts the size of it's components to the
+  containing web page.
+date_publication: '2018-06-29'
+bug_reports: https://github.com/rstudio/flexdashboard/issues
+url: http://rmarkdown.rstudio.com/flexdashboard
+url_cran: https://CRAN.R-project.org/package=flexdashboard
+url_git: ''

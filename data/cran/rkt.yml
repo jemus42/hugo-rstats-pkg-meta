@@ -1,0 +1,11 @@
+version: '1.5'
+title: Mann-Kendall Test, Seasonal and Regional Kendall Tests
+maintainer: Aldo Marchetto
+description: Contains function rkt which computes the Mann-Kendall test (MK) and the
+  Seasonal and the Regional Kendall Tests for trend (SKT and RKT) and  Theil-Sen's
+  slope estimator.
+date_publication: '2017-03-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rkt
+url_git: ''

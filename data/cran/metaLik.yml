@@ -1,0 +1,11 @@
+version: 0.43.0
+title: Likelihood Inference in Meta-Analysis and Meta-Regression Models
+maintainer: Cristiano Varin
+description: |-
+  First- and higher-order likelihood inference in
+  meta-analysis and meta-regression models.
+date_publication: '2018-05-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=metaLik
+url_git: ''

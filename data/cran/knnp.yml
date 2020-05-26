@@ -1,0 +1,14 @@
+version: 2.0.0
+title: |-
+  Time Series Prediction using K-Nearest Neighbors Algorithm
+  (Parallel)
+maintainer: Daniel Bastarrica Lacalle
+description: |-
+  Two main functionalities are provided. One of them is predicting values with
+  k-nearest neighbors algorithm and the other is optimizing the parameters k and d of the algorithm.
+  These are carried out in parallel using multiple threads.
+date_publication: '2020-01-10'
+bug_reports: https://github.com/Grasia/knnp/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=knnp
+url_git: https://github.com/Grasia/knnp

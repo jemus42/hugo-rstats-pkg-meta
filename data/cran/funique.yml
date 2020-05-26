@@ -1,0 +1,11 @@
+version: 0.0.1
+title: A Faster Unique Function
+maintainer: Michael Wayne Kearney
+description: |-
+  Similar to base's unique function, only optimized for working with
+  data frames, especially those that contain date-time columns.
+date_publication: '2018-08-26'
+bug_reports: https://github.com/mkearney/funique/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=funique
+url_git: https://github.com/mkearney/funique

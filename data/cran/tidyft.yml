@@ -1,0 +1,14 @@
+version: 0.4.5
+title: Tidy Verbs for Fast Data Operations by Reference
+maintainer: Tian-Yuan Huang
+description: |-
+  Tidy syntax for 'data.table', using modification by reference whenever possible.
+  This toolkit is designed for big data analysis in high-performance desktop or laptop computers.
+  The syntax of the package is similar or identical to 'tidyverse'.
+  It is user friendly, memory efficient and time saving. For more information,
+  check its ancestor package 'tidyfst'.
+date_publication: '2020-04-10'
+bug_reports: https://github.com/hope-data-science/tidyft/issues
+url: https://hope-data-science.github.io/tidyft/
+url_cran: https://CRAN.R-project.org/package=tidyft
+url_git: https://github.com/hope-data-science/tidyft

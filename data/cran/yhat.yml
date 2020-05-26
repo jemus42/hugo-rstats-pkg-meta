@@ -1,0 +1,13 @@
+version: 2.0-1
+title: Interpreting Regression Effects
+maintainer: Kim Nimon
+description: |-
+  The purpose of this package is to provide methods to interpret multiple
+  linear regression and canonical correlation results including beta weights,structure coefficients,
+  validity coefficients, product measures, relative weights, all-possible-subsets regression,
+  dominance analysis, commonality analysis, and adjusted effect sizes.
+date_publication: '2020-05-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=yhat
+url_git: ''

@@ -1,0 +1,11 @@
+version: '0.1'
+title: 'GetR: Calculate Guttman error trees in R'
+maintainer: Johannes Beller
+description: |-
+  The GetR package calculates Guttman error trees, which can
+  be used to find homogeneous subgroups regarding Guttman errors.
+date_publication: '2013-02-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GetR
+url_git: ''

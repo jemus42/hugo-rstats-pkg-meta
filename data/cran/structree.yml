@@ -1,0 +1,11 @@
+version: 1.1.6
+title: Tree-Structured Clustering
+maintainer: Moritz Berger
+description: |-
+  Tree-structured modelling of categorical predictors (Tutz and Berger (2018), <doi:10.1007/s11634-017-0298-6>) or measurement
+  units (Berger and Tutz (2018), <doi:10.1080/10618600.2017.1371030>).
+date_publication: '2019-09-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=structree
+url_git: ''

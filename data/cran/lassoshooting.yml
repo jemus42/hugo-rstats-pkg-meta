@@ -1,0 +1,13 @@
+version: 0.1.5-1
+title: L1 regularized regression (Lasso) solver using the Cyclic<U+000a>Coordinate
+  Descent algorithm aka Lasso Shooting
+maintainer: Tobias Abenius
+description: L1 regularized regression (Lasso) solver using the Cyclic<U+000a>Coordinate
+  Descent algorithm aka Lasso Shooting is fast. This<U+000a>implementation can choose
+  which coefficients to penalize. It<U+000a>support coefficient-specific penalities
+  and it can take X'X and<U+000a>X'y instead of X and y.
+date_publication: '2012-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lassoshooting
+url_git: ''

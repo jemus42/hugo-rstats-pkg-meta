@@ -1,0 +1,10 @@
+version: 1.0-4
+title: Multivariate likelihood ratio calculation and evaluation
+maintainer: David Lucy
+description: Functions for calculating and evaluating likelihood ratios from uni/multivariate
+  continuous observations
+date_publication: '2013-11-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=comparison
+url_git: ''

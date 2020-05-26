@@ -1,0 +1,11 @@
+version: 0.3.2
+title: Analysing Inbreeding Based on Genetic Markers
+maintainer: Martin A. Stoffel
+description: |-
+  A framework for analysing inbreeding and heterozygosity-fitness
+  correlations (HFCs) based on microsatellite and SNP markers.
+date_publication: '2016-09-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=inbreedR
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.4.3-1
+title: Spectral Data for Light-Emitting-Diodes
+maintainer: Pedro J. Aphalo
+description: |-
+  Spectral emission data for some frequently used light emitting
+  diodes.
+date_publication: '2018-01-14'
+bug_reports: https://bitbucket.org/aphalo/photobiologyleds/issues
+url: http://www.r4photobiology.info
+url_cran: https://CRAN.R-project.org/package=photobiologyLEDs
+url_git: https://bitbucket.org/aphalo/photobiologyleds

@@ -1,0 +1,9 @@
+version: 0.9.9
+title: Propensity Score Matching of Non-Binary Treatments
+maintainer: Jason Bryer
+description: Propensity score matching for non-binary treatments.
+date_publication: '2017-12-06'
+bug_reports: https://github.com/jbryer/TriMatch/issues
+url: http://jason.bryer.org/TriMatch
+url_cran: https://CRAN.R-project.org/package=TriMatch
+url_git: http://github.com/jbryer/TriMatch

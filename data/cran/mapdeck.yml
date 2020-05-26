@@ -1,0 +1,13 @@
+version: 0.3.3
+title: Interactive Maps Using 'Mapbox GL JS' and 'Deck.gl'
+maintainer: David Cooley
+description: |-
+  Provides a mechanism to plot an interactive map using 'Mapbox GL'
+  (<https://www.mapbox.com/mapbox-gl-js/api/>), a javascript library for interactive maps,
+  and 'Deck.gl' (<http://deck.gl/#/>), a javascript library which uses 'WebGL' for
+  visualising large data sets.
+date_publication: '2020-05-14'
+bug_reports: https://github.com/SymbolixAU/mapdeck/issues
+url: https://symbolixau.github.io/mapdeck/articles/mapdeck.html
+url_cran: https://CRAN.R-project.org/package=mapdeck
+url_git: ''

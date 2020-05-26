@@ -1,0 +1,16 @@
+version: 1.1.0
+title: Tidy Messy Data
+maintainer: Hadley Wickham
+description: |-
+  Tools to help to create tidy data, where each column is a
+  variable, each row is an observation, and each cell contains a single value.
+  'tidyr' contains tools for changing the shape (pivoting) and hierarchy
+  (nesting and 'unnesting') of a dataset, turning deeply nested lists
+  into rectangular data frames ('rectangling'), and extracting values out
+  of string columns. It also includes tools for working with missing values
+  (both implicit and explicit).
+date_publication: '2020-05-20'
+bug_reports: https://github.com/tidyverse/tidyr/issues
+url: https://tidyr.tidyverse.org
+url_cran: https://CRAN.R-project.org/package=tidyr
+url_git: https://github.com/tidyverse/tidyr

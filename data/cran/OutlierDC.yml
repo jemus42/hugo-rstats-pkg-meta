@@ -1,0 +1,10 @@
+version: 0.3-0
+title: Outlier Detection using quantile regression for Censored Data
+maintainer: Soo-Heang Eo
+description: This package provides three algorithms to detect outlying observations
+  for censored survival data.
+date_publication: '2014-03-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OutlierDC
+url_git: ''

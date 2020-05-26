@@ -1,0 +1,18 @@
+version: 0.1.1
+title: A 'Sparklyr' Extension for 'VariantSpark'
+maintainer: Samuel Macêdo
+description: |-
+  This is a 'sparklyr' extension integrating 'VariantSpark' and R. 'VariantSpark' is
+  a framework based on 'scala' and 'spark' to analyze genome datasets,
+  see <https://bioinformatics.csiro.au/>. It was tested on datasets with 3000 samples
+  each one containing 80 million features in either unsupervised clustering approaches
+  and supervised applications, like classification and regression. The genome datasets
+  are usually writing in VCF, a specific text file format used
+  in bioinformatics for storing gene sequence variations. So, 'VariantSpark' is a great
+  tool for genome research, because it is able to read VCF files, run analyses and return
+  the output in a 'spark' data frame.
+date_publication: '2019-06-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=variantspark
+url_git: ''

@@ -1,0 +1,9 @@
+version: 0-0-1
+title: censored NID samples
+maintainer: A.I. McLeod
+description: Implements AS138, AS139.
+date_publication: '2013-10-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=censNID
+url_git: ''

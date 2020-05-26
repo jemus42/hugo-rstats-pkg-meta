@@ -1,0 +1,11 @@
+version: 0.1.8
+title: The q-Gaussian Distribution
+maintainer: Wagner Santos de Lima
+description: |-
+  Density, distribution function, quantile function and
+  random generation for the q-gaussian distribution with parameters mu and sig.
+date_publication: '2018-07-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=qGaussian
+url_git: ''

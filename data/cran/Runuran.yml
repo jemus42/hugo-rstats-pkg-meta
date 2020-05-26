@@ -1,0 +1,15 @@
+version: '0.30'
+title: R Interface to the 'UNU.RAN' Random Variate Generators
+maintainer: Josef Leydold
+description: |-
+  Interface to the 'UNU.RAN' library for Universal Non-Uniform RANdom variate generators.
+  Thus it allows to build non-uniform random number generators from quite arbitrary
+  distributions. In particular, it provides an algorithm for fast numerical inversion
+  for distribution with given density function.
+  In addition, the package contains densities, distribution functions and quantiles
+  from a couple of distributions.
+date_publication: '2020-02-12'
+bug_reports: ''
+url: http://statmath.wu.ac.at/unuran/
+url_cran: https://CRAN.R-project.org/package=Runuran
+url_git: ''

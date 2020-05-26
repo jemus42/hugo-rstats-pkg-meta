@@ -1,0 +1,12 @@
+version: 1.2.1
+title: Calculate AUC-type measure when gold standard is continuous and<U+000a>the
+  corresponding optimal linear combination of variables with<U+000a>respect to it.
+maintainer: Yu-chia Chang
+description: The cgAUC can calculate the AUC-type measure of Obuchowski(2006) when
+  gold standard is continuous, and find the optimal linear combination of variables
+  with respect to this measure.
+date_publication: '2014-08-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cgAUC
+url_git: ''

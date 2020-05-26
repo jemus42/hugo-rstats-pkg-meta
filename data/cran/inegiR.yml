@@ -1,0 +1,11 @@
+version: 3.0.0
+title: Integrate INEGI’s (Mexican Stats Office) API with R
+maintainer: Eduardo Flores
+description: |-
+  Provides functions to download and parse information from INEGI
+  (Official Mexican statistics agency). To learn more about the API, see <https://www.inegi.org.mx/servicios/api_indicadores.html>.
+date_publication: '2019-07-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=inegiR
+url_git: ''

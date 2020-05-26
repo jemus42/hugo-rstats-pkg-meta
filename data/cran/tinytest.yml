@@ -1,0 +1,18 @@
+version: 1.2.1
+title: Lightweight and Feature Complete Unit Testing Framework
+maintainer: Mark van der Loo
+description: |-
+  Provides a lightweight (zero-dependency) and easy to use
+  unit testing framework. Main features: install tests with
+  the package. Test results are treated as data that can be stored and
+  manipulated. Test files are R scripts interspersed with test commands, that
+  can be programmed over. Fully automated build-install-test sequence for
+  packages. Skip tests when not run locally (e.g. on CRAN). Flexible and
+  configurable output printing. Compare computed output with output stored
+  with the package. Run tests in parallel. Extensible by other packages.
+  Report side effects.
+date_publication: '2020-05-18'
+bug_reports: https://github.com/markvanderloo/tinytest/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tinytest
+url_git: https://github.com/markvanderloo/tinytest

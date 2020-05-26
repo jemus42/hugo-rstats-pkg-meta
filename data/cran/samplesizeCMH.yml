@@ -1,0 +1,15 @@
+version: 0.0.0
+title: |-
+  Power and Sample Size Calculation for the
+  Cochran-Mantel-Haenszel Test
+maintainer: Paul Egeler
+description: |2-
+
+  Calculates the power and sample size for Cochran-Mantel-Haenszel tests.
+  There are also several helper functions for working with probability,
+  odds, relative risk, and odds ratio values.
+date_publication: '2017-12-21'
+bug_reports: https://github.com/pegeler/samplesizeCMH/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=samplesizeCMH
+url_git: https://github.com/pegeler/samplesizeCMH

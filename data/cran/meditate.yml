@@ -1,0 +1,9 @@
+version: 0.1.3
+title: Meditation Timer
+maintainer: Jason C. Fisher
+description: A simple meditation timer that logs session information.
+date_publication: '2020-01-15'
+bug_reports: https://github.com/jfisher-usgs/meditate/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=meditate
+url_git: https://github.com/jfisher-usgs/meditate

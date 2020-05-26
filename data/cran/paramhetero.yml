@@ -1,0 +1,17 @@
+version: 0.2.0
+title: |-
+  Numeric and Visual Comparisons of Heterogeneity in Parametric
+  Models
+maintainer: Travis Loux
+description: |-
+  Performs statistical tests to compare coefficients and residual
+  variance across multiple models. Also provides graphical methods for
+  assessing heterogeneity in coefficients and residuals. Currently supports
+  linear and generalized linear models, as well as their multi-level and
+  complex survey-weighted variations from the 'lme4' and 'survey' packages,
+  respectively. Reference: Li (2015) <https://scholarscompass.vcu.edu/etd/3985/>.
+date_publication: '2020-01-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=paramhetero
+url_git: ''

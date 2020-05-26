@@ -1,0 +1,13 @@
+version: 0.8.2
+title: Download Mexico City Pollution, Wind, and Temperature Data
+maintainer: Diego Valle-Jones
+description: |-
+  Tools for downloading hourly averages, daily maximums and minimums from each of the
+  pollution, wind, and temperature measuring stations or geographic zones in the Mexico City
+  metro area. The package also includes the locations of each of the stations and zones. See
+  <http://aire.cdmx.gob.mx/> for more information.
+date_publication: '2019-03-30'
+bug_reports: https://github.com/diegovalle/aire.zmvm/issues
+url: https://hoyodesmog.diegovalle.net/aire.zmvm/
+url_cran: https://CRAN.R-project.org/package=aire.zmvm
+url_git: https://github.com/diegovalle/aire.zmvm

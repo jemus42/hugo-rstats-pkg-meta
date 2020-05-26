@@ -1,0 +1,9 @@
+version: 1.5-4
+title: R Fortunes
+maintainer: Achim Zeileis
+description: A collection of fortunes from the R community.
+date_publication: '2016-12-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fortunes
+url_git: ''

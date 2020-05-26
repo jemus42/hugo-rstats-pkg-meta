@@ -1,0 +1,14 @@
+version: 0.4.9
+title: Random Partition Distribution Indexed by Pairwise Information
+maintainer: David B. Dahl
+description: Implementations are provided for the models described in the paper D.
+  B. Dahl, R. Day, J. Tsai (2017) <DOI:10.1080/01621459.2016.1165103>. The Ewens,
+  Ewens-Pitman, Ewens attraction, Ewens-Pitman attraction, and ddCRP distributions
+  are available for prior and posterior simulation. Posterior simulation is based
+  on a user-supplied likelihood. Supporting functions for partition estimation and
+  plotting are also provided.
+date_publication: '2020-04-04'
+bug_reports: https://github.com/dbdahl/shallot/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=shallot
+url_git: https://github.com/dbdahl/shallot

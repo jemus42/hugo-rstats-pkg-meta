@@ -1,0 +1,13 @@
+version: '1.0'
+title: Exact calculation of fuzzy decision rules for multiple testing
+maintainer: Alex Lewin
+description: |-
+  Exact calculation of fuzzy decision rules for multiple
+  testing. Choose to control FDR (false discovery rate) using the
+  Benjamini and Hochberg method, or FWER (family wise error rate)
+  using the Bonferroni method. Kulinsakaya and Lewin (2007).
+date_publication: ''
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fuzzyFDR
+url_git: ''

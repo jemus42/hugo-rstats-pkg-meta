@@ -1,0 +1,15 @@
+version: 1.1.1
+title: |-
+  Bayesian Reconstruction of Disease Outbreaks by Combining
+  Epidemiologic and Genomic Data
+maintainer: Finlay Campbell
+description: |-
+  Bayesian reconstruction of disease outbreaks using epidemiological
+  and genetic information. Jombart T, Cori A, Didelot X, Cauchemez S, Fraser
+  C and Ferguson N. 2014. <doi:10.1371/journal.pcbi.1003457>. Campbell, F,
+  Cori A, Ferguson N, Jombart T. 2019. <doi:10.1371/journal.pcbi.1006930>.
+date_publication: '2020-02-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=outbreaker2
+url_git: ''

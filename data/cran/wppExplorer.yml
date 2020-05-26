@@ -1,0 +1,10 @@
+version: 2.3-4
+title: Explorer of World Population Prospects
+maintainer: Hana Sevcikova
+description: Explore data in the 'wpp2019' (or 2017, 2015, ...) package using a 'shiny'
+  interface.
+date_publication: '2020-04-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=wppExplorer
+url_git: ''

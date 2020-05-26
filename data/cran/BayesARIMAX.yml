@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Bayesian Estimation of ARIMAX Model
+maintainer: Achal Lama
+description: The Autoregressive Integrated Moving Average (ARIMA) model is very popular
+  univariate time series model. Its application has been widened by the incorporation
+  of exogenous variable(s) (X) in the model and modified as ARIMAX by Bierens (1987)
+  <doi:10.1016/0304-4076(87)90086-8>. In this package we estimate the ARIMAX model
+  using Bayesian framework.
+date_publication: '2020-05-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BayesARIMAX
+url_git: ''

@@ -1,0 +1,15 @@
+version: 0.0.1
+title: Smooth Non-Parametric Frontier Analysis
+maintainer: Taylor McKenzie
+description: |-
+  Fitting of non-parametric production frontiers for use in efficiency analysis.
+  Methods are provided for both a smooth analogue of Data Envelopment Analysis (DEA) and a
+  non-parametric analogue of Stochastic Frontier Analysis (SFA). Frontiers are constructed for
+  multiple inputs and a single output using constrained kernel smoothing as in
+  Racine et al. (2009), which allow for the imposition of monotonicity and concavity constraints
+  on the estimated frontier.
+date_publication: '2018-12-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=snfa
+url_git: ''

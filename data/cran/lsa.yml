@@ -1,0 +1,15 @@
+version: 0.73.2
+title: Latent Semantic Analysis
+maintainer: Fridolin Wild
+description: |-
+  The basic idea of latent semantic analysis (LSA) is,
+  that text do have a higher order (=latent semantic) structure which,
+  however, is obscured by word usage (e.g. through the use of synonyms
+  or polysemy). By using conceptual indices that are derived statistically
+  via a truncated singular value decomposition (a two-mode factor analysis)
+  over a given document-term matrix, this variability problem can be overcome.
+date_publication: '2020-05-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lsa
+url_git: ''

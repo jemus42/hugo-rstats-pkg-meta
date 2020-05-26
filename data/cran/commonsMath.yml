@@ -1,0 +1,10 @@
+version: 1.2.5
+title: JAR Files of the Apache Commons Mathematics Library
+maintainer: David B. Dahl
+description: Java JAR files for the Apache Commons Mathematics Library for use by
+  users and other packages.
+date_publication: '2020-02-10'
+bug_reports: https://github.com/dbdahl/commonsMath/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=commonsMath
+url_git: https://github.com/dbdahl/commonsMath

@@ -1,0 +1,11 @@
+version: 1.2.5
+title: Geometric Median, k-Median Clustering and Robust Median PCA
+maintainer: Herve Cardot
+description: Fast algorithms  for robust estimation with large samples of multivariate
+  observations. Estimation of the geometric median, robust k-Gmedian clustering, and
+  robust PCA based on the Gmedian covariation matrix.
+date_publication: '2020-03-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Gmedian
+url_git: ''

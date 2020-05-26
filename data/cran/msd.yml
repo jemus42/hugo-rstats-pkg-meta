@@ -1,0 +1,13 @@
+version: 0.2.0
+title: Method of Successive Dichotomizations
+maintainer: Chris Bradley
+description: |-
+  Implements the method of successive dichotomizations by
+  Bradley and Massof (2018) <doi:10.1371/journal.pone.0206106>,
+  which estimates item measures, person measures and ordered rating
+  category thresholds given ordinal rating scale data.
+date_publication: '2020-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=msd
+url_git: ''

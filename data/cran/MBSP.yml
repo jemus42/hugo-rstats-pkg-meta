@@ -1,0 +1,11 @@
+version: '1.0'
+title: Multivariate Bayesian Model with Shrinkage Priors
+maintainer: Ray Bai
+description: Implements a sparse Bayesian multivariate linear regression model using
+  shrinkage priors from the three parameter beta normal family. The method is described
+  in Bai and Ghosh (2018) <arXiv:1711.07635>.
+date_publication: '2018-04-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MBSP
+url_git: ''

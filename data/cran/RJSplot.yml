@@ -1,0 +1,10 @@
+version: '2.5'
+title: Interactive Graphs with R
+maintainer: Carlos Prieto
+description: Creates interactive graphs with 'R'. It joins the data analysis power
+  of R and the visualization libraries of JavaScript in one package.
+date_publication: '2017-11-02'
+bug_reports: ''
+url: http://rjsplot.net
+url_cran: https://CRAN.R-project.org/package=RJSplot
+url_git: ''

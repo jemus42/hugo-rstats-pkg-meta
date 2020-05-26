@@ -1,0 +1,13 @@
+version: 1.6.5
+title: |-
+  NeuroAnatomy Toolbox ('nat') Extension for Assessing Neuron
+  Similarity and Clustering
+maintainer: James Manton
+description: |-
+  Extends package 'nat' (NeuroAnatomy Toolbox) by providing a
+  collection of NBLAST-related functions for neuronal morphology comparison (Costa et al. (2016) <doi: 10.1016/j.neuron.2016.06.012>).
+date_publication: '2020-01-23'
+bug_reports: https://github.com/natverse/nat.nblast/issues
+url: https://natverse.github.io
+url_cran: https://CRAN.R-project.org/package=nat.nblast
+url_git: https://github.com/natverse/nat.nblast

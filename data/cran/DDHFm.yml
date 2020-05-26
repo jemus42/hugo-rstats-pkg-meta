@@ -1,0 +1,16 @@
+version: 1.1.2
+title: |-
+  Variance Stabilization by Data-Driven Haar-Fisz (for
+  Microarrays)
+maintainer: Guy Nason
+description: |-
+  Contains the normalizing and variance stabilizing
+  Data-Driven Haar-Fisz algorithm. Also contains related algorithms
+  for simulating from certain microarray gene intensity models and
+  evaluation of certain transformations. Contains cDNA and shipping
+  credit flow data.
+date_publication: '2016-10-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DDHFm
+url_git: ''

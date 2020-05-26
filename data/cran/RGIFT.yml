@@ -1,0 +1,12 @@
+version: 0.1-5
+title: Create quizzes in GIFT Format
+maintainer: Virgilio Gómez-Rubio
+description: |-
+  This package provides some functions to create quizzes
+  in the GIFT format. This format is used by several Virtual Learning
+  Environments such as Moodle.
+date_publication: '2014-04-15'
+bug_reports: ''
+url: http://docs.moodle.org/21/en/GIFT_format
+url_cran: https://CRAN.R-project.org/package=RGIFT
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.2.7
+title: Implicit Association Test Scores Using Robust Statistics
+maintainer: Giulio Costantini
+description: Compute several variations of the Implicit Association Test (IAT) scores,
+  including the D scores (Greenwald, Nosek, Banaji, 2003, <doi:10.1037/0022-3514.85.2.197>)
+  and the new scores that were developed using robust statistics (Richetin, Costantini,
+  Perugini, and Schonbrodt, 2015, <doi:10.1371/journal.pone.0129601>).
+date_publication: '2020-05-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IATscores
+url_git: ''

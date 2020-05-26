@@ -1,0 +1,9 @@
+version: 0.1-5
+title: R API for Geckoboard
+maintainer: Meinhard Ploner
+description: Provides an interface to Geckoboard.
+date_publication: '2018-07-10'
+bug_reports: ''
+url: https://www.geckoboard.com
+url_cran: https://CRAN.R-project.org/package=RGeckoboard
+url_git: https://github.com/ploner/RGeckoboard

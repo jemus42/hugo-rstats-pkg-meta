@@ -1,0 +1,9 @@
+version: 0.1.1
+title: Maps of Finland
+maintainer: Jari Haukka
+description: Maps and other related data of Finland.
+date_publication: '2020-04-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mapsFinland
+url_git: ''

@@ -1,0 +1,10 @@
+version: 0.9.8
+title: Business Cycle Dating and Plotting Tools
+maintainer: Majid Einian
+description: Tools for Dating Business Cycles using Harding-Pagan (Quarterly Bry-Boschan)
+  method and various plotting features.
+date_publication: '2019-01-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BCDating
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.0.0
+title: Descriptive Interpretations of Confidence Intervals
+maintainer: Jim Vine
+description: |-
+  Produces descriptive interpretations of confidence intervals.
+  Includes (extensible) support for various test types, specified as sets
+  of interpretations dependent on where the lower and upper confidence limits
+  sit. Provides plotting functions for graphical display of interpretations.
+date_publication: '2017-10-03'
+bug_reports: https://github.com/jimvine/confinterpret/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=confinterpret
+url_git: https://github.com/jimvine/confinterpret

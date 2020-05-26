@@ -1,0 +1,13 @@
+version: 1.3.6
+title: General Semiparametric Shared Frailty Model
+maintainer: Vinnie Monaco
+description: |-
+  Simulates and fits semiparametric shared frailty models under a
+  wide range of frailty distributions using a consistent and
+  asymptotically-normal estimator. Currently supports: gamma, power variance
+  function, log-normal, and inverse Gaussian frailty models.
+date_publication: '2019-04-19'
+bug_reports: https://github.com/vmonaco/frailtySurv/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=frailtySurv
+url_git: https://github.com/vmonaco/frailtySurv/

@@ -1,0 +1,10 @@
+version: 2.0-1
+title: Semi Parametric Distribution
+maintainer: Alexios Ghalanos
+description: The Semi Parametric Piecewise Distribution blends the Generalized Pareto
+  Distribution for the tails with a kernel based interior.
+date_publication: '2015-07-03'
+bug_reports: ''
+url: http://www.unstarched.net
+url_cran: https://CRAN.R-project.org/package=spd
+url_git: https://bitbucket.org/alexiosg

@@ -1,0 +1,16 @@
+version: 0.1.0
+title: |-
+  Sparse Linear Method to Predict Ratings and Top-N
+  Recommendations
+maintainer: Srikanth KS
+description: |-
+  Sparse Linear Method(SLIM) predicts ratings and top-n
+  recommendations suited for sparse implicit positive feedback systems. SLIM
+  is decomposed into multiple elasticnet optimization problems which are solved
+  in parallel over multiple cores. The package is based on "SLIM: Sparse Linear
+  Methods for Top-N Recommender Systems" by Xia Ning and George Karypis <doi:10.1109/ICDM.2011.134>.
+date_publication: '2017-03-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=slimrec
+url_git: ''

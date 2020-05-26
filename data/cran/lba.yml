@@ -1,0 +1,12 @@
+version: 2.4.4
+title: Latent Budget Analysis for Compositional Data
+maintainer: Enio G. Jelihovschi
+description: |-
+  Latent budget analysis is a method for the analysis of a two-way
+  contingency table with an exploratory variable and a response variable. It is
+  specially designed for compositional data.
+date_publication: '2018-01-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lba
+url_git: https://github.com/ivanalaman/lba

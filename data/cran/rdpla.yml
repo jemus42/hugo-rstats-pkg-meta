@@ -1,0 +1,13 @@
+version: 0.2.0
+title: Client for the Digital Public Library of America ('DPLA')
+maintainer: Scott Chamberlain
+description: |-
+  Interact with the Digital Public Library of America
+  <https://dp.la> ('DPLA') 'REST' 'API'
+  <https://dp.la/info/developers/codex/> from R, including search
+  and more.
+date_publication: '2017-08-13'
+bug_reports: https://github.com/ropensci/rdpla/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rdpla
+url_git: https://github.com/ropensci/rdpla

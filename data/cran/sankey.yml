@@ -1,0 +1,9 @@
+version: 1.0.2
+title: Illustrate the Flow of Information or Material
+maintainer: Gábor Csárdi
+description: Plots that illustrate the flow of information or material.
+date_publication: '2017-10-22'
+bug_reports: https://github.com/gaborcsardi/sankey/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sankey
+url_git: https://github.com/gaborcsardi/sankey#readme

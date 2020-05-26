@@ -1,0 +1,20 @@
+version: 1.0.2
+title: Principal Component Analysis (PCA) and Whitening
+maintainer: Jochen Voss
+description: |2-
+
+  Provides functions to standardize and whiten data, and to perform
+  Principal Component Analysis (PCA).  The main advantage of this
+  package over alternatives like prcomp() is, that jvcoords makes it
+  easy to convert (additional) data between the original and the
+  transformed coordinates.  The package also provides a class coords,
+  which can represent affine coordinate transformations.  This class
+  forms the basis of the transformations provided by the package, but
+  can also be used independently.  The implementation has been
+  optimized to be of comparable speed (and sometimes even faster) than
+  existing alternatives.
+date_publication: '2018-12-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=jvcoords
+url_git: https://github.com/seehuhn/jvcoords

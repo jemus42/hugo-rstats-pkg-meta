@@ -1,0 +1,13 @@
+version: 0.0.6
+title: Plot Functions for Use in Bibliometrics
+maintainer: Robin Haunschild
+description: Currently, the package provides four functions for plotting and analyzing
+  bibliometric data (JIF, Journal Impact Factor, and paper percentile values), beamplots
+  with citations, and two plot function to visualize the result of a reference publication
+  year spectroscopy (RPYS) analysis performed in the free software 'CRExplorer' (see
+  <http://crexplorer.net>). Further extension to more plot variants is planned.
+date_publication: '2019-06-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BibPlots
+url_git: ''

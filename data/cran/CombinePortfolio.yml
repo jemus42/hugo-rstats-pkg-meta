@@ -1,0 +1,14 @@
+version: '0.4'
+title: |-
+  Estimation of Optimal Portfolio Weights by Combining Simple
+  Portfolio Strategies
+maintainer: Florian Ziel
+description: Estimation of optimal portfolio weights as combination of simple portfolio
+  strategies, like the tangency, global minimum variance (GMV) or naive (1/N) portfolio.
+  It is based on a utility maximizing 8-fund rule. Popular special cases like the
+  Kan-Zhou(2007) 2-fund and 3-fund rule or the Tu-Zhou(2011) estimator are nested.
+date_publication: '2019-02-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CombinePortfolio
+url_git: ''

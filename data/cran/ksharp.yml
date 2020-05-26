@@ -1,0 +1,13 @@
+version: 0.1.0.1
+title: Cluster Sharpening
+maintainer: Tomasz Konopka
+description: Clustering typically assigns data points into discrete groups, but the
+  clusters can sometimes be indistinct. Cluster sharpening adjusts an existing clustering
+  to create contrast between groups. This package provides a general interface for
+  cluster sharpening along with several implementations based on different excision
+  criteria.
+date_publication: '2020-01-26'
+bug_reports: https://github.com/tkonopka/ksharp/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ksharp
+url_git: https://github.com/tkonopka/ksharp

@@ -1,0 +1,14 @@
+version: 0.8.2
+title: Estimation of Multivariate Densities Using Adaptive Partitions
+maintainer: Jussi Klemela
+description: |2-
+
+  We implement methods for estimating multivariate densities.
+  We include a discretized kernel estimator,
+  an adaptive histogram (a greedy histogram and a CART-histogram),
+  stagewise minimization, and bootstrap aggregation.
+date_publication: '2015-06-03'
+bug_reports: ''
+url: http://jussiklemela.com/delt/
+url_cran: https://CRAN.R-project.org/package=delt
+url_git: ''

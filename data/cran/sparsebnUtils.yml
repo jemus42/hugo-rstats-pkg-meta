@@ -1,0 +1,10 @@
+version: 0.0.7
+title: Utilities for Learning Sparse Bayesian Networks
+maintainer: Bryon Aragam
+description: A set of tools for representing and estimating sparse Bayesian networks
+  from continuous and discrete data, as described in Aragam, Gu, and Zhou (2017) <arXiv:1703.04025>.
+date_publication: '2019-05-29'
+bug_reports: https://github.com/itsrainingdata/sparsebnUtils/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sparsebnUtils
+url_git: https://github.com/itsrainingdata/sparsebnUtils

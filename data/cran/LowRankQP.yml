@@ -1,0 +1,10 @@
+version: 1.0.4
+title: Low Rank Quadratic Programming
+maintainer: John T. Ormerod
+description: Solves quadratic programming problems where the Hessian is represented
+  as the product of two matrices.
+date_publication: '2020-04-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LowRankQP
+url_git: ''

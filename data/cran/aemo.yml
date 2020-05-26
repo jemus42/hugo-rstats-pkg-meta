@@ -1,0 +1,12 @@
+version: 0.3.0
+title: Download and Process AEMO Price and Demand Data
+maintainer: Imanuel Costigan
+description: |-
+  Download and process real time trading prices and
+  demand data freely provided by the Australian Energy Market Operator
+  (AEMO). Note that this includes a sample data set.
+date_publication: '2020-04-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=aemo
+url_git: ''

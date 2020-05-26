@@ -1,0 +1,20 @@
+version: '1.0'
+title: |-
+  Methods for Temporal Disaggregation and Interpolation of Time
+  Series
+maintainer: Christoph Sax
+description: |-
+  Temporal disaggregation methods are used to disaggregate and
+  interpolate a low frequency time series to a higher frequency series, where
+  either the sum, the mean, the first or the last value of the resulting
+  high frequency series is consistent with the low frequency series. Temporal
+  disaggregation can be performed with or without one or more high frequency
+  indicator series. Contains the methods of Chow-Lin, Santos-Silva-Cardoso,
+  Fernandez, Litterman, Denton and Denton-Cholette, summarized in Sax and
+  Steiner (2013) <doi:10.32614/RJ-2013-028>. Supports most R time series
+  classes.
+date_publication: '2020-02-07'
+bug_reports: https://github.com/christophsax/tempdisagg
+url: ''
+url_cran: https://CRAN.R-project.org/package=tempdisagg
+url_git: ''

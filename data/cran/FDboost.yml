@@ -1,0 +1,12 @@
+version: 0.3-2
+title: Boosting Functional Regression Models
+maintainer: Sarah Brockhaus
+description: |-
+  Regression models for functional data, i.e., scalar-on-function,
+  function-on-scalar and function-on-function regression models, are fitted
+  by a component-wise gradient boosting algorithm.
+date_publication: '2018-08-04'
+bug_reports: https://github.com/boost-R/FDboost/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=FDboost
+url_git: https://github.com/boost-R/FDboost

@@ -1,0 +1,15 @@
+version: 0.9-1
+title: Partially Additive (Generalized) Linear Model Trees
+maintainer: Heidi Seibold
+description: |-
+  This is an implementation of model-based trees with global model
+  parameters (PALM trees). The PALM tree algorithm is an extension to the MOB
+  algorithm (implemented in the 'partykit' package), where some parameters are
+  fixed across all groups. Details about the method can be found in Seibold,
+  Hothorn, Zeileis (2016) <arXiv:1612.07498>. The package offers coef(),
+  logLik(), plot(), and predict() functions for PALM trees.
+date_publication: '2020-05-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=palmtree
+url_git: ''

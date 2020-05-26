@@ -1,0 +1,12 @@
+version: 0.0.1
+title: Adaptive Group-Regularized Logistic Elastic Net Regression
+maintainer: Magnus M. Münch
+description: "Allows the user to incorporate multiple sources of co-data\n(e.g., \tpreviously
+  obtained p-values, published gene lists, and annotation) in the\testimation of a
+  logistic regression model to enhance predictive performance and \tfeature selection,
+  as described in Münch, Peeters, van der Vaart, and van de Wiel \t(2018) <arXiv:1805.00389>."
+date_publication: '2018-07-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gren
+url_git: https://github.com/magnusmunch/gren/

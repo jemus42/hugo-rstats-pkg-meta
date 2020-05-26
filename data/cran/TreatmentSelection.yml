@@ -1,0 +1,13 @@
+version: 2.1.1
+title: Evaluate Treatment Selection Biomarkers
+maintainer: Marshall Brown
+description: A suite of descriptive and inferential methods designed to evaluate one
+  or more biomarkers for their ability to guide patient treatment recommendations.  Package
+  includes functions to assess the calibration of risk models; and plot, evaluate,
+  and compare markers. Please see the reference Janes H, Brown MD, Huang Y, et al.
+  (2014) <doi:10.1515/ijb-2012-0052> for further details.
+date_publication: '2017-08-11'
+bug_reports: ''
+url: http://rpubs.com/mdbrown/TreatmentSelection
+url_cran: https://CRAN.R-project.org/package=TreatmentSelection
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.3-9
+title: Multivariate Analysis with Optimal Scaling
+maintainer: Patrick Mair
+description: Implements categorical principal component analysis ('PRINCALS'), multiple
+  correspondence analysis ('HOMALS'), monotone regression analysis ('MORALS'). It
+  replaces the 'homals' package.
+date_publication: '2019-06-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Gifi
+url_git: http://r-forge.r-project.org/projects/psychor/

@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Hyperbolic Embedding
+maintainer: Martin Keller-Ressel
+description: Calculate an optimal embedding of a set of data points into low-dimensional
+  hyperbolic space. This uses the strain-minimizing hyperbolic embedding of Keller-Ressel
+  and Nargang (2019), see <arXiv:1903.08977>.
+date_publication: '2019-04-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hydra
+url_git: ''

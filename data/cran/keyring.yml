@@ -1,0 +1,14 @@
+version: 1.1.0
+title: Access the System Credential Store from R
+maintainer: Gábor Csárdi
+description: |-
+  Platform independent 'API' to access the operating system's
+  credential store. Currently supports: 'Keychain' on 'macOS', Credential
+  Store on 'Windows', the Secret Service 'API' on 'Linux', and a simple,
+  platform independent store implemented with environment variables.
+  Additional storage back-ends can be added easily.
+date_publication: '2018-07-16'
+bug_reports: https://github.com/r-lib/keyring/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=keyring
+url_git: https://github.com/r-lib/keyring#readme

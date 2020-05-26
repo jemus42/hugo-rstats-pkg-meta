@@ -1,0 +1,12 @@
+version: 2020.3.4
+title: |-
+  Ferguson-Klass Type Algorithm for Posterior Normalized Random
+  Measures
+maintainer: Guillaume Kon Kam King
+description: Bayesian nonparametric density estimation modeling mixtures by a Ferguson-Klass
+  type algorithm for posterior normalized random measures.
+date_publication: '2020-03-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BNPdensity
+url_git: ''

@@ -1,0 +1,11 @@
+version: '1.0'
+title: Utility functions for working with mark-recapture data.
+maintainer: John Waller
+description: Contains a few utility functions for working with capture-history data,
+  a function for simulating capture-history data, and a function to fit this data,
+  using a Gibbs sampler.
+date_publication: '2014-04-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EasyMARK
+url_git: ''

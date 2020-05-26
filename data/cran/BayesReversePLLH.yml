@@ -1,0 +1,16 @@
+version: '1.3'
+title: Fits the Bayesian Piecewise Linear Log-Hazard Model
+maintainer: Andrew G Chapple
+description: Contains posterior samplers for the Bayesian piecewise linear log-hazard
+  and piecewise exponential hazard models, including Cox models. Posterior mean restricted
+  survival times are also computed for non-Cox an Cox models with only treatment indicators.
+  The ApproxMean() function can be used to estimate restricted posterior mean survival
+  times given a vector of patient covariates in the Cox model. Functions included
+  to return the posterior mean hazard and survival functions for the piecewise exponential
+  and piecewise linear log-hazard models. Chapple, AG, Peak, T, Hemal, A (2020). Under
+  Revision.
+date_publication: '2020-02-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BayesReversePLLH
+url_git: ''

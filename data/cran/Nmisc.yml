@@ -1,0 +1,15 @@
+version: 0.3.5
+title: Miscellaneous Functions Used at 'Numeract LLC'
+maintainer: Mike Badescu
+description: |-
+  Contains functions useful for debugging, set operations on vectors,
+  and 'UTC' date and time functionality. It adds a few vector manipulation
+  verbs to 'purrr' and 'dplyr' packages. It can also generate an R file to
+  install and update packages to simplify deployment into production. The
+  functions were developed at the data science firm 'Numeract LLC' and are
+  used in several packages and projects.
+date_publication: '2018-11-07'
+bug_reports: https://github.com/numeract/Nmisc/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Nmisc
+url_git: https://github.com/numeract/Nmisc

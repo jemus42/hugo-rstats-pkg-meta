@@ -1,0 +1,15 @@
+version: 2.7.6
+title: Parametric Frailty Models
+maintainer: Federico Rotolo
+description: |-
+  Fits Parametric Frailty Models by maximum marginal likelihood.
+  Possible baseline hazards:
+  exponential, Weibull, inverse Weibull (Fréchet),
+  Gompertz, lognormal, log-skew-normal, and loglogistic.
+  Possible Frailty distributions:
+  gamma, positive stable, inverse Gaussian and lognormal.
+date_publication: '2018-11-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=parfm
+url_git: ''

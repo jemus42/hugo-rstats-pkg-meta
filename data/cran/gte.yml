@@ -1,0 +1,11 @@
+version: 1.2-2
+title: Generalized Turnbull's Estimator
+maintainer: Thierry Duchesne
+description: |-
+  Generalized Turnbull's estimator proposed by Dehghan and Duchesne
+  (2011).
+date_publication: '2015-02-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gte
+url_git: ''

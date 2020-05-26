@@ -1,0 +1,13 @@
+version: '2.3'
+title: |-
+  An Algorithm for Reducing Errors-in-Variable Bias in Simple
+  Linear Regression
+maintainer: Mehmet Hakan Satman
+description: Performs a compact genetic algorithm search to reduce errors-in-variables
+  bias in linear regression. The algorithm estimates the regression parameters with
+  lower biases and higher variances but mean-square errors (MSEs) are reduced.
+date_publication: '2018-05-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=eive
+url_git: ''

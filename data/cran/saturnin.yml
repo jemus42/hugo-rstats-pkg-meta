@@ -1,0 +1,9 @@
+version: 1.1.1
+title: Spanning Trees Used for Network Inference
+maintainer: Loïc Schwaller
+description: Bayesian inference of graphical model structures using spanning trees.
+date_publication: '2015-07-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=saturnin
+url_git: ''

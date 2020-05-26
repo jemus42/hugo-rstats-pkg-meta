@@ -1,0 +1,14 @@
+version: 1.0.3
+title: Phylogenetic Monte Carlo
+maintainer: Carl Boettiger
+description: |-
+  Monte Carlo based model choice for applied phylogenetics of
+  continuous traits. Method described in  Carl Boettiger, Graham Coop,
+  Peter Ralph (2012) Is your phylogeny informative? Measuring
+  the power of comparative methods, Evolution 66 (7)
+  2240-51. doi:10.1111/j.1558-5646.2011.01574.x.
+date_publication: '2018-05-17'
+bug_reports: https://github.com/cboettig/pmc/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pmc
+url_git: https://github.com/cboettig/pmc

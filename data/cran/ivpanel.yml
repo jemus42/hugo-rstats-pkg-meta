@@ -1,0 +1,11 @@
+version: '1.0'
+title: Instrumental Panel Data Models
+maintainer: Zaghdoudi Taha
+description: |-
+  Fit the instrumental panel data models: the fixed effects, random
+  effects and between models.
+date_publication: '2015-02-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ivpanel
+url_git: ''

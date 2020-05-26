@@ -1,0 +1,12 @@
+version: 1.0.0
+title: |-
+  Immune Cell Gene Signatures for Profiling the Microenvironment
+  of Solid Tumours
+maintainer: Ajit Johnson Nirmal
+description: Estimate the relative abundance of tissue-infiltrating immune subpopulations
+  abundances using gene expression data.
+date_publication: '2018-07-10'
+bug_reports: https://github.com/ajitjohnson/imsig/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=imsig
+url_git: https://github.com/ajitjohnson/imsig/

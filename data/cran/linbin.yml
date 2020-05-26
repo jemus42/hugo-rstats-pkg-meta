@@ -1,0 +1,16 @@
+version: 0.1.2
+title: Binning and Plotting of Linearly Referenced Data
+maintainer: Ethan Z. Welty
+description: |-
+  Short for 'linear binning', the linbin package provides functions
+  for manipulating, binning, and plotting linearly referenced data. Although
+  developed for data collected on river networks, it can be used with any interval
+  or point data referenced to a 1-dimensional coordinate system. Flexible bin
+  generation and batch processing makes it easy to compute and visualize variables
+  at multiple scales, useful for identifying patterns within and between variables
+  and investigating the influence of scale of observation on data interpretation.
+date_publication: '2017-03-14'
+bug_reports: https://github.com/ezwelty/linbin/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=linbin
+url_git: https://github.com/ezwelty/linbin

@@ -1,0 +1,12 @@
+version: '1.1'
+title: |-
+  Functions for calculation of texture metrics for Grey Level
+  Co-occurrence Matrices
+maintainer: Hans-Joachim Klemmt
+description: This package contains several functions for calculation of texture metrics
+  for Grey Level Co-occurrence matrices
+date_publication: '2014-04-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RTextureMetrics
+url_git: ''

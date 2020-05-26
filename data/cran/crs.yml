@@ -1,0 +1,14 @@
+version: 0.15-31.1
+title: Categorical Regression Splines
+maintainer: Jeffrey S. Racine
+description: Regression splines that handle a mix of continuous and categorical (discrete)
+  data often encountered in applied settings. I would like to gratefully acknowledge
+  support from the Natural Sciences and Engineering Research Council of Canada (NSERC,
+  <http://www.nserc-crsng.gc.ca>), the Social Sciences and Humanities Research Council
+  of Canada (SSHRC, <http://www.sshrc-crsh.gc.ca>), and the Shared Hierarchical Academic
+  Research Computing Network (SHARCNET, <https://www.sharcnet.ca>).
+date_publication: '2019-11-25'
+bug_reports: https://github.com/JeffreyRacine/R-Package-crs/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=crs
+url_git: https://github.com/JeffreyRacine/R-Package-crs

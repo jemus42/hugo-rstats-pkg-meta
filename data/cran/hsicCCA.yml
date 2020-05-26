@@ -1,0 +1,14 @@
+version: '1.0'
+title: |-
+  Canonical Correlation Analysis based on Kernel Independence
+  Measures
+maintainer: Billy Chang
+description: |-
+  Canonical correlation analysis that extracts nonlinear
+  correlation through the use of Hilbert Schmidt Independence
+  Criterion and Centered Kernel Target Alignment.
+date_publication: '2013-03-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hsicCCA
+url_git: ''

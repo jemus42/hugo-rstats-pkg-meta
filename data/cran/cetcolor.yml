@@ -1,0 +1,12 @@
+version: 0.2.0
+title: CET Perceptually Uniform Colour Maps
+maintainer: James Balamuta
+description: |-
+  Collection of perceptually uniform colour maps made by Peter Kovesi
+  (2015) "Good Colour Maps: How to Design Them" <arXiv:1509.03700>
+  at the Centre for Exploration Targeting (CET).
+date_publication: '2018-07-10'
+bug_reports: https://github.com/coatless/cetcolor/issues
+url: http://thecoatlessprofessor.com/projects/cetcolor/
+url_cran: https://CRAN.R-project.org/package=cetcolor
+url_git: https://github.com/coatless/cetcolor

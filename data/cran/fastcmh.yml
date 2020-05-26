@@ -1,0 +1,11 @@
+version: 0.2.7
+title: Significant Interval Discovery with Categorical Covariates
+maintainer: Dean Bodenham
+description: A method which uses the Cochran-Mantel-Haenszel test with significant
+  pattern mining to detect intervals in binary genotype data which are significantly
+  associated with a particular phenotype, while accounting for categorical covariates.
+date_publication: '2016-09-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fastcmh
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Alternative spectral clustering, with automatic estimation of k.
+maintainer: Pierrick Bruneau
+description: Alternative to the kernlab::specc function. Includes a spectral clustering
+  implementation, a locally adapted kernel function akin to what is already proposed
+  in kernlab, and an optional procedure that automatically estimates the optimal number
+  of clusters. Several sample data sets are also included.
+date_publication: '2013-09-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=speccalt
+url_git: ''

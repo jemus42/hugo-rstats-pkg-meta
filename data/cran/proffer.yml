@@ -1,0 +1,25 @@
+version: 0.1.0
+title: Profile R Code and Visualize with 'Pprof'
+maintainer: William Michael Landau
+description: |-
+  Like similar profiling tools,
+  the 'proffer' package automatically detects
+  sources of slowness in R code.
+  The distinguishing feature of 'proffer' is its utilization of
+  'pprof', which supplies interactive visualizations
+  that are efficient and easy to interpret.
+  Behind the scenes, the 'profile' package converts
+  native Rprof() data to a protocol buffer
+  that 'pprof' understands.
+  For the documentation of 'proffer',
+  visit <https://r-prof.github.io/proffer>.
+  To learn about the implementations and methodologies of
+  'pprof', 'profile', and protocol buffers,
+  visit <https://github.com/google/pprof>.
+  <https://developers.google.com/protocol-buffers>,
+  and <https://github.com/r-prof/profile>, respectively.
+date_publication: '2020-03-23'
+bug_reports: https://github.com/r-prof/proffer/issues
+url: https://r-prof.github.io/proffer
+url_cran: https://CRAN.R-project.org/package=proffer
+url_git: https://github.com/r-prof/proffer

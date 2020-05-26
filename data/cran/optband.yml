@@ -1,0 +1,13 @@
+version: 0.2.1
+title: '''surv'' Object Confidence Bands Optimized by Area'
+maintainer: Sam Tracy
+description: |-
+  Given a certain coverage level, obtains simultaneous confidence
+  bands for the survival and cumulative hazard functions such that the area
+  between is minimized. Produces an approximate solution based on local time
+  arguments.
+date_publication: '2017-05-10'
+bug_reports: http://github.com/seasamgo/optband/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=optband
+url_git: https://github.com/seasamgo/optband

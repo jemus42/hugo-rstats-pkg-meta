@@ -1,0 +1,15 @@
+version: '1.0'
+title: Tools to Work with the Flexible Dirichlet Distribution
+maintainer: Agnese Maria Di Brisco
+description: |-
+  Provides tools to work with the Flexible Dirichlet
+  distribution. The main features are an E-M algorithm for computing the maximum
+  likelihood estimate of the parameter vector and a function based on conditional
+  bootstrap to estimate its asymptotic variance-covariance matrix. It contains
+  also functions to plot graphs, to generate random observations and to handle
+  compositional data.
+date_publication: '2017-03-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FlexDir
+url_git: ''

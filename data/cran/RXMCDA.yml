@@ -1,0 +1,11 @@
+version: 1.5.5
+title: Functions to Parse and Create XMCDA Files
+maintainer: Patrick Meyer
+description: Functions which allow to read many XMCDA tags and transform them into
+  R variables which are then usable in MCDA algorithms written in R. It also allows
+  to write certain R variables into XML files respecting the XMCDA standard.
+date_publication: '2015-12-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RXMCDA
+url_git: https://github.com/paterijk/RXMCDA

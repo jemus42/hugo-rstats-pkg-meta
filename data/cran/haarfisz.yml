@@ -1,0 +1,9 @@
+version: '4.5'
+title: Software to perform Haar Fisz transforms
+maintainer: Guy Nason
+description: A Haar-Fisz algorithm for Poisson intensity estimation
+date_publication: '2010-03-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=haarfisz
+url_git: ''

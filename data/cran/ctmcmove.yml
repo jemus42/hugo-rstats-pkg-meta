@@ -1,0 +1,15 @@
+version: 1.2.9
+title: |-
+  Modeling Animal Movement with Continuous-Time Discrete-Space
+  Markov Chains
+maintainer: Ephraim Hanks
+description: Software to facilitates taking movement data in xyt format and pairing
+  it with raster covariates within a continuous time Markov chain (CTMC) framework.  As
+  described in Hanks et al. (2015) <DOI:10.1214/14-AOAS803> , this allows flexible
+  modeling of movement in response to covariates (or covariate gradients) with model
+  fitting possible within a Poisson GLM framework.
+date_publication: '2018-04-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ctmcmove
+url_git: ''

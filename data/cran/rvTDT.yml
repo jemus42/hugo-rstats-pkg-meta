@@ -1,0 +1,10 @@
+version: '1.0'
+title: population control weighted rare-variants TDT
+maintainer: Yu Jiang
+description: Used to compute population controls weighted rare variants transmission
+  distortion test
+date_publication: '2014-04-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rvTDT
+url_git: ''

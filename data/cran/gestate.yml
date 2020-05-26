@@ -1,0 +1,17 @@
+version: 1.4.0
+title: Generalised Survival Trial Assessment Tool Environment
+maintainer: James Bell
+description: 'Provides tools to assist planning and monitoring of time-to-event trials
+  under complicated censoring assumptions and/or non-proportional hazards. There are
+  three main components: The first is analytic calculation of predicted time-to-event
+  trial properties, providing estimates of expected hazard ratio, event numbers and
+  power under different analysis methods. The second is simulation, allowing stochastic
+  estimation of these same properties. Thirdly, it provides parametric event prediction
+  using blinded trial data, including creation of prediction intervals. Methods are
+  based upon numerical integration and a flexible object-orientated structure for
+  defining event, censoring and recruitment distributions (Curves).'
+date_publication: '2020-02-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gestate
+url_git: ''

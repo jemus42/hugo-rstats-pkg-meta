@@ -1,0 +1,11 @@
+version: 0.1.3
+title: Dose Rate Modelling of Carbonate-Rich Samples
+maintainer: Sebastian Kreutzer
+description: Translation of the 'MATLAB' program 'Carb' (Nathan and Mauz 2008 <DOI:10.1016/j.radmeas.2007.12.012>;
+  Mauz and Hoffmann 2014) for dose rate modelling for carbonate-rich samples in the
+  context of trapped charged dating (e.g., luminescence dating) applications.
+date_publication: '2019-06-03'
+bug_reports: https://github.com/R-Lum/RCarb/issues
+url: https://r-lum.github.io/RCarb/
+url_cran: https://CRAN.R-project.org/package=RCarb
+url_git: ''

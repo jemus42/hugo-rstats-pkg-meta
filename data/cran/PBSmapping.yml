@@ -1,0 +1,21 @@
+version: 2.72.1
+title: Mapping Fisheries Data and Spatial Analysis Tools
+maintainer: Rowan Haigh
+description: |-
+  This software has evolved from fisheries research conducted at the
+  Pacific Biological Station (PBS) in 'Nanaimo', British Columbia, Canada. It
+  extends the R language to include two-dimensional plotting features similar
+  to those commonly available in a Geographic Information System (GIS).
+  Embedded C code speeds algorithms from computational geometry, such as
+  finding polygons that contain specified point events or converting between
+  longitude-latitude and Universal Transverse Mercator (UTM) coordinates.
+  Additionally, we include 'C++' code developed by Angus Johnson for the
+  'Clipper' library, data for a global shoreline, and other data sets in the
+  public domain. Under the user's R library directory '.libPaths()',
+  specifically in './PBSmapping/doc', a complete user's guide is offered and
+  should be consulted to use package functions effectively.
+date_publication: '2019-03-15'
+bug_reports: ''
+url: http://www.angusj.com/delphi/clipper.php
+url_cran: https://CRAN.R-project.org/package=PBSmapping
+url_git: https://github.com/pbs-software/pbs-mapping

@@ -1,0 +1,14 @@
+version: 1.5.2
+title: Bayesian Network Belief Propagation
+maintainer: Han Yu
+description: 'Belief propagation methods in Bayesian Networks to propagate evidence
+  through the network. The implementation of these methods are based on the article:
+  Cowell, RG (2005). Local Propagation in Conditional Gaussian Bayesian Networks <http://www.jmlr.org/papers/volume6/cowell05a/>.
+  The optional ''cyjShiny'' package for running the Shiny app is available at <https://github.com/cytoscape/cyjShiny>.
+  Please see the example in the documentation of ''runBayesNetApp'' function for installing
+  ''cyjShiny'' package from GitHub.'
+date_publication: '2020-04-14'
+bug_reports: https://github.com/hyu-ub/BayesNetBP/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=BayesNetBP
+url_git: ''

@@ -1,0 +1,14 @@
+version: 2.1.3
+title: Meta-Analysis of Gene Expression Data
+maintainer: Aditya M. Rao
+description: |-
+  A pipeline for the meta-analysis  of gene expression data. We have
+  assembled several analysis and plot functions to
+  perform integrated multi-cohort analysis of gene expression data (meta-
+  analysis). Methodology described in:
+  <http://biorxiv.org/content/early/2016/08/25/071514>.
+date_publication: '2020-02-26'
+bug_reports: ''
+url: http://biorxiv.org/content/early/2016/08/25/071514
+url_cran: https://CRAN.R-project.org/package=MetaIntegrator
+url_git: ''

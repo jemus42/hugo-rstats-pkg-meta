@@ -1,0 +1,17 @@
+version: 1.0.7.1
+title: Model Selection and Multimodel Inference Made Easy
+maintainer: Vincent Calcagno
+description: |-
+  Automated model selection and model-averaging. Provides a
+  wrapper for glm and other functions, automatically generating
+  all possible models (under constraints set by the user) with
+  the specified response and explanatory variables, and finding
+  the best models in terms of some Information Criterion (AIC,
+  AICc or BIC). Can handle very large numbers of candidate
+  models. Features a Genetic Algorithm to find the best models
+  when an exhaustive screening of the candidates is not feasible.
+date_publication: '2019-04-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=glmulti
+url_git: ''

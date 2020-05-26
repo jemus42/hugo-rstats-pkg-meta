@@ -1,0 +1,12 @@
+version: 0.1.8
+title: Execution of Time Series Models
+maintainer: Avi Blinder
+description: |-
+  Execution of various time series models and choosing the best one
+  either by a specific error metric or by picking the best one by majority vote.
+  The models are based on the "forecast" package, written by Prof. Rob Hyndman.
+date_publication: '2016-10-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tsSelect
+url_git: ''

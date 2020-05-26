@@ -1,0 +1,15 @@
+version: 1.2.5
+title: Shrinkage t Statistic and Correlation-Adjusted t-Score
+maintainer: Korbinian Strimmer
+description: |-
+  Implements the "shrinkage t" statistic
+  introduced in Opgen-Rhein and Strimmer (2007) and a shrinkage estimate
+  of the "correlation-adjusted t-score" (CAT score) described in
+  Zuber and Strimmer (2009).  It also offers a convenient interface
+  to a number of other regularized t-statistics commonly
+  employed in high-dimensional case-control studies.
+date_publication: '2015-07-08'
+bug_reports: ''
+url: http://strimmerlab.org/software/st/
+url_cran: https://CRAN.R-project.org/package=st
+url_git: ''

@@ -1,0 +1,12 @@
+version: '0.3'
+title: Random number generator based on AES cipher
+maintainer: Thomas Lumley
+description: |-
+  The deterministic part of the Fortuna cryptographic
+  pseudorandom number generator, described by Schneier & Ferguson
+  "Practical Cryptography"
+date_publication: '2012-01-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=randaes
+url_git: ''

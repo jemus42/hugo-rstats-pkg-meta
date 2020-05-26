@@ -1,0 +1,14 @@
+version: 0.9.0
+title: Analysis of Simulation Studies Including Monte Carlo Error
+maintainer: Alessandro Gasparini
+description: |-
+  Summarise results from simulation studies and compute Monte Carlo
+  standard errors of commonly used summary statistics. This package is modelled
+  on the 'simsum' user-written command in 'Stata' (White I.R., 2010
+  <http://www.stata-journal.com/article.html?article=st0200>), further extending
+  it with additional functionality.
+date_publication: '2020-04-15'
+bug_reports: https://github.com/ellessenne/rsimsum/issues
+url: https://ellessenne.github.io/rsimsum/
+url_cran: https://CRAN.R-project.org/package=rsimsum
+url_git: ''

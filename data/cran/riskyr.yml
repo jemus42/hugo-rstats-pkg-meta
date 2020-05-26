@@ -1,0 +1,14 @@
+version: 0.2.0
+title: Rendering Risk Literacy more Transparent
+maintainer: Hansjoerg Neth
+description: Risk-related information (like the prevalence of conditions and the sensitivity
+  and specificity of diagnostic tests or treatment decisions) can be expressed in
+  terms of probabilities or frequencies. By providing a toolbox of methods and metrics,
+  'riskyr' computes, translates, and visualizes risk-related information in a variety
+  of ways. Offering multiple complementary perspectives on the interplay between key
+  parameters renders teaching and training of risk literacy more transparent.
+date_publication: '2019-01-03'
+bug_reports: https://github.com/hneth/riskyr/issues
+url: http://riskyr.org
+url_cran: https://CRAN.R-project.org/package=riskyr
+url_git: https://github.com/hneth/riskyr

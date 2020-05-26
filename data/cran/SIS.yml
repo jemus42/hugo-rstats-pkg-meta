@@ -1,0 +1,15 @@
+version: 0.8-8
+title: Sure Independence Screening
+maintainer: Yang Feng
+description: |-
+  Variable selection techniques are essential tools for model
+  selection and estimation in high-dimensional statistical models. Through this
+  publicly available package, we provide a unified environment to carry out
+  variable selection using iterative sure independence screening (SIS) (Fan and Lv (2008)<doi:10.1111/j.1467-9868.2008.00674.x>) and all
+  of its variants in generalized linear models (Fan and Song (2009)<doi:10.1214/10-AOS798>) and the Cox proportional hazards
+  model (Fan, Feng and Wu (2010)<doi:10.1214/10-IMSCOLL606>).
+date_publication: '2020-01-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SIS
+url_git: ''

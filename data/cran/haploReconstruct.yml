@@ -1,0 +1,9 @@
+version: 0.1.2
+title: Reconstruction of Haplotype-Blocks from Time Series Data
+maintainer: Susanne U. Franssen
+description: Reconstruction of founder haplotype blocks from time series data.
+date_publication: '2016-10-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=haploReconstruct
+url_git: ''

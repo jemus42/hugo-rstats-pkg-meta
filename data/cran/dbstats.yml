@@ -1,0 +1,12 @@
+version: 1.0.5
+title: Distance-Based Statistics
+maintainer: Josep Fortiana
+description: Prediction methods where explanatory information is coded as a matrix
+  of distances between individuals. Distances can either be directly input as a distances
+  matrix, a squared distances matrix, an inner-products matrix or computed from observed
+  predictors.
+date_publication: '2017-10-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dbstats
+url_git: ''

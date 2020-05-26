@@ -1,0 +1,15 @@
+version: '1.0'
+title: Estimation of CCI and CLFS Functions
+maintainer: Eva Janousova
+description: The currentSurvival package contains functions for the<U+000a>estimation
+  of the current cumulative incidence (CCI) and the<U+000a>current leukaemia-free
+  survival (CLFS). The CCI is the<U+000a>probability that a patient is alive and in
+  any disease<U+000a>remission (e.g. complete cytogenetic remission in chronic<U+000a>myeloid
+  leukaemia) after initiating his or her therapy (e.g.<U+000a>tyrosine kinase therapy
+  for chronic myeloid leukaemia). The<U+000a>CLFS is the probability that a patient
+  is alive and in any<U+000a>disease remission after achieving the first disease remission.
+date_publication: '2013-01-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=currentSurvival
+url_git: ''

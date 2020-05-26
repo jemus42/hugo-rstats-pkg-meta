@@ -1,0 +1,13 @@
+version: 0.6.2
+title: Compute Krippendorff's Alpha
+maintainer: Alexander Staudt
+description: |-
+  Provides functions to compute and plot Krippendorff's inter-coder
+  reliability coefficient alpha and bootstrapped uncertainty estimates
+  (Krippendorff 2004, ISBN:0761915443). The bootstrap routines are set up to
+  make use of parallel threads where supported.
+date_publication: '2020-03-20'
+bug_reports: https://github.com/staudtlex/icr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=icr
+url_git: https://github.com/staudtlex/icr

@@ -1,0 +1,13 @@
+version: 0.1.0
+title: |-
+  Test Similarity Between Binary Data using Jaccard/Tanimoto
+  Coefficients
+maintainer: Neo Christopher Chung
+description: |-
+  Calculate statistical significance of Jaccard/Tanimoto similarity
+  coefficients for binary data.
+date_publication: '2018-06-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=jaccard
+url_git: ''

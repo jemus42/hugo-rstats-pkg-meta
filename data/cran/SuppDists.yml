@@ -1,0 +1,14 @@
+version: 1.1-9.5
+title: Supplementary Distributions
+maintainer: ORPHANED
+description: |-
+  Ten distributions supplementing those built into R.
+  Inverse Gauss, Kruskal-Wallis, Kendall's Tau, Friedman's chi
+  squared, Spearman's rho, maximum F ratio, the Pearson product
+  moment correlation coefficient, Johnson distributions, normal
+  scores and generalized hypergeometric distributions.
+date_publication: '2020-01-14'
+bug_reports: ''
+url: nolongervalid
+url_cran: https://CRAN.R-project.org/package=SuppDists
+url_git: ''

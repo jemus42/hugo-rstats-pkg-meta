@@ -1,0 +1,11 @@
+version: '1.0'
+title: Bayesian Evidence Combination
+maintainer: Stanley E. Lazic
+description: Combine diverse evidence across multiple studies to test a high level
+  scientific theory. The methods can also be used as an alternative to a standard
+  meta-analysis.
+date_publication: '2017-02-08'
+bug_reports: https://github.com/stanlazic/BayesCombo/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=BayesCombo
+url_git: https://github.com/stanlazic/BayesCombo

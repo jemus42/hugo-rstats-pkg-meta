@@ -1,0 +1,12 @@
+version: 0.4.0
+title: Minimal Language-Like Extensions
+maintainer: Abby Spurdle
+description: Binary operators (%$%, %$%<-, %@% and %@%<-) to set and get object attributes
+  and environment members, convenience functions for constructing named lists, S3
+  objects and self-referencing function objects, and functions for printing objects,
+  particularly suitable for printing function objects bundled with data.
+date_publication: '2020-03-06'
+bug_reports: ''
+url: https://sites.google.com/site/spurdlea/r
+url_cran: https://CRAN.R-project.org/package=intoo
+url_git: ''

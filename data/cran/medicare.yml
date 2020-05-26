@@ -1,0 +1,14 @@
+version: 0.2.1
+title: Tools for Obtaining and Cleaning Medicare Public Use Files
+maintainer: Robert Gambrel
+description: |-
+  Publicly available data from Medicare frequently requires extensive
+  initial effort to extract desired variables and merge them; this package
+  formalizes the techniques I've found work best. More information on the
+  Medicare program, as well as guidance for the publicly available data this package
+  targets, can be found on CMS's website covering publicly available data. See <https://www.cms.gov/Research-Statistics-Data-and-Systems/Research-Statistics-Data-and-Systems.html>.
+date_publication: '2017-04-02'
+bug_reports: http://www.github.com/robertgambrel/medicare/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=medicare
+url_git: http://www.github.com/robertgambrel/medicare

@@ -1,0 +1,13 @@
+version: 1.0.1
+title: Learn Direct Interaction Networks
+maintainer: Surojit Biswas
+description: |-
+  Learns direct microbe-microbe interaction networks using a Poisson
+  multivariate-normal hierarchical model with an L1 penalized precision
+  matrix. Optimization is carried out using an iterative conditional modes
+  algorithm.
+date_publication: '2015-05-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MInt
+url_git: ''

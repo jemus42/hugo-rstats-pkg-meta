@@ -1,0 +1,14 @@
+version: 1.0.1
+title: p-Value Aggregation Methods
+maintainer: Lynn Yi
+description: 'Contains functionality for performing the following methods of p-value
+  aggregation: Fisher''s method [Fisher, RA (1932, ISBN: 9780028447308)], the Lancaster
+  method (weighted Fisher''s method) [Lancaster, HO (1961, <doi:10.1111/j.1467-842X.1961.tb00058.x>)],
+  and Sidak correction [Sidak, Z (1967, <doi:10.1080/01621459.1967.10482935>)].  Please
+  cite Yi et al., the manuscript corresponding to this package [Yi, L et al., (2017),
+  <doi:10.1101/190199>].'
+date_publication: '2018-01-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=aggregation
+url_git: ''

@@ -1,0 +1,15 @@
+version: 0.1.1
+title: Dynamics of Return to Equilibrium During Multiple Inputs
+maintainer: Courvoisier Delphine
+description: |-
+  Provides models to fit the dynamics of a regulated
+  system experiencing exogenous inputs. The underlying models use differential
+  equations and linear mixed-effects regressions to estimate the characteristic
+  parameters of the equation (the coefficients) and an estimated signal. The
+  package also provides print, summary, plot and predict functions, specific for
+  the models outputs.
+date_publication: '2019-03-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=doremi
+url_git: ''

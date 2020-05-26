@@ -1,0 +1,15 @@
+version: 0.1.2
+title: |-
+  Creates and Manages Folder Functions for Portable Large-Scale R
+  Analysis
+maintainer: Nathan C. Sheffield
+description: |-
+  If you find yourself working on multiple different projects in R, you'll want a
+  series of folders pointing to raw data, processed data, plot results, intermediate table
+  outputs, etc. This package makes it easier to do that by providing a quick and easy way
+  to create and use functions for project-level directories.
+date_publication: '2019-06-12'
+bug_reports: http://github.com/databio/folderfun
+url: http://code.databio.org/folderfun
+url_cran: https://CRAN.R-project.org/package=folderfun
+url_git: ''

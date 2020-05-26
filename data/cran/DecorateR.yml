@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Fit and Deploy DECORATE Trees
+maintainer: Matthias Bogaert
+description: |-
+  DECORATE (Diverse Ensemble Creation by Oppositional Relabeling
+  of Artificial Training Examples) builds an ensemble of J48 trees by recursively
+  adding artificial samples of the training data ("Melville, P., & Mooney, R. J. (2005). Creating diversity in ensembles using artificial data. Information Fusion, 6(1), 99-111. <doi:10.1016/j.inffus.2004.04.001>").
+date_publication: '2017-02-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DecorateR
+url_git: ''

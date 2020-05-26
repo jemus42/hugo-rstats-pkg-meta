@@ -1,0 +1,15 @@
+version: 0.3.1
+title: Get City Bike Data from Norway
+maintainer: Iman Ghayoornia
+description: |-
+  Functions to get and download city bike data from
+  the website and API service of each city bike service in Norway. The
+  package aims to reduce time spent on getting Norwegian city bike data,
+  and lower barriers to start analyzing it. The data is retrieved from
+  Oslo City Bike, Bergen City Bike, and Trondheim City Bike. The data is
+  made available under NLOD 2.0 <https://data.norge.no/nlod/en/2.0>.
+date_publication: '2020-04-19'
+bug_reports: http://github.com/imangR/bysykkel/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bysykkel
+url_git: http://github.com/imangR/bysykkel

@@ -1,0 +1,11 @@
+version: 1.5.1
+title: Miscellaneous R Functions and Aliases
+maintainer: Hugh Parsonage
+description: Provides utility functions for, and drawing on, the 'data.table' package.
+  The package also collates useful miscellaneous functions extending base R not available
+  elsewhere. The name is a portmanteau of 'utils' and the author.
+date_publication: '2019-10-05'
+bug_reports: https://github.com/hughparsonage/hutils/issues
+url: https://hughparsonage.github.io/hutils/
+url_cran: https://CRAN.R-project.org/package=hutils
+url_git: https://github.com/hughparsonage/hutils

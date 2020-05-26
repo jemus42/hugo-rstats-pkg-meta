@@ -1,0 +1,10 @@
+version: '0.45'
+title: Radiation and Photovoltaic Systems
+maintainer: Oscar Perpiñán Lamigueiro
+description: Calculation methods of solar radiation and performance of photovoltaic
+  systems from daily and intradaily irradiation data sources.
+date_publication: '2020-01-19'
+bug_reports: https://github.com/oscarperpinan/solar/issues
+url: http://oscarperpinan.github.io/solar/
+url_cran: https://CRAN.R-project.org/package=solaR
+url_git: ''

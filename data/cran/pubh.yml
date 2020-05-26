@@ -1,0 +1,17 @@
+version: 1.1.12
+title: A Toolbox for Public Health and Epidemiology
+maintainer: Josie Athens
+description: |-
+  A toolbox for making R functions and capabilities more
+  accessible to students and professionals from Epidemiology and
+  Public Health related disciplines. Includes a function to report
+  coefficients and confidence intervals from models using robust
+  standard errors (when available), functions that expand 'ggplot2'
+  plots and functions relevant for introductory papers in Epidemiology
+  or Public Health. Please note that use of the
+  provided data sets is for educational purposes only.
+date_publication: '2020-04-26'
+bug_reports: https://github.com/josie-athens/pubh/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pubh
+url_git: https://github.com/josie-athens/pubh

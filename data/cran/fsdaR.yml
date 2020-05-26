@@ -1,0 +1,23 @@
+version: 0.4-9
+title: |-
+  Robust Data Analysis Through Monitoring and Dynamic
+  Visualization
+maintainer: Valentin Todorov
+description: |-
+  Provides interface to the 'MATLAB' toolbox 'Flexible Statistical Data Analysis
+  (FSDA)' which is a comprehensive and computationally efficient
+  software package for robust statistics in regression, multivariate
+  and categorical data analysis. The current R version implements tools
+  for regression: (forward search, S- and MM-estimation, least trimmed
+  squares (LTS) and least median of squares (LMS)), for multivariate analysis
+  (forward search, S- and MM-estimation), for cluster analysis and cluster-wise regression.
+  The distinctive feature of our package is the possibility of
+  monitoring the statistics of interest as function of breakdown point,
+  efficiency or subset size, depending on the estimator. This is
+  accompanied by a rich set of graphical features, such as dynamic
+  brushing, linking, particularly useful for exploratory data analysis.
+date_publication: '2020-01-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fsdaR
+url_git: ''

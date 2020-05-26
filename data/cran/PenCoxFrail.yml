@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Regularization in Cox Frailty Models
+maintainer: Andreas Groll
+description: A regularization approach for Cox Frailty Models by penalization methods
+  is provided.
+date_publication: '2016-05-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PenCoxFrail
+url_git: ''

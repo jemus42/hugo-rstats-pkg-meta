@@ -1,0 +1,13 @@
+version: 1.0.1
+title: |-
+  Non-Linear Shrinkage Estimation of Population Eigenvalues and
+  Covariance Matrices
+maintainer: Pratik Ramprasad
+description: |-
+  Non-linear shrinkage estimation of population eigenvalues and covariance
+  matrices, based on publications by Ledoit and Wolf (2004, 2015, 2016).
+date_publication: '2016-04-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nlshrink
+url_git: ''

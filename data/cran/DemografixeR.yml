@@ -1,0 +1,10 @@
+version: 0.1.1
+title: Extrapolate Gender, Age and Nationality of a Name
+maintainer: Matthias Brenninkmeijer
+description: Connects to the <https://genderize.io/>, <https://agify.io/> and <https://nationalize.io/>
+  APIs to estimate gender, age and nationality of a first name.
+date_publication: '2020-05-06'
+bug_reports: https://github.com/matbmeijer/DemografixeR/issues
+url: https://matbmeijer.github.io/DemografixeR
+url_cran: https://CRAN.R-project.org/package=DemografixeR
+url_git: https://github.com/matbmeijer/DemografixeR

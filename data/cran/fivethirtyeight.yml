@@ -1,0 +1,15 @@
+version: 0.5.0
+title: |-
+  Data and Code Behind the Stories and Interactives at
+  'FiveThirtyEight'
+maintainer: Albert Y. Kim
+description: |-
+  Datasets and code published by the data journalism website
+  'FiveThirtyEight' available at <https://github.com/fivethirtyeight/data>.
+  Note that while we received guidance from editors at 'FiveThirtyEight', this
+  package is not officially published by 'FiveThirtyEight'.
+date_publication: '2019-07-31'
+bug_reports: https://github.com/rudeboybert/fivethirtyeight/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=fivethirtyeight
+url_git: https://github.com/rudeboybert/fivethirtyeight

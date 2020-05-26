@@ -1,0 +1,20 @@
+version: 0.2.6-1.1
+title: Endogenous Perturbation Analysis of Cancer
+maintainer: Tobias Abenius
+description: |-
+  Estimates sparse matrices A or G using fast lasso regression from mRNA transcript levels Y and CNA profiles U. Two models are provided, EPoC A where
+  AY + U + R = 0
+  and EPoC G where
+  Y = GU + E,
+  the matrices R and E are so far treated as noise. For
+  details see the manual page of 'lassoshooting' and the
+  article Rebecka Jörnsten, Tobias Abenius, Teresia Kling,
+  Linnéa Schmidt, Erik Johansson, Torbjörn E M Nordling,
+  Bodil Nordlander, Chris Sander, Peter Gennemark,
+  Keiko Funa, Björn Nilsson, Linda Lindahl, Sven Nelander
+  (2011) <doi:10.1038/msb.2011.17>.
+date_publication: '2019-08-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=epoc
+url_git: ''

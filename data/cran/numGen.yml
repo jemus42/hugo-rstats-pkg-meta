@@ -1,0 +1,10 @@
+version: 0.1.1
+title: Number Series Generator
+maintainer: Bao Sheng Loe (Aiden)
+description: A number series generator that creates number series items based on cognitive
+  models.
+date_publication: '2017-07-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=numGen
+url_git: ''

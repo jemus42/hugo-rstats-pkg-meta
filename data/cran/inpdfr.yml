@@ -1,0 +1,10 @@
+version: 0.1.11
+title: Analyse Text Documents Using Ecological Tools
+maintainer: Rebaudo Francois
+description: "A set of functions to analyse and compare texts, using classical\ntext
+  mining\tfunctions, as well as those from theoretical ecology."
+date_publication: '2020-01-16'
+bug_reports: https://github.com/frareb/inpdfr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=inpdfr
+url_git: https://github.com/frareb/inpdfr/

@@ -1,0 +1,12 @@
+version: '1.3'
+title: |-
+  Structured Products Valuation for
+  ExpressCertificates/Autocallables
+maintainer: Stefan Wilhelm
+description: Provides pricing by duplication and Monte Carlo methods for Express Certificates
+  products (also known as Autocallables).
+date_publication: '2019-01-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fExpressCertificates
+url_git: ''

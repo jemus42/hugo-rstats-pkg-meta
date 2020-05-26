@@ -1,0 +1,12 @@
+version: 0.2.2
+title: A 'rmarkdown' Template that Can be Highly Customized
+maintainer: Hao Zhu
+description: |-
+  A 'rmarkdown' template that supports company logo, contact info,
+  watermarks and more. Currently restricted to 'Latex'/'Markdown'; a similar
+  'HTML' theme will be added in the future.
+date_publication: '2020-05-10'
+bug_reports: https://github.com/hebrewseniorlife/memor/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=memor
+url_git: https://github.com/hebrewseniorlife/memor

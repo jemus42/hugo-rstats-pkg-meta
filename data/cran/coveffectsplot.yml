@@ -1,0 +1,11 @@
+version: 0.0.9
+title: Produce Forest Plots to Visualize Covariate Effects
+maintainer: Samer Mouksassi
+description: |-
+  Produce forest plots to visualize covariate effects using either
+  the command line or an interactive 'Shiny' application.
+date_publication: '2020-04-03'
+bug_reports: https://github.com/smouksassi/interactiveforestplot/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=coveffectsplot
+url_git: https://github.com/smouksassi/interactiveforestplot

@@ -1,0 +1,12 @@
+version: 1.1.3
+title: |-
+  Odds Ratio Estimation and Power Calculation for the Trend in
+  Trend Model
+maintainer: Ashkan Ertefaie
+description: Estimation of causal odds ratio and power calculation given trends in
+  exposure prevalence    and outcome frequencies of stratified data.
+date_publication: '2020-03-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TrendInTrend
+url_git: ''

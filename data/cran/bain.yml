@@ -1,0 +1,17 @@
+version: 0.2.4
+title: Bayes Factors for Informative Hypotheses
+maintainer: Caspar J van Lissa
+description: |-
+  Computes approximated adjusted fractional Bayes factors for
+  equality, inequality, and about equality constrained hypotheses. S3 methods
+  are available for specific types of lm() models, namely ANOVA, ANCOVA, and
+  multiple regression, and for the t_test(). The statistical underpinnings are
+  described in
+  Gu, Mulder, and Hoijtink, (2018) <DOI:10.1111/bmsp.12110>,
+  Hoijtink, Gu, and Mulder, (2018) <DOI:10.1111/bmsp.12145>, and
+  Hoijtink, Gu, Mulder, and Rosseel, (2018) <DOI:10.1037/met0000187>.
+date_publication: '2020-03-09'
+bug_reports: ''
+url: https://informative-hypotheses.sites.uu.nl/software/bain/
+url_cran: https://CRAN.R-project.org/package=bain
+url_git: ''

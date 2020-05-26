@@ -1,0 +1,9 @@
+version: 1.0-11
+title: Covariance Matrix Adapting Evolutionary Strategy
+maintainer: Olaf Mersmann
+description: Single objective optimization using a CMA-ES.
+date_publication: '2011-01-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cmaes
+url_git: ''

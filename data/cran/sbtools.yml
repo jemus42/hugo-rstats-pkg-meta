@@ -1,0 +1,13 @@
+version: 1.1.11
+title: USGS ScienceBase Tools
+maintainer: David Blodgett
+description: |-
+  Tools for interacting with U.S. Geological Survey ScienceBase
+  <https://www.sciencebase.gov> interfaces. ScienceBase is a data cataloging and
+  collaborative data management platform. Functions included for querying
+  ScienceBase, and creating and fetching datasets.
+date_publication: '2020-04-20'
+bug_reports: https://github.com/USGS-R/sbtools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sbtools
+url_git: https://github.com/USGS-R/sbtools

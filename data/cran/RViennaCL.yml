@@ -1,0 +1,17 @@
+version: 1.7.1.8
+title: '''ViennaCL'' C++ Header Files'
+maintainer: Charles Determan Jr
+description: |-
+  'ViennaCL' is a free open-source linear algebra library
+  for computations on many-core architectures (GPUs, MIC) and
+  multi-core CPUs. The library is written in C++ and supports 'CUDA',
+  'OpenCL', and 'OpenMP' (including switches at runtime).
+  I have placed these libraries in this package as a more efficient
+  distribution system for CRAN. The idea is that you can write a package
+  that depends on the 'ViennaCL' library and yet you do not need to
+  distribute a copy of this code with your package.
+date_publication: '2019-05-28'
+bug_reports: http://github.com/cdeterman/RViennaCL/issues/new
+url: ''
+url_cran: https://CRAN.R-project.org/package=RViennaCL
+url_git: http://github.com/cdeterman/RViennaCL

@@ -1,0 +1,14 @@
+version: '1.3'
+title: |-
+  Automatic Lesion Incidence Estimation and Detection using
+  Multi-Modality Longitudinal Magnetic Resonance Images
+maintainer: Elizabeth M. Sweeney
+description: |-
+  Creates probability maps of incident and enlarging lesion voxels
+  from a baseline and followup magnetic resonance imaging study in
+  patients with multiple sclerosis.
+date_publication: '2016-09-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sublime
+url_git: ''

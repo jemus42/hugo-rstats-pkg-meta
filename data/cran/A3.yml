@@ -1,0 +1,13 @@
+version: 1.0.0
+title: |-
+  Accurate, Adaptable, and Accessible Error Metrics for Predictive
+  Models
+maintainer: Scott Fortmann-Roe
+description: Supplies tools for tabulating and analyzing the results of predictive
+  models. The methods employed are applicable to virtually any predictive model and
+  make comparisons between different methodologies straightforward.
+date_publication: '2015-08-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=A3
+url_git: ''

@@ -1,0 +1,10 @@
+version: 2.3.0
+title: Projection pursuit classification tree
+maintainer: Eun-Kyung Lee
+description: Projection pursuit classification tree using LDA, Lr or PDA projection
+  pursuit index
+date_publication: '2014-05-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PPtree
+url_git: ''

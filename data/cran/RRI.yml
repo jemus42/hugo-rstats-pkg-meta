@@ -1,0 +1,11 @@
+version: '1.1'
+title: Residual Randomization Inference for Regression Models
+maintainer: Panos Toulis
+description: Testing and inference for regression models using residual randomization
+  methods. The basis of inference is an invariance assumption on the regression errors,
+  e.g., clustered errors, or doubly-clustered errors.
+date_publication: '2019-12-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RRI
+url_git: ''

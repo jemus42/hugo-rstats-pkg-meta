@@ -1,0 +1,15 @@
+version: 0.4.9
+title: Miscellaneous Functions for the USGS INL Project Office
+maintainer: Jason C. Fisher
+description: |-
+  A collection of functions for creating high-level graphics,
+  performing raster-based analysis, processing MODFLOW-based models,
+  selecting subsets using a genetic algorithm, creating interactive web maps,
+  accessing color palettes, etc. Used to support packages and scripts written
+  by researchers at the United States Geological Survey (USGS)
+  Idaho National Laboratory (INL) Project Office.
+date_publication: '2020-01-15'
+bug_reports: https://github.com/USGS-R/inlmisc/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=inlmisc
+url_git: https://github.com/USGS-R/inlmisc

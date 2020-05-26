@@ -1,0 +1,11 @@
+version: '1.0'
+title: HMM - Hidden Markov Models
+maintainer: Lin Himmelmann
+description: |-
+  Easy to use library to setup, apply and make inference
+  with discrete time and discrete space Hidden Markov Models
+date_publication: '2010-01-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HMM
+url_git: ''

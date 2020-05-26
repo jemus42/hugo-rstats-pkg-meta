@@ -1,0 +1,15 @@
+version: 1.0-6
+title: Methods for Multivariate Quadrature
+maintainer: Constantin Weiser
+description: |-
+  Provides methods to construct multivariate grids, which can be used
+  for multivariate quadrature. This grids can be based on different quadrature
+  rules like Newton-Cotes formulas (trapezoidal-, Simpson's- rule, ...) or Gauss
+  quadrature (Gauss-Hermite, Gauss-Legendre, ...). For the construction of the
+  multidimensional grid the product-rule or the combination- technique can be
+  applied.
+date_publication: '2016-07-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mvQuad
+url_git: https://github.com/weiserc/mvQuad/

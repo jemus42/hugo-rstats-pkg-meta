@@ -1,0 +1,15 @@
+version: 1.0.2
+title: |-
+  Generate Codes to Uniquely and Robustly Identify Individuals for
+  Animal Behavior Studies
+maintainer: Andrew Taylor Burchill
+description: 'Facilitates the design and generation of optimal color (or symbol) codes
+  that can be used to mark and identify individual animals. These codes are made such
+  that the IDs are robust to partial erasure: even if sections of the code are lost,
+  the entire identity of the animal can be reconstructed. Thus, animal subjects are
+  not confused and no ambiguity is introduced.'
+date_publication: '2019-12-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rabi
+url_git: ''

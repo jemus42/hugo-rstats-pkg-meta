@@ -1,0 +1,14 @@
+version: 0.2.2
+title: Biomarker Prognostic Enrichment Tool
+maintainer: Jeremy Roth
+description: Prognostic Enrichment is a clinical trial strategy of evaluating an intervention
+  in a patient population with a higher rate of the unwanted event than the broader
+  patient population (R. Temple (2010) <DOI:10.1038/clpt.2010.233>). A higher event
+  rate translates to a lower sample size for the clinical trial, which can have both
+  practical and ethical advantages. This package is a tool to help evaluate biomarkers
+  for prognostic enrichment of clinical trials.
+date_publication: '2018-07-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BioPET
+url_git: ''

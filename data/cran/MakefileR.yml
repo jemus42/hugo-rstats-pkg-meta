@@ -1,0 +1,11 @@
+version: '1.0'
+title: Create 'Makefiles' Using R
+maintainer: Kirill Müller
+description: |-
+  A user-friendly interface for the construction of
+  'Makefiles'.
+date_publication: '2016-01-08'
+bug_reports: https://github.com/krlmlr/MakefileR/issues
+url: http://krlmlr.github.io/MakefileR
+url_cran: https://CRAN.R-project.org/package=MakefileR
+url_git: ''

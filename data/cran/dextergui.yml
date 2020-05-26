@@ -1,0 +1,11 @@
+version: 0.2.2
+title: A Graphical User Interface for Dexter
+maintainer: jesse koops
+description: |-
+  Classical Test and Item analysis,
+  Item Response analysis and data management for educational and psychological tests.
+date_publication: '2020-02-20'
+bug_reports: https://github.com/jessekps/dexter/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dextergui
+url_git: ''

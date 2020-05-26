@@ -1,0 +1,12 @@
+version: '0.01'
+title: Entropy Optimization Distributions
+maintainer: Senay Asma
+description: |-
+  This package implements entropy optimization distribution
+  under specified constraints. It also offers an R interface to
+  the MinxEnt and MaxEnt distributions.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=minxent
+url_git: ''

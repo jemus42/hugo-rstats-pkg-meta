@@ -1,0 +1,17 @@
+version: 0.5.16
+title: A Swiss-Army Knife for Data I/O
+maintainer: Thomas J. Leeper
+description: |-
+  Streamlined data import and export by making assumptions that
+  the user is probably willing to make: 'import()' and 'export()' determine
+  the data structure from the file extension, reasonable defaults are used for
+  data import and export (e.g., 'stringsAsFactors=FALSE'), web-based import is
+  natively supported (including from SSL/HTTPS), compressed files can be read
+  directly without explicit decompression, and fast import packages are used where
+  appropriate. An additional convenience function, 'convert()', provides a simple
+  method for converting between file types.
+date_publication: '2018-11-26'
+bug_reports: https://github.com/leeper/rio/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rio
+url_git: https://github.com/leeper/rio

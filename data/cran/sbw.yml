@@ -1,0 +1,12 @@
+version: '1.0'
+title: |-
+  Stable Balancing Weights for Causal Inference and Estimation
+  with Incomplete Outcome Data
+maintainer: Jose R. Zubizarreta
+description: Weights of minimum variance that approximately balance the empirical
+  distribution of the observed covariates.
+date_publication: '2019-12-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sbw
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.2.4
+title: Computes Numeric Fourier Integrals
+maintainer: Guillermo Basulto-Elias
+description: Computes Fourier integrals of functions of one and two variables using
+  the Fast Fourier transform. The Fourier transforms must be evaluated on a regular
+  grid for fast evaluation.
+date_publication: '2019-04-07'
+bug_reports: https://github.com/gbasulto/fourierin/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=fourierin
+url_git: http://github.com/gbasulto/fourierin

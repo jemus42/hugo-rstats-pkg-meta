@@ -1,0 +1,13 @@
+version: 0.7.0
+title: Functions for Medical Statistics Book with some Demographic Data
+maintainer: Minato Nakazawa
+description: |-
+  Several utility functions for the book entitled
+  "Practices of Medical and Health Data Analysis using R"
+  (Pearson Education Japan, 2007) with Japanese demographic
+  data and some demographic analysis related functions.
+date_publication: '2019-12-15'
+bug_reports: ''
+url: http://minato.sip21c.org/msb/
+url_cran: https://CRAN.R-project.org/package=fmsb
+url_git: ''

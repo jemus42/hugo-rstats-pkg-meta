@@ -1,0 +1,9 @@
+version: '1.4'
+title: Stratigraphic Tree Analysis for Palaeontology
+maintainer: Mark A. Bell
+description: Functions for the stratigraphic analysis of phylogenetic trees.
+date_publication: '2014-11-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=strap
+url_git: ''

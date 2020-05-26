@@ -1,0 +1,11 @@
+version: 1.1.0
+title: Collection of Model Evaluation Measure Functions
+maintainer: Babak Khorsand
+description: Provides Some of the most important evaluation measures for evaluating
+  a model. Just by giving the real and predicted class, measures such as accuracy,
+  sensitivity, specificity, ppv, npv, fmeasure, mcc and ... will be returned.
+date_publication: '2016-07-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EvaluationMeasures
+url_git: ''

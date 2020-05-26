@@ -1,0 +1,13 @@
+version: 0.99.2
+title: Detection of Differential Rhythmicity
+maintainer: Paul Thaben
+description: |-
+  Detect Differences in rhythmic time series. Using linear
+  least squares and the robust semi-parametric rfit() method. Differences in
+  harmonic fitting could be detected as well as differences in scale of the
+  noise distribution.
+date_publication: '2016-05-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DODR
+url_git: ''

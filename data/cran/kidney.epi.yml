@@ -1,0 +1,14 @@
+version: 1.2.0
+title: 'Kidney Functions: Clinical and Epidemiological'
+maintainer: Boris Bikbov
+description: |-
+  Contains kidney care oriented functions.
+  Current version contains functions for calculation of:
+  - Kidney Donor Risk Index and Kidney Donor Profile Index for kidney transplant donors by Rao et al. (2009) <doi:10.1097/TP.0b013e3181ac620b>.
+  - Estimated glomerular filtration rate by CKD-EPI, MDRD and other equations.
+  Citation: Bikbov B. R open source programming code for calculation of the Kidney Donor Profile Index and Kidney Donor Risk Index. Kidney Diseases (2018) 4:269–272 <doi:10.1159/000492427> (the only citation for the whole package).
+date_publication: '2020-03-04'
+bug_reports: ''
+url: http://kidneyepidemiology.org/r/
+url_cran: https://CRAN.R-project.org/package=kidney.epi
+url_git: ''

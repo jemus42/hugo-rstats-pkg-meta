@@ -1,0 +1,15 @@
+version: 0.4.2
+title: |-
+  An Interruptible Progress Bar with OpenMP Support for C++ in R
+  Packages
+maintainer: Karl Forner
+description: |-
+  Allows to display a progress bar in the R
+  console for long running computations taking place in c++ code,
+  and support for interrupting those computations even in multithreaded
+  code, typically using OpenMP.
+date_publication: '2020-02-06'
+bug_reports: https://github.com/kforner/rcpp_progress/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcppProgress
+url_git: https://github.com/kforner/rcpp_progress

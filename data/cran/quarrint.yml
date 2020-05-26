@@ -1,0 +1,16 @@
+version: 1.0.0
+title: |-
+  Interaction Prediction Between Groundwater and Quarry Extension
+  Using Discrete Choice Models and Artificial Neural Networks
+maintainer: Johan Barthelemy
+description: |-
+  An implementation of two interaction indices between extractive
+  activity and groundwater resources based on hazard and vulnerability
+  parameters used in the assessment of natural hazards. One index is based
+  on a discrete choice model and the other is relying on an artificial
+  neural network.
+date_publication: '2016-11-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=quarrint
+url_git: https://github.com/jojo-/quarrint

@@ -1,0 +1,15 @@
+version: 1.1.0
+title: Fit Additive Hazards Models for Survival Analysis
+maintainer: Jie (Kate) Hu
+description: |-
+  Contains tools to fit the additive hazards model to data from a cohort,
+  random sampling, two-phase Bernoulli sampling and two-phase finite population sampling,
+  as well as calibration tool to incorporate phase I auxiliary information into the
+  two-phase data model fitting.  This package provides regression parameter estimates and
+  their model-based and robust standard errors. It also offers tools to make prediction of
+  individual specific hazards.
+date_publication: '2017-03-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=addhazard
+url_git: ''

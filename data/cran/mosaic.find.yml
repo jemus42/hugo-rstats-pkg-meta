@@ -1,0 +1,16 @@
+version: 0.1.0
+title: |-
+  Finding Rhythmic and Non-Rhythmic Trends in Multi-Omics Data
+  (MOSAIC)
+maintainer: Hannah De los Santos
+description: |-
+  Provides a function (mosaic_find()) designed to find rhythmic
+  and non-rhythmic trends in multi-omics time course data using model
+  selection and joint modeling, a method called MOSAIC (Multi-Omics
+  Selection with Amplitude Independent Criteria). For more information,
+  see H. De los Santos et al. (2020) <doi:10.1101/2020.04.27.064147>.
+date_publication: '2020-05-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mosaic.find
+url_git: https://github.com/delosh653/MOSAIC

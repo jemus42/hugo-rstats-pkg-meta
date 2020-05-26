@@ -1,0 +1,14 @@
+version: 0.1.7
+title: Client for the Amazon Alexa Web Information Services API
+maintainer: Gaurav Sood
+description: |-
+  Use the Amazon Alexa Web Information Services API to
+  find information about domains, including the kind of content
+  that they carry, how popular are they---rank and traffic history,
+  sites linking to them, among other things. See <https://aws.amazon.com/awis/>
+  for more information.
+date_publication: '2019-06-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=aws.alexa
+url_git: ''

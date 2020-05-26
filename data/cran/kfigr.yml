@@ -1,0 +1,16 @@
+version: '1.2'
+title: |-
+  Integrated Code Chunk Anchoring and Referencing for R Markdown
+  Documents
+maintainer: Michael C Koohafkan
+description: |-
+  A streamlined cross-referencing system for R Markdown documents
+  generated with 'knitr'. R Markdown is  an authoring format for generating
+  dynamic content from R. 'kfigr' provides a hook for anchoring code
+  chunks and a function to cross-reference document elements generated from
+  said chunks, e.g. figures and tables.
+date_publication: '2015-07-15'
+bug_reports: https://github.com/mkoohafkan/kfigr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=kfigr
+url_git: https://github.com/mkoohafkan/kfigr

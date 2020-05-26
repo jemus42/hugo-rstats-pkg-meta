@@ -1,0 +1,14 @@
+version: 0.4.0
+title: '''NoSQL'' Database Connector'
+maintainer: Scott Chamberlain
+description: |-
+  Simplified document database manipulation and analysis,
+  including support for many 'NoSQL' databases, including document
+  databases ('Elasticsearch', 'CouchDB', 'MongoDB'),
+  'key-value' databases ('Redis'), and (with limitations)
+  SQLite/json1.
+date_publication: '2019-11-11'
+bug_reports: https://github.com/ropensci/nodbi/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=nodbi
+url_git: https://github.com/ropensci/nodbi

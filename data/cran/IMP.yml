@@ -1,0 +1,11 @@
+version: '1.1'
+title: Interactive Model Performance Evaluation
+maintainer: Anup Nair
+description: Contains functions for evaluating & comparing the performance of Binary
+  classification models. Functions can be called either statically or interactively
+  (as Shiny Apps).
+date_publication: '2016-01-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IMP
+url_git: https://github.com/anup50695/IMPPackage

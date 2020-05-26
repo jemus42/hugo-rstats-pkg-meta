@@ -1,0 +1,12 @@
+version: 2.0.0
+title: Fast and Versatile Argument Checks
+maintainer: Michel Lang
+description: |-
+  Tests and assertions to perform frequent argument checks. A
+  substantial part of the package was written in C to minimize any worries
+  about execution time overhead.
+date_publication: '2020-02-06'
+bug_reports: https://github.com/mllg/checkmate/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=checkmate
+url_git: https://github.com/mllg/checkmate

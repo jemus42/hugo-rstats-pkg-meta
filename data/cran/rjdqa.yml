@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Quality Assessment for Seasonal Adjustment
+maintainer: Alain Quartier-la-Tente
+description: |-
+  Add-in to the 'RJDemetra' package on seasonal adjustments.
+  It allows to produce quality assessments outputs (dashboards, quality report matrix, etc.).
+date_publication: '2019-06-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rjdqa
+url_git: https://github.com/AQLT/rjdqa

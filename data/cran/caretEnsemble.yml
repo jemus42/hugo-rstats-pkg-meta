@@ -1,0 +1,15 @@
+version: 2.0.1
+title: Ensembles of Caret Models
+maintainer: Zachary A. Deane-Mayer
+description: |-
+  Functions for creating ensembles of caret models: caretList()
+  and caretStack().  caretList() is a convenience function for fitting multiple
+  caret::train() models to the same dataset. caretStack() will make linear or
+  non-linear combinations of these models, using a caret::train() model as a
+  meta-model, and caretEnsemble() will make a robust linear combination of
+  models using a GLM.
+date_publication: '2019-12-12'
+bug_reports: https://github.com/zachmayer/caretEnsemble/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=caretEnsemble
+url_git: https://github.com/zachmayer/caretEnsemble

@@ -1,0 +1,14 @@
+version: 3.3.3
+title: 'Chronomics Analysis Toolkit (CAT): Periodicity Analysis'
+maintainer: Cathy Lee Gierke
+description: Calculates auto- and cross-correlation functions and plots an actogram
+  and a smoothing function from a time series to identify and visualize periodic components.
+  Tests presence of anticipated rhythm and estimates rhythm parameters; fits model
+  consisting of multiple rhythmic components to data; performs least squares spectral
+  analysis and other cosinor-based analyses, including population-mean cosinor (PMC)
+  and population-mean cosinor parameter tests (PMCtest).
+date_publication: '2018-07-17'
+bug_reports: ''
+url: http://z.umn.edu/CATkit
+url_cran: https://CRAN.R-project.org/package=CATkit
+url_git: ''

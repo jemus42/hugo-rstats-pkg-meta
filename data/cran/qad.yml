@@ -1,0 +1,9 @@
+version: 0.1.2
+title: Quantification of Asymmetric Dependence
+maintainer: Florian Griessenberger
+description: A copula-based measure for quantifying asymmetry in dependence and associations.
+date_publication: '2020-03-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=qad
+url_git: ''

@@ -1,0 +1,9 @@
+version: 0.1.16
+title: Plotting Methods for 'simmer'
+maintainer: Iñaki Ucar
+description: A set of plotting methods for 'simmer' trajectories and simulations.
+date_publication: '2020-04-25'
+bug_reports: https://github.com/r-simmer/simmer.plot/issues
+url: http://r-simmer.org
+url_cran: https://CRAN.R-project.org/package=simmer.plot
+url_git: https://github.com/r-simmer/simmer.plot

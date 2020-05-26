@@ -1,0 +1,16 @@
+version: 1.0.4
+title: |-
+  Models Spatially Continuous and Discrete Population Genetic
+  Structure
+maintainer: Gideon Bradburd
+description: |-
+  A method for modeling genetic data as a combination of discrete
+  layers, within each of which relatedness may decay continuously with geographic
+  distance. This package contains code for running analyses (which are implemented
+  in the modeling language 'rstan') and visualizing and interpreting output. See the
+  paper for more details on the model and its utility.
+date_publication: '2019-12-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=conStruct
+url_git: ''

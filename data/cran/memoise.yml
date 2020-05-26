@@ -1,0 +1,11 @@
+version: 1.1.0
+title: Memoisation of Functions
+maintainer: Jim Hester
+description: |-
+  Cache the results of a function so that when you call it
+  again with the same arguments it returns the pre-computed value.
+date_publication: '2017-04-21'
+bug_reports: https://github.com/hadley/memoise/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=memoise
+url_git: https://github.com/hadley/memoise

@@ -1,0 +1,12 @@
+version: 0.3.0
+title: Explore and Visualize Your Data Interactively
+maintainer: Victor Perrier
+description: |-
+  A 'shiny' gadget to create 'ggplot2' charts interactively with drag-and-drop to map your variables.
+  You can quickly visualize your data accordingly to their type, export to 'PNG' or 'PowerPoint',
+  and retrieve the code to reproduce the chart.
+date_publication: '2020-01-27'
+bug_reports: https://github.com/dreamRs/esquisse/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=esquisse
+url_git: https://github.com/dreamRs/esquisse

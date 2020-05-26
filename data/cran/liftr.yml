@@ -1,0 +1,9 @@
+version: 0.9.2
+title: Containerize R Markdown Documents for Continuous Reproducibility
+maintainer: Nan Xiao
+description: Persistent reproducible reporting by containerization of R Markdown documents.
+date_publication: '2019-06-19'
+bug_reports: https://github.com/nanxstats/liftr/issues
+url: https://nanx.me/liftr/
+url_cran: https://CRAN.R-project.org/package=liftr
+url_git: https://github.com/nanxstats/liftr

@@ -1,0 +1,9 @@
+version: 0.5.3
+title: Simulation framework
+maintainer: Andreas Alfons
+description: A general framework for statistical simulation.
+date_publication: '2014-03-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=simFrame
+url_git: ''

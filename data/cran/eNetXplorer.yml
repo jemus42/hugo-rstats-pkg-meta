@@ -1,0 +1,14 @@
+version: 1.1.0
+title: |-
+  Quantitative Exploration of Elastic Net Families for Generalized
+  Linear Models
+maintainer: Julian Candia
+description: Provides a quantitative toolkit to explore elastic net families and to
+  uncover correlates contributing to prediction under a cross-validation framework.
+  Fits linear, binomial (logistic), multinomial and Cox regression models. Candia
+  J and Tsang JS, BMC Bioinformatics (2019) 20:189 <doi:10.1186/s12859-019-2778-5>.
+date_publication: '2019-09-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=eNetXplorer
+url_git: ''

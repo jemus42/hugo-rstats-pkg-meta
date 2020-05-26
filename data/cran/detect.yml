@@ -1,0 +1,15 @@
+version: 0.4-2
+title: Analyzing Wildlife Data with Detection Error
+maintainer: Peter Solymos
+description: |-
+  Models for analyzing site occupancy and count data models
+  with detection error, including single-visit based models,
+  conditional distance sampling and time-removal models.
+  Package development was supported by the
+  Alberta Biodiversity Monitoring Institute (www.abmi.ca)
+  and the Boreal Avian Modelling Project (borealbirds.ca).
+date_publication: '2018-08-30'
+bug_reports: https://github.com/psolymos/detect/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=detect
+url_git: https://github.com/psolymos/detect

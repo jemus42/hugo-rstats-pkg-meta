@@ -1,0 +1,11 @@
+version: 0.2.2
+title: Quotes on Statistics, Data Visualization and Science
+maintainer: Michael Friendly
+description: |-
+  Generates a random quotation from a data base of quotes on topics
+  in statistics, data visualization and science.
+date_publication: '2017-08-29'
+bug_reports: https://github.com/friendly/statquotes/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=statquotes
+url_git: ''

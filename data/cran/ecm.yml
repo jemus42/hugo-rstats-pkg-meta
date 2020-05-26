@@ -1,0 +1,10 @@
+version: 4.4.0
+title: Build Error Correction Models
+maintainer: Gaurav Bansal
+description: Functions for easy building of error correction models (ECM) for time
+  series regression.
+date_publication: '2019-01-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ecm
+url_git: https://github.com/gaurbans/ecm

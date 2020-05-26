@@ -1,0 +1,11 @@
+version: '6.6'
+title: |-
+  Miscellaneous Functions for Math, Plotting, Printing,
+  Statistics, Strings, and Tools
+maintainer: Christian W. Hoffmann
+description: Miscellaneous useful or interesting functions.
+date_publication: '2018-08-28'
+bug_reports: ''
+url: http://www.echoffmann.ch
+url_cran: https://CRAN.R-project.org/package=cwhmisc
+url_git: ''

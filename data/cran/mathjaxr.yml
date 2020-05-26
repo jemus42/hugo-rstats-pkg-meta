@@ -1,0 +1,10 @@
+version: 0.8-3
+title: Using 'Mathjax' in Rd Files
+maintainer: Wolfgang Viechtbauer
+description: Provides 'MathJax' and macros to enable its use within Rd files for rendering
+  equations in the HTML help files.
+date_publication: '2020-05-08'
+bug_reports: https://github.com/wviechtb/mathjaxr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mathjaxr
+url_git: https://github.com/wviechtb/mathjaxr

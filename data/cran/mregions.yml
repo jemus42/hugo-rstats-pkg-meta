@@ -1,0 +1,14 @@
+version: 0.1.6
+title: Marine Regions Data from 'Marineregions.org'
+maintainer: Scott Chamberlain
+description: |-
+  Tools to get marine regions data from
+  <http://www.marineregions.org/>. Includes tools to get region metadata,
+  as well as data in 'GeoJSON' format, as well as Shape files. Use cases
+  include using data downstream to visualize 'geospatial' data by marine
+  region, mapping variation among different regions, and more.
+date_publication: '2017-10-17'
+bug_reports: https://github.com/ropenscilabs/mregions/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mregions
+url_git: https://github.com/ropenscilabs/mregions

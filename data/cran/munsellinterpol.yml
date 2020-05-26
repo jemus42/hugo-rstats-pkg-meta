@@ -1,0 +1,13 @@
+version: 2.6-1
+title: Interpolate Munsell Renotation Data from Hue/Chroma to CIE/RGB
+maintainer: Glenn Davis
+description: Methods for interpolating data in the Munsell color system following
+  the ASTM D-1535 standard. Hues and chromas with decimal values can be interpolated
+  and converted to/from the Munsell color system and CIE xyY, CIE XYZ, CIE Lab, CIE
+  Luv, or RGB.  Includes ISCC-NBS color block lookup.  Based on the work by Paul Centore,
+  "The Munsell and Kubelka-Munk Toolbox".
+date_publication: '2020-02-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=munsellinterpol
+url_git: ''

@@ -1,0 +1,12 @@
+version: '1.1'
+title: The Inverse Gamma Distribution
+maintainer: David Kahle
+description: |-
+  Light weight implementation of the standard distribution
+  functions for the inverse gamma distribution, wrapping those for the gamma
+  distribution in the stats package.
+date_publication: '2017-05-07'
+bug_reports: https://github.com/dkahle/invgamma/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=invgamma
+url_git: https://github.com/dkahle/invgamma

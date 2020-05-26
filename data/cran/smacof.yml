@@ -1,0 +1,16 @@
+version: 2.1-0
+title: Multidimensional Scaling
+maintainer: Patrick Mair
+description: 'Implements the following approaches for multidimensional scaling (MDS)
+  based on stress minimization using majorization (smacof): ratio/interval/ordinal/spline
+  MDS on symmetric dissimilarity matrices, MDS with external constraints on the configuration,
+  individual differences scaling (idioscal, indscal), MDS with spherical restrictions,
+  and ratio/interval/ordinal/spline unfolding (circular restrictions, row-conditional).
+  Various tools and extensions like jackknife MDS, bootstrap MDS, permutation tests,
+  MDS biplots, gravity models, unidimensional scaling, drift vectors (asymmetric MDS),
+  classical scaling, and Procrustes are implemented as well.'
+date_publication: '2020-03-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=smacof
+url_git: ''

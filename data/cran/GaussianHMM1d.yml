@@ -1,0 +1,15 @@
+version: 1.0.1
+title: |-
+  Inference, Goodness-of-Fit and Forecast for Univariate Gaussian
+  Hidden Markov Models
+maintainer: Bouchra Nasri
+description: Inference, goodness-of-fit test, and prediction densities and intervals
+  for univariate Gaussian Hidden Markov Models (HMM). The goodness-of-fit is based
+  on a Cramer-von Mises statistic and uses parametric bootstrap to estimate the p-value.
+  The description of the methodology is taken from Chapter 10.2 of Remillard (2013)
+  <doi:10.1201/b14285>.
+date_publication: '2019-03-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GaussianHMM1d
+url_git: ''

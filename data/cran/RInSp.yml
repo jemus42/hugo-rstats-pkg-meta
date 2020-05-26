@@ -1,0 +1,16 @@
+version: 1.2.4
+title: R Individual Specialization (RInSp)
+maintainer: Dr. Nicola Zaccarelli
+description: |-
+  Functions to calculate several ecological indices of individual
+  and population niche width (Araujo's E, clustering and pairwise similarity
+  among individuals, IS, Petraitis' W, and Roughgarden's WIC/TNW) to assess
+  individual specialization based on data of resource use. Resource use can
+  be quantified by counts of categories, measures of mass or length, or
+  proportions. Monte Carlo resampling procedures are available for hypothesis
+  testing against multinomial null models.
+date_publication: '2020-02-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RInSp
+url_git: ''

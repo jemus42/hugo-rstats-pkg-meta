@@ -1,0 +1,22 @@
+version: '1.0'
+title: Inference in Meta Analysis and Meta Regression
+maintainer: Thomas W. D. Möbius
+description: |-
+  Provides methods for making inference in the random effects meta
+  regression model such as point estimates and confidence intervals for the
+  heterogeneity parameter and the regression coefficients vector.  Inference
+  methods are based on different approaches to statistical inference.
+  Methods from three different schools are included: methods based on the
+  method of moments approach, methods based on likelihood, and methods based
+  on generalised inference.  The package also includes tools to run extensive
+  simulation studies in parallel on high performance clusters in a modular
+  way.  This allows extensive testing of custom inferential methods with all
+  implemented state-of-the-art methods in a standardised way.  Tools for
+  evaluating the performance of both point and interval estimates are
+  provided.  Also, a large collection of different pre-defined plotting
+  functions is implemented in a ready-to-use fashion.
+date_publication: '2014-05-27'
+bug_reports: ''
+url: http://00tau.github.io/metagen/
+url_cran: https://CRAN.R-project.org/package=metagen
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.5.3
+title: Pretty Time of Day
+maintainer: Kirill Müller
+description: |-
+  Implements an S3 class for storing and formatting time-of-day
+  values, based on the 'difftime' class.
+date_publication: '2020-01-08'
+bug_reports: https://github.com/tidyverse/hms/issues
+url: https://hms.tidyverse.org/
+url_cran: https://CRAN.R-project.org/package=hms
+url_git: https://github.com/tidyverse/hms

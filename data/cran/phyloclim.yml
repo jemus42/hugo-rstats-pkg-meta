@@ -1,0 +1,12 @@
+version: 0.9.5
+title: Integrating Phylogenetics and Climatic Niche Modeling
+maintainer: Christoph Heibl
+description: |-
+  Implements some methods in phyloclimatic modeling:
+  estimation of ancestral climatic niches, age-range-correlation,
+  niche equivalency test and background-similarity test.
+date_publication: '2018-05-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=phyloclim
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Contrast Analyses for Factorial Designs
+maintainer: Markus Burkhardt
+description: Contrast analysis for factorial designs is an alternative to the classical
+  ANOVA approach with the advantage of testing focused hypothesis. The method is mainly
+  based on Rosenthal, Rosnow and Rubin (2000, ISBN:978-0521659802) and Sedlmeier and
+  Renkewitz (2018, ISBN:978-3868943214).
+date_publication: '2020-03-02'
+bug_reports: ''
+url: https://gitlab.hrz.tu-chemnitz.de/burma--tu-chemnitz.de/cofad.git
+url_cran: https://CRAN.R-project.org/package=cofad
+url_git: ''

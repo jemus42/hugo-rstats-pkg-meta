@@ -1,0 +1,12 @@
+version: 1.4.8
+title: Betting Odds Conversion
+maintainer: Marco Blume
+description: |-
+  Conversion between the most common odds types for sports betting.
+  Hong Kong odds, US odds, Decimal odds, Indonesian odds, Malaysian odds, and raw
+  Probability are covered in this package.
+date_publication: '2018-06-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=odds.converter
+url_git: ''

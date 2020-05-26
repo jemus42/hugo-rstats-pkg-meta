@@ -1,0 +1,10 @@
+version: '1.0'
+title: GO-Functional-Network-based Gene-Set-Analysis
+maintainer: Billy Chang
+description: Accounting for genes' functional-non-equivalence within pathways in classical
+  Gene-set-analysis.
+date_publication: '2012-01-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GOGANPA
+url_git: ''

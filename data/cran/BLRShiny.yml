@@ -1,0 +1,13 @@
+version: 0.1.0
+title: |-
+  Interactive Document for Working with Binary Logistic Regression
+  Analysis
+maintainer: Kartikeya Bolar
+description: An interactive document on  the topic of binary logistic regression  analysis
+  using 'rmarkdown' and 'shiny' packages. Runtime examples are provided in the package
+  function as well as at  <https://analyticmodels.shinyapps.io/BinaryLogisticRegressionModelling/>.
+date_publication: '2019-05-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BLRShiny
+url_git: ''

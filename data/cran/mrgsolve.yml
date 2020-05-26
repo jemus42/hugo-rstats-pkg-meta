@@ -1,0 +1,12 @@
+version: 0.10.1
+title: Simulate from ODE-Based Models
+maintainer: Kyle T Baron
+description: |-
+  Fast simulation from ordinary differential equation
+  (ODE) based models typically employed in quantitative pharmacology and
+  systems biology.
+date_publication: '2020-02-21'
+bug_reports: https://github.com/metrumresearchgroup/mrgsolve/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mrgsolve
+url_git: https://github.com/metrumresearchgroup/mrgsolve

@@ -1,0 +1,14 @@
+version: 1.5.1
+title: |-
+  Partitioning Beta Diversity into Turnover and Nestedness
+  Components
+maintainer: Andres Baselga
+description: Functions to compute pair-wise dissimilarities (distance matrices) and
+  multiple-site dissimilarities, separating the turnover and nestedness-resultant
+  components of taxonomic (incidence and abundance based), functional and phylogenetic
+  beta diversity.
+date_publication: '2018-10-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=betapart
+url_git: ''

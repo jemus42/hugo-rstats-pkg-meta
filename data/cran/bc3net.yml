@@ -1,0 +1,11 @@
+version: 1.0.4
+title: Gene Regulatory Network Inference with Bc3net
+maintainer: Ricardo de Matos Simoes
+description: 'Implementation of the BC3NET algorithm for gene regulatory network inference
+  (de Matos Simoes and Frank Emmert-Streib, Bagging Statistical Network Inference
+  from Large-Scale Gene Expression Data, PLoS ONE 7(3): e33624, <doi:10.1371/journal.pone.0033624>).'
+date_publication: '2016-11-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bc3net
+url_git: ''

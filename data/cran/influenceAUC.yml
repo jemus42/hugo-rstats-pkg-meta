@@ -1,0 +1,14 @@
+version: 0.1.1
+title: Identify Influential Observations in Binary Classification
+maintainer: Bo-Shiang Ke
+description: Ke, B. S., Chiang, A. J., & Chang, Y. C. I. (2018) <doi:10.1080/10543406.2017.1377728>
+  provide two theoretical methods (influence function and local influence) based on
+  the area under the receiver operating characteristic curve (AUC) to quantify the
+  numerical impact of each observation to the overall AUC. Alternative graphical tools,
+  cumulative lift charts, are proposed to reveal the existences and approximate locations
+  of those influential observations through data visualization.
+date_publication: '2020-02-19'
+bug_reports: https://github.com/BoShiangKe/InfluenceAUC/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=influenceAUC
+url_git: ''

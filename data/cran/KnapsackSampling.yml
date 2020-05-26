@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Generate Feasible Samples of a Knapsack Problem
+maintainer: Chin Soon Lim
+description: The sampl.mcmc() function creates samples of the feasible region of a
+  knapsack problem with both equalities and inequalities constraints.
+date_publication: '2016-10-16'
+bug_reports: https://github.com/chinsoon12/KnapsackSampling
+url: ''
+url_cran: https://CRAN.R-project.org/package=KnapsackSampling
+url_git: https://github.com/chinsoon12/KnapsackSampling

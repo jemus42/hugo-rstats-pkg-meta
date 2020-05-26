@@ -1,0 +1,13 @@
+version: 1.4-0
+title: |-
+  A Collection of Functions to Implement a Class for Univariate
+  Polynomial Manipulations
+maintainer: Bill Venables
+description: |-
+  A collection of functions to implement a class for univariate
+  polynomial manipulations.
+date_publication: '2019-03-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=polynom
+url_git: ''

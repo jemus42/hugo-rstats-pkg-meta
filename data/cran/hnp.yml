@@ -1,0 +1,11 @@
+version: 1.2-6
+title: Half-Normal Plots with Simulation Envelopes
+maintainer: Rafael de Andrade Moral
+description: Generates (half-)normal plots with simulation envelopes using different
+  diagnostics from a range of different fitted models. A few example datasets are
+  included.
+date_publication: '2018-05-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hnp
+url_git: ''

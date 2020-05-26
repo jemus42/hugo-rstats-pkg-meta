@@ -1,0 +1,12 @@
+version: '2.2'
+title: |-
+  Dynamic Assembly Model of Colonization, Local Extinction and
+  Speciation
+maintainer: Rampal S. Etienne
+description: Simulates and computes (maximum) likelihood of a dynamical model of community
+  assembly that takes into account phylogenetic history.
+date_publication: '2020-01-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DAMOCLES
+url_git: ''

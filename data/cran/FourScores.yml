@@ -1,0 +1,11 @@
+version: 1.5.1
+title: A Game for Human vs. Human or Human vs. AI
+maintainer: Matthias Speidel
+description: 'A game for two players: Who gets first four in a row (horizontal, vertical
+  or diagonal) wins. As board game published by Milton Bradley, designed by Howard
+  Wexler and Ned Strongin.'
+date_publication: '2018-10-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FourScores
+url_git: ''

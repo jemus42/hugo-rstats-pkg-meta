@@ -1,0 +1,14 @@
+version: 0.1.2
+title: Tuning for 'mlr3'
+maintainer: Michel Lang
+description: |-
+  Implements methods for hyperparameter tuning with
+  'mlr3', e.g. Grid Search, Random Search, or Simulated Annealing.
+  Various termination criteria can be set and combined.  The class
+  'AutoTuner' provides a convenient way to perform nested resampling in
+  combination with 'mlr3'.
+date_publication: '2020-01-31'
+bug_reports: https://github.com/mlr-org/mlr3tuning/issues
+url: https://mlr3tuning.mlr-org.com
+url_cran: https://CRAN.R-project.org/package=mlr3tuning
+url_git: https://github.com/mlr-org/mlr3tuning

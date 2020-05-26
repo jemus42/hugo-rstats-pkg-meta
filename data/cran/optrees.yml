@@ -1,0 +1,11 @@
+version: '1.0'
+title: Optimal Trees in Weighted Graphs
+maintainer: Manuel Fontenla
+description: Finds optimal trees in weighted graphs. In<U+000a>particular, this package
+  provides solving tools for minimum cost spanning<U+000a>tree problems, minimum cost
+  arborescence problems, shortest path tree<U+000a>problems and minimum cut tree problem.
+date_publication: '2014-09-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=optrees
+url_git: ''

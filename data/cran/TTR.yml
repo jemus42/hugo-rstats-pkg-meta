@@ -1,0 +1,9 @@
+version: 0.23-6
+title: Technical Trading Rules
+maintainer: Joshua Ulrich
+description: Functions and data to construct technical trading rules with R.
+date_publication: '2019-12-15'
+bug_reports: https://github.com/joshuaulrich/TTR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=TTR
+url_git: https://github.com/joshuaulrich/TTR

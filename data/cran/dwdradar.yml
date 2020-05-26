@@ -1,0 +1,11 @@
+version: 0.2.0
+title: Read Binary Radar Files from 'DWD' (German Weather Service)
+maintainer: Berry Boessenkool
+description: |-
+  The 'DWD' provides gridded radar data for Germany in binary format.
+  'dwdradar' reads these files and enables a fast conversion into numerical format.
+date_publication: '2019-10-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dwdradar
+url_git: ''

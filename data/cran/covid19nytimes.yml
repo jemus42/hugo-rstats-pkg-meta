@@ -1,0 +1,20 @@
+version: 0.1.3
+title: |-
+  Pulls the Covid-19 Data from the New York Times Public Data
+  Source
+maintainer: Jarrett Byrnes
+description: |-
+  Accesses the NY Times Covid-19 county-level data
+  for the US, described in
+  <https://www.nytimes.com/article/coronavirus-county-data-us.html> and
+  available at <https://github.com/nytimes/covid-19-data>. It then returns
+  the data in a tidy data format according to the Covid19R Project data
+  specification. If you plan to use the data or publicly display the data
+  or results, please make sure cite the original NY Times source. Please read and
+  follow the terms laid out in the data license at
+  <https://github.com/nytimes/covid-19-data/blob/master/LICENSE>.
+date_publication: '2020-05-08'
+bug_reports: https://github.com/Covid19R/covid19nytimes/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=covid19nytimes
+url_git: https://github.com/Covid19R/covid19nytimes

@@ -1,0 +1,10 @@
+version: 1.0.2
+title: A Collection of Methods for Singular Spectrum Analysis
+maintainer: Anton Korobeynikov
+description: Methods and tools for Singular Spectrum Analysis including decomposition,
+  forecasting and gap-filling for univariate and multivariate time series.
+date_publication: '2020-02-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rssa
+url_git: http://github.com/asl/rssa

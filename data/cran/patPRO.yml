@@ -1,0 +1,11 @@
+version: 1.1.0
+title: Visualizing Temporal Microbiome Data
+maintainer: Geoffrey D Hannigan
+description: Quickly and easily visualize longitudinal microbiome profiles using standard
+  output from the QIIME microbiome analysis toolkit (see <http://qiime.org> for more
+  information).
+date_publication: '2016-02-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=patPRO
+url_git: ''

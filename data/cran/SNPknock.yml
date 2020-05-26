@@ -1,0 +1,13 @@
+version: 0.8.2
+title: Knockoffs for Hidden Markov Models and Genetic Data
+maintainer: Matteo Sesia
+description: |-
+  Generate knockoffs for genetic data and hidden Markov models.
+  For more information, see the website below and the accompanying papers:
+  "Gene hunting with hidden Markov model knockoffs", Sesia et al., Biometrika, 2019, (<doi:10.1093/biomet/asy033>).
+  "Multi-resolution localization of causal variants across the genome", Sesia et al., bioRxiv, 2019, (<doi:10.1101/631390>).
+date_publication: '2019-05-17'
+bug_reports: https://github.com/msesia/snpknock/issues
+url: https://msesia.github.io/snpknock
+url_cran: https://CRAN.R-project.org/package=SNPknock
+url_git: ''

@@ -1,0 +1,9 @@
+version: '2.5'
+title: Soil Database Interface
+maintainer: Dylan Beaudette
+description: A collection of functions for reading data from USDA-NCSS soil databases.
+date_publication: '2020-01-28'
+bug_reports: https://github.com/ncss-tech/soilDB/issues
+url: http://ncss-tech.github.io/AQP/
+url_cran: https://CRAN.R-project.org/package=soilDB
+url_git: ''

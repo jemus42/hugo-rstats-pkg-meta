@@ -1,0 +1,12 @@
+version: 0.0.2
+title: Tools for Working with 3D Surface Measurements
+maintainer: Heike Hofmann
+description: |-
+  The x3p file format  is specified in ISO standard 5436:2000 to
+  describe 3d surface measurements. 'x3ptools' allows reading, writing and
+  basic modifications to the 3D surface measurements.
+date_publication: '2019-03-27'
+bug_reports: https://github.com/heike/x3ptools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=x3ptools
+url_git: https://github.com/heike/x3ptools

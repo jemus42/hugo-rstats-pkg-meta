@@ -1,0 +1,16 @@
+version: 0.7-8
+title: Variable Selection using Random Forests
+maintainer: Ramon Diaz-Uriarte
+description: |-
+  Variable selection from random forests using both
+  backwards variable elimination (for the selection of small sets
+  of non-redundant variables) and selection based on the
+  importance spectrum (somewhat similar to scree plots; for the
+  selection of large, potentially highly-correlated variables).
+  Main applications in high-dimensional data (e.g., microarray
+  data, and other genomics and proteomics applications).
+date_publication: '2017-07-10'
+bug_reports: ''
+url: http://ligarto.org/rdiaz/Software/Software.html
+url_cran: https://CRAN.R-project.org/package=varSelRF
+url_git: https://github.com/rdiaz02/varSelRF

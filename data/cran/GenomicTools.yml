@@ -1,0 +1,10 @@
+version: 0.2.9.7
+title: Collection of Tools for Genomic Data Analysis
+maintainer: Daniel Fischer
+description: A loose collection of tools for the analysis of expression and genotype
+  data, currently with the main focus on (e)QTL and MDR analysis.
+date_publication: '2020-03-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GenomicTools
+url_git: ''

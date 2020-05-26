@@ -1,0 +1,11 @@
+version: '1.0'
+title: compute HUM value and visualize ROC curves
+maintainer: Natalia Novoselova
+description: |-
+  Tools for computing HUM (Hypervolume Under the Manifold) value to estimate features ability
+  to discriminate the class labels, visualizing the ROC curve for two or three class labels.
+date_publication: '2014-01-20'
+bug_reports: ''
+url: http://public.ostfalia.de/~klawonn/HUM.htm
+url_cran: https://CRAN.R-project.org/package=HUM
+url_git: ''

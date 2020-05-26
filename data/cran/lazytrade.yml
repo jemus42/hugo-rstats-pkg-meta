@@ -1,0 +1,13 @@
+version: 0.3.10
+title: Learn Computer and Data Science using Algorithmic Trading
+maintainer: Vladimir Zhbanko
+description: |-
+  Provide sets of functions and methods to learn and practice data science using idea of algorithmic trading.
+  Main goal is to process information within "Decision Support System" to come up with analysis or predictions.
+  There are several utilities such as dynamic and adaptive risk management using reinforcement learning
+  and even functions to generate predictions of price changes using pattern recognition deep regression learning.
+date_publication: '2020-03-23'
+bug_reports: https://github.com/vzhomeexperiments/lazytrade/issues
+url: https://vladdsm.github.io/myblog_attempt/topics/lazy%20trading/
+url_cran: https://CRAN.R-project.org/package=lazytrade
+url_git: https://github.com/vzhomeexperiments/lazytrade

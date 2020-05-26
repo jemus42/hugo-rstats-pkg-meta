@@ -1,0 +1,11 @@
+version: 0.1-6
+title: Price and Quantity Indices
+maintainer: Arne Henningsen
+description: |-
+  Tools for calculating Laspeyres, Paasche, and Fisher
+  price and quantity indices.
+date_publication: '2017-04-07'
+bug_reports: ''
+url: http://www.micEcon.org
+url_cran: https://CRAN.R-project.org/package=micEconIndex
+url_git: ''

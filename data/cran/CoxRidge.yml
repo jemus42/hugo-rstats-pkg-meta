@@ -1,0 +1,16 @@
+version: 0.9.2
+title: Cox Models with Dynamic Ridge Penalties
+maintainer: Aris Perperoglou
+description: A package for fitting Cox models with penalized ridge-type partial likelihood.
+  The package includes functions for fitting simple Cox models with all covariates
+  controlled by a ridge penalty. The weight of the penalty is optimised by using a
+  REML type-algorithm. Models with time varying effects of the covariates can also
+  be fitted. Some of the covariates may be allowed to be fixed and thus not controlled
+  by the penalty. There are three different penalty functions, ridge, dynamic and
+  weighted dynamic. Time varying effects can be fitted without the need of an expanded
+  dataset.
+date_publication: '2015-02-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CoxRidge
+url_git: ''

@@ -1,0 +1,11 @@
+version: 1.2.2
+title: Rating Scale Reduction Procedure
+maintainer: Alicja Wolny-Dominiak
+description: Describes a new procedure of reducing items in a rating scale called
+  Rating Scale Reduction (RSR). The new stop criterion in RSR procedure is added (stop
+  global max). Data sets are added.
+date_publication: '2018-05-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RatingScaleReduction
+url_git: ''

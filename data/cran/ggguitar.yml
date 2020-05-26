@@ -1,0 +1,9 @@
+version: 0.1.1
+title: Utilities for Creating Guitar Tablature
+maintainer: Casimir Saternos
+description: Utilities for Creating Guitar Tablature using tidyverse packages.
+date_publication: '2016-12-24'
+bug_reports: https://github.com/ezgraphs/ggguitar/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggguitar
+url_git: ''

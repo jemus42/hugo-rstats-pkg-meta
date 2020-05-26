@@ -1,0 +1,14 @@
+version: 1.4.0
+title: Simple, Consistent Wrappers for Common String Operations
+maintainer: Hadley Wickham
+description: |-
+  A consistent, simple and easy to use set of
+  wrappers around the fantastic 'stringi' package. All function and
+  argument names (and positions) are consistent, all functions deal with
+  "NA"'s and zero length vectors in the same way, and the output from
+  one function is easy to feed into the input of another.
+date_publication: '2019-02-10'
+bug_reports: https://github.com/tidyverse/stringr/issues
+url: http://stringr.tidyverse.org
+url_cran: https://CRAN.R-project.org/package=stringr
+url_git: https://github.com/tidyverse/stringr

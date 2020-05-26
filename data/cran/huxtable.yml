@@ -1,0 +1,15 @@
+version: 4.7.1
+title: Easily Create and Style Tables for LaTeX, HTML and Other Formats
+maintainer: David Hugh-Jones
+description: |-
+  Like 'xtable', creates styled tables. Export to HTML, LaTeX, 'Word',
+  'Excel', 'PowerPoint' and RTF. Simple, modern interface to manipulate
+  borders, size, position, captions, colours, text styles and number formatting.
+  Table cells can span multiple rows and/or columns.
+  Includes  a 'huxreg' function for creation of regression tables, and 'quick_*'
+  one-liners to print data to a new document.
+date_publication: '2020-01-08'
+bug_reports: https://github.com/hughjonesd/huxtable/issues
+url: https://hughjonesd.github.io/huxtable
+url_cran: https://CRAN.R-project.org/package=huxtable
+url_git: ''

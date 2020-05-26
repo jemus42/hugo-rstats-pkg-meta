@@ -1,0 +1,15 @@
+version: 0.6.3
+title: R-Values for Ranking in High-Dimensional Settings
+maintainer: Nicholas Henderson
+description: |-
+  A collection of functions for computing "r-values" from various
+  kinds of user input such as MCMC output or a list of effect size estimates
+  and associated standard errors. Given a large collection of measurement units,
+  the r-value, r, of a particular unit is a reported percentile that may be
+  interpreted as the smallest percentile at which the unit should be placed in the
+  top r-fraction of units.
+date_publication: '2018-05-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rvalues
+url_git: ''

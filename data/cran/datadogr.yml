@@ -1,0 +1,10 @@
+version: 0.1.2
+title: R Client for 'Datadog' API
+maintainer: Hiroaki Yutani
+description: Query for metrics from 'Datadog' (<https://www.datadoghq.com/>) via its
+  API.
+date_publication: '2018-05-17'
+bug_reports: https://github.com/yutannihilation/K9/issues
+url: https://yutannihilation.github.io/K9
+url_cran: https://CRAN.R-project.org/package=datadogr
+url_git: ''

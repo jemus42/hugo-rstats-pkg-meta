@@ -1,0 +1,12 @@
+version: 2.0.1
+title: Multi-Species sIZE Spectrum Modelling in R
+maintainer: Gustav Delius
+description: |-
+  A set of classes and methods to set up and run multi-species, trait
+  based and community size spectrum ecological models, focused on the marine
+  environment.
+date_publication: '2020-05-05'
+bug_reports: https://github.com/sizespectrum/mizer/issues
+url: https://sizespectrum.org/mizer
+url_cran: https://CRAN.R-project.org/package=mizer
+url_git: https://github.com/sizespectrum/mizer

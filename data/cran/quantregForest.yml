@@ -1,0 +1,14 @@
+version: 1.3-7
+title: Quantile Regression Forests
+maintainer: Loris Michel
+description: |-
+  Quantile Regression Forests is a tree-based ensemble
+  method for estimation of conditional quantiles. It is
+  particularly well suited for high-dimensional data. Predictor
+  variables of mixed classes can be handled. The package is
+  dependent on the package 'randomForest', written by Andy Liaw.
+date_publication: '2017-12-19'
+bug_reports: http://github.com/lorismichel/quantregForest/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=quantregForest
+url_git: http://github.com/lorismichel/quantregForest

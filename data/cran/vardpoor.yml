@@ -1,0 +1,23 @@
+version: 0.20.0
+title: |-
+  Variance Estimation for Sample Surveys by the Ultimate Cluster
+  Method
+maintainer: Juris Breidaks
+description: 'Generation of domain variables, linearization of several nonlinear population
+  statistics (the ratio of two totals, weighted income percentile, relative median
+  income ratio, at-risk-of-poverty rate, at-risk-of-poverty threshold, Gini coefficient,
+  gender pay gap, the aggregate replacement ratio, the relative median income ratio,
+  median income below at-risk-of-poverty gap, income quintile share ratio, relative
+  median at-risk-of-poverty gap), computation of regression residuals in case of weight
+  calibration, variance estimation of sample surveys by the ultimate cluster method
+  (Hansen, Hurwitz and Madow,Theory, vol. I: Methods and Applications; vol. II: Theory.
+  1953, New York: John Wiley and Sons), variance estimation for longitudinal, cross-sectional
+  measures and measures of change for single and multistage stage cluster sampling
+  designs (Berger, Y. G., 2015, <doi:10.1111/rssa.12116>). Several other precision
+  measures are derived - standard error, the coefficient of variation, the margin
+  of error, confidence interval, design effect.'
+date_publication: '2020-05-20'
+bug_reports: https://github.com/CSBLatvia/vardpoor/issues/
+url: https://csblatvia.github.io/vardpoor/
+url_cran: https://CRAN.R-project.org/package=vardpoor
+url_git: ''

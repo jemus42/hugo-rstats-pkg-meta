@@ -1,0 +1,15 @@
+version: '3.0'
+title: Extract Equations from a Nomogram
+maintainer: Zhicheng Du<dgdzc@hotmail.com>
+description: |2-
+
+  A nomogram can not be easily applied,
+  because it is difficult to calculate the points or even the survival probability.
+  The package, including a function of nomogramEx(),
+  is to extract the polynomial equations to calculate the points of each variable,
+  and the survival probability corresponding to the total points.
+date_publication: '2017-08-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nomogramEx
+url_git: ''

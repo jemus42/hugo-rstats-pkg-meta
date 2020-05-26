@@ -1,0 +1,16 @@
+version: 1.0.1
+title: R Interface to 'AutoKeras'
+maintainer: Juan Cruz Rodriguez
+description: |-
+  R Interface to 'AutoKeras' <https://autokeras.com/>.
+  'AutoKeras' is an open source software library for Automated Machine
+  Learning (AutoML). The ultimate goal of AutoML is to provide easily
+  accessible deep learning tools to domain experts with limited data science
+  or machine learning background. 'AutoKeras' provides functions to
+  automatically search for architecture and hyperparameters of deep
+  learning models.
+date_publication: '2020-02-20'
+bug_reports: https://github.com/r-tensorflow/autokeras/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=autokeras
+url_git: https://github.com/r-tensorflow/autokeras

@@ -1,0 +1,13 @@
+version: 0.0.21
+title: CCMN and Other Normalization Methods for Metabolomics Data
+maintainer: Henning Redestig
+description: |-
+  Implements the Cross-contribution Compensating Multiple
+  standard Normalization (CCMN) method described in Redestig et
+  al. (2009) Analytical Chemistry <doi:10.1021/ac901143w>
+  and other normalization algorithms.
+date_publication: '2020-02-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=crmn
+url_git: https://github.com/hredestig/crmn

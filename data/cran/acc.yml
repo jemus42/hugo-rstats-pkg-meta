@@ -1,0 +1,12 @@
+version: 1.3.3
+title: Exploring Accelerometer Data
+maintainer: Jaejoon Song
+description: |-
+  Processes accelerometer data from uni-axial and tri-axial devices,
+  and generates data summaries. Also includes functions to plot, analyze, and
+  simulate accelerometer data.
+date_publication: '2016-12-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=acc
+url_git: ''

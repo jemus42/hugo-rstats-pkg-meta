@@ -1,0 +1,10 @@
+version: 0.1.1
+title: Client for the News API
+maintainer: Buhl Yannik
+description: Interface to gather news from the 'News API', based on a multilevel query
+  <https://newsapi.org/>. A personal API key is required.
+date_publication: '2019-06-29'
+bug_reports: https://github.com/correlaid/newsanchor/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=newsanchor
+url_git: ''

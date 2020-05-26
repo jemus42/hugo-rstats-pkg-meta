@@ -1,0 +1,11 @@
+version: '0.4'
+title: Combine Output of Statistical Tests
+maintainer: Willem Sleegers
+description: |-
+  Produce a file containing the output of statistical tests
+  that can be shared or used to report statistics in scientific papers.
+date_publication: '2019-09-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tidystats
+url_git: ''

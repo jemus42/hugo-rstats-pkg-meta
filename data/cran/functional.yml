@@ -1,0 +1,9 @@
+version: '0.6'
+title: Curry, Compose, and other higher-order functions
+maintainer: Peter Danenberg
+description: Curry, Compose, and other higher-order functions
+date_publication: '2014-07-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=functional
+url_git: ''

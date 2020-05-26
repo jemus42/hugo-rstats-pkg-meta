@@ -1,0 +1,13 @@
+version: 1.0.1
+title: |-
+  Non-Convex Optimization and Statistical Inference for Sparse
+  Tensor Graphical Models
+maintainer: Xiang Lyu
+description: An optimal alternating optimization algorithm for estimation of precision
+  matrices of sparse tensor graphical models, and an efficient inference procedure
+  for support recovery of the precision matrices.
+date_publication: '2016-09-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Tlasso
+url_git: ''

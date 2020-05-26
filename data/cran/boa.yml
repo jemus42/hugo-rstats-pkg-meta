@@ -1,0 +1,12 @@
+version: 1.1.8-2
+title: Bayesian Output Analysis Program (BOA) for MCMC
+maintainer: Brian J. Smith
+description: |-
+  A menu-driven program and library of functions for carrying out
+  convergence diagnostics and statistical and graphical analysis of Markov
+  chain Monte Carlo sampling output.
+date_publication: '2016-06-23'
+bug_reports: ''
+url: http://www.jstatsoft.org/v21/i11
+url_cran: https://CRAN.R-project.org/package=boa
+url_git: ''

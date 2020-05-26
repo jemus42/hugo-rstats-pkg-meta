@@ -1,0 +1,11 @@
+version: 1.15.7
+title: Categorical Bayesian Network Inference
+maintainer: Nikolay Balov
+description: Structure learning and parameter estimation of discrete Bayesian networks
+  using likelihood-based criteria.  Exhaustive search for fixed node orders and stochastic
+  search of optimal orders via simulated annealing algorithm are implemented.
+date_publication: '2020-03-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=catnet
+url_git: ''

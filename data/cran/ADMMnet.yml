@@ -1,0 +1,15 @@
+version: '0.1'
+title: Regularized Model with Selecting the Number of Non-Zeros
+maintainer: Xiang Li
+description: Fit linear and cox models regularized with net (L1 and Laplacian), elastic-net
+  (L1 and L2) or lasso (L1) penalty, and their adaptive forms, such as adaptive lasso
+  and net adjusting for signs of linked coefficients. In addition, it treats the number
+  of non-zero coefficients as another tuning parameter and simultaneously selects
+  with the regularization parameter. The package uses one-step coordinate descent
+  algorithm and runs extremely fast by taking into account the sparsity structure
+  of coefficients.
+date_publication: '2015-12-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ADMMnet
+url_git: ''

@@ -1,0 +1,16 @@
+version: 0.1.2
+title: Integrated Text Mining Solution
+maintainer: Milan Bouchet-Valat
+description: |-
+  An integrated solution to perform
+  a series of text mining tasks such as importing and cleaning a corpus, and
+  analyses like terms and documents counts, lexical summary, terms
+  co-occurrences and documents similarity measures, graphs of terms,
+  correspondence analysis and hierarchical clustering. Corpora can be imported
+  from spreadsheet-like files, directories of raw text files,
+  as well as from 'Dow Jones Factiva', 'LexisNexis', 'Europresse' and 'Alceste' files.
+date_publication: '2019-06-17'
+bug_reports: https://github.com/nalimilan/R.TeMiS/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=R.temis
+url_git: https://github.com/nalimilan/R.TeMiS

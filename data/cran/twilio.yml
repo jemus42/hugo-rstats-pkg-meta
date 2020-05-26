@@ -1,0 +1,13 @@
+version: 0.1.0
+title: An Interface to the Twilio API for R
+maintainer: Sean Kross
+description: |-
+  The Twilio web service provides an API for computer programs
+  to interact with telephony. The included functions wrap the SMS and MMS
+  portions of Twilio's API, allowing users to send and receive text messages
+  from R. See <https://www.twilio.com/docs/> for more information.
+date_publication: '2017-03-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=twilio
+url_git: http://github.com/seankross/twilio

@@ -1,0 +1,11 @@
+version: 1.1.0
+title: Radiometric and Topographic Correction of Satellite Imagery
+maintainer: Sarah Goslee
+description: Processing of Landsat or other multispectral satellite imagery. Includes
+  relative normalization, image-based radiometric correction, and topographic correction
+  options.
+date_publication: '2019-12-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=landsat
+url_git: ''

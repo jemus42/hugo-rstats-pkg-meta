@@ -1,0 +1,12 @@
+version: 0.2.0
+title: Encrypt Html Reports Using 'Libsodium'
+maintainer: Dirk Schumacher
+description: |-
+  Create encrypted html files that are fully self contained and do
+  not require any additional software. Using the package you can encrypt
+  arbitrary html files and also directly create encrypted 'rmarkdown' html reports.
+date_publication: '2020-05-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=encryptedRmd
+url_git: ''

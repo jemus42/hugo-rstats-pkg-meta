@@ -1,0 +1,13 @@
+version: 0.2.22
+title: Biodiversity Data Visualizations
+maintainer: Vijay Barve
+description: |-
+  Provides a set of functions to create basic visualizations to quickly
+  preview different aspects of biodiversity information such as inventory
+  completeness, extent of coverage (taxonomic, temporal and geographic), gaps
+  and biases.
+date_publication: '2018-09-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bdvis
+url_git: ''

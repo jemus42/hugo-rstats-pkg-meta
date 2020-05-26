@@ -1,0 +1,15 @@
+version: 1.0.0
+title: Statistical Testing for AUC Data
+maintainer: Josh Gardner
+description: |-
+  Performs statistical testing to compare predictive
+  models based on multiple observations of the A' statistic (also known as
+  Area Under the Receiver Operating Characteristic Curve, or AUC).
+  Specifically, it implements a testing method based on the equivalence
+  between the A' statistic and the Wilcoxon statistic.
+  For more information, see Hanley and McNeil (1982) <doi:10.1148/radiology.143.1.7063747>.
+date_publication: '2017-11-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=auctestr
+url_git: ''

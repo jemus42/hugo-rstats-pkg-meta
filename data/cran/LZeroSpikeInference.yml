@@ -1,0 +1,10 @@
+version: 1.0.3
+title: Exact Spike Train Inference via L0 Optimization
+maintainer: Sean Jewell
+description: An implementation of algorithms described in Jewell and Witten (2017)
+  <arXiv:1703.08644>.
+date_publication: '2017-10-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LZeroSpikeInference
+url_git: ''

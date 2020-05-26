@@ -1,0 +1,11 @@
+version: 1.4.1
+title: Cross-Platform File System Operations Based on 'libuv'
+maintainer: Jim Hester
+description: |-
+  A cross-platform interface to file system operations, built on
+  top of the 'libuv' C library.
+date_publication: '2020-04-04'
+bug_reports: https://github.com/r-lib/fs/issues
+url: http://fs.r-lib.org
+url_cran: https://CRAN.R-project.org/package=fs
+url_git: https://github.com/r-lib/fs

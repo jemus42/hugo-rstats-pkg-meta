@@ -1,0 +1,11 @@
+version: '1.0'
+title: Projected Refinement for Imputation of Missing Entries in PCA
+maintainer: Ziwei Zhu
+description: Implements the primePCA algorithm, developed and analysed in Zhu, Z.,
+  Wang, T. and Samworth, R. J. (2019) High-dimensional principal component analysis
+  with heterogeneous missingness. <arXiv:1906.12125>.
+date_publication: '2019-07-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=primePCA
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.2.2
+title: Read Hierarchical Fixed Width Files
+maintainer: Derek Burk
+description: |-
+  Read hierarchical fixed width files like those commonly used by
+  many census data providers. Also allows for reading of data in chunks,
+  and reading 'gzipped' files without storing the full file in memory.
+date_publication: '2020-04-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hipread
+url_git: ''

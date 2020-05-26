@@ -1,0 +1,11 @@
+version: 2.0-1
+title: Softening Splits in Decision Trees
+maintainer: Jakub Dvorak
+description: |-
+  Allows to produce and use classification trees with soft (probability) splits,
+  as described in: Dvořák, J. (2019), <doi:10.1007/s00180-019-00867-1>.
+date_publication: '2020-03-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SplitSoftening
+url_git: ''

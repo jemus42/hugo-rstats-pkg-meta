@@ -1,0 +1,12 @@
+version: 0.1.2
+title: Textile Images
+maintainer: Anh Bui
+description: |-
+  Contains real images of the same textile material
+  with/without local defects, which were used in
+  Bui and Apley (2017) <doi:10.1080/00401706.2017.1302362>.
+date_publication: '2017-07-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=textile
+url_git: ''

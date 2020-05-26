@@ -1,0 +1,12 @@
+version: 1.4.1
+title: |-
+  Bayesian Estimation of Mixtures of Multivariate Bernoulli
+  Distributions
+maintainer: Panagiotis Papastamoulis
+description: Fully Bayesian inference for estimating the number of clusters and related
+  parameters to heterogeneous binary data.
+date_publication: '2017-07-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BayesBinMix
+url_git: ''

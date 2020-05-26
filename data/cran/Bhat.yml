@@ -1,0 +1,9 @@
+version: 0.9-10
+title: General likelihood exploration
+maintainer: Rafael Meza
+description: Functions for MLE, MCMC, CIs (originally in Fortran)
+date_publication: '2013-01-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Bhat
+url_git: ''

@@ -1,0 +1,10 @@
+version: '1.2'
+title: Optimal Allocation in Stratified Sampling
+maintainer: Jose Brito
+description: Integer Programming Formulations Applied to Univariate and Multivariate
+  Allocation Problems.
+date_publication: '2015-12-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MultAlloc
+url_git: ''

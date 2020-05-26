@@ -1,0 +1,9 @@
+version: 0.3-1
+title: I/O Tools for Streaming
+maintainer: Simon Urbanek
+description: Basic I/O tools for streaming and data parsing.
+date_publication: '2020-03-09'
+bug_reports: ''
+url: http://www.rforge.net/iotools
+url_cran: https://CRAN.R-project.org/package=iotools
+url_git: ''

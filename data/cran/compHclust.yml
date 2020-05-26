@@ -1,0 +1,10 @@
+version: 1.0-3
+title: Complementary Hierarchical Clustering
+maintainer: Gen Nowak
+description: Performs the complementary hierarchical clustering procedure and returns
+  X' (the expected residual matrix) and a vector of the relative gene importances.
+date_publication: '2017-05-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=compHclust
+url_git: ''

@@ -1,0 +1,11 @@
+version: '1.0'
+title: Social Autocorrelation
+maintainer: Tom Pike
+description: |-
+  A set of functions to quantify and visualise
+  social autocorrelation.
+date_publication: '2017-07-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=social
+url_git: ''

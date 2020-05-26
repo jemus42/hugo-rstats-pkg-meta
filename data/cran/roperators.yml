@@ -1,0 +1,14 @@
+version: 1.1.0
+title: Additional Operators to Help you Write Cleaner R Code
+maintainer: Ben Wiseman
+description: Provides string arithmetic, reassignment operators, logical operators
+  that handle missing values, and extra logical operators such as floating point equality
+  and all or nothing. The intent is to allow R users to write code that is easier
+  to read, write, and maintain while providing a friendlier experience to new R users
+  from other language backgrounds (such as 'Python') who are used to concepts such
+  as x += 1 and 'foo' + 'bar'.
+date_publication: '2018-09-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=roperators
+url_git: ''

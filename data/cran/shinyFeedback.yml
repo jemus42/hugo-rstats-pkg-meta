@@ -1,0 +1,9 @@
+version: 0.2.0
+title: Display User Feedback in Shiny Apps
+maintainer: Andy Merlino
+description: Easily display user feedback in Shiny apps.
+date_publication: '2020-04-29'
+bug_reports: https://github.com/merlinoa/shinyFeedback/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinyFeedback
+url_git: https://github.com/merlinoa/shinyFeedback

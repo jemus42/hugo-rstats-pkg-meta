@@ -1,0 +1,10 @@
+version: 0.9.2
+title: Logistic Regression with Missing Covariates
+maintainer: Wei Jiang
+description: Estimate parameters of logistic regression with missing data and perform
+  model selection, using algorithm Stochastic Approximation EM.
+date_publication: '2019-12-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=misaem
+url_git: https://github.com/wjiang94/misaem.git

@@ -1,0 +1,13 @@
+version: 1.2.4
+title: |-
+  Gene Set Enrichment Analysis via Integration of Metabolic
+  Networks and RNA-Seq Data
+maintainer: Van Du T. Tran
+description: Integrates metabolic networks and RNA-seq data to construct condition-specific
+  series of metabolic sub-networks and applies to gene set enrichment analysis (Tran
+  et al. (2018) <doi:10.1093/bioinformatics/bty929>).
+date_publication: '2020-05-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=metaboGSE
+url_git: ''

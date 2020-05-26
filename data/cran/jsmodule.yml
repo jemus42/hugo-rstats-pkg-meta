@@ -1,0 +1,10 @@
+version: 1.0.7
+title: '''RStudio'' Addins and ''Shiny'' Modules for Medical Research'
+maintainer: Jinseob Kim
+description: '''RStudio'' addins and ''Shiny'' modules for descriptive statistics,
+  regression and survival analysis.'
+date_publication: '2020-04-29'
+bug_reports: https://github.com/jinseob2kim/jsmodule/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=jsmodule
+url_git: https://github.com/jinseob2kim/jsmodule

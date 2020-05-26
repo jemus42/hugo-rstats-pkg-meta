@@ -1,0 +1,15 @@
+version: '1.5'
+title: |-
+  Logistic Regression with Misclassification in Dependent
+  Variables
+maintainer: Zhiyong Zhang
+description: Error in a binary dependent variable, also known as misclassification,
+  has not drawn much attention in psychology. Ignoring misclassification in logistic
+  regression can result in misleading parameter estimates and statistical inference.
+  This package conducts logistic regression analysis with misspecification in outcome
+  variables.
+date_publication: '2017-05-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=logistic4p
+url_git: ''

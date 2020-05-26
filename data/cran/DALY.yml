@@ -1,0 +1,14 @@
+version: 1.5.0
+title: |-
+  The DALY Calculator - Graphical User Interface for Probabilistic
+  DALY Calculation in R
+maintainer: Brecht Devleesschauwer
+description: |-
+  The DALY Calculator is a free, open-source Graphical User
+  Interface (GUI) for stochastic disability-adjusted life year
+  (DALY) calculation.
+date_publication: '2016-11-26'
+bug_reports: https://github.com/brechtdv/DALY/issues
+url: http://daly.cbra.be
+url_cran: https://CRAN.R-project.org/package=DALY
+url_git: ''

@@ -1,0 +1,9 @@
+version: 0.95.4
+title: Estimation in Respondent Driven Samples
+maintainer: Jonathan Rosenblatt
+description: Maximum likelihood estimation in respondent driven samples.
+date_publication: '2017-01-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=chords
+url_git: ''

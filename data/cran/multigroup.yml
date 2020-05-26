@@ -1,0 +1,12 @@
+version: 0.4.5
+title: Multigroup Data Analysis
+maintainer: Aida Eslami
+description: |-
+  Multivariate analysis methods including principal component analysis,
+  partial least square regression, and multiblock analysis to describe,
+  summarize, and visualize data with a group structure.
+date_publication: '2020-02-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=multigroup
+url_git: ''

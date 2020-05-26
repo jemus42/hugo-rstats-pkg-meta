@@ -1,0 +1,10 @@
+version: 1.0.7.1
+title: simexaft
+maintainer: Juan Xiong
+description: Implement of the Simulation-Extrapolation (SIMEX) algorithm for the accelerated
+  failure time (AFT) with covariates subject to measurement error.
+date_publication: '2019-01-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=simexaft
+url_git: ''

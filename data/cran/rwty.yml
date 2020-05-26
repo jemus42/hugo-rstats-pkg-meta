@@ -1,0 +1,13 @@
+version: 1.0.2
+title: R We There Yet? Visualizing MCMC Convergence in Phylogenetics
+maintainer: Dan Warren
+description: |-
+  Implements various tests, visualizations, and metrics
+  for diagnosing convergence of MCMC chains in phylogenetics.  It implements
+  and automates many of the functions of the AWTY package in the R
+  environment.
+date_publication: '2019-02-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rwty
+url_git: ''

@@ -1,0 +1,15 @@
+version: '1.0'
+title: |-
+  Infine-dimensional model (IDM) to analyse phenotypic variation
+  in growth trajectories.
+maintainer: Anna Kuparinen
+description: |-
+  This package contains functions to perform calculations of
+  the infine-dimensional model (IDM) and to produce 95%
+  confidence intervals around the model elements through
+  bootstrapping.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=InfDim
+url_git: ''

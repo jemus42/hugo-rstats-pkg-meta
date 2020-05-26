@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Easily Install and Load the 'Tidymodels' Packages
+maintainer: Max Kuhn
+description: |-
+  The tidy modeling "verse" is a collection of packages for
+  modeling and statistical analysis that share the underlying design
+  philosophy, grammar, and data structures of the tidyverse.
+date_publication: '2020-02-16'
+bug_reports: https://github.com/tidymodels/tidymodels/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tidymodels
+url_git: https://github.com/tidymodels/tidymodels

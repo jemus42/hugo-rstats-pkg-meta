@@ -1,0 +1,16 @@
+version: '1.0'
+title: |-
+  Product Density Estimation for ICA using tilted Gaussian density
+  estimates
+maintainer: Trevor Hastie
+description: |-
+  A direct and flexible method for estimating an ICA model.
+  This approach estimates the densities for each component
+  directly via a tilted gaussian. The tilt functions are
+  estimated via a GAM poisson model. Details can be found in
+  "Elements of Statistical Learning (2nd Edition)" Section 14.7.4
+date_publication: '2010-05-01'
+bug_reports: ''
+url: http://www-stat.stanford.edu/~hastie/Papers/ESLII.pdf
+url_cran: https://CRAN.R-project.org/package=ProDenICA
+url_git: ''

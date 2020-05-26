@@ -1,0 +1,12 @@
+version: 0.4.1
+title: Handle 'JSON-stat' Format in R
+maintainer: Aaron Schumacher
+description: |-
+  Handle 'JSON-stat' format (<https://json-stat.org>) in R.
+  Not all features are supported, especially the extensive metadata
+  features of 'JSON-stat'.
+date_publication: '2020-03-22'
+bug_reports: https://github.com/ajschumacher/rjstat/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rjstat
+url_git: https://github.com/ajschumacher/rjstat

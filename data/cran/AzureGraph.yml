@@ -1,0 +1,14 @@
+version: 1.1.1
+title: Simple Interface to 'Microsoft Graph'
+maintainer: Hong Ooi
+description: 'A simple interface to the ''Microsoft Graph'' API <https://docs.microsoft.com/en-us/graph/overview>.
+  ''Graph'' is a comprehensive framework for accessing data in various online Microsoft
+  services. Currently, this package aims to provide an R interface only to the ''Azure
+  Active Directory'' part, with a view to supporting interoperability of R and ''Azure'':
+  users, groups, registered apps and service principals. However it can be easily
+  extended to cover other services. Part of the ''AzureR'' family of packages.'
+date_publication: '2020-05-25'
+bug_reports: https://github.com/Azure/AzureGraph/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=AzureGraph
+url_git: https://github.com/Azure/AzureGraphhttps://github.com/Azure/AzureR

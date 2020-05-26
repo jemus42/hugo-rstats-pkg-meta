@@ -1,0 +1,15 @@
+version: 1.4.6
+title: Gene Set Analysis Exploiting Pathway Topology
+maintainer: Gabriele Sales
+description: |-
+  Using Gaussian graphical models we propose a novel approach to
+  perform pathway analysis using gene expression. Given the
+  structure of a graph (a pathway) we introduce two statistical
+  tests to compare the mean and the concentration matrices between
+  two groups. Specifically, these tests can be performed on the
+  graph and on its connected components (cliques).
+date_publication: '2016-09-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=topologyGSA
+url_git: ''

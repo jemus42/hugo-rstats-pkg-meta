@@ -1,0 +1,10 @@
+version: 1.3.3
+title: Structural Model for variances
+maintainer: Guillemette Marot
+description: Implements the structural model for variances in order to<U+000a>detect
+  differentially expressed genes from gene expression data
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SMVar
+url_git: ''

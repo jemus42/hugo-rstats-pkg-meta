@@ -1,0 +1,14 @@
+version: 0.1.2
+title: |-
+  Filter Methods for Parameter Estimation in Linear Regression
+  Models
+maintainer: Christian Llano Robayo
+description: 'We present a method based on filtering algorithms to estimate the parameters
+  of linear regressions, i.e. the coefficients and the variance of the error term.
+  The proposed algorithms make use of Particle Filters following Ristic, B., Arulampalam,
+  S., Gordon, N. (2004, ISBN: 158053631X) resampling methods.'
+date_publication: '2018-08-14'
+bug_reports: https://github.com/ChrissCod/LMfilteR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=LMfilteR
+url_git: ''

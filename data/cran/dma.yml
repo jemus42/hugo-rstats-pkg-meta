@@ -1,0 +1,11 @@
+version: 1.4-0
+title: Dynamic Model Averaging
+maintainer: Hana Sevcikova
+description: |-
+  Dynamic model averaging for binary and continuous
+  outcomes.
+date_publication: '2018-10-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dma
+url_git: ''

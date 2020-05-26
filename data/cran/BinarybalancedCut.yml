@@ -1,0 +1,11 @@
+version: '0.2'
+title: Threshold Cut Point of Probability for a Binary Classifier Model
+maintainer: Navinkumar Nedunchezhian
+description: Allows to view the optimal probability cut-off point at which the Sensitivity
+  and Specificity meets and its a best way to minimize both Type-1 and Type-2 error
+  for a binary Classifier in determining the Probability threshold.
+date_publication: '2017-09-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BinarybalancedCut
+url_git: ''

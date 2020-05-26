@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Brownian Motion Processes for 'nlme'-Models
+maintainer: Oliver Stirrup
+description: |-
+  Allows Brownian motion, fractional Brownian motion,
+  and integrated Ornstein-Uhlenbeck process components to
+  be added to linear and non-linear mixed effects models
+  using the structures and methods of the 'nlme' package.
+date_publication: '2015-10-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=covBM
+url_git: ''

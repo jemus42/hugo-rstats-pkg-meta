@@ -1,0 +1,10 @@
+version: '2.2'
+title: Kendall rank correlation and Mann-Kendall trend test
+maintainer: A.I. McLeod
+description: Computes the Kendall rank correlation and Mann-Kendall<U+000a>trend test.
+  See documentation for use of block bootstrap when<U+000a>there is autocorrelation.
+date_publication: '2011-05-18'
+bug_reports: ''
+url: http://www.stats.uwo.ca/faculty/aim
+url_cran: https://CRAN.R-project.org/package=Kendall
+url_git: ''

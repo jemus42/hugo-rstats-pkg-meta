@@ -1,0 +1,13 @@
+version: '1.4'
+title: |-
+  Surrogate variable analysis using partial least squares in a
+  gene expression study.
+maintainer: Sutirtha Chakraborty
+description: Accurate identification of genes that are truly differentially expressed
+  over two sample varieties, after adjusting for hidden subject-specific effects of
+  residual heterogeneity.
+date_publication: '2013-09-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=svapls
+url_git: ''

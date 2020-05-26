@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Zero Coupon Yield Curve Modelling
+maintainer: Oleksandr Castello
+description: |-
+  Modeling the zero coupon yield curve using the dynamic De Rezende and
+  Ferreira (2011) <doi:10.1002/for.1256> five factor model with variable
+  or fixed decaying parameters. For explanatory purposes, the package also
+  includes various short datasets of interest rates for the BRICS countries.
+date_publication: '2019-04-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DeRezende.Ferreira
+url_git: ''

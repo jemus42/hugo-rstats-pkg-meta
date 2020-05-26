@@ -1,0 +1,15 @@
+version: '3042.82'
+title: Rmetrics - Modelling Extreme Events in Finance
+maintainer: Tobias Setz
+description: |-
+  Provides functions for analysing
+  and modelling extreme events in financial time Series. The
+  topics include: (i) data pre-processing, (ii) explorative
+  data analysis, (iii) peak over threshold modelling, (iv) block
+  maxima modelling, (v) estimation of VaR and CVaR, and (vi) the
+  computation of the extreme index.
+date_publication: '2017-11-17'
+bug_reports: ''
+url: http://www.rmetrics.org
+url_cran: https://CRAN.R-project.org/package=fExtremes
+url_git: ''

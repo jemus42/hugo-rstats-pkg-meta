@@ -1,0 +1,16 @@
+version: 1.0.2
+title: Loading Criteo Data into R
+maintainer: Johannes Burkhardt
+description: |-
+  Aims at loading Criteo online advertising campaign data into R.
+  Criteo <http://www.criteo.com/> is an online advertising service that enables
+  advertisers to display commercial ads to web users. The package provides
+  an authentication process for R with the Criteo API <http://kb.criteo.com/
+  advertising/content/5/27/en/api.html>. Moreover, the package features an
+  interface to query campaign data from the Criteo API. The data can be downloaded
+  and will be transformed into a R data frame.
+date_publication: '2016-07-07'
+bug_reports: https://github.com/jburkhardt/RCriteo/issues
+url: http://jburkhardt.github.io/RCriteo/
+url_cran: https://CRAN.R-project.org/package=RCriteo
+url_git: ''

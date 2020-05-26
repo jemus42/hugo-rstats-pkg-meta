@@ -1,0 +1,13 @@
+version: 0.1-4
+title: Spatial Accessibility Measures
+maintainer: Stamatis Kalogirou
+description: |-
+  Provides a set of spatial accessibility measures from a set of locations
+  (demand) to another set of locations (supply). It aims, among others,
+  to support research on spatial accessibility to health care facilities.
+  Includes the locations and some characteristics of major public hospitals in Greece.
+date_publication: '2020-04-06'
+bug_reports: ''
+url: http://lctools.science/
+url_cran: https://CRAN.R-project.org/package=SpatialAcc
+url_git: ''

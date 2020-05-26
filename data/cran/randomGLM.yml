@@ -1,0 +1,11 @@
+version: 1.02-1
+title: Random General Linear Model Prediction
+maintainer: Peter Langfelder
+description: |-
+  The package implements a bagging predictor based on
+  general linear models
+date_publication: '2013-01-30'
+bug_reports: ''
+url: http://www.genetics.ucla.edu/labs/horvath/CoexpressionNetwork/
+url_cran: https://CRAN.R-project.org/package=randomGLM
+url_git: ''

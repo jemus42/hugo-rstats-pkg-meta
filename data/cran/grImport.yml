@@ -1,0 +1,11 @@
+version: 0.9-3
+title: Importing Vector Graphics
+maintainer: Paul Murrell
+description: |-
+  Functions for converting, importing, and drawing PostScript
+  pictures in R plots.
+date_publication: '2019-11-27'
+bug_reports: ''
+url: http://www.jstatsoft.org/v30/i04
+url_cran: https://CRAN.R-project.org/package=grImport
+url_git: https://r-forge.r-project.org/projects/grimport/

@@ -1,0 +1,10 @@
+version: '1.8'
+title: Functions for the Analysis of IBD Haplo Output
+maintainer: Fiona Grimson
+description: Functions to analyze, plot, and store the output of running IBD_Haplo
+  software package. More information regarding IBD_Haplo can be found at http://www.stat.washington.edu/thompson/Genepi/pangaea.shtml.
+date_publication: '2015-02-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IBDhaploRtools
+url_git: ''

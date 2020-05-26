@@ -1,0 +1,11 @@
+version: 1.4-0
+title: TAP-Compliant Unit Testing
+maintainer: Jamie Lentin
+description: |2-
+
+  Concise TAP <http://testanything.org/> compliant unit testing package. Authored tests can be run using CMD check with minimal implementation overhead.
+date_publication: '2019-11-21'
+bug_reports: https://github.com/ravingmantis/unittest/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=unittest
+url_git: ''

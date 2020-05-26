@@ -1,0 +1,14 @@
+version: '2.0'
+title: Generalized Quantitative Genetics Data Analyses
+maintainer: Jixiang Wu
+description: 'Two linear mixed model approaches: REML(restricted maximum likelihood)
+  and MINQUE (minimum norm quadratic unbiased estimation) approaches and several resampling
+  techniques are integrated for various quantitative genetics analyses. With these
+  two types of approaches, various unbalanced data structures, missing data, and any
+  irregular genetic  mating designs can be analyzed and statistically tested. This
+  package also offers fast computations for many large data sets.'
+date_publication: '2019-12-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=qgtools
+url_git: ''

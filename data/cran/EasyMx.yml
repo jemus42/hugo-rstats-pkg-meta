@@ -1,0 +1,11 @@
+version: 0.2-12
+title: Easy Model-Builder Functions for 'OpenMx'
+maintainer: Michael D. Hunter
+description: |-
+  Utilities for building certain kinds of common matrices and models in
+  the extended structural equation modeling package, 'OpenMx'.
+date_publication: '2020-01-30'
+bug_reports: https://bitbucket.org/mhunter/easymx/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=EasyMx
+url_git: https://bitbucket.org/mhunter/easymx

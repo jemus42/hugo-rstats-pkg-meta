@@ -1,0 +1,9 @@
+version: 0.5.1
+title: g-and-k and g-and-h Distribution Functions
+maintainer: Dennis Prangle
+description: Functions for the g-and-k and generalised g-and-h distributions.
+date_publication: '2018-02-04'
+bug_reports: https://github.com/dennisprangle/gk/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gk
+url_git: https://github.com/dennisprangle/gk

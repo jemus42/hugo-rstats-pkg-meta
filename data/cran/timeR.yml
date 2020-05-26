@@ -1,0 +1,11 @@
+version: 1.1.0
+title: Time Your Codes
+maintainer: Yifu Yan
+description: Provides a 'timeR' class that makes timing codes easier. One can create
+  'timeR' objects and use them to record all timings, and extract recordings as data
+  frame for later use.
+date_publication: '2019-06-12'
+bug_reports: https://github.com/yusuzech/timeR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=timeR
+url_git: https://github.com/yusuzech/timeR

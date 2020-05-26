@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Learn and Experiment with Music Theory
+maintainer: Efstathios D. Gennatas
+description: An aid for learning and using music theory. You can build chords, scales,
+  and chord progressions using 12-note equal temperament tuning (12-ET) or user-defined
+  tuning. Includes functions to visualize notes on a piano using ASCII plots in the
+  console and to plot waveforms using base graphics. It allows simple playback of
+  notes and chords using the 'audio' package.
+date_publication: '2019-04-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=music
+url_git: https://github.com/egenn/music

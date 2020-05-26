@@ -1,0 +1,10 @@
+version: 0.0.6
+title: Visualizing Social Science Data with 'ggplot2'
+maintainer: Frederik Tiedemann
+description: A 'ggplot2' extension for implementing parliament charts and several
+  other useful visualizations.
+date_publication: '2020-03-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggpol
+url_git: https://github.com/erocoar/ggpol

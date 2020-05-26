@@ -1,0 +1,12 @@
+version: '1.1'
+title: Tools for Working with JavaScript in R
+maintainer: Jeroen Ooms
+description: |-
+  A set of utilities for working with JavaScript syntax in R.
+  Includes tools to parse, tokenize, compile, validate, reformat, optimize
+  and analyze JavaScript code.
+date_publication: '2017-07-28'
+bug_reports: https://github.com/jeroen/js/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=js
+url_git: https://github.com/jeroen/js

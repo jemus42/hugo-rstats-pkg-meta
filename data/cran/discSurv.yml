@@ -1,0 +1,12 @@
+version: 1.4.1
+title: Discrete Time Survival Analysis
+maintainer: Thomas Welchowski
+description: |-
+  Provides data transformations, estimation utilities,
+  predictive evaluation measures and simulation functions for discrete time
+  survival analysis.
+date_publication: '2019-12-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=discSurv
+url_git: ''

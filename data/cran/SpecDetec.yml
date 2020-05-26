@@ -1,0 +1,10 @@
+version: 1.0.0
+title: Change Points Detection with Spectral Clustering
+maintainer: Luis Uzai
+description: Calculate change point based on spectral clustering with the option to
+  automatically calculate the number of clusters if this information is not available.
+date_publication: '2018-10-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SpecDetec
+url_git: ''

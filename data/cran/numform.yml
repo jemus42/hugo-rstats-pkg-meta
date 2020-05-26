@@ -1,0 +1,14 @@
+version: 0.6.0
+title: Tools to Format Numbers for Publication
+maintainer: Tyler Rinker
+description: |-
+  Format numbers and plots for publication; includes the removal of leading zeros,
+  standardization of number of digits, addition of affixes, and a p-value formatter. These
+  tools combine the functionality of several 'base' functions such as 'paste()',
+  'format()', and 'sprintf()' into specific use case functions that are named in a way
+  that is consistent with usage, making their names easy to remember and easy to deploy.
+date_publication: '2020-04-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=numform
+url_git: ''

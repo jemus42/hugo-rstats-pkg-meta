@@ -1,0 +1,17 @@
+version: 0.1-0
+title: |-
+  Fitting a Quadrilateral Dissimilarity Model to Same-Different
+  Judgments
+maintainer: Nora Umbach
+description: |-
+  This package provides different specifications of a Quadrilateral
+  Dissimilarity Model which can be used to fit same-different judgments
+  in order to get a predicted matrix that satisfies regular minimality
+  [Colonius & Dzhafarov, 2006, Measurement and representations of
+  sensations, Erlbaum]. From such a matrix, Fechnerian distances can be
+  computed.
+date_publication: '2014-10-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=qdm
+url_git: ''

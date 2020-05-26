@@ -1,0 +1,12 @@
+version: 1.1.1
+title: '''DrugBank'' Database XML Parser'
+maintainer: Mohammed Ali
+description: |-
+  This tool is for parsing the 'DrugBank' XML database <http://drugbank.ca/>. The parsed
+  data are then returned in a proper 'R' dataframe with the ability to save
+  them in a given database.
+date_publication: '2020-05-10'
+bug_reports: https://github.com/ropensci/dbparser/issues
+url: https://docs.ropensci.org/dbparser
+url_cran: https://CRAN.R-project.org/package=dbparser
+url_git: https://github.com/ropensci/dbparser

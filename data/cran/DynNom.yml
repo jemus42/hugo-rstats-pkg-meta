@@ -1,0 +1,15 @@
+version: 5.0.1
+title: Visualising Statistical Models using Dynamic Nomograms
+maintainer: Amirhossein Jalali
+description: 'Demonstrate the results of a statistical model object as a dynamic nomogram
+  in an RStudio panel or web browser. The package provides two generics functions:
+  DynNom, which display statistical model objects as a dynamic nomogram; DNbuilder,
+  which builds required scripts to publish a dynamic nomogram on a web server such
+  as the <https://www.shinyapps.io/>. Current version of ''DynNom'' supports stats::lm,
+  stats::glm, survival::coxph, rms::ols, rms::Glm, rms::lrm, rms::cph, mgcv::gam and
+  gam::gam model objects.'
+date_publication: '2019-06-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DynNom
+url_git: ''

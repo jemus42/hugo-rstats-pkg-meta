@@ -1,0 +1,11 @@
+version: 2.1.0
+title: Tools for Electromyogram Signals (EMG) Analysis
+maintainer: Antonio Guerrero
+description: Data processing tools to compute the rectified, integrated and the averaged
+  EMG. Routines for automatic detection of activation phases. A routine to compute
+  and plot the ensemble average of the EMG. An EMG signal simulator for general purposes.
+date_publication: '2018-02-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=biosignalEMG
+url_git: ''

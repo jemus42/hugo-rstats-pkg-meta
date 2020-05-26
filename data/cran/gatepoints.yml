@@ -1,0 +1,11 @@
+version: 0.1.3
+title: Easily Gate or Select Points on a Scatter Plot
+maintainer: Wajid Jawaid
+description: |-
+  Allows user to choose/gate a region on the plot and returns points
+  within it.
+date_publication: '2017-03-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gatepoints
+url_git: https://github.com/wjawaid/gatepoints

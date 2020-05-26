@@ -1,0 +1,9 @@
+version: 0.4.17
+title: Quantitative Financial Modelling Framework
+maintainer: Joshua M. Ulrich
+description: Specify, build, trade, and analyse quantitative financial trading strategies.
+date_publication: '2020-03-31'
+bug_reports: https://github.com/joshuaulrich/quantmod/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=quantmod
+url_git: http://www.quantmod.comhttps://github.com/joshuaulrich/quantmod

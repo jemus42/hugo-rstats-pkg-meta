@@ -1,0 +1,12 @@
+version: '2.0'
+title: Function estimation via Unbalanced Haar wavelets
+maintainer: Piotr Fryzlewicz
+description: |-
+  The package implements top-down and bottom-up algorithms
+  for nonparametric function estimation in Gaussian noise using
+  Unbalanced Haar wavelets.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=unbalhaar
+url_git: ''

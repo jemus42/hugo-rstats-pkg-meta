@@ -1,0 +1,10 @@
+version: 0.2.2
+title: Elevation and GPS Data Visualisation
+maintainer: Neil Charles
+description: Simpler processing of digital elevation model and GPS trace data for
+  use with the 'rayshader' package.
+date_publication: '2020-01-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=geoviz
+url_git: https://github.com/neilcharles/geoviz/

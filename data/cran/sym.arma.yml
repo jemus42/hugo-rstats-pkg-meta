@@ -1,0 +1,12 @@
+version: '1.0'
+title: Autoregressive and Moving Average Symmetric Models
+maintainer: Vinicius Quintas Souto Maior
+description: 'Functions for fitting the Autoregressive and Moving Average Symmetric
+  Model for univariate time series introduced by Maior and Cysneiros (2018), <doi:10.1007/s00362-016-0753-z>.
+  Fitting method: conditional maximum likelihood estimation. For details see: Wei
+  (2006), Time Series Analysis: Univariate and Multivariate Methods, Section 7.2.'
+date_publication: '2018-09-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sym.arma
+url_git: ''

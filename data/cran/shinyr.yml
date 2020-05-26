@@ -1,0 +1,12 @@
+version: 0.2.6
+title: Data Insights Through Inbuilt R Shiny App
+maintainer: Jayachandra N
+description: It builds dynamic R shiny based dashboards to analyze any CSV files.
+  It provides simple dashboard design to subset the data, perform exploratory data
+  analysis and preliminary machine learning (supervised and unsupervised). It also
+  provides filters based on columns of interest.
+date_publication: '2020-03-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinyr
+url_git: ''

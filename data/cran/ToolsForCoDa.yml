@@ -1,0 +1,14 @@
+version: 1.0.2
+title: Multivariate Tools for Compositional Data Analysis
+maintainer: Jan Graffelman
+description: Provides functions for multivariate analysis with compositional data.
+  Includes a function for doing compositional canonical correlation analysis. This
+  analysis requires two data matrices of compositions, which can be adequately transformed
+  and used as entries in a specialized program for canonical correlation analysis,
+  that is able to deal with singular covariance matrices. The methodology is described
+  in Graffelman et al. (2017) <doi:10.1101/144584>.
+date_publication: '2017-11-13'
+bug_reports: ''
+url: http://www-eio.upc.edu/~jan
+url_cran: https://CRAN.R-project.org/package=ToolsForCoDa
+url_git: ''

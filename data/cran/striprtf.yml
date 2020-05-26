@@ -1,0 +1,9 @@
+version: 0.5.2
+title: Extract Text from RTF File
+maintainer: Kota Mori
+description: Extracts plain text from RTF (Rich Text Format) file.
+date_publication: '2019-01-03'
+bug_reports: https://github.com/kota7/striprtf/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=striprtf
+url_git: https://github.com/kota7/striprtf

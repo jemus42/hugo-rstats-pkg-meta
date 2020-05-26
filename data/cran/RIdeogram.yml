@@ -1,0 +1,14 @@
+version: 0.2.2
+title: |-
+  Drawing SVG Graphics to Visualize and Map Genome-Wide Data on
+  Idiograms
+maintainer: Zhaodong Hao
+description: For whole-genome analysis, idiograms are virtually the most intuitive
+  and effective way to map and visualize the genome-wide information. RIdeogram was
+  developed to visualize and map whole-genome data on idiograms with no restriction
+  of species.
+date_publication: '2020-01-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RIdeogram
+url_git: ''

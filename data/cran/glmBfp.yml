@@ -1,0 +1,14 @@
+version: 0.0-51
+title: Bayesian Fractional Polynomials for GLMs
+maintainer: Isaac Gravestock
+description: |-
+  Implements the Bayesian paradigm
+  for fractional polynomials in generalized linear
+  models, described by Held, Gravestock, Sabanes Bove (2015) <doi:10.1214/14-STS510>.
+  See package 'bfp' for the treatment of normal
+  models.
+date_publication: '2017-08-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=glmBfp
+url_git: ''

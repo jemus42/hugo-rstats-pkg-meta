@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Bayesian Purity Model to Estimate Tumor Purity
+maintainer: Jianzhao Gao and Xiaodan Fan
+description: |-
+  Bayesian purity model to estimate tumor purity using methylation
+  array data (DNA methylation Infinium 450K array data) without reference samples.
+date_publication: '2018-11-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BPM
+url_git: ''

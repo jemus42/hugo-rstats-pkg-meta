@@ -1,0 +1,11 @@
+version: 1.1.0
+title: A Package to Calculate and Visualize Dominance Hierarchies
+maintainer: Knut Krueger
+description: |-
+  Functions to calculate ADI (Average Dominance Index) and FDI (Frequency-Based Dominance Index). Functions to visualize the Data with Social Network Graphs with Dual
+  Directions and Music Notation Graph.
+date_publication: '2018-03-13'
+bug_reports: ''
+url: NA
+url_cran: https://CRAN.R-project.org/package=Dominance
+url_git: ''

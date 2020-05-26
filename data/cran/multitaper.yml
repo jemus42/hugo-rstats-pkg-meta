@@ -1,0 +1,13 @@
+version: 1.0-14
+title: Spectral Analysis Tools using the Multitaper Method
+maintainer: Karim Rahim
+description: Implements multitaper spectral analysis using discrete prolate spheroidal
+  sequences (Slepians) and sine tapers. It includes an adaptive weighted multitaper
+  spectral estimate, a coherence estimate, Thomson's Harmonic F-test, and complex
+  demodulation. The Slepians sequences are generated efficiently using a tridiagonal
+  matrix solution, and jackknifed confidence intervals are available for most estimates.
+date_publication: '2017-10-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=multitaper
+url_git: https://github.com/krahim/multitaper/

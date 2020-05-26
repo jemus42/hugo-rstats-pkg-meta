@@ -1,0 +1,12 @@
+version: 1.5-3
+title: Generation of Regular Factorial Designs
+maintainer: Hervé Monod
+description: 'Automatic generation of regular factorial designs, including fractional
+  designs, orthogonal block designs, row-column designs and split-plots. See: Kobilinsky,
+  Monod and Bailey (2017) Computational Statistics and Data Analysis 113, 311-329,
+  <doi:10.1016/j.csda.2016.09.003>.'
+date_publication: '2020-03-18'
+bug_reports: ''
+url: http://genome.jouy.inra.fr/logiciels/planor
+url_cran: https://CRAN.R-project.org/package=planor
+url_git: ''

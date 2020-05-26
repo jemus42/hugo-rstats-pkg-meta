@@ -1,0 +1,12 @@
+version: '1.1'
+title: Convex Hierarchical Testing of Interactions
+maintainer: Jacob Bien
+description: |-
+  Implementation of the convex hierarchical testing (CHT) procedure
+  introduced in Bien, Simon, and Tibshirani (2015) Convex Hierarchical Testing
+  of Interactions. Annals of Applied Statistics. Vol. 9, No. 1, 27-42.
+date_publication: '2015-05-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hiertest
+url_git: ''

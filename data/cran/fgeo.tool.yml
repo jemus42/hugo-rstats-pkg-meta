@@ -1,0 +1,14 @@
+version: 1.2.6
+title: Import and Manipulate ForestGEO Data
+maintainer: Mauro Lepore
+description: |-
+  To help you access, transform, analyze, and
+  visualize ForestGEO data, we developed a collection of R packages
+  (<https://forestgeo.github.io/fgeo/>). This package, in particular,
+  helps you to easily import, filter, and modify ForestGEO data. To
+  learn more about ForestGEO visit <http://www.forestgeo.si.edu/>.
+date_publication: '2020-03-23'
+bug_reports: https://github.com/forestgeo/fgeo.tool/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=fgeo.tool
+url_git: https://github.com/forestgeo/fgeo.tool

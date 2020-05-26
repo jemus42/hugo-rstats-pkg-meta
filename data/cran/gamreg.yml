@@ -1,0 +1,9 @@
+version: '0.3'
+title: Robust and Sparse Regression via Gamma-Divergence
+maintainer: Takayuki Kawashima
+description: Robust regression via gamma-divergence with L1, elastic net and ridge.
+date_publication: '2017-11-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gamreg
+url_git: ''

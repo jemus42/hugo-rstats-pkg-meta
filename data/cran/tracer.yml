@@ -1,0 +1,9 @@
+version: 1.0.0
+title: Slick Call Stacks
+maintainer: Gabor Csardi
+description: Better looking call stacks after an error.
+date_publication: '2017-01-28'
+bug_reports: https://github.com/mangothecat/tracer/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tracer
+url_git: https://github.com/mangothecat/tracer#readme

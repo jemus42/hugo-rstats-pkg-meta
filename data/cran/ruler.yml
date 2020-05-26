@@ -1,0 +1,13 @@
+version: 0.2.3
+title: Tidy Data Validation Reports
+maintainer: Evgeni Chasnovski
+description: |-
+  Tools for creating data validation pipelines and
+  tidy reports. This package offers a framework for exploring and
+  validating data frame like objects using 'dplyr' grammar of data
+  manipulation.
+date_publication: '2020-05-09'
+bug_reports: https://github.com/echasnovski/ruler/issues
+url: https://echasnovski.github.io/ruler/
+url_cran: https://CRAN.R-project.org/package=ruler
+url_git: https://github.com/echasnovski/ruler

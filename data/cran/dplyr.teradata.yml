@@ -1,0 +1,12 @@
+version: 0.3.2
+title: A 'Teradata' Backend for 'dplyr'
+maintainer: Koji Makiyama
+description: |-
+  A 'Teradata' backend for 'dplyr'. It makes it possible to operate
+  'Teradata' database <https://www.teradata.com/products-and-services/teradata-database/>
+  in the same way as manipulating data frames with 'dplyr'.
+date_publication: '2019-05-10'
+bug_reports: https://github.com/hoxo-m/dplyr.teradata/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dplyr.teradata
+url_git: https://github.com/hoxo-m/dplyr.teradata

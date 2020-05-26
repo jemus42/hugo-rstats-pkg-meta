@@ -1,0 +1,12 @@
+version: 1.2.0
+title: AIRR Data Representation Reference Library
+maintainer: Jason Vander Heiden
+description: |-
+  Schema definitions and read, write and validation tools for data
+  formatted in accordance with the AIRR Data Representation schemas defined
+  by the AIRR Community <http://docs.airr-community.org>.
+date_publication: '2018-08-17'
+bug_reports: https://github.com/airr-community/airr-standards/issues
+url: http://docs.airr-community.org
+url_cran: https://CRAN.R-project.org/package=airr
+url_git: ''

@@ -1,0 +1,11 @@
+version: 1.0-1
+title: Inequality and Concentration Indices and Curves
+maintainer: Didier Plat
+description: |-
+  Lorenz and concentration curves; Atkinson, Generalized
+  entropy and SGini indices (with decomposition)
+date_publication: '2012-08-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IC2
+url_git: ''

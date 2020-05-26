@@ -1,0 +1,10 @@
+version: '0.2'
+title: Spatio-Temporal Median Polish
+maintainer: William Martínez
+description: Analyses spatio-temporal data, decomposing data in n-dimensional arrays
+  and using the median polish technique.
+date_publication: '2017-03-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=STMedianPolish
+url_git: https://github.com/WilliamAMartinez/STMedianPolish

@@ -1,0 +1,15 @@
+version: 1.7.3
+title: Vectorised Tools for URL Handling and Parsing
+maintainer: Os Keyes
+description: |-
+  A toolkit for all URL-handling needs, including encoding and decoding,
+  parsing, parameter extraction and modification. All functions are
+  designed to be both fast and entirely vectorised. It is intended to be
+  useful for people dealing with web-related datasets, such as server-side
+  logs, although may be useful for other situations involving large sets of
+  URLs.
+date_publication: '2019-04-14'
+bug_reports: https://github.com/Ironholds/urltools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=urltools
+url_git: https://github.com/Ironholds/urltools/

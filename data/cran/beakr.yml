@@ -1,0 +1,13 @@
+version: 0.3.1
+title: A Minimalist Web Framework for R
+maintainer: Jonathan Callahan
+description: |-
+  A minimalist web framework for developing application programming
+  interfaces in R that provides a flexible framework for handling common
+  HTTP-requests, errors, logging, and an ability to integrate any R code as
+  server middle-ware.
+date_publication: '2020-02-10'
+bug_reports: https://github.com/MazamaScience/beakr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=beakr
+url_git: https://github.com/MazamaScience/beakr

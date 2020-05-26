@@ -1,0 +1,11 @@
+version: 1.1.2
+title: Computes Revisitation Metrics for Trajectory Data
+maintainer: Chloe Bracis
+description: Computes revisitation metrics for trajectory data, such as the number
+  of revisitations for each location as well as the time spent for that visit and
+  the time since the previous visit. Also includes functions to plot data.
+date_publication: '2019-12-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=recurse
+url_git: ''

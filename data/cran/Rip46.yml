@@ -1,0 +1,11 @@
+version: 1.0.2
+title: Utils for IP4 and IP6 Addresses
+maintainer: Neal Fultz
+description: |-
+  Utility functions and S3 classes for IPv4 and IPv6 addresses, including
+  conversion to and from binary representation.
+date_publication: '2015-09-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rip46
+url_git: https://github.com/nfultz/Rip46

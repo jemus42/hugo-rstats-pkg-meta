@@ -1,0 +1,11 @@
+version: 0.1.0
+title: '''Dat'' Protocol Interface'
+maintainer: Chris Hartgerink
+description: Interface with the 'Dat' p2p network protocol <https://datproject.org>.
+  Clone archives from the network, share your own files, and install packages from
+  the network.
+date_publication: '2018-03-26'
+bug_reports: https://github.com/libscie/datr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=datr
+url_git: https://github.com/libscie/datr

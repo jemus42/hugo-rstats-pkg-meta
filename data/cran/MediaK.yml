@@ -1,0 +1,10 @@
+version: '1.0'
+title: Calculate MeDiA_K Distance
+maintainer: Zizhuo Ren<zizhuoren@gmail.com>
+description: Calculates MeDiA_K (means Mean Distance Association by K-nearest neighbor)
+  in order to detect nonlinear associations.
+date_publication: '2015-12-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MediaK
+url_git: ''

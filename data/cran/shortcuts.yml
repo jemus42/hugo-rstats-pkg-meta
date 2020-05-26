@@ -1,0 +1,10 @@
+version: 1.4.0
+title: Useful Shortcuts to Interact with 'RStudio' Scripts
+maintainer: José Carlos Del Valle
+description: Integrates clipboard copied data in R Studio, loads and installs libraries
+  within a R script and returns all valid arguments of a selected function.
+date_publication: '2019-12-17'
+bug_reports: https://github.com/jcval94/shortcuts/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=shortcuts
+url_git: https://github.com/jcval94/shortcuts

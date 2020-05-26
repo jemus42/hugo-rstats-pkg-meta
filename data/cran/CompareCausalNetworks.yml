@@ -1,0 +1,21 @@
+version: 0.2.6.2
+title: Interface to Diverse Estimation Methods of Causal Networks
+maintainer: Christina Heinze-Deml
+description: |-
+  Unified interface for the estimation of causal networks, including
+  the methods 'backShift' (from package 'backShift'), 'bivariateANM' (bivariate
+  additive noise model), 'bivariateCAM' (bivariate causal additive model),
+  'CAM' (causal additive model) (from package 'CAM'; the package is
+  temporarily unavailable on the CRAN repository; formerly available versions
+  can be obtained from the archive), 'hiddenICP' (invariant
+  causal prediction with hidden variables), 'ICP' (invariant causal prediction)
+  (from package 'InvariantCausalPrediction'), 'GES' (greedy equivalence
+  search), 'GIES' (greedy interventional equivalence search), 'LINGAM', 'PC' (PC
+  Algorithm), 'FCI' (fast causal inference),
+  'RFCI' (really fast causal inference) (all from package 'pcalg') and
+  regression.
+date_publication: '2020-02-17'
+bug_reports: https://github.com/christinaheinze/CompareCausalNetworks/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=CompareCausalNetworks
+url_git: https://github.com/christinaheinze/CompareCausalNetworks

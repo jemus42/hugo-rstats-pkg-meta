@@ -1,0 +1,14 @@
+version: 1.7.1
+title: Compute, Handle, Plot and Model Incidence of Dated Events
+maintainer: Zhian N. Kamvar
+description: Provides functions and classes to compute, handle and visualise incidence
+  from dated events for a defined time interval. Dates can be provided in various
+  standard formats. The class 'incidence' is used to store computed incidence and
+  can be easily manipulated, subsetted, and plotted. In addition, log-linear models
+  can be fitted to 'incidence' objects using 'fit'. This package is part of the RECON
+  (<http://www.repidemicsconsortium.org/>) toolkit for outbreak analysis.
+date_publication: '2020-03-25'
+bug_reports: http://github.com/reconhub/incidence/issues
+url: http://www.repidemicsconsortium.org/incidence/
+url_cran: https://CRAN.R-project.org/package=incidence
+url_git: ''

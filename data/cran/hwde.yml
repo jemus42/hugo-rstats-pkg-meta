@@ -1,0 +1,16 @@
+version: '0.67'
+title: |-
+  Models and Tests for Departure from Hardy-Weinberg Equilibrium
+  and Independence Between Loci
+maintainer: John Maindonald
+description: |-
+  Fits models for genotypic disequilibria, as described in
+  Huttley and Wilson (2000), Weir (1996) and Weir and Wilson (1986).
+  Contrast terms are available that account for first order interactions
+  between loci.  Also implements, for a single locus in a single
+  population, a conditional exact test for Hardy-Weinberg equilibrium.
+date_publication: '2016-01-01'
+bug_reports: ''
+url: http://maths-people.anu.edu.au/~johnm
+url_cran: https://CRAN.R-project.org/package=hwde
+url_git: ''

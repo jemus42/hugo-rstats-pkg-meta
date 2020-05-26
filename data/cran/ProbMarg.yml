@@ -1,0 +1,15 @@
+version: 1.0.0
+title: |-
+  Computing Logit & Probit Predicted Probabilities & Marginal
+  Effects
+maintainer: Tim Liao
+description: |-
+  Computes predicted probabilities and marginal effects for
+  binary & ordinal logit and probit, (partial) generalized ordinal &
+  multinomial logit models estimated with the glm(), clm() (in the
+  'ordinal' package), and vglm() (in the 'VGAM' package) functions.
+date_publication: '2020-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ProbMarg
+url_git: ''

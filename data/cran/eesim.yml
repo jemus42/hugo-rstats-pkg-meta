@@ -1,0 +1,17 @@
+version: 0.1.0
+title: Simulate and Evaluate Time Series for Environmental Epidemiology
+maintainer: Brooke Anderson
+description: |-
+  Provides functions to create simulated time series of environmental
+  exposures (e.g., temperature, air pollution) and health outcomes for use in
+  power analysis and simulation studies in environmental epidemiology. This
+  package also provides functions to evaluate the results of simulation studies
+  based on these simulated time series. This work was supported by a grant
+  from the National Institute of Environmental Health Sciences (R00ES022631) and
+  a fellowship from the Colorado State University Programs for Research and
+  Scholarly Excellence.
+date_publication: '2017-06-03'
+bug_reports: http://github.com/sakoehler7/eesim/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=eesim
+url_git: http://github.com/sakoehler7/eesim

@@ -1,0 +1,15 @@
+version: 0.2.4
+title: A Tidy Approach to 'NetCDF' Data Exploration and Extraction
+maintainer: Michael Sumner
+description: |-
+  Tidy tools for 'NetCDF' data sources. Explore the contents of a
+  'NetCDF' source (file or URL) presented as variables organized by grid with a
+  database-like interface. The hyper_filter() interactive function translates the
+  filter value or index expressions to array-slicing form. No data is read until
+  explicitly requested, as a data frame or list of arrays via hyper_tibble() or
+  hyper_array().
+date_publication: '2020-05-12'
+bug_reports: https://github.com/ropensci/tidync/issues
+url: https://docs.ropensci.org/tidync/
+url_cran: https://CRAN.R-project.org/package=tidync
+url_git: ''

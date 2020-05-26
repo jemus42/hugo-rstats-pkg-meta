@@ -1,0 +1,13 @@
+version: 0.1.10
+title: Green Finance and Environmental Risk
+maintainer: Yuanchao Xu
+description: |-
+  Focuses on data collecting, analyzing and visualization in green finance and environmental
+  risk research and analysis. Main function includes environmental data collecting from
+  official websites such as MEP (Ministry of Environmental Protection of China, <http://www.mep.gov.cn>), water
+  related projects identification and environmental data visualization.
+date_publication: '2018-03-11'
+bug_reports: https://github.com/Yuanchao-Xu/gfer/issues
+url: https://yuanchao-xu.github.io/gfer/
+url_cran: https://CRAN.R-project.org/package=gfer
+url_git: ''

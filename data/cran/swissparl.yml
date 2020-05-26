@@ -1,0 +1,11 @@
+version: 0.2.1
+title: Interface to the Webservices of the Swiss Parliament
+maintainer: David Zumbach
+description: |-
+  Retrieves the most important data on parliamentary activities of the Swiss Federal Assembly via
+  an open, machine-readable interface (see <https://ws.parlament.ch/odata.svc/>).
+date_publication: '2020-04-14'
+bug_reports: https://github.com/zumbov2/swissparl/issues
+url: https://www.parlament.ch/en/services/open-data-webservices
+url_cran: https://CRAN.R-project.org/package=swissparl
+url_git: ''

@@ -1,0 +1,11 @@
+version: '0.53'
+title: Numerical Weather Predictions
+maintainer: Oscar Perpinan Lamigueiro
+description: Access to several Numerical Weather Prediction services both in raster
+  format and as a time series for a location. Currently it works with GFS, MeteoGalicia,
+  NAM, and RAP.
+date_publication: '2018-11-20'
+bug_reports: https://github.com/oscarperpinan/meteoForecast/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=meteoForecast
+url_git: http://github.com/oscarperpinan/meteoForecast

@@ -1,0 +1,12 @@
+version: 1.6.4
+title: Visualisation of hexagonal Kohonen maps
+maintainer: Andreas Dominik
+description: |-
+  The package provides the plot function som.plot() to
+  create high quality visualisations of hexagonal Kohonen maps
+  (self-organising maps).
+date_publication: '2013-07-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=somplot
+url_git: ''

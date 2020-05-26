@@ -1,0 +1,15 @@
+version: 1.0.0
+title: |-
+  Simulate Rehabilitation Strategies for Water Distribution
+  Systems
+maintainer: Christian Foerster
+description: The outcome of various rehabilitation strategies for water distribution
+  systems can be modeled with the Water Management Simulator (WaMaSim). Pipe breaks
+  and the corresponding damage and rehabilitation costs are simulated. It is mainly
+  intended to be used as educational tool for the Water Infrastructure Experimental
+  and Computer Laboratory at ETH Zurich, Switzerland.
+date_publication: '2019-05-03'
+bug_reports: https://github.com/scheidan/WaMaSim/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=WaMaSim
+url_git: https://github.com/scheidan/WaMaSim

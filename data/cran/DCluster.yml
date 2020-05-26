@@ -1,0 +1,12 @@
+version: 0.2-7
+title: Functions for the Detection of Spatial Clusters of Diseases
+maintainer: Virgilio Gómez-Rubio
+description: |-
+  A set of functions for the detection of spatial clusters
+  of disease using count data. Bootstrap is used to estimate
+  sampling distributions of statistics.
+date_publication: '2015-03-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DCluster
+url_git: ''

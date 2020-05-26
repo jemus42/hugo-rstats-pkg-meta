@@ -1,0 +1,14 @@
+version: '0.4'
+title: Analyzing Ecological Networks
+maintainer: Vincent Miele
+description: A collection of advanced tools, methods and models specifically  designed  for  analyzing
+  different  types  of  ecological  networks - especially  antagonistic  (food  webs,  host-parasite),  mutualistic
+  (plant-pollinator, plant-fungus, etc)  and competitive networks, as well as their
+  variability in time and space. Statistical models are developed to describe and
+  understand the mechanisms that determine species interactions, and to decipher the
+  organization of these (multi-layer) ecological networks.
+date_publication: '2020-04-06'
+bug_reports: ''
+url: https://plmlab.math.cnrs.fr/econetproject/econetwork
+url_cran: https://CRAN.R-project.org/package=econetwork
+url_git: ''

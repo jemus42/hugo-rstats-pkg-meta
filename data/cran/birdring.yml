@@ -1,0 +1,10 @@
+version: '1.4'
+title: Methods to Analyse Ring Re-Encounter Data
+maintainer: Fraenzi Korner-Nievergelt
+description: R functions to read EURING data and analyse re-encounter data of birds
+  marked by metal rings. For a tutorial, go to <http://www.tandfonline.com/doi/full/10.1080/03078698.2014.933053>.
+date_publication: '2019-08-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=birdring
+url_git: ''

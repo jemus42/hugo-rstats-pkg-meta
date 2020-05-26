@@ -1,0 +1,11 @@
+version: 2017.12-03
+title: Maximum Diversity Weighting
+maintainer: Zonglin He
+description: Dimension-reduction methods aim at defining a score that maximizes signal
+  diversity. Two approaches, namely maximum entropy weights and maximum variance weights,
+  are provided.
+date_publication: '2017-12-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mdw
+url_git: ''

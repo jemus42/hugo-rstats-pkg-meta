@@ -1,0 +1,12 @@
+version: 0.2.1
+title: Conducting and Visualizing Specification Curve Analyses
+maintainer: Philipp K. Masur
+description: 'Provides utilities for conducting specification curve analyses (Simonsohn,
+  Simmons & Nelson (2015, <doi: 10.2139/ssrn.2694998>) or multiverse analyses (Steegen,
+  Tuerlinckx, Gelman & Vanpaemel, 2016, <doi: 10.1177/1745691616658637>) including
+  functions to setup, run, evaluate, and plot all specifications.'
+date_publication: '2020-03-26'
+bug_reports: https://github.com/masurp/specr/issues
+url: https://masurp.github.io/specr/
+url_cran: https://CRAN.R-project.org/package=specr
+url_git: https://github.com/masurp/specr

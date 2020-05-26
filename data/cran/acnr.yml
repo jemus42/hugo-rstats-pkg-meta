@@ -1,0 +1,13 @@
+version: 1.0.0
+title: Annotated Copy-Number Regions
+maintainer: Morgane Pierre-Jean
+description: |-
+  Provides SNP array data from different types of
+  copy-number regions. These regions were identified manually by the authors
+  of the package and may be used to generate realistic data sets with known
+  truth.
+date_publication: '2017-04-18'
+bug_reports: https://github.com/mpierrejean/acnr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=acnr
+url_git: https://github.com/mpierrejean/acnr

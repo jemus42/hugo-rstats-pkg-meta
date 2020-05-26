@@ -1,0 +1,14 @@
+version: 2019-12.16
+title: A Replacement and Extension of the 'optim' Function
+maintainer: John C Nash
+description: |-
+  Provides a test of replacement and extension of the optim()
+  function to unify and streamline optimization capabilities in R
+  for smooth, possibly box constrained functions of several or
+  many parameters. This version has a reduced set of methods and is
+  intended to be on CRAN.
+date_publication: '2019-12-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=optimr
+url_git: ''

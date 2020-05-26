@@ -1,0 +1,17 @@
+version: 0.15.0
+title: |-
+  A Method to Download Department of Education College Scorecard
+  Data
+maintainer: Benjamin Skinner
+description: |-
+  A method to download Department of Education College
+  Scorecard data using the public API
+  <https://collegescorecard.ed.gov/data/documentation/>. It is based on
+  the 'dplyr' model of piped commands to select and filter data in a
+  single chained function call.  An API key from the U.S. Department of
+  Education is required.
+date_publication: '2020-04-09'
+bug_reports: https://github.com/btskinner/rscorecard/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rscorecard
+url_git: https://github.com/btskinner/rscorecard

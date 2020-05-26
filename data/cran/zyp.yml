@@ -1,0 +1,11 @@
+version: 0.10-1.1
+title: Zhang + Yue-Pilon Trends Package
+maintainer: David Bronaugh
+description: Contains an efficient implementation of Sen's slope method (Sen, 1968)
+  plus implementation of Xuebin Zhang's (Zhang, 1999) and Yue-Pilon's (Yue, 2002)
+  prewhitening approaches to determining trends in climate data.
+date_publication: '2019-01-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=zyp
+url_git: ''

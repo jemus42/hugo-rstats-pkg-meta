@@ -1,0 +1,12 @@
+version: 2.6.5
+title: Kernel Density Estimation using Lifetime Distributions
+maintainer: Javaria Ahmad Khan
+description: |-
+  A collection of asymmetrical kernels belong to lifetime distributions for kernel density estimation is presented.
+  Mean Squared Errors (MSE) are calculated for estimated curves. For this purpose, R functions allow the distribution to be Gamma, Exponential or Weibull.
+  For details see Chen (2000), Jin and Kawczak (2003) and Salha et al. (2014) <doi:10.12988/pms.2014.4616>.
+date_publication: '2019-12-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DELTD
+url_git: ''

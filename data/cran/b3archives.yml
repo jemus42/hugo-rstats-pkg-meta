@@ -1,0 +1,10 @@
+version: 1.0.0
+title: Read Public Files from B3
+maintainer: Menegotto Joao
+description: Reads public files released by B3 - Brazil Stock Exchange and Over-the-Counter
+  Market - <http://www.b3.com.br/en_us/market-data-and-indices/data-services/market-data/historical-data/newsletters/search-by-trading-session/search-by-trading-session/>.
+date_publication: '2020-03-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=b3archives
+url_git: ''

@@ -1,0 +1,17 @@
+version: 0.0.1
+title: |-
+  Create, Read, Write, and Work with 'iCalander' Files, Calendars
+  and Scheduling Data
+maintainer: Robin Lovelace
+description: |-
+  Provides function to create, read, write, and work with 'iCalander' files
+  (which typically have '.ics' or '.ical' extensions), and the scheduling data,
+  calendars and timelines of people, organisations and other entities that they represent.
+  'iCalendar' is an open standard for
+  exchanging calendar and scheduling information between users and computers,
+  described at <https://icalendar.org/>.
+date_publication: '2019-02-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=calendar
+url_git: ''

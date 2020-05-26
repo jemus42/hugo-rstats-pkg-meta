@@ -1,0 +1,13 @@
+version: 0.1.4
+title: Interface to the Bird-Watching Dataset Proyecto AVIS
+maintainer: Sara Varela
+description: |-
+  Interface to <http://proyectoavis.com> database.
+  It provides means to download data filtered by species, order,
+  family, and several other criteria. Provides also basic functionality to
+  plot exploratory maps of the datasets.
+date_publication: '2015-06-22'
+bug_reports: https://github.com/ropensci/rAvis/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rAvis
+url_git: https://github.com/ropensci/rAvis

@@ -1,0 +1,14 @@
+version: 1.0.2
+title: Generalized Score Matching Estimators
+maintainer: Shiqing Yu
+description: Implementation of the Generalized Score Matching estimator in Yu et al.
+  (2019) <http://jmlr.org/papers/v20/18-278.html> for non-negative graphical models
+  (truncated Gaussian, exponential square-root, gamma, a-b models) and univariate
+  truncated Gaussian distributions. Also includes the original estimator for untruncated
+  Gaussian graphical models from Lin et al. (2016) <doi:10.1214/16-EJS1126>, with
+  the addition of a diagonal multiplier.
+date_publication: '2020-04-27'
+bug_reports: https://github.com/sqyu/genscore/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=genscore
+url_git: https://github.com/sqyu/genscore

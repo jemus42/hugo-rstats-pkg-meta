@@ -1,0 +1,9 @@
+version: 1.0-6
+title: Toolkit Implementation of gWidgets2 for tcltk
+maintainer: John Verzani
+description: Port of the 'gWidgets2' API for the 'tcltk' package.
+date_publication: '2018-09-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gWidgets2tcltk
+url_git: https://github.com/jverzani/gWidgets2tcltk

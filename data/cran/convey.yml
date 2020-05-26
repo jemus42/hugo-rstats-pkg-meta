@@ -1,0 +1,12 @@
+version: 0.2.2
+title: Income Concentration Analysis with Complex Survey Samples
+maintainer: Djalma Pessoa
+description: |-
+  Variance estimation on indicators of income concentration and
+  poverty using complex sample survey designs. Wrapper around the
+  'survey' package.
+date_publication: '2020-05-22'
+bug_reports: https://github.com/djalmapessoa/convey/issues
+url: https://guilhermejacob.github.io/context/
+url_cran: https://CRAN.R-project.org/package=convey
+url_git: ''

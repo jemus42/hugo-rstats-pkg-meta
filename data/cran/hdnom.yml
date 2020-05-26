@@ -1,0 +1,12 @@
+version: 6.0.0
+title: Benchmarking and Visualization Toolkit for Penalized Cox Models
+maintainer: Nan Xiao
+description: |-
+  Creates nomogram visualizations for penalized Cox regression
+  models, with the support of reproducible survival model building,
+  validation, calibration, and comparison for high-dimensional data.
+date_publication: '2019-06-23'
+bug_reports: https://github.com/nanxstats/hdnom/issues
+url: https://nanx.me/hdnom/
+url_cran: https://CRAN.R-project.org/package=hdnom
+url_git: https://github.com/nanxstats/hdnom

@@ -1,0 +1,14 @@
+version: 1.1.1.6
+title: Interface to 'Dygraphs' Interactive Time Series Charting Library
+maintainer: Petr Shevtsov
+description: |-
+  An R interface to the 'dygraphs' JavaScript charting library
+  (a copy of which is included in the package). Provides rich facilities
+  for charting time-series data in R, including highly configurable
+  series- and axis-display and interactive features like zoom/pan and
+  series/point highlighting.
+date_publication: '2018-07-11'
+bug_reports: https://github.com/rstudio/dygraphs/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dygraphs
+url_git: https://github.com/rstudio/dygraphs

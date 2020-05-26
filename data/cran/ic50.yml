@@ -1,0 +1,14 @@
+version: 1.4.2
+title: |-
+  Standardized high-throughput evaluation of cell-based compound
+  screens
+maintainer: Peter Frommolt
+description: |-
+  Calculation of IC50 values, automatic drawing of
+  dose-response curves and validation of compound screens on 96-
+  and 384-well plates.
+date_publication: '2010-02-16'
+bug_reports: ''
+url: http://portal.ccg.uni-koeln.de/
+url_cran: https://CRAN.R-project.org/package=ic50
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.0.1
+title: Fused Lasso for High-Dimensional Regression over Groups
+maintainer: Frank Dondelinger
+description: |-
+  Enables high-dimensional penalized regression across heterogeneous
+  subgroups. Fusion penalties are used to share information about the linear
+  parameters across subgroups. The underlying model is described
+  in detail in Dondelinger and Mukherjee (2017) <arXiv:1611.00953>.
+date_publication: '2018-06-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fuser
+url_git: ''

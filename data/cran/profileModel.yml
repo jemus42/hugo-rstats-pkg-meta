@@ -1,0 +1,12 @@
+version: 0.6.0
+title: Profiling Inference Functions for Various Model Classes
+maintainer: Ioannis Kosmidis
+description: Provides tools that can be used to calculate, evaluate, plot and use
+  for inference the profiles of *arbitrary* inference functions for *arbitrary* 'glm'-like
+  fitted models with linear predictors. More information on the methods that are implemented
+  can be found in Kosmidis (2008) <https://www.r-project.org/doc/Rnews/Rnews_2008-2.pdf>.
+date_publication: '2019-04-03'
+bug_reports: https://github.com/ikosmidis/profileModel/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=profileModel
+url_git: https://github.com/ikosmidis/profileModel

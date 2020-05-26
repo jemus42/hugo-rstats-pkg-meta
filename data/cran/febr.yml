@@ -1,0 +1,12 @@
+version: 1.1.0
+title: Free Brazilian Repository for Open Soil Data
+maintainer: Alessandro Samuel-Rosa
+description: |2-
+
+  Making the access to the Free Brazilian Repository for Open Soil Data <http://www.ufsm.br/febr/> as easy
+  as possible.
+date_publication: '2020-03-17'
+bug_reports: https://github.com/febr-team/febr-package/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=febr
+url_git: https://github.com/febr-team/febr-package/

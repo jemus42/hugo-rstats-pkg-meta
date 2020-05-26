@@ -1,0 +1,11 @@
+version: 1.2-2.2
+title: Higher Order Inference for Nonlinear Heteroscedastic Models
+maintainer: Alessandra R. Brazzale
+description: |-
+  Likelihood inference based on higher order approximations
+  for nonlinear models with possibly non constant variance.
+date_publication: '2019-01-30'
+bug_reports: ''
+url: http://statwww.epfl.ch/AA/
+url_cran: https://CRAN.R-project.org/package=nlreg
+url_git: ''

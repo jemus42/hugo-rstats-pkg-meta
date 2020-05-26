@@ -1,0 +1,12 @@
+version: '0.9'
+title: Cluster-based factor rotation
+maintainer: Michio Yamamoto
+description: |-
+  This package conducts factor rotation techniques which
+  intentd to identify a simple and well-clustered structure in a
+  factor loading matrix.
+date_publication: '2012-07-20'
+bug_reports: ''
+url: http://michioyamamoto.com
+url_cran: https://CRAN.R-project.org/package=obliclus
+url_git: ''

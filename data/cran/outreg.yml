@@ -1,0 +1,11 @@
+version: 0.2.2
+title: Regression Table for Publication
+maintainer: Kota Mori
+description: |-
+  Create regression tables for publication.
+  Currently supports 'lm', 'glm', 'survreg', and 'ivreg' outputs.
+date_publication: '2017-03-14'
+bug_reports: https://github.com/kota7/outreg/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=outreg
+url_git: https://github.com/kota7/outreg

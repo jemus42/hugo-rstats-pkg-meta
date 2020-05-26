@@ -1,0 +1,10 @@
+version: 0.1.1
+title: R Wrapper for the Energy Information Administration (EIA) API
+maintainer: Matthew Brigida
+description: An R wrapper to allow the user to query categories and Series IDs, and
+  import data, from the EIA's API <https://www.eia.gov/opendata/>.
+date_publication: '2020-05-12'
+bug_reports: https://github.com/Matt-Brigida/EIAdata/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=EIAdata
+url_git: https://github.com/Matt-Brigida/EIAdata

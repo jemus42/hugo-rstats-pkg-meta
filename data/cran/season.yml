@@ -1,0 +1,13 @@
+version: 0.3.11
+title: Seasonal Analysis of Health Data
+maintainer: Adrian Barnett
+description: |-
+  Routines for the seasonal analysis of health data,
+  including regression models, time-stratified case-crossover,
+  plotting functions and residual checks, see Barnett and Dobson (2010) ISBN 978-3-642-10748-1. Thanks to Yuming Guo
+  for checking the case-crossover code.
+date_publication: '2020-05-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=season
+url_git: ''

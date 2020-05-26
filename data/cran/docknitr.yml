@@ -1,0 +1,11 @@
+version: 1.0.1
+title: Use Docker Images to Process Rmarkdown Blocks
+maintainer: Ben Artin
+description: |-
+  Gives you the ability to use arbitrary Docker images
+  (including custom ones) to process Rmarkdown code chunks.
+date_publication: '2020-01-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=docknitr
+url_git: ''

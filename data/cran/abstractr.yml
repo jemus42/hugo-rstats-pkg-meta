@@ -1,0 +1,10 @@
+version: 0.1.0
+title: An R-Shiny Application for Creating Visual Abstracts
+maintainer: Matthew Kumar
+description: An R-Shiny application to create visual abstracts for original research.
+  A variety of user defined options and formatting are included.
+date_publication: '2019-01-20'
+bug_reports: ''
+url: https://matt-kumar.shinyapps.io/portfolio
+url_cran: https://CRAN.R-project.org/package=abstractr
+url_git: ''

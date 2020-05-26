@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Basic Infix Binary Operators
+maintainer: Ernest Benedito
+description: Contains a number of infix binary operators that may be useful in day
+  to day practices.
+date_publication: '2018-12-25'
+bug_reports: http://github.com/ebeneditos/infix/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=infix
+url_git: http://github.com/ebeneditos/infix

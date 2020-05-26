@@ -1,0 +1,9 @@
+version: 0.1-6
+title: Smoothing Splines on the Sphere
+maintainer: Xianhong Xie
+description: R package for computing the spherical smoothing splines
+date_publication: '2013-11-05'
+bug_reports: ''
+url: http://www.stat.wisc.edu/~xie
+url_cran: https://CRAN.R-project.org/package=sspline
+url_git: ''

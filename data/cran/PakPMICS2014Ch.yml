@@ -1,0 +1,12 @@
+version: 0.1.0
+title: |-
+  Multiple Indicator Cluster Survey (MICS) 2014 Child
+  Questionnaire Data for Punjab, Pakistan
+maintainer: Muhammad Yaseen
+description: Provides data set and functions for exploration of Multiple Indicator
+  Cluster Survey (MICS) 2014 Child questionnaire data for Punjab, Pakistan (<http://www.mics.unicef.org/surveys>).
+date_publication: '2017-09-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PakPMICS2014Ch
+url_git: https://github.com/MYaseen208/PakPMICS2014Ch

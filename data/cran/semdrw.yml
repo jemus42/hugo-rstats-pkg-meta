@@ -1,0 +1,11 @@
+version: 0.1.0
+title: '''SEM Shiny'''
+maintainer: Kartikeya Bolar
+description: Interactive 'shiny' application for working with Structural Equation
+  Modelling technique. Runtime examples are provided in the package function as well
+  as at  <https://kartikeyab.shinyapps.io/semwebappk/> .
+date_publication: '2018-11-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=semdrw
+url_git: ''

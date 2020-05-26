@@ -1,0 +1,11 @@
+version: 0.10.1
+title: Dynamic Extensions for Network Objects
+maintainer: Skye Bender-deMoll
+description: Simple interface routines to facilitate the handling of network objects
+  with complex intertemporal data. This is a part of the "statnet" suite of packages
+  for network analysis.
+date_publication: '2020-01-21'
+bug_reports: ''
+url: http://statnet.org
+url_cran: https://CRAN.R-project.org/package=networkDynamic
+url_git: ''

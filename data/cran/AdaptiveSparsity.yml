@@ -1,0 +1,15 @@
+version: '1.6'
+title: Adaptive Sparsity Models
+maintainer: Kris Campbell
+description: Implements Figueiredo EM algorithm for adaptive sparsity (Jeffreys prior)
+  (see Figueiredo, M.A.T.; , "Adaptive sparseness for supervised learning," Pattern
+  Analysis and Machine Intelligence, IEEE Transactions on , vol.25, no.9, pp. 1150-
+  1159, Sept. 2003) and Wong algorithm for adaptively sparse gaussian geometric models
+  (see Wong, Eleanor, Suyash Awate, and P. Thomas Fletcher. "Adaptive Sparsity in
+  Gaussian Graphical Models." In Proceedings of the 30th International Conference
+  on Machine Learning (ICML-13), pp. 311-319. 2013.)
+date_publication: '2018-08-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AdaptiveSparsity
+url_git: ''

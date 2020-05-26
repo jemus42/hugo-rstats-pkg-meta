@@ -1,0 +1,9 @@
+version: 2.1.0
+title: R Interface to 'FOAAS'
+maintainer: Dirk Eddelbuettel
+description: R access to the 'FOAAS' (F... Off As A Service) web service is provided.
+date_publication: '2020-01-09'
+bug_reports: https://github.com/eddelbuettel/rfoaas/issues
+url: http://dirk.eddelbuettel.com/code/rfoaas.html
+url_cran: https://CRAN.R-project.org/package=rfoaas
+url_git: ''

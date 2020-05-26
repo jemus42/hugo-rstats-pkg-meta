@@ -1,0 +1,10 @@
+version: 0.1.3-4
+title: Estimation in Dirichlet-Multinomial distribution.
+maintainer: Torben Tvedebrink
+description: Estimate parameters in Dirichlet-Multinomial and compute<U+000a>profile
+  log-likelihoods.
+date_publication: '2013-04-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dirmult
+url_git: ''

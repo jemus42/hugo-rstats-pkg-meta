@@ -1,0 +1,9 @@
+version: '1.0'
+title: Persian Stemmer for Text Analysis
+maintainer: Roozbeh Safshekan
+description: Allows users to stem Persian texts for text analysis.
+date_publication: '2019-06-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PersianStemmer
+url_git: ''

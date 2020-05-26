@@ -1,0 +1,12 @@
+version: '2.0'
+title: Relational Class Analysis
+maintainer: Amir Goldberg
+description: |-
+  Relational Class Analysis (RCA) is a method for detecting
+  heterogeneity in attitudinal data (as described in Goldberg
+  A., 2011, Am. J. Soc, 116(5)).
+date_publication: '2016-02-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RCA
+url_git: ''

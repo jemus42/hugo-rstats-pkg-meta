@@ -1,0 +1,20 @@
+version: 4.0.1
+title: Thermal Image Analysis
+maintainer: Glenn J. Tattersall
+description: |-
+  A collection of functions and routines for inputting thermal
+  image video files, plotting and converting binary raw data into estimates of
+  temperature.  First published 2015-03-26.  Written primarily for research purposes
+  in biological applications of thermal images.  v1 included the base calculations
+  for converting thermal image binary values to temperatures. v2 included additional
+  equations for providing heat transfer calculations and an import function for thermal
+  image files (v2.2.3 fixed error importing thermal image to windows OS). v3. Added numerous
+  functions for converting thermal image, videos, rewriting and exporting.
+  v3.1. Added new functions to convert files. v3.2.  Fixed the various functions related to finding frame times.
+  v4.0. fixed an error in atmospheric attenuation constants, affecting raw2temp and temp2raw functions.
+  Recommend update for use with long distance calculations.
+date_publication: '2019-11-30'
+bug_reports: http://github.com/gtatters/Thermimage/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Thermimage
+url_git: https://github.com/gtatters/Thermimage

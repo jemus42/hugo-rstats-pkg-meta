@@ -1,0 +1,10 @@
+version: 1.2.4
+title: Derivative-free optimization algorithms by quadratic<U+000a>approximation
+maintainer: Katharine M. Mullen
+description: Derivative-free optimization by quadratic approximation<U+000a>based
+  on an interface to Fortran implementations by M. J. D.<U+000a>Powell.
+date_publication: '2014-10-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=minqa
+url_git: http://optimizer.r-forge.r-project.org

@@ -1,0 +1,9 @@
+version: 0.1.1
+title: Google Encoded Polyline Algorithm Format
+maintainer: Timothée Giraud
+description: Encode and decode the Google Encoded Polyline Algorithm Format (<https://developers.google.com/maps/documentation/utilities/polylinealgorithm>).
+date_publication: '2018-03-05'
+bug_reports: https://github.com/mthh/gepaf/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gepaf
+url_git: https://github.com/mthh/gepaf

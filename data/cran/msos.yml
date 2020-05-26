@@ -1,0 +1,16 @@
+version: 1.1.1
+title: |-
+  Data Sets and Functions Used in Multivariate Statistics: Old
+  School by John Marden
+maintainer: James Balamuta
+description: |-
+  Multivariate Analysis methods and data sets used
+  in John Marden's book Multivariate Statistics: Old School (2015) <ISBN:978-1456538835>.
+  This also serves as a companion package for the
+  STAT 571: Multivariate Analysis course offered by the Department of Statistics
+  at the University of Illinois at Urbana-Champaign ('UIUC').
+date_publication: '2020-01-08'
+bug_reports: https://github.com/coatless/msos/issues
+url: http://istics.net/stat/Multivariate/
+url_cran: https://CRAN.R-project.org/package=msos
+url_git: https://github.com/coatless/msos

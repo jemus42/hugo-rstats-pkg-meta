@@ -1,0 +1,16 @@
+version: 1.0.0
+title: Automatically Generate _site.yml File for 'R Markdown'
+maintainer: Adam Cribbs
+description: |-
+  The goal of 'siteymlgen' is to make it easy to organise
+  the building of your 'R Markdown' website.
+  The init() function placed within the first code chunk of the index.Rmd
+  file of an 'R' project directory will initiate the generation of an automatically
+  written _site.yml file. 'siteymlgen' recommends a specific naming
+  convention for your 'R Markdown' files. This naming will ensure that
+  your navbar layout is ordered according to a hierarchy.
+date_publication: '2020-05-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=siteymlgen
+url_git: https://github.com/Acribbs/siteymlgen

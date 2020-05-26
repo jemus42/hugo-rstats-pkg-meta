@@ -1,0 +1,17 @@
+version: 0.0.9
+title: |-
+  Data Exploration with Information Theory (Weight-of-Evidence and
+  Information Value)
+maintainer: Larsen Kim
+description: |-
+  Performs exploratory data analysis and variable screening for
+  binary classification models using weight-of-evidence (WOE) and information
+  value (IV). In order to make the package as efficient as possible, aggregations
+  are done in data.table and creation of WOE vectors can be distributed across
+  multiple cores. The package also supports exploration for uplift models (NWOE
+  and NIV).
+date_publication: '2016-04-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Information
+url_git: ''

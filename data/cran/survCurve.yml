@@ -1,0 +1,14 @@
+version: '1.0'
+title: Plots Survival Curves Element by Element
+maintainer: Melchior Burri
+description: |-
+  Plots survival models from the 'survival' package. Additionally, it
+  plots curves of multistate models from the 'mstate' package. Typically, a
+  plot is drawn by the sequence survplot(), confIntArea(), survCurve() and
+  nrAtRisk(). The separation of the plot in this 4 functions allows for great
+  flexibility to make a custom plot for publication.
+date_publication: '2020-04-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=survCurve
+url_git: ''

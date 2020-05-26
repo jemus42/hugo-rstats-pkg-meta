@@ -1,0 +1,13 @@
+version: 1.0.0
+title: |-
+  Transductive and Inductive Conformal Predictions for
+  Classification Problems
+maintainer: Niharika Gauraha
+description: Implementation of transductive conformal prediction (see Vovk, 2013,
+  <doi:10.1007/978-3-642-41142-7_36>) and inductive conformal prediction (see Balasubramanian
+  et al., 2014, ISBN:9780124017153) for classification problems.
+date_publication: '2017-12-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=conformalClassification
+url_git: ''

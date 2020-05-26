@@ -1,0 +1,11 @@
+version: 0.5.3
+title: Emoji and Font Awesome in Graphics
+maintainer: Guangchuang Yu
+description: |-
+  An implementation of using emoji and fontawesome for using in both
+  base and 'ggplot2' graphics.
+date_publication: '2019-12-12'
+bug_reports: https://github.com/GuangchuangYu/emojifont/issues
+url: https://guangchuangyu.github.io/emojifont
+url_cran: https://CRAN.R-project.org/package=emojifont
+url_git: ''

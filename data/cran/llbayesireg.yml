@@ -1,0 +1,11 @@
+version: 1.0.0
+title: The L-Logistic Bayesian Regression
+maintainer: Rosineide Fernando da Paz
+description: 'R functions and data sets for the work Paz, R.F., Balakrishnan, N and
+  Bazán, J.L. (2018). L-logistic regression models: Prior sensitivity analysis, robustness
+  to outliers and applications. Brazilian Journal of Probability and Statistics, <https://www.imstat.org/wp-content/uploads/2018/05/BJPS397.pdf>.'
+date_publication: '2019-04-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=llbayesireg
+url_git: ''

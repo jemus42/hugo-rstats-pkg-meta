@@ -1,0 +1,12 @@
+version: 0.4.3
+title: Utility Functions for Production R Code
+maintainer: Jonathan Callahan
+description: |-
+  A suite of utility functions providing functionality commonly
+  needed for production level projects such as logging, error handling,
+  and cache management.
+date_publication: '2020-04-08'
+bug_reports: https://github.com/MazamaScience/MazamaCoreUtils/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=MazamaCoreUtils
+url_git: https://github.com/MazamaScience/MazamaCoreUtils

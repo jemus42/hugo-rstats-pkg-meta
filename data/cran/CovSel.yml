@@ -1,0 +1,14 @@
+version: 1.2.1
+title: Model-Free Covariate Selection
+maintainer: Jenny Häggström
+description: Model-free selection of covariates under unconfoundedness for situations
+  where the parameter of interest is an average causal effect. This package is based
+  on  model-free backward elimination algorithms proposed in de Luna, Waernbaum and
+  Richardson (2011). Marginal co-ordinate hypothesis testing is used in situations
+  where all covariates are continuous while kernel-based smoothing appropriate for
+  mixed data is used otherwise.
+date_publication: '2015-11-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CovSel
+url_git: ''

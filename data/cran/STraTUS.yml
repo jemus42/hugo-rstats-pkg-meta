@@ -1,0 +1,16 @@
+version: 1.1.2
+title: |-
+  Enumeration and Uniform Sampling of Transmission Trees for a
+  Known Phylogeny
+maintainer: Matthew Hall
+description: For a single, known pathogen phylogeny, provides functions for enumeration
+  of the set of compatible epidemic transmission trees, and for uniform sampling from
+  that set. Optional arguments allow for incomplete sampling with a known number of
+  missing individuals, multiple sampling, and known infection time limits. Always
+  assumed are a complete transmission bottleneck and no superinfection or reinfection.
+  See Hall and Colijn (2019) <doi:10.1093/molbev/msz058> for methodology.
+date_publication: '2020-04-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=STraTUS
+url_git: http://github.com/mdhall272/STraTUS/

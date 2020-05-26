@@ -1,0 +1,10 @@
+version: 0.1.1
+title: Percentile Estimation of Fetal Weight for Twins by Chorionicity
+maintainer: Luis Mariano Esteban
+description: Package to Percentile estimation of fetal weight for twins by chorionicity
+  (dichorionic-diamniotic or monochorionic-diamniotic).
+date_publication: '2019-11-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PTwins
+url_git: ''

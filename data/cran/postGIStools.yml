@@ -1,0 +1,14 @@
+version: 0.2.4
+title: Tools for Interacting with 'PostgreSQL' / 'PostGIS' Databases
+maintainer: Philippe Marchand
+description: |-
+  Functions to convert geometry and 'hstore' data types from
+  'PostgreSQL' into standard R objects, as well as to simplify
+  the import of R data frames (including spatial data frames) into 'PostgreSQL'.
+  Note: This package is deprecated. For new projects, we recommend
+  using the 'sf' package to interface with geodatabases.
+date_publication: '2019-09-20'
+bug_reports: https://github.com/SESYNC-ci/postGIStools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=postGIStools
+url_git: https://github.com/SESYNC-ci/postGIStools

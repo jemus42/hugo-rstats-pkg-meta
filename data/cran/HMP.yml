@@ -1,0 +1,13 @@
+version: 2.0.1
+title: |-
+  Hypothesis Testing and Power Calculations for Comparing
+  Metagenomic Samples from HMP
+maintainer: Berkley Shands
+description: Using Dirichlet-Multinomial distribution to provide several functions
+  for formal hypothesis testing, power and sample size calculations for human microbiome
+  experiments.
+date_publication: '2019-08-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HMP
+url_git: ''

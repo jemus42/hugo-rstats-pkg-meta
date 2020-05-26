@@ -1,0 +1,17 @@
+version: '0.5'
+title: Multilevel Exponential-Family Random Graph Models
+maintainer: Jonathan Stewart
+description: 'Estimates exponential-family random graph models for multilevel network
+  data, assuming the multilevel structure is observed. The scope, at present, covers
+  multilevel models where the set of nodes is nested within known blocks. The estimation
+  method uses Monte-Carlo maximum likelihood estimation (MCMLE) methods to estimate
+  a variety of canonical or curved exponential family models for binary random graphs.
+  MCMLE methods for curved exponential-family random graph models can be found in
+  Hunter and Handcock (2006) <DOI: 10.1198/106186006X133069>. The package supports
+  parallel computing, and provides methods for assessing goodness-of-fit of models
+  and visualization of networks.'
+date_publication: '2020-01-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mlergm
+url_git: ''

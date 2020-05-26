@@ -1,0 +1,11 @@
+version: '2.5'
+title: Tools for Social Network Analysis
+maintainer: Carter T. Butts
+description: A range of tools for social network analysis, including node and graph-level
+  indices, structural distance and covariance methods, structural equivalence detection,
+  network regression, random graph generation, and 2D/3D network visualization.
+date_publication: '2019-12-10'
+bug_reports: ''
+url: http://www.statnet.org
+url_cran: https://CRAN.R-project.org/package=sna
+url_git: ''

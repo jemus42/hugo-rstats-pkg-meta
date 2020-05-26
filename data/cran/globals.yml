@@ -1,0 +1,14 @@
+version: 0.12.5
+title: Identify Global Objects in R Expressions
+maintainer: Henrik Bengtsson
+description: |-
+  Identifies global ("unknown" or "free") objects in R expressions
+  by code inspection using various strategies, e.g. conservative or liberal.
+  The objective of this package is to make it as simple as possible to
+  identify global objects for the purpose of exporting them in distributed
+  compute environments.
+date_publication: '2019-12-07'
+bug_reports: https://github.com/HenrikBengtsson/globals/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=globals
+url_git: https://github.com/HenrikBengtsson/globals

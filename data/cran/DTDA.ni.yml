@@ -1,0 +1,10 @@
+version: '1.0'
+title: Doubly Truncated Data Analysis, Non Iterative
+maintainer: José Carlos Soage González
+description: Non-iterative estimator for the cumulative distribution of a doubly truncated
+  variable. de Uña-Álvarez J. (2018) <doi:10.1007/978-3-319-73848-2_37>.
+date_publication: '2018-04-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DTDA.ni
+url_git: https://github.com/sidoruvigo/DTDA.ni

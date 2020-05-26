@@ -1,0 +1,16 @@
+version: 1.7-0
+title: Fractional ARIMA (and Other Long Memory) Time Series Modeling
+maintainer: JQ Veenstra
+description: |-
+  Simulates, fits, and predicts long-memory and anti-persistent
+  time series, possibly mixed with ARMA, regression, transfer-function
+  components.
+  Exact methods (MLE, forecasting, simulation) are used.
+  Bug reports should be done via GitHub (at
+  <https://github.com/JQVeenstra/arfima>), where the development version
+  of this package lives; it can be installed using devtools.
+date_publication: '2018-11-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=arfima
+url_git: ''

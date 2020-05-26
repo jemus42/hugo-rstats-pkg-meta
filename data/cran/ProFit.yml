@@ -1,0 +1,11 @@
+version: 1.3.3
+title: Fit Projected 2D Profiles to Galaxy Images
+maintainer: Aaron Robotham
+description: Get data / Define model / ??? / Profit! 'ProFit' is a Bayesian galaxy
+  fitting tool that uses a fast 'C++' image generation library and a flexible interface
+  to a large number of likelihood samplers.
+date_publication: '2019-11-11'
+bug_reports: https://github.com/ICRAR/ProFit/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ProFit
+url_git: https://github.com/ICRAR/ProFit

@@ -1,0 +1,11 @@
+version: '1.1'
+title: Confidence Intervals with Poisson Double Sampling
+maintainer: David Kahle
+description: |-
+  Functions to create confidence intervals for ratios of Poisson
+  rates under misclassification using double sampling.
+date_publication: '2015-02-03'
+bug_reports: https://github.com/dkahle/poisDoubleSamp/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=poisDoubleSamp
+url_git: https://github.com/dkahle/poisDoubleSamp

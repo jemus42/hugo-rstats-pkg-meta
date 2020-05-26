@@ -1,0 +1,12 @@
+version: 0.3.1
+title: '''Leanpub'' API Interface'
+maintainer: John Muschelli
+description: |-
+  Provides access to the 'Leanpub' API
+  <https://leanpub.com/help/api> for gathering information about
+  publications and submissions to the 'Leanpub' platform.
+date_publication: '2018-08-16'
+bug_reports: https://github.com/muschellij2/leanpubr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=leanpubr
+url_git: https://github.com/muschellij2/leanpubr

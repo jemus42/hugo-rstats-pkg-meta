@@ -1,0 +1,10 @@
+version: '1.1'
+title: A Multidirectional Optimum Ecotope-Based Algorithm
+maintainer: Guillermo Valles
+description: A function to calculate spatial clusters using the Getis-Ord local statistic.
+  It searches<U+000a>irregular clusters (ecotopes) on a map.
+date_publication: '2014-08-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AMOEBA
+url_git: ''

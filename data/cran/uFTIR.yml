@@ -1,0 +1,11 @@
+version: 0.1.2
+title: Process and Analyze Agilent Cary 620 FTIR Microscope Images
+maintainer: Fabio Corradini
+description: |-
+  A set of tools to read, process, and summarize Agilent Cary 620 uFTIR Microscope hyperspectral images
+  primarily intended for microplastic analysis.
+date_publication: '2020-05-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=uFTIR
+url_git: ''

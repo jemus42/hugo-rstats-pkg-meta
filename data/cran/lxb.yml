@@ -1,0 +1,9 @@
+version: '1.5'
+title: Fast LXB File Reader
+maintainer: Björn Winckler
+description: Functions to quickly read LXB parameter data.
+date_publication: '2016-03-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lxb
+url_git: ''

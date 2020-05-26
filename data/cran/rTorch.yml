@@ -1,0 +1,15 @@
+version: 0.0.3
+title: R Bindings to 'PyTorch'
+maintainer: Alfonso R. Reyes
+description: |-
+  'R' implementation and interface of the Machine Learning platform
+  'PyTorch' <https://pytorch.org/> developed in 'Python'. It requires a 'conda'
+  environment with 'torch' and 'torchvision' to provide 'PyTorch' functions,
+  methods and classes. The key object in 'PyTorch' is the tensor which is in
+  essence a multidimensional array. These tensors are fairly flexible to perform
+  calculations in CPUs as well as 'GPUs' to accelerate the process.
+date_publication: '2019-08-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rTorch
+url_git: https://github.com/f0nzie/rTorch

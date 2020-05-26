@@ -1,0 +1,14 @@
+version: 0.2.3.1
+title: Hurricane Re-Analysis Project
+maintainer: Tim Trice
+description: |-
+  Scraped dataset of the Hurricane Research Division's Hurricane
+  Re-Analysis Project known as HURDAT. Storm details are available for most
+  known hurricanes and tropical storms for the Atlantic and northeastern
+  Pacific ocean (northwestern hemisphere). See <http://www.aoml.noaa.gov/hrd/hurdat/Data_Storm.html>
+  for more information.
+date_publication: '2020-01-28'
+bug_reports: https://github.com/timtrice/HURDAT/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=HURDAT
+url_git: https://github.com/timtrice/HURDAT

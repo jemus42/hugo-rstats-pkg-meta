@@ -1,0 +1,13 @@
+version: '1.1'
+title: Collapsed Latent Position Cluster Model for Social Networks
+maintainer: Jason Wyse
+description: Markov chain Monte Carlo based inference routines for collapsed latent
+  position cluster models or social networks, which includes searches over the model
+  space (number of clusters in the latent position cluster model). The label switching
+  algorithm used is that of Nobile and Fearnside (2007) <doi:10.1007/s11222-006-9014-7>
+  which relies on the algorithm of Carpaneto and Toth (1980) <doi:10.1145/355873.355883>.
+date_publication: '2019-10-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=collpcm
+url_git: ''

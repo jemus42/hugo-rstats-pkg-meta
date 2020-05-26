@@ -1,0 +1,13 @@
+version: 1.4.7
+title: Easy Microarray Data Analysis
+maintainer: Pierre Gestraud
+description: We propose both a clear analysis strategy and a selection of tools to
+  investigate microarray gene expression data. The most usual and relevant existing
+  R functions were discussed, validated and gathered in an easy-to-use R package (EMA)
+  devoted to gene expression microarray analysis. These functions were improved for
+  ease of use, enhanced visualisation and better interpretation of results.
+date_publication: '2020-02-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EMA
+url_git: ''

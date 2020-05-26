@@ -1,0 +1,12 @@
+version: '1.7'
+title: Design and analysis of observational studies
+maintainer: Sebastien Haneuse
+description: The osDesign serves for planning an observational study. Currently, functionality
+  is focused on the two-phase and case-control designs. Functions in this packages
+  provides Monte Carlo based evaluation of operating characteristics such as powers
+  for estimators of the components of a logistic regression model.
+date_publication: '2014-08-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=osDesign
+url_git: ''

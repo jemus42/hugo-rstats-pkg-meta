@@ -1,0 +1,10 @@
+version: '0.4'
+title: Functions and datasets for math used in school
+maintainer: Joerg Schlarmann
+description: This package contains functions and datasets for math<U+000a>taught in
+  school. A main focus is set to prime-calculation
+date_publication: '2012-07-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=schoolmath
+url_git: ''

@@ -1,0 +1,9 @@
+version: 0.0.3
+title: Access Domains and Search Popular Websites
+maintainer: Florian S. Schaffner
+description: Functions that allow for accessing domains and a number of search engines.
+date_publication: '2018-10-23'
+bug_reports: https://github.com/fschaff/websearchr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=websearchr
+url_git: https://github.com/fschaff/websearchr

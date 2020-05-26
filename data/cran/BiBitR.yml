@@ -1,0 +1,12 @@
+version: 0.3.1
+title: R Wrapper for Java Implementation of BiBit
+maintainer: De Troyer Ewoud
+description: |-
+  A simple R wrapper for the Java BiBit algorithm from "A
+  biclustering algorithm for extracting bit-patterns from binary datasets"
+  from Domingo et al. (2011) <DOI:10.1093/bioinformatics/btr464>. An simple adaption for the BiBit algorithm which allows noise in the biclusters is also introduced as well as a function to guide the algorithm towards given (sub)patterns. Further, a workflow to derive noisy biclusters from discoverd larger column patterns is included as well.
+date_publication: '2017-06-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BiBitR
+url_git: ''

@@ -1,0 +1,9 @@
+version: 1.0-15
+title: David Scott's ASH Routines
+maintainer: Albrecht Gebhardt
+description: David Scott's ASH routines ported from S-PLUS to R.
+date_publication: '2015-09-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ash
+url_git: ''

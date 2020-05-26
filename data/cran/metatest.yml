@@ -1,0 +1,13 @@
+version: 1.0-5
+title: Fit and Test Metaregression Models
+maintainer: Ingmar Visser
+description: |-
+  Fits and tests meta regression models and generates a
+  number of useful test statistics: next to t- and z-tests, the likelihood ratio,
+  bartlett corrected likelihood ratio and permutation tests are performed on
+  the model coefficients.
+date_publication: '2018-12-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=metatest
+url_git: ''

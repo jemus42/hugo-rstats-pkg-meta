@@ -1,0 +1,13 @@
+version: 1.1.0
+title: Plane Geometry
+maintainer: Stéphane Laurent
+description: 'An extensive set of plane geometry routines. Provides R6 classes representing
+  triangles, circles, circular arcs, ellipses, elliptical arcs and lines, and their
+  plot methods. Also provides R6 classes representing transformations: rotations,
+  reflections, homotheties, scalings, general affine transformations, inversions,
+  Möbius transformations.'
+date_publication: '2020-02-24'
+bug_reports: https://github.com/stla/PlaneGeometry/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=PlaneGeometry
+url_git: https://github.com/stla/PlaneGeometry

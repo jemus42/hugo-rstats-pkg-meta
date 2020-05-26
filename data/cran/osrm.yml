@@ -1,0 +1,15 @@
+version: 3.3.3
+title: |-
+  Interface Between R and the OpenStreetMap-Based Routing Service
+  OSRM
+maintainer: Timothée Giraud
+description: |-
+  An interface between R and the OSRM API. OSRM is a routing
+  service based on OpenStreetMap data. See <http://project-osrm.org/> for more
+  information. This package allows to compute distances (travel time and
+  kilometric distance) between points and travel time matrices.
+date_publication: '2020-04-14'
+bug_reports: https://github.com/rCarto/osrm/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=osrm
+url_git: https://github.com/rCarto/osrm

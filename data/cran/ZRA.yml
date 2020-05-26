@@ -1,0 +1,10 @@
+version: '0.2'
+title: Dynamic Plots for Time Series Forecasting
+maintainer: David Beiner
+description: Combines a forecast of a time series, using the function forecast(),
+  with the dynamic plots from dygraphs.
+date_publication: '2015-08-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ZRA
+url_git: ''

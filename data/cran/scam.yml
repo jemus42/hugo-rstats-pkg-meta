@@ -1,0 +1,19 @@
+version: 1.2-5
+title: Shape Constrained Additive Models
+maintainer: Natalya Pya
+description: |-
+  Routines for generalized additive modelling under shape
+  constraints on the component functions of the linear predictor
+  (Pya and Wood, 2015) <doi:10.1007/s11222-013-9448-7>.
+  Models can contain multiple shape constrained (univariate
+  and/or bivariate) and unconstrained terms. The routines of gam()
+  in package 'mgcv' are used for setting up the model matrix,
+  printing and plotting the results.  Penalized likelihood
+  maximization based on Newton-Raphson method is used to fit a
+  model with multiple smoothing parameter selection by GCV or
+  UBRE/AIC.
+date_publication: '2019-08-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=scam
+url_git: ''

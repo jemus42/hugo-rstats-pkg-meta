@@ -1,0 +1,11 @@
+version: '0.17'
+title: Kolmogorov-Zurbenko Fourier Transform and Applications
+maintainer: Wei Yang
+description: |-
+  A colletion of functions to implement Kolmogorov-Zurbenko
+  Fourier transform based periodograms and smoothing methods
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=kzft
+url_git: ''

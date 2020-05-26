@@ -1,0 +1,11 @@
+version: 2.2.2
+title: Luck-Corrected Peer Performance Analysis in R
+maintainer: David Ardia
+description: |-
+  Provides functions to perform the peer performance
+  analysis of funds' returns as described in Ardia and Boudt (2018) <doi:10.1016/j.jbankfin.2017.10.014>.
+date_publication: '2020-04-21'
+bug_reports: https://github.com/ArdiaD/PeerPerformance/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=PeerPerformance
+url_git: https://github.com/ArdiaD/PeerPerformance

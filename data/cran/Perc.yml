@@ -1,0 +1,13 @@
+version: 0.1.5
+title: |-
+  Using Percolation and Conductance to Find Information Flow
+  Certainty in a Direct Network
+maintainer: Jessica Vandeleest
+description: |-
+  To find the certainty of dominance interactions with indirect
+  interactions being considered.
+date_publication: '2020-04-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Perc
+url_git: ''

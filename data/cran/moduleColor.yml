@@ -1,0 +1,10 @@
+version: 1.08-3
+title: Basic Module Functions
+maintainer: Peter Langfelder
+description: Methods for color labeling, calculation of eigengenes, merging of closely
+  related modules.
+date_publication: '2014-11-26'
+bug_reports: ''
+url: http://www.genetics.ucla.edu/labs/horvath/CoexpressionNetwork/BranchCutting/
+url_cran: https://CRAN.R-project.org/package=moduleColor
+url_git: ''

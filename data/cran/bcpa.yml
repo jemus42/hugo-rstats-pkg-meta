@@ -1,0 +1,14 @@
+version: '1.1'
+title: Behavioral change point analysis of animal movement
+maintainer: Eliezer Gurarie
+description: 'The Behavioral Change Point Analysis (BCPA) is a method of<U+000a>identifying
+  hidden shifts in the underlying parameters of a time series,<U+000a>developed specifically
+  to be applied to animal movement data which is<U+000a>irregularly sampled.  The
+  method is based on: E.<U+000a>Gurarie, R. Andrews and K. Laidre A novel method for
+  identifying<U+000a>behavioural changes in animal movement data (2009) Ecology Letters
+  12:5<U+000a>395-408.'
+date_publication: '2014-11-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bcpa
+url_git: ''

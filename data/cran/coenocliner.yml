@@ -1,0 +1,11 @@
+version: 0.2-2
+title: Coenocline Simulation
+maintainer: Gavin L. Simpson
+description: |-
+  Simulate species occurrence and abundances (counts) along
+  gradients.
+date_publication: '2016-05-19'
+bug_reports: https://github.com/gavinsimpson/coenocliner/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=coenocliner
+url_git: https://github.com/gavinsimpson/coenocliner/

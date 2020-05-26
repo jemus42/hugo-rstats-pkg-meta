@@ -1,0 +1,12 @@
+version: 0.1.2
+title: |-
+  Inference and Analysis for Diffusion Processes via Data
+  Imputation and Method of Lines
+maintainer: Etienne A.D. Pienaar
+description: Tools for performing inference and analysis using a data-imputation scheme
+  and the method of lines.
+date_publication: '2016-08-24'
+bug_reports: https://github.com/eta21/DiffusionRimp/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=DiffusionRimp
+url_git: https://github.com/eta21

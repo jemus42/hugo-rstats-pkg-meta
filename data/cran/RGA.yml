@@ -1,0 +1,17 @@
+version: 0.4.2
+title: A Google Analytics API Client
+maintainer: Artem Klevtsov
+description: |-
+  Provides functions for accessing and retrieving data from the
+  Google Analytics APIs (https://developers.google.com/analytics/). Supports
+  OAuth 2.0 authorization. Package provides access to the Management, Core
+  Reporting, Multi-Channel Funnels Reporting, Real Time Reporting and
+  Metadata APIs. Access to all the Google Analytics accounts which the user
+  has access to. Auto-pagination to return more than 10,000 rows of the
+  results by combining multiple data requests. Also package provides
+  shiny app to explore the core reporting API dimensions and metrics.
+date_publication: '2016-04-08'
+bug_reports: https://github.com/artemklevtsov/RGA/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=RGA
+url_git: https://github.com/artemklevtsov/RGA

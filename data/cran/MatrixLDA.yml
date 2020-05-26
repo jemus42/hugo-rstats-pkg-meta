@@ -1,0 +1,11 @@
+version: '0.2'
+title: Penalized Matrix-Normal Linear Discriminant Analysis
+maintainer: Aaron J. Molstad
+description: Fits the penalized matrix-normal model to be used for linear discriminant
+  analysis with matrix-valued predictors. For a description of the method, see Molstad
+  and Rothman (2018) <doi:10.1080/10618600.2018.1476249>.
+date_publication: '2018-08-06'
+bug_reports: ''
+url: ajmolstad@github.io
+url_cran: https://CRAN.R-project.org/package=MatrixLDA
+url_git: ''

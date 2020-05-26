@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Offline 'Google' Fonts for 'Markdown' and 'Shiny'
+maintainer: Victor Perrier
+description: |-
+  Download 'Google' fonts and generate CSS to use in 'rmarkdown' documents and
+  'shiny' applications. Some popular fonts are included and ready to use.
+date_publication: '2020-05-09'
+bug_reports: https://github.com/dreamRs/gfonts/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gfonts
+url_git: https://github.com/dreamRs/gfonts

@@ -1,0 +1,12 @@
+version: 1.2.4
+title: Time Series Analysis with State Space Model
+maintainer: Masami Saga
+description: |-
+  Functions for statistical analysis, modeling and simulation of time
+  series with state space model, based on the methodology in Kitagawa
+  (1993, ISBN: 4-00-007703-1 and 2005, ISBN: 4-00-005455-4).
+date_publication: '2019-04-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TSSS
+url_git: ''

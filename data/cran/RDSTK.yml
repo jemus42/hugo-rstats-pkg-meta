@@ -1,0 +1,13 @@
+version: '1.1'
+title: An R wrapper for the Data Science Toolkit API
+maintainer: Ryan Elmore
+description: |-
+  This package provides an R interface to Pete Warden's Data
+  Science Toolkit.  See www.datasciencetoolkit.org for more
+  information.  The source code for this package can be found at
+  github.com/rtelmore/RDSTK Happy hacking!
+date_publication: '2013-05-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RDSTK
+url_git: ''

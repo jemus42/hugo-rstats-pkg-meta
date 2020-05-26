@@ -1,0 +1,12 @@
+version: 0.1.0
+title: |-
+  Alternating Direction Method of Multipliers to Solve Dense
+  Dubmatrix Problem
+maintainer: Polina Bombina
+description: Solves the problem of identifying the densest submatrix in a given or
+  sampled binary matrix, Bombina et al. (2019) <arXiv:1904.03272>.
+date_publication: '2019-10-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=admmDensestSubmatrix
+url_git: ''

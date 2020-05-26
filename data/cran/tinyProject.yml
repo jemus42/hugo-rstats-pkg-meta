@@ -1,0 +1,13 @@
+version: 0.6.1
+title: A Lightweight Template for Data Analysis Projects
+maintainer: Francois Guillem
+description: |-
+  Creates useful files and folders for data
+  analysis  projects and provides functions to manage data,
+  scripts and output files. Also provides a project
+  template for 'Rstudio'.
+date_publication: '2019-06-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tinyProject
+url_git: ''

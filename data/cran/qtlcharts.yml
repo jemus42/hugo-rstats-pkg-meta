@@ -1,0 +1,12 @@
+version: 0.11-6
+title: Interactive Graphics for QTL Experiments
+maintainer: Karl W Broman
+description: |-
+  Web-based interactive charts (using D3.js) for the analysis of
+  experimental crosses to identify genetic loci (quantitative trait
+  loci, QTL) contributing to variation in quantitative traits.
+date_publication: '2019-02-05'
+bug_reports: https://github.com/kbroman/qtlcharts/issues
+url: https://kbroman.org/qtlcharts
+url_cran: https://CRAN.R-project.org/package=qtlcharts
+url_git: https://github.com/kbroman/qtlcharts

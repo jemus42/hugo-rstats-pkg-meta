@@ -1,0 +1,15 @@
+version: '0.5'
+title: |-
+  Tools for parsing and manipulating rpart objects, including
+  generating machine readable rules.
+maintainer: Craig Varrichio
+description: |-
+  This package contains additional tools for working with rpart
+  objects.  Most importantly, it includes methods for converting rpart rules
+  into a series of structured tables sufficient for executing the decision
+  tree completely in SQL.
+date_publication: '2014-05-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rpart.utils
+url_git: ''

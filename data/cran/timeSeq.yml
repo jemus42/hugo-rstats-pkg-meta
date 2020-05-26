@@ -1,0 +1,14 @@
+version: 1.0.4
+title: |-
+  Detecting Differentially Expressed Genes in Time Course RNA-Seq
+  Data
+maintainer: Fan Gao
+description: |-
+  A negative binomial mixed-effects (NBME) model to detect
+  nonparallel differential expression(NPDE) genes and parallel differential
+  expression(PDE) genes in the time course RNA-seq data.
+date_publication: '2019-02-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=timeSeq
+url_git: ''

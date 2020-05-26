@@ -1,0 +1,17 @@
+version: 0.1.6
+title: Global Optimization by Differential Evolution in C++
+maintainer: Dirk Eddelbuettel
+description: |-
+  An efficient C++ based implementation of the 'DEoptim'
+  function which performs global optimization by differential evolution.
+  Its creation was motivated by trying to see if the old approximation "easier,
+  shorter, faster: pick any two" could in fact be extended to achieving all
+  three goals while moving the code from plain old C to modern C++.  The
+  initial version did in fact do so, but a good part of the gain was due to
+  an implicit code review which eliminated a few inefficiencies which have
+  since been eliminated in 'DEoptim'.
+date_publication: '2018-06-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcppDE
+url_git: ''

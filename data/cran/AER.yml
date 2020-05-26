@@ -1,0 +1,13 @@
+version: 1.2-9
+title: Applied Econometrics with R
+maintainer: Achim Zeileis
+description: |-
+  Functions, data sets, examples, demos, and vignettes for the book
+  Christian Kleiber and Achim Zeileis (2008),
+  Applied Econometrics with R, Springer-Verlag, New York.
+  ISBN 978-0-387-77316-2. (See the vignette "AER" for a package overview.)
+date_publication: '2020-02-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AER
+url_git: ''

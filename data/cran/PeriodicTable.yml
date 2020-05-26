@@ -1,0 +1,11 @@
+version: 0.1.2
+title: Periodic Table of the Elements
+maintainer: Julien Idé
+description: |-
+  Provides a dataset containing properties for chemical elements.
+  Helper functions are also provided to access some atomic properties.
+date_publication: '2017-08-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PeriodicTable
+url_git: ''

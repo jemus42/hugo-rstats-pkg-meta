@@ -1,0 +1,13 @@
+version: 0.6.5
+title: Tools for Highfrequency Data Analysis
+maintainer: Kris Boudt
+description: |-
+  Provide functionality to manage, clean and match highfrequency
+  trades and quotes data, calculate various liquidity measures, estimate and
+  forecast volatility, detect price jumps and investigate microstructure noise and intraday
+  periodicity.
+date_publication: '2020-04-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=highfrequency
+url_git: https://github.com/jonathancornelissen/highfrequency

@@ -1,0 +1,16 @@
+version: '1.2'
+title: Estimates Output
+maintainer: Felix Kaminsky
+description: This package is intended to speedup the process of<U+000a>creating model-comparing
+  tables common in Macroeconomics. The<U+000a>function collection stores the estimates
+  of several models and<U+000a>formats it to a table of the form estimate starred
+  and std.err.<U+000a>below. The default output is LaTeX but output to CSV for later<U+000a>editing
+  in a spreadsheet tool is possible as well. It works for<U+000a>linear models (lm)
+  and panel models from the "plm"-package<U+000a>(plm). Two further implemented functions
+  "descsto" and<U+000a>"desctab" enable you to export descriptive statistics of<U+000a>data-frames
+  and single variables to LaTeX and CSV.
+date_publication: '2013-02-26'
+bug_reports: ''
+url: http://www.toolswitch.net
+url_cran: https://CRAN.R-project.org/package=estout
+url_git: ''

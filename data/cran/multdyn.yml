@@ -1,0 +1,10 @@
+version: '1.6'
+title: Multiregression Dynamic Models
+maintainer: Simon Schwab
+description: Multiregression Dynamic Models for directed dynamic functional brain
+  network analysis.
+date_publication: '2017-08-24'
+bug_reports: https://github.com/schw4b/multdyn/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=multdyn
+url_git: https://github.com/schw4b/multdyn

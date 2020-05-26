@@ -1,0 +1,10 @@
+version: '2.0'
+title: Cooperative Aspects of Linear Production Programming Problems
+maintainer: Daniel Prieto
+description: Computes cooperative games and allocation rules associated with linear
+  production programming problems.
+date_publication: '2018-08-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=coopProductGame
+url_git: ''

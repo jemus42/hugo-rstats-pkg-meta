@@ -1,0 +1,14 @@
+version: '0.1'
+title: Genotype-Specific Survival Estimation
+maintainer: Baosheng Liang
+description: We propose a fully efficient sieve maximum likelihood method to estimate
+  genotype-specific distribution of time-to-event outcomes under a nonparametric model.
+  We can handle missing genotypes in pedigrees.  We estimate the time-dependent hazard
+  ratio between two genetic mutation groups using B-splines, while applying nonparametric
+  maximum likelihood estimation to the reference baseline hazard function.  The estimators
+  are calculated via an expectation-maximization algorithm.
+date_publication: '2015-10-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GSSE
+url_git: ''

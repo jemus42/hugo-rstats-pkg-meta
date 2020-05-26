@@ -1,0 +1,13 @@
+version: 3.1-5
+title: Geographic Data Analysis and Modeling
+maintainer: Robert J. Hijmans
+description: Reading, writing, manipulating, analyzing and modeling of gridded spatial
+  data. The package implements basic and high-level functions. Processing of very
+  large files is supported. There is a also support for vector data operations such
+  as intersections. See the manual and tutorials on <https://rspatial.org/> to get
+  started.
+date_publication: '2020-04-19'
+bug_reports: https://github.com/rspatial/raster/issues/
+url: https://rspatial.org/raster
+url_cran: https://CRAN.R-project.org/package=raster
+url_git: ''

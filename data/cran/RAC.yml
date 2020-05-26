@@ -1,0 +1,13 @@
+version: '1.5'
+title: R Package for Aqua Culture
+maintainer: Baldan D.
+description: Solves the individual bioenergetic balance for different aquaculture
+  sea fish (Sea Bream and Sea Bass; Brigolin et al., 2014 <doi:10.3354/aei00093>)
+  and shellfish (Mussel and Clam; Brigolin et al., 2009 <doi:10.1016/j.ecss.2009.01.029>;
+  Solidoro et al., 2000 <doi:10.3354/meps199137>). Allows for spatialized model runs
+  and population simulations.
+date_publication: '2018-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RAC
+url_git: ''

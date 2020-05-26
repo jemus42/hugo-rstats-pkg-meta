@@ -1,0 +1,18 @@
+version: 1.0.0
+title: |-
+  A Pipeline to Analyze Resistance and Tolerance from Drug Disk
+  Diffusion Assays
+maintainer: Aleeza Gerstein
+description: A pipeline to analyze photographs of disk diffusion plates. This removes
+  the need to analyze the plates themselves, and thus analysis can be done separate
+  from the assay. Furthermore, diskImageR removes potential researcher bias, by quantitative
+  assessment of drug resistance as the zone diameter at multiple cutoff values of
+  growth inhibition. This method also extends the disk diffusion assay by measuring
+  drug tolerance (in addition to drug resistance) as the fraction of the subpopulation
+  that is able to grow above the resistance point ("FoG"), and drug sensitivity as
+  the rate of change from no growth to full growth ("slope").
+date_publication: '2016-04-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=diskImageR
+url_git: ''

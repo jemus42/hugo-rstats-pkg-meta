@@ -1,0 +1,20 @@
+version: 0.2.0
+title: Clusters of Colocalized Sequences
+maintainer: Stefan Golas
+description: |-
+  Also abbreviates to "CCSeq". Finds clusters of colocalized sequences in .bed annotation files
+  up to a specified cut-off distance. Two sequences are colocalized if they
+  are within the cut-off distance of each other, and clusters are sets of
+  sequences where each sequence is colocalized to at least one other sequence
+  in the cluster. For a set of .bed annotation tables provided in a list
+  along with a cut-off distance, the program will output a file containing
+  the locations of each cluster. Annotated .bed files are from
+  the 'pwmscan' application at <https://ccg.epfl.ch/pwmtools/pwmscan.php>.
+  Personal machines might crash or take excessively long depending
+  on the number of annotated sequences in each file and whether chromsearch()
+  or gensearch() is used.
+date_publication: '2019-10-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=colocalized
+url_git: ''

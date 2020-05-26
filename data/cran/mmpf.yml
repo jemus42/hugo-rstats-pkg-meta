@@ -1,0 +1,10 @@
+version: 0.0.5
+title: Monte-Carlo Methods for Prediction Functions
+maintainer: Zachary Jones
+description: Marginalizes prediction functions using Monte-Carlo integration and computes
+  permutation importance.
+date_publication: '2018-10-24'
+bug_reports: https://github.com/zmjones/mmpf
+url: ''
+url_cran: https://CRAN.R-project.org/package=mmpf
+url_git: ''

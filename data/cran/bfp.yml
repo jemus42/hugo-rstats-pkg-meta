@@ -1,0 +1,12 @@
+version: 0.0-40
+title: Bayesian Fractional Polynomials
+maintainer: ORPHANED
+description: |-
+  Implements the Bayesian paradigm for fractional
+  polynomial models under the assumption of normally distributed error terms, see
+  Sabanes Bove, D. and Held, L. (2011) <doi:10.1007/s11222-010-9170-7>.
+date_publication: '2019-01-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bfp
+url_git: ''

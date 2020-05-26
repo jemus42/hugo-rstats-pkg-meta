@@ -1,0 +1,14 @@
+version: '1.0'
+title: |-
+  Global ENvironmental ASsessment Information System (GENASIS)
+  computational tools
+maintainer: Jiri Kalina
+description: genasis package contains methods for air pollution assessment. Concerned
+  on persistent organic pollutants, the package allows to compute trends of their
+  concentrations, compare different datasets and estimate relations between values
+  from active and passive air samplers.
+date_publication: '2014-06-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=genasis
+url_git: ''

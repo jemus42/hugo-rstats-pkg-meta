@@ -1,0 +1,13 @@
+version: '2.8'
+title: L-Moments
+maintainer: J. R. M. Hosking
+description: |-
+  Functions related to L-moments: computation of L-moments
+  and trimmed L-moments of distributions and data samples; parameter
+  estimation; L-moment ratio diagram; plot vs. quantiles of an
+  extreme-value distribution.
+date_publication: '2019-03-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lmom
+url_git: ''

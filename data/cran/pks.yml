@@ -1,0 +1,13 @@
+version: 0.4-1
+title: Probabilistic Knowledge Structures
+maintainer: Florian Wickelmaier
+description: |-
+  Fitting and testing probabilistic knowledge structures,
+  especially the basic local independence model (BLIM, Doignon & Flamagne,
+  1999), using the minimum discrepancy maximum likelihood (MDML) method
+  (Heller & Wickelmaier, 2013 <doi:10.1016/j.endm.2013.05.145>).
+date_publication: '2019-05-25'
+bug_reports: ''
+url: http://www.mathpsy.uni-tuebingen.de/wickelmaier
+url_cran: https://CRAN.R-project.org/package=pks
+url_git: ''

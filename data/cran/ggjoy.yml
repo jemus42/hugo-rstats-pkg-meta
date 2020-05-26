@@ -1,0 +1,10 @@
+version: 0.4.1
+title: Joyplots in 'ggplot2'
+maintainer: Claus O. Wilke
+description: Joyplots provide a convenient way of visualizing changes in distributions
+  over time or space. This package enables the creation of such plots in 'ggplot2'.
+date_publication: '2018-05-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggjoy
+url_git: https://github.com/clauswilke/ggjoy

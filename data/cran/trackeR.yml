@@ -1,0 +1,18 @@
+version: 1.5.2
+title: |-
+  Infrastructure for Running, Cycling and Swimming Data from
+  GPS-Enabled Tracking Devices
+maintainer: Ioannis Kosmidis
+description: 'Provides infrastructure for handling running, cycling and swimming data
+  from GPS-enabled tracking devices within R. The package provides methods to extract,
+  clean and organise workout and competition data into session-based and unit-aware
+  data objects of class ''trackeRdata'' (S3 class). The information can then be visualised,
+  summarised, and analysed through flexible and extensible methods. Frick and Kosmidis
+  (2017) <doi: 10.18637/jss.v082.i07>, which is updated and maintained as one of the
+  vignettes, provides detailed descriptions of the package and its methods, and real-data
+  demonstrations of the package functionality.'
+date_publication: '2019-05-15'
+bug_reports: https://github.com/trackerproject/trackeR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=trackeR
+url_git: https://github.com/trackerproject/trackeR

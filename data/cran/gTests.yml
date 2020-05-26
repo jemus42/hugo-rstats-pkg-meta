@@ -1,0 +1,10 @@
+version: '0.2'
+title: Graph-Based Two-Sample Tests
+maintainer: Hao Chen
+description: Four graph-based tests are provided for testing whether two samples are
+  from the same distribution.  It works for both continuous data and discrete data.
+date_publication: '2017-12-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gTests
+url_git: ''

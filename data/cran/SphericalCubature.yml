@@ -1,0 +1,14 @@
+version: '1.4'
+title: |-
+  Numerical Integration over Spheres and Balls in n-Dimensions;
+  Multivariate Polar Coordinates
+maintainer: John P. Nolan
+description: |-
+  Provides several methods to integrate functions over the unit
+  sphere and ball in n-dimensional Euclidean space.  Routines for converting to/from
+  multivariate polar/spherical coordinates are also provided.
+date_publication: '2017-09-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SphericalCubature
+url_git: ''

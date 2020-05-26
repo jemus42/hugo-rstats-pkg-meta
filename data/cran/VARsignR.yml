@@ -1,0 +1,10 @@
+version: 0.1.3
+title: Sign Restrictions, Bayesian, Vector Autoregression Models
+maintainer: Christian Danne
+description: Provides routines for identifying structural shocks in vector autoregressions
+  (VARs) using sign restrictions.
+date_publication: '2015-12-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=VARsignR
+url_git: ''

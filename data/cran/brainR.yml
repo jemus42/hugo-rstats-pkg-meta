@@ -1,0 +1,15 @@
+version: 1.6.0
+title: |-
+  Helper Functions to 'misc3d' and 'rgl' Packages for Brain
+  Imaging
+maintainer: John Muschelli
+description: |-
+  This includes functions for creating 3D and 4D images using
+  'WebGL', 'rgl', and 'JavaScript' commands.
+  This package relies on the X toolkit ('XTK',
+  <https://github.com/xtk/X#readme>).
+date_publication: '2019-12-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=brainR
+url_git: ''

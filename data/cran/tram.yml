@@ -1,0 +1,16 @@
+version: 0.4-0
+title: Transformation Models
+maintainer: Torsten Hothorn
+description: |-
+  Formula-based user-interfaces to specific transformation models
+  implemented in package 'mlt'. Available models include Cox models, some parametric
+  survival models (Weibull, etc.), models for ordered categorical variables,
+  normal and non-normal (Box-Cox type) linear models, and continuous outcome logistic regression
+  (Lohse et al., 2017, <DOI:10.12688/f1000research.12934.1>). The underlying theory
+  is described in Hothorn et al. (2018) <DOI:10.1111/sjos.12291>. An extension to
+  transformation models for clustered data is provided (Hothorn, 2019, <arxiv:1910.09219>).
+date_publication: '2020-05-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tram
+url_git: http://ctm.R-forge.R-project.org

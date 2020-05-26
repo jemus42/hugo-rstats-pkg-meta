@@ -1,0 +1,11 @@
+version: 1.7.0
+title: Prentice Rank Sum Test and McNemar Test
+maintainer: Benedetta Bigio
+description: |-
+  Performs Wilcox rank sum test, Kruskal rank sum test,
+  Friedman rank sum test and McNemar test.
+date_publication: '2012-08-23'
+bug_reports: ''
+url: http://mustat.rockefeller.edu
+url_cran: https://CRAN.R-project.org/package=muStat
+url_git: ''

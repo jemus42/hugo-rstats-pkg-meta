@@ -1,0 +1,10 @@
+version: 0.2.5
+title: A Control Systems Toolbox
+maintainer: Ben C. Ubah
+description: Solves control systems problems relating to time/frequency response,
+  LTI systems design and analysis, transfer function manipulations, and system conversion.
+date_publication: '2017-12-12'
+bug_reports: https://github.com/benubah/control/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=control
+url_git: ''

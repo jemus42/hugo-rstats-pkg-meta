@@ -1,0 +1,11 @@
+version: 0.4-2
+title: Genetic Rare Variants Tests
+maintainer: Thomas Hoffmann
+description: A step-up test for genetic rare variants in a gene or in a pathway. The
+  method determines an optimal grouping of rare variants analytically. The method
+  has been described in Hoffmann TJ, Marini NJ, and Witte JS (2010) <doi:10.1371/journal.pone.0013584>.
+date_publication: '2018-04-18'
+bug_reports: ''
+url: http://sites.google.com/site/thomashoffmannproject/https://doi.org/10.1371/journal.pone.0013584
+url_cran: https://CRAN.R-project.org/package=thgenetics
+url_git: ''

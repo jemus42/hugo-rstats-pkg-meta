@@ -1,0 +1,13 @@
+version: 1.2.2
+title: Functions to Convert Between Weather Metrics
+maintainer: Brooke Anderson
+description: |-
+  Functions to convert between weather metrics, including conversions
+  for metrics of temperature, air moisture, wind speed, and precipitation.
+  This package also includes functions to calculate the heat index from
+  air temperature and air moisture.
+date_publication: '2016-05-19'
+bug_reports: https://github.com/geanders/weathermetrics/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=weathermetrics
+url_git: https://github.com/geanders/weathermetrics/

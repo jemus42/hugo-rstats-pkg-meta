@@ -1,0 +1,13 @@
+version: 0.3-3
+title: Classical Jacobi Eigenvalue Algorithm
+maintainer: Bill Venables
+description: |-
+  Implements the classical Jacobi algorithm for the
+  eigenvalues and eigenvectors of a real symmetric matrix, both in
+  pure 'R' and in 'C++' using 'Rcpp'. Mainly as a programming example
+  for teaching purposes.
+date_publication: '2019-03-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=JacobiEigen
+url_git: ''

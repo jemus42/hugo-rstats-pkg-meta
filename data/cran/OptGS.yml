@@ -1,0 +1,11 @@
+version: 1.1.1
+title: |-
+  Near-Optimal and Balanced Group-Sequential Designs for Clinical
+  Trials with Continuous Outcomes
+maintainer: James Wason
+description: Functions to find near-optimal multi-stage designs for continuous outcomes.
+date_publication: '2015-09-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OptGS
+url_git: ''

@@ -1,0 +1,14 @@
+version: 0.6.3
+title: Retinal Reconstruction Program
+maintainer: David C. Sterratt
+description: |-
+  Reconstructs retinae by morphing a flat surface with cuts (a
+  dissected flat-mount retina) onto a curvilinear surface (the standard retinal
+  shape). It can estimate the position of a point on the intact adult retina
+  to within 8 degrees of arc (3.6% of nasotemporal axis). The coordinates in
+  reconstructed retinae can be transformed to visuotopic coordinates.
+date_publication: '2020-04-04'
+bug_reports: https://github.com/davidcsterratt/retistruct/issues
+url: http://davidcsterratt.github.io/retistruct/
+url_cran: https://CRAN.R-project.org/package=retistruct
+url_git: ''

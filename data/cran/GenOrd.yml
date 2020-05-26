@@ -1,0 +1,12 @@
+version: 1.4.0
+title: |-
+  Simulation of Discrete Random Variables with Given Correlation
+  Matrix and Marginal Distributions
+maintainer: Alessandro Barbiero
+description: A gaussian copula based procedure for generating samples from discrete
+  random variables with prescribed correlation matrix and marginal distributions.
+date_publication: '2015-09-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GenOrd
+url_git: ''

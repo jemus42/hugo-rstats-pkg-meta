@@ -1,0 +1,10 @@
+version: '0.7'
+title: programmatic interface to the AntWeb
+maintainer: '''Karthik Ram'''
+description: A complete programmatic interface to the AntWeb database from the<U+000a>California
+  Academy of Sciences.
+date_publication: '2014-08-14'
+bug_reports: https://github.com/ropensci/AntWeb/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=AntWeb
+url_git: https://github.com/ropensci/AntWeb

@@ -1,0 +1,9 @@
+version: 1.0.2
+title: 3D Interactive Globes
+maintainer: Richard Barnes
+description: Displays geospatial data on an interactive 3D globe in the web browser.
+date_publication: '2017-06-02'
+bug_reports: https://github.com/r-barnes/webglobe/
+url: ''
+url_cran: https://CRAN.R-project.org/package=webglobe
+url_git: https://github.com/r-barnes/webglobe/

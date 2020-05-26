@@ -1,0 +1,17 @@
+version: 0.3.4
+title: |-
+  Download Weather Data from the Environment and Climate Change
+  Canada Website
+maintainer: Steffi LaZerte
+description: |-
+  Provides means for downloading historical weather data from
+  the Environment and Climate Change Canada website
+  (<http://climate.weather.gc.ca/historical_data/search_historic_data_e.html>).
+  Data can be downloaded from multiple stations and over large date ranges
+  and automatically processed into a single dataset. Tools are also provided
+  to identify stations either by name or proximity to a location.
+date_publication: '2020-04-17'
+bug_reports: https://github.com/ropensci/weathercan/issues
+url: https://docs.ropensci.org/weathercan
+url_cran: https://CRAN.R-project.org/package=weathercan
+url_git: https://github.com/ropensci/weathercan

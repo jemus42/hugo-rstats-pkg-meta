@@ -1,0 +1,11 @@
+version: 1.0.1
+title: Wrapper Functions to the 'BMRS API'
+maintainer: Adam Rawles
+description: |-
+  A set of wrapper functions to better interact with the 'Balancing Mechanism
+  Reporting System API'.
+date_publication: '2020-05-18'
+bug_reports: ''
+url: http://bmrsr.arawles.co.uk
+url_cran: https://CRAN.R-project.org/package=BMRSr
+url_git: ''

@@ -1,0 +1,9 @@
+version: 1.3.0
+title: Interactive Statistical Data Visualization
+maintainer: R. Wayne Oldford
+description: An extendable toolkit for interactive data visualization and exploration.
+date_publication: '2020-05-24'
+bug_reports: https://github.com/great-northern-diver/loon/issues
+url: http://great-northern-diver.github.io/loon/
+url_cran: https://CRAN.R-project.org/package=loon
+url_git: ''

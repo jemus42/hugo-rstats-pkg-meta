@@ -1,0 +1,12 @@
+version: 1.0-3
+title: a Keep It Simple Species Migration Model
+maintainer: Michael P. Nobis
+description: Simulating species migration and range dynamics under stable or changing
+  environmental conditions based on a simple, raster-based, stochastic migration model.
+  Providing accessibility for considering species migration in niche-based species
+  distribution models.
+date_publication: '2015-01-30'
+bug_reports: ''
+url: http://purl.oclc.org/wsl/kissmig
+url_cran: https://CRAN.R-project.org/package=kissmig
+url_git: ''

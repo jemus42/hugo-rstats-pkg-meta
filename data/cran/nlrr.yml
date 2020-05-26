@@ -1,0 +1,9 @@
+version: '0.1'
+title: Non-Linear Relative Risk Estimation and Plotting
+maintainer: Yiqiang Zhan
+description: Estimate the non-linear odds ratio and plot it against a continuous exposure.
+date_publication: '2015-11-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nlrr
+url_git: ''

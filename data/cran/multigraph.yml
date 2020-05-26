@@ -1,0 +1,11 @@
+version: '0.93'
+title: Plot and Manipulate Multigraphs
+maintainer: Antonio Rivero Ostoic
+description: Functions to plot and manipulate multigraphs, signed and valued graphs,
+  bipartite graphs, multilevel graphs, and Cayley graphs with different layout options.
+  Please note that this package still under a devel version.
+date_publication: '2020-02-28'
+bug_reports: https://github.com/mplex/multigraph/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=multigraph
+url_git: http://github.com/mplex/multigraph/

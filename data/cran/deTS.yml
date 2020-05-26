@@ -1,0 +1,11 @@
+version: '1.0'
+title: Tissue-Specific Enrichment Analysis
+maintainer: Guangsheng Pei
+description: 'Tissue-specific enrichment analysis to assess lists of candidate genes
+  or RNA-Seq expression profiles. Pei G., Dai Y., Zhao Z. Jia P. (2019) deTS: Tissue-Specific
+  Enrichment Analysis to decode tissue specificity. Bioinformatics, In submission.'
+date_publication: '2019-02-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=deTS
+url_git: ''

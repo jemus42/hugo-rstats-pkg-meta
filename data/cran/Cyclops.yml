@@ -1,0 +1,17 @@
+version: 2.0.3
+title: |-
+  Cyclic Coordinate Descent for Logistic, Poisson and Survival
+  Analysis
+maintainer: Marc A. Suchard
+description: |-
+  This model fitting tool incorporates cyclic coordinate descent and
+  majorization-minimization approaches to fit a variety of regression models
+  found in large-scale observational healthcare data.  Implementations focus
+  on computational optimization and fine-scale parallelization to yield
+  efficient inference in massive datasets.  Please see:
+  Suchard, Simpson, Zorych, Ryan and Madigan (2013) <doi:10.1145/2414416.2414791>.
+date_publication: '2020-04-11'
+bug_reports: https://github.com/ohdsi/cyclops/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Cyclops
+url_git: https://github.com/ohdsi/cyclops

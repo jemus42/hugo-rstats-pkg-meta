@@ -1,0 +1,10 @@
+version: 1.1.1
+title: Paired Data Analysis
+maintainer: Stephane Champely
+description: Many datasets and a set of graphics (based on ggplot2), statistics, effect
+  sizes and hypothesis tests are provided for analysing paired data with S4 class.
+date_publication: '2018-06-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PairedData
+url_git: ''

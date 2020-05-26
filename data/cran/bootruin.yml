@@ -1,0 +1,14 @@
+version: 1.2-4
+title: |-
+  A Bootstrap Test for the Probability of Ruin in the Classical
+  Risk Process
+maintainer: Benjamin Baumgartner
+description: We provide a framework for testing the probability of ruin in the classical
+  (compound Poisson) risk process. It also includes some procedures for assessing
+  and comparing the performance between the bootstrap test and the test using asymptotic
+  normality.
+date_publication: '2016-12-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bootruin
+url_git: ''

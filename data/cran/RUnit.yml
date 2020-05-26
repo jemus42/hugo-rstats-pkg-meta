@@ -1,0 +1,12 @@
+version: 0.4.32
+title: R Unit Test Framework
+maintainer: Roman Zenka
+description: |-
+  R functions implementing a standard Unit Testing
+  framework, with additional code inspection and report
+  generation tools.
+date_publication: '2018-05-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RUnit
+url_git: ''

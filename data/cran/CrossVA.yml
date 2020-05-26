@@ -1,0 +1,15 @@
+version: 0.10.0
+title: |-
+  Verbal Autopsy Data Transformation for InSilicoVA and InterVA5
+  Algorithms
+maintainer: Jason Thomas
+description: |-
+  Enables transformation of Verbal Autopsy data collected with the WHO 2016 questionnaire (versions 1.4.1 & 1.5.1)
+  or the WHO 2014 questionnaire for automated coding of Cause of Death using the InSilicoVA (data.type = "WHO2016") and
+  InterVA5 algorithms. Previous versions of this package supported user-supplied mappings (via the map_records function), but
+  this functionality has been removed.  This package is made available by WHO and the Bloomberg Data for Health Initiative.
+date_publication: '2020-04-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CrossVA
+url_git: ''

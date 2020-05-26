@@ -1,0 +1,12 @@
+version: 0.5-0
+title: An R Package for Simulating IRT-Based Computerized Adaptive<U+000a>Tests
+maintainer: Steven W. Nydick
+description: Functions designed to simulate data that conform to basic<U+000a>unidimensional
+  IRT models (for now 3-parameter binary response models<U+000a>and graded response
+  models) along with Post-Hoc CAT simulations of<U+000a>those models with various
+  item selection methods, ability estimation<U+000a>methods, and termination criteria.
+date_publication: '2014-10-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=catIrt
+url_git: ''

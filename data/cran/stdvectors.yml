@@ -1,0 +1,9 @@
+version: 0.0.5
+title: C++ Standard Library Vectors in R
+maintainer: Marco Giuliano
+description: Allows the creation and manipulation of C++ std::vector's in R.
+date_publication: '2017-02-21'
+bug_reports: https://github.com/digEmAll/stdvectors/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=stdvectors
+url_git: https://github.com/digEmAll/stdvectors

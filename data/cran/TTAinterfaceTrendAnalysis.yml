@@ -1,0 +1,16 @@
+version: 1.5.5
+title: Temporal Trend Analysis Graphical Interface
+maintainer: David DEVREKER
+description: |-
+  This interface was created to develop a standard procedure
+  to analyse temporal trend in the framework of the OSPAR convention.
+  The analysis process run through 4 successive steps : 1) manipulate your data, 2)
+  select the parameters you want to analyse, 3) build your regulated
+  time series, 4) perform diagnosis and analysis and 5) read the results.
+  Statistical analysis call other package function such as Kendall tests
+  or cusum() function.
+date_publication: '2019-11-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TTAinterfaceTrendAnalysis
+url_git: ''

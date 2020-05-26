@@ -1,0 +1,9 @@
+version: 1.0.23.1
+title: Tools for General Maximum Likelihood Estimation
+maintainer: Ben Bolker
+description: Methods and functions for fitting maximum likelihood models in R.
+date_publication: '2020-02-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bbmle
+url_git: https://github.com/bbolker/bbmle

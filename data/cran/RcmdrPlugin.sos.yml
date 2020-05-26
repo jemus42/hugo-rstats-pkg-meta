@@ -1,0 +1,13 @@
+version: 0.3-0
+title: Efficiently search the R help pages
+maintainer: Liviu Andronic
+description: |-
+  Rcmdr interface to the 'sos' package. The plug-in renders
+  the 'sos' searching functionality easily accessible via the Rcmdr
+  menus. It also simplifies the task of performing multiple searches and
+  subsequently obtaining the union or the intersection of the results.
+date_publication: '2013-12-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.sos
+url_git: ''

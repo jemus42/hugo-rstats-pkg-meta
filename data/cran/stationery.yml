@@ -1,0 +1,16 @@
+version: 0.98.30
+title: Working Examples for Reproducible Research Documents
+maintainer: Paul Johnson
+description: |-
+  Templates, guides, and scripts for
+  writing documents in 'LaTeX' and 'R markdown' to produce
+  guides, slides, and reports. Special care is taken to
+  illustrate use of templates and customization opportunities.
+  Challenges and opportunities of 'HTML' output from 'R markdown'
+  receive special attention. Includes several vignettes
+  to assist new users of literate programming.
+date_publication: '2020-04-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=stationery
+url_git: ''

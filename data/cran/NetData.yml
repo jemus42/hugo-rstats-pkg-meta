@@ -1,0 +1,11 @@
+version: '0.3'
+title: Network Data for McFarland's SNA R labs
+maintainer: Solomon Messing
+description: |-
+  This package contains all data needed for Dan McFarland's
+  SNA R labs.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NetData
+url_git: ''

@@ -1,0 +1,14 @@
+version: 1.4.1
+title: |-
+  Estimating the Parameters of a Continuous-Time Markov Chain from
+  Discrete-Time Data
+maintainer: Marius Pfeuffer
+description: Functions for estimating Markov generator matrices from discrete-time
+  observations. The implemented approaches comprise diagonal adjustment, weighted
+  adjustment and quasi-optimization of matrix logarithm based candidate solutions,
+  an expectation-maximization algorithm as well as a Gibbs sampler.
+date_publication: '2019-01-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ctmcd
+url_git: ''

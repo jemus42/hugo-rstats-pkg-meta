@@ -1,0 +1,11 @@
+version: 1.1-2
+title: Bradley-Terry Models
+maintainer: Heather Turner
+description: Specify and fit the Bradley-Terry model, including structured versions
+  in which the parameters are related to explanatory variables through a linear predictor
+  and versions with contest-specific effects, such as a home advantage.
+date_publication: '2020-02-03'
+bug_reports: https://github.com/hturner/BradleyTerry2/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=BradleyTerry2
+url_git: https://github.com/hturner/BradleyTerry2

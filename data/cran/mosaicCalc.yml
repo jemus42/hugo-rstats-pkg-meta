@@ -1,0 +1,17 @@
+version: 0.5.1
+title: |-
+  Function-Based Numerical and Symbolic Differentiation and
+  Antidifferentiation
+maintainer: Daniel Kaplan
+description: |-
+  Part of the Project MOSAIC (<http://mosaic-web.org/>)
+  suite that provides utility functions for doing calculus
+  (differentiation and integration) in R. The main differentiation and
+  antidifferentiation operators are described using formulas and return functions
+  rather than numerical values. Numerical values can be obtained by evaluating
+  these functions.
+date_publication: '2020-05-07'
+bug_reports: https://github.com/ProjectMOSAIC/mosaicCalc/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mosaicCalc
+url_git: https://github.com/ProjectMOSAIC/mosaicCalc

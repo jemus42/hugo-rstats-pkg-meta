@@ -1,0 +1,13 @@
+version: 0.1.8
+title: Amazon Web Services Management & Governance APIs
+maintainer: David Kretch
+description: |-
+  Interface to Amazon Web Services management and governance
+  APIs, including 'CloudWatch' application and infrastructure
+  monitoring, 'Auto Scaling' for automatically scaling resources, and
+  more <https://aws.amazon.com/>.
+date_publication: '2020-04-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=paws.management
+url_git: ''

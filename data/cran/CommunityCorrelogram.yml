@@ -1,0 +1,10 @@
+version: '1.0'
+title: Ecological Community Correlogram
+maintainer: J. Malia Andrus
+description: The CommunityCorrelogram package is designed for the geostatistical analysis
+  of ecological community datasets with either a spatial or temporal distance component.
+date_publication: '2014-06-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CommunityCorrelogram
+url_git: ''

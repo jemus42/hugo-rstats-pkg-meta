@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Dynamic Programming Domain-Specific Language
+maintainer: Thomas Mailund
+description: |-
+  A domain-specific language for specifying translating recursions
+  into dynamic-programming algorithms. See
+  <https://en.wikipedia.org/wiki/Dynamic_programming> for a description
+  of dynamic programming.
+date_publication: '2019-12-09'
+bug_reports: https://github.com/mailund/dynprog/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dynprog
+url_git: https://github.com/mailund/dynprog

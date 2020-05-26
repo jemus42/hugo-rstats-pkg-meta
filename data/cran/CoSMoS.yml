@@ -1,0 +1,11 @@
+version: 1.1.3
+title: Complete Stochastic Modelling Solution
+maintainer: Filip Strnad
+description: A single framework, unifying, extending, and improving a general-purpose
+  modelling strategy, based on the assumption that any process can emerge by transforming
+  a specific 'parent' Gaussian process Papalexiou (2018) <doi:10.1016/j.advwatres.2018.02.013>.
+date_publication: '2020-04-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CoSMoS
+url_git: ''

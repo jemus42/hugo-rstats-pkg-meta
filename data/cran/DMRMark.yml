@@ -1,0 +1,17 @@
+version: 1.1.1
+title: |-
+  DMR Detection by Non-Homogeneous Hidden Markov Model from
+  Methylation Array Data
+maintainer: Linghao SHEN
+description: |-
+  Perform differential analysis for
+  methylation array data. Detect differentially
+  methylated regions (DMRs) from array M-values.
+  The core is a Non-homogeneous Hidden Markov Model
+  for estimating spatial correlation and a novel Constrained
+  Gaussian Mixture Model for modeling the M-value pairs of each individual locus.
+date_publication: '2017-04-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DMRMark
+url_git: ''

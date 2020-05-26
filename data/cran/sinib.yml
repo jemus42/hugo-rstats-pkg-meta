@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Sum of Independent Non-Identical Binomial Random Variables
+maintainer: Boxiang Liu
+description: |-
+  Density, distribution function, quantile function
+  and random generation for the sum of independent non-identical
+  binomial distribution with parameters \code{size} and \code{prob}.
+date_publication: '2017-05-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sinib
+url_git: ''

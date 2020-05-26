@@ -1,0 +1,22 @@
+version: 0.3.0
+title: |-
+  Interface for the 'Finnish Biodiversity Information Facility'
+  API
+maintainer: William Morris
+description: |-
+  A programmatic interface to the 'Finnish Biodiversity Information
+  Facility' ('FinBIF') API (<https://api.laji.fi>). 'FinBIF' aggregates
+  Finnish biodiversity data from multiple sources in a single open access
+  portal for researchers, citizen scientists, industry and government.
+  'FinBIF' allows users of biodiversity information to find, access, combine
+  and visualise data on Finnish plants, animals and microorganisms. The
+  'finbif' package makes the publicly available data in 'FinBIF' easily
+  accessible to programmers. Biodiversity information is available on taxonomy
+  and taxon occurrence. Occurrence data can be filtered by taxon, time,
+  location and other variables. The data accessed are conveniently
+  preformatted for subsequent analyses.
+date_publication: '2020-04-23'
+bug_reports: https://github.com/luomus/finbif/issues
+url: https://luomus.github.io/finbif
+url_cran: https://CRAN.R-project.org/package=finbif
+url_git: https://github.com/luomus/finbif

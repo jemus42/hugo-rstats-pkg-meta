@@ -1,0 +1,11 @@
+version: '1.0'
+title: Roy's Bivariate Geometric Distribution
+maintainer: Alessandro Barbiero
+description: 'Implements Roy''s bivariate geometric model (Roy (1993) <doi:10.1006/jmva.1993.1065>):
+  joint probability mass function, distribution function, survival function, random
+  generation, parameter estimation, and more.'
+date_publication: '2018-10-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bivgeom
+url_git: ''

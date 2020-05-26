@@ -1,0 +1,11 @@
+version: 2.1.5
+title: Grain-Size Statistics and Description of Sediment
+maintainer: Regis K. Gallon
+description: |-
+  Full descriptive statistics, physical description of sediment,
+  metric or phi sieves.
+date_publication: '2015-12-07'
+bug_reports: ''
+url: http://regisgallon.wordpress.com/r-software/
+url_cran: https://CRAN.R-project.org/package=G2Sd
+url_git: ''

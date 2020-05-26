@@ -1,0 +1,11 @@
+version: '1.1'
+title: Simulation of Ecological Models
+maintainer: Alexandre Adalardo de Oliveira
+description: |-
+  Computer simulations of classical ecological models as a
+  learning resource.
+date_publication: '2018-10-11'
+bug_reports: ''
+url: http//ecovirtual.ib.usp.br
+url_cran: https://CRAN.R-project.org/package=EcoVirtual
+url_git: ''

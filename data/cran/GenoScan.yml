@@ -1,0 +1,12 @@
+version: '0.1'
+title: |-
+  A Genome-Wide Scan Statistic Framework for Whole-Genome Sequence
+  Data Analysis
+maintainer: Zihuai He
+description: Functions for whole-genome sequencing studies, including genome-wide
+  scan, candidate region scan and single window test.
+date_publication: '2018-12-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GenoScan
+url_git: ''

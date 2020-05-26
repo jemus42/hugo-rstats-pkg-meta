@@ -1,0 +1,12 @@
+version: 1.1.1
+title: Measures, Tests and Removes Multivariate Skewness
+maintainer: Cinzia Franceschini
+description: Computes the third multivariate cumulant of either the raw, centered
+  or standardized data. Computes the main measures of multivariate skewness, together
+  with their bootstrap distributions. Finally, computes the least skewed linear projections
+  of the data.
+date_publication: '2017-06-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MultiSkew
+url_git: ''

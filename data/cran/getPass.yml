@@ -1,0 +1,13 @@
+version: 0.2-2
+title: Masked User Input
+maintainer: Drew Schmidt
+description: |-
+  A micro-package for reading "passwords", i.e.  reading
+  user input with masking, so that the input is not displayed as it
+  is typed.  Currently we have support for 'RStudio', the command line
+  (every OS), and any platform where 'tcltk' is present.
+date_publication: '2017-07-21'
+bug_reports: https://github.com/wrathematics/getPass/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=getPass
+url_git: https://github.com/wrathematics/getPass

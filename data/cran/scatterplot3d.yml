@@ -1,0 +1,9 @@
+version: 0.3-41
+title: 3D Scatter Plot
+maintainer: Uwe Ligges
+description: Plots a three dimensional (3D) point cloud.
+date_publication: '2018-03-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=scatterplot3d
+url_git: ''

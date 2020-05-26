@@ -1,0 +1,14 @@
+version: 0.7-9
+title: A Data Analysis GUI for R
+maintainer: Ian Fellows
+description: An intuitive, cross-platform graphical data analysis system. It uses
+  menus and dialogs to guide the user efficiently through the data manipulation and
+  analysis process, and has an excel like spreadsheet for easy data frame visualization
+  and editing. Deducer works best when used with the Java based R GUI JGR, but the
+  dialogs can be called from the command line. Dialogs have also been integrated into
+  the Windows Rgui.
+date_publication: '2015-12-29'
+bug_reports: ''
+url: http://www.deducer.org/manual.htmlhttp://www.fellstat.com
+url_cran: https://CRAN.R-project.org/package=Deducer
+url_git: ''

@@ -1,0 +1,11 @@
+version: 1.1-4
+title: Species Distribution Modeling
+maintainer: Robert J. Hijmans
+description: Functions for species distribution modeling, that is, predicting entire
+  geographic distributions form occurrences at a number of sites and the environment
+  at these sites.
+date_publication: '2017-01-09'
+bug_reports: ''
+url: http://rspatial.org/sdm/
+url_cran: https://CRAN.R-project.org/package=dismo
+url_git: ''

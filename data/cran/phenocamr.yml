@@ -1,0 +1,17 @@
+version: 1.1.4
+title: |-
+  Facilitates 'PhenoCam' Data Access and Time Series
+  Post-Processing
+maintainer: Hufkens Koen
+description: |2-
+
+  Programmatic interface to the 'PhenoCam' web services (<http://phenocam.sr.unh.edu>).
+  Allows for easy downloading of 'PhenoCam' data directly to your R workspace
+  or your computer and provides post-processing routines for consistent and easy
+  timeseries outlier detection, smoothing and estimation of phenological transition dates.
+  Methods for this package are described in detail in Hufkens et. al (2018) <doi:10.1111/2041-210X.12970>.
+date_publication: '2020-03-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=phenocamr
+url_git: ''

@@ -1,0 +1,15 @@
+version: 1.2-1
+title: Catalogues of resolution IV 128 run 2-level fractional<U+000a>factorials up
+  to 33 factors that do have 5-letter words
+maintainer: Ulrike Groemping
+description: This package provides catalogues of resolution IV regular<U+000a>fractional
+  factorial designs in 128 runs for up to 33 2-level<U+000a>factors. The catalogues
+  are complete, excluding resolution IV<U+000a>designs without 5-letter words, because
+  these do not add value<U+000a>for a search for clear designs. The previous package
+  version<U+000a>1.0 with complete catalogues up to 24 runs (24 runs and a<U+000a>namespace
+  added later) can be downloaded from the authors<U+000a>website.
+date_publication: '2013-04-19'
+bug_reports: ''
+url: http://prof.beuth-hochschule.de/groemping/DoE/
+url_cran: https://CRAN.R-project.org/package=FrF2.catlg128
+url_git: ''

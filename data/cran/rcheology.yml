@@ -1,0 +1,10 @@
+version: 4.0.0.0
+title: Data on Base Packages for Current and Previous Versions of R
+maintainer: David Hugh-Jones
+description: Provides a dataset of functions in all base packages of R versions 1.0.1
+  onwards.
+date_publication: '2020-04-30'
+bug_reports: https://github.com/hughjonesd/rcheology/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rcheology
+url_git: https://github.com/hughjonesd/rcheology

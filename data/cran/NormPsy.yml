@@ -1,0 +1,14 @@
+version: 1.0.8
+title: Normalisation of Psychometric Tests
+maintainer: Cecile Proust-Lima
+description: Functions for normalizing psychometric test scores. The normalization
+  aims at correcting the metrological properties of the psychometric tests such as
+  the ceiling and floor effects and the curvilinearity (unequal interval scaling).
+  Functions to compute and plot predictions in the natural scale of the psychometric
+  test from the estimates of a linear mixed model estimated on the normalized scores
+  are also provided. See Philipps et al (2014) <doi:10.1159/000365637> for details.
+date_publication: '2018-05-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NormPsy
+url_git: ''

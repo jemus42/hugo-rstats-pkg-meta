@@ -1,0 +1,15 @@
+version: '0.3'
+title: Binning Variables to Use in Logistic Regression
+maintainer: Sneha Tody
+description: Fast binning of multiple variables using parallel processing. A summary
+  of all the variables binned is generated which provides the information value, entropy,
+  an indicator of whether the variable follows a monotonic trend or not, etc. It supports
+  rebinning of variables to force a monotonic trend as well as manual binning based
+  on pre specified cuts. The cut points of the bins are based on conditional inference
+  trees as implemented in the partykit package. The conditional inference framework
+  is described by Hothorn T, Hornik K, Zeileis A (2006) <doi:10.1198/106186006X133933>.
+date_publication: '2018-05-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=logiBin
+url_git: ''

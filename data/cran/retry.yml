@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Repeated Evaluation
+maintainer: Randy Lai
+description: Provide simple mechanism to repeatedly evaluate an expression until either
+  it succeeds or timeout exceeded. It is useful in situations that random failures
+  could happen.
+date_publication: '2020-04-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=retry
+url_git: https://github.com/randy3k/retry

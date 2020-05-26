@@ -1,0 +1,15 @@
+version: 1.2.1
+title: Foundations and Applications of Statistics Using R (2nd Edition)
+maintainer: Randall Pruim
+description: |-
+  Data sets and utilities to accompany the second edition of
+  "Foundations and Applications of Statistics: an Introduction
+  using R" (R Pruim, published by AMS, 2017), a text covering
+  topics from probability and mathematical statistics at an advanced
+  undergraduate level.  R is integrated throughout, and access to all
+  the R code in the book is provided via the snippet() function.
+date_publication: '2018-08-31'
+bug_reports: https://github.com/rpruim/fastR2/issues
+url: http://rpruim.github.io/fastR2/
+url_cran: https://CRAN.R-project.org/package=fastR2
+url_git: https://github.com/rpruim/fastR2

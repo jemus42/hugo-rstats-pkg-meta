@@ -1,0 +1,14 @@
+version: 0.1.3
+title: |-
+  Bayesian Adaptive Designs for Phase II Trials with Binary
+  Endpoint
+maintainer: Manuel Wiesenfarth
+description: Tools and workflow to choose design parameters in Bayesian adaptive single-arm
+  phase II trial designs with binary endpoint (response, success) with possible stopping
+  for efficacy and futility at interim analyses. Also contains routines to determine
+  and visualize operating characteristics. See Kopp-Schneider et al. (2018) <doi:10.1002/bimj.201700209>.
+date_publication: '2018-07-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BDP2
+url_git: ''

@@ -1,0 +1,11 @@
+version: '0.6'
+title: Scatterplots with More Points
+maintainer: Mirek Kratochvil
+description: |-
+  C-based conversion of large scatterplot data to rasters. Speeds up
+  plotting of data with millions of points.
+date_publication: '2020-03-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=scattermore
+url_git: https://github.com/exaexa/scattermore

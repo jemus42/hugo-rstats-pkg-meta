@@ -1,0 +1,14 @@
+version: 1.0.1
+title: |-
+  ILO Open Data via Ilostat Bulk Download Facility or SDMX Web
+  Service
+maintainer: David Bescond
+description: |-
+  Tools to download data from the ilostat database
+  <https://ilostat.ilo.org> together with search and
+  manipulation utilities.
+date_publication: '2019-06-26'
+bug_reports: https://github.com/ilostat/Rilostat/issues
+url: https://ilostat.github.io/Rilostat/
+url_cran: https://CRAN.R-project.org/package=Rilostat
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Tree Structured Hidden Markov Model
+maintainer: Prajwal Bende
+description: Used for Inference, Prediction and Parameter learning for tree structured
+  Hidden Markov Model. The package propose a new architecture of Hidden Markov Model(HMM)
+  known as Tree Structured HMM which could be used in various applications which involves
+  graphs, trees etc.
+date_publication: '2019-12-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=treeHMM
+url_git: ''

@@ -1,0 +1,9 @@
+version: 0.1.3
+title: ProPublica API Client
+maintainer: Thomas J. Leeper
+description: Client for accessing data journalism APIs from ProPublica <http://www.propublica.org/>.
+date_publication: '2015-12-22'
+bug_reports: https://github.com/rOpenGov/RPublica/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=RPublica
+url_git: https://github.com/rOpenGov/RPublica

@@ -1,0 +1,9 @@
+version: '0.6'
+title: Tag Clouds
+maintainer: January Weiner
+description: Generating Tag and Word Clouds.
+date_publication: '2015-07-03'
+bug_reports: ''
+url: http://logfc.wordpress.com
+url_cran: https://CRAN.R-project.org/package=tagcloud
+url_git: ''

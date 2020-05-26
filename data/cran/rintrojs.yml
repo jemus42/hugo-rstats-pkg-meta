@@ -1,0 +1,13 @@
+version: 0.2.2
+title: Wrapper for the 'Intro.js' Library
+maintainer: Carl Ganz
+description: |-
+  A wrapper for the 'Intro.js' library (For more info: <http://www.introjs.com>).
+  This package makes it easy to include step-by-step introductions, and clickable hints in a 'Shiny'
+  application. It supports both static introductions in the UI, and programmatic introductions from
+  the server-side.
+date_publication: '2019-05-29'
+bug_reports: https://github.com/carlganz/rintrojs/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rintrojs
+url_git: https://github.com/carlganz/rintrojs

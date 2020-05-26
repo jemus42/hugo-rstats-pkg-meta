@@ -1,0 +1,13 @@
+version: '2.3'
+title: Floating Grid Permutation Technique
+maintainer: Reinder Radersma
+description: A permutation technique to explore and control for spatial autocorrelation.
+  This package contains low level functions for performing permutations and calculating
+  statistics as well as higher level functions. Higher level functions are an easy
+  to use function for performing spatially restricted permutation tests and summarize
+  and plot results.
+date_publication: '2015-02-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fgpt
+url_git: ''

@@ -1,0 +1,9 @@
+version: 2.1.5
+title: Reddit Data Extraction Toolkit
+maintainer: Ivan Rivera
+description: A collection of tools for extracting structured data from <https://www.reddit.com/>.
+date_publication: '2019-01-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RedditExtractoR
+url_git: ''

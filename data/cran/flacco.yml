@@ -1,0 +1,15 @@
+version: '1.8'
+title: |-
+  Feature-Based Landscape Analysis of Continuous and Constrained
+  Optimization Problems
+maintainer: Pascal Kerschke
+description: |-
+  Tools and features for "Exploratory Landscape Analysis (ELA)" of
+  single-objective continuous optimization problems.
+  Those features are able to quantify rather complex properties, such as the
+  global structure, separability, etc., of the optimization problems.
+date_publication: '2020-03-31'
+bug_reports: https://github.com/kerschke/flacco/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=flacco
+url_git: https://github.com/kerschke/flacco

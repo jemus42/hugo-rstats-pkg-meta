@@ -1,0 +1,11 @@
+version: 1.2.2
+title: Categorical Data
+maintainer: Gunther Schauberger
+description: This R-package contains examples from the book "Regression for Categorical
+  Data", Tutz 2012, Cambridge University Press. The names of the examples refer to
+  the chapter and the data set that is used.
+date_publication: '2020-02-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=catdata
+url_git: ''

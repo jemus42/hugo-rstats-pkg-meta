@@ -1,0 +1,11 @@
+version: '0.1'
+title: Builds General Noise SVRs
+maintainer: Jesus Prada
+description: Builds general noise SVR models using Naive Online R Minimization Algorithm,
+  NORMA, an optimization method based on classical stochastic gradient descent suitable
+  for computing SVR models in an online setting.
+date_publication: '2017-01-24'
+bug_reports: ''
+url: http://link.springer.com/chapter/10.1007/978-3-319-19222-2_47
+url_cran: https://CRAN.R-project.org/package=NORMA
+url_git: ''

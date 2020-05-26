@@ -1,0 +1,17 @@
+version: 1.0.0-3
+title: Robust Loss Development Using MCMC
+maintainer: Can Wang
+description: Bayesian analysis of loss development on insurance triangles or 'BALD'
+  is a Bayesian model of developing aggregate loss triangles in property casualty
+  insurance. This actuarial model makes use of a heteroskedastic and skewed t-likelihood
+  with endogenous degrees of freedom, employs model averaging by means of Reversible
+  Jump MCMC, and accommodates a structural break in the path of the consumption of
+  benefits. Further, the model is capable of incorporating expert information in the
+  calendar year effect. In an accompanying vignette, this model is applied to two
+  widely studied General Liability and Auto Bodily Injury Liability loss triangles.
+  For a description of the methodology, see Frank A. Schmid (2010) <doi:10.2139/ssrn.1501706>.
+date_publication: '2018-10-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BALD
+url_git: ''

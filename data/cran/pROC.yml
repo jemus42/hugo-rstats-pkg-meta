@@ -1,0 +1,12 @@
+version: 1.16.2
+title: Display and Analyze ROC Curves
+maintainer: Xavier Robin
+description: Tools for visualizing, smoothing and comparing receiver operating characteristic
+  (ROC curves). (Partial) area under the curve (AUC) can be compared with statistical
+  tests based on U-statistics or bootstrap. Confidence intervals can be computed for
+  (p)AUC or ROC curves.
+date_publication: '2020-03-19'
+bug_reports: https://github.com/xrobin/pROC/issues
+url: http://expasy.org/tools/pROC/
+url_cran: https://CRAN.R-project.org/package=pROC
+url_git: ''

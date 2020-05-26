@@ -1,0 +1,13 @@
+version: 0.6.4
+title: Spatial Data Download and Utility Functions
+maintainer: Jonathan Callahan
+description: |-
+  A suite of conversion scripts to create internally standardized
+  spatial polygons data frames. Utility scripts use these data sets to return
+  values such as country, state, timezone, watershed, etc. associated with a
+  set of longitude/latitude pairs. (They also make cool maps.)
+date_publication: '2019-09-28'
+bug_reports: https://github.com/MazamaScience/MazamaSpatialUtils/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=MazamaSpatialUtils
+url_git: https://github.com/MazamaScience/MazamaSpatialUtils

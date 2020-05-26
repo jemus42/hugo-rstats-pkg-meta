@@ -1,0 +1,10 @@
+version: 1.2.2
+title: Write Formatted Tables in Excel Workbooks
+maintainer: Jesus Maria Rodriguez Rodriguez
+description: Some functions are included in this package for writing tables in Excel
+  format suitable for distribution.
+date_publication: '2017-05-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tablaxlsx
+url_git: ''

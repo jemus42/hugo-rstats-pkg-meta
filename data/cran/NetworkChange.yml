@@ -1,0 +1,12 @@
+version: '0.6'
+title: Bayesian Package for Network Changepoint Analysis
+maintainer: Jong Hee Park
+description: Network changepoint analysis for undirected network data. The package
+  implements a hidden Markov network change point model (Park and Sohn 2019). Functions
+  for break number detection using the approximate marginal likelihood and WAIC are
+  also provided.
+date_publication: '2020-02-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NetworkChange
+url_git: ''

@@ -1,0 +1,16 @@
+version: 0.3.2
+title: Classes for 'GeoJSON'
+maintainer: Scott Chamberlain
+description: |-
+  Classes for 'GeoJSON' to make working with 'GeoJSON' easier.
+  Includes S3 classes for 'GeoJSON' classes with brief summary output,
+  and a few methods such as extracting and adding bounding boxes,
+  properties, and coordinate reference systems; working with
+  newline delimited 'GeoJSON'; linting through the 'geojsonlint'
+  package; and serializing to/from 'Geobuf' binary 'GeoJSON'
+  format.
+date_publication: '2019-01-31'
+bug_reports: https://github.com/ropensci/geojson/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=geojson
+url_git: https://github.com/ropensci/geojson

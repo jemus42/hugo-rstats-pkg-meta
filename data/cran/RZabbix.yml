@@ -1,0 +1,10 @@
+version: 0.1.0
+title: R Module for Working with the 'Zabbix API'
+maintainer: Marcin Kosinski
+description: R interface to the 'Zabbix API' data <https://www.zabbix.com/documentation/3.0/manual/api/reference>.
+  Enables easy and direct communication with 'Zabbix API' from 'R'.
+date_publication: '2016-04-26'
+bug_reports: https://github.com/MarcinKosinski/RZabbix/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=RZabbix
+url_git: ''

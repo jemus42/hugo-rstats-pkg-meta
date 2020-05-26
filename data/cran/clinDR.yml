@@ -1,0 +1,19 @@
+version: 2.2.1
+title: |-
+  Simulation and Analysis Tools for Clinical Dose Response
+  Modeling
+maintainer: Neal Thomas
+description: |-
+  Bayesian and ML Emax model fitting, graphics and simulation for clinical dose
+  response.  The summary data from the dose response meta-analyses in
+  Thomas, Sweeney, and Somayaji (2014) <doi:10.1080/19466315.2014.924876> and
+  Thomas and Roy (2016) <doi:10.1080/19466315.2016.1256229>
+  Wu, Banerjee, Jin, Menon, Martin, and Heatherington(2017) <doi:10.1177/0962280216684528>
+  are included
+  in the package.  The prior distributions for the Bayesian analyses default to
+  the posterior predictive distributions derived from these references.
+date_publication: '2019-12-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=clinDR
+url_git: ''

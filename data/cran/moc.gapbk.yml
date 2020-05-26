@@ -1,0 +1,13 @@
+version: 0.1.0
+title: |-
+  Multi-Objective Clustering Algorithm Guided by a-Priori
+  Biological Knowledge
+maintainer: Jorge Parraga-Alava
+description: Implements the Multi-Objective Clustering Algorithm Guided by a-Priori
+  Biological Knowledge (MOC-GaPBK) which was proposed by Parraga-Alava, J. et. al.
+  (2018) <doi:10.1186/s13040-018-0178-4>.
+date_publication: '2019-03-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=moc.gapbk
+url_git: ''

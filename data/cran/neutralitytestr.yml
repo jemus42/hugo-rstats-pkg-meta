@@ -1,0 +1,13 @@
+version: 0.0.2
+title: Test for a Neutral Evolutionary Model in Cancer Sequencing Data
+maintainer: Marc Williams
+description: Package takes frequencies of mutations as reported by high throughput
+  sequencing data from cancer and fits a theoretical neutral model of tumour evolution.
+  Package outputs summary statistics and contains code for plotting the data and model
+  fits. See Williams et al 2016 <doi:10.1038/ng.3489> and Williams et al 2017 <doi:10.1101/096305>
+  for further details of the method.
+date_publication: '2018-05-21'
+bug_reports: https://github.com/marcjwilliams1/neutralitytestr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=neutralitytestr
+url_git: https://github.com/marcjwilliams1/neutralitytestr

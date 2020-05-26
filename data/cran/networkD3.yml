@@ -1,0 +1,11 @@
+version: '0.4'
+title: D3 JavaScript Network Graphs from R
+maintainer: Christopher Gandrud
+description: |-
+  Creates 'D3' 'JavaScript' network, tree, dendrogram, and Sankey
+  graphs from 'R'.
+date_publication: '2017-03-18'
+bug_reports: https://github.com/christophergandrud/networkD3/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=networkD3
+url_git: ''

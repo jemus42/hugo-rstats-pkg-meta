@@ -1,0 +1,10 @@
+version: '2.1'
+title: Autoregressive Conditional Poisson
+maintainer: Siakoulis Vasilios
+description: Analysis of count data exhibiting autoregressive properties, using the
+  Autoregressive Conditional Poisson model (ACP(p,q)) proposed by Heinen (2003).
+date_publication: '2015-12-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=acp
+url_git: ''

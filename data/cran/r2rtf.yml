@@ -1,0 +1,12 @@
+version: 0.1.1
+title: |-
+  Easily Create Presentation-Ready Rich Text Format (RTF) Table
+  and Figure
+maintainer: Yilong Zhang
+description: Create presentation-ready Rich Text Format (RTF) table and figure with
+  flexible and customized format.
+date_publication: '2020-04-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=r2rtf
+url_git: ''

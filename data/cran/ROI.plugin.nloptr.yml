@@ -1,0 +1,11 @@
+version: 0.3-3
+title: '''nloptr'' Plug-in for the ''R'' Optimization Infrastructure'
+maintainer: Florian Schwendinger
+description: |-
+  Enhances the R Optimization Infrastructure ('ROI') package
+  with the 'NLopt' solver for solving nonlinear optimization problems.
+date_publication: '2019-01-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ROI.plugin.nloptr
+url_git: http://R-Forge.R-project.org/projects/roi

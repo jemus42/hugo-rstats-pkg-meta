@@ -1,0 +1,11 @@
+version: 0.2.3
+title: Graphical VAR for Experience Sampling Data
+maintainer: Sacha Epskamp
+description: Estimates within and between time point interactions in experience sampling
+  data, using the Graphical vector autoregression model in combination with regularization.
+  See also Epskamp, Waldorp, Mottus & Borsboom (2018) <doi:10.1080/00273171.2018.1454823>.
+date_publication: '2020-04-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=graphicalVAR
+url_git: ''

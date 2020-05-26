@@ -1,0 +1,13 @@
+version: '3.10'
+title: |-
+  Bayesian Non-Homogeneous Markov and Mixture Models for Multiple
+  Time Series
+maintainer: Tracy Holsclaw
+description: |-
+  Holsclaw, Greene, Robertson, and Smyth (2017) <doi:10.1214/16-AOAS1009>. Bayesian HMM and NHMM modeling for multiple time series. The emission distribution can be mixtures of Exponential, Gamma, Poisson, or Normal distributions, and zero
+  inflation is possible.
+date_publication: '2019-10-30'
+bug_reports: ''
+url: http://iamrandom.com/nhmm-package
+url_cran: https://CRAN.R-project.org/package=NHMM
+url_git: ''

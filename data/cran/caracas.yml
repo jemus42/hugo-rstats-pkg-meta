@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Computer Algebra
+maintainer: Mikkel Meyer Andersen
+description: |-
+  Computer algebra via the 'SymPy' library (<https://www.sympy.org/>).
+  This makes it possible to solve equations symbolically,
+  find symbolic integrals, symbolic sums and other important quantities.
+date_publication: '2020-05-21'
+bug_reports: https://github.com/r-cas/caracas/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=caracas
+url_git: https://github.com/r-cas/caracas

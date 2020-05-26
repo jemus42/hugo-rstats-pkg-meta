@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Create and Manage Todolist using 'Todoist.com' API
+maintainer: Cervan Girard
+description: |-
+  Allows you to interact with the API of the "Todoist" platform.
+  'Todoist' <https://todoist.com/> provides an online task manager service for teams.
+date_publication: '2020-05-14'
+bug_reports: https://github.com/ThinkR-open/rtodoist/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rtodoist
+url_git: https://github.com/ThinkR-open/rtodoist

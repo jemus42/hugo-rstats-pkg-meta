@@ -1,0 +1,13 @@
+version: '1.0'
+title: |-
+  Computation of Ancestry Scores with Mixed Families and Unrelated
+  Individuals
+maintainer: Yi-Hui Zhou
+description: We provide several algorithms to compute the genotype ancestry scores
+  (such as eigenvector projections) in the case where highly correlated individuals
+  are involved.
+date_publication: '2017-03-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PCFAM
+url_git: ''

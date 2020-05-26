@@ -1,0 +1,13 @@
+version: '3.0'
+title: Bayesian Sparse Factor Analysis model for the inference of<U+000a>pathways
+  responsive to drug treatment
+maintainer: Haisu Ma
+description: This method tries to explain the gene-wise treatment response ratios
+  in terms of the latent pathways. It uses bayesian sparse factor modeling to infer
+  the loadings (weights) of each pathway on its associated probesets as well as the
+  latent factor activity levels for each treatment.
+date_publication: '2014-03-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FacPad
+url_git: ''

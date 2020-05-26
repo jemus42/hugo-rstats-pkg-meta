@@ -1,0 +1,14 @@
+version: 2.0-0
+title: |-
+  Calculate Solutions to the Kelvin Differential Equation using
+  Bessel Functions
+maintainer: Andrew J Barbour
+description: |-
+  Uses Bessel functions to calculate the
+  fundamental and complementary analytic solutions to the
+  Kelvin differential equation.
+date_publication: '2015-09-19'
+bug_reports: https://github.com/abarbour/kelvin/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=kelvin
+url_git: https://github.com/abarbour/kelvin

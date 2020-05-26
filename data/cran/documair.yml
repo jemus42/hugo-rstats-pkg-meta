@@ -1,0 +1,10 @@
+version: 0.6-0
+title: Automatic Documentation for R packages
+maintainer: Jean-Baptiste Denis
+description: Production of R packages from tagged comments introduced within the code<U+000a>and
+  a minimum of additional documentation files.
+date_publication: '2014-09-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=documair
+url_git: ''

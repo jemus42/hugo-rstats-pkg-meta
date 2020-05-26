@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Data on Freedom of Information Act Requests
+maintainer: Oliver Keyes
+description: |-
+  A data package containing public domain information on requests made by the
+  'MuckRock' (https://www.muckrock.com/) project under the United States
+  Freedom of Information Act.
+date_publication: '2016-06-06'
+bug_reports: https://github.com/Ironholds/muckrock/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=muckrock
+url_git: https://github.com/Ironholds/muckrock/

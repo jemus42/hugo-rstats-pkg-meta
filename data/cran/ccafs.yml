@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Client for 'CCAFS' 'GCM' Data
+maintainer: Scott Chamberlain
+description: |-
+  Client for Climate Change, Agriculture, and Food Security ('CCAFS')
+  General Circulation Models ('GCM') data. Data is stored in Amazon 'S3', from
+  which we provide functions to fetch data.
+date_publication: '2017-02-24'
+bug_reports: https://github.com/ropensci/ccafs/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ccafs
+url_git: https://github.com/ropensci/ccafs

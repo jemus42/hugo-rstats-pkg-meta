@@ -1,0 +1,13 @@
+version: 0.4.3
+title: Convert R Markdown Files to DataCamp Light HTML Files
+maintainer: Filip Schouwenaars
+description: |-
+  DataCamp Light (<https://github.com/datacamp/datacamp-light>) is a light-weight implementation of the DataCamp UI,
+  that allows you to embed interactive exercises inside HTML documents. The tutorial package makes it easy to create these
+  HTML files from R Markdown files. An extension to knitr, tutorial detects appropriately formatted code chunks and replaces them
+  with DataCamp Light readable chunks in the resulting HTML file.
+date_publication: '2016-10-14'
+bug_reports: https://github.com/datacamp/tutorial/issues
+url: http://www.datacamp.com
+url_cran: https://CRAN.R-project.org/package=tutorial
+url_git: ''

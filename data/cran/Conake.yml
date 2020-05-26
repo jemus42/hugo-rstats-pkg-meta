@@ -1,0 +1,12 @@
+version: '1.0'
+title: Continuous Associated Kernel Estimation
+maintainer: W. E. Wansouwé
+description: 'Continuous smoothing of probability density function on a compact or
+  semi-infinite support is performed using four continuous associated kernels: extended
+  beta, gamma, lognormal and reciprocal inverse Gaussian. The cross-validation technique
+  is also implemented for bandwidth selection.'
+date_publication: '2015-03-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Conake
+url_git: ''

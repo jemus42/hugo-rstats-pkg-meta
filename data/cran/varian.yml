@@ -1,0 +1,13 @@
+version: 0.2.2
+title: Variability Analysis in R
+maintainer: Joshua F. Wiley
+description: |-
+  Uses a Bayesian model to
+  estimate the variability in a repeated
+  measure outcome and use that as an outcome or a predictor
+  in a second stage model.
+date_publication: '2016-02-28'
+bug_reports: https://github.com/ElkhartGroup/varian/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=varian
+url_git: https://github.com/ElkhartGroup/varian

@@ -1,0 +1,12 @@
+version: 0.1.6
+title: Access to the 'Vagalume' API
+maintainer: Bruna Wundervald
+description: |-
+  Provides access to the 'Vagalume' API <https://api.vagalume.com.br>.
+  The data extracted is basically lyrics of songs and information about
+  artists/bands.
+date_publication: '2019-02-03'
+bug_reports: https://github.com/r-music/vagalumeR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=vagalumeR
+url_git: https://github.com/r-music/vagalumeR

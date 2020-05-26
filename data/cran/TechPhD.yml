@@ -1,0 +1,18 @@
+version: 1.0.0
+title: Tests and Estimation of Covariance Change-Points for Hi-Dim Data
+maintainer: Ping-Shou Zhong
+description: |-
+  An implementation of the procedures in Zhong et al. (2019) and Santo and Zhong (2020)
+  for testing the homogeneity of covariance matrices, and estimating
+  multiple change-points in high-dimensional (Hi-Dim) longitudinal/functional data with general
+  temporospatial dependence. The null hypothesis of the homogeneity test is that
+  all covariance matrices are equal at each time point. If the null hypothesis is rejected,
+  the procedure further identifies the locations of the change points.
+  Note: The package uses Open MP.  Mac OS X users may need to update clang compiler so that it supports Open MP.
+  References: Ping-Shou Zhong, Runze Li, Shawn Santo (2019) <doi:10.1093/biomet/asz011>
+  Shawn Santo, Ping-Shou Zhong (2020) <arXiv:2005.01895>.
+date_publication: '2020-05-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TechPhD
+url_git: ''

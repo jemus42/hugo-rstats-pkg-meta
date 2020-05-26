@@ -1,0 +1,11 @@
+version: 1.0.1
+title: A Toolbox for the Multi-Criteria Minimum Spanning Tree Problem
+maintainer: Jakob Bossek
+description: Algorithms to approximate the Pareto-front of multi-criteria minimum
+  spanning tree problems. Additionally, a modular toolbox for the generation of multi-objective
+  benchmark graph problems is included.
+date_publication: '2017-09-18'
+bug_reports: https://github.com/jakobbossek/mcMST/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mcMST
+url_git: https://github.com/jakobbossek/mcMST

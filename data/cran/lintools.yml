@@ -1,0 +1,15 @@
+version: 0.1.3
+title: Manipulation of Linear Systems of (in)Equalities
+maintainer: Mark van der Loo
+description: |-
+  Variable elimination (Gaussian elimination, Fourier-Motzkin elimination),
+  Moore-Penrose pseudoinverse, reduction to reduced row echelon form, value substitution,
+  projecting a vector on the convex polytope described by a system of (in)equations,
+  simplify systems by removing spurious columns and rows and collapse implied equalities,
+  test if a matrix is totally unimodular, compute variable ranges implied by linear
+  (in)equalities.
+date_publication: '2019-12-05'
+bug_reports: https://github.com/data-cleaning/lintools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=lintools
+url_git: https://github.com/data-cleaning/lintools

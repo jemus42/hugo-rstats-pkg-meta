@@ -1,0 +1,15 @@
+version: '2.0'
+title: |-
+  Discriminating Well Surveyed Spatial Units from Exhaustive
+  Biodiversity Databases
+maintainer: Cástor Guisande González
+description: It uses species accumulation curves and diverse estimators to assess,
+  at the same time, the levels of survey coverage in multiple geographic cells of
+  a size defined by the user or polygons. It also enables the geographical depiction
+  of observed species richness, survey effort and completeness values including a
+  background with administrative areas.
+date_publication: '2019-01-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=KnowBR
+url_git: ''

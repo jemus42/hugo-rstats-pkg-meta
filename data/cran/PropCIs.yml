@@ -1,0 +1,10 @@
+version: 0.3-0
+title: Various Confidence Interval Methods for Proportions
+maintainer: Ralph Scherer
+description: Computes two-sample confidence intervals for single, paired and independent
+  proportions.
+date_publication: '2018-02-23'
+bug_reports: https://github.com/shearer/PropCIs/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=PropCIs
+url_git: https://github.com/shearer/PropCIs

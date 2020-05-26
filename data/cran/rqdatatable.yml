@@ -1,0 +1,11 @@
+version: 1.2.7
+title: '''rquery'' for ''data.table'''
+maintainer: John Mount
+description: |-
+  Implements the 'rquery' piped Codd-style query algebra using 'data.table'.  This allows
+  for a high-speed in memory implementation of Codd-style data manipulation tools.
+date_publication: '2020-02-11'
+bug_reports: https://github.com/WinVector/rqdatatable/issues
+url: https://winvector.github.io/rqdatatable/
+url_cran: https://CRAN.R-project.org/package=rqdatatable
+url_git: https://github.com/WinVector/rqdatatable/

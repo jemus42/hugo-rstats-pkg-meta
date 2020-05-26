@@ -1,0 +1,10 @@
+version: 0.3.0
+title: Sigmoid Functions for Machine Learning
+maintainer: Bastiaan Quast
+description: Several different sigmoid functions are implemented, including a wrapper
+  function, SoftMax preprocessing and inverse functions.
+date_publication: '2018-06-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sigmoid
+url_git: ''

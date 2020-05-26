@@ -1,0 +1,10 @@
+version: 1.0.0
+title: Goodness-of-Fit Tests for Capture-Recapture Models
+maintainer: Olivier Gimenez
+description: Performs goodness-of-fit tests for capture-recapture models. Also contains
+  several functions to process capture-recapture data.
+date_publication: '2017-04-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=R2ucare
+url_git: https://github.com/oliviergimenez/R2ucare

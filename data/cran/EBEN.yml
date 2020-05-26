@@ -1,0 +1,11 @@
+version: '4.6'
+title: Empirical Bayesian Elastic Net
+maintainer: Anhui Huang
+description: |-
+  Provides the Empirical Bayesian Elastic Net for handling multicollinearity in generalized linear regression models.  As a special case of the 'EBglmnet'
+  package (also available on CRAN), this package encourages a grouping effects to select relevant variables and estimate the corresponding non-zero effects.
+date_publication: '2015-10-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EBEN
+url_git: ''

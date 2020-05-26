@@ -1,0 +1,11 @@
+version: 1.1.5
+title: Model-Based Clustering of Categorical Sequences
+maintainer: Volodymyr Melnykov
+description: Clustering categorical sequences by means of finite mixtures with Markov
+  model components is the main utility of ClickClust. The package also allows detecting
+  blocks of equivalent states by forward and backward state selection procedures.
+date_publication: '2016-10-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ClickClust
+url_git: ''

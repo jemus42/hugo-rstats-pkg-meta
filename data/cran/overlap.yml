@@ -1,0 +1,15 @@
+version: 0.3.3
+title: |-
+  Estimates of Coefficient of Overlapping for Animal Activity
+  Patterns
+maintainer: Mike Meredith
+description: |-
+  Provides functions to fit kernel density functions to
+  data on temporal activity patterns of animals; estimate coefficients
+  of overlapping of densities for two species; and calculate bootstrap
+  estimates of confidence intervals.
+date_publication: '2020-05-22'
+bug_reports: https://github.com/mikemeredith/overlap/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=overlap
+url_git: ''

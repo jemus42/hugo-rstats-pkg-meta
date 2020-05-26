@@ -1,0 +1,12 @@
+version: 0.3.0
+title: Generate Random 'WKT' or 'GeoJSON'
+maintainer: Scott Chamberlain
+description: |-
+  Generate random positions (latitude/longitude),
+  Well-known text ('WKT') points or polygons, or 'GeoJSON' points or
+  polygons.
+date_publication: '2018-05-18'
+bug_reports: https://github.com/ropensci/randgeo/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=randgeo
+url_git: https://github.com/ropensci/randgeo

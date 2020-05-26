@@ -1,0 +1,12 @@
+version: 0.4-4
+title: Average and Conditional Effects
+maintainer: Axel Mayer
+description: |-
+  Use structural equation modeling to estimate average and
+  conditional effects of a treatment variable on an outcome variable, taking into
+  account multiple continuous and categorical covariates.
+date_publication: '2019-12-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EffectLiteR
+url_git: https://github.com/amayer2010/EffectLiteR

@@ -1,0 +1,17 @@
+version: 1.0.0
+title: Bayesian Gaussian Graphical Models
+maintainer: Donald Williams
+description: |-
+  Fit Bayesian Gaussian graphical models. The methods are separated into
+  two Bayesian approaches for inference: hypothesis testing and estimation. There are
+  extensions for confirmatory hypothesis testing, comparing Gaussian graphical models,
+  and node wise predictability. These methods were recently introduced in the Gaussian
+  graphical model literature, including
+  Williams (2019) <doi:10.31234/osf.io/x8dpr>,
+  Williams and Mulder (2019) <doi:10.31234/osf.io/ypxd8>,
+  Williams, Rast, Pericchi, and Mulder (2019) <doi:10.31234/osf.io/yt386>.
+date_publication: '2020-02-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BGGM
+url_git: ''

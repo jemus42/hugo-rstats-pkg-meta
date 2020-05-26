@@ -1,0 +1,14 @@
+version: '1.0'
+title: One-Sided Cross-Validation
+maintainer: Olga Savchuk
+description: 'Functions for implementing different versions of the OSCV method in
+  the kernel regression and density estimation frameworks. The package mainly supports
+  the following articles: (1) Savchuk, O.Y., Hart, J.D. (2017). Fully robust one-sided
+  cross-validation for regression functions. Computational Statistics, <doi:10.1007/s00180-017-0713-7>
+  and (2) Savchuk, O.Y. (2017). One-sided cross-validation for nonsmooth density functions,
+  <arXiv:1703.05157>.'
+date_publication: '2017-03-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OSCV
+url_git: ''

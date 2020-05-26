@@ -1,0 +1,14 @@
+version: 0.1.0
+title: Small Multiples for Leaflet Web Maps
+maintainer: Tim Appelhans
+description: |-
+  Create small multiples of several leaflet web maps with (optional)
+  synchronised panning and zooming control. When syncing is enabled all maps
+  respond to mouse actions on one map. This allows side-by-side comparisons
+  of different attributes of the same geometries. Syncing can be adjusted
+  so that any combination of maps can be synchronised.
+date_publication: '2019-03-05'
+bug_reports: https://github.com/r-spatial/leafsync/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=leafsync
+url_git: https://github.com/r-spatial/leafsync

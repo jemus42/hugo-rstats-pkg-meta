@@ -1,0 +1,17 @@
+version: 0.1.2
+title: |-
+  R Client for the Microsoft Cognitive Services Text Analytics
+  REST API
+maintainer: Phil Ferriere
+description: |-
+  R Client for the Microsoft Cognitive Services Text Analytics
+  REST API, including Sentiment Analysis, Topic Detection, Language Detection,
+  and Key Phrase Extraction. An account MUST be registered at the Microsoft
+  Cognitive Services website <https://www.microsoft.com/cognitive-services/>
+  in order to obtain a (free) API key. Without an API key, this package will
+  not work properly.
+date_publication: '2016-06-23'
+bug_reports: http://www.github.com/philferriere/mscstexta4r/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mscstexta4r
+url_git: https://github.com/philferriere/mscstexta4r

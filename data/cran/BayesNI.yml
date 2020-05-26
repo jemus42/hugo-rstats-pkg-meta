@@ -1,0 +1,14 @@
+version: '0.1'
+title: 'BayesNI: Bayesian Testing Procedure for Noninferiority with<U+000a>Binary
+  Endpoints'
+maintainer: Muhtarjan Osman
+description: A Bayesian testing procedure for noninferiority trials<U+000a>with binary
+  endpoints. The prior is constructed based on<U+000a>Bernstein polynomials with options
+  for both informative and<U+000a>non-informative prior. The critical value of the
+  test statistic<U+000a>(Bayes factor) is determined by minimizing total weighted
+  error<U+000a>(TWE) criteria
+date_publication: '2012-09-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BayesNI
+url_git: ''

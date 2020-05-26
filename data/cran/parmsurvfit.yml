@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Parametric Models for Survival Data
+maintainer: Ashley Jacobson
+description: |-
+  Executes simple parametric models for right-censored
+  survival data.  Functionality emulates capabilities in 'Minitab', including
+  fitting right-censored data, assessing fit, plotting survival functions,
+  and summary statistics and probabilities.
+date_publication: '2018-12-07'
+bug_reports: https://github.com/apjacobson/parmsurvfit/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=parmsurvfit
+url_git: https://github.com/apjacobson/parmsurvfit

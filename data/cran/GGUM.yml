@@ -1,0 +1,16 @@
+version: 0.4-1
+title: Generalized Graded Unfolding Model
+maintainer: Jorge N. Tendeiro
+description: An implementation of the generalized graded unfolding model (GGUM) in
+  R, see Roberts, Donoghue, and Laughlin (2000) <doi:10.1177/01466216000241001>).
+  It allows to simulate data sets based on the GGUM. It fits the GGUM and the GUM,
+  and it retrieves item and person parameter estimates. Several plotting functions
+  are available (item and test information functions; item and test characteristic
+  curves; item category response curves). Additionally, there are some functions that
+  facilitate the communication between R and 'GGUM2004'. Finally, a model-fit checking
+  utility, MODFIT(), is also available.
+date_publication: '2020-05-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GGUM
+url_git: http://github.com/jorgetendeiro/GGUM

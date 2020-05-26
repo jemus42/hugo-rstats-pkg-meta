@@ -1,0 +1,10 @@
+version: 0.0.1
+title: Tools for the OeNB Data Web Service
+maintainer: Franz X. Mohr
+description: Tools to access data from the data web service of the Oesterreichische
+  Nationalbank (OeNB), <https://www.oenb.at/en/Statistics/User-Defined-Tables/webservice.html>.
+date_publication: '2020-03-19'
+bug_reports: https://github.com/franzmohr/oenb/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=oenb
+url_git: https://github.com/franzmohr/oenb

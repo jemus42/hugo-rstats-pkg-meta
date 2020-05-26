@@ -1,0 +1,12 @@
+version: 1.2.7
+title: Rank Preserving Structural Failure Time Models
+maintainer: Simon Bond
+description: Implements methods described by the paper Robins and Tsiatis (1991) <DOI:10.1080/03610929108830654>.
+  These use g-estimation to estimate the causal effect of a treatment in a two-armed
+  randomised control trial where non-compliance exists and is measured, under an assumption
+  of an accelerated failure time model and no unmeasured confounders.
+date_publication: '2020-04-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rpsftm
+url_git: ''

@@ -1,0 +1,9 @@
+version: 1.1.0
+title: Portfolio Risk Analysis
+maintainer: Sourish Das
+description: Risk Attribution of a portfolio with Volatility Risk Analysis.
+date_publication: '2015-11-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PortRisk
+url_git: ''

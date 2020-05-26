@@ -1,0 +1,14 @@
+version: '0.9'
+title: |-
+  Add Marginal Histograms to 'ggplot2', and More 'ggplot2'
+  Enhancements
+maintainer: Dean Attali
+description: |-
+  Collection of functions and layers to enhance 'ggplot2'. The
+  flagship function is 'ggMarginal()', which can be used to add marginal
+  histograms/boxplots/density plots to 'ggplot2' scatterplots.
+date_publication: '2019-08-27'
+bug_reports: https://github.com/daattali/ggExtra/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggExtra
+url_git: https://github.com/daattali/ggExtra

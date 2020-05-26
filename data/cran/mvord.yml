@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Multivariate Ordinal Regression Models
+maintainer: Rainer Hirk
+description: |-
+  A flexible framework for fitting multivariate
+  ordinal regression models with composite likelihood methods. Methodological details are given in Hirk, Hornik, Vana (2020) <doi:10.18637/jss.v093.i04>.
+date_publication: '2020-04-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mvord
+url_git: ''

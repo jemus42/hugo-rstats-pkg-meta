@@ -1,0 +1,16 @@
+version: 1.1-0
+title: Testing the additional predictive value of high-dimensional data
+maintainer: Anne-Laure Boulesteix
+description: |-
+  'globalboosttest' implements a permutation-based testing
+  procedure to globally test the (additional) predictive value of
+  a large set of predictors given that a small set of predictors
+  is already available. Currently, 'globalboosttest' supports
+  binary outcomes (via logistic regression) and survival outcomes
+  (via Cox regression). It is based on boosting regression as
+  implemented in the package 'mboost'.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=globalboosttest
+url_git: ''

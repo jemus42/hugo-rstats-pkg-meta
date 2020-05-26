@@ -1,0 +1,16 @@
+version: 1.0.3
+title: Flexible Randomization-Based Inference
+maintainer: Joseph J. Lee
+description: Allows the user to conduct randomization-based inference for a wide variety
+  of experimental scenarios. The package leverages a potential outcomes framework
+  to output randomization-based p-values and null intervals for test statistics geared
+  toward any estimands of interest, according to the specified null and alternative
+  hypotheses. Users can define custom randomization schemes so that the randomization
+  distributions are accurate for their experimental settings. The package also creates
+  visualizations of randomization distributions and can test multiple test statistics
+  simultaneously.
+date_publication: '2015-01-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=randomizationInference
+url_git: ''

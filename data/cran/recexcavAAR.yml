@@ -1,0 +1,12 @@
+version: 0.3.0
+title: 3D Reconstruction of Archaeological Excavations
+maintainer: Clemens Schmid
+description: A toolset for 3D reconstruction and analysis of excavations. It provides
+  methods to reconstruct natural and artificial surfaces based on field measurements.
+  This allows to spatially contextualize documented subunits and features. Intended
+  to be part of a 3D visualization workflow.
+date_publication: '2017-02-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=recexcavAAR
+url_git: https://github.com/ISAAKiel/recexcavAAR

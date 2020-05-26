@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Statistical Process Control Charts
+maintainer: Peter P. Lupo
+description: |-
+  Generate time series chart for individual values with mean and +/-
+  3 standard deviation lines and the corresponding mR chart with the upper control
+  limit. Also execute the 8 Shewhart stability run tests and display the violations.
+date_publication: '2016-03-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=processcontrol
+url_git: ''

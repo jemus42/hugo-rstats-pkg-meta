@@ -1,0 +1,13 @@
+version: '0.1'
+title: Change Point Estimation for Regression with Heteroscedastic Data
+maintainer: Yulei Wang
+description: |-
+  Estimation of parameters in 3-segment (i.e. 2 change-point)
+  regression models with heteroscedastic variances is provided based on both
+  likelihood and hybrid Bayesian approaches, with and without continuity
+  constraints at the change points.
+date_publication: '2014-11-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hcp
+url_git: ''

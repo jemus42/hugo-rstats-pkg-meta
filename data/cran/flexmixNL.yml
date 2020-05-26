@@ -1,0 +1,10 @@
+version: 0.0.1
+title: Finite Mixture Modeling of Generalized Nonlinear Models
+maintainer: Sanela Omerovic
+description: The fitting of mixtures of generalized nonlinear models is implemented
+  as an extension of the existing package 'flexmix'.
+date_publication: '2019-07-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=flexmixNL
+url_git: ''

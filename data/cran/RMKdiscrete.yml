@@ -1,0 +1,9 @@
+version: '0.1'
+title: Sundry Discrete Probability Distributions
+maintainer: Robert M. Kirkpatrick
+description: Sundry discrete probability distributions and helper functions.
+date_publication: '2014-10-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RMKdiscrete
+url_git: ''

@@ -1,0 +1,10 @@
+version: 0.1-6
+title: Bitcoin API
+maintainer: Bernhard Pfaff
+description: Implementation of the RPC-JSON API for Bitcoin and utility functions
+  for address creation and content analysis of the blockchain.
+date_publication: '2019-03-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rbtc
+url_git: ''

@@ -1,0 +1,16 @@
+version: '1.2'
+title: Parses Web Pages using Postlight Mercury
+maintainer: Mikkel Freltoft Krogsholm
+description: |-
+  This is a wrapper for the Mercury Parser API. The Mercury Parser is
+  a single API endpoint that takes a URL and gives you back the content reliably
+  and easily.
+  With just one API request, Mercury takes any web article and returns
+  only the relevant content — headline, author, body text, relevant images and
+  more — free from any clutter. It’s reliable, easy-to-use and free.
+  See the webpage here: <https://mercury.postlight.com/>.
+date_publication: '2017-07-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=postlightmercury
+url_git: ''

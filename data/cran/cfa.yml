@@ -1,0 +1,11 @@
+version: 0.10-0
+title: Configural Frequency Analysis (CFA)
+maintainer: Patrick Mair
+description: Analysis of configuration frequencies for simple and repeated measures,
+  multiple-samples CFA, hierarchical CFA, bootstrap CFA, functional CFA, Kieser-Victor
+  CFA, and Lindner's test using a conventional and an accelerated algorithm.
+date_publication: '2017-05-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cfa
+url_git: ''

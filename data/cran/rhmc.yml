@@ -1,0 +1,14 @@
+version: 1.0.0
+title: Hamiltonian Monte Carlo
+maintainer: Victhor Sartório
+description: |-
+  Implements simple Hamiltonian Monte Carlo routines in R for
+  sampling from any desired target distribution which is continuous
+  and smooth. See Neal (2017) <arXiv:1701.02434> for further details
+  on Hamiltonian Monte Carlo. Automatic parameter selection is not
+  supported.
+date_publication: '2018-10-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rhmc
+url_git: ''

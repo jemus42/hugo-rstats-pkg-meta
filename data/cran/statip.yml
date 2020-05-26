@@ -1,0 +1,23 @@
+version: 0.2.3
+title: |-
+  Statistical Functions for Probability Distributions and
+  Regression
+maintainer: Paul Poncet
+description: |-
+  A collection of miscellaneous statistical functions for
+  probability distributions: 'dbern()', 'pbern()', 'qbern()', 'rbern()' for
+  the Bernoulli distribution, and 'distr2name()', 'name2distr()' for
+  distribution names;
+  probability density estimation: 'densityfun()';
+  most frequent value estimation: 'mfv()', 'mfv1()';
+  other statistical measures of location: 'cv()' (coefficient of variation),
+  'midhinge()', 'midrange()', 'trimean()';
+  construction of histograms: 'histo()', 'find_breaks()';
+  calculation of the Hellinger distance: 'hellinger()';
+  use of classical kernels: 'kernelfun()', 'kernel_properties()';
+  univariate piecewise-constant regression: 'picor()'.
+date_publication: '2019-11-17'
+bug_reports: https://github.com/paulponcet/statip/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=statip
+url_git: https://github.com/paulponcet/statip

@@ -1,0 +1,11 @@
+version: '1.0'
+title: Data for package eegkit
+maintainer: Nathaniel E. Helwig
+description: Contains the example EEG data used in the package eegkit. Also contains
+  code for easily creating larger EEG datasets from the EEG Database on the UCI Machine
+  Learning Repository.
+date_publication: '2014-09-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=eegkitdata
+url_git: ''

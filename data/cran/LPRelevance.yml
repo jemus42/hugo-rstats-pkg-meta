@@ -1,0 +1,15 @@
+version: '3.1'
+title: Relevance-Integrated Statistical Inference Engine
+maintainer: Kaijun Wang
+description: |-
+  A framework of methods to perform customized inference at individual level
+  by taking contextual covariates into account. Three main functions are provided
+  in this package: (i) LASER(): it generates specially-designed artificial relevant
+  samples for a given case; (ii) g2l.proc(): computes customized fdr(z|x); and (iii)
+  rEB.proc(): performs empirical Bayes inference based on LASERs. The details can be
+  found in Mukhopadhyay, S., and Wang, K (2020, Technical Report).
+date_publication: '2020-05-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LPRelevance
+url_git: ''

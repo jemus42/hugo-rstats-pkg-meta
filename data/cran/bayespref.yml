@@ -1,0 +1,12 @@
+version: '1.0'
+title: Hierarchical Bayesian analysis of ecological count data
+maintainer: James A. Fordyce
+description: This program implements a hierarchical Bayesian analysis<U+000a>of count
+  data, such as preference experiments. It provides<U+000a>population-level and individual-level
+  preference parameter<U+000a>estimates obtained via MCMC. It also allows for model<U+000a>comparison
+  using Deviance Information Criterion.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bayespref
+url_git: ''

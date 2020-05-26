@@ -1,0 +1,15 @@
+version: '0.21'
+title: |-
+  Box-Cox-Type Transformations for Linear and Logistic Models with
+  Random Effects
+maintainer: Amani Almohaimeed
+description: |-
+  Box-Cox-type transformations for linear and logistic models
+  with random effects using non-parametric profile maximum
+  likelihood estimation. The main functions are optim.boxcox()
+  and boxcoxtype().
+date_publication: '2018-09-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=boxcoxmix
+url_git: ''

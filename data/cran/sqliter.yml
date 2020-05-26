@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Connection wrapper to SQLite databases
+maintainer: Wilson Freitas
+description: |-
+  sqliter helps users, mainly data munging practioneers, to organize
+  their sql calls in a clean structure. It simplifies the process of
+  extracting and transforming data into useful formats.
+date_publication: '2014-01-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sqliter
+url_git: https://github.com/wilsonfreitas/sqliter/

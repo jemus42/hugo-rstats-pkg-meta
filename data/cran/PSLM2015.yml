@@ -1,0 +1,10 @@
+version: 0.2.0
+title: Pakistan Social and Living Standards Measurement Survey 2014-15
+maintainer: Muhammad Yaseen
+description: Data and statistics of Pakistan Social and Living Standards Measurement
+  (PSLM) survey 2014-15 from Pakistan Bureau of Statistics (<http://www.pbs.gov.pk/>).
+date_publication: '2017-12-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PSLM2015
+url_git: https://github.com/MYaseen208/PSLM2015

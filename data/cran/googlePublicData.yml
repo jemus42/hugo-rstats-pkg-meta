@@ -1,0 +1,14 @@
+version: 0.16.1
+title: Working with Google's 'Public Data Explorer' DSPL Metadata Files
+maintainer: George Vega Yon
+description: |-
+  Provides a collection of functions to set up 'Google Public Data Explorer'
+  <https://www.google.com/publicdata/> data visualization tool with your own data,
+  building automatically the corresponding DataSet Publishing Language file, or
+  DSPL (XML), metadata file jointly with the CSV files. All zip-up and ready to
+  be published in 'Public Data Explorer'.
+date_publication: '2017-11-06'
+bug_reports: http://github.com/gvegayon/googlePublicData/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=googlePublicData
+url_git: http://github.com/gvegayon/googlePublicData/

@@ -1,0 +1,14 @@
+version: 1.0.0
+title: Marine Ecosystem and Fishing Pressure Indicators
+maintainer: Danielle Dempsey
+description: 'Provides functions to calculate indicators for four marine ecosystem
+  attributes (Biodiversity, Ecosystem Structure and Functioning, Ecosystem Stability
+  and Resistance to Perturbations, Resource Potential) and one marine ecosystem pressure
+  (Fishing Pressure) from fishery independent trawl survey data and commercial landings
+  data. All indicators were selected and evaluated using the “Indicator Selection
+  Guidance Framework” developed by Bundy, Gomez, and Cook (2017, ISBN: 978-0-660-23573-8).'
+date_publication: '2019-11-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=marindicators
+url_git: ''

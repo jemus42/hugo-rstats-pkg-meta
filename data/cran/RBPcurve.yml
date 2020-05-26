@@ -1,0 +1,11 @@
+version: '1.2'
+title: The Residual-Based Predictiveness Curve
+maintainer: Giuseppe Casalicchio
+description: |-
+  The RBP curve is a visual tool to assess the
+  performance of prediction models.
+date_publication: '2017-05-15'
+bug_reports: https://github.com/giuseppec/RBPcurve/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=RBPcurve
+url_git: https://github.com/giuseppec/RBPcurve

@@ -1,0 +1,11 @@
+version: 0.3.0
+title: A Fixed Memeory Moving Expanding Window Average
+maintainer: Adam L. Pintar
+description: |-
+  Computes the average of a sequence of random vectors
+  in a moving expanding window using a fixed amount of storage
+date_publication: '2014-07-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mewAvg
+url_git: ''

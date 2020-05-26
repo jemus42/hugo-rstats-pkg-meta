@@ -1,0 +1,13 @@
+version: 0.22.0
+title: Fast Estimators for Design-Based Inference
+maintainer: Graeme Blair
+description: Fast procedures for small set of commonly-used, design-appropriate estimators
+  with robust standard errors and confidence intervals. Includes estimators for linear
+  regression, instrumental variables regression, difference-in-means, Horvitz-Thompson
+  estimation, and regression improving precision of experimental estimates by interacting
+  treatment with centered pre-treatment covariates introduced by Lin (2013) <doi:10.1214/12-AOAS583>.
+date_publication: '2020-03-19'
+bug_reports: https://github.com/DeclareDesign/estimatr/issues
+url: https://declaredesign.org/r/estimatr/
+url_cran: https://CRAN.R-project.org/package=estimatr
+url_git: https://github.com/DeclareDesign/estimatr

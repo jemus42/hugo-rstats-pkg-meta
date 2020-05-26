@@ -1,0 +1,14 @@
+version: 0.7-5
+title: Sampling Surface Simulation for Areal Sampling Methods
+maintainer: Jeffrey H. Gove
+description: |-
+  Sampling surface simulation is useful in the comparison of different areal sampling methods
+  in forestry, ecology and natural resources. The sampSurf package allows the simulation
+  of numerous sampling methods for standing trees and downed woody debris in a spatial context.
+  It also provides an S4 class and method structure that facilitates the addition of new sampling
+  methods.
+date_publication: '2020-02-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sampSurf
+url_git: http://sampsurf.r-forge.r-project.org/

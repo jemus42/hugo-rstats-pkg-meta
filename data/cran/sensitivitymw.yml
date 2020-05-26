@@ -1,0 +1,10 @@
+version: '1.1'
+title: Sensitivity analysis using weighted M-statistics
+maintainer: Paul R. Rosenbaum
+description: Sensitivity analysis analysis in matched observational studies with multiple
+  controls using weighted M-statistics to increase design sensitivity.
+date_publication: '2014-07-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sensitivitymw
+url_git: ''

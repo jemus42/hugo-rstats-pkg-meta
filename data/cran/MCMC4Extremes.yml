@@ -1,0 +1,14 @@
+version: '1.1'
+title: Posterior Distribution of Extreme Value Models in R
+maintainer: Fernando Ferraz do Nascimento
+description: Provides some function to perform posterior estimation for some distribution,
+  with emphasis to extreme value distributions. It contains some extreme datasets,
+  and functions that perform the runs of posterior points of the GPD and GEV distribution.
+  The package calculate some important extreme measures like return level for each
+  t periods of time, and some plots as the predictive distribution, and return level
+  plots.
+date_publication: '2016-07-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MCMC4Extremes
+url_git: ''

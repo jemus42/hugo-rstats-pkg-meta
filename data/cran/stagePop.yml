@@ -1,0 +1,13 @@
+version: 1.1-1
+title: |-
+  Modelling the Population Dynamics of a Stage-Structured Species
+  in Continuous Time
+maintainer: David Nutter
+description: |-
+  Provides facilities to implement and run population models of
+  stage-structured species...
+date_publication: '2015-05-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=stagePop
+url_git: https://github.com/HelenKettle/StagePop

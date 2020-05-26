@@ -1,0 +1,11 @@
+version: 0.5.0
+title: Chemical Information from the Web
+maintainer: Tamás Stirling
+description: |-
+  Chemical information from around the web. This package interacts
+  with a suite of web APIs for chemical information.
+date_publication: '2020-03-02'
+bug_reports: https://github.com/ropensci/webchem/issues
+url: https://docs.ropensci.org/webchem
+url_cran: https://CRAN.R-project.org/package=webchem
+url_git: https://github.com/ropensci/webchem

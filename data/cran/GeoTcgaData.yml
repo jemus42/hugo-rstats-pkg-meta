@@ -1,0 +1,14 @@
+version: 0.2.3
+title: Processing various types of data on GEO and TCGA
+maintainer: Erqiang Hu
+description: |-
+  Gene Expression Omnibus(GEO) and The Cancer Genome Atlas (TCGA)
+  provide us with a wealth of data, such as RNA-seq, DNA Methylation,
+  and Copy number variation data. It's easy to download data from TCGA using the
+  gdc tool, but processing these data into a format suitable for bioinformatics
+  analysis requires more work. This R package was developed to handle these data.
+date_publication: '2020-02-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GeoTcgaData
+url_git: ''

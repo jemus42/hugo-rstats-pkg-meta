@@ -1,0 +1,13 @@
+version: '1.13'
+title: Cox Regression with Firth's Penalized Likelihood
+maintainer: Georg Heinze
+description: |-
+  Implements Firth's penalized maximum likelihood bias reduction method  for Cox regression
+  which has been shown to provide a solution in case of monotone likelihood (nonconvergence of likelihood function).
+  The program fits profile penalized likelihood confidence intervals which were proved to outperform
+  Wald confidence intervals.
+date_publication: '2018-03-03'
+bug_reports: ''
+url: http://cemsiis.meduniwien.ac.at/kb/wf/software/statistische-software/fccoxphf/
+url_cran: https://CRAN.R-project.org/package=coxphf
+url_git: ''

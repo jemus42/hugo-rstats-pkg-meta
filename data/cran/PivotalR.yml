@@ -1,0 +1,20 @@
+version: 0.1.18.3.1
+title: |-
+  A Fast, Easy-to-Use Tool for Manipulating Tables in Databases
+  and a Wrapper of MADlib
+maintainer: Rahul Iyer
+description: |-
+  Provides an R interface for the Pivotal Data stack
+  running on 'PostgreSQL', 'Greenplum' or 'Apache HAWQ (incubating)'
+  databases with parallel and distributed computation ability for big data
+  processing. 'PivotalR' provides an R interface to various database
+  operations on tables or views. These operations are almost the same as
+  the corresponding native R operations. Thus users of R do not need
+  to learn 'SQL' when they operate on objects in the database. It also
+  provides a wrapper for 'Apache MADlib (incubating)', which is an open-
+  source library for parallel and scalable in-database analytics.
+date_publication: '2019-01-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PivotalR
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.1.3
+title: Client for 'AWS Transcribe'
+maintainer: Antoine Sachet
+description: Client for 'AWS Transcribe' <https://aws.amazon.com/documentation/transcribe>,
+  a cloud transcription service that can convert an audio media file in English and
+  other languages into a text transcript.
+date_publication: '2020-03-11'
+bug_reports: https://github.com/cloudyr/aws.transcribe/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=aws.transcribe
+url_git: https://github.com/cloudyr/aws.transcribe

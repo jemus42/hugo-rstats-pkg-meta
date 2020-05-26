@@ -1,0 +1,12 @@
+version: '1.1'
+title: Online Prediction by Expert Aggregation
+maintainer: Pierre Gaillard
+description: |-
+  Misc methods to form online predictions, for regression-oriented
+  time-series, by combining a finite set of forecasts provided by the user. See
+  Cesa-Bianchi and Lugosi (2006) <doi:10.1017/CBO9780511546921> for an overview.
+date_publication: '2020-03-18'
+bug_reports: https://github.com/dralliag/opera/issues
+url: http://pierre.gaillard.me/opera.html
+url_cran: https://CRAN.R-project.org/package=opera
+url_git: ''

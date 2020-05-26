@@ -1,0 +1,12 @@
+version: 0.7.0
+title: '''Jupyter'' Display Machinery'
+maintainer: Philipp Angerer
+description: |2-
+
+  An interface to the rich display capabilities of 'Jupyter' front-ends (e.g. 'Jupyter Notebook') <https://jupyter.org>.
+  Designed to be used from a running 'IRkernel' session <https://irkernel.github.io>.
+date_publication: '2018-11-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IRdisplay
+url_git: ''

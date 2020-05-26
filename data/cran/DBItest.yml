@@ -1,0 +1,11 @@
+version: 1.7.0
+title: Testing 'DBI' 'Backends'
+maintainer: Kirill Müller
+description: |-
+  A helper that tests 'DBI' back ends for conformity
+  to the interface.
+date_publication: '2019-12-16'
+bug_reports: https://github.com/r-dbi/DBItest/issues
+url: https://dbitest.r-dbi.org
+url_cran: https://CRAN.R-project.org/package=DBItest
+url_git: https://github.com/r-dbi/DBItest

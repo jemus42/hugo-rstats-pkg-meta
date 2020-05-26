@@ -1,0 +1,13 @@
+version: 1.0.4
+title: |-
+  Implements the Scout Method for Covariance-Regularized
+  Regression
+maintainer: Daniela M. Witten
+description: 'Implements the Scout method for regression, described in "Covariance-regularized
+  regression and classification for high-dimensional problems", by Witten and Tibshirani
+  (2008),  Journal of the Royal Statistical Society, Series B 71(3): 615-636.'
+date_publication: '2015-07-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=scout
+url_git: ''

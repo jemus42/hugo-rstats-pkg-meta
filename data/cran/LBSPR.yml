@@ -1,0 +1,15 @@
+version: 0.1.5
+title: Length-Based Spawning Potential Ratio
+maintainer: Adrian Hordyk
+description: |-
+  Simulate expected equilibrium length composition, yield-per-recruit, and
+  the spawning potential ratio (SPR) using the length-based SPR (LBSPR) model. Fit the LBSPR
+  model to length data to estimate  selectivity, relative apical fishing mortality, and
+  the spawning potential ratio for data-limited fisheries.
+  See Hordyk et al (2016) <doi:10.1139/cjfas-2015-0422> for more information about the
+  LBSPR assessment method.
+date_publication: '2019-12-05'
+bug_reports: https://github.com/AdrianHordyk/LBSPR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=LBSPR
+url_git: https://github.com/AdrianHordyk/LBSPR

@@ -1,0 +1,13 @@
+version: 0.0.4
+title: Use Data from Published Plots in R
+maintainer: Jaime Ashander
+description: |-
+  Import data from a digital image; it requires user input for
+  calibration and to locate the data points. The end result is similar to
+  'DataThief' and other other programs that 'digitize' published plots or
+  graphs.
+date_publication: '2016-08-27'
+bug_reports: https://github.com/tpoisot/digitize/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=digitize
+url_git: https://github.com/tpoisot/digitize/

@@ -1,0 +1,11 @@
+version: '2.0'
+title: A Method for Creating Xylophone-Like Frequency Density Plots
+maintainer: Daniel Greene
+description: |-
+  Methods for plotting multiple xylophone-style histograms
+  using base graphics.
+date_publication: '2020-03-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=xyloplot
+url_git: ''

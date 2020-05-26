@@ -1,0 +1,12 @@
+version: '1.1'
+title: Gibbs Sampler for One-Way Mixed-Effects ANOVA and ANCOVA Models
+maintainer: Emily Goren
+description: |-
+  Gibbs sampler for one-way linear mixed-effects models
+  (ANOVA, ANCOVA) with homoscedasticity of errors and uniform
+  priors.
+date_publication: '2013-05-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GibbsACOV
+url_git: ''

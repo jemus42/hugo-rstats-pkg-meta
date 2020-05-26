@@ -1,0 +1,10 @@
+version: '1.3'
+title: Log-Binomial Regression with Constrained Optimization
+maintainer: Bernardo Andrade
+description: Maximum likelihood estimation of log-binomial regression with special
+  functionality when the MLE is on the boundary of the parameter space.
+date_publication: '2019-12-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lbreg
+url_git: ''

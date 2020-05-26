@@ -1,0 +1,14 @@
+version: '1.0'
+title: |-
+  Estimate parent distributions with data of several order
+  statistics
+maintainer: Cheng Chou
+description: |-
+  This package uses B-spline based nonparametric smooth
+  estimators to estimate parent distributions given observations
+  on multiple order statistics.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ORDER2PARENT
+url_git: ''

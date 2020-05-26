@@ -1,0 +1,11 @@
+version: 16.1.4
+title: Complete Environment for Bayesian Inference
+maintainer: Henrik Singmann
+description: Provides a complete environment for Bayesian inference using a variety
+  of different samplers (see ?LaplacesDemon for an overview). The README describes
+  the history of the package development process.
+date_publication: '2020-02-06'
+bug_reports: https://github.com/LaplacesDemonR/LaplacesDemon/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=LaplacesDemon
+url_git: https://github.com/LaplacesDemonR/LaplacesDemon

@@ -1,0 +1,9 @@
+version: 0.1.0
+title: Robust Bayesian Small Area Estimation
+maintainer: Jiyoun Myung
+description: Functions for Robust Bayesian Small Area Estimation.
+date_publication: '2016-12-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=robustsae
+url_git: ''

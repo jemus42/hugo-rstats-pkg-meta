@@ -1,0 +1,9 @@
+version: 0.2-4
+title: Simple key-value database using SQLite
+maintainer: Roger D. Peng
+description: Simple key-value database using SQLite as the backend
+date_publication: '2012-03-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=filehashSQLite
+url_git: http://github.com/rdpeng/filehashsqlite

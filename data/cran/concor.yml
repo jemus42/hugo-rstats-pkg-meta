@@ -1,0 +1,16 @@
+version: 1.0-0.1
+title: Concordance
+maintainer: S. Déjean
+description: The four functions svdcp (cp for column partitioned),<U+000a>svdbip or
+  svdbip2 (bip for bi-partitioned), and svdbips (s for<U+000a>a simultaneous optimization
+  of one set of r solutions),<U+000a>correspond to a "SVD by blocks" notion, by supposing
+  each block<U+000a>depending on relative subspaces, rather than on two whole<U+000a>spaces
+  as usual SVD does. The other functions, based on this<U+000a>notion, are relative
+  to two column partitioned data matrices x<U+000a>and y defining two sets of subsets
+  xi and yj of variables and<U+000a>amount to estimate a link between xi and yj for
+  the pair (xi,<U+000a>yj) relatively to the links associated to all the other pairs.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=concor
+url_git: ''

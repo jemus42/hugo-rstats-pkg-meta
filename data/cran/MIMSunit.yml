@@ -1,0 +1,16 @@
+version: 0.9.1
+title: |-
+  Algorithm to Compute Monitor Independent Movement Summary Unit
+  (MIMS-Unit)
+maintainer: Qu Tang
+description: |-
+  The MIMS-unit algorithm is developed to compute Monitor Independent
+  Movement Summary Unit, a measurement to summarize raw accelerometer data
+  while ensuring harmonized results across different devices. It also includes
+  scripts to reproduce results in the related publication
+  (John, D., Tang. Q., Albinali, F. and Intille, S. (2019) <doi:10.1123/jmpb.2018-0068>).
+date_publication: '2020-05-20'
+bug_reports: https://github.com/mhealthgroup/MIMSunit/issues/
+url: https://mhealthgroup.github.io/MIMSunit/
+url_cran: https://CRAN.R-project.org/package=MIMSunit
+url_git: https://github.com/mhealthgroup/MIMSunit/tree/master

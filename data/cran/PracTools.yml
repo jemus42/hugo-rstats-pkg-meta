@@ -1,0 +1,14 @@
+version: 1.2.1
+title: Tools for Designing and Weighting Survey Samples
+maintainer: Richard Valliant
+description: Functions and datasets to support Valliant, Dever, and Kreuter, ``Practical
+  Tools for Designing and Weighting Survey Samples'' (2nd edition, 2018). Contains
+  functions for sample size calculation for survey samples using stratified or clustered
+  one-, two-, and three-stage sample designs. Other functions compute variance components
+  for multistage designs and sample sizes in two-phase designs. A number of example
+  data sets are included.
+date_publication: '2019-10-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PracTools
+url_git: ''

@@ -1,0 +1,12 @@
+version: 1.2.0
+title: Multidimensional Gauss-Hermite Quadrature
+maintainer: Karel Kroeze
+description: |-
+  Uses a transformed, rotated and optionally adapted n-dimensional
+  grid of quadrature points to calculate the numerical integral of n multivariate
+  normal distributed parameters.
+date_publication: '2016-08-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MultiGHQuad
+url_git: ''

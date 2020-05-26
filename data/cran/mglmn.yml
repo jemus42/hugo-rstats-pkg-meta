@@ -1,0 +1,10 @@
+version: 0.0.2
+title: Model Averaging for Multivariate GLM with Null Models
+maintainer: Masatoshi Katabuchi
+description: Tools for univariate and multivariate generalized linear models with
+  model averaging and null model technique.
+date_publication: '2015-05-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mglmn
+url_git: ''

@@ -1,0 +1,17 @@
+version: 0.1.9
+title: |-
+  New Plots Based on 'ggplot2' and Functions to Create Regular
+  Shapes
+maintainer: Jiang Wu
+description: |-
+  An extension to 'ggplot2' and 'magick'. It contains
+  three groups of functions: Functions in the first group draw 'ggplot2' - based plots: geom_shading_bar() draws barplot
+  with shading colors in each bar. geom_rect_cm(), geom_circle_cm() and geom_ellipse_cm() draw rectangles, circles
+  and ellipses with centimeter as their unit. Thus their sizes do not change when the coordinate system or the aspect ratio
+  changes. annotation_transparent_text() draws labels with transparent texts. annotation_shading_polygon() draws irregular
+  polygons with shading colors. Functions in the second group generate coordinates for regular shapes and make linear transformations. Functions in the third group are 'magick' - based functions facilitating image processing.
+date_publication: '2020-05-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=plothelper
+url_git: https://github.com/githubwwwjjj/plothelper/blob/master/README.md

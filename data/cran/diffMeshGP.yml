@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Multi-Fidelity Computer Experiments Using the Tuo-Wu-Yu Model
+maintainer: Wenjia Wang
+description: This R function implements the nonstationary Kriging model proposed by
+  Tuo, Wu and Yu (2014) <DOI:10.1080/00401706.2013.842935> for analyzing multi-fidelity
+  computer outputs. This function computes the maximum likelihood estimates for the
+  model parameters as well as the predictive means and variances of the exact solution
+  (i.e., the conceptually highest fidelity).
+date_publication: '2017-05-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=diffMeshGP
+url_git: ''

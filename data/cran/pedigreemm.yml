@@ -1,0 +1,9 @@
+version: 0.3-3
+title: Pedigree-based mixed-effects models
+maintainer: Ana Ines Vazquez
+description: Fit pedigree-based mixed-effects models.
+date_publication: '2014-06-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pedigreemm
+url_git: http://pedigreemm.r-forge.r-project.org/

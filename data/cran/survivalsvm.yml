@@ -1,0 +1,16 @@
+version: 0.0.5
+title: Survival Support Vector Analysis
+maintainer: Cesaire Fouodo
+description: |-
+  Performs support vectors analysis for data sets with survival
+  outcome. Three approaches are available in the package: The regression approach
+  takes censoring into account when formulating the inequality constraints of
+  the support vector problem. In the ranking approach, the inequality constraints
+  set the objective to maximize the concordance index for comparable pairs
+  of observations. The hybrid approach combines the regression and ranking
+  constraints in the same model.
+date_publication: '2018-02-05'
+bug_reports: https://github.com/imbs-hl/survivalsvm/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=survivalsvm
+url_git: https://github.com/imbs-hl/survivalsvm

@@ -1,0 +1,14 @@
+version: 0.5.2
+title: Analyze Paleontological Time-Series
+maintainer: Gene Hunt
+description: |-
+  Facilitates analysis of paleontological sequences of trait values.
+  Functions are provided to fit, using maximum likelihood, simple
+  evolutionary models (including unbiased random walks, directional
+  evolution,stasis, Ornstein-Uhlenbeck, covariate-tracking) and
+  complex models (punctuation, mode shifts).
+date_publication: '2019-03-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=paleoTS
+url_git: ''

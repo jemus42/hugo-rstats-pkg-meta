@@ -1,0 +1,15 @@
+version: 0.0.1
+title: '''Rcpp'' Package Illustrating Header-Only Access to ''NLopt'''
+maintainer: Dirk Eddelbuettel
+description: |-
+  An example package which shows use of 'NLopt' functionality from
+  C++ via 'Rcpp' without requiring linking, and relying just on 'nloptr' thanks
+  to the exporting API added there by Jelmer Ypma. This package is a fully
+  functioning, updated, and expanded version of the initial example by
+  Julien Chiquet at <https://github.com/jchiquet/RcppArmadilloNLoptExample>
+  also containing a large earlier pull request of mine.
+date_publication: '2018-10-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcppNLoptExample
+url_git: ''

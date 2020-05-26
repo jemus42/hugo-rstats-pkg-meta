@@ -1,0 +1,12 @@
+version: '1.1'
+title: Pearson Distribution System
+maintainer: Martin Becker
+description: |-
+  Implementation of the Pearson distribution system, including full
+  support for the (d,p,q,r)-family of functions for probability distributions
+  and fitting via method of moments and maximum likelihood method.
+date_publication: '2017-07-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PearsonDS
+url_git: ''

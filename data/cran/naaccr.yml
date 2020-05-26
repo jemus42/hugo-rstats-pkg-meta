@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Read Cancer Records in the NAACCR Format
+maintainer: Nathan Werth
+description: |-
+  Functions for reading cancer record files which follow a format
+  defined by the North American Association of Central Cancer Registries
+  (NAACCR).
+date_publication: '2019-12-17'
+bug_reports: https://github.com/WerthPADOH/naaccr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=naaccr
+url_git: https://github.com/WerthPADOH/naaccr

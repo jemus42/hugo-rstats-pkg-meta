@@ -1,0 +1,14 @@
+version: 1.19.8
+title: Goodness-of-Fit Test for Weibull Distribution (Weibullness)
+maintainer: Chanseok Park
+description: Performs a goodness-of-fit test of Weibull distribution (weibullness
+  test) and provides the maximum likelihood estimates of the three-parameter Weibull
+  distribution. Note that the threshold parameter is estimated based on the correlation
+  from the Weibull plot. For more details, see Park (2018) <doi:10.1155/2018/6056975>.
+  This work was supported by the National Research Foundation of Korea (NRF) grant
+  funded by the Korea government (No. NRF-2017R1A2B4004169).
+date_publication: '2019-08-19'
+bug_reports: https://github.com/AppliedStat/R/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=weibullness
+url_git: https://github.com/AppliedStat/R

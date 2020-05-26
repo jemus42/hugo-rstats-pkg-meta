@@ -1,0 +1,13 @@
+version: 1.2-1
+title: Model Fitting to Progressively Censored Mixture Data
+maintainer: Lida Fallah
+description: |-
+  Functions for generating progressively Type-II censored data in
+  a mixture structure and fitting models using a constrained EM algorithm. It can also
+  create a progressive Type-II censored version of a given real dataset to be considered for
+  model fitting.
+date_publication: '2017-07-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pcensmix
+url_git: ''

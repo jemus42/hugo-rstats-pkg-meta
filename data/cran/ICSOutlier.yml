@@ -1,0 +1,10 @@
+version: 0.3-0
+title: Outlier Detection Using Invariant Coordinate Selection
+maintainer: Klaus Nordhausen
+description: Multivariate outlier detection is performed using invariant coordinates
+  where the package offers different methods to choose the appropriate components.
+date_publication: '2018-02-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ICSOutlier
+url_git: ''

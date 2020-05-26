@@ -1,0 +1,17 @@
+version: 0.9.5.5
+title: Approximate String Matching and String Distance Functions
+maintainer: Mark van der Loo
+description: |-
+  Implements an approximate string matching version of R's native
+  'match' function. Can calculate various string distances based on edits
+  (Damerau-Levenshtein, Hamming, Levenshtein, optimal sting alignment), qgrams (q-
+  gram, cosine, jaccard distance) or heuristic metrics (Jaro, Jaro-Winkler). An
+  implementation of soundex is provided as well. Distances can be computed between
+  character vectors while taking proper care of encoding or between integer
+  vectors representing generic sequences. This package is built for speed and
+  runs in parallel by using 'openMP'. An API for C or C++ is exposed as well.
+date_publication: '2019-10-21'
+bug_reports: https://github.com/markvanderloo/stringdist/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=stringdist
+url_git: https://github.com/markvanderloo/stringdist

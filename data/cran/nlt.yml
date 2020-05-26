@@ -1,0 +1,12 @@
+version: 2.2-1
+title: A Nondecimated Lifting Transform for Signal Denoising
+maintainer: Matt Nunes
+description: |-
+  Uses a modified lifting algorithm on which it builds the
+  nondecimated lifting transform. It has applications in wavelet
+  shrinkage.
+date_publication: '2018-07-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nlt
+url_git: ''

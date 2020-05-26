@@ -1,0 +1,12 @@
+version: 1.1.2
+title: Import Multiple Files From a Single Directory at Once
+maintainer: Mauro Lepore
+description: |-
+  The goal of tor (to-R) is to help you to import
+  multiple files from a single directory at once, and to do so as
+  quickly, flexibly, and simply as possible.
+date_publication: '2020-03-07'
+bug_reports: https://github.com/maurolepore/tor/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tor
+url_git: https://github.com/maurolepore/tor

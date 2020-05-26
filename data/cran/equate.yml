@@ -1,0 +1,20 @@
+version: 2.0.7
+title: Observed-Score Linking and Equating
+maintainer: Anthony Albano
+description: |-
+  Contains methods for observed-score linking
+  and equating under the single-group, equivalent-groups,
+  and nonequivalent-groups with anchor test(s) designs.
+  Equating types include identity, mean, linear, general
+  linear, equipercentile, circle-arc, and composites of
+  these. Equating methods include synthetic, nominal
+  weights, Tucker, Levine observed score, Levine true
+  score, Braun/Holland, frequency estimation, and chained
+  equating. Plotting and summary methods, and methods for
+  multivariate presmoothing and bootstrap error estimation
+  are also provided.
+date_publication: '2018-04-08'
+bug_reports: https://github.com/talbano/equate/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=equate
+url_git: https://github.com/talbano/equate

@@ -1,0 +1,11 @@
+version: '2.0'
+title: R Commander Plug-in for Risk Demonstration
+maintainer: Arto Luoma
+description: R Commander plug-in to demonstrate various actuarial and financial risks.
+  It includes valuation of bonds and stocks, portfolio optimization, classical ruin
+  theory and demography.
+date_publication: '2018-10-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.RiskDemo
+url_git: ''

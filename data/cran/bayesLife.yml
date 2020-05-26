@@ -1,0 +1,10 @@
+version: 4.1-0
+title: Bayesian Projection of Life Expectancy
+maintainer: Hana Sevcikova
+description: Making probabilistic projections of life expectancy for all countries
+  of the world, using a Bayesian hierarchical model <doi:10.1007/s13524-012-0193-x>.
+date_publication: '2019-10-20'
+bug_reports: ''
+url: https://bayespop.csss.washington.edu
+url_cran: https://CRAN.R-project.org/package=bayesLife
+url_git: ''

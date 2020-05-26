@@ -1,0 +1,10 @@
+version: '1.01'
+title: Sensitivity Analysis for 2x2xk Tables in Observational Studies
+maintainer: Paul R. Rosenbaum
+description: Performs exact or approximate adaptive or nonadaptive Cochran-Mantel-Haenszel-Birch
+  tests and sensitivity analyses for one or two 2x2xk tables in observational studies.
+date_publication: '2015-12-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sensitivity2x2xk
+url_git: ''

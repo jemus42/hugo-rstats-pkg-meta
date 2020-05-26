@@ -1,0 +1,14 @@
+version: '1.1'
+title: Permutation of Species During Turnover Events
+maintainer: Kenneth B. Hoehn
+description: 'Provides a robust framework for analyzing the extent to which differential
+  survival with respect to higher level trait variation is reducible to lower level
+  variation. In addition to its primary test, it also provides functions for simulation-based
+  power analysis, reading in common data set formats, and visualizing results. Temporarily
+  contains an edited version of function hr.mcp() from package ''wild1'', written
+  by Glen Sargeant. For tutorial see: http://evolve.zoo.ox.ac.uk/Evolve/Perspectev.html.'
+date_publication: '2015-08-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=perspectev
+url_git: ''

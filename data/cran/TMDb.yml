@@ -1,0 +1,11 @@
+version: '1.1'
+title: Access to TMDb API
+maintainer: Andrea Capozio
+description: Provides an R-interface to the TMDb API (see TMDb API on <https://developers.themoviedb.org/3/getting-started/introduction>).
+  The Movie Database (TMDb) is a popular user editable database for movies and TV
+  shows (see <https://www.themoviedb.org>).
+date_publication: '2020-03-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TMDb
+url_git: ''

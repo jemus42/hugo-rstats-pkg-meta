@@ -1,0 +1,14 @@
+version: 2.0.1
+title: Clustering of Variables Around Latent Variables
+maintainer: Evelyne Vigneau
+description: Functions for the clustering of variables around Latent Variables, for
+  2-way or 3-way data. Each cluster of variables, which may be defined as a local
+  or directional cluster, is associated with a latent variable. External variables
+  measured on the same observations or/and additional information on the variables
+  can be taken into account. A "noise" cluster or sparse latent variables can also
+  be defined.
+date_publication: '2020-01-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ClustVarLV
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Heartbeat Detection in Electrocardiogram Data
+maintainer: Max Czapanskiy
+description: |-
+  Import and process electrocardiogram (ECG) data.
+  Reads binary data files from UFI devices (.ube files) and provides a
+  Shiny app for finding and exporting heart beats.
+date_publication: '2020-02-28'
+bug_reports: https://github.com/FlukeAndFeather/beats/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=beats
+url_git: https://github.com/FlukeAndFeather/beats

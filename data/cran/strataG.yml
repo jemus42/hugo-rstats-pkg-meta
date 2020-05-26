@@ -1,0 +1,15 @@
+version: 2.4.905
+title: Summaries and Population Structure Analyses of Genetic Data
+maintainer: Eric Archer
+description: |-
+  A toolkit for analyzing stratified population genetic data.
+  Functions are provided for summarizing and checking loci
+  (haploid, diploid, and polyploid), single stranded DNA sequences,
+  calculating most population subdivision metrics, and running external programs
+  such as structure and fastsimcoal. The package is further described in
+  Archer et al (2016) <doi:10.1111/1755-0998.12559>.
+date_publication: '2020-02-28'
+bug_reports: https://github.com/EricArcher/strataG/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=strataG
+url_git: https://github.com/EricArcher/strataG

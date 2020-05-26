@@ -1,0 +1,13 @@
+version: 1.4-0
+title: Weierstrass and Jacobi Elliptic Functions
+maintainer: Robin K. S. Hankin
+description: |2-
+
+  A suite of elliptic and related functions including Weierstrass and
+  Jacobi forms.  Also includes various tools for manipulating and
+  visualizing complex functions.
+date_publication: '2019-03-14'
+bug_reports: https://github.com/RobinHankin/elliptic/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=elliptic
+url_git: https://github.com/RobinHankin/elliptic.git

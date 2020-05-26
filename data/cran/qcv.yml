@@ -1,0 +1,13 @@
+version: '1.0'
+title: Quantifying Construct Validity
+maintainer: R. Michael Furr
+description: |-
+  Primarily, the 'qcv' package computes key indices related to the Quantifying Construct
+  Validity procedure (QCV; Westen & Rosenthal, 2003 <doi:10.1037/0022-3514.84.3.608>;
+  see also Furr & Heuckeroth, in press). The qcv() function is the heart of the 'qcv' package,
+  but additional functions in the package provide useful ancillary information related to the QCV procedure.
+date_publication: '2018-12-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=qcv
+url_git: ''

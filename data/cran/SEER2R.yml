@@ -1,0 +1,9 @@
+version: '1.0'
+title: reading and writing SEER*STAT data files
+maintainer: Jun Luo
+description: read and write SEER*STAT data files
+date_publication: '2012-01-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SEER2R
+url_git: ''

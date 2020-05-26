@@ -1,0 +1,10 @@
+version: 0.1-4
+title: Bayesian quantile regression factor models
+maintainer: Lane Burgette
+description: Package to fit Bayesian quantile regression models that<U+000a>assume
+  a factor structure for at least part of the design<U+000a>matrix.
+date_publication: '2010-09-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=factorQR
+url_git: ''

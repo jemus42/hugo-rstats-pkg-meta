@@ -1,0 +1,17 @@
+version: 0.6-26
+title: Miscellaneous Tools and Utilities
+maintainer: Arne Henningsen
+description: |-
+  Miscellaneous small tools and utilities.
+  Many of them facilitate the work with matrices,
+  e.g. inserting rows or columns, creating symmetric matrices,
+  or checking for semidefiniteness.
+  Other tools facilitate the work with regression models,
+  e.g. extracting the standard errors,
+  obtaining the number of (estimated) parameters,
+  or calculating R-squared values.
+date_publication: '2019-12-08'
+bug_reports: ''
+url: http://www.micEcon.org
+url_cran: https://CRAN.R-project.org/package=miscTools
+url_git: ''

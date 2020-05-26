@@ -1,0 +1,13 @@
+version: 0.1.2
+title: |-
+  Low-Level Support for Provenance Capture Between in-Memory R
+  Objects
+maintainer: Gabriel Becker
+description: A suite of classes and methods which provide low-level support for modeling
+  provenance between in-memory R objects. This is an infrastructure package and is
+  not intended to be used directly by end-users.
+date_publication: '2018-11-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=roprov
+url_git: ''

@@ -1,0 +1,13 @@
+version: '0.9'
+title: |-
+  NeuroAnatomy Toolbox ('nat') Extension for Handling Template
+  Brains
+maintainer: Gregory Jefferis
+description: |-
+  Extends package 'nat' (NeuroAnatomy Toolbox) by providing objects
+  and functions for handling template brains.
+date_publication: '2018-06-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nat.templatebrains
+url_git: https://github.com/jefferislab/nat.templatebrains

@@ -1,0 +1,12 @@
+version: '0.1'
+title: |-
+  Kaplan-Meier Simultaneous Confidence Band for the Survivor
+  Function
+maintainer: David E. Matthews
+description: Computes and plots an exact nonparametric band for any user-specified
+  level of confidence from a single-sample survfit object
+date_publication: '2013-10-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=kmconfband
+url_git: ''

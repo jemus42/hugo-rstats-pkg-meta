@@ -1,0 +1,12 @@
+version: 1.0.3
+title: Genetic Analysis of Multi-Parent Recombinant Inbred Lines
+maintainer: Rohan Shah
+description: |-
+  Constructing linkage maps, reconstructing haplotypes,
+  estimating linkage disequilibrium and quantitative trait loci
+  (QTL) mapping in multi-parent Recombinant Inbred Lines designs.
+date_publication: '2020-04-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mpMap2
+url_git: ''

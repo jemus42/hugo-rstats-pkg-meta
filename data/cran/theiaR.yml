@@ -1,0 +1,12 @@
+version: 0.3.0
+title: Download and Manage Data from Theia
+maintainer: Xavier Laviron
+description: |-
+  Provides a simple interface to search available data provided by
+  Theia (<https://theia.cnes.fr>), download it, and manage it. Data can be downloaded
+  based on a search result or from a cart file downloaded from Theia website.
+date_publication: '2020-01-20'
+bug_reports: https://github.com/norival/theiaR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=theiaR
+url_git: https://github.com/norival/theiaR

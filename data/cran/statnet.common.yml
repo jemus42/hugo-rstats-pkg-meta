@@ -1,0 +1,12 @@
+version: 4.3.0
+title: |-
+  Common R Scripts and Utilities Used by the Statnet Project
+  Software
+maintainer: Pavel N. Krivitsky
+description: Non-statistical utilities used by the software developed by the Statnet
+  Project. They may also be of use to others.
+date_publication: '2019-06-02'
+bug_reports: https://github.com/statnet/statnet.common/issues
+url: https://statnet.org
+url_cran: https://CRAN.R-project.org/package=statnet.common
+url_git: ''

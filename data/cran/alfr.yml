@@ -1,0 +1,13 @@
+version: 1.2.1
+title: Connectivity to 'Alfresco' Content Management Repositories
+maintainer: Roy Wetherall
+description: |-
+  Allows you to connect to an 'Alfresco' content management repository and interact
+  with its contents using simple and intuitive functions.  You will be able to establish a connection session to the 'Alfresco' repository,
+  read and upload content and manage folder hierarchies.  For more details on the 'Alfresco' content management repository
+  see <https://www.alfresco.com/ecm-software/document-management>.
+date_publication: '2019-07-19'
+bug_reports: https://github.com/rwetherall/alfr/issues
+url: https://rwetherall.github.io/alfr/
+url_cran: https://CRAN.R-project.org/package=alfr
+url_git: https://github.com/rwetherall/alfr

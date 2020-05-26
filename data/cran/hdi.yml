@@ -1,0 +1,10 @@
+version: 0.1-7
+title: High-Dimensional Inference
+maintainer: Lukas Meier
+description: Implementation of multiple approaches to perform inference in high-dimensional
+  models.
+date_publication: '2019-03-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hdi
+url_git: ''

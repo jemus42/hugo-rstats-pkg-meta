@@ -1,0 +1,13 @@
+version: 0.0.1
+title: Evaluation of Binary Classifiers
+maintainer: Antoine Bichat
+description: |-
+  Evaluates the performance of binary classifiers.
+  Computes confusion measures (TP, TN, FP, FN), derived measures (TPR,
+  FDR, accuracy, F1, DOR, ..), and area under the curve.  Outputs are
+  well suited for nested dataframes.
+date_publication: '2020-03-08'
+bug_reports: https://github.com/abichat/evabic/issues
+url: https://abichat.github.io/evabic
+url_cran: https://CRAN.R-project.org/package=evabic
+url_git: https://github.com/abichat/evabic

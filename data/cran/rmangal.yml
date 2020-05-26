@@ -1,0 +1,10 @@
+version: 2.0.0
+title: '''Mangal'' Client'
+maintainer: Steve Vissault
+description: An interface to the 'Mangal' database - a collection of ecological networks.
+  This package includes functions to work with the 'Mangal RESTful API' methods (<https://mangal.io/doc/api>).
+date_publication: '2019-10-03'
+bug_reports: https://github.com/ropensci/rmangal/issues
+url: https://mangal.io
+url_cran: https://CRAN.R-project.org/package=rmangal
+url_git: https://github.com/ropensci/rmangal

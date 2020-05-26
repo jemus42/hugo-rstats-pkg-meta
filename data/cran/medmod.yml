@@ -1,0 +1,15 @@
+version: 1.0.0
+title: Simple Mediation and Moderation Analysis
+maintainer: Ravi Selker
+description: |-
+  This toolbox allows you to do simple mediation and moderation
+  analysis. It is also available as a module for 'jamovi'
+  (see <https://www.jamovi.org> for more information). 'Medmod' is based
+  on the 'lavaan' package by Yves Rosseel. You can find an in depth tutorial
+  on the 'lavaan' model syntax used for this package on
+  <http://lavaan.ugent.be/tutorial/index.html>.
+date_publication: '2017-09-12'
+bug_reports: https://github.com/raviselker/medmod/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=medmod
+url_git: https://github.com/raviselker/medmod

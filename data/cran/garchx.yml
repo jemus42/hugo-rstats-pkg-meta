@@ -1,0 +1,14 @@
+version: '1.1'
+title: Flexible and Robust GARCH-X Modelling
+maintainer: Genaro Sucarrat
+description: Flexible and robust estimation and inference of generalised autoregressive
+  conditional heteroscedasticity (GARCH) models with covariates based on the results
+  by Francq and Thieu (2018) <doi:10.1017/S0266466617000512>. Coefficients can straightforwardly
+  be set to zero by omission, and quasi maximum likelihood methods ensure estimates
+  are generally consistent and inference valid, even when the standardised innovations
+  are non-normal and/or dependent over time.
+date_publication: '2020-05-10'
+bug_reports: https://github.com/gsucarrat/garchx/issues
+url: http://www.sucarrat.net/
+url_cran: https://CRAN.R-project.org/package=garchx
+url_git: ''

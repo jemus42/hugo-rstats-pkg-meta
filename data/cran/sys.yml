@@ -1,0 +1,14 @@
+version: '3.3'
+title: Powerful and Reliable Tools for Running System Commands in R
+maintainer: Jeroen Ooms
+description: |-
+  Drop-in replacements for the base system2() function with fine control
+  and consistent behavior across platforms. Supports clean interruption, timeout,
+  background tasks, and streaming STDIN / STDOUT / STDERR over binary or text
+  connections. Arguments on Windows automatically get encoded and quoted to work
+  on different locales.
+date_publication: '2019-08-21'
+bug_reports: https://github.com/jeroen/sys/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sys
+url_git: https://github.com/jeroen/sys

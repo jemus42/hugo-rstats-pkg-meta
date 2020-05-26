@@ -1,0 +1,12 @@
+version: 1.0.7
+title: Functions and Datasets for Books by Julian Faraway
+maintainer: Julian Faraway
+description: Books are "Practical Regression and ANOVA in R" on CRAN, "Linear Models
+  with R" published 1st Ed. August 2004, 2nd Ed. July 2014 by CRC press, ISBN 9781439887332,
+  and "Extending the Linear Model with R" published by CRC press in 1st Ed. December
+  2005 and 2nd Ed. March 2016, ISBN 9781584884248.
+date_publication: '2016-02-15'
+bug_reports: ''
+url: http://people.bath.ac.uk/jjf23/
+url_cran: https://CRAN.R-project.org/package=faraway
+url_git: ''

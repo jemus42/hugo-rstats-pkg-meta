@@ -1,0 +1,16 @@
+version: 0.1.3
+title: Lazy SQL Programming
+maintainer: Uwe Block
+description: |2-
+
+  Helper functions to build SQL statements
+  for dbGetQuery or dbSendQuery under program control.
+  They are intended to increase speed of coding and
+  to reduce coding errors. Arguments are carefully checked,
+  in particular SQL identifiers such as names of tables or columns.
+  More patterns will be added as required.
+date_publication: '2016-03-12'
+bug_reports: https://github.com/UweBlock/lazysql/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=lazysql
+url_git: https://github.com/UweBlock/lazysql

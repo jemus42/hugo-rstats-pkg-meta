@@ -1,0 +1,12 @@
+version: 0.6-1
+title: |-
+  Visualization of Spatial and Spatio-Temporal Objects in Google
+  Earth
+maintainer: Tomislav Hengl
+description: Writes sp-class, spacetime-class, raster-class and similar spatial and
+  spatio-temporal objects to KML following some basic cartographic rules.
+date_publication: '2020-03-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=plotKML
+url_git: http://plotkml.r-forge.r-project.org/

@@ -1,0 +1,14 @@
+version: 1.0-8
+title: Gifi Methods for Optimal Scaling
+maintainer: Patrick Mair
+description: Performs a homogeneity analysis (multiple correspondence analysis) and
+  various extensions. Rank restrictions on the category quantifications can be imposed
+  (nonlinear PCA). The categories are transformed by means of optimal scaling with
+  options for nominal, ordinal, and numerical scale levels (for rank-1 restrictions).
+  Variables can be grouped into sets, in order to emulate regression analysis and
+  canonical correlation analysis.
+date_publication: '2018-05-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=homals
+url_git: http://r-forge.r-project.org/projects/psychor/

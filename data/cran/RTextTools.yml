@@ -1,0 +1,16 @@
+version: 1.4.3
+title: Automatic Text Classification via Supervised Learning
+maintainer: Loren Collingwood
+description: |-
+  A machine learning package for automatic text classification
+  that makes it simple for novice users to get started with machine
+  learning, while allowing experienced users to easily experiment
+  with different settings and algorithm combinations. The package
+  includes eight algorithms for ensemble classification (svm, slda,
+  boosting, bagging, random forests, glmnet, decision trees, neural
+  networks), comprehensive analytics, and thorough documentation.
+date_publication: '2020-04-26'
+bug_reports: ''
+url: http://www.rtexttools.com/
+url_cran: https://CRAN.R-project.org/package=RTextTools
+url_git: ''

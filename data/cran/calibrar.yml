@@ -1,0 +1,17 @@
+version: 0.2.0
+title: Automated Parameter Estimation for Complex (Ecological) Models
+maintainer: Ricardo Oliveros-Ramos
+description: |-
+  Automated parameter estimation for complex (ecological) models in R.
+  This package allows the parameter estimation or calibration of complex models,
+  including stochastic ones. It is a generic tool that can be used for fitting
+  any type of models, especially those with non-differentiable objective functions.
+  It supports multiple phases and constrained optimization.
+  It implements maximum likelihood estimation methods and automated construction
+  of the objective function from simulated model outputs.
+  See <http://roliveros-ramos.github.io/calibrar> for more details.
+date_publication: '2016-02-17'
+bug_reports: https://github.com/roliveros-ramos/calibrar/issues
+url: http://roliveros-ramos.github.io/calibrar
+url_cran: https://CRAN.R-project.org/package=calibrar
+url_git: ''

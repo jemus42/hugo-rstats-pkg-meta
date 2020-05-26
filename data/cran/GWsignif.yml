@@ -1,0 +1,15 @@
+version: '1.2'
+title: |-
+  Estimating Genome-Wide Significance for Whole Genome Sequencing
+  Studies, Either Single SNP Tests or Region-Based Tests
+maintainer: ChangJiang Xu
+description: The correlations and linkage disequilibrium between tests can vary as
+  a function of minor allele frequency thresholds used to filter variants, and also
+  varies with different choices of test statistic for region-based tests. Appropriate
+  genome-wide significance thresholds can be estimated empirically through permutation
+  on only a small proportion of the whole genome.
+date_publication: '2016-09-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GWsignif
+url_git: ''

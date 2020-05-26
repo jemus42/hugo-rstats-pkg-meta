@@ -1,0 +1,9 @@
+version: '1.7'
+title: Context Driven Exploratory Projection Pursuit
+maintainer: Mohit Dayal
+description: Functions and Data to support Context Driven Exploratory Projection Pursuit.
+date_publication: '2016-01-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cepp
+url_git: ''

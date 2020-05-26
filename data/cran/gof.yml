@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Model Diagnostics Based on Cumulative Residuals
+maintainer: Klaus. K. Holst
+description: |-
+  Implementation of model-checking techniques for generalized linear
+  models and linear structural equation models based on cumulative residuals
+  (Lin, Wei & Ying (2002) <doi:10.1111/j.0006-341x.2002.00001.x>).
+date_publication: '2020-03-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gof
+url_git: ''

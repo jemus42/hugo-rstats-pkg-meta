@@ -1,0 +1,18 @@
+version: 1.1-17
+title: A Handbook of Statistical Analyses Using R (2nd Edition)
+maintainer: Torsten Hothorn
+description: |-
+  Functions, data sets, analyses and examples from the
+  second edition of the book
+  ''A Handbook of Statistical Analyses Using R'' (Brian S. Everitt and Torsten
+  Hothorn, Chapman & Hall/CRC, 2008). The first chapter
+  of the book, which is entitled ''An Introduction to R'',
+  is completely included in this package, for all other chapters,
+  a vignette containing all data analyses is available. In addition,
+  the package contains Sweave code for producing slides for selected
+  chapters (see HSAUR2/inst/slides).
+date_publication: '2017-08-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HSAUR2
+url_git: ''

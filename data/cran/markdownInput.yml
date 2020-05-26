@@ -1,0 +1,12 @@
+version: 0.1.2
+title: Shiny Module for a Markdown Input with Result Preview
+maintainer: Julien Diot
+description: |-
+  An R-Shiny module containing a "markdownInput". This input allows
+  the user to write some markdown code and to preview the result. This input
+  has been inspired by the "comment" window of <https://github.com/>.
+date_publication: '2020-01-31'
+bug_reports: https://github.com/juliendiot42/markdownInput/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=markdownInput
+url_git: https://github.com/juliendiot42/markdownInput

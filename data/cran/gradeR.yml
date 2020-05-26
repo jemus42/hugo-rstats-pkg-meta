@@ -1,0 +1,12 @@
+version: 1.0.6
+title: Helps Grade Assignment Submissions that are R Scripts
+maintainer: Taylor Brown
+description: After being given the location of your students' submissions and a test
+  file, the function runs each .R file, and evaluates the results from all the given
+  tests. Results are neatly returned in a data frame that has a row for each student,
+  and a column for each test.
+date_publication: '2020-05-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gradeR
+url_git: ''

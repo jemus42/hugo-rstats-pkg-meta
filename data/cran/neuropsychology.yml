@@ -1,0 +1,12 @@
+version: 0.5.0
+title: |-
+  Toolbox for Psychologists, Neuropsychologists and
+  Neuroscientists
+maintainer: Dominique Makowski
+description: Contains statistical functions (for patient assessment, data preprocessing
+  and reporting, ...) and datasets useful in psychology, neuropsychology and neuroscience.
+date_publication: '2017-03-22'
+bug_reports: https://github.com/neuropsychology/neuropsychology.R/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=neuropsychology
+url_git: https://github.com/neuropsychology/neuropsychology.R

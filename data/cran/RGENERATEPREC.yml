@@ -1,0 +1,13 @@
+version: 1.2.5
+title: Tools to Generate Daily-Precipitation Time Series
+maintainer: Emanuele Cordano
+description: |-
+  The method 'generate()' is extended for spatial multi-site
+  stochastic generation of daily precipitation. It generates precipitation
+  occurrence in several sites using logit regression (Generalized Linear
+  Models) and D.S. Wilks' approach (Journal of Hydrology, 1998).
+date_publication: '2019-11-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RGENERATEPREC
+url_git: https://github.com/ecor/RGENERATEPREC

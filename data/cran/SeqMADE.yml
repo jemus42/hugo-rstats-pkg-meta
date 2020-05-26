@@ -1,0 +1,12 @@
+version: '1.0'
+title: |-
+  Network Module-Based Model in the Differential Expression
+  Analysis for RNA-Seq
+maintainer: Mingli Lei<leimingli2013@sjtu.edu.cn>
+description: A network module-based generalized linear model for differential expression
+  analysis with the count-based sequence data from RNA-Seq.
+date_publication: '2016-06-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SeqMADE
+url_git: ''

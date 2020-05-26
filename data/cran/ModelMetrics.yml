@@ -1,0 +1,11 @@
+version: 1.2.2.2
+title: Rapid Calculation of Model Metrics
+maintainer: Tyler Hunt
+description: Collection of metrics for evaluating models written in C++ using 'Rcpp'.
+  Popular metrics include area under the curve, log loss, root mean square error,
+  etc.
+date_publication: '2020-03-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ModelMetrics
+url_git: ''

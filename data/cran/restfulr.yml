@@ -1,0 +1,9 @@
+version: 0.0.13
+title: R Interface to RESTful Web Services
+maintainer: Michael Lawrence
+description: Models a RESTful service as if it were a nested R list.
+date_publication: '2017-08-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=restfulr
+url_git: ''

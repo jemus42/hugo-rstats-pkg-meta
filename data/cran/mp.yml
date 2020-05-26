@@ -1,0 +1,11 @@
+version: 0.4.1
+title: Multidimensional Projection Techniques
+maintainer: Francisco M. Fatore
+description: |-
+  Multidimensional projection techniques are used to create two
+  dimensional representations of multidimensional data sets.
+date_publication: '2016-08-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mp
+url_git: ''

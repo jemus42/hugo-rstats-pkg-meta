@@ -1,0 +1,11 @@
+version: '1.0'
+title: Visualize Downloads from 'CRAN' Packages
+maintainer: Marcelo Ponce
+description: Visualize the trends and historical downloads from packages in the 'CRAN'
+  repository. Data is obtained by using the 'API' to query the database from the 'RStudio'
+  'CRAN' mirror.
+date_publication: '2020-03-21'
+bug_reports: https://github.com/mponce0/Visualize.CRAN.Downloads/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Visualize.CRAN.Downloads
+url_git: https://github.com/mponce0/Visualize.CRAN.Downloads

@@ -1,0 +1,11 @@
+version: '1.1'
+title: Simulation-efficient Shortest Probability Intervals
+maintainer: Ying Liu
+description: |-
+  An optimal weighting strategy to compute
+  simulation-efficient shortest probability intervals (spins).
+date_publication: '2013-04-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SPIn
+url_git: ''

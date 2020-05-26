@@ -1,0 +1,17 @@
+version: 0.4.2
+title: Noncompartmental Analysis for Pharmacokinetic Report
+maintainer: Kyun-Seop Bae
+description: |-
+  Conduct a noncompartmental analysis with industrial strength.
+  Some features are
+  1) CDISC SDTM terms
+  2) Automatic or manual slope selection
+  3) Supporting both 'linear-up linear-down' and 'linear-up log-down' method
+  4) Interval(partial) AUCs with 'linear' or 'log' interpolation method
+  5) Produce pdf, rtf, text report files.
+  * Reference: Gabrielsson J, Weiner D. Pharmacokinetic and Pharmacodynamic Data Analysis - Concepts and Applications. 5th ed. 2016. (ISBN:9198299107).
+date_publication: '2019-09-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ncar
+url_git: ''

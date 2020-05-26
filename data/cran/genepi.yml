@@ -1,0 +1,9 @@
+version: 1.0.1
+title: Genetic Epidemiology Design and Inference
+maintainer: Venkatraman E. Seshan
+description: Functions for Genetic Epi Methods Developed at MSKCC
+date_publication: '2010-10-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=genepi
+url_git: ''

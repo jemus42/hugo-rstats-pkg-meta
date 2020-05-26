@@ -1,0 +1,12 @@
+version: 1.8-1
+title: Fit Regularization Path for Generalized Additive Models
+maintainer: Trevor Hastie
+description: Using overlap grouped-lasso penalties, 'gamsel' selects whether a term
+  in a 'gam' is nonzero, linear, or a non-linear spline (up to a specified max df
+  per variable). It fits the entire regularization path on a grid of values for the
+  overall penalty lambda, both for gaussian and binomial families.
+date_publication: '2018-04-01'
+bug_reports: ''
+url: http://arxiv.org/abs/1506.03850
+url_cran: https://CRAN.R-project.org/package=gamsel
+url_git: ''

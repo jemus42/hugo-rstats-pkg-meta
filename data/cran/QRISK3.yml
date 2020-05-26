@@ -1,0 +1,11 @@
+version: 0.3.0
+title: 10-Year Cardiovascular Disease Risk Calculator (QRISK3 2017)
+maintainer: Yan Li
+description: This function aims to calculate risk of developing cardiovascular disease
+  of individual patients in next 10 years. The package was based on published risk
+  prediction algorithm <https://qrisk.org/three/src.php>.
+date_publication: '2019-12-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=QRISK3
+url_git: ''

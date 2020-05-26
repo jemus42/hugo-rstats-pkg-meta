@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Multivariate Normal Distributions with Power Integrand
+maintainer: Alexis Bienvenüe
+description: Computes integral of f(x)*x_i^k on a product of intervals,<U+000a>where
+  f is the density of a gaussian law.<U+000a>This a is small alteration of the mnormt
+  code from A. Genz and A. Azzalini.
+date_publication: '2014-10-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mnormpow
+url_git: ''

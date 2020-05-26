@@ -1,0 +1,9 @@
+version: 0.90.1
+title: Methods for Industrial/Organizational Psychology
+maintainer: Allen Goebl
+description: Collection of functions for IO Psychologists.
+date_publication: '2016-04-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=iopsych
+url_git: ''

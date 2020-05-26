@@ -1,0 +1,11 @@
+version: 1.3.3
+title: Methods for likelihood-based dimension reduction in regression
+maintainer: Kofi Placid Adragni
+description: Functions, methods, and data sets for fitting likelihood-based dimension
+  reduction in regression, using principal fitted components (pfc), likelihood acquired
+  directions (lad), covariance reducing models (core).
+date_publication: '2014-10-29'
+bug_reports: ''
+url: http://www.jstatsoft.org/v61/i03/
+url_cran: https://CRAN.R-project.org/package=ldr
+url_git: ''

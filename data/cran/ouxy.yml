@@ -1,0 +1,13 @@
+version: '1.1'
+title: Model of Adaptive Trait Evolution
+maintainer: Dwueng-Chwuan Jhwueng
+description: Performs statistical inference on the models of adaptive trait evolution
+  under approximate Bayesian computation. This can simulate traits from four models,
+  compute trait data summary statistics. Parameters are estimated under Approximate
+  Bayesian Computation, model selection as well as posterior parameter mean will be
+  reported. Users need to enter a comparative dataset and a phylogenetic tree.
+date_publication: '2019-09-20'
+bug_reports: https://github.com/djhwueng/ououcir/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ouxy
+url_git: ''

@@ -1,0 +1,10 @@
+version: 1.1.2
+title: Generalized Hermite Distribution
+maintainer: David Moriña Soler
+description: Probability functions and other utilities for the generalized Hermite
+  distribution.
+date_publication: '2018-05-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hermite
+url_git: ''

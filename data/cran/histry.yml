@@ -1,0 +1,13 @@
+version: 0.2.4
+title: |-
+  Enhanced Command History Tracking for R Sessions and Dynamic
+  Documents
+maintainer: Gabriel Becker
+description: |-
+  Automatically tracks and makes programmatically available code
+  evaluation history in R sessions and dynamic documents.
+date_publication: '2018-11-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=histry
+url_git: ''

@@ -1,0 +1,11 @@
+version: '1.0'
+title: Type 1 Fuzzy Logic Toolkit
+maintainer: Jon Garibaldi
+description: |-
+  A custom framework for working with Type 1 Fuzzy Logic,
+  produced by the University of Nottingham IMA Group.
+date_publication: '2013-04-26'
+bug_reports: ''
+url: http://ima.ac.uk
+url_cran: https://CRAN.R-project.org/package=FuzzyToolkitUoN
+url_git: ''

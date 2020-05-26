@@ -1,0 +1,13 @@
+version: '1.0'
+title: Mixed effects Score Test for continuous outcomes
+maintainer: Jianping Sun
+description: |-
+  Test for association between a set of SNPS/genes and
+  continuous or binary outcomes by including variant
+  characteristic information and using (weighted) score
+  statistics.
+date_publication: '2013-12-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MiST
+url_git: ''

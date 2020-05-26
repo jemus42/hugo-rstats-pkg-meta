@@ -1,0 +1,12 @@
+version: '1.3'
+title: Tools for Inference in the Presence of a Monotone Likelihood
+maintainer: John E. Kolassa
+description: Proportional hazards estimation in the presence of a partially monotone
+  likelihood has difficulties, in that finite estimators do not exist.  These difficulties
+  are related to those arising from logistic and multinomial regression.  References
+  for methods are given in the separate function documents.
+date_publication: '2020-03-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PHInfiniteEstimates
+url_git: ''

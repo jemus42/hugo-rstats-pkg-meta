@@ -1,0 +1,13 @@
+version: 2.3-1
+title: Interface to 'NetCDF' Datasets
+maintainer: Milton Woods
+description: |-
+  An interface to the 'NetCDF' file formats designed by Unidata
+  for efficient storage of array-oriented scientific data and descriptions.
+  Most capabilities of 'NetCDF' version 4 are supported. Optional conversions
+  of time units are enabled by 'UDUNITS' version 2, also from Unidata.
+date_publication: '2020-05-04'
+bug_reports: https://github.com/mjwoods/RNetCDF/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=RNetCDF
+url_git: https://github.com/mjwoods/RNetCDFhttp://www.unidata.ucar.edu/software/netcdf/http://www.unidata.ucar.edu/software/udunits/

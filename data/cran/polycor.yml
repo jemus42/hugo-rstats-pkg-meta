@@ -1,0 +1,11 @@
+version: 0.7-10
+title: Polychoric and Polyserial Correlations
+maintainer: John Fox
+description: |-
+  Computes polychoric and polyserial correlations by quick "two-step" methods or ML,
+  optionally with standard errors; tetrachoric and biserial correlations are special cases.
+date_publication: '2019-08-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=polycor
+url_git: https://r-forge.r-project.org/projects/polycor/

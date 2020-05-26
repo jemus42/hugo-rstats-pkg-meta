@@ -1,0 +1,12 @@
+version: 0.2.1
+title: Calculate Fetch and Wave Energy
+maintainer: Philippe Marchand
+description: |-
+  Functions for calculating the
+  fetch (length of open water distance along given directions)
+  and estimating wave energy from wind and wave monitoring data.
+date_publication: '2018-01-29'
+bug_reports: https://github.com/pmarchand1/waver/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=waver
+url_git: https://github.com/pmarchand1/waver

@@ -1,0 +1,12 @@
+version: 1.0.2
+title: Interface and Tools for 'BDL' API
+maintainer: Artur Sławomirski
+description: |-
+  Interface to Local Data Bank ('Bank Danych Lokalnych' - 'bdl') API
+  <https://api.stat.gov.pl/Home/BdlApi?lang=en> with set of useful tools like
+  quick plotting and map generating using data from bank.
+date_publication: '2020-04-01'
+bug_reports: https://github.com/statisticspoland/R_Package_to_API_BDL/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bdl
+url_git: https://github.com/statisticspoland/R_Package_to_API_BDL

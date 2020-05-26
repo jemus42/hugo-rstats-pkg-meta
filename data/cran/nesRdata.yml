@@ -1,0 +1,10 @@
+version: 0.3.1
+title: National Eutrophication Survey Data
+maintainer: Joseph Stachelek
+description: Serves data from the United States Environmental Protection Agency (USEPA)
+  National Eutrophication Survey <https://www.epa.gov/national-aquatic-resource-surveys>.
+date_publication: '2020-04-30'
+bug_reports: https://github.com/jsta/nesRdata/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=nesRdata
+url_git: https://github.com/jsta/nesRdata

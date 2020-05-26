@@ -1,0 +1,11 @@
+version: 1.2.18
+title: Connect to the 'jamovi' Statistical Spreadsheet
+maintainer: Jonathon Love
+description: |-
+  Methods to access data sets from the 'jamovi' statistical
+  spreadsheet (see <https://www.jamovi.org> for more information) from R.
+date_publication: '2020-05-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=jmvconnect
+url_git: ''

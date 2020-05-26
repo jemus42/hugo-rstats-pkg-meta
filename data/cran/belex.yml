@@ -1,0 +1,9 @@
+version: 0.1.0
+title: Download Historical Data from the Belgrade Stock Exchange
+maintainer: Milos Vilotic
+description: Tools for downloading historical financial data from the www.belex.rs.
+date_publication: '2016-08-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=belex
+url_git: ''

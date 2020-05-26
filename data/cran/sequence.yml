@@ -1,0 +1,15 @@
+version: '2.0'
+title: Analysis of Sequences of Events
+maintainer: Jean-Sebastien Pierre
+description: 'Pierre, J. S. and Kasper, C.,(1990), "The Design of Ethological Flow-Charts
+  on Factorial Analysis Representations - an Application to the Study of the Male
+  Mole-Cricket Sexual Courtship." Biology of Behaviour 15(3-4): 125-151.(in french).
+  Includes the calculation of transition matrices, their manipulation (symmetrization
+  and diagonal loading), their analysis by CA (Correspondence Analysis), their comparison
+  by likelihood ratio tests, the graphic plot of flow charts on the factorial axes
+  of the CA.'
+date_publication: '2020-02-11'
+bug_reports: ''
+url: none
+url_cran: https://CRAN.R-project.org/package=sequence
+url_git: ''

@@ -1,0 +1,20 @@
+version: 0.1.1
+title: SPRE Statistics for Exploring Heterogeneity in Meta-Analysis
+maintainer: Lerato E Magosi
+description: |-
+  An implementation of SPRE (standardised predicted random-effects)
+  statistics in R to explore heterogeneity in genetic association meta-
+  analyses, as described by Magosi et al. (2019)
+  <doi:10.1093/bioinformatics/btz590>. SPRE statistics are precision
+  weighted residuals that indicate the direction and extent with which
+  individual study-effects in a meta-analysis deviate from the average
+  genetic effect. Overly influential positive outliers have the potential
+  to inflate average genetic effects in a meta-analysis whilst negative
+  outliers might lower or change the direction of effect. See the 'getspres'
+  website for documentation and examples
+  <https://magosil86.github.io/getspres/>.
+date_publication: '2020-03-31'
+bug_reports: https://github.com/magosil86/getspres/issues
+url: https://magosil86.github.io/getspres/
+url_cran: https://CRAN.R-project.org/package=getspres
+url_git: ''

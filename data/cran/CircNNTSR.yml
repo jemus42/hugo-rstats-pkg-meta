@@ -1,0 +1,14 @@
+version: 2.2-1
+title: |-
+  Statistical Analysis of Circular Data using Nonnegative
+  Trigonometric Sums (NNTS) Models
+maintainer: Maria Mercedes Gregorio-Dominguez
+description: Includes functions for the analysis of circular data using distributions
+  based on Nonnegative Trigonometric Sums (NNTS). The package includes functions for
+  calculation of densities and distributions, for the estimation of parameters, for
+  plotting and more.
+date_publication: '2020-02-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CircNNTSR
+url_git: ''

@@ -1,0 +1,17 @@
+version: '0.3'
+title: Tools for network tomography
+maintainer: Alexander W Blocker
+description: networkTomography implements the methods developed and evaluated in<U+000a>Blocker
+  and Airoldi (2011) and Airoldi and Blocker (2012). These include the<U+000a>authors'
+  own dynamic multilevel model with calibration based upon a Gaussian<U+000a>state-space
+  model in addition to implementations of the methods of Tebaldi &<U+000a>West (1998;
+  Poisson-Gamma model with MCMC sampling), Zhang et al. (2002;<U+000a>tomogravity),
+  Cao et al. (2000; Gaussian model with mean-variance relation),<U+000a>and Vardi
+  (1996; method of moments). Data from the 1router network of Cao et<U+000a>al. (2000),
+  the Abilene network of Fang et al. (2007), and the CMU network<U+000a>of Blocker
+  and Airoldi (2011) are included for testing and reproducibility.
+date_publication: '2014-01-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=networkTomography
+url_git: https://github.com/awblocker/networkTomography

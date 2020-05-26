@@ -1,0 +1,10 @@
+version: 1.24.1
+title: R Interface to 'Apache Tika'
+maintainer: Sasha Goodman
+description: Extract text or metadata from over a thousand file types, using Apache
+  Tika <https://tika.apache.org/>. Get either plain text or structured XHTML content.
+date_publication: '2020-04-25'
+bug_reports: http://github.com/ropensci/rtika/issues
+url: https://docs.ropensci.org/rtika
+url_cran: https://CRAN.R-project.org/package=rtika
+url_git: http://github.com/ropensci/rtika

@@ -1,0 +1,13 @@
+version: 1.1.0
+title: '''DataSHIELD'' Interface'
+maintainer: Yannick Marcon
+description: |-
+  'DataSHIELD' is an infrastructure and series of R packages that
+  enables the remote and 'non-disclosive' analysis of sensitive research data.
+  This package defines the API that is to be implemented by 'DataSHIELD' compliant
+  data repositories.
+date_publication: '2020-05-18'
+bug_reports: https://github.com/datashield/DSI
+url: http://datashield.ac.uk
+url_cran: https://CRAN.R-project.org/package=DSI
+url_git: ''

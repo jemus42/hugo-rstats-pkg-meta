@@ -1,0 +1,16 @@
+version: 0.1.3
+title: Convert Dates to MMWR Day, Week, and Year
+maintainer: Jarad Niemi
+description: |-
+  The first day of any MMWR week is Sunday.
+  MMWR week numbering is sequential beginning with 1
+  and incrementing with each week to a maximum of 52
+  or 53. MMWR week #1 of an MMWR year is the first week
+  of the year that has at least four days in the calendar
+  year. This package provides functionality to convert
+  Dates to MMWR day, week, and year and the reverse.
+date_publication: '2020-04-22'
+bug_reports: ''
+url: http://wwwn.cdc.gov/nndss/document/MMWR_Week_overview.pdf
+url_cran: https://CRAN.R-project.org/package=MMWRweek
+url_git: ''

@@ -1,0 +1,9 @@
+version: '1.4'
+title: Pedigree functions
+maintainer: Albart Coster
+description: Pedigree related functions
+date_publication: '2013-11-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pedigree
+url_git: ''

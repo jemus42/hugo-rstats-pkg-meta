@@ -1,0 +1,12 @@
+version: '2.5'
+title: Three-Way Correspondence Analysis Variants
+maintainer: Rosaria Lombardo
+description: |-
+  Provides four variants of three-way correspondence analysis (ca):
+  three-way symmetrical ca, three-way non-symmetrical ca, three-way ordered symmetrical ca
+  and three-way ordered non-symmetrical ca.
+date_publication: '2020-04-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CA3variants
+url_git: ''

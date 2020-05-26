@@ -1,0 +1,12 @@
+version: 0.0-25
+title: |-
+  Construction of Regular and Irregular Histograms with Different
+  Options for Automatic Choice of Bins
+maintainer: Thoralf Mildenberger
+description: Automatic construction of regular and irregular histograms as described
+  in Rozenholc/Mildenberger/Gather (2010).
+date_publication: '2019-04-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=histogram
+url_git: ''

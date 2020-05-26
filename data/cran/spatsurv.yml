@@ -1,0 +1,13 @@
+version: '1.5'
+title: |-
+  Bayesian Spatial Survival Analysis with Parametric Proportional
+  Hazards Models
+maintainer: Benjamin M. Taylor
+description: |-
+  Bayesian inference for parametric proportional hazards spatial
+  survival models; flexible spatial survival models. See Benjamin M. Taylor, Barry S. Rowlingson (2017) <doi:10.18637/jss.v077.i04>.
+date_publication: '2020-04-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spatsurv
+url_git: ''

@@ -1,0 +1,19 @@
+version: 1.2.4
+title: A Fast and Versatile SVM Package
+maintainer: Philipp Thomann
+description: |-
+  Support vector machines (SVMs) and related kernel-based learning
+  algorithms are a well-known class of machine learning algorithms, for
+  non-parametric classification and regression.
+  liquidSVM is an implementation of SVMs whose key features are:
+  fully integrated hyper-parameter selection,
+  extreme speed on both small and large data sets,
+  full flexibility for experts, and
+  inclusion of a variety of different learning scenarios:
+  multi-class classification, ROC, and Neyman-Pearson learning, and
+  least-squares, quantile, and expectile regression.
+date_publication: '2019-09-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=liquidSVM
+url_git: https://github.com/liquidSVM/liquidSVM

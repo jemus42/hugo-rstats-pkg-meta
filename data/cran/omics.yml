@@ -1,0 +1,11 @@
+version: 0.1-5
+title: '''--omics'' Data Analysis Toolbox'
+maintainer: Gianluca Campanella
+description: |-
+  A collection of functions to analyse '--omics' datasets such as DNA
+  methylation and gene expression profiles.
+date_publication: '2016-11-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=omics
+url_git: ''

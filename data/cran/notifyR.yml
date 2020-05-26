@@ -1,0 +1,14 @@
+version: '1.02'
+title: |-
+  Send push notifications to your smartphone via pushover.net
+  (ACCOUNT REQUIRED!)
+maintainer: Torben Engelmeyer
+description: |-
+  This Package provides a connection to the pushover.net API
+  to send push notification to your smartphone directly from R.
+  (ACCOUNT REQUIRED!)
+date_publication: '2012-08-06'
+bug_reports: ''
+url: http://www.engelmeyer.de/notifyR
+url_cran: https://CRAN.R-project.org/package=notifyR
+url_git: ''

@@ -1,0 +1,10 @@
+version: 0.2.2
+title: Extract Code Block from Rpubs Article
+maintainer: Aep Hidayatuloh
+description: Extract code only or with the output from an Rpubs <https://rpubs.com/>
+  article and write the code-block to R script file.
+date_publication: '2020-02-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rpubs
+url_git: https://github.com/aephidayatuloh/rpubs

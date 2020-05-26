@@ -1,0 +1,15 @@
+version: 4.4-0
+title: Harrell Miscellaneous
+maintainer: Frank E Harrell Jr
+description: |-
+  Contains many functions useful for data
+  analysis, high-level graphics, utility operations, functions for
+  computing sample size and power, importing and annotating datasets,
+  imputing missing values, advanced table making, variable clustering,
+  character string manipulation, conversion of R objects to LaTeX and html code,
+  and recoding variables.
+date_publication: '2020-03-23'
+bug_reports: ''
+url: http://biostat.mc.vanderbilt.edu/Hmisc
+url_cran: https://CRAN.R-project.org/package=Hmisc
+url_git: https://github.com/harrelfe/Hmisc

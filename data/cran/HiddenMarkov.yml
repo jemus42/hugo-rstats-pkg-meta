@@ -1,0 +1,13 @@
+version: 1.8-11
+title: Hidden Markov Models
+maintainer: David Harte
+description: Contains functions for the analysis of Discrete Time Hidden Markov Models,
+  Markov Modulated GLMs and the Markov Modulated Poisson Process. It includes functions
+  for simulation, parameter estimation, and the Viterbi algorithm. See the topic "HiddenMarkov"
+  for an introduction to the package, and "Change Log" for a list of recent changes.
+  The algorithms are based of those of Walter Zucchini.
+date_publication: '2017-11-01'
+bug_reports: ''
+url: http://www.statsresearch.co.nz/dsh/sslib/
+url_cran: https://CRAN.R-project.org/package=HiddenMarkov
+url_git: ''

@@ -1,0 +1,15 @@
+version: 0.2.1
+title: Fast Robust Moments
+maintainer: Steven E. Pav
+description: |-
+  Fast, numerically robust computation of weighted moments via 'Rcpp'.
+  Supports computation on vectors and matrices, and Monoidal append of moments.
+  Moments and cumulants over running fixed length windows can be computed,
+  as well as over time-based windows.
+  Moment computations are via a generalization of Welford's method, as described
+  by Bennett et. (2009) <doi:10.1109/CLUSTR.2009.5289161>.
+date_publication: '2019-01-30'
+bug_reports: https://github.com/shabbychef/fromo/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=fromo
+url_git: https://github.com/shabbychef/fromo

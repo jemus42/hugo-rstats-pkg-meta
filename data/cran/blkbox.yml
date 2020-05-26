@@ -1,0 +1,13 @@
+version: '1.0'
+title: Data Exploration with Multiple Machine Learning Algorithms
+maintainer: Boris Guennewig
+description: |-
+  Allows data to be processed by multiple machine learning algorithms
+  at the same time, enables feature selection of data by single a algorithm or
+  combinations of multiple. Easy to use tool for k-fold cross validation and
+  nested cross validation.
+date_publication: '2016-08-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=blkbox
+url_git: ''

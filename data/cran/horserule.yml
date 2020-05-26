@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Flexible Non-Linear Regression with the HorseRule Algorithm
+maintainer: Malte Nalenz
+description: Implementation of the HorseRule model a flexible tree based Bayesian
+  regression method for linear and nonlinear regression described in Nalenz & Villani
+  (2017) <arXiv:1702.05008>.
+date_publication: '2018-03-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=horserule
+url_git: ''

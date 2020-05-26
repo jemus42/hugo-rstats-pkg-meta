@@ -1,0 +1,11 @@
+version: 0.5-30
+title: Censored Regression (Tobit) Models
+maintainer: Arne Henningsen
+description: |-
+  Maximum Likelihood estimation of censored regression (Tobit) models
+  with cross-sectional and panel data.
+date_publication: '2019-12-13'
+bug_reports: http://r-forge.r-project.org/projects/sampleselection/
+url: http://www.sampleSelection.org
+url_cran: https://CRAN.R-project.org/package=censReg
+url_git: ''

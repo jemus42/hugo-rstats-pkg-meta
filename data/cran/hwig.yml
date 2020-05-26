@@ -1,0 +1,15 @@
+version: 0.0.1
+title: Half-Weight Index Gregariousness
+maintainer: Alec L. Robitaille
+description: |-
+  The half-weight index gregariousness (HWIG) is an association
+  index used in social network analyses. It extends the half-weight
+  association index (HWI), correcting for level of gregariousness
+  in individuals. It is calculated using group by individual
+  data according to methods described in Godde et al. (2013)
+  <doi:10.1016/j.anbehav.2012.12.010>.
+date_publication: '2020-04-16'
+bug_reports: https://github.com/robitalec/hwig/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=hwig
+url_git: https://gitlab.com/robit.a/hwig

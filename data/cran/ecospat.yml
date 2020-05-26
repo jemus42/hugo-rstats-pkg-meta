@@ -1,0 +1,15 @@
+version: '3.1'
+title: Spatial Ecology Miscellaneous Methods
+maintainer: Olivier Broennimann
+description: Collection of R functions and data sets for the support of spatial ecology
+  analyses with a focus on pre, core and post modelling analyses of species distribution,
+  niche quantification and community assembly. Written by current and former members
+  and collaborators of the ecospat group of Antoine Guisan, Department of Ecology
+  and Evolution (DEE) and Institute of Earth Surface Dynamics (IDYST), University
+  of Lausanne, Switzerland. Read Di Cola et al. (2016) <doi:10.1111/ecog.02671> for
+  details.
+date_publication: '2020-03-25'
+bug_reports: https://github.com/ecospat/ecospat
+url: http://www.unil.ch/ecospat/home/menuguid/ecospat-resources/tools.html
+url_cran: https://CRAN.R-project.org/package=ecospat
+url_git: ''

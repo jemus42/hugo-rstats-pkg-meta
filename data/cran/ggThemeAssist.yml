@@ -1,0 +1,10 @@
+version: 0.1.5
+title: Add-in to Customize 'ggplot2' Themes
+maintainer: Calli Gross
+description: Rstudio add-in that delivers a graphical interface for editing 'ggplot2'
+  theme elements.
+date_publication: '2016-08-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggThemeAssist
+url_git: https://github.com/calligross/ggthemeassist

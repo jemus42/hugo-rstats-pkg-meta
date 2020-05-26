@@ -1,0 +1,10 @@
+version: 2.1.1
+title: Palettes Generated from All "Harry Potter" Movies
+maintainer: Alejandro Jimenez Rico
+description: Implementation of characteristic palettes inspired in the Wizarding World
+  and the Harry Potter movie franchise.
+date_publication: '2020-03-05'
+bug_reports: https://github.com/aljrico/harrypotter/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=harrypotter
+url_git: https://github.com/aljrico/harrypotter

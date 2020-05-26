@@ -1,0 +1,13 @@
+version: 2.2.3
+title: Genetic Algorithm for Wind Farm Layout Optimization
+maintainer: Sebastian Gatscha
+description: The genetic algorithm is designed to optimize wind farms of any shape.
+  It requires a predefined amount of turbines, a unified rotor radius and an average
+  wind speed value for each incoming wind direction. A terrain effect model can be
+  included that downloads an 'SRTM' elevation model and loads a Corine Land Cover
+  raster to approximate surface roughness.
+date_publication: '2019-12-16'
+bug_reports: https://github.com/YsoSirius/windfarmGA/issues
+url: https://ysosirius.github.io/windfarmGA/index.html
+url_cran: https://CRAN.R-project.org/package=windfarmGA
+url_git: ''

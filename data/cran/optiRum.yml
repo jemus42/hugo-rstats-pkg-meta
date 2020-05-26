@@ -1,0 +1,16 @@
+version: 0.40.1
+title: Financial Functions & More
+maintainer: Steph Locke
+description: |-
+  This fills the gaps credit analysts and loan modellers at
+  Optimum Credit identify in the existing R code body.
+  It allows for the production of documentation with less coding,
+  replicates a number of Microsoft Excel functions useful for
+  modelling loans (without rounding), and other helpful functions
+  for producing charts and tables.  It also has some additional scales for
+  use, including a GBP scale.
+date_publication: '2018-07-03'
+bug_reports: https://github.com/lockedata/optiRum/issues
+url: https://itsalocke.com/optirum/
+url_cran: https://CRAN.R-project.org/package=optiRum
+url_git: https://github.com/lockedata/optiRum

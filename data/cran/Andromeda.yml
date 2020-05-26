@@ -1,0 +1,10 @@
+version: 0.2.0
+title: Asynchronous Disk-Based Representation of Massive Data
+maintainer: Martijn Schuemie
+description: Storing very large data objects on a local drive, while still making
+  it possible to manipulate the data in an efficient manner.
+date_publication: '2020-05-20'
+bug_reports: https://github.com/OHDSI/Andromeda/issues
+url: https://ohdsi.github.io/Andromeda/
+url_cran: https://CRAN.R-project.org/package=Andromeda
+url_git: https://github.com/OHDSI/Andromeda

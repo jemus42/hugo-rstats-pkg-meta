@@ -1,0 +1,11 @@
+version: '1.5'
+title: Canadian Historical Climate Network
+maintainer: Steven Mosher
+description: A compilation of historical through contemporary climate<U+000a>measurements
+  scraped from the Environment Canada Website<U+000a>Including tools for scraping
+  data, creating metadata and<U+000a>formating temperature files.
+date_publication: '2012-06-08'
+bug_reports: ''
+url: http://stevemosher.wordpress.com/
+url_cran: https://CRAN.R-project.org/package=CHCN
+url_git: ''

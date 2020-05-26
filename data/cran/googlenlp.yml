@@ -1,0 +1,14 @@
+version: 0.2.0
+title: An Interface to Google's Cloud Natural Language API
+maintainer: Brian Weinstien
+description: |-
+  Interact with Google's Cloud Natural Language API
+  <https://cloud.google.com/natural-language/> (v1) via R. The API has
+  four main features, all of which are available through this
+  R package: syntax analysis and part-of-speech tagging, entity
+  analysis, sentiment analysis, and language identification.
+date_publication: '2018-07-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=googlenlp
+url_git: https://github.com/BrianWeinstein/googlenlp

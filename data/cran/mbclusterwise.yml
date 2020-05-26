@@ -1,0 +1,12 @@
+version: '1.0'
+title: Clusterwise Multiblock Analyses
+maintainer: Stephanie Bougeard
+description: Perform clusterwise multiblock analyses (clusterwise multiblock Partial
+  Least Squares, clusterwise multiblock Redundancy Analysis or a regularized method
+  between the two latter ones) associated with a F-fold cross-validation procedure
+  to select the optimal number of clusters and dimensions.
+date_publication: '2016-11-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mbclusterwise
+url_git: ''

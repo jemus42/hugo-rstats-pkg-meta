@@ -1,0 +1,9 @@
+version: 1.30.10
+title: Access the Bioconductor Project Package Repository
+maintainer: Marcel Ramos
+description: A convenient tool to install and update Bioconductor packages.
+date_publication: '2019-11-16'
+bug_reports: https://github.com/Bioconductor/BiocManager/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=BiocManager
+url_git: ''

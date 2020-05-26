@@ -1,0 +1,12 @@
+version: '2.4'
+title: Probabilities for Pedigrees Given DNA Data
+maintainer: Petter Mostad
+description: |2-
+
+  An interface to the core Familias functions (www.familias.name),
+  which are programmed in C++.
+date_publication: '2016-02-18'
+bug_reports: ''
+url: http://www.familias.name
+url_cran: https://CRAN.R-project.org/package=Familias
+url_git: ''

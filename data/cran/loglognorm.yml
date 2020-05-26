@@ -1,0 +1,9 @@
+version: 1.0.1
+title: Double log normal distribution functions
+maintainer: Olaf Mersmann
+description: r,d,p,q functions for the double log normal distribution
+date_publication: '2013-06-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=loglognorm
+url_git: ''

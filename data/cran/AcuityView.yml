@@ -1,0 +1,13 @@
+version: '0.1'
+title: |-
+  A Package for Displaying Visual Scenes as They May Appear to an
+  Animal with Lower Acuity
+maintainer: Eleanor Caves
+description: This code provides a simple method for representing a visual scene as
+  it may be seen by an animal with less acute vision. When using (or for more information),
+  please cite the original publication.
+date_publication: '2017-05-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AcuityView
+url_git: ''

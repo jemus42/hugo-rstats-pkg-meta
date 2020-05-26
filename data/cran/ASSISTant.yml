@@ -1,0 +1,13 @@
+version: 1.4.2
+title: Adaptive Subgroup Selection in Group Sequential Trials
+maintainer: Balasubramanian Narasimhan
+description: |-
+  Clinical trial design for subgroup selection in three-stage group
+  sequential trial. Includes facilities for design, exploration and analysis of
+  such trials. An implementation of the initial DEFUSE-3 trial is also provided
+  as a vignette.
+date_publication: '2019-05-03'
+bug_reports: https://github.com/bnaras/ASSISTant/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ASSISTant
+url_git: https://github.com/bnaras/ASSISTant

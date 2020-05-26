@@ -1,0 +1,11 @@
+version: 0.2.0
+title: Create Values for Human Consumption
+maintainer: Gerry Manoim
+description: |-
+  An almost direct port of the 'python' 'humanize' package <https://github.com/jmoiron/humanize>.
+  This package contains utilities to convert values into human readable forms.
+date_publication: '2018-04-04'
+bug_reports: https://github.com/newtux/humanize/issues
+url: https://newtux.github.io/humanize/index.html
+url_cran: https://CRAN.R-project.org/package=humanize
+url_git: https://github.com/newtux/humanize

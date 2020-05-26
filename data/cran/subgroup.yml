@@ -1,0 +1,13 @@
+version: '1.1'
+title: |-
+  Methods for exploring treatment effect heterogeneity in subgroup
+  analysis of clinical trials
+maintainer: I. Manjula Schou
+description: Produces various measures of expected treatment effect heterogeneity
+  under an assumption of homogeneity across subgroups. Graphical presentations are
+  created to compare these expected differences with the observed differences.
+date_publication: '2014-08-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=subgroup
+url_git: ''

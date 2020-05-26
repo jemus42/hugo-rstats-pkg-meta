@@ -1,0 +1,10 @@
+version: 0.0-5
+title: Moderated Regression Package
+maintainer: Alberto Mirisola
+description: Moderated regression with mean and residual centering and simple slopes
+  analysis.
+date_publication: '2016-02-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pequod
+url_git: ''

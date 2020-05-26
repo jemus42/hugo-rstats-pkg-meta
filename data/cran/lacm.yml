@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Latent Autoregressive Count Models
+maintainer: Cristiano Varin
+description: Perform pairwise likelihood inference in latent autoregressive count
+  models. See Pedeli and Varin (2018) <arXiv:1805.10865> for details.
+date_publication: '2020-02-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lacm
+url_git: ''

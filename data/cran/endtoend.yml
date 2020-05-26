@@ -1,0 +1,12 @@
+version: '2.29'
+title: Transmissions and Receptions in an End to End Network
+maintainer: Christian E. Galarza
+description: Computes the expectation of the number of transmissions and receptions
+  considering an End-to-End transport model with limited number of retransmissions
+  per packet. It provides theoretical results and also estimated values based on Monte
+  Carlo simulations. It is also possible to consider random data and ACK probabilities.
+date_publication: '2019-07-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=endtoend
+url_git: ''

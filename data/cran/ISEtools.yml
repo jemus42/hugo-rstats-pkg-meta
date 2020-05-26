@@ -1,0 +1,13 @@
+version: 3.1.1.1
+title: Tools for Ion Selective Electrodes
+maintainer: Peter Dillingham
+description: |-
+  Characterisation and calibration of single or multiple Ion Selective Electrodes (ISEs);
+  activity estimation of experimental samples. Implements methods described in:
+  Dillingham, P.W., Radu, T., Diamond, D., Radu, A. and McGraw, C.M. (2012) <doi:10.1002/elan.201100510> and
+  Dillingham, P.W., Alsaedi, B.S.O. and McGraw, C.M. (2017) <doi:10.1109/ICSENS.2017.8233898>.
+date_publication: '2020-04-01'
+bug_reports: ''
+url: http://www.maths.otago.ac.nz/~dillingh/software.html
+url_cran: https://CRAN.R-project.org/package=ISEtools
+url_git: ''

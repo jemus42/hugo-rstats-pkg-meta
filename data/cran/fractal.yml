@@ -1,0 +1,11 @@
+version: 2.0-4
+title: A Fractal Time Series Modeling and Analysis Package
+maintainer: William Constantine
+description: |-
+  Stochastic fractal and deterministic chaotic time series
+  analysis.
+date_publication: '2017-12-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fractal
+url_git: ''

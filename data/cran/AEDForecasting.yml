@@ -1,0 +1,9 @@
+version: 0.20.0
+title: Change Point Analysis in ARIMA Forecasting
+maintainer: Nhat Cuong Pham
+description: Package to incorporate change point analysis in ARIMA forecasting.
+date_publication: '2016-09-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AEDForecasting
+url_git: ''

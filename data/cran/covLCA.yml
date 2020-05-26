@@ -1,0 +1,12 @@
+version: '1.0'
+title: Latent Class Models with Covariate Effects on Underlying and<U+000a>Measured
+  Variables
+maintainer: Aurelie Bertrand
+description: Estimation of latent class models with covariate effects<U+000a>on underlying
+  and measured variables. The measured variables<U+000a>are dichotomous or polytomous,
+  all with the same number of<U+000a>categories.
+date_publication: '2013-06-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=covLCA
+url_git: ''

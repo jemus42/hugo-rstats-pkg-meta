@@ -1,0 +1,11 @@
+version: 0.3.0
+title: PX-Web Data by API
+maintainer: Øyvind Langsrud
+description: Function to read PX-Web data into R via API. The example code reads data
+  from the three national statistical institutes, Statistics Norway, Statistics Sweden
+  and Statistics Finland.
+date_publication: '2019-04-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PxWebApiData
+url_git: ''

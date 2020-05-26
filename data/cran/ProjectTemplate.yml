@@ -1,0 +1,14 @@
+version: 0.9.2
+title: Automates the Creation of New Statistical Analysis Projects
+maintainer: Kenton White
+description: |-
+  Provides functions to
+  automatically build a directory structure for a new R
+  project. Using this structure, 'ProjectTemplate'
+  automates data loading, preprocessing, library
+  importing and unit testing.
+date_publication: '2020-05-11'
+bug_reports: https://github.com/johnmyleswhite/ProjectTemplate/issues
+url: http://projecttemplate.net
+url_cran: https://CRAN.R-project.org/package=ProjectTemplate
+url_git: ''

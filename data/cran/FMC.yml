@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Factorial Experiments with Minimum Level Changes
+maintainer: Shwetank Lall
+description: |-
+  Generate cost effective minimally changed run sequences
+  for symmetrical as well as asymmetrical factorial
+  designs.
+date_publication: '2017-03-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FMC
+url_git: ''

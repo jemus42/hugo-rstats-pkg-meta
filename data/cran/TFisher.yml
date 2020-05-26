@@ -1,0 +1,16 @@
+version: 0.2.0
+title: Optimal Thresholding Fisher's P-Value Combination Method
+maintainer: Hong Zhang
+description: |-
+  We provide the cumulative distribution function (CDF),
+  quantile, and statistical power calculator for a collection of
+  thresholding Fisher's p-value combination methods, including Fisher's
+  p-value combination method, truncated product method and, in particular, soft-thresholding
+  Fisher's p-value combination method which is proven to be optimal in some
+  context of signal detection. The p-value calculator for the omnibus version
+  of these tests are also included. For reference, please see Hong Zhang and Zheyang Wu. "TFisher Tests: Optimal and Adaptive Thresholding for Combining p-Values", submitted.
+date_publication: '2018-03-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TFisher
+url_git: ''

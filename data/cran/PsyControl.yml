@@ -1,0 +1,12 @@
+version: 1.0.0.0
+title: CUSUM Person Fit Statistics
+maintainer: Maxwell Hong
+description: Person fit statistics based on Quality Control measures are provided
+  for questionnaires and tests given a specified IRT model. Statistics based on Cumulative
+  Sum (CUSUM) charts are provided. Options are given for banks with polytomous and
+  dichotomous data.
+date_publication: '2017-08-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PsyControl
+url_git: ''

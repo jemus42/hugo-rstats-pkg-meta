@@ -1,0 +1,11 @@
+version: '2.4'
+title: Point-In-Polyhedron Test (2D and 3D)
+maintainer: Jose M. Maisog
+description: Function 'pip3d' tests whether a point in 3D space is<U+000a>within,
+  exactly on, or outside an enclosed surface defined by a triangular mesh.<U+000a>Function
+  'pip2d' tests whether a point in 2D space is within, exactly on, or outside a polygon.
+date_publication: '2014-08-27'
+bug_reports: ''
+url: http://ptinpoly.pbworks.com
+url_cran: https://CRAN.R-project.org/package=ptinpoly
+url_git: ''

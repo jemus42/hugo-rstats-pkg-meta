@@ -1,0 +1,13 @@
+version: 1.0.1
+title: A Time Input Widget for Shiny
+maintainer: Gerhard Burger
+description: |-
+  Provides a time input widget for Shiny. This widget allows intuitive time input in the
+  '[hh]:[mm]:[ss]' or '[hh]:[mm]' (24H) format by using a separate numeric input for each time
+  component. The interface with R uses date-time objects. See the project page for more
+  information and examples.
+date_publication: '2019-08-06'
+bug_reports: https://github.com/burgerga/shinyTime/issues
+url: https://burgerga.github.io/shinyTime/
+url_cran: https://CRAN.R-project.org/package=shinyTime
+url_git: https://github.com/burgerga/shinyTime

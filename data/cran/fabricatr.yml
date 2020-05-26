@@ -1,0 +1,13 @@
+version: 0.10.0
+title: Imagine Your Data Before You Collect It
+maintainer: Graeme Blair
+description: |-
+  Helps you imagine your data before you collect it. Hierarchical data structures
+  and correlated data can be easily simulated, either from random number generators or
+  by resampling from existing data sources. This package is faster with 'data.table' and
+  'mvnfast' installed.
+date_publication: '2019-09-04'
+bug_reports: https://github.com/DeclareDesign/fabricatr/issues
+url: https://declaredesign.org/r/fabricatr
+url_cran: https://CRAN.R-project.org/package=fabricatr
+url_git: https://github.com/DeclareDesign/fabricatr

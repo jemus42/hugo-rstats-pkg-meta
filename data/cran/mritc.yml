@@ -1,0 +1,9 @@
+version: 0.5-2
+title: MRI Tissue Classification
+maintainer: Dai Feng
+description: Various methods for MRI tissue classification.
+date_publication: '2020-04-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mritc
+url_git: ''

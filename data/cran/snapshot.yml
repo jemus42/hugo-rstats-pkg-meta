@@ -1,0 +1,14 @@
+version: 0.1.2
+title: |-
+  Gadget N-body cosmological simulation code snapshot I/O
+  utilities
+maintainer: Aaron Robotham
+description: Functions for reading and writing Gadget N-body snapshots. The Gadget
+  code is popular in astronomy for running N-body / hydrodynamical cosmological and
+  merger simulations. To find out more about Gadget see the main distribution page
+  at www.mpa-garching.mpg.de/gadget/
+date_publication: '2013-10-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=snapshot
+url_git: ''

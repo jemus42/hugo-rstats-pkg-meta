@@ -1,0 +1,14 @@
+version: 1.1.8
+title: |-
+  Statistical analysis for Methylation-sensitive Amplification
+  Polymorphism data
+maintainer: Andres Perez-Figueroa
+description: Statistical Analyses of Methylation-sensitive Amplification Polymorphism
+  (MSAP) assays.
+date_publication: '2014-05-09'
+bug_reports: |2-
+
+  https://r-forge.r-project.org/tracker/?func=browse&group_id=1422&atid=5292
+url: ''
+url_cran: https://CRAN.R-project.org/package=msap
+url_git: http://msap.r-forge.r-project.org/

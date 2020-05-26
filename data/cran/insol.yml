@@ -1,0 +1,9 @@
+version: 1.2.1
+title: Solar Radiation
+maintainer: Javier G. Corripio
+description: Functions to compute insolation on complex terrain.
+date_publication: '2019-12-17'
+bug_reports: ''
+url: https://meteoexploration.com/R/insol/index.html
+url_cran: https://CRAN.R-project.org/package=insol
+url_git: ''

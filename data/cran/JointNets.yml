@@ -1,0 +1,23 @@
+version: 2.0.1
+title: |-
+  End-to-End Sparse Gaussian Graphical Model Simulation,
+  Estimation, Visualization, Evaluation and Application
+maintainer: Arshdeep Sekhon
+description: 'An end-to-end package for learning multiple sparse Gaussian graphical
+  models and nonparanormal models from Heterogeneous Data with Additional Knowledge.
+  It is able to simulate multiple related graphs as well as produce samples drawn
+  from them. Multiple state-of-the-art sparse Gaussian graphical model estimators
+  are included to both multiple and difference estimation. Graph visualization is
+  available in 2D as well as 3D, designed specifically for brain. Moreover, a set
+  of evaluation metrics are integrated for easy exploration with model validity. Finally,
+  classification using graphical model is achieved with Quadratic Discriminant Analysis.
+  The package comes with multiple demos with datasets from various fields. Methods
+  references: SIMULE (Wang B et al. (2017) <doi:10.1007/s10994-017-5635-7>), WSIMULE
+  (Singh C et al. (2017) <arXiv:1709.04090v2>), DIFFEE (Wang B et al. (2018) <arXiv:1710.11223>),
+  JEEK (Wang B et al. (2018) <arXiv:1806.00548>), JGL(Danaher P et al. (2012) <arXiv:1111.0324>)
+  and kdiffnet (Sekhon A et al, preprint for publication).'
+date_publication: '2019-07-29'
+bug_reports: https://github.com/QData/JointNets
+url: ''
+url_cran: https://CRAN.R-project.org/package=JointNets
+url_git: https://github.com/QData/JointNets

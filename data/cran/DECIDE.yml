@@ -1,0 +1,11 @@
+version: '1.2'
+title: DEComposition of Indirect and Direct Effects
+maintainer: Christiana Kartsonaki
+description: Calculates various estimates for measures of educational<U+000a>differentials,
+  the relative importance of primary and secondary<U+000a>effects in the creation
+  of such differentials and compares the<U+000a>estimates obtained from two datasets.
+date_publication: '2014-11-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DECIDE
+url_git: ''

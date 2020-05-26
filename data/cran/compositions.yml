@@ -1,0 +1,12 @@
+version: 1.40-5
+title: Compositional Data Analysis
+maintainer: K. Gerald van den Boogaart
+description: |-
+  Provides functions for the consistent analysis of compositional
+  data (e.g. portions of substances) and positive numbers (e.g. concentrations)
+  in the way proposed by J. Aitchison and V. Pawlowsky-Glahn.
+date_publication: '2020-04-08'
+bug_reports: ''
+url: http://www.stat.boogaart.de/compositions
+url_cran: https://CRAN.R-project.org/package=compositions
+url_git: ''

@@ -1,0 +1,13 @@
+version: '1.0'
+title: Nearest Centroid (NC) Sampling
+maintainer: Gavin Melville
+description: Provides functionality for performing Nearest Centroid (NC) Sampling.
+  The NC sampling procedure was developed for forestry applications and selects plots
+  for ground measurement so as to maximize the efficiency of imputation estimates.
+  It uses multiple auxiliary variables and multivariate clustering to search for an
+  optimal sample. Further details are given in Melville G. & Stone C. (2016) <doi:10.1080/00049158.2016.1218265>.
+date_publication: '2017-06-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NCSampling
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.1-1
+title: Classical Word Pools Used in Studies of Learning and Memory
+maintainer: Michael Friendly
+description: |-
+  Collects several classical word pools used most often
+  to provide lists of words in psychological studies of learning and memory. It
+  provides a simple function, 'pickList' for selecting random samples of words
+  within given ranges.
+date_publication: '2018-12-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=WordPools
+url_git: ''

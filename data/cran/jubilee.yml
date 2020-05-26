@@ -1,0 +1,18 @@
+version: 0.3.3
+title: |-
+  Forecasting Long-Term Growth of the U.S. Stock Market and
+  Business Cycles
+maintainer: Stephen H-T. Lihn
+description: A long-term forecast model called "Jubilee-Tectonic model" is implemented
+  to forecast future returns of the U.S. stock market, Treasury yield, and gold price.
+  The five-factor model forecasts the 10-year and 20-year future equity returns with
+  high R-squared above 80 percent. It is based on linear growth and mean reversion
+  characteristics in the U.S. stock market. This model also enhances the CAPE model
+  by introducing the hypothesis that there are fault lines in the historical CAPE,
+  which can be calibrated and corrected through statistical learning. In addition,
+  it contains a module for business cycles, optimal interest rate, and recession forecasts.
+date_publication: '2020-01-24'
+bug_reports: ''
+url: https://ssrn.com/abstract=3156574https://ssrn.com/abstract=3422278https://ssrn.com/abstract=3435667
+url_cran: https://CRAN.R-project.org/package=jubilee
+url_git: ''

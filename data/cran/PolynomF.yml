@@ -1,0 +1,12 @@
+version: 2.0-3
+title: Polynomials in R
+maintainer: Bill Venables
+description: |-
+  Implements univariate polynomial operations in R, including
+  polynomial arithmetic, finding zeros, plotting, and some operations on
+  lists of polynomials.
+date_publication: '2020-02-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PolynomF
+url_git: ''

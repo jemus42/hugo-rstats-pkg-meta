@@ -1,0 +1,9 @@
+version: 0.4.0
+title: Tools for HTML
+maintainer: Joe Cheng
+description: Tools for HTML generation and output.
+date_publication: '2019-10-04'
+bug_reports: https://github.com/rstudio/htmltools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=htmltools
+url_git: https://github.com/rstudio/htmltools

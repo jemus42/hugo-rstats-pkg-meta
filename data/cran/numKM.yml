@@ -1,0 +1,9 @@
+version: 0.2.0
+title: Create a Kaplan-Meier Plot with Numbers at Risk
+maintainer: Zhicheng Du<dgdzc@hotmail.com>
+description: To add the table of numbers at risk below the Kaplan-Meier plot.
+date_publication: '2020-03-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=numKM
+url_git: ''

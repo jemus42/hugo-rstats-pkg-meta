@@ -1,0 +1,14 @@
+version: 4.2.2
+title: Data exploration tools from Yale University.
+maintainer: John W. Emerson
+description: |-
+  This collection of data exploration tools was developed at
+  Yale University for the graphical exploration of complex
+  multivariate data; barcode and gpairs now have their own
+  packages.  The new big.read.table() provided here may be
+  useful for large files when only a subset is needed.
+date_publication: '2014-12-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=YaleToolkit
+url_git: ''

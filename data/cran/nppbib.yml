@@ -1,0 +1,12 @@
+version: 1.1-0
+title: |-
+  Nonparametric Partially-Balanced Incomplete Block Design
+  Analysis
+maintainer: David Allingham
+description: Implements a nonparametric statistical test for rank or score data from
+  partially-balanced incomplete block-design experiments.
+date_publication: '2019-08-30'
+bug_reports: ''
+url: http://carma.newcastle.edu.au/davida/
+url_cran: https://CRAN.R-project.org/package=nppbib
+url_git: ''

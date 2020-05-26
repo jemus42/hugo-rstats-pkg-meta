@@ -1,0 +1,11 @@
+version: '1.1'
+title: High-Dimensional Changepoint Estimation via Sparse Projection
+maintainer: Tengyao Wang
+description: Provides a data-driven projection-based method for estimating changepoints
+  in high-dimensional time series. Multiple changepoints are estimated using a (wild)
+  binary segmentation scheme.
+date_publication: '2020-01-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=InspectChangepoint
+url_git: ''

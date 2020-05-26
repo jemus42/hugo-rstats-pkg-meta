@@ -1,0 +1,11 @@
+version: 0.4.1
+title: Constrained L1-minimization for Inverse (covariance) Matrix<U+000a>Estimation
+maintainer: Xi (Rossi) Luo
+description: A robust constrained L1 minimization method for estimating<U+000a>a large
+  sparse inverse covariance matrix (aka precision<U+000a>matrix), and recovering its
+  support for building graphical<U+000a>models.  The computation uses linear programming.
+date_publication: '2012-05-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=clime
+url_git: ''

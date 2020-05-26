@@ -1,0 +1,11 @@
+version: 1.2-7
+title: Bayesian Prediction of Complex Computer Codes
+maintainer: Robin K. S. Hankin
+description: Performs Bayesian prediction of complex computer codes when fast approximations
+  are available.  It uses a hierarchical version of the Gaussian process, originally
+  proposed by Kennedy and O'Hagan (2000), Biometrika 87(1):1.
+date_publication: '2018-08-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=approximator
+url_git: ''

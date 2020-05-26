@@ -1,0 +1,14 @@
+version: 1.0.2
+title: HTML Metadata Tags for 'R Markdown' and 'Shiny'
+maintainer: Garrick Aden-Buie
+description: |-
+  Create meta tags for 'R Markdown' HTML documents
+  and 'Shiny' apps for customized social media cards, for accessibility, and
+  quality search engine indexing. 'metathis' currently supports HTML documents
+  created with 'rmarkdown', 'shiny', 'xaringan', 'pagedown', 'bookdown', and
+  'flexdashboard'.
+date_publication: '2020-03-02'
+bug_reports: https://github.com/gadenbuie/metathis/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=metathis
+url_git: https://github.com/gadenbuie/metathis

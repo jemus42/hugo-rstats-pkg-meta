@@ -1,0 +1,17 @@
+version: 0.3-1
+title: Export R Output to LaTeX or HTML
+maintainer: Liviu Andronic
+description: |-
+  Export Rcmdr output to LaTeX or HTML code. The
+  plug-in was originally intended to facilitate exporting Rcmdr
+  output to formats other than ASCII text and to provide R
+  novices with an easy-to-use, easy-to-access reference on
+  exporting R objects to formats suited for printed output. The
+  package documentation contains several pointers on creating
+  reports, either by using conventional word processors or
+  LaTeX/LyX.
+date_publication: '2015-10-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.Export
+url_git: ''

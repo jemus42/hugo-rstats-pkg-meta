@@ -1,0 +1,11 @@
+version: '0.2'
+title: SLC Rcmdr Plug-in
+maintainer: Rumen Manolov
+description: |-
+  This package provides a GUI for the SLC package, it is
+  written as an Rcmdr plug-in.
+date_publication: '2013-01-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.SLC
+url_git: ''

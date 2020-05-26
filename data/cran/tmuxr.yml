@@ -1,0 +1,11 @@
+version: 0.2.4
+title: Manage 'tmux' Sessions, Windows, and Panes
+maintainer: Jeroen Janssens
+description: |-
+  Create, control, and capture 'tmux' sessions, windows, and panes
+  using a pipeable API.
+date_publication: '2020-05-22'
+bug_reports: https://github.com/datascienceworkshops/tmuxr/issues
+url: https://datascienceworkshops.github.io/tmuxr
+url_cran: https://CRAN.R-project.org/package=tmuxr
+url_git: https://github.com/datascienceworkshops/tmuxr

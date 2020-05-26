@@ -1,0 +1,12 @@
+version: 0.3.1
+title: Scaled Logistic Regression
+maintainer: Arseniy Khvorov
+description: |2-
+
+  Maximum likelihood estimation of the scaled logit model parameters
+  proposed in Dunning (2006) <doi:10.1002/sim.2282>.
+date_publication: '2020-03-02'
+bug_reports: ''
+url: https://khvorov45.github.io/sclr/
+url_cran: https://CRAN.R-project.org/package=sclr
+url_git: ''

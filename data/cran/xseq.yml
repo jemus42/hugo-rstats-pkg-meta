@@ -1,0 +1,13 @@
+version: 0.2.1
+title: |-
+  Assessing Functional Impact on Gene Expression of Mutations in
+  Cancer
+maintainer: Jiarui Ding
+description: |-
+  A hierarchical Bayesian approach to assess functional impact of mutations on gene expression in cancer. Given a patient-gene matrix encoding the presence/absence of a mutation, a patient-gene expression matrix encoding continuous value expression data, and a graph structure encoding whether two genes are known to be functionally related, xseq outputs: a) the probability that a recurrently mutated gene g influences gene expression across the population of patients;
+  and b) the probability that an individual mutation in gene g in an individual patient m influences expression within that patient.
+date_publication: '2015-09-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=xseq
+url_git: ''

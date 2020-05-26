@@ -1,0 +1,11 @@
+version: '0.1'
+title: Computes Moments of Univariate Truncated t Distribution
+maintainer: Matthew Stephens
+description: |-
+  Computes moments of univariate truncated t distribution.
+  There is only one exported function, e_trunct(), which should be seen for details.
+date_publication: '2016-07-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=etrunct
+url_git: ''

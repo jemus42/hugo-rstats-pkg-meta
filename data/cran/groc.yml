@@ -1,0 +1,10 @@
+version: 1.0.7
+title: Generalized Regression on Orthogonal Components
+maintainer: Pierre Lafaye De Micheaux
+description: Robust multiple or multivariate linear regression, nonparametric regression
+  on orthogonal components, classical or robust partial least squares models.
+date_publication: '2020-02-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=groc
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Access 'Meetup' API
+maintainer: Zac Davies
+description: |-
+  Allows management of 'Meetup' groups via the <https:www.meetup.com/meetup_api/>.
+  Provided are a set of functions that enable fetching information of joined meetups, attendance,
+  and members. This package requires the use of an API key.
+date_publication: '2018-02-20'
+bug_reports: https://github.com/zacdav/meetupapi/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=meetupapi
+url_git: https://github.com/zacdav/meetupapi

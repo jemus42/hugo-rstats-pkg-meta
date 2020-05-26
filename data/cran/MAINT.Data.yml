@@ -1,0 +1,16 @@
+version: 2.3.1
+title: Model and Analyse Interval Data
+maintainer: Pedro Duarte Silva
+description: |-
+  Implements methodologies for modelling interval data by Normal
+  and Skew-Normal distributions, considering appropriate parameterizations of
+  the variance-covariance matrix that takes into account the intrinsic nature of
+  interval data, and lead to four different possible configuration structures.
+  The Skew-Normal parameters can be estimated by maximum likelihood, while Normal
+  parameters may be estimated by maximum likelihood or robust trimmed maximum
+  likelihood methods.
+date_publication: '2020-01-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MAINT.Data
+url_git: ''

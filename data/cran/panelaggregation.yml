@@ -1,0 +1,15 @@
+version: 0.1.1
+title: Aggregate Longitudinal Survey Data
+maintainer: Matthias Bannert
+description: |-
+  Aggregate Business Tendency Survey Data (and other qualitative
+  surveys) to time series at various aggregation levels. Run aggregation of
+  survey data in a speedy, re-traceable and a easily deployable way.
+  Aggregation is substantially accelerated by use of data.table.
+  This package intends to provide an interface that is less general and abstract than data.table but rather geared towards
+  survey researchers.
+date_publication: '2017-01-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=panelaggregation
+url_git: ''

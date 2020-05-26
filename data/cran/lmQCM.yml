@@ -1,0 +1,12 @@
+version: 0.2.1
+title: An Algorithm for Gene Co-Expression Analysis
+maintainer: Zhi Huang
+description: 'Implementation based on Zhang, Jie & Huang, Kun (2014) <doi:10.4137/CIN.S14021>
+  Normalized ImQCM: An Algorithm for Detecting Weak Quasi-Cliques in Weighted Graph
+  with Applications in Gene Co-Expression Module Discovery in Cancers. Cancer informatics,
+  13, CIN-S14021.'
+date_publication: '2019-03-12'
+bug_reports: http://github.com/huangzhii/lmQCM/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=lmQCM
+url_git: http://github.com/huangzhii/lmQCM

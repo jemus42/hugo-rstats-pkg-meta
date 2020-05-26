@@ -1,0 +1,14 @@
+version: '1.4'
+title: |-
+  Cardiovascular Safety Exposure-Response Modeling in Early-Phase
+  Clinical Studies
+maintainer: Daniela J Conrado
+description: Includes over 100 mixed-effects model structures describing the relationship
+  between drug concentration and QT interval, heart rate/pulse rate or blood pressure.
+  Given an exposure-response dataset, the tool fits each model structure to the observed
+  data.
+date_publication: '2016-04-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cardioModel
+url_git: ''

@@ -1,0 +1,9 @@
+version: 0.2-1
+title: Variogram Diagnostics
+maintainer: Edzer Pebesma
+description: Interactive variogram diagnostics.
+date_publication: '2015-07-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=vardiag
+url_git: https://github.com/edzer/vardiag/

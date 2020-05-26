@@ -1,0 +1,12 @@
+version: 1.0.2
+title: 'Robust Statistics: Theory and Methods'
+maintainer: Matias Salibian-Barrera
+description: 'Companion package for the book: "Robust Statistics: Theory and Methods,
+  second edition", <http://www.wiley.com/go/maronna/robust>.  This package contains
+  code that implements the robust estimators discussed in the recent second edition
+  of the book above, as well as the scripts reproducing all the examples in the book.'
+date_publication: '2020-03-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RobStatTM
+url_git: ''

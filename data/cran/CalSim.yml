@@ -1,0 +1,10 @@
+version: 0.3.2
+title: The Calibration Simplex
+maintainer: Johannes Resin
+description: Generates the calibration simplex (a generalization of the reliability
+  diagram) for three-category probability forecasts, as proposed by Wilks (2013) <doi:10.1175/WAF-D-13-00027.1>.
+date_publication: '2019-05-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CalSim
+url_git: ''

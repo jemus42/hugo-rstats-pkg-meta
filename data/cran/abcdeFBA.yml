@@ -1,0 +1,11 @@
+version: '0.4'
+title: 'ABCDE_FBA: A-Biologist-Can-Do-Everything of Flux Balance<U+000a>Analysis with
+  this package.'
+maintainer: Abhilash Gangadharan
+description: Functions for Constraint Based Simulation using Flux<U+000a>Balance Analysis
+  and informative analysis of the data generated<U+000a>during simulation.
+date_publication: '2012-09-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=abcdeFBA
+url_git: ''

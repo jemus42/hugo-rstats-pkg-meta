@@ -1,0 +1,15 @@
+version: 1.2.2
+title: Create and Manipulate Discrete Random Variables
+maintainer: Eric Hare
+description: |-
+  Create, manipulate, transform, and simulate from discrete random
+  variables. The syntax is modeled after that which is used in mathematical
+  statistics and probability courses, but with powerful support for more
+  advanced probability calculations. This includes the creation of joint
+  random variables, and the derivation and manipulation of their conditional
+  and marginal distributions.
+date_publication: '2015-09-16'
+bug_reports: https://github.com/erichare/discreteRV/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=discreteRV
+url_git: https://github.com/erichare/discreteRV

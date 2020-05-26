@@ -1,0 +1,12 @@
+version: 0.3.2
+title: A Unified Framework for Input-Output Operations in R
+maintainer: David J. H. Shih
+description: |-
+  One function to read files. One function to write files. One
+  function to direct plots to screen or file. Automatic file format inference
+  and directory structure creation.
+date_publication: '2019-12-17'
+bug_reports: https://bitbucket.org/djhshih/io/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=io
+url_git: https://bitbucket.org/djhshih/io

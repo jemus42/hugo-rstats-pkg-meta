@@ -1,0 +1,13 @@
+version: 1.0.2
+title: |-
+  Implements the supervised multidimensional scaling (superMDS)
+  proposal of Witten and Tibshirani (2011)
+maintainer: Daniela Witten
+description: 'Witten and Tibshirani (2011) Supervised multidimensional scaling for
+  visualization, classification, and bipartite ranking. Computational Statistics and
+  Data Analysis 55(1): 789-801.'
+date_publication: '2013-12-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=superMDS
+url_git: ''

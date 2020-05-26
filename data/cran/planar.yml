@@ -1,0 +1,11 @@
+version: '1.6'
+title: Multilayer Optics
+maintainer: Baptiste Auguie
+description: Solves the electromagnetic problem of reflection and transmission at
+  a planar multilayer interface. Also computed are the decay rates and emission profile
+  for a dipolar emitter.
+date_publication: '2016-02-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=planar
+url_git: https://github.com/baptiste/planar

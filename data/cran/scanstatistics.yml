@@ -1,0 +1,13 @@
+version: 1.0.1
+title: Space-Time Anomaly Detection using Scan Statistics
+maintainer: Benjamin Allévius
+description: |-
+  Detection of anomalous space-time clusters using the scan
+  statistics methodology. Focuses on prospective surveillance of data streams,
+  scanning for clusters with ongoing anomalies. Hypothesis testing is made
+  possible by Monte Carlo simulation.
+date_publication: '2018-01-24'
+bug_reports: https://github.com/BenjaK/scanstatistics/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=scanstatistics
+url_git: https://github.com/BenjaK/scanstatistics

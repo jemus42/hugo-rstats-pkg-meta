@@ -1,0 +1,9 @@
+version: 0.3.6
+title: Interactive Visualizations for Profiling R Code
+maintainer: Winston Chang
+description: Interactive visualizations for profiling R code.
+date_publication: '2019-05-14'
+bug_reports: ''
+url: https://rstudio.github.io/profvis/
+url_cran: https://CRAN.R-project.org/package=profvis
+url_git: ''

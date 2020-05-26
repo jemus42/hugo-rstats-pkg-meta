@@ -1,0 +1,11 @@
+version: 0.0.5
+title: Quadratic Programming with Absolute Value Constraints
+maintainer: Bob Harlow
+description: |-
+  Extends the quadprog package to solve quadratic programs with
+  absolute value constraints and absolute values in the objective function.
+date_publication: '2020-01-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=quadprogXT
+url_git: ''

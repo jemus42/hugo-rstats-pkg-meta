@@ -1,0 +1,13 @@
+version: 0.9-3
+title: Simple Features for R
+maintainer: Edzer Pebesma
+description: |-
+  Support for simple features, a standardized way to
+  encode spatial vector data. Binds to 'GDAL' for reading and writing
+  data, to 'GEOS' for geometrical operations, and to 'PROJ' for
+  projection conversions and datum transformations.
+date_publication: '2020-05-04'
+bug_reports: https://github.com/r-spatial/sf/issues/
+url: https://r-spatial.github.io/sf/
+url_cran: https://CRAN.R-project.org/package=sf
+url_git: https://github.com/r-spatial/sf/

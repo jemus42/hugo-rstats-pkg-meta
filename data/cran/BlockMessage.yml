@@ -1,0 +1,9 @@
+version: '1.0'
+title: Creates strings that show a text message in 8 by 8 block letters
+maintainer: Elliot Noma
+description: Creates strings that show a text message in 8 by 8 block<U+000a>letters
+date_publication: '2013-03-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BlockMessage
+url_git: ''

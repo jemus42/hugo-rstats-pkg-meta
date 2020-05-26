@@ -1,0 +1,13 @@
+version: 0.2.4
+title: |-
+  Fast Network Modularity and Roles Computation by Simulated
+  Annealing (Rgraph C Library Wrapper for R)
+maintainer: Guilhem Doulcier
+description: It provides functions to compute the modularity and modularity-related
+  roles in networks. It is a wrapper around the rgraph library (Guimera & Amaral,
+  2005, doi:10.1038/nature03288).
+date_publication: '2015-11-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rnetcarto
+url_git: ''

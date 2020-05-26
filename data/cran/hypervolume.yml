@@ -1,0 +1,16 @@
+version: 2.0.12
+title: |-
+  High Dimensional Geometry and Set Operations Using Kernel
+  Density Estimation, Support Vector Machines, and Convex Hulls
+maintainer: Benjamin Blonder
+description: 'Estimates the shape and volume of high-dimensional datasets and performs
+  set operations: intersection / overlap, union, unique components, inclusion test,
+  and hole detection. Uses stochastic geometry approach to high-dimensional kernel
+  density estimation, support vector machine delineation, and convex hull generation.
+  Applications include modeling trait and niche hypervolumes and species distribution
+  modeling.'
+date_publication: '2019-12-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hypervolume
+url_git: ''

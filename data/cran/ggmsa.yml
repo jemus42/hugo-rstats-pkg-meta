@@ -1,0 +1,13 @@
+version: 0.0.2
+title: Plot Multiple Sequence Alignment using 'ggplot2'
+maintainer: Guangchuang Yu
+description: Supports visualizing multiple sequence alignment of DNA and protein sequences
+  using 'ggplot2'. It supports a number of colour schemes, including Chemistry, Clustal,
+  Shapely, Taylor and Zappo. Multiple sequence alignment can easily be combined with
+  other 'ggplot2' plots, such as aligning a phylogenetic tree produced by 'ggtree'
+  with multiple sequence alignment.
+date_publication: '2020-01-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggmsa
+url_git: ''

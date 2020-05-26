@@ -1,0 +1,14 @@
+version: '1.1'
+title: |-
+  Ridge Group Sparse Optimization Problem for Estimation of a Meta
+  Model Based on Reproducing Kernel Hilbert Spaces
+maintainer: Halaleh Kamari
+description: Estimates the Hoeffding decomposition of an unknown function by solving
+  ridge group sparse optimization problem based on reproducing kernel Hilbert spaces,
+  and approximates its sensitivity indices (see Kamari, H., Huet, S. and Taupin, M.-L.
+  (2019) <arXiv:1905.13695>).
+date_publication: '2019-07-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RKHSMetaMod
+url_git: ''

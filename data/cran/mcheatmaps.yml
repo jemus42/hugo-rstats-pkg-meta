@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Multiple matrices heatmap visualization
+maintainer: Rafael Najmanovich
+description: mcheatmaps serves to visualize multiple different symmetric matrices
+  and matrix clusters in a single figure using a dendogram, two half matrices and
+  various color labels.
+date_publication: '2014-04-28'
+bug_reports: ''
+url: '"bcb.med.usherbrooke.ca"'
+url_cran: https://CRAN.R-project.org/package=mcheatmaps
+url_git: ''

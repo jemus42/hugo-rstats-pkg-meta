@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Semi-Supervised Regression Methods
+maintainer: Enrique Garcia-Ceja
+description: An implementation of semi-supervised regression methods including self-learning
+  and co-training by committee based on Hady, M. F. A., Schwenker, F., & Palm, G.
+  (2009) <doi:10.1007/978-3-642-04274-4_13>. Users can define which set of regressors
+  to use as base models from the 'caret' package, other packages, or custom functions.
+date_publication: '2019-09-02'
+bug_reports: https://github.com/enriquegit/ssr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ssr
+url_git: https://github.com/enriquegit/ssr

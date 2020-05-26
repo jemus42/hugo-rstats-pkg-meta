@@ -1,0 +1,14 @@
+version: 1.3.2
+title: |-
+  Automatically Convert Hierarchical for-Human Tables to
+  Machine-Readable LongForm Dataframes
+maintainer: Jimmy Oh
+description: A wrapper to a set of algorithms designed to recognise positional cues
+  present in hierarchical for-human Tables (which would normally be interpreted visually
+  by the human brain) to decompose, then reconstruct the data into machine-readable
+  LongForm Dataframes.
+date_publication: '2019-01-10'
+bug_reports: ''
+url: https://www.stat.auckland.ac.nz/~joh024/Research/TableToLongForm/
+url_cran: https://CRAN.R-project.org/package=TableToLongForm
+url_git: ''

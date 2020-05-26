@@ -1,0 +1,10 @@
+version: 3.10.0
+title: User-specified Terms for the statnet Suite of Packages
+maintainer: Pavel N. Krivitsky
+description: A template package to demonstrate the use of user-specified statistics
+  for use in 'ergm' models as part of the Statnet suite of packages.
+date_publication: '2019-05-15'
+bug_reports: https://github.com/statnet/ergm.userterms/issues
+url: http://statnet.org
+url_cran: https://CRAN.R-project.org/package=ergm.userterms
+url_git: ''

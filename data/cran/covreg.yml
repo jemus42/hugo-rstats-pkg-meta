@@ -1,0 +1,12 @@
+version: '1.0'
+title: A simultaneous regression model for the mean and covariance
+maintainer: Xiaoyue Niu
+description: This package fits a simultaneous regression model for the mean vectors
+  and covariance matrices of multivariate response variables, as described in Hoff
+  and Niu (2012). The explanatory variables can be continuous or discrete. The current
+  version of the package provides the Bayesian estimates.
+date_publication: '2014-03-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=covreg
+url_git: ''

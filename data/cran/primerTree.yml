@@ -1,0 +1,14 @@
+version: 1.0.5
+title: |-
+  Visually Assessing the Specificity and Informativeness of Primer
+  Pairs
+maintainer: Jim Hester
+description: |-
+  Identifies potential target sequences for a given set of primers
+  and generates phylogenetic trees annotated with the taxonomies of the predicted
+  amplification products.
+date_publication: '2020-01-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=primerTree
+url_git: ''

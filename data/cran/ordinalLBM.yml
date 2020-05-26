@@ -1,0 +1,12 @@
+version: '1.0'
+title: |-
+  Co-Clustering of Ordinal Data via Latent Continuous Random
+  Variables
+maintainer: Marco Corneli
+description: It implements functions for simulation and estimation of the ordinal
+  latent block model (OLBM), as described in Corneli, Bouveyron and Latouche (2019).
+date_publication: '2019-01-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ordinalLBM
+url_git: ''

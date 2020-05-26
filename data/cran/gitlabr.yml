@@ -1,0 +1,15 @@
+version: 1.1.6
+title: Access to the Gitlab API
+maintainer: Jirka Lewandowski
+description: |-
+  Provides R functions to access the API of the project and
+  repository management web application gitlab. For many common tasks (repository
+  file access, issue assignment and status, commenting) convenience wrappers
+  are provided, and in addition the full API can be used by specifying request
+  locations. Gitlab is open-source software and can be self-hosted or used on
+  gitlab.com.
+date_publication: '2019-03-15'
+bug_reports: https://github.com/jirkalewandowski/gitlabr/
+url: ''
+url_cran: https://CRAN.R-project.org/package=gitlabr
+url_git: https://blog.points-of-interest.cc/post/gitlabr/http://doc.gitlab.com/ce/api/

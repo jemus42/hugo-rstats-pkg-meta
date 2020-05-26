@@ -1,0 +1,12 @@
+version: 1.2.4
+title: Access the 'languagelayer' API
+maintainer: Colin FAY
+description: |-
+  Improve your text analysis with languagelayer
+  <https://languagelayer.com>, a powerful language detection
+  API.
+date_publication: '2019-02-12'
+bug_reports: https://github.com/ColinFay/languagelayer/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=languagelayeR
+url_git: https://github.com/ColinFay/languagelayer

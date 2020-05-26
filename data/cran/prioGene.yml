@@ -1,0 +1,15 @@
+version: 1.0.1
+title: |-
+  Candidate Gene Prioritization for Non-Communicable Diseases
+  Based on Functional Information
+maintainer: Erqiang Hu
+description: |-
+  In gene sequencing methods, the topological features of protein-protein interaction (PPI) networks are
+  often used, such as ToppNet <https://toppgene.cchmc.org>. In this study, a candidate gene prioritization method
+  was proposed for non-communicable diseases considering disease risks transferred between genes in weighted disease
+  PPI networks with weights for nodes and edges based on functional information.
+date_publication: '2020-02-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=prioGene
+url_git: ''

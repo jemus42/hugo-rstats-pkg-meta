@@ -1,0 +1,10 @@
+version: '0.1'
+title: Conformational Manipulations of Protein Atomic Structures
+maintainer: Samuel W.K. Wong
+description: Manipulate and analyze 3-D structural geometry of Protein Data Bank (PDB)
+  files.
+date_publication: '2018-12-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=compas
+url_git: ''

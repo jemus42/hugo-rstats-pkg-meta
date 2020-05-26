@@ -1,0 +1,19 @@
+version: 0.4.9
+title: Exploring Water Quality Monitoring Data
+maintainer: Joseph Stachelek
+description: |-
+  Functions to assist in the processing and
+  exploration of data from environmental monitoring programs.
+  The package name stands for "water quality" and reflects the
+  original focus on time series data for physical and chemical
+  properties of water, as well as the biota. Intended for
+  programs that sample approximately monthly, quarterly or
+  annually at discrete stations, a feature of many legacy data
+  sets. Most of the functions should be useful for analysis of
+  similar-frequency time series regardless of the subject
+  matter.
+date_publication: '2017-07-04'
+bug_reports: https://github.com/jsta/wql/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=wql
+url_git: https://github.com/jsta/wql

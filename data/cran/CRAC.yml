@@ -1,0 +1,10 @@
+version: '1.0'
+title: Cosmology R Analysis Code
+maintainer: Jiayi Liu
+description: R functions for cosmological research.<U+000a>The main functions are
+  similar to the python library, cosmolopy.
+date_publication: '2014-02-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CRAC
+url_git: ''

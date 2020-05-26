@@ -1,0 +1,10 @@
+version: 1.2.0
+title: '''Rapidjson'' C++ Header Files'
+maintainer: David Cooley
+description: Provides JSON parsing capability through the 'Rapidjson' 'C++' header-only
+  library.
+date_publication: '2020-03-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rapidjsonr
+url_git: ''

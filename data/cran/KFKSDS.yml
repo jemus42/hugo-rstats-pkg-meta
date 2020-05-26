@@ -1,0 +1,11 @@
+version: '1.6'
+title: Kalman Filter, Smoother and Disturbance Smoother
+maintainer: Javier López-de-Lacalle
+description: |-
+  Naive implementation of the Kalman filter, smoother and disturbance
+  smoother for state space models.
+date_publication: '2015-01-28'
+bug_reports: ''
+url: http://jalobe.com
+url_cran: https://CRAN.R-project.org/package=KFKSDS
+url_git: ''

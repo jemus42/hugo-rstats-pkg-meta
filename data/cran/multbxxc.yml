@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Auxiliary Routines for Influx Software
+maintainer: Serguei Sokol
+description: 'Contains auxiliary routines for influx software. This packages is not
+  intended to be used directly. Influx was published here: Sokol et al. (2012) <doi:10.1093/bioinformatics/btr716>.'
+date_publication: '2019-11-15'
+bug_reports: ''
+url: https://metasys.insa-toulouse.fr/software/influx/
+url_cran: https://CRAN.R-project.org/package=multbxxc
+url_git: ''

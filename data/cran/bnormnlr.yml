@@ -1,0 +1,11 @@
+version: '1.0'
+title: Bayesian Estimation for Normal Heteroscedastic Nonlinear<U+000a>Regression
+  Models
+maintainer: Nicolas Molano-Gonzalez
+description: Implementation of Bayesian estimation in normal heteroscedastic nonlinear
+  regression Models following Cepeda-Cuervo, (2001).
+date_publication: '2014-12-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bnormnlr
+url_git: ''

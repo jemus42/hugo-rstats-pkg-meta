@@ -1,0 +1,14 @@
+version: 1.8.11
+title: R Commander Plug-in for University Level Applied Statistics
+maintainer: Kristian Hovde Liland
+description: |-
+  An R Commander "plug-in" extending functionality of linear models
+  and providing an interface to Partial Least Squares Regression and Linear and
+  Quadratic Discriminant analysis. Several statistical summaries are extended,
+  predictions are offered for additional types of analyses, and extra plots, tests
+  and mixed models are available.
+date_publication: '2019-09-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.NMBU
+url_git: ''

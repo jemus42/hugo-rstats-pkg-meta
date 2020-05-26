@@ -1,0 +1,11 @@
+version: 1.0-4
+title: A Toolbox for Writing Pretty Papers and Reports
+maintainer: Benjamin Hofner
+description: |-
+  A toolbox for writing 'knitr', 'Sweave' or other 'LaTeX'- or 'markdown'-based
+  reports and to prettify the output of various estimated models.
+date_publication: '2019-01-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=papeR
+url_git: http://github.com/hofnerb/papeR

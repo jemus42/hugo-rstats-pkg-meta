@@ -1,0 +1,14 @@
+version: 1.1.4
+title: Test ANOVA Replications by Means of the Prior Predictive p-Value
+maintainer: M.A.J. Zondervan-Zwijnenburg
+description: Allows for the computation of a prior predictive p-value to test replication
+  of relevant features of original ANOVA studies. Relevant features are captured in
+  informative hypotheses. The package also allows for the computation of sample sizes
+  for new studies, post-hoc power calculations, and comes with a Shiny application
+  in which all calculations can be conducted as well. The statistical underpinnings
+  are described in Zondervan-Zwijnenburg (2019) <doi:10.31234/osf.io/6myqh>.
+date_publication: '2019-07-18'
+bug_reports: ''
+url: https://dx.doi.org/10.17605/OSF.IO/6H8X3
+url_cran: https://CRAN.R-project.org/package=ANOVAreplication
+url_git: ''

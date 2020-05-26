@@ -1,0 +1,18 @@
+version: '1.0'
+title: |-
+  Estimates, Plots and Evaluates Leaf Angle Distribution
+  Functions, Calculates Extinction Coefficients
+maintainer: Wei-Min Wang
+description: |-
+  Leaf angle distribution is described by a number of functions
+  (e.g. ellipsoidal, Beta and rotated ellipsoidal). The parameters of leaf angle
+  distributions functions are estimated through different empirical relationship.
+  This package includes estimations of parameters of different leaf angle
+  distribution function, plots and evaluates leaf angle distribution functions,
+  calculates extinction coefficients given leaf angle distribution.
+  Reference: Wang(2007)<doi:10.1016/j.agrformet.2006.12.003>.
+date_publication: '2017-06-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RLeafAngle
+url_git: ''

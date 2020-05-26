@@ -1,0 +1,12 @@
+version: '0.1'
+title: Selection Threshold Optimized Empirically via Splitting
+maintainer: Marinela Capanu
+description: A variable selection procedure for low to moderate size linear regressions
+  models. This method repeatedly splits the data into two sets, one for estimation
+  and one for validation, to obtain an empirically optimized threshold which is then
+  used to screen for variables to include in the final model.
+date_publication: '2019-06-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=STOPES
+url_git: ''

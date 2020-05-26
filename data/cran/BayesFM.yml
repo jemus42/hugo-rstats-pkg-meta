@@ -1,0 +1,16 @@
+version: 0.1.3
+title: Bayesian Inference for Factor Modeling
+maintainer: Rémi Piatek
+description: |-
+  Collection of procedures to perform Bayesian analysis on a variety
+  of factor models. Currently, it includes: Bayesian Exploratory Factor
+  Analysis (befa), an approach to dedicated factor analysis with stochastic
+  search on the structure of the factor loading matrix. The number of latent
+  factors, as well as the allocation of the manifest variables to the factors,
+  are not fixed a priori but determined during MCMC sampling.
+  More approaches will be included in future releases of this package.
+date_publication: '2019-12-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BayesFM
+url_git: ''

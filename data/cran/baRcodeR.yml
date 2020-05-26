@@ -1,0 +1,17 @@
+version: 0.1.5
+title: |-
+  Label Creation for Tracking and Collecting Data from Biological
+  Samples
+maintainer: Yihan Wu
+description: |-
+  Tools to generate unique identifier codes and
+  printable barcoded labels for the management of biological samples.
+  The creation of unique ID codes and printable PDF files can be
+  initiated by standard commands, user prompts, or through a GUI addin
+  for R Studio. Biologically informative codes can be included for
+  hierarchically structured sampling designs.
+date_publication: '2020-03-07'
+bug_reports: https://github.com/ropensci/baRcodeR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=baRcodeR
+url_git: https://docs.ropensci.org/baRcodeR(website)https://github.com/ropensci/baRcodeR

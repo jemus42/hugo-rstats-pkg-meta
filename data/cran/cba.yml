@@ -1,0 +1,10 @@
+version: 0.2-21
+title: Clustering for Business Analytics
+maintainer: Christian Buchta
+description: Implements clustering techniques such as Proximus and Rock, utility functions
+  for efficient computation of cross distances and data manipulation.
+date_publication: '2019-04-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cba
+url_git: ''

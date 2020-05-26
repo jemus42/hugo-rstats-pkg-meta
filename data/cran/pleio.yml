@@ -1,0 +1,10 @@
+version: '1.6'
+title: Pleiotropy Test for Multiple Traits on a Genetic Marker
+maintainer: Jason Sinnwell
+description: Perform tests for pleiotropy of multiple traits of various variable types
+  on genotypes for a genetic marker.
+date_publication: '2018-12-06'
+bug_reports: ''
+url: http://bioinformaticstools.mayo.edu/research/pleio/
+url_cran: https://CRAN.R-project.org/package=pleio
+url_git: ''

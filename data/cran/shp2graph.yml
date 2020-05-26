@@ -1,0 +1,13 @@
+version: 0-5
+title: |-
+  Convert a SpatialLinesDataFrame Object to an 'igraph'-Class
+  Object
+maintainer: Binbin Lu
+description: |-
+  Functions for converting network data from a
+  SpatialLinesDataFrame object to an 'igraph'-Class object.
+date_publication: '2018-08-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=shp2graph
+url_git: ''

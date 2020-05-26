@@ -1,0 +1,15 @@
+version: 2.0.3
+title: |-
+  Create Interactive Web Maps with the JavaScript 'Leaflet'
+  Library
+maintainer: Joe Cheng
+description: |-
+  Create and customize interactive maps using the 'Leaflet'
+  JavaScript library and the 'htmlwidgets' package. These maps can be used
+  directly from the R console, from 'RStudio', in Shiny applications and R Markdown
+  documents.
+date_publication: '2019-11-16'
+bug_reports: https://github.com/rstudio/leaflet/issues
+url: http://rstudio.github.io/leaflet/
+url_cran: https://CRAN.R-project.org/package=leaflet
+url_git: ''

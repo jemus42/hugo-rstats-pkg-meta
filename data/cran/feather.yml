@@ -1,0 +1,11 @@
+version: 0.3.5
+title: R Bindings to the Feather 'API'
+maintainer: Hadley Wickham
+description: |-
+  Read and write feather files, a lightweight binary columnar
+  data store designed for maximum speed.
+date_publication: '2019-09-15'
+bug_reports: https://github.com/wesm/feather/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=feather
+url_git: https://github.com/wesm/feather

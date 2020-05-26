@@ -1,0 +1,12 @@
+version: 0.3.3
+title: Extracts Features from Text
+maintainer: Michael W. Kearney
+description: |-
+  A tool for extracting some generic features (e.g., number of
+  words, line breaks, characters per word, URLs, lower case, upper case,
+  commas, periods, exclamation points, etc.) from strings of text.
+date_publication: '2019-09-03'
+bug_reports: https://github.com/mkearney/textfeatures/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=textfeatures
+url_git: https://github.com/mkearney/textfeatures

@@ -1,0 +1,10 @@
+version: 0.2.5
+title: Tools for Sports Competitions
+maintainer: Tobias Wolfanger
+description: Contains two functions related to sports competitions. One to create
+  league tables and one to create a match schedule.
+date_publication: '2019-10-05'
+bug_reports: https://github.com/captaincaracho/TouRnament/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=TouRnament
+url_git: ''

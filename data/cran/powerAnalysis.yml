@@ -1,0 +1,9 @@
+version: 0.2.1
+title: Power Analysis in Experimental Design
+maintainer: Felix Yanhui Fan
+description: Basic functions for power analysis and effect size calculation.
+date_publication: '2017-02-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=powerAnalysis
+url_git: ''

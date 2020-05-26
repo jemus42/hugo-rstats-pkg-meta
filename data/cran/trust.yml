@@ -1,0 +1,11 @@
+version: 0.1-8
+title: Trust Region Optimization
+maintainer: Charles J. Geyer
+description: |-
+  Does local optimization using two derivatives and trust regions.
+  Guaranteed to converge to local minimum of objective function.
+date_publication: '2020-01-10'
+bug_reports: ''
+url: http://www.stat.umn.edu/geyer/trust/
+url_cran: https://CRAN.R-project.org/package=trust
+url_git: ''

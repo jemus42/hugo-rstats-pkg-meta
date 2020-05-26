@@ -1,0 +1,10 @@
+version: '0.1'
+title: Geolocalization of IATA Codes
+maintainer: Giulio Valentino Dalla Riva
+description: Retrieve geographical information for airports using their IATA or ICAO
+  codes.
+date_publication: '2017-12-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=whereport
+url_git: ''

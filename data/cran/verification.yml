@@ -1,0 +1,10 @@
+version: '1.42'
+title: Weather Forecast Verification Utilities
+maintainer: Eric Gilleland
+description: Utilities for verifying discrete, continuous and probabilistic forecasts,
+  and forecasts expressed as parametric distributions are included.
+date_publication: '2015-07-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=verification
+url_git: ''

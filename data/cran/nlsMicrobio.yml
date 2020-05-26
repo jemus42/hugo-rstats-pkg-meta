@@ -1,0 +1,9 @@
+version: 0.0-1
+title: Nonlinear regression in predictive microbiology
+maintainer: Florent Baty
+description: Data sets and nonlinear regression models dedicated to predictive microbiology
+date_publication: '2014-06-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nlsMicrobio
+url_git: ''

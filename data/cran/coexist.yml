@@ -1,0 +1,11 @@
+version: '1.0'
+title: Species coexistence modeling and analysis
+maintainer: Youhua Chen
+description: species coexistence modeling under asymmetric dispersal<U+000a>and fluctuating
+  source-sink dynamics;testing the proportion of<U+000a>coexistence scenarios driven
+  by neutral and niche processes
+date_publication: '2012-08-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=coexist
+url_git: ''

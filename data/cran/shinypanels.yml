@@ -1,0 +1,13 @@
+version: 0.5.0
+title: Shiny Layout with Collapsible Panels
+maintainer: Juan Pablo Marin Diaz
+description: |-
+  Create 'Shiny Apps' with collapsible vertical panels.
+  This package provides a new visual arrangement for elements on top of 'Shiny'.
+  Use the expand and collapse capabilities to leverage web applications with
+  many elements to focus the user attention on the panel of interest.
+date_publication: '2020-01-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinypanels
+url_git: http://github.com/datasketch/shinypanels

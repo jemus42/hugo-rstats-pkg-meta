@@ -1,0 +1,14 @@
+version: 0.1.2
+title: |-
+  Precise and Accurate Power of the Wilcoxon-Mann-Whitney Rank-Sum
+  Test for a Continuous Variable
+maintainer: Ilana Trumble
+description: Power calculator for the two-sample Wilcoxon-Mann-Whitney rank-sum test
+  for a continuous outcome (Mollan, Trumble, Reifeis et. al., Jan. 2019) <arXiv:1901.04597>,
+  (Mann and Whitney 1947) <doi:10.1214/aoms/1177730491>, (Shieh, Jan, and Randles
+  2006) <doi:10.1080/10485250500473099>.
+date_publication: '2019-02-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=wmwpow
+url_git: ''

@@ -1,0 +1,9 @@
+version: 2.8.0
+title: Object Oriented Implementation of Distributions
+maintainer: Peter Ruckdeschel
+description: S4-classes and methods for distributions.
+date_publication: '2019-03-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=distr
+url_git: http://distr.r-forge.r-project.org/

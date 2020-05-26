@@ -1,0 +1,13 @@
+version: 1.0.0
+title: Client for the 'Pangaea' Database
+maintainer: Scott Chamberlain
+description: |-
+  Tools to interact with the 'Pangaea' Database
+  (<https://www.pangaea.de>), including functions for searching for data,
+  fetching 'datasets' by 'dataset' 'ID', and working with the 'Pangaea'
+  'OAI-PMH' service.
+date_publication: '2020-01-22'
+bug_reports: https://github.com/ropensci/pangaear/issues
+url: https://docs.ropensci.org/pangaear(documentation)
+url_cran: https://CRAN.R-project.org/package=pangaear
+url_git: https://github.com/ropensci/pangaear(devel)

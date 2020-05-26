@@ -1,0 +1,11 @@
+version: 0.2.0
+title: Selection of K in K-Means Clustering
+maintainer: Daniel Rodriguez
+description: |-
+  Selection of k in k-means clustering based on Pham et al. paper
+  ``Selection of k in k-means clustering''.
+date_publication: '2015-02-12'
+bug_reports: https://github.com/drodriguezperez/kselection/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=kselection
+url_git: https://github.com/drodriguezperez/kselection

@@ -1,0 +1,12 @@
+version: 0.2-5
+title: Lab for Developing and Testing Recommender Algorithms
+maintainer: Michael Hahsler
+description: |-
+  Provides a research infrastructure to test and develop
+  recommender algorithms including UBCF, IBCF, FunkSVD and association
+  rule-based algorithms.
+date_publication: '2019-08-27'
+bug_reports: https://github.com/mhahsler/recommenderlab/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=recommenderlab
+url_git: https://github.com/mhahsler/recommenderlab

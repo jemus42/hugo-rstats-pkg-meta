@@ -1,0 +1,11 @@
+version: '0.9'
+title: Map Filenames to MIME Types
+maintainer: Yihui Xie
+description: |-
+  Guesses the MIME type from a filename extension using the data
+  derived from /etc/mime.types in UNIX-type systems.
+date_publication: '2020-02-04'
+bug_reports: https://github.com/yihui/mime/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mime
+url_git: https://github.com/yihui/mime

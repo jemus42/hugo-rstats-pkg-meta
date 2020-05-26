@@ -1,0 +1,12 @@
+version: 0.4.3
+title: A Friendly Package Manager
+maintainer: Andrew Kane
+description: Manage project dependencies from your DESCRIPTION file. Create a reproducible
+  virtual environment with minimal additional files in your project. Provides tools
+  to add, remove, and update dependencies as well as install existing dependencies
+  with a single function.
+date_publication: '2019-07-01'
+bug_reports: https://github.com/ankane/jetpack/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=jetpack
+url_git: https://github.com/ankane/jetpack

@@ -1,0 +1,10 @@
+version: '0.3'
+title: Sample Size Determination (SSD) for Unordered Categorical Data
+maintainer: Junheng Ma
+description: ssd calculates the sample size needed to detect the differences between
+  two sets of unordered categorical data.
+date_publication: '2014-12-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ssd
+url_git: ''

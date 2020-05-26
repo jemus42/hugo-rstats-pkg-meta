@@ -1,0 +1,17 @@
+version: 0.1.1
+title: Make Banner Comments with a Consistent Format
+maintainer: Bill Venables
+description: |-
+  A convenience package for use while drafting code.
+  It facilitates making stand-out comment lines decorated with
+  bands of characters.  The input text strings are converted into
+  R comment lines, suitably formatted. These are then displayed in
+  a console window and, if possible, automatically transferred to a
+  clipboard ready for pasting into an R script.  Designed to save
+  time when drafting R scripts that will need to be navigated and
+  maintained by other programmers.
+date_publication: '2019-07-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bannerCommenter
+url_git: ''

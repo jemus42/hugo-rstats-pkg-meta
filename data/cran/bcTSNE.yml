@@ -1,0 +1,12 @@
+version: 0.10.0
+title: Projected t-SNE for Batch Correction
+maintainer: Dayne L Filer
+description: |-
+  Implements the projected t-SNE method for batch correction of
+  high-dimensional data. Please see Aliverti et al. (2020)
+  <doi:10.1093/bioinformatics/btaa189> for more information.
+date_publication: '2020-04-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bcTSNE
+url_git: https://github.com/emanuelealiverti/BC_tSNE

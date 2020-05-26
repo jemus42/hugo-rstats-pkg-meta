@@ -1,0 +1,11 @@
+version: '0.2'
+title: Convenient Functions for Non-Linear Regression
+maintainer: Remko Duursma
+description: |-
+  A few utilities for summarizing, testing, and plotting non-linear
+  regression models fit with nls(), nlsList() or nlme().
+date_publication: '2017-04-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nlshelper
+url_git: ''

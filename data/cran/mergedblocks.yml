@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Merged Block Randomization
+maintainer: Stephanie van der Pas
+description: Package to carry out merged block randomization, a restricted randomization
+  method designed for small clinical trials (at most 100 subjects) or trials with
+  small strata, for example in multicentre trials. It can be used for more than two
+  groups or unequal randomization ratios.
+date_publication: '2019-01-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mergedblocks
+url_git: ''

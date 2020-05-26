@@ -1,0 +1,12 @@
+version: 1.0.4
+title: Bivariate Zero-Inflated Negative Binomial Model Estimator
+maintainer: Hunyong Cho
+description: Provides a maximum likelihood estimation of Bivariate Zero-Inflated Negative
+  Binomial (BZINB) model or the nested model parameters. Also estimates the underlying
+  correlation of the a pair of count data. See Cho, H., Liu, C., Preisser, J., and
+  Wu, D. (In preparation) for details.
+date_publication: '2019-12-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bzinb
+url_git: ''

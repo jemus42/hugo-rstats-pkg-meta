@@ -1,0 +1,9 @@
+version: 2.0.9
+title: Multivariate Outlier Detection Based on Robust Methods
+maintainer: P. Filzmoser
+description: Various Methods for Multivariate Outlier Detection.
+date_publication: '2018-02-08'
+bug_reports: ''
+url: http://cstat.tuwien.ac.at/filz/
+url_cran: https://CRAN.R-project.org/package=mvoutlier
+url_git: ''

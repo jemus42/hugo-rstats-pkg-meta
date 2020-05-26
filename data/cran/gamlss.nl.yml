@@ -1,0 +1,13 @@
+version: 4.1-0
+title: Fitting non linear parametric GAMLSS models
+maintainer: Mikis Stasinopoulos
+description: |-
+  This is an add on package to GAMLSS. It allows one extra
+  method for fitting GAMLSS models. The main function nlgamlss()
+  can fit any parametric (up to four parameter) GAMLSS
+  distribution.
+date_publication: '2012-02-15'
+bug_reports: ''
+url: http://www.gamlss.org/
+url_cran: https://CRAN.R-project.org/package=gamlss.nl
+url_git: ''

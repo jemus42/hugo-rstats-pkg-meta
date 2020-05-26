@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Fundamental Physical Constants and Unit Conversions from NIST
+maintainer: Jose Gama
+description: |-
+  Fundamental physical constants (Quantity, Value, Uncertainty, Unit) for
+  SI (International System of Units) and non-SI units, plus unit conversions
+  Based on the data from NIST (National Institute of Standards and Technology, USA)
+date_publication: '2016-08-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NISTunits
+url_git: ''

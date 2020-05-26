@@ -1,0 +1,12 @@
+version: 0.6.7
+title: Calculating Spatial Risk
+maintainer: Martin Haringa
+description: |-
+  Methods for spatial risk calculations. It offers an efficient approach to determine the sum of all observations within a
+  circle of a certain radius. This might be beneficial for insurers who are required (by a recent European Commission regulation) to determine
+  the maximum value of insured fire risk policies of all buildings that are partly or fully located within a circle of a radius of 200m.
+date_publication: '2020-04-23'
+bug_reports: ''
+url: https://mharinga.github.io/spatialrisk/
+url_cran: https://CRAN.R-project.org/package=spatialrisk
+url_git: https://github.com/mharinga/spatialrisk

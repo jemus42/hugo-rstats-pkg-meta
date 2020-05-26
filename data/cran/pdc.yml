@@ -1,0 +1,12 @@
+version: 1.0.3
+title: Permutation Distribution Clustering
+maintainer: Andreas M. Brandmaier
+description: Permutation Distribution Clustering is a clustering method for time series.
+  Dissimilarity of time series is formalized as the divergence between their permutation
+  distributions. The permutation distribution was proposed as measure of the complexity
+  of a time series.
+date_publication: '2015-09-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pdc
+url_git: ''

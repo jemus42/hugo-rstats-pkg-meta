@@ -1,0 +1,10 @@
+version: '0.2'
+title: Japanese Map Data and Functions
+maintainer: Susumu Tanimura
+description: Digital map data of Japan for choropleth mapping, including a circle
+  cartogram.
+date_publication: '2018-05-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NipponMap
+url_git: ''

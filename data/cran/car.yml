@@ -1,0 +1,12 @@
+version: 3.0-8
+title: Companion to Applied Regression
+maintainer: John Fox
+description: |2-
+
+  Functions to Accompany J. Fox and S. Weisberg,
+  An R Companion to Applied Regression, Third Edition, Sage, 2019.
+date_publication: '2020-05-21'
+bug_reports: ''
+url: https://socserv.socsci.mcmaster.ca/jfox/Books/Companion/index.html
+url_cran: https://CRAN.R-project.org/package=car
+url_git: https://r-forge.r-project.org/projects/car/

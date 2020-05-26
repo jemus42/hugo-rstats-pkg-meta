@@ -1,0 +1,10 @@
+version: 1.0.0
+title: Pakistan Population Census 2017
+maintainer: Muhammad Yaseen
+description: Provides data sets and functions for exploration of Pakistan Population
+  Census 2017 (<http://www.pbscensus.gov.pk/>).
+date_publication: '2018-02-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PakPC2017
+url_git: https://github.com/MYaseen208/PakPC2017

@@ -1,0 +1,13 @@
+version: 0.8.1
+title: Automate Data Exploration and Treatment
+maintainer: Boxuan Cui
+description: |-
+  Automated data exploration process for analytic tasks and predictive modeling, so
+  that users could focus on understanding data and extracting insights. The package scans and
+  analyzes each variable, and visualizes them with typical graphical techniques. Common
+  data processing methods are also available to treat and format data.
+date_publication: '2020-01-07'
+bug_reports: https://github.com/boxuancui/DataExplorer/issues
+url: http://boxuancui.github.io/DataExplorer/
+url_cran: https://CRAN.R-project.org/package=DataExplorer
+url_git: ''

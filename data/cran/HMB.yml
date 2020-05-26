@@ -1,0 +1,11 @@
+version: '1.1'
+title: Hierarchical Model-Based Estimation Approach
+maintainer: Svetlana Saarela
+description: For estimation of a variable of interest using two sources of auxiliary
+  information available in a nested structure. For reference see Saarela et al. (2016)<doi:10.1007/s13595-016-0590-1>
+  and Saarela et al. (2018) <doi:10.3390/rs10111832>.
+date_publication: '2020-05-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HMB
+url_git: ''

@@ -1,0 +1,16 @@
+version: 0.2.6
+title: True Random Numbers using RANDOM.ORG
+maintainer: Dirk Eddelbuettel
+description: |-
+  The true random number service provided by the RANDOM.ORG
+  website created by Mads Haahr samples atmospheric noise via radio tuned to
+  an unused broadcasting frequency together with a skew correction algorithm
+  due to John von Neumann.  More background is available in the included
+  vignette based on an essay by Mads Haahr.  In its current form, the package
+  offers functions to retrieve random integers, randomized sequences and
+  random strings.
+date_publication: '2017-02-05'
+bug_reports: ''
+url: https://www.random.org
+url_cran: https://CRAN.R-project.org/package=random
+url_git: ''

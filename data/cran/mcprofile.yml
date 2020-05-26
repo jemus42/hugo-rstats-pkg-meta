@@ -1,0 +1,13 @@
+version: 0.2-3
+title: |-
+  Testing Generalized Linear Hypotheses for Generalized Linear
+  Model Parameters by Profile Deviance
+maintainer: Daniel Gerhard
+description: Calculation of signed root deviance profiles for linear combinations
+  of parameters in a generalized linear model. Multiple tests and simultaneous confidence
+  intervals are provided.
+date_publication: '2016-10-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mcprofile
+url_git: ''

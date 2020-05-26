@@ -1,0 +1,9 @@
+version: 4.3-4
+title: GAMLSS Utilities
+maintainer: Mikis Stasinopoulos
+description: Extra functions for GAMLSS and others models.
+date_publication: '2016-05-18'
+bug_reports: ''
+url: http://www.gamlss.org/
+url_cran: https://CRAN.R-project.org/package=gamlss.util
+url_git: ''

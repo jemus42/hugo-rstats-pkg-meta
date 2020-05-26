@@ -1,0 +1,9 @@
+version: 0.0-4
+title: R interface to Python via Jython
+maintainer: Carlos J. Gil Bellosta
+description: R interface to Python via Jython allowing R to call python<U+000a>code.
+date_publication: '2012-07-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rJython
+url_git: https://r-forge.r-project.org/projects/rjython/

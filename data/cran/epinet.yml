@@ -1,0 +1,11 @@
+version: 2.1.8
+title: Epidemic/Network-Related Tools
+maintainer: Chris Groendyke
+description: A collection of epidemic/network-related tools. Simulates transmission
+  of diseases through contact networks. Performs Bayesian inference on network and
+  epidemic parameters, given epidemic data.
+date_publication: '2018-02-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=epinet
+url_git: ''

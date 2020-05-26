@@ -1,0 +1,10 @@
+version: 0.2.2
+title: Recursive Partitioning of Network Models
+maintainer: Payton Jones
+description: Methods to create tree models with correlation-based network models (multivariate
+  normal distributions).
+date_publication: '2020-03-18'
+bug_reports: http://github.com/paytonjjones/networktree/issues
+url: https://paytonjjones.github.io/networktree
+url_cran: https://CRAN.R-project.org/package=networktree
+url_git: ''

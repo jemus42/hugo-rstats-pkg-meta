@@ -1,0 +1,13 @@
+version: 0.0.1
+title: Model Wrappers for Projection Methods
+maintainer: Max Kuhn
+description: |-
+  Bindings for additional regression models for use
+  with the 'parsnip' package, including ordinary and spare partial least
+  squares models for regression and classification (Rohart et al (2017)
+  <doi:10.1371/journal.pcbi.1005752>).
+date_publication: '2020-04-14'
+bug_reports: https://github.com/tidymodels/plsmod/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=plsmod
+url_git: https://github.com/tidymodels/plsmod

@@ -1,0 +1,11 @@
+version: 1.2.2
+title: A Flexible Color Scale for Ternary Compositions
+maintainer: Jonas Schöley
+description: |-
+  A flexible color scale for ternary compositions with options for
+  discretization, centering and scaling.
+date_publication: '2020-04-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tricolore
+url_git: ''

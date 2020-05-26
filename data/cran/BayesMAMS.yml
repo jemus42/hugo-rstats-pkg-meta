@@ -1,0 +1,11 @@
+version: '0.1'
+title: Designing Bayesian Multi-Arm Multi-Stage Studies
+maintainer: Philip Pallmann
+description: Calculating Bayesian sample sizes for multi-arm trials where several
+  experimental treatments are compared to a common control, perhaps even at multiple
+  stages.
+date_publication: '2015-11-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BayesMAMS
+url_git: https://github.com/PhilipPallmann/BayesMAMS

@@ -1,0 +1,13 @@
+version: 0.1.2
+title: Financial Analysis and Regression Diagnostic Analysis
+maintainer: Xuanhua(Peter) Yin
+description: |-
+  Functions for financial analysis and financial modeling,
+  including batch graphs generation, beta calculation,
+  descriptive statistics, annuity calculation, bond pricing
+  and financial data download.
+date_publication: '2017-10-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FinAna
+url_git: ''

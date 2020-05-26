@@ -1,0 +1,11 @@
+version: 1.0-10
+title: TH's Data Archive
+maintainer: Torsten Hothorn
+description: |-
+  Contains data sets used in other packages Torsten Hothorn
+  maintains.
+date_publication: '2019-01-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TH.data
+url_git: ''

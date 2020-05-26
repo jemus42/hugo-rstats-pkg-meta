@@ -1,0 +1,9 @@
+version: 3.0-8
+title: Statistical analysis of surveys with anchoring vignettes
+maintainer: Chris Hare
+description: Tools for analyzing survey responses with anchors.
+date_publication: '2014-02-28'
+bug_reports: ''
+url: http://wand.stanford.edu/anchors
+url_cran: https://CRAN.R-project.org/package=anchors
+url_git: ''

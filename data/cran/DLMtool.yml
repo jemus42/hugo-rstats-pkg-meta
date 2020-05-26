@@ -1,0 +1,12 @@
+version: 5.4.3
+title: Data-Limited Methods Toolkit
+maintainer: Tom Carruthers
+description: |-
+  Development, simulation testing, and implementation of management
+  procedures for data-limited fisheries
+  (see Carruthers & Hordyk (2018) <doi:10.1111/2041-210X.13081>).
+date_publication: '2020-04-16'
+bug_reports: https://github.com/DLMtool/DLMtool/issues
+url: http://www.datalimitedtoolkit.org/
+url_cran: https://CRAN.R-project.org/package=DLMtool
+url_git: ''

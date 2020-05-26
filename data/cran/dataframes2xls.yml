@@ -1,0 +1,11 @@
+version: 0.4.7
+title: Write Data Frames to Xls Files
+maintainer: Guido van Steen
+description: |-
+  Writes data frames to xls files. It supports
+  multiple sheets and basic formatting.
+date_publication: '2016-09-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dataframes2xls
+url_git: ''

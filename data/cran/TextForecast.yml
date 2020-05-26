@@ -1,0 +1,14 @@
+version: 0.1.2
+title: |-
+  Regression Analysis and Forecasting Using Textual Data from a
+  Time-Varying Dictionary
+maintainer: Lucas Godeiro
+description: Provides functionalities based on the paper "Time Varying Dictionary
+  and the Predictive Power of FED Minutes" (Lima, 2018) <doi:10.2139/ssrn.3312483>.
+  It selects the most predictive terms, that we call time-varying dictionary using
+  supervised machine learning techniques as lasso and elastic net.
+date_publication: '2019-09-20'
+bug_reports: https://github.com/lucasgodeiro/TextForecast/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=TextForecast
+url_git: https://github.com/lucasgodeiro/TextForecast

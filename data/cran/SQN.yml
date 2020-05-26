@@ -1,0 +1,13 @@
+version: 1.0.5
+title: subset quantile normalization
+maintainer: Martin Aryee
+description: |-
+  Normalization based a subset of negative control probes as
+  described in 'Subset quantile normalization using negative
+  control features'. Wu Z, Aryee MJ, J Comput Biol. 2010
+  Oct;17(10):1385-95 [PMID 20976876].
+date_publication: '2012-08-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SQN
+url_git: ''

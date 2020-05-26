@@ -1,0 +1,11 @@
+version: 0.1.2
+title: Bayesian Analysis of Item Response Theory Models
+maintainer: Javier Martinez
+description: Bayesian estimation of the two and three parameter models of item response
+  theory (IRT). Also, it is possible to use a web interactive application intended
+  for the making of an MCMC estimation and model-fit of the IRT models.
+date_publication: '2018-03-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bairt
+url_git: ''

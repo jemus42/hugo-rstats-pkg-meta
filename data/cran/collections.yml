@@ -1,0 +1,14 @@
+version: 0.3.1
+title: High Performance Container Data Types
+maintainer: Randy Lai
+description: |-
+  Provides high performance container data types such
+  as queues, stacks, deques, dicts and ordered dicts. Benchmarks
+  <https://randy3k.github.io/collections/articles/benchmark.html> have
+  shown that these containers are asymptotically more efficient than
+  those offered by other packages.
+date_publication: '2020-04-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=collections
+url_git: https://github.com/randy3k/collections

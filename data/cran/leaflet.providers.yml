@@ -1,0 +1,14 @@
+version: 1.9.0
+title: Leaflet Providers
+maintainer: Barret Schloerke
+description: |-
+  Contains third-party map tile provider information from
+  'Leaflet.js', <https://github.com/leaflet-extras/leaflet-providers>, to be
+  used with the 'leaflet' R package. Additionally, 'leaflet.providers'
+  enables users to retrieve up-to-date provider information between package
+  updates.
+date_publication: '2019-11-09'
+bug_reports: https://github.com/rstudio/leaflet.providers/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=leaflet.providers
+url_git: https://github.com/rstudio/leaflet.providers

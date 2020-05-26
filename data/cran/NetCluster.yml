@@ -1,0 +1,11 @@
+version: '0.2'
+title: Clustering for networks
+maintainer: Sean J Westwood
+description: |-
+  Facilitates network clustering and evaluation of cluster
+  configurations.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NetCluster
+url_git: ''

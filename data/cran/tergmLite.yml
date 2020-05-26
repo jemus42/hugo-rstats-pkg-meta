@@ -1,0 +1,14 @@
+version: 2.1.7
+title: |-
+  Fast Simulation of Simple Temporal Exponential Random Graph
+  Models
+maintainer: Samuel M. Jenness
+description: |-
+  Provides functions for the computationally efficient simulation of
+  dynamic networks estimated with the statistical framework of temporal
+  exponential random graph models, implemented in the 'tergm' package.
+date_publication: '2020-02-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tergmLite
+url_git: ''

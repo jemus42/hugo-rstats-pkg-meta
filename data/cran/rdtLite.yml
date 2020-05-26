@@ -1,0 +1,12 @@
+version: 1.2.1
+title: Provenance Collector
+maintainer: Barbara Lerner
+description: |-
+  Defines functions that can be used to collect provenance as
+  an R script executes or during a console session. The output is a text
+  file in PROV-JSON format.
+date_publication: '2019-12-04'
+bug_reports: https://github.com/End-to-end-provenance/rdtLite/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rdtLite
+url_git: https://github.com/End-to-end-provenance/rdtLite

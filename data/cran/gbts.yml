@@ -1,0 +1,15 @@
+version: 1.2.0
+title: Hyperparameter Search for Gradient Boosted Trees
+maintainer: Waley W. J. Liang
+description: |-
+  An implementation of hyperparameter optimization for Gradient
+  Boosted Trees on binary classification and regression problems. The current
+  version provides two optimization methods: Bayesian optimization and random
+  search. Instead of giving the single best model, the final output is an
+  ensemble of Gradient Boosted Trees constructed via the method of ensemble
+  selection.
+date_publication: '2017-02-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gbts
+url_git: ''

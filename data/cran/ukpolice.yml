@@ -1,0 +1,13 @@
+version: 0.2.0
+title: Download Data on UK Police and Crime
+maintainer: Evan Odell
+description: |-
+  Downloads data from the 'UK Police' public data API,
+  the full docs of which are available at <https://data.police.uk/docs/>.
+  Includes data on police forces and police force areas, crime reports,
+  and the use of stop-and-search powers.
+date_publication: '2020-05-24'
+bug_reports: https://github.com/EvanOdell/ukpolice/issues
+url: https://docs.evanodell.com/ukpolice
+url_cran: https://CRAN.R-project.org/package=ukpolice
+url_git: https://github.com/EvanOdell/ukpolice/

@@ -1,0 +1,10 @@
+version: '0.4'
+title: Biodemography Functions
+maintainer: Federico Calboli
+description: The Biodem package provides a number of functions for Biodemographic
+  analysis.
+date_publication: '2015-07-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Biodem
+url_git: ''

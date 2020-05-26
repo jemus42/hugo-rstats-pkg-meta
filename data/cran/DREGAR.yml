@@ -1,0 +1,13 @@
+version: 0.1.3.0
+title: |-
+  Regularized Estimation of Dynamic Linear Regression in the
+  Presence of Autocorrelated Residuals (DREGAR)
+maintainer: Hamed Haselimashhadi
+description: A penalized/non-penalized implementation for dynamic regression in the
+  presence of autocorrelated residuals (DREGAR) using iterative penalized/ordinary
+  least squares. It applies Mallows CP, AIC, BIC and GCV to select the tuning parameters.
+date_publication: '2017-03-10'
+bug_reports: ''
+url: http://hamedhaseli.webs.com.
+url_cran: https://CRAN.R-project.org/package=DREGAR
+url_git: ''

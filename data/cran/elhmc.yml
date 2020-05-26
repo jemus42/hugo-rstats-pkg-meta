@@ -1,0 +1,13 @@
+version: 1.1.0
+title: |-
+  Sampling from a Empirical Likelihood Bayesian Posterior of
+  Parameters Using Hamiltonian Monte Carlo
+maintainer: Sanjay Chaudhuri
+description: |-
+  A tool to draw samples from a Empirical Likelihood Bayesian posterior
+  of parameters using Hamiltonian Monte Carlo.
+date_publication: '2017-07-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=elhmc
+url_git: ''

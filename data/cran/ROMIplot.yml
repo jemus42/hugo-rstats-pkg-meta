@@ -1,0 +1,13 @@
+version: '1.0'
+title: Plots Surfaces of Rates of Mortality Improvement
+maintainer: Roland Rau
+description: Provides the possibility to plot Lexis surface maps (heat maps) of rates
+  of mortality improvement. Raw data to be plotted can be read from the Human Mortality
+  Database using code originally written by Tim Riffe. The European Research Council
+  has provided financial support under the European Community's Seventh Framework
+  Programme (FP7/2007-2013) / ERC grant agreement no. 263744.
+date_publication: '2015-07-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ROMIplot
+url_git: ''

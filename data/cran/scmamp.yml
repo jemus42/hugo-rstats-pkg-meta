@@ -1,0 +1,14 @@
+version: 0.2.55
+title: |-
+  Statistical Comparison of Multiple Algorithms in Multiple
+  Problems
+maintainer: Borja Calvo
+description: |-
+  Given a matrix with results of different algorithms for different
+  problems, the package uses statistical tests and corrections to assess the
+  differences between algorithms.
+date_publication: '2016-10-21'
+bug_reports: https://github.com/b0rxa/scmamp/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=scmamp
+url_git: ''

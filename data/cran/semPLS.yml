@@ -1,0 +1,11 @@
+version: 1.0-10
+title: Structural Equation Modeling Using Partial Least Squares
+maintainer: Armin Monecke
+description: Fits structural equation models using partial least<U+000a>squares (PLS).
+  The PLS approach is referred to as<U+000a>'soft-modeling' technique requiring no
+  distributional<U+000a>assumptions on the observed data.
+date_publication: '2013-01-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=semPLS
+url_git: ''

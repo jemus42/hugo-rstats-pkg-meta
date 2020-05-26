@@ -1,0 +1,10 @@
+version: 1.1.8
+title: Metagenomics Longitudinal Differential Abundance Method
+maintainer: Ahmed A. Metwally
+description: Identify time intervals of differentially abundant metagenomic features
+  in longitudinal studies (Metwally AA, et al., Microbiome, 2018 <doi:10.1186/s40168-018-0402-y>).
+date_publication: '2019-12-18'
+bug_reports: https://github.com/aametwally/MetaLonDA/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=MetaLonDA
+url_git: https://github.com/aametwally/MetaLonDA

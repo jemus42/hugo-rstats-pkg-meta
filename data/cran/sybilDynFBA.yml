@@ -1,0 +1,9 @@
+version: 1.0.1
+title: 'Dynamic FBA : Dynamic Flux Balance Analysis'
+maintainer: Abdelmoneim Amer Desouki
+description: Implements dynamic FBA technique proposed by Varma et al 1994.
+date_publication: '2016-07-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sybilDynFBA
+url_git: ''

@@ -1,0 +1,10 @@
+version: 1.0.1
+title: The Shuffle Estimator for Explainable Variance
+maintainer: Yuval Benjamini
+description: Implementation of the shuffle estimator, a non-parametric estimator for
+  signal and noise variance under mild noise correlations.
+date_publication: '2016-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=shuffle
+url_git: ''

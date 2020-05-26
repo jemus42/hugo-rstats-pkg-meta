@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Mouse-Tracking Measures from Trajectory Data
+maintainer: Moreno I. Coco
+description: Extract from two-dimensional x-y coordinates of an arm-reaching trajectory,
+  several dependent measures such as area under the curve, latency to start the movement,
+  x-flips, etc.; which characterize the action-dynamics of the response. Mainly developed
+  to analyze data coming from mouse-tracking experiments.
+date_publication: '2015-01-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mousetrack
+url_git: ''

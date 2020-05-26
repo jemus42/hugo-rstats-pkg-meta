@@ -1,0 +1,14 @@
+version: 1.0.1
+title: Financial Data from U.S. Securities and Exchange Commission
+maintainer: Seward Lee
+description: |-
+  Download and display company financial data from the U.S. Securities
+  and Exchange Commission's EDGAR database. It contains a suite of functions with
+  web scraping and XBRL parsing capabilities that allows users to extract data from EDGAR
+  in an automated and scalable manner. See <https://www.sec.gov/edgar/searchedgar/companysearch.html>
+  for more information.
+date_publication: '2016-10-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=finreportr
+url_git: https://github.com/sewardlee337/finreportr

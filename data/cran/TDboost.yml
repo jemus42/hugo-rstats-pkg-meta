@@ -1,0 +1,11 @@
+version: '1.2'
+title: A Boosted Tweedie Compound Poisson Model
+maintainer: Yi Yang
+description: A boosted Tweedie compound Poisson model using the gradient boosting.
+  It is capable of fitting a flexible nonlinear Tweedie compound Poisson model (or
+  a gamma model) and capturing interactions among predictors.
+date_publication: '2016-03-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TDboost
+url_git: ''

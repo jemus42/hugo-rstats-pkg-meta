@@ -1,0 +1,11 @@
+version: 0.8.10
+title: Base Package for Phylogenetic Structures and Comparative Data
+maintainer: Francois Michonneau
+description: |-
+  Provides a base S4 class for comparative methods, incorporating
+  one or more trees and trait data.
+date_publication: '2020-03-01'
+bug_reports: https://github.com/fmichonneau/phylobase/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=phylobase
+url_git: https://github.com/fmichonneau/phylobase

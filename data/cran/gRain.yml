@@ -1,0 +1,11 @@
+version: 1.3-4
+title: Graphical Independence Networks
+maintainer: Søren Højsgaard
+description: |-
+  Probability propagation in graphical independence networks, also
+  known as Bayesian networks or probabilistic expert systems.
+date_publication: '2020-02-20'
+bug_reports: ''
+url: http://people.math.aau.dk/~sorenh/software/gR/
+url_cran: https://CRAN.R-project.org/package=gRain
+url_git: ''

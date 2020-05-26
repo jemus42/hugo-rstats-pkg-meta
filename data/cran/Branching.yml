@@ -1,0 +1,10 @@
+version: 0.9.4
+title: Simulation and Estimation for Branching Processes
+maintainer: Camilo Jose Torres-Jimenez
+description: Simulation and parameter estimation of multitype Bienayme - Galton -
+  Watson processes.
+date_publication: '2016-12-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Branching
+url_git: ''

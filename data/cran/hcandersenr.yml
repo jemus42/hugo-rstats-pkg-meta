@@ -1,0 +1,12 @@
+version: 0.2.0
+title: H.C. Andersens Fairy Tales
+maintainer: Emil Hvitfeldt
+description: |-
+  Texts for H.C. Andersens fairy tales, ready for
+  text analysis. Fairy tales in German, Danish, English, Spanish and
+  French.
+date_publication: '2019-01-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hcandersenr
+url_git: https://github.com/EmilHvitfeldt/hcandersenr

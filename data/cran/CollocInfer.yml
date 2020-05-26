@@ -1,0 +1,13 @@
+version: 1.0.4
+title: Collocation Inference for Dynamic Systems
+maintainer: Giles Hooker
+description: |-
+  These functions implement collocation-inference
+  for continuous-time and discrete-time stochastic processes.
+  They provide model-based smoothing, gradient-matching,
+  generalized profiling and forwards prediction error methods.
+date_publication: '2016-11-07'
+bug_reports: ''
+url: http://www.bscb.cornell.edu/~hooker
+url_cran: https://CRAN.R-project.org/package=CollocInfer
+url_git: ''

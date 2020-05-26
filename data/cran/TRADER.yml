@@ -1,0 +1,10 @@
+version: 1.2-3
+title: Tree Ring Analysis of Disturbance Events in R
+maintainer: Pavel Fibich
+description: Tree Ring Analysis of Disturbance Events in R (TRADER) package provides
+  only one way for disturbance reconstruction from tree-ring data.
+date_publication: '2017-01-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TRADER
+url_git: https://github.com/pavel-fibich/TRADER

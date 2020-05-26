@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Maximizing the Adjusted AUC
+maintainer: Allison Meisner
+description: Fits a linear combination of predictors by maximizing a smooth approximation
+  to the estimated covariate-adjusted area under the receiver operating characteristic
+  curve (AUC) for a discrete covariate. (Meisner, A, Parikh, CR, and Kerr, KF (2017)
+  <http://biostats.bepress.com/uwbiostat/paper421/>.)
+date_publication: '2018-03-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=maxadjAUC
+url_git: ''

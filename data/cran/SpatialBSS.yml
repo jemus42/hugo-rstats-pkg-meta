@@ -1,0 +1,12 @@
+version: '0.8'
+title: Blind Source Separation for Multivariate Spatial Data
+maintainer: Christoph Muehlmann
+description: Blind source separation for multivariate spatial data based on simultaneous/joint
+  diagonalization of local covariance matrices. This package is an implementation
+  of the methods described in Bachoc, Genton, Nordhausen, Ruiz-Gazen and Virta (2020)
+  <doi:10.1093/biomet/asz079>.
+date_publication: '2020-03-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SpatialBSS
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.0.1
+title: Resistant Procrustes Superimposition
+maintainer: Guillermo Andres Pacheco
+description: |-
+  Based on RPS tools, a rather complete resistant shape
+  analysis of 2D and 3D datasets based on landmarks can be performed. In addition,
+  landmark-based resistant shape analysis of individual asymmetry in 2D for
+  matching or object symmetric structures is also possible.
+date_publication: '2018-07-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RPS
+url_git: ''

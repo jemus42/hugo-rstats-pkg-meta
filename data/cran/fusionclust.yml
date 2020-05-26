@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Clustering and Feature Screening using L1 Fusion Penalty
+maintainer: Trambak Banerjee
+description: |-
+  Provides the Big Merge Tracker and COSCI algorithms for convex clustering and
+  feature screening using L1 fusion penalty. See Radchenko, P. and Mukherjee, G. (2017) <doi:10.1111/rssb.12226> and
+  T.Banerjee et al. (2017) <doi:10.1016/j.jmva.2017.08.001> for more details.
+date_publication: '2017-09-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fusionclust
+url_git: https://github.com/trambakbanerjee/fusionclust

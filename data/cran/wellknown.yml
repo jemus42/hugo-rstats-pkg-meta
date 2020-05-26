@@ -1,0 +1,13 @@
+version: 0.6.0
+title: Convert Between 'WKT' and 'GeoJSON'
+maintainer: Scott Chamberlain
+description: |-
+  Convert 'WKT' to 'GeoJSON' and 'GeoJSON' to 'WKT'. Functions
+  included for converting between 'GeoJSON' to 'WKT', creating both
+  'GeoJSON' features, and non-features, creating 'WKT' from R objects
+  (e.g., lists, data.frames, vectors), and linting 'WKT'.
+date_publication: '2020-01-10'
+bug_reports: https://github.com/ropensci/wellknown/issues
+url: https://docs.ropensci.org/wellknown
+url_cran: https://CRAN.R-project.org/package=wellknown
+url_git: https://github.com/ropensci/wellknown

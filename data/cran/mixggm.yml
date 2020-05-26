@@ -1,0 +1,11 @@
+version: '1.0'
+title: Mixtures of Gaussian Graphical Models
+maintainer: Michael Fop
+description: Mixtures of Gaussian graphical models for model-based clustering with
+  sparse covariance and concentration matrices. See Fop, Murphy, and Scrucca (2018)
+  <doi:10.1007/s11222-018-9838-y>.
+date_publication: '2018-11-14'
+bug_reports: https://github.com/michaelfop/mixggm/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mixggm
+url_git: https://github.com/michaelfop/mixggm

@@ -1,0 +1,14 @@
+version: '1.42'
+title: An Introduction to Statistical Modeling of Extreme Values
+maintainer: Eric Gilleland
+description: |-
+  Functions to support the computations carried out in
+  `An Introduction to Statistical Modeling of Extreme Values' by
+  Stuart Coles. The functions may be divided into the following
+  groups; maxima/minima, order statistics, peaks over thresholds
+  and point processes.
+date_publication: '2018-05-10'
+bug_reports: ''
+url: http://www.ral.ucar.edu/~ericg/softextreme.php
+url_cran: https://CRAN.R-project.org/package=ismev
+url_git: ''

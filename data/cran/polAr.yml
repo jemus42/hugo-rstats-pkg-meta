@@ -1,0 +1,9 @@
+version: 0.1.3
+title: Argentina Political Analysis
+maintainer: Juan Pablo Ruiz Nicolini
+description: Toolbox for the Analysis of Political and Electoral Data from Argentina.
+date_publication: '2020-05-16'
+bug_reports: https://github.com/electorArg/polAr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=polAr
+url_git: https://github.com/electorArg/polAr

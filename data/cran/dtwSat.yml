@@ -1,0 +1,19 @@
+version: 0.2.6
+title: |-
+  Time-Weighted Dynamic Time Warping for Satellite Image Time
+  Series Analysis
+maintainer: Victor Maus
+description: |-
+  Provides an implementation of the Time-Weighted Dynamic Time
+  Warping (TWDTW) method for land cover mapping using satellite image time series.
+  TWDTW compares unclassified satellite image time series with a set of known
+  temporal patterns (e.g. phenological cycles associated with the vegetation).
+  Using 'dtwSat' the user can build temporal patterns for land cover types, apply
+  the TWDTW analysis for satellite datasets, visualize the results of the time
+  series analysis, produce land cover maps, create temporal plots for land cover
+  change, and compute accuracy assessment metrics.
+date_publication: '2020-03-03'
+bug_reports: https://github.com/vwmaus/dtwSat/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dtwSat
+url_git: https://github.com/vwmaus/dtwSat/

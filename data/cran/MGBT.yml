@@ -1,0 +1,13 @@
+version: 1.0.4
+title: Multiple Grubbs-Beck Low-Outlier Test
+maintainer: William H. Asquith
+description: |-
+  Compute the multiple Grubbs-Beck low-outlier test on positively distributed
+  data and utilities for noninterpretive U.S. Geological Survey annual peak-streamflow
+  data processing discussed in Cohn et al. (2013) <doi:10.1002/wrcr.20392> and
+  England et al. (2017) <doi:10.3133/tm4B5>.
+date_publication: '2020-03-23'
+bug_reports: ''
+url: https://doi.org/10.5066/P9CW9EF0
+url_cran: https://CRAN.R-project.org/package=MGBT
+url_git: ''

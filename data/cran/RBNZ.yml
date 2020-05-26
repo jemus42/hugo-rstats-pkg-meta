@@ -1,0 +1,15 @@
+version: 1.0.1
+title: Download Data from the Reserve Bank of New Zealand Website
+maintainer: Jasper Watson
+description: Provides a convenient way of accessing data published by the Reserve
+  Bank of New Zealand (RBNZ) on their website, <https://www.rbnz.govt.nz/statistics>.
+  A range of financial and economic data is provided in spreadsheet format including
+  exchange and interest rates, commercial lending statistics, Reserve Bank market
+  operations, financial institution statistics, household financial data, New Zealand
+  debt security information, and economic indicators. This package provides a method
+  to download those spreadsheets and read them directly into R.
+date_publication: '2020-04-10'
+bug_reports: https://github.com/rntq472/RBNZ/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=RBNZ
+url_git: ''

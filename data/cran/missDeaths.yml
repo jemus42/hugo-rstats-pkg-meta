@@ -1,0 +1,15 @@
+version: '2.6'
+title: |-
+  Simulating and Analyzing Time to Event Data in the Presence of
+  Population Mortality
+maintainer: Tomaz Stupnik
+description: |-
+  Implements two methods: a nonparametric risk adjustment and a
+  data imputation method that use general population mortality tables to allow a
+  correct analysis of time to disease recurrence. Also includes a powerful set of
+  object oriented survival data simulation functions.
+date_publication: '2020-05-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=missDeaths
+url_git: ''

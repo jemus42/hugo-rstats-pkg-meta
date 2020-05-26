@@ -1,0 +1,11 @@
+version: 0.1-2
+title: Alluvial Diagrams
+maintainer: Michal Bojanowski
+description: |-
+  Creating alluvial diagrams (also known as parallel sets plots) for multivariate
+  and time series-like data.
+date_publication: '2016-09-09'
+bug_reports: https://github.com/mbojan/alluvial/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=alluvial
+url_git: https://github.com/mbojan/alluvial

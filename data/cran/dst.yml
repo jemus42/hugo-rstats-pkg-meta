@@ -1,0 +1,14 @@
+version: 1.4.1
+title: Using the Theory of Belief Functions
+maintainer: Claude Boivin
+description: Using the Theory of Belief Functions for evidence calculus. Basic probability
+  assignments, or mass functions, can be defined on the subsets of a set of possible
+  values and combined. A mass function can be extended to a larger frame. Marginalization,
+  i.e. reduction to a smaller frame can also be done. These features can be combined
+  to analyze small belief networks and take into account situations where information
+  cannot be satisfactorily described by probability distributions.
+date_publication: '2020-03-28'
+bug_reports: https://github.com/RAPLER/dst-1/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dst
+url_git: ''

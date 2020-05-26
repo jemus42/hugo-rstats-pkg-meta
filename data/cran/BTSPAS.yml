@@ -1,0 +1,14 @@
+version: 2020.1.1
+title: Bayesian Time-Stratified Population Analysis
+maintainer: Carl J Schwarz
+description: |-
+  Provides advanced Bayesian methods to estimate
+  abundance and run-timing from temporally-stratified
+  Petersen mark-recapture experiments. Methods include
+  hierarchical modelling of the capture probabilities
+  and spline smoothing of the daily run size.
+date_publication: '2019-12-04'
+bug_reports: ''
+url: http://www.stat.sfu.ca/~cschwarz/Consulting/Trinity/Phase2
+url_cran: https://CRAN.R-project.org/package=BTSPAS
+url_git: ''

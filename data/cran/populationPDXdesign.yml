@@ -1,0 +1,14 @@
+version: 1.0.3
+title: Designing Population PDX Studies
+maintainer: Maria Luisa Guerriero
+description: |-
+  Run simulations to assess the impact of various designs features
+  and the underlying biological behaviour on the outcome of a Patient Derived
+  Xenograft (PDX) population study. This project can either be deployed to a
+  server as a 'shiny' app or installed locally as a package and run the app
+  using the command 'populationPDXdesignApp()'.
+date_publication: '2018-08-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=populationPDXdesign
+url_git: ''

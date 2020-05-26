@@ -1,0 +1,16 @@
+version: 0.0.1
+title: Efficient Changing of Date-Times
+maintainer: Vitalie Spinu
+description: |-
+  Efficient routines for manipulation of date-time objects while
+  accounting for time-zones and daylight saving times. The package includes
+  utilities for updating of date-time components (year, month, day etc.),
+  modification of time-zones, rounding of date-times, period addition and
+  subtraction etc. Parts of the 'CCTZ' source code, released under the Apache
+  2.0 License, are included in this package. See
+  <https://github.com/google/cctz> for more details.
+date_publication: '2018-04-26'
+bug_reports: https://github.com/vspinu/timechange/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=timechange
+url_git: https://github.com/vspinu/timechange/

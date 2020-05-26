@@ -1,0 +1,12 @@
+version: 0.0.4
+title: Statistical Methods for Crime Series Linkage
+maintainer: Michael Porter
+description: |-
+  Statistical Methods for Crime Series Linkage. This package provides
+  code for criminal case linkage, crime series identification, crime series
+  clustering, and suspect identification.
+date_publication: '2015-09-19'
+bug_reports: <mporter@cba.ua.edu>
+url: ''
+url_cran: https://CRAN.R-project.org/package=crimelinkage
+url_git: ''

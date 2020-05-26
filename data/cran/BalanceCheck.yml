@@ -1,0 +1,12 @@
+version: '0.2'
+title: |-
+  Balance Check for Multiple Covariates in Matched Observational
+  Studies
+maintainer: Hao Chen
+description: Two practical tests are provided for assessing whether multiple covariates
+  in a treatment group and a matched control group are balanced in observational studies.
+date_publication: '2019-03-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BalanceCheck
+url_git: ''

@@ -1,0 +1,19 @@
+version: '0.5'
+title: |-
+  High Performance Cluster Models Based on Kiefer-Wolfowitz
+  Recursion
+maintainer: Alexander Rumyantsev
+description: |-
+  Probabilistic models describing the behavior
+  of workload and queue on a High Performance Cluster and computing GRID
+  under FIFO service discipline basing on modified Kiefer-Wolfowitz
+  recursion. Also sample data for inter-arrival times, service times,
+  number of cores per task and waiting times of HPC of Karelian
+  Research Centre are included, measurements took place from 06/03/2009 to 02/30/2011.
+  Functions provided to import/export workload traces in Standard Workload Format (swf).
+  Stability condition of the model may be verified either exactly, or approximately.
+date_publication: '2015-02-17'
+bug_reports: ''
+url: http://cluster.krc.karelia.ru
+url_cran: https://CRAN.R-project.org/package=hpcwld
+url_git: ''

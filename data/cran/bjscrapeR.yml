@@ -1,0 +1,13 @@
+version: 0.1.0
+title: An API Wrapper for the Bureau of Justice Statistics (BJS)
+maintainer: Dylan McDowell
+description: Drawing heavy influence from 'blscrapeR', this package scrapes crime
+  data from <https://www.bjs.gov/>. Specifically, it scrapes data from the National
+  Crime Victimization Survey which tracks personal and household crime in the USA.
+  The idea is to utilize the 'tidyverse' methodology to create an efficient work flow
+  when dealing with crime statistics.
+date_publication: '2018-06-06'
+bug_reports: https://github.com/dylanjm/bjscrapeR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bjscrapeR
+url_git: https://github.com/dylanjm/bjscrapeR

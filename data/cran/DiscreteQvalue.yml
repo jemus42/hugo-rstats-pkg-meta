@@ -1,0 +1,16 @@
+version: '1.1'
+title: Improved q-Values for Discrete Uniform and Homogeneous Tests
+maintainer: Marta Cousido Rocha
+description: We consider a multiple testing procedure used in many modern applications
+  which is the q-value method proposed by Storey and Tibshirani (2003), <doi:10.1073/pnas.1530509100>.
+  The q-value method is based on the false discovery rate (FDR), hence versions of
+  the q-value method can be defined depending on which estimator of the proportion
+  of true null hypotheses, p0, is plugged in the FDR estimator. We implement the q-value
+  method based on two classical pi0 estimators, and furthermore, we propose and implement
+  three versions of the q-value method for homogeneous discrete uniform P-values based
+  on pi0 estimators which take into account the discrete distribution of the P-values.
+date_publication: '2020-04-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DiscreteQvalue
+url_git: ''

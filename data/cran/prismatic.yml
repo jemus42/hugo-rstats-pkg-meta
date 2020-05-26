@@ -1,0 +1,11 @@
+version: 0.2.0
+title: Color Manipulation Tools
+maintainer: Emil Hvitfeldt
+description: |-
+  Manipulate and visualize colors in a intuitive, low-dependency and
+  functional way.
+date_publication: '2019-12-01'
+bug_reports: https://github.com/EmilHvitfeldt/prismatic/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=prismatic
+url_git: https://github.com/EmilHvitfeldt/prismatic

@@ -1,0 +1,12 @@
+version: 0.1.4
+title: Tools for Stemming and Lemmatizing Text
+maintainer: Tyler Rinker
+description: |-
+  Tools that stem and lemmatize text.  Stemming is a process that removes
+  endings such as affixes.  Lemmatization is the process of grouping inflected
+  forms together as a single base form.
+date_publication: '2018-04-09'
+bug_reports: http://github.com/trinker/textstem/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=textstem
+url_git: http://github.com/trinker/textstem

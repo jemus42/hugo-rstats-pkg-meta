@@ -1,0 +1,14 @@
+version: 0.1.0
+title: Transforming Behavioral Observation Records into Data Matrices
+maintainer: David N Sousa
+description: |-
+  Transforms focal observations' data, where different types of social interactions
+  can be recorded by multiple observers, into asymmetric data matrices.
+  Each cell in these matrices provides counts on the number of times
+  a specific type of social interaction was initiated by the row subject and
+  directed to the column subject.
+date_publication: '2018-07-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bor
+url_git: ''

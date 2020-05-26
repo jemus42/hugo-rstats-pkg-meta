@@ -1,0 +1,17 @@
+version: 2020-4.2
+title: Expanded Replacement and Extension of the 'optim' Function
+maintainer: John C Nash
+description: |-
+  Provides a replacement and extension of the optim()
+  function to call to several function minimization codes in R in a single
+  statement. These methods handle smooth, possibly box constrained functions
+  of several or many parameters. Note that function 'optimr()' was prepared to
+  simplify the incorporation of minimization codes going forward. Also implements some
+  utility codes and some extra solvers, including safeguarded Newton methods.
+  Many methods previously separate are now included here.
+  This is the version for CRAN.
+date_publication: '2020-04-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=optimx
+url_git: ''

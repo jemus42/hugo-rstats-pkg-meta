@@ -1,0 +1,10 @@
+version: 0.1-5
+title: Data sets from Klein and Moeschberger (1997), Survival Analysis
+maintainer: Jun Yan
+description: Data sets and functions for Klein and Moeschberger (1997),<U+000a>"Survival
+  Analysis, Techniques for Censored and Truncated<U+000a>Data", Springer.
+date_publication: '2012-12-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=KMsurv
+url_git: ''

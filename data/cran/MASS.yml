@@ -1,0 +1,11 @@
+version: 7.3-51.6
+title: Support Functions and Datasets for Venables and Ripley's MASS
+maintainer: Brian Ripley
+description: |-
+  Functions and datasets to support Venables and Ripley,
+  "Modern Applied Statistics with S" (4th edition, 2002).
+date_publication: '2020-04-26'
+bug_reports: ''
+url: http://www.stats.ox.ac.uk/pub/MASS4/
+url_cran: https://CRAN.R-project.org/package=MASS
+url_git: ''

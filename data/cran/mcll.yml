@@ -1,0 +1,10 @@
+version: '1.2'
+title: Monte Carlo Local Likelihood Estimation
+maintainer: Minjeong Jeon<jeon.117@osu.edu>
+description: Maximum likelihood estimation using a Monte Carlo local likelihood (MCLL)
+  method
+date_publication: '2014-03-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mcll
+url_git: ''

@@ -1,0 +1,14 @@
+version: 0.3.0
+title: A System for Working with Templates
+maintainer: Sebastian Warnholz
+description: |-
+  Provides tools to work with template code and text in R. It aims to
+  provide a simple substitution mechanism for R-expressions inside these
+  templates. Templates can be written in other languages like 'SQL', can
+  simply be represented by characters in R, or can themselves be R-expressions
+  or functions.
+date_publication: '2018-05-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=templates
+url_git: ''

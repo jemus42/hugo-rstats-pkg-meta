@@ -1,0 +1,13 @@
+version: 1.0.3
+title: Sensitivity Analysis for Stratified Observational Studies
+maintainer: Paul R. Rosenbaum
+description: Sensitivity analysis in unmatched observational studies, with or without
+  strata.  The main functions are sen2sample() and senstrat().  See Rosenbaum, P.
+  R. and Krieger, A. M. (1990), JASA, 85, 493-498, <doi:10.1080/01621459.1990.10476226>
+  and Gastwirth, Krieger and Rosenbaum (2000), JRSS-B, 62, 545–555 <doi:10.1111/1467-9868.00249>
+  .
+date_publication: '2017-07-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=senstrat
+url_git: ''

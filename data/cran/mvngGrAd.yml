@@ -1,0 +1,11 @@
+version: 0.1.5
+title: Moving Grid Adjustment in Plant Breeding Field Trials
+maintainer: Frank Technow
+description: |-
+  Package for  moving grid adjustment
+  in plant breeding field trials.
+date_publication: '2015-04-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mvngGrAd
+url_git: ''

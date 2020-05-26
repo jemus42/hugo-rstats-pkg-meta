@@ -1,0 +1,15 @@
+version: 1.0.1
+title: |-
+  Data Transformation or Simulation with Empirical Covariance
+  Matrix
+maintainer: Anthony Christidis
+description: |-
+  Transforms or simulates data with a target empirical covariance matrix supplied
+  by the user. The method to obtain the data with the target empirical covariance
+  matrix is described in Section 5.1 of Christidis, Van Aelst and Zamar (2019)
+  <arXiv:1812.05678>.
+date_publication: '2020-02-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=simTargetCov
+url_git: ''

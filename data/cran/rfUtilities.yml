@@ -1,0 +1,12 @@
+version: 2.1-5
+title: Random Forests Model Selection and Performance Evaluation
+maintainer: Jeffrey S. Evans
+description: |-
+  Utilities for Random Forest model selection, class balance
+  correction, significance test, cross validation and partial dependency
+  plots.
+date_publication: '2019-10-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rfUtilities
+url_git: https://github.com/jeffreyevans/rfUtilities

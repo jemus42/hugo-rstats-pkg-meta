@@ -1,0 +1,10 @@
+version: 0.0.1
+title: Truncated Scale Mixtures of Skew-Normal Distributions
+maintainer: Eraldo B. dos Anjos Filho
+description: Return the first four moments, estimation of parameters and sample of
+  the TSMSN distributions (Skew Normal, Skew t, Skew Slash or Skew Contaminated Normal).
+date_publication: '2019-07-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TSMSN
+url_git: ''

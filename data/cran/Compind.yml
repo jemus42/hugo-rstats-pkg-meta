@@ -1,0 +1,11 @@
+version: '2.1'
+title: Composite Indicators Functions
+maintainer: Francesco Vidoli
+description: Contains functions to enhance approaches to the Composite Indicators
+  methods, focusing, in particular, on the normalisation and weighting-aggregation
+  steps.
+date_publication: '2019-03-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Compind
+url_git: ''

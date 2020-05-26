@@ -1,0 +1,11 @@
+version: 0.1-1
+title: Alternative Tree Representation
+maintainer: Torsten Hothorn
+description: |-
+  Plot party trees in left-right orientation instead of the
+  classical top-down layout.
+date_publication: '2020-01-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ATR
+url_git: ''

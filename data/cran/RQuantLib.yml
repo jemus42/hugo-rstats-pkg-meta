@@ -1,0 +1,14 @@
+version: 0.4.12
+title: R Interface to the 'QuantLib' Library
+maintainer: Dirk Eddelbuettel
+description: |-
+  The 'RQuantLib' package makes parts of 'QuantLib' accessible from R
+  The 'QuantLib' project aims to provide a comprehensive software framework
+  for quantitative finance. The goal is to provide a standard open source library
+  for quantitative analysis, modeling, trading, and risk management of financial
+  assets.
+date_publication: '2020-04-02'
+bug_reports: https://github.com/eddelbuettel/rquantlib/issues
+url: http://dirk.eddelbuettel.com/code/rquantlib.html
+url_cran: https://CRAN.R-project.org/package=RQuantLib
+url_git: ''

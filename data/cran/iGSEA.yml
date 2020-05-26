@@ -1,0 +1,18 @@
+version: '1.2'
+title: Integrative Gene Set Enrichment Analysis Approaches
+maintainer: Wentao Lu
+description: |-
+  To integrate multiple GSEA studies, we propose a hybrid strategy,
+  iGSEA-AT, for choosing random effects (RE) versus fixed effect (FE) models,
+  with an attempt to achieve the potential maximum statistical efficiency as
+  well as stability in performance in various practical situations. In addition
+  to iGSEA-AT, this package also provides options to perform integrative GSEA
+  with testing based on a FE model (iGSEA-FE) and testing based on a RE model
+  (iGSEA-RE). The approaches account for different set sizes when testing a
+  database of gene sets. The function is easy to use, and the three approaches
+  can be applied to both binary and continuous phenotypes.
+date_publication: '2017-05-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=iGSEA
+url_git: ''

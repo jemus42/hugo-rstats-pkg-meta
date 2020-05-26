@@ -1,0 +1,12 @@
+version: '0.2'
+title: Measure Growth Patterns and Align Sampling Spots in Photographs
+maintainer: Mikko Vihtakari
+description: |-
+  Provides functions to measure growth patterns and align
+  sampling spots in chronologically deposited materials. The package is
+  intended for the fields of sclerochronology, dendrochronology and geology.
+date_publication: '2016-01-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sclero
+url_git: https://github.com/MikkoVihtakari/sclero

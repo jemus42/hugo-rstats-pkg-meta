@@ -1,0 +1,11 @@
+version: 0.0.31
+title: Quality Control Charts for 'ggplot'
+maintainer: Kenith Grey
+description: |-
+  Plot single and faceted type quality control charts
+  for 'ggplot'.
+date_publication: '2018-12-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggQC
+url_git: ''

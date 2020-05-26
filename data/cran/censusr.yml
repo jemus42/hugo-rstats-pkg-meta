@@ -1,0 +1,11 @@
+version: 0.0.4
+title: Collect Data from the Census API
+maintainer: Greg Macfarlane
+description: |-
+  Use the US Census API to collect summary data tables
+  for SF1 and ACS datasets at arbitrary geographies.
+date_publication: '2018-01-25'
+bug_reports: https://github.com/transportfoundry/censusr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=censusr
+url_git: https://github.com/transportfoundry/censusr

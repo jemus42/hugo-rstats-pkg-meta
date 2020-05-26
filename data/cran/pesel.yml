@@ -1,0 +1,13 @@
+version: 0.7.3
+title: Automatic Estimation of Number of Principal Components in PCA
+maintainer: Piotr Sobczyk
+description: |-
+  Automatic estimation of number of principal components in PCA
+  with PEnalized SEmi-integrated Likelihood (PESEL). See Piotr Sobczyk, Malgorzata Bogdan, Julie Josse
+  'Bayesian dimensionality reduction with PCA using penalized semi-integrated likelihood'
+  (2017) <doi:10.1080/10618600.2017.1340302>.
+date_publication: '2020-03-04'
+bug_reports: https://github.com/psobczyk/pesel/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pesel
+url_git: https://github.com/psobczyk/pesel

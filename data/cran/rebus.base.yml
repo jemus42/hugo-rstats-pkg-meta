@@ -1,0 +1,12 @@
+version: 0.0-3
+title: Core Functionality for the 'rebus' Package
+maintainer: Richard Cotton
+description: |-
+  Build regular expressions piece by piece using human readable code.
+  This package contains core functionality, and is primarily intended to be
+  used by package developers.
+date_publication: '2017-04-25'
+bug_reports: https://github.com/richierocks/rebus.base/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rebus.base
+url_git: https://github.com/richierocks/rebus.base

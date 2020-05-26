@@ -1,0 +1,16 @@
+version: '1.0'
+title: Identification of Differentially Expressed Genes
+maintainer: José María Martínez Otzeta
+description: 'Automated discovery of differentially expressed genes. The method (called
+  ORdensity) is composed of two phases: discovering potential differentially expressed
+  genes and recognizing differentially expressed genes. It makes use of a permutation
+  resampling procedure to build outlying and density indexes. References: a) Irigoien,
+  I. and Arenas, C. (2018). "Identification of differentially expressed genes by means
+  of outlier detection". <doi:10.1186/s12859-018-2318-8>. b) Martínez-Otzeta, J. M.,
+  Irigoien, I., Sierra, B., and Arenas, C. (2020). "ORdensity: user-friendly R package
+  to identify differentially expressed genes". <doi:10.1186/s12859-020-3463-4>.'
+date_publication: '2020-05-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ORdensity
+url_git: ''

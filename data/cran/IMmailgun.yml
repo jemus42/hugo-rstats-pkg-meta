@@ -1,0 +1,10 @@
+version: 0.1.2
+title: Send Emails using 'Mailgun'
+maintainer: Ignacio Martinez
+description: Send emails using the 'mailgun' api. To use this package you will need
+  an account from <https://www.mailgun.com> .
+date_publication: '2018-10-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IMmailgun
+url_git: ''

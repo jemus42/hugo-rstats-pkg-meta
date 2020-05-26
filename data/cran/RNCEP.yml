@@ -1,0 +1,16 @@
+version: 1.0.9
+title: Obtain, Organize, and Visualize NCEP Weather Data
+maintainer: Michael U. Kemp
+description: Contains functions to retrieve, organize, and visualize weather data
+  from the NCEP/NCAR Reanalysis (<http://www.esrl.noaa.gov/psd/data/gridded/data.ncep.reanalysis.html>)
+  and NCEP/DOE Reanalysis II (<http://www.esrl.noaa.gov/psd/data/gridded/data.ncep.reanalysis2.html>)
+  datasets.  Data are queried via the Internet and may be obtained for a specified
+  spatial and temporal extent or interpolated to a point in space and time.  We also
+  provide functions to visualize these weather data on a map.  There are also functions
+  to simulate flight trajectories according to specified behavior using either NCEP
+  wind data or data specified by the user.
+date_publication: '2020-03-10'
+bug_reports: ''
+url: https://www.esrl.noaa.gov/psd/data/gridded/reanalysis/https://sites.google.com/site/michaelukemp/home
+url_cran: https://CRAN.R-project.org/package=RNCEP
+url_git: ''

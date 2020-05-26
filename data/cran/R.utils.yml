@@ -1,0 +1,9 @@
+version: 2.9.2
+title: Various Programming Utilities
+maintainer: Henrik Bengtsson
+description: Utility functions useful when programming and developing R packages.
+date_publication: '2019-12-08'
+bug_reports: https://github.com/HenrikBengtsson/R.utils/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=R.utils
+url_git: https://github.com/HenrikBengtsson/R.utils

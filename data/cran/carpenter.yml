@@ -1,0 +1,12 @@
+version: 0.2.2
+title: Build Common Tables of Summary Statistics for Reports
+maintainer: Luke Johnston
+description: |-
+  Mainly used to build tables that are commonly presented for
+  bio-medical/health research, such as basic characteristic tables or
+  descriptive statistics.
+date_publication: '2019-02-05'
+bug_reports: https://github.com/lwjohnst86/carpenter/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=carpenter
+url_git: https://github.com/lwjohnst86/carpenter

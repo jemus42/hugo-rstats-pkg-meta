@@ -1,0 +1,13 @@
+version: 1.2.6
+title: Atomic Force Microscope Image Analysis
+maintainer: Mathieu Beauvais
+description: |-
+  Provides Atomic Force Microscope images analysis such as Gaussian mixes identification, Power
+  Spectral Density, roughness against lengthscale, experimental variogram and variogram models,
+  fractal dimension and scale, 2D network analysis. The AFM images can be exported to STL format for 3D
+  printing.
+date_publication: '2019-06-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AFM
+url_git: ''

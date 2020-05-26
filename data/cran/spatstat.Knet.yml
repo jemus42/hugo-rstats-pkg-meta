@@ -1,0 +1,13 @@
+version: 1.12-2
+title: Extension to 'spatstat' for Large Datasets on a Linear Network
+maintainer: Adrian Baddeley
+description: |-
+  Extension to the 'spatstat' package, for analysing large datasets
+  of spatial points on a network. The geometrically-corrected
+  K function is computed using the memory-efficient tree-based
+  algorithm described by Rakshit, Baddeley and Nair (2019).
+date_publication: '2020-04-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spatstat.Knet
+url_git: ''

@@ -1,0 +1,19 @@
+version: 0.1.0
+title: Anomaly Detection in High Dimensional and Temporal Data
+maintainer: Priyanga Dilini Talagala
+description: |2-
+
+  This is a modification of 'HDoutliers' package. The 'HDoutliers' algorithm is a powerful
+  unsupervised algorithm for detecting anomalies in high-dimensional data, with a
+  strong theoretical foundation. However, it suffers from some limitations that
+  significantly hinder its performance level, under certain circumstances. This package
+  implements the algorithm proposed in Talagala, Hyndman and Smith-Miles (2019)
+  <arXiv:1908.04000>  for detecting anomalies in high-dimensional data
+  that addresses these limitations of 'HDoutliers' algorithm. We define an anomaly as an observation that deviates markedly from the majority
+  with a large distance gap. An approach based on extreme value theory is used
+  for the anomalous threshold calculation.
+date_publication: '2019-12-17'
+bug_reports: https://github.com/pridiltal/stray/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=stray
+url_git: ''

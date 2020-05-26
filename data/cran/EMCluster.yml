@@ -1,0 +1,15 @@
+version: 0.2-12
+title: |-
+  EM Algorithm for Model-Based Clustering of Finite Mixture
+  Gaussian Distribution
+maintainer: Wei-Chen Chen
+description: |-
+  EM algorithms and several efficient
+  initialization methods for model-based clustering of finite
+  mixture Gaussian distribution with unstructured dispersion
+  in both of unsupervised and semi-supervised learning.
+date_publication: '2019-03-22'
+bug_reports: https://github.com/snoweye/EMCluster/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=EMCluster
+url_git: https://github.com/snoweye/EMCluster

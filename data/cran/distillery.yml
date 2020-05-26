@@ -1,0 +1,14 @@
+version: 1.0-7
+title: |-
+  Method Functions for Confidence Intervals and to Distill
+  Information from an Object
+maintainer: Eric Gilleland
+description: Some very simple method functions for confidence interval calculation,
+  bootstrap resampling aimed at atmospheric science applications, and to distill pertinent
+  information from a potentially complex object; primarily used in common with packages
+  extRemes and SpatialVx.
+date_publication: '2020-04-17'
+bug_reports: ''
+url: http://www.ral.ucar.edu/staff/ericg
+url_cran: https://CRAN.R-project.org/package=distillery
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.6.1
+title: Download DBnomics Data
+maintainer: Sebastien Galais
+description: |-
+  R access to hundreds of millions data series from DBnomics API
+  (<https://db.nomics.world/>).
+date_publication: '2020-04-23'
+bug_reports: https://git.nomics.world/dbnomics/rdbnomics/issues
+url: https://git.nomics.world/dbnomics/rdbnomics
+url_cran: https://CRAN.R-project.org/package=rdbnomics
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.0-0
+title: |-
+  Detection of Statistically Significant Changes in Complex
+  Biological Networks
+maintainer: Raghvendra Mall
+description: |-
+  Provides an implementation of statistically significant
+  differential sub-network analysis for paired biological networks.
+date_publication: '2017-02-28'
+bug_reports: ''
+url: https://www.researchgate.net/publication/305355965_Detection_of_statistically_significant_network_changes_in_complex_biological_networks
+url_cran: https://CRAN.R-project.org/package=DiffNet
+url_git: ''

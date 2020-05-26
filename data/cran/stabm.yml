@@ -1,0 +1,12 @@
+version: 1.1.2
+title: Stability Measures for Feature Selection
+maintainer: Andrea Bommert
+description: |-
+  An implementation of many measures for the assessment of the stability
+  of feature selection. Both simple measures and measures which take into account
+  the similarities between features are available, see Bommert et al. (2017) <doi:10.1155/2017/7907163>.
+date_publication: '2020-03-23'
+bug_reports: https://github.com/bommert/stabm/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=stabm
+url_git: https://github.com/bommert/stabm

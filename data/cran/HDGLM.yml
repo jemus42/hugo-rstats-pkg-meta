@@ -1,0 +1,10 @@
+version: '0.1'
+title: Tests for High Dimensional Generalized Linear Models
+maintainer: Bin Guo
+description: Test the significance of coefficients in high dimensional generalized
+  linear models.
+date_publication: '2015-10-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HDGLM
+url_git: ''

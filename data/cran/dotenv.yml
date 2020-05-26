@@ -1,0 +1,11 @@
+version: 1.0.2
+title: Load Environment Variables from '.env'
+maintainer: Gábor Csárdi
+description: |-
+  Load configuration from a '.env' file, that is
+  in the current working directory, into environment variables.
+date_publication: '2017-03-01'
+bug_reports: https://github.com/gaborcsardi/dotenv/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dotenv
+url_git: https://github.com/gaborcsardi/dotenv

@@ -1,0 +1,14 @@
+version: 0.0.7
+title: Tide Heights
+maintainer: Joe Thorley
+description: |-
+  Calculates tide heights based on tide station harmonics.
+  It includes the harmonics data for 637 US stations.
+  The harmonics data was converted from <https://github.com/poissonconsulting/rtide/blob/master/data-raw/harmonics-dwf-20151227-free.tar.bz2>,
+  NOAA web site data processed by David Flater for 'XTide'.
+  The code to calculate tide heights from the harmonics is based on 'XTide'.
+date_publication: '2020-03-18'
+bug_reports: https://github.com/poissonconsulting/rtide/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rtide
+url_git: https://github.com/poissonconsulting/rtide

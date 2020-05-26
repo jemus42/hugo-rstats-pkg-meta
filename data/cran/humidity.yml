@@ -1,0 +1,14 @@
+version: 0.1.5
+title: Calculate Water Vapor Measures from Temperature and Dew Point
+maintainer: Jun Cai
+description: Vapor pressure, relative humidity, absolute humidity, specific humidity,
+  and mixing ratio are commonly used water vapor measures in meteorology. This R package
+  provides functions for calculating saturation vapor pressure (hPa), partial water
+  vapor pressure (Pa), relative humidity (%), absolute humidity (kg/m^3), specific
+  humidity (kg/kg), and mixing ratio (kg/kg) from temperature (K) and dew point (K).
+  Conversion functions between humidity measures are also provided.
+date_publication: '2019-11-10'
+bug_reports: https://github.com/caijun/humidity/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=humidity
+url_git: https://github.com/caijun/humidity

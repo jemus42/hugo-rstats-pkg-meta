@@ -1,0 +1,18 @@
+version: 0.1.5
+title: Tutorial Analysis of Some Agricultural Experiments
+maintainer: Rodney Edmondson
+description: |-
+  Example software for the analysis of data from designed
+  experiments, especially agricultural crop experiments. The basics
+  of the analysis of designed experiments are discussed
+  using real examples from agricultural field trials.
+  A range of statistical methods using a range
+  of R statistical packages are  exemplified . The experimental
+  data is made available as separate data sets for each example
+  and the R analysis code is made available as example code.
+  The example code can be readily extended, as required.
+date_publication: '2019-06-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=agriTutorial
+url_git: ''

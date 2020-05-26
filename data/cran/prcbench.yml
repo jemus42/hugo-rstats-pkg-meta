@@ -1,0 +1,10 @@
+version: 0.8.2
+title: Testing Workbench for Precision-Recall Curves
+maintainer: Takaya Saito
+description: A testing workbench for evaluating precision-recall curves under various
+  conditions.
+date_publication: '2020-03-26'
+bug_reports: https://github.com/takayasaito/prcbench/issues
+url: http://takayasaito.github.io/prcbench/
+url_cran: https://CRAN.R-project.org/package=prcbench
+url_git: https://github.com/takayasaito/prcbench

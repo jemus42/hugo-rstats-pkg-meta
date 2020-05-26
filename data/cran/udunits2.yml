@@ -1,0 +1,9 @@
+version: '0.13'
+title: Udunits-2 Bindings for R
+maintainer: James Hiebert
+description: Provides simple bindings to Unidata's udunits library.
+date_publication: '2016-11-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=udunits2
+url_git: https://github.com/pacificclimate/Rudunits2https://www.unidata.ucar.edu/software/udunits/

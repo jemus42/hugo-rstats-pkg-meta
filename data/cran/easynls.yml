@@ -1,0 +1,9 @@
+version: '5.0'
+title: Easy Nonlinear Model
+maintainer: Emmanuel Arnhold
+description: Fit and plot some nonlinear models.
+date_publication: '2017-11-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=easynls
+url_git: ''

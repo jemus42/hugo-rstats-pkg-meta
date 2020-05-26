@@ -1,0 +1,13 @@
+version: '1.0'
+title: |-
+  The Sparse Latent Position Model for Nonnegative Interaction
+  Data
+maintainer: Riccardo Rastelli
+description: Models the nonnegative entries of a rectangular adjacency matrix using
+  a sparse latent position model, as illustrated in Rastelli, R. (2018) "The Sparse
+  Latent Position Model for nonnegative weighted networks" <arXiv:1808.09262>.
+date_publication: '2018-08-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SparseLPM
+url_git: ''

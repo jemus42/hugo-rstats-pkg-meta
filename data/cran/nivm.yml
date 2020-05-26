@@ -1,0 +1,10 @@
+version: '0.3'
+title: Noninferiority Tests with Variable Margins
+maintainer: Michael P. Fay
+description: Noninferiority tests for difference in failure rates at a prespecified
+  control rate or prespecified time.
+date_publication: '2015-09-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nivm
+url_git: ''

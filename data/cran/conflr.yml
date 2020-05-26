@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Client for 'Confluence' API
+maintainer: Hiroaki Yutani
+description: |-
+  Provides utilities for working with various 'Confluence' API
+  <https://docs.atlassian.com/ConfluenceServer/rest/latest/>, including a
+  functionality to convert an R Markdown document to 'Confluence' format and
+  upload it to 'Confluence' automatically.
+date_publication: '2020-04-08'
+bug_reports: https://github.com/line/conflr/issues
+url: https://line.github.io/conflr/
+url_cran: https://CRAN.R-project.org/package=conflr
+url_git: https://github.com/line/conflr

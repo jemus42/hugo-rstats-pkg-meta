@@ -1,0 +1,12 @@
+version: 1.1.4
+title: Access Small ForestGEO Datasets For Examples
+maintainer: Mauro Lepore
+description: |-
+  Access small example datasets from Luquillo, a
+  ForestGEO site in Puerto Rico
+  (<https://forestgeo.si.edu/sites/north-america/luquillo>).
+date_publication: '2019-06-07'
+bug_reports: https://github.com/forestgeo/fgeo.x/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=fgeo.x
+url_git: https://github.com/forestgeo/fgeo.x

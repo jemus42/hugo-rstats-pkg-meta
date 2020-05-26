@@ -1,0 +1,18 @@
+version: 0.8.1
+title: |-
+  Partition/Decomposition of Breeding Values by Paths of
+  Information
+maintainer: Jana Obšteter
+description: |-
+  A software that implements a method for partitioning genetic trends to
+  quantify the sources of genetic gain in breeding programmes.
+  The partitioning method is described in Garcia-Cortes et al.
+  (2008) <doi:10.1017/S175173110800205X>. The package includes the
+  main function AlphaPart for partitioning breeding values and auxiliary
+  functions for manipulating data and summarizing, visualizing, and saving
+  results.
+date_publication: '2020-03-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AlphaPart
+url_git: ''

@@ -1,0 +1,15 @@
+version: '1.0'
+title: |-
+  Identifying Causal Effect for Multi-Component Intervention Using
+  Instrumental Variable Method
+maintainer: Peng Ding
+description: |-
+  In this package, you can find two functions proposed in
+  Ding, Geng and Zhou (2011) to estimate direct and indirect
+  causal effects with randomization and multiple-component
+  intervention using instrumental variable method.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ImpactIV
+url_git: ''

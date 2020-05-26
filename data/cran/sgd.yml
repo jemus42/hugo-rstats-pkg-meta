@@ -1,0 +1,13 @@
+version: 1.1.1
+title: Stochastic Gradient Descent for Scalable Estimation
+maintainer: Junhyung Lyle Kim
+description: |-
+  A fast and flexible set of tools for large scale estimation. It
+  features many stochastic gradient methods, built-in models, visualization
+  tools, automated hyperparameter tuning, model checking, interval estimation,
+  and convergence diagnostics.
+date_publication: '2019-07-12'
+bug_reports: https://github.com/airoldilab/sgd/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sgd
+url_git: https://github.com/airoldilab/sgd

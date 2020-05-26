@@ -1,0 +1,15 @@
+version: 0.4.0
+title: World Register of Marine Species (WoRMS) Client
+maintainer: Scott Chamberlain
+description: |-
+  Client for World Register of Marine Species
+  (<http://www.marinespecies.org/>). Includes functions for each
+  of the API methods, including searching for names by name, date and
+  common names, searching using external identifiers, fetching
+  synonyms, as well as fetching taxonomic children and
+  taxonomic classification.
+date_publication: '2019-06-28'
+bug_reports: https://github.com/ropensci/worrms/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=worrms
+url_git: https://github.com/ropensci/worrms

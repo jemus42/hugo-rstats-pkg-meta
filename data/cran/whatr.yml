@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Scrape and Analyze the J! Archive
+maintainer: Kiernan Nicholls
+description: |-
+  Scrape the fan-made J! Archive <https://www.j-archive.com/>
+  for Jeopardy episode contestants, categories, clues, answers, and scores.
+date_publication: '2020-03-19'
+bug_reports: https://github.com/kiernann/whatr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=whatr
+url_git: https://github.com/kiernann/whatr

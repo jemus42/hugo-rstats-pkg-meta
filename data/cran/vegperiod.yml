@@ -1,0 +1,12 @@
+version: 0.2.6
+title: Determine Thermal Vegetation Periods
+maintainer: Robert Nuske
+description: |-
+  Collection of common methods to determine growing season length in
+  a simple manner. Start and end dates of the vegetation periods are calculated
+  solely based on daily mean temperatures and the day of the year.
+date_publication: '2019-08-04'
+bug_reports: https://github.com/rnuske/vegperiod/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=vegperiod
+url_git: https://github.com/rnuske/vegperiod

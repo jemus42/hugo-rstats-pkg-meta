@@ -1,0 +1,15 @@
+version: 1.2-0
+title: A Package for BInary Longitudinal Data
+maintainer: M. Helena Gonçalves
+description: |-
+  Performs logistic regression for binary longitudinal
+  data, allowing for serial dependence among observations from a given
+  individual and a random intercept term. Estimation is via maximization
+  of the exact likelihood of a suitably defined model. Missing values and
+  unbalanced data are allowed, with some restrictions.
+  M. Helena Gonçalves et al.(2007) <DOI: 10.18637/jss.v046.i09>.
+date_publication: '2020-04-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bild
+url_git: ''

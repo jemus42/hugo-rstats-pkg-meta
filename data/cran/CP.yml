@@ -1,0 +1,14 @@
+version: '1.6'
+title: Conditional Power Calculations
+maintainer: Andreas Kuehnapfel
+description: |-
+  Functions for calculating the conditional power
+  for different models in survival time analysis
+  within randomized clinical trials
+  with two different treatments to be compared
+  and survival as an endpoint.
+date_publication: '2016-06-29'
+bug_reports: ''
+url: https://www.imise.uni-leipzig.de
+url_cran: https://CRAN.R-project.org/package=CP
+url_git: ''

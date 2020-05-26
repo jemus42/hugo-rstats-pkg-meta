@@ -1,0 +1,11 @@
+version: '1.0'
+title: Power for SNP analyses using silver standard cases
+maintainer: Andrew McDavid
+description: A power calculator for Genome-wide association studies<U+000a>(GWAs)
+  with combined gold (error-free) and silver (erroneous)<U+000a>phenotyping per McDavid
+  A, Crane PK, Newton KM, Crosslin DR, et<U+000a>al. (2011)
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bimetallic
+url_git: ''

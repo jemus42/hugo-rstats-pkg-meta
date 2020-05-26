@@ -1,0 +1,12 @@
+version: 0.5.2.1
+title: Tools for creating D3 JavaScript network, tree, dendrogram, and<U+000a>Sankey
+  graphs from R
+maintainer: Christopher Gandrud
+description: 'This packages is intended to make it easy to create D3 JavaScript<U+000a>network,
+  tree, dendrogram, and Sankey graphs from R using data frames.<U+000a>!!! NOTE: Active
+  development has moved to the networkD3 package. !!!'
+date_publication: '2015-01-31'
+bug_reports: https://github.com/christophergandrud/d3Network/issues
+url: http://christophergandrud.github.io/d3Network/
+url_cran: https://CRAN.R-project.org/package=d3Network
+url_git: ''

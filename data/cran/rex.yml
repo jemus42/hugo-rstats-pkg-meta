@@ -1,0 +1,9 @@
+version: 1.2.0
+title: Friendly Regular Expressions
+maintainer: Jim Hester
+description: A friendly interface for the construction of regular expressions.
+date_publication: '2020-04-21'
+bug_reports: https://github.com/kevinushey/rex/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rex
+url_git: https://github.com/kevinushey/rex

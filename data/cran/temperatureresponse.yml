@@ -1,0 +1,11 @@
+version: '0.2'
+title: Temperature Response
+maintainer: Etienne Low-Decarie
+description: Fits temperature response models to rate measurements taken at different
+  temperatures. Etienne Low-Decarie,Tobias G. Boatman, Noah Bennett,Will Passfield,Antonio
+  Gavalas-Olea,Philipp Siegel, Richard J. Geider (2017) <doi:10.1002/ece3.3576> .
+date_publication: '2018-10-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=temperatureresponse
+url_git: https://github.com/low-decarie/temperatureresponse

@@ -1,0 +1,12 @@
+version: 1.1.0
+title: '''WebSocket'' Client Library'
+maintainer: Alan Dipert
+description: |-
+  Provides a 'WebSocket' client interface for R.
+  'WebSocket' is a protocol for low-overhead real-time communication:
+  <https://en.wikipedia.org/wiki/WebSocket>.
+date_publication: '2019-08-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=websocket
+url_git: ''

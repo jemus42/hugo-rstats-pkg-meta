@@ -1,0 +1,13 @@
+version: 1.2-9
+title: Spatial Covariance Functions
+maintainer: Ottar N. Bjornstad
+description: |-
+  Spatial (cross-)covariance and related geostatistical tools: the
+  nonparametric (cross-)covariance function , the spline correlogram, the
+  nonparametric phase coherence function, local indicators of spatial
+  association (LISA), (Mantel) correlogram, (Partial) Mantel test.
+date_publication: '2020-01-28'
+bug_reports: https://github.com/objornstad/ncf/issues
+url: http://ento.psu.edu/directory/onb1
+url_cran: https://CRAN.R-project.org/package=ncf
+url_git: ''

@@ -1,0 +1,11 @@
+version: 1.6.20
+title: Generate High-Resolution Venn and Euler Plots
+maintainer: Paul Boutros
+description: A set of functions to generate high-resolution Venn and Euler plots.
+  Includes handling for several special cases, including two-case scaling, and extensive
+  customization of plot shape and structure.
+date_publication: '2018-03-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=VennDiagram
+url_git: ''

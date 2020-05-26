@@ -1,0 +1,9 @@
+version: 1.2.7
+title: GUI for DErivatives in R
+maintainer: S Subramanian
+description: A nice GUI for financial DErivatives in R.
+date_publication: '2018-10-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GUIDE
+url_git: ''

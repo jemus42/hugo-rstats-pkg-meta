@@ -1,0 +1,13 @@
+version: 0.3-7
+title: Transformation Trees and Forests
+maintainer: Torsten Hothorn
+description: |-
+  Recursive partytioning of transformation models with
+  corresponding random forest for conditional transformation models
+  as described in 'Transformation Forests' (Hothorn and Zeileis, 2017, <arXiv:1701.02110>)
+  and 'Top-Down Transformation Choice' (Hothorn, 2018, <DOI:10.1177/1471082X17748081>).
+date_publication: '2020-04-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=trtf
+url_git: http://ctm.R-forge.R-project.org

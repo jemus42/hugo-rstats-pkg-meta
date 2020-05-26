@@ -1,0 +1,12 @@
+version: 1.1.2
+title: Visualizing Panel Data
+maintainer: Yiqing Xu
+description: 'Visualizes panel data. It has two main functionalities: (1) it visualizes
+  the treatment and missing-value statuses of each observation in a panel/time-series-cross-sectional
+  (TSCS) dataset; and (2) it plots the outcome variable (either continuous or discrete)
+  in a time-series fashion.'
+date_publication: '2019-03-13'
+bug_reports: ''
+url: http://yiqingxu.org/software/panelView/panelView.html
+url_cran: https://CRAN.R-project.org/package=panelView
+url_git: ''

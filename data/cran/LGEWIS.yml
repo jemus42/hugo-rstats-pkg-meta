@@ -1,0 +1,15 @@
+version: '1.1'
+title: |-
+  Tests for Genetic Association/Gene-Environment Interaction in
+  Longitudinal Studies
+maintainer: Zihuai He
+description: Functions for genome-wide association studies (GWAS)/gene-environment-wide
+  interaction studies (GEWIS) with longitudinal outcomes and exposures. He et al.
+  (2017) "Set-Based Tests for Gene-Environment Interaction in Longitudinal Studies"
+  and He et al. (2017) "Rare-variant association tests in longitudinal studies, with
+  an application to the Multi-Ethnic Study of Atherosclerosis (MESA)".
+date_publication: '2017-09-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LGEWIS
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.2.1
+title: Poisson Subordinated Distribution
+maintainer: Stephen Horng-Twu Lihn
+description: |-
+  A Poisson Subordinated Distribution to capture major
+  leptokurtic features in log-return time series of financial
+  data.
+date_publication: '2012-04-13'
+bug_reports: ''
+url: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2032762
+url_cran: https://CRAN.R-project.org/package=LIHNPSD
+url_git: ''

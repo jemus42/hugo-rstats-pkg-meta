@@ -1,0 +1,14 @@
+version: 0.3.1
+title: Accelerating 'ggplot2'
+maintainer: Thomas Lin Pedersen
+description: |-
+  The aim of 'ggplot2' is to aid in visual data investigations. This
+  focus has led to a lack of facilities for composing specialised plots.
+  'ggforce' aims to be a collection of mainly new stats and geoms that fills
+  this gap. All additional functionality is aimed to come through the official
+  extension system so using 'ggforce' should be a stable experience.
+date_publication: '2019-08-20'
+bug_reports: https://github.com/thomasp85/ggforce/issues
+url: https://ggforce.data-imaginist.com
+url_cran: https://CRAN.R-project.org/package=ggforce
+url_git: ''

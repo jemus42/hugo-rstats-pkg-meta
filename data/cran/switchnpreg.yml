@@ -1,0 +1,14 @@
+version: 0.8-0
+title: |-
+  Switching nonparametric regression models for a single curve and
+  functional data
+maintainer: Davor Cubranic
+description: |-
+  Functions for estimating the parameters from the latent
+  state process and the functions corresponding to the J states as
+  proposed by De Souza and Heckman (2013).
+date_publication: '2013-07-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=switchnpreg
+url_git: ''

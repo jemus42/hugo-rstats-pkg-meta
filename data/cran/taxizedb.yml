@@ -1,0 +1,13 @@
+version: 0.1.4
+title: Tools for Working with 'Taxonomic' Databases
+maintainer: Scott Chamberlain
+description: |-
+  Tools for working with 'taxonomic' databases, including
+  utilities for downloading databases, loading them into various
+  'SQL' databases, cleaning up files, and providing a 'SQL' connection
+  that can be used to do 'SQL' queries directly or used in 'dplyr'.
+date_publication: '2017-06-20'
+bug_reports: https://github.com/ropensci/taxizedb/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=taxizedb
+url_git: https://github.com/ropensci/taxizedb

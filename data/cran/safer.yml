@@ -1,0 +1,10 @@
+version: 0.2.1
+title: Encrypt and Decrypt Strings, R Objects and Files
+maintainer: KS Srikanth
+description: A consistent interface to encrypt and decrypt strings, R objects and
+  files using symmetric and asymmetric key encryption.
+date_publication: '2018-07-24'
+bug_reports: https://github.com/talegari/safer/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=safer
+url_git: https://github.com/talegari/safer

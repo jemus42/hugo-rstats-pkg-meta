@@ -1,0 +1,11 @@
+version: '2.1'
+title: Utility Functions For GATK
+maintainer: Geraldine Van der Auwera
+description: This package contains utility functions used by the Genome Analysis Toolkit
+  (GATK) to load tables and plot data. The GATK is a toolkit for variant discovery
+  in high-throughput sequencing data.
+date_publication: '2014-12-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gsalib
+url_git: ''

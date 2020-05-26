@@ -1,0 +1,10 @@
+version: 1.0.0
+title: A modular framework to bag or boost any estimation procedure.
+maintainer: Steven Pollack
+description: boostr provides a modular framework that return the focus of<U+000a>ensemble
+  learning back to 'learning' (instead of programming).
+date_publication: '2014-05-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=boostr
+url_git: ''

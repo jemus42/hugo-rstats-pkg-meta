@@ -1,0 +1,9 @@
+version: 1.0.5
+title: Functions to Find an Acceptable Python Binary
+maintainer: Trevor L Davis
+description: Package designed to find an acceptable python binary.
+date_publication: '2019-03-08'
+bug_reports: https://github.com/trevorld/findpython/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=findpython
+url_git: https://github.com/trevorld/findpython

@@ -1,0 +1,17 @@
+version: 0.1.7
+title: |-
+  General-Purpose MCMC and SMC Samplers and Tools for Bayesian
+  Statistics
+maintainer: Florian Hartig
+description: |-
+  General-purpose MCMC and SMC samplers, as well as plot and
+  diagnostic functions for Bayesian statistics, with a particular focus on
+  calibrating complex system models. Implemented samplers include various
+  Metropolis MCMC variants (including adaptive and/or delayed rejection MH), the
+  T-walk, two differential evolution MCMCs, two DREAM MCMCs, and a sequential
+  Monte Carlo (SMC) particle filter.
+date_publication: '2019-12-09'
+bug_reports: https://github.com/florianhartig/BayesianTools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=BayesianTools
+url_git: https://github.com/florianhartig/BayesianTools

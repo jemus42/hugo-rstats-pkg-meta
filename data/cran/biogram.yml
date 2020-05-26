@@ -1,0 +1,13 @@
+version: 1.6.3
+title: N-Gram Analysis of Biological Sequences
+maintainer: Michal Burdukiewicz
+description: |-
+  Tools for extraction and analysis of various
+  n-grams (k-mers) derived from biological sequences (proteins
+  or nucleic acids). Contains QuiPT (quick permutation test) for fast
+  feature-filtering of the n-gram data.
+date_publication: '2020-03-31'
+bug_reports: https://github.com/michbur/biogram/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=biogram
+url_git: https://github.com/michbur/biogram

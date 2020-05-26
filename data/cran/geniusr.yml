@@ -1,0 +1,12 @@
+version: 1.2.0
+title: Tools for Working with the 'Genius' API
+maintainer: Ewen Henderson
+description: |-
+  Provides tools to interact nicely with the 'Genius' API
+  <https://docs.genius.com/>.
+  Search hosted content, extract associated metadata and retrieve lyrics with ease.
+date_publication: '2020-04-13'
+bug_reports: https://github.com/ewenme/geniusr/issues
+url: https://ewenme.github.io/geniusr/
+url_cran: https://CRAN.R-project.org/package=geniusr
+url_git: https://github.com/ewenme/geniusr

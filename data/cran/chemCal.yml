@@ -1,0 +1,16 @@
+version: 0.2.1
+title: Calibration Functions for Analytical Chemistry
+maintainer: Johannes Ranke
+description: |-
+  Simple functions for plotting linear
+  calibration functions and estimating standard errors for measurements
+  according to the Handbook of Chemometrics and Qualimetrics: Part A
+  by Massart et al. There are also functions estimating the limit
+  of detection (LOD) and limit of quantification (LOQ).
+  The functions work on model objects from - optionally weighted - linear
+  regression (lm) or robust linear regression ('rlm' from the 'MASS' package).
+date_publication: '2018-07-17'
+bug_reports: http://github.com/jranke/chemCal/issues
+url: https://pkgdown.jrwb.de/chemCal
+url_cran: https://CRAN.R-project.org/package=chemCal
+url_git: ''

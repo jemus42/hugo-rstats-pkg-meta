@@ -1,0 +1,15 @@
+version: 0.2.4
+title: Tools for Validation the Dataset
+maintainer: Konstantin Ryabov
+description: |-
+  For checking the dataset from EDC(Electronic Data Capture) in clinical trials.
+  'dmtools' can check laboratory, dates, WBCs(White Blood Cells) count and rename the dataset.
+  Laboratory - does the investigator correctly estimate the laboratory analyzes?
+  Dates - do all dates correspond to the protocol's timeline?
+  WBCs count - do absolute equal (all * relative) / 100?
+  If the clinical trial has different lab reference ranges, 'dmtools' also can help.
+date_publication: '2020-05-12'
+bug_reports: https://github.com/chachabooms/dmtools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dmtools
+url_git: https://github.com/chachabooms/dmtools

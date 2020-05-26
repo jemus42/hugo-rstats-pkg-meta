@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Covfefy Any Word, Sentence or Speech
+maintainer: Michael Kirchner
+description: |-
+  Converts any word, sentence or speech into Trump's infamous
+  "covfefe" format. Reference: <https://www.nytimes.com/2017/05/31/us/politics/covfefe-trump-twitter.html>.
+  Inspiration thanks to: <https://codegolf.stackexchange.com/questions/123685/covfefify-a-string>.
+date_publication: '2017-06-06'
+bug_reports: https://github.com/mkirch/covfefe/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=covfefe
+url_git: https://github.com/mkirch/covfefe

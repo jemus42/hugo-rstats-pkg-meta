@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Approximate the Variance of the Horvitz-Thompson Total Estimator
+maintainer: Roberto Sichera
+description: |-
+  Variance approximations for the
+  Horvitz-Thompson total estimator in Unequal Probability Sampling
+  using only first-order inclusion probabilities.
+  See Matei and Tillé (2005) and Haziza, Mecatti and Rao (2008) for details.
+date_publication: '2018-10-07'
+bug_reports: https://github.com/rhobis/UPSvarApprox/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=UPSvarApprox
+url_git: ''

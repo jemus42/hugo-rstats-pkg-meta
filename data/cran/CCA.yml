@@ -1,0 +1,12 @@
+version: '1.2'
+title: Canonical correlation analysis
+maintainer: Sébastien Déjean
+description: The package provide a set of functions that extend the<U+000a>cancor
+  function with new numerical and graphical outputs. It<U+000a>also include a regularized
+  extension of the cannonical<U+000a>correlation analysis to deal with datasets with
+  more variables<U+000a>than observations.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CCA
+url_git: ''

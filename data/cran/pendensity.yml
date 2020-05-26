@@ -1,0 +1,10 @@
+version: 0.2.13
+title: Density Estimation with a Penalized Mixture Approach
+maintainer: Christian Schellhase
+description: Estimation of univariate (conditional) densities using penalized B-splines
+  with automatic selection of optimal smoothing parameter.
+date_publication: '2019-04-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pendensity
+url_git: ''

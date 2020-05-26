@@ -1,0 +1,12 @@
+version: '1.0'
+title: Sparse Quadratic Discriminant Analysis
+maintainer: Jiehuan Sun
+description: Sparse Quadratic Discriminant Analysis (SQDA) can be performed. In SQDA,
+  the covariance matrix are assumed to be block-diagonal.And, for each block, sparsity
+  assumption is imposed on the covariance matrix. It is useful in high-dimensional
+  setting.
+date_publication: '2014-10-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SQDA
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.1.0
+title: A High-Performance Local Taxonomic Database Interface
+maintainer: Carl Boettiger
+description: |-
+  Creates a local database of many commonly used taxonomic authorities
+  and provides functions that can quickly query this data.
+date_publication: '2020-02-19'
+bug_reports: https://github.com/ropensci/taxadb/issues
+url: https://docs.ropensci.org/taxadb
+url_cran: https://CRAN.R-project.org/package=taxadb
+url_git: https://github.com/ropensci/taxadb

@@ -1,0 +1,15 @@
+version: '1.2'
+title: Functional Summary and Meta-Analysis of Gene Expression Data
+maintainer: Mikhail V. Matz
+description: Rank-based tests for enrichment of KOG (euKaryotic Orthologous Groups)
+  classes with up- or down-regulated genes based on a continuous measure. The meta-analysis
+  is based on correlation of KOG delta-ranks across datasets (delta-rank is the difference
+  between mean rank of genes belonging to a KOG class and mean rank of all other genes).
+  With binary measure (1 or 0 to indicate significant and non-significant genes),
+  one-tailed Fisher's exact test for over-representation of each KOG class among significant
+  genes will be performed.
+date_publication: '2019-02-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=KOGMWU
+url_git: ''

@@ -1,0 +1,12 @@
+version: '1.7'
+title: |-
+  Estimation of Spatial Autoregressive Models with and without
+  Heteroscedasticity
+maintainer: Gianfranco Piras
+description: Generalized Method of Moment estimation of Cliff-Ord-type spatial autoregressive
+  models with and without  Heteroscedasticity.
+date_publication: '2018-03-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sphet
+url_git: ''

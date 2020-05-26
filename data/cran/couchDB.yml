@@ -1,0 +1,9 @@
+version: 1.4.1
+title: Connect to and Work with CouchDB Databases
+maintainer: Aleksander Dietrichson
+description: Interface to the couchDB document database <http://couchdb.apache.org>.
+date_publication: '2016-06-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=couchDB
+url_git: ''

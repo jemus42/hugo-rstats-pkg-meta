@@ -1,0 +1,12 @@
+version: 1.5.1
+title: |-
+  Variable Selection for Generalized Linear Mixed Models by
+  L1-Penalized Estimation
+maintainer: Andreas Groll
+description: A variable selection approach for generalized linear mixed models by
+  L1-penalized estimation is provided.
+date_publication: '2017-05-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=glmmLasso
+url_git: ''

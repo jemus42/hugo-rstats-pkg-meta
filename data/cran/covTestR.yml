@@ -1,0 +1,13 @@
+version: 0.1.4
+title: Covariance Matrix Tests
+maintainer: Ben Barnard
+description: |-
+  Testing functions for Covariance Matrices. These tests include high-dimension homogeneity of covariance
+  matrix testing described by Schott (2007) <doi:10.1016/j.csda.2007.03.004> and high-dimensional one-sample tests of
+  covariance matrix structure described by Fisher, et al. (2010) <doi:10.1016/j.jmva.2010.07.004>. Covariance matrix
+  tests use C++ to speed performance and allow larger data sets.
+date_publication: '2018-08-17'
+bug_reports: https://github.com/BenBarnard/covTestR/issues
+url: https://covtestr.bearstatistics.com
+url_cran: https://CRAN.R-project.org/package=covTestR
+url_git: ''

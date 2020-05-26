@@ -1,0 +1,16 @@
+version: 0.2.7
+title: Distances on Directed Graphs
+maintainer: Mark Padgham
+description: |-
+  Distances on dual-weighted directed graphs using priority-queue
+  shortest paths (Padgham (2019) <doi:10.32866/6945>). Weighted directed
+  graphs have weights from A to B which may differ from those from B to A.
+  Dual-weighted directed graphs have two sets of such weights. A canonical
+  example is a street network to be used for routing in which routes are
+  calculated by weighting distances according to the type of way and mode of
+  transport, yet lengths of routes must be calculated from direct distances.
+date_publication: '2020-05-05'
+bug_reports: https://github.com/ATFutures/dodgr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dodgr
+url_git: https://github.com/ATFutures/dodgr

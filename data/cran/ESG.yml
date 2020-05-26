@@ -1,0 +1,14 @@
+version: '0.1'
+title: ESG - A package for asset projection
+maintainer: Wassim Youssef
+description: The package presents a "Scenarios" class containing<U+000a>general parameters,
+  risk parameters and projection results.<U+000a>Risk parameters are gathered together
+  into a ParamsScenarios<U+000a>sub-object. The general process for using this package
+  is to<U+000a>set all needed parameters in a Scenarios object, use the<U+000a>customPathsGeneration
+  method to proceed to the projection, then<U+000a>use xxx_PriceDistribution() methods
+  to get asset prices.
+date_publication: '2013-01-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ESG
+url_git: ''

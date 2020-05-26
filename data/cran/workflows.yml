@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Modeling Workflows
+maintainer: Davis Vaughan
+description: |-
+  Managing both a 'parsnip' model and a preprocessor, such as a
+  model formula or recipe from 'recipes', can often be challenging. The goal
+  of 'workflows' is to streamline this process by bundling the model alongside
+  the preprocessor, all within the same object.
+date_publication: '2020-03-17'
+bug_reports: https://github.com/tidymodels/workflows/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=workflows
+url_git: https://github.com/tidymodels/workflows

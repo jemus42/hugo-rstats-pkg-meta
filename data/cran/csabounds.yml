@@ -1,0 +1,14 @@
+version: 1.0.0
+title: Bounds on Distributional Treatment Effect Parameters
+maintainer: Brantly Callaway
+description: The joint distribution of potential outcomes is not typically identified
+  under standard identifying assumptions such as selection on observables or even
+  when individuals are randomly assigned to being treated. This package contains methods
+  for obtaining tight bounds on distributional treatment effect parameters when panel
+  data is available and under a Copula Stability Assumption as in Callaway (2017)
+  <https://ssrn.com/abstract=3028251>.
+date_publication: '2017-09-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=csabounds
+url_git: ''

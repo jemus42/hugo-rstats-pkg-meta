@@ -1,0 +1,10 @@
+version: 1.0-12
+title: Prediction for Future Data from any Continuous Distribution
+maintainer: Hadeer A. Ghonem
+description: Functions to get prediction intervals and prediction points of future
+  observations from any continuous distribution.
+date_publication: '2020-02-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PredictionR
+url_git: ''

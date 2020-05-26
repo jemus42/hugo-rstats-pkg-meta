@@ -1,0 +1,13 @@
+version: 1.0.2
+title: |-
+  'HTMLWidget' Wrapper of 'UpSet.s' for Exploring Large Set
+  Intersections
+maintainer: Samuel Gratzl
+description: |-
+  'UpSet.js' is a re-implementation of 'UpSetR' to create interactive set visualizations for more than three sets.
+  This is a 'htmlwidget' wrapper around the 'JavaScript' library 'UpSet.js'.
+date_publication: '2020-05-25'
+bug_reports: https://github.com/upsetjs/upsetjs_r/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=upsetjs
+url_git: https://github.com/upsetjs/upsetjs_r/

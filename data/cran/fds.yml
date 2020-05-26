@@ -1,0 +1,9 @@
+version: '1.8'
+title: Functional Data Sets
+maintainer: Han Lin Shang
+description: Functional data sets.
+date_publication: '2018-10-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fds
+url_git: ''

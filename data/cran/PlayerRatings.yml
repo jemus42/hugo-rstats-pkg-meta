@@ -1,0 +1,16 @@
+version: 1.1-0
+title: Dynamic Updating Methods for Player Ratings Estimation
+maintainer: Alec Stephenson
+description: |-
+  Implements schemes for estimating player or
+  team skill based on dynamic updating. Implemented methods include
+  Elo, Glicko, Glicko-2 and Stephenson. Contains pdf documentation
+  of a reproducible analysis using approximately two million chess
+  matches. Also contains an Elo based method for multi-player games
+  where the result is a placing or a score. This includes zero-sum
+  games such as poker and mahjong.
+date_publication: '2020-03-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PlayerRatings
+url_git: ''

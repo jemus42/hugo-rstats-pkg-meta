@@ -1,0 +1,17 @@
+version: 1.0-4
+title: Statistical Inference for MOdular NEtworks (SIMoNe)
+maintainer: Julien Chiquet
+description: |-
+  Implements the inference of
+  co-expression networks based on partial correlation
+  coefficients from either steady-state or time-course
+  transcriptomic data. Note that with both type of data this
+  package can deal with samples collected in different
+  experimental conditions and therefore not identically
+  distributed. In this particular case, multiple but related
+  networks are inferred on one simone run.
+date_publication: '2019-02-03'
+bug_reports: ''
+url: http://julien.cremeriefamily.info/simone.html
+url_cran: https://CRAN.R-project.org/package=simone
+url_git: ''

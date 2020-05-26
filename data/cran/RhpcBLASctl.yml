@@ -1,0 +1,12 @@
+version: 0.20-137
+title: Control the Number of Threads on 'BLAS'
+maintainer: Ei-ji Nakama
+description: |-
+  Control the number of threads on 'BLAS' (Aka 'GotoBLAS', 'OpenBLAS', 'ACML', 'BLIS' and 'MKL').
+  And possible to control the number of threads in 'OpenMP'.
+  Get a number of logical cores and physical cores if feasible.
+date_publication: '2020-05-17'
+bug_reports: ''
+url: https://prs.ism.ac.jp/~nakama/Rhpc/
+url_cran: https://CRAN.R-project.org/package=RhpcBLASctl
+url_git: ''

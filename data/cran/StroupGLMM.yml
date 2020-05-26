@@ -1,0 +1,12 @@
+version: 0.1.0
+title: |-
+  R Codes and Datasets for Generalized Linear Mixed Models: Modern
+  Concepts, Methods and Applications by Walter W. Stroup
+maintainer: Muhammad Yaseen
+description: 'R Codes and Datasets for Stroup, W. W. (2012). Generalized Linear Mixed
+  Models: Modern Concepts, Methods and Applications, CRC Press.'
+date_publication: '2016-04-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=StroupGLMM
+url_git: https://github.com/MYaseen208/StroupGLMM

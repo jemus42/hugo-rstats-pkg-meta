@@ -1,0 +1,14 @@
+version: 0.1.0
+title: '''ZooBank'' API Client'
+maintainer: Scott Chamberlain
+description: |-
+  Interface to the 'ZooBank' API (<http://zoobank.org/Api>) client.
+  'ZooBank' (<http://zoobank.org/>) is the official registry of zoological
+  nomenclature. Methods are provided for using each of the API endpoints,
+  including for querying by author, querying for publications, get
+  statistics on 'ZooBank' activity, and more.
+date_publication: '2018-10-30'
+bug_reports: https://github.com/ropenscilabs/zbank/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=zbank
+url_git: https://github.com/ropenscilabs/zbank

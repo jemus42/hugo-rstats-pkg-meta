@@ -1,0 +1,12 @@
+version: 1.1.5
+title: Apache Thrift Client Server
+maintainer: Marek Jagielski
+description: |-
+  Pure R implementation of Apache Thrift.
+  This library doesn't require any code generation.
+  To learn more about Thrift go to <https://thrift.apache.org>.
+date_publication: '2019-03-18'
+bug_reports: https://github.com/systemincloud/thriftr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=thriftr
+url_git: https://github.com/systemincloud/thriftr

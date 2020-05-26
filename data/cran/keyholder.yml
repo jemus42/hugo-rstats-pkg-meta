@@ -1,0 +1,14 @@
+version: 0.1.5
+title: Store Data About Rows
+maintainer: Evgeni Chasnovski
+description: |-
+  Tools for keeping track of information, named
+  "keys", about rows of data frame like objects. This is done by
+  creating special attribute "keys" which is updated after every change
+  in rows (subsetting, ordering, etc.).  This package is designed to
+  work tightly with 'dplyr' package.
+date_publication: '2020-05-09'
+bug_reports: https://github.com/echasnovski/keyholder/issues/
+url: https://echasnovski.github.io/keyholder/
+url_cran: https://CRAN.R-project.org/package=keyholder
+url_git: https://github.com/echasnovski/keyholder/

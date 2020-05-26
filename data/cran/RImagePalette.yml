@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Extract the Colors from Images
+maintainer: Joel Carlson
+description: |-
+  A pure R implementation of the median cut algorithm.
+  Extracts the dominant colors from an image, and turns them into
+  a scale for use in plots or for fun!
+date_publication: '2016-01-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RImagePalette
+url_git: ''

@@ -1,0 +1,14 @@
+version: 0.3.3
+title: Large Data Sets
+maintainer: Jan van der Laan
+description: |-
+  Tools for working with vectors and data sets that are too large
+  to keep in memory. Extends the basic functionality provided in the 'lvec'
+  package. Provides basis statistical functionality of 'lvec' objects, such
+  as arithmetic operations and calculating means and sums. Also implements
+  'data.frame'-like objects storing its data in 'lvec' objects.
+date_publication: '2020-03-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ldat
+url_git: https://github.com/djvanderlaan/ldat

@@ -1,0 +1,14 @@
+version: 1.0.1
+title: Methods for Estimating Causal Effects from Observational Data
+maintainer: Ricardo Silva
+description: |-
+  Estimate causal effects of one variable on another, currently for
+  binary data only. Methods include instrumental variable bounds, adjustment by a
+  given covariate set, adjustment by an induced covariate set using a variation of
+  the PC algorithm, and an effect bounding method (the Witness Protection Program)
+  based on covariate adjustment with observable independence constraints.
+date_publication: '2015-05-20'
+bug_reports: http://github.com/rbas2015/CausalFX/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=CausalFX
+url_git: http://github.com/rbas2015/CausalFX

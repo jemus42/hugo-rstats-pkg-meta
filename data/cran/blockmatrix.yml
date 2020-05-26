@@ -1,0 +1,15 @@
+version: '1.0'
+title: 'blockmatrix: Tools to solve algebraic systems with partitioned<U+000a>matrices'
+maintainer: Emanuele Cordano
+description: Some elementary matrix algebra tools are implemented to manage<U+000a>block
+  matrices or partitioned matrix, i.e. "matrix of matrices"<U+000a>(http://en.wikipedia.org/wiki/Block_matrix).
+  The block matrix is here<U+000a>defined as a new S3 object. In this package, some
+  methods for "matrix"<U+000a>object are rewritten for "blockmatrix" object. New methods
+  are implemented.<U+000a>This package was created to solve equation systems with
+  block matrices for<U+000a>the analysis of environmental vector time series .<U+000a>Bugs/comments/questions/collaboration
+  of any kind are warmly welcomed.
+date_publication: '2014-01-19'
+bug_reports: ''
+url: <U+000a>http://cri.gmpf.eu/Research/Sustainable-Agro-Ecosystems-and-Bioresources/Dynamics-in-the-agro-ecosystems/people/Emanuele-Cordano
+url_cran: https://CRAN.R-project.org/package=blockmatrix
+url_git: ''

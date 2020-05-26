@@ -1,0 +1,10 @@
+version: 1.8.4
+title: Functions to simulate haplotypes
+maintainer: Albart Coster
+description: Simulate haplotypes through meioses. Allows specification<U+000a>of population
+  parameters.
+date_publication: '2013-11-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HaploSim
+url_git: ''

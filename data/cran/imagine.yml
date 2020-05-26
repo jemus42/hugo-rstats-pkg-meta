@@ -1,0 +1,13 @@
+version: 1.5.3
+title: |-
+  IMAGing engINEs, Tools for Application of Image Filters to Data
+  Matrices
+maintainer: Wencheng Lau-Medrano
+description: |-
+  Provides fast application of image filters to data matrices,
+  using R and C++ algorithms.
+date_publication: '2020-02-06'
+bug_reports: https://github.com/LuisLauM/imagine/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=imagine
+url_git: https://github.com/LuisLauM/imagine

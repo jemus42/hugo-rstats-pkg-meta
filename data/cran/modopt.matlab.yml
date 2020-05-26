@@ -1,0 +1,11 @@
+version: 1.0-2
+title: '''MatLab''-Style Modeling of Optimization Problems'
+maintainer: Ronald Hochreiter
+description: '''MatLab''-Style Modeling of Optimization Problems with ''R''. This
+  package provides a set of convenience functions to transform a ''MatLab''-style
+  optimization modeling structure to its ''ROI'' equivalent.'
+date_publication: '2018-08-18'
+bug_reports: ''
+url: http://www.finance-r.com/
+url_cran: https://CRAN.R-project.org/package=modopt.matlab
+url_git: ''

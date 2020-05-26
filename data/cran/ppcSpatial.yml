@@ -1,0 +1,10 @@
+version: 0.2.0
+title: Spatial Analysis of Pakistan Population Census
+maintainer: Muhammad Yaseen
+description: Spatial Analysis for exploration of Pakistan Population Census 2017 (<http://www.pbscensus.gov.pk/>).
+  It uses data from R package 'PakPC2017'.
+date_publication: '2018-03-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ppcSpatial
+url_git: https://github.com/MYaseen208/ppcSpatial

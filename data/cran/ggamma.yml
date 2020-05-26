@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Generalized Gamma Probability Distribution
+maintainer: Matheus H. J. Saldanha
+description: Density, distribution function, quantile function and random generation
+  for the Generalized Gamma proposed in Stacy, E. W. (1962) <doi:10.1214/aoms/1177704481>.
+date_publication: '2019-12-15'
+bug_reports: https://github.com/matheushjs/ggamma/issues
+url: https://mjsaldanha.com/posts/ggamma
+url_cran: https://CRAN.R-project.org/package=ggamma
+url_git: ''

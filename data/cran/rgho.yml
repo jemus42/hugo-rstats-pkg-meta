@@ -1,0 +1,16 @@
+version: 2.0.0
+title: Access WHO Global Health Observatory Data from R
+maintainer: Kevin Zarca
+description: |-
+  Access WHO Global Health Observatory
+  (<http://www.who.int/gho/>)
+  data from R via the Athena web service
+  (<http://apps.who.int/gho/data/node.resources.api>),
+  an application program interface providing
+  a simple query interface to the World
+  Health Organization's data and statistics content.
+date_publication: '2020-04-07'
+bug_reports: https://github.com/pierucci/rgho/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rgho
+url_git: https://github.com/kzarca/rgho

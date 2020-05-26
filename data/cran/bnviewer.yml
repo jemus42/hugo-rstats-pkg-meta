@@ -1,0 +1,16 @@
+version: 0.1.4
+title: Interactive Visualization of Bayesian Networks
+maintainer: Robson Fernandes
+description: |-
+  Bayesian networks provide an intuitive framework for probabilistic reasoning
+  and its graphical nature can be interpreted quite clearly. Graph based methods
+  of machine learning are becoming more popular because they offer a richer model
+  of knowledge that can be understood by a human in a graphical format. The 'bnviewer'
+  is an R Package that allows the interactive visualization of Bayesian Networks.
+  The aim of this package is to improve the Bayesian Networks visualization over
+  the basic and static views offered by existing packages.
+date_publication: '2019-08-21'
+bug_reports: ''
+url: http://robsonfernandes.net/bnviewer/
+url_cran: https://CRAN.R-project.org/package=bnviewer
+url_git: ''

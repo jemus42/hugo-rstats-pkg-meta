@@ -1,0 +1,10 @@
+version: 1.1.1
+title: Outlier Detection for Multi-replicated High-throughput Data
+maintainer: Soo-Heang Eo
+description: Detecting outlying values such as genes, peptides or samples for multi-replicated
+  high-throughput high-dimensional data
+date_publication: '2014-12-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OutlierDM
+url_git: ''

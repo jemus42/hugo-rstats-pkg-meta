@@ -1,0 +1,12 @@
+version: '1.4'
+title: |-
+  Semiparametric Maximum Likelihood Method for Interactions
+  Gene-Environment in Case-Mother Control-Mother Designs
+maintainer: Moliere Nguile-Makao
+description: Implements the method of general semiparametric maximum likelihood estimation
+  for logistic models in case-mother control-mother designs.
+date_publication: '2015-12-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SPmlficmcm
+url_git: ''

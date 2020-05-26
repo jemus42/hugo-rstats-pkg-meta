@@ -1,0 +1,12 @@
+version: '1.0'
+title: Unbinned weighted histogram analysis method (UWHAM)
+maintainer: Zhiqiang Tan
+description: |-
+  A method for estimating log-normalizing constants (or free
+  energies) and expectations from multiple distributions (such as
+  multiple generalized ensembles).
+date_publication: '2013-01-26'
+bug_reports: ''
+url: http://www.stat.rutgers.edu/~ztan
+url_cran: https://CRAN.R-project.org/package=UWHAM
+url_git: ''

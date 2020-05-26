@@ -1,0 +1,14 @@
+version: 0.6.5
+title: Securely Wrangle Dataset According to Data Usage Agreement
+maintainer: Benjamin Skinner
+description: |-
+  Create shareable data sets from raw data files that
+  contain protected elements. Relying on master crosswalk
+  files that list restricted variables, package functions
+  warn users about possible violations of data usage
+  agreement and prevent writing protected elements.
+date_publication: '2019-11-19'
+bug_reports: https://github.com/btskinner/duawranglr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=duawranglr
+url_git: https://github.com/btskinner/duawranglr

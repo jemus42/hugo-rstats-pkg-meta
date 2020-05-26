@@ -1,0 +1,9 @@
+version: 0.1.2
+title: Tic-Tac-Toe Package for R
+maintainer: Johan Jordaan
+description: Play the classic game of tic-tac-toe (naughts and crosses).
+date_publication: '2016-12-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rt3
+url_git: ''

@@ -1,0 +1,12 @@
+version: '1.2'
+title: Biclustering with Heterogeneous Variance
+maintainer: Guanhua Chen
+description: A data mining tool for discovering subgroups of patients and genes that
+  simultaneously display unusual levels of variability compared to other genes and
+  patients. Based on sparse singular value decomposition (SSVD), the method can detect
+  both mean and variance biclusters in the presence of heterogeneous residual variance.
+date_publication: '2014-12-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HSSVD
+url_git: ''

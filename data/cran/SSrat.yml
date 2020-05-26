@@ -1,0 +1,16 @@
+version: '1.1'
+title: |-
+  Two-Dimensional Sociometric Status Determination with Rating
+  Scales
+maintainer: Hans Landsheer
+description: |-
+  A set of functions for two-dimensional sociometric status
+  determination with rating scales. For each person assessed, SSrat computes
+  probability distributions of the total scores for `Sympathy' (S),
+  `Antipathy' (A), social `Preference' (P) and social `Impact' (I), and
+  applies a set of criteria for sociometric status categorization.
+date_publication: '2018-04-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SSrat
+url_git: ''

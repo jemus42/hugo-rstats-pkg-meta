@@ -1,0 +1,17 @@
+version: 1.8-8
+title: |-
+  S3 Infrastructure for Regular and Irregular Time Series (Z's
+  Ordered Observations)
+maintainer: Achim Zeileis
+description: |-
+  An S3 class with methods for totally ordered indexed
+  observations. It is particularly aimed at irregular time series
+  of numeric vectors/matrices and factors. zoo's key design goals
+  are independence of a particular index/date/time class and
+  consistency with ts and base R by providing methods to extend
+  standard generics.
+date_publication: '2020-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=zoo
+url_git: http://zoo.R-Forge.R-project.org/

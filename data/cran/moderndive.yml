@@ -1,0 +1,11 @@
+version: 0.4.0
+title: Tidyverse-Friendly Introductory Linear Regression
+maintainer: Albert Y. Kim
+description: 'Datasets and wrapper functions for tidyverse-friendly introductory linear
+  regression, used in "Statistical Inference via Data Science: A ModernDive into R
+  and the Tidyverse" available at <https://moderndive.com/>.'
+date_publication: '2019-11-04'
+bug_reports: https://github.com/ModernDive/moderndive_package/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=moderndive
+url_git: https://github.com/ModernDive/moderndive_package

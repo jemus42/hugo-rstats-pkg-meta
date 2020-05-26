@@ -1,0 +1,13 @@
+version: 0.5.1
+title: |-
+  MOPSOCD: Multi-objective Particle Swarm Optimization with
+  Crowding Distance
+maintainer: Pros Naval
+description: |-
+  A multi-objective optimization solver based on particle
+  swarm optimization with crowding distance.
+date_publication: '2013-06-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mopsocd
+url_git: ''

@@ -1,0 +1,14 @@
+version: 0.3.1
+title: |-
+  Arrange Elements on the R's Drawing Area or Inside the
+  PowerPoint's Slide
+maintainer: Zygmunt Zawadzki
+description: Create complicated drawing areas for multiple elements by combining much
+  simpler layouts. It is an extended version of layout function from the 'graphics'
+  package, but it also works with 'grid' graphics. It also supports arranging elements
+  inside 'PowerPoint' slides created using the 'officer' package.
+date_publication: '2020-01-17'
+bug_reports: https://github.com/zzawadz/customLayout/issues
+url: https://www.customlayout.zstat.pl/
+url_cran: https://CRAN.R-project.org/package=customLayout
+url_git: https://github.com/zzawadz/customLayout

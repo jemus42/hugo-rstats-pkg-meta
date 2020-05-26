@@ -1,0 +1,10 @@
+version: 1.1.1
+title: Functions and Datasets for "Forest Analytics with R"
+maintainer: Andrew Robinson
+description: Provides functions and datasets from the book "Forest Analytics with
+  R".
+date_publication: '2016-12-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FAwR
+url_git: ''

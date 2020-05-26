@@ -1,0 +1,18 @@
+version: 0.8.1
+title: |-
+  Isoscape Computation and Inference of Spatial Origins using
+  Mixed Models
+maintainer: Alexandre Courtiol
+description: |-
+  Building isoscapes using mixed models and inferring the geographic
+  origin of samples based on their isotopic ratios. This package is essentially a
+  simplified interface to several other packages which implements a new
+  statistical framework based on mixed models. It uses 'spaMM' for fitting and
+  predicting isoscapes, and assigning an organism's origin depending on its
+  isotopic ratio. 'IsoriX' also relies heavily on the package 'rasterVis' for
+  plotting the maps produced with 'raster' using 'lattice'.
+date_publication: '2018-08-29'
+bug_reports: https://github.com/courtiol/IsoriX/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=IsoriX
+url_git: https://github.com/courtiol/IsoriX/

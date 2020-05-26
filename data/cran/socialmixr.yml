@@ -1,0 +1,10 @@
+version: 0.1.6
+title: Social Mixing Matrices for Infectious Disease Modelling
+maintainer: Sebastian Funk
+description: Provides methods for sampling contact matrices from diary data for use
+  in infectious disease modelling, as discussed in Mossong et al. (2008) <doi:10.1371/journal.pmed.0050074>.
+date_publication: '2020-01-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=socialmixr
+url_git: ''

@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Co-Clustering of Mixed Type Data
+maintainer: Margot Selosse
+description: Implementation of the co-clustering method for mixed type data proposed
+  in M. Selosse, J. Jacques, C. Biernacki (2018) <https://hal.archives-ouvertes.fr/hal-01893457>.
+  It consists in clustering simultaneously the rows (observations) and the columns
+  (features) of a heterogeneous data set.
+date_publication: '2019-09-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mixedClust
+url_git: ''

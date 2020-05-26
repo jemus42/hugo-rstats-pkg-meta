@@ -1,0 +1,12 @@
+version: '1.4'
+title: |-
+  an R package for analyzing multivariate longitudinal data with
+  multivariate marginal models
+maintainer: Ozgur Asar
+description: fits multivariate marginal models for multivariate longitudinal data
+  for both continuous and discrete responses
+date_publication: '2014-01-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mmm
+url_git: ''

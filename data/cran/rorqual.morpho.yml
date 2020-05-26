@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Morphological Allometry of Rorquals
+maintainer: Max Czapanskiy
+description: |-
+  Predicts morphological parameters of rorquals (e.g. body mass,
+  flipper length, maximum engulfment capacity) from body length using
+  allometric equations from Kahane-Rapport and Goldbogen (2018)
+  <doi:10.1002/jmor.20846>.
+date_publication: '2020-03-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rorqual.morpho
+url_git: ''

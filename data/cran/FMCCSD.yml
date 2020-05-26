@@ -1,0 +1,14 @@
+version: '1.0'
+title: Efficient Estimation of Clustered Current Status Data
+maintainer: Tong Wang
+description: |-
+  Current status data abounds
+  in the field of epidemiology and public health, where the only observable data for a subject is
+  the random inspection time and the event status at inspection. Motivated by such a current status
+  data from a periodontal study where data are inherently clustered,
+  we propose a unified methodology to analyze such complex data.
+date_publication: '2020-04-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FMCCSD
+url_git: ''

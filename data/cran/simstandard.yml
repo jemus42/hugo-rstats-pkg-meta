@@ -1,0 +1,10 @@
+version: 0.3.0
+title: Generate Standardized Data
+maintainer: W. Joel Schneider
+description: Creates simulated data from structural equation models with standardized
+  loading.
+date_publication: '2019-01-07'
+bug_reports: https://github.com/wjschne/simstandard/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=simstandard
+url_git: https://github.com/wjschne/simstandard

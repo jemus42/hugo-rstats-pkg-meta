@@ -1,0 +1,11 @@
+version: 0.1.2
+title: Bay Area Bike Share Trips in 2014
+maintainer: Arunkumar Srinivasan
+description: |-
+  Anonymised Bay Area bike share trip data for the year 2014.
+  Also contains additional metadata on stations and weather.
+date_publication: '2019-01-03'
+bug_reports: http://github.com/arunsrinivasan/bikeshare14/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bikeshare14
+url_git: http://github.com/arunsrinivasan/bikeshare14

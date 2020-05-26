@@ -1,0 +1,13 @@
+version: '2.0'
+title: Independence tests and benchmarks
+maintainer: Sebastian Dümcke
+description: |-
+  This package provides the implementation of an exact formula of the
+  ith nearest neighbour distance distribution and implementations of tests of
+  independence based on that formula. Furthermore the package provides a
+  general framework to benchmark tests of independence.
+date_publication: '2014-09-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=knnIndep
+url_git: ''

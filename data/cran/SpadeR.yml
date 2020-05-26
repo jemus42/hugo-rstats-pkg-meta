@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Species-Richness Prediction and Diversity Estimation with R
+maintainer: Anne Chao
+description: Estimation of various biodiversity indices and related (dis)similarity
+  measures based on individual-based (abundance) data or sampling-unit-based (incidence)
+  data taken from one or multiple communities/assemblages.
+date_publication: '2016-09-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SpadeR
+url_git: ''

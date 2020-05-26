@@ -1,0 +1,13 @@
+version: '1.0'
+title: |-
+  Semiparametric regression analysis of panel count data using
+  monotone splines
+maintainer: Bin Yao
+description: |-
+  Semiparametric regression analysis of panel count data under the non-homogeneous Poisson
+  process model with and without Gamma frailty using monotone splines.
+date_publication: '2014-06-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PCDSpline
+url_git: ''

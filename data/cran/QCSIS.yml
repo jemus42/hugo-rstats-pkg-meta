@@ -1,0 +1,13 @@
+version: '0.1'
+title: |-
+  Sure Independence Screening via Quantile Correlation and
+  Composite Quantile Correlation
+maintainer: Xuejun Ma
+description: Quantile correlation-sure independence screening (QC-SIS) and composite
+  quantile correlation-sure independence screening (CQC-SIS) for ultrahigh-dimensional
+  data.
+date_publication: '2015-12-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=QCSIS
+url_git: ''

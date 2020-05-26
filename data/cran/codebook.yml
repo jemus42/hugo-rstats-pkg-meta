@@ -1,0 +1,21 @@
+version: 0.8.2
+title: Automatic Codebooks from Metadata Encoded in Dataset Attributes
+maintainer: Ruben Arslan
+description: |-
+  Easily automate the following tasks to describe data frames:
+  Summarise the distributions, and labelled missings of variables graphically
+  and using descriptive statistics.
+  For surveys, compute and summarise reliabilities (internal consistencies,
+  retest, multilevel) for psychological scales.
+  Combine this information with metadata (such as item labels and labelled
+  values) that is derived from R attributes.
+  To do so, the package relies on 'rmarkdown' partials, so you can generate
+  HTML, PDF, and Word documents.
+  Codebooks are also available as tables (CSV, Excel, etc.) and in JSON-LD, so
+  that search engines can find your data and index the metadata.
+  The metadata are also available at your fingertips via RStudio Addins.
+date_publication: '2020-01-09'
+bug_reports: https://github.com/rubenarslan/codebook/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=codebook
+url_git: https://github.com/rubenarslan/codebook

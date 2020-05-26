@@ -1,0 +1,9 @@
+version: '1.1'
+title: SVD visualization tools
+maintainer: Lingsong Zhang<lingsong@purdue.edu>
+description: Some visualization tools based on Singular Value Decomposition
+date_publication: '2013-12-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=svdvisual
+url_git: ''

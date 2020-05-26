@@ -1,0 +1,15 @@
+version: 0.2.5
+title: Adapt Numerical Records to Fit (in)Equality Restrictions
+maintainer: Mark van der Loo
+description: |-
+  Minimally adjust the values of numerical records in a data.frame, such
+  that each record satisfies a predefined set of equality and/or inequality
+  constraints. The constraints can be defined using the 'validate' package.
+  The core algorithms have recently been moved to the 'lintools' package,
+  refer to 'lintools' for a more basic interface and access to a version
+  of the algorithm that works with sparse matrices.
+date_publication: '2019-06-19'
+bug_reports: https://github.com/markvanderloo/rspa/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rspa
+url_git: https://github.com/markvanderloo/rspa

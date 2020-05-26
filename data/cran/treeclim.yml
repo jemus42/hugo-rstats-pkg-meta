@@ -1,0 +1,12 @@
+version: 2.0.3
+title: Numerical Calibration of Proxy-Climate Relationships
+maintainer: Christian Zang
+description: |-
+  Bootstrapped response and correlation functions,
+  seasonal correlations and evaluation of reconstruction
+  skills for use in dendroclimatology and dendroecology.
+date_publication: '2019-03-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=treeclim
+url_git: ''

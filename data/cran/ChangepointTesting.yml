@@ -1,0 +1,15 @@
+version: '1.0'
+title: Change Point Estimation for Clustered Signals
+maintainer: Shannon T. Holloway
+description: A multiple testing procedure for clustered alternative hypotheses. It
+  is assumed that the p-values under the null hypotheses follow U(0,1) and that the
+  distributions of p-values from the alternative hypotheses are stochastically smaller
+  than U(0,1). By aggregating information, this method is more sensitive to detecting
+  signals of low magnitude than standard methods. Additionally, sporadic small p-values
+  appearing within a null hypotheses sequence are avoided by averaging on the neighboring
+  p-values.
+date_publication: '2016-05-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ChangepointTesting
+url_git: ''

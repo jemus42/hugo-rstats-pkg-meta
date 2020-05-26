@@ -1,0 +1,14 @@
+version: 0.1.5
+title: |-
+  Exact Test from the Combinations of Mutually Exclusive
+  Alterations (CoMEt) Algorithm
+maintainer: Max Leiserson
+description: An algorithm for identifying combinations of mutually exclusive alterations
+  in cancer genomes. CoMEt represents the mutations in a set M of k genes with a 2^k
+  dimensional contingency table, and then computes the tail probability of observing
+  T(M) exclusive alterations using an exact statistical test.
+date_publication: '2018-01-29'
+bug_reports: ''
+url: http://compbio.cs.brown.edu/projects/comet
+url_cran: https://CRAN.R-project.org/package=cometExactTest
+url_git: ''

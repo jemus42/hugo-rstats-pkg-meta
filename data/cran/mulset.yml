@@ -1,0 +1,13 @@
+version: 1.0.0
+title: Multiset Intersection Generator
+maintainer: Ivan Tomic
+description: Computes efficient data distributions from highly inconsistent datasets
+  with many missing values using multi-set intersections. Based upon hash functions,
+  'mulset' can quickly identify intersections from very large matrices of input vectors
+  across columns and rows and thus provides scalable solution for dealing with missing
+  values. Tomic et al. (2019) <doi:10.1101/545186>.
+date_publication: '2019-03-08'
+bug_reports: https://github.com/LogIN-/mulset/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mulset
+url_git: https://github.com/LogIN-/mulset

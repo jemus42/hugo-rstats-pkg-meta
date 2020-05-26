@@ -1,0 +1,10 @@
+version: '1.0'
+title: Plot Brackets
+maintainer: Andreas Schulz
+description: Adds different kinds of brackets to a plot, including braces, chevrons,
+  parentheses or square brackets.
+date_publication: '2014-10-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pBrackets
+url_git: ''

@@ -1,0 +1,10 @@
+version: '1.1'
+title: Symbol plots
+maintainer: Jaroslav Myslivec
+description: Package that implements various symbol plots (bars,<U+000a>profiles,
+  stars, Chernoff faces, color icons, stick figures).
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=symbols
+url_git: ''

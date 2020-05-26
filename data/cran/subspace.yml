@@ -1,0 +1,13 @@
+version: 1.0.4
+title: Interface to OpenSubspace
+maintainer: Marwan Hassani
+description: |-
+  An interface to 'OpenSubspace', an open source framework for
+  evaluation and exploration of subspace clustering algorithms in WEKA
+  (see <http://dme.rwth-aachen.de/de/opensubspace> for more
+  information).  Also performs visualization.
+date_publication: '2015-10-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=subspace
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.1.1
+title: XPtr Add-Ons for 'Rcpp'
+maintainer: Iñaki Ucar
+description: |-
+  Provides the means to compile user-supplied C++ functions with
+  'Rcpp' and retrieve an 'XPtr' that can be passed to other C++ components.
+date_publication: '2019-01-21'
+bug_reports: https://github.com/Enchufa2/RcppXPtrUtils/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcppXPtrUtils
+url_git: https://github.com/Enchufa2/RcppXPtrUtils

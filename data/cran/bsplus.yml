@@ -1,0 +1,14 @@
+version: 0.1.1
+title: Adds Functionality to the R Markdown + Shiny Bootstrap Framework
+maintainer: Ian Lyttle
+description: |-
+  The Bootstrap framework lets you add some JavaScript functionality to your web site by
+  adding attributes to your HTML tags - Bootstrap takes care of the JavaScript
+  <https://getbootstrap.com/javascript>. If you are using R Markdown or Shiny, you can
+  use these functions to create collapsible sections, accordion panels, modals, tooltips,
+  popovers, and an accordion sidebar framework (not described at Bootstrap site).
+date_publication: '2018-04-05'
+bug_reports: https://github.com/ijlyttle/bsplus/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bsplus
+url_git: https://github.com/ijlyttle/bsplus

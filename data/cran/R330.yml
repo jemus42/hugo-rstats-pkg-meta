@@ -1,0 +1,11 @@
+version: '1.0'
+title: An R package for Stats 330
+maintainer: Alan Lee
+description: |-
+  This is a collection of useful functions and data for
+  Stats 330
+date_publication: '2012-06-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=R330
+url_git: ''

@@ -1,0 +1,10 @@
+version: '1.1'
+title: Several confidence intervals for the odds ratio
+maintainer: Libo Sun
+description: Computes various confidence intervals for the odds ratio of two independent
+  binomial proportions.
+date_publication: '2014-06-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ORCI
+url_git: ''

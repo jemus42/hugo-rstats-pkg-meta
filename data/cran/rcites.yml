@@ -1,0 +1,10 @@
+version: 1.0.1
+title: R Interface to the Species+ Database
+maintainer: Kevin Cazelles
+description: A programmatic interface to the Species+ <https://speciesplus.net/> database
+  via the Species+/CITES Checklist API <https://api.speciesplus.net/>.
+date_publication: '2019-05-24'
+bug_reports: https://github.com/ropensci/rcites/issues
+url: https://ropensci.github.io/rcites/
+url_cran: https://CRAN.R-project.org/package=rcites
+url_git: https://github.com/ropensci/rcites

@@ -1,0 +1,10 @@
+version: 0.8.2
+title: Hierarchical Latent Space Network Model
+maintainer: Tracy Sweet
+description: Implements Hierarchical Latent Space Network Model (HLSM) for ensemble
+  of networks as described in Sweet, Thomas & Junker (2013). <DOI:10.3102/1076998612458702>.
+date_publication: '2020-03-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HLSM
+url_git: ''

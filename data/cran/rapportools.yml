@@ -1,0 +1,10 @@
+version: '1.0'
+title: Miscellaneous (stats) helper functions with sane defaults for<U+000a>reporting
+maintainer: Gergely Daróczi
+description: Helper functions that act as wrappers to more advanced statistical<U+000a>methods
+  with the advantage of having sane defaults for quick reporting.
+date_publication: '2014-01-07'
+bug_reports: https://github.com/rapporter/rapportools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rapportools
+url_git: ''

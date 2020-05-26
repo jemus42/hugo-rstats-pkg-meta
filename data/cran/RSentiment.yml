@@ -1,0 +1,13 @@
+version: 2.2.2
+title: Analyse Sentiment of English Sentences
+maintainer: Subhasree Bose
+description: |-
+  Analyses sentiment of a sentence in English and assigns score to it. It can classify sentences to the following categories of sentiments:- Positive, Negative, very Positive, very negative,
+  Neutral. For a vector of sentences, it counts the number of sentences in each
+  category of sentiment.In calculating the score, negation and various degrees
+  of adjectives are taken into consideration. It deals only with English sentences.
+date_publication: '2018-07-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RSentiment
+url_git: ''

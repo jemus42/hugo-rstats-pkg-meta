@@ -1,0 +1,11 @@
+version: 0.1.4
+title: Geo-Processing Helper Functions
+maintainer: Andrew Plowright
+description: |-
+  Helper tools for facilitating basic geo-processing tasks, such as reading/writing
+  Shapefiles, merging polygons or generating terrain contours.
+date_publication: '2019-08-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=APfun
+url_git: ''

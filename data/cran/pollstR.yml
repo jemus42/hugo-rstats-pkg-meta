@@ -1,0 +1,11 @@
+version: 2.0.1
+title: Client for the HuffPost Pollster API
+maintainer: Jeffrey B. Arnold
+description: |-
+  Client for the HuffPost Pollster API, which provides
+  access to U.S. polls on elections and political opinion.
+date_publication: '2018-04-03'
+bug_reports: https://github.com/rOpenGov/pollstR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pollstR
+url_git: https://github.com/rOpenGov/pollstR

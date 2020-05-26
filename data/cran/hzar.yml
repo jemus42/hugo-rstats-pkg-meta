@@ -1,0 +1,9 @@
+version: 0.2-5
+title: Hybrid Zone Analysis using R
+maintainer: Graham Derryberry
+description: A collection of tools for modeling the shape of 1 dimensional clines.
+date_publication: '2013-09-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hzar
+url_git: ''

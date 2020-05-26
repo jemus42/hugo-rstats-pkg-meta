@@ -1,0 +1,17 @@
+version: 1.1.1
+title: |-
+  Phase I Control Charts (with Emphasis on Distribution-Free
+  Methods)
+maintainer: Giovanna Capizzi
+description: Statistical methods for retrospectively detecting changes in location
+  and/or dispersion of univariate and multivariate variables. Data values are assumed
+  to be independent, can be individual (one observation at each instant of time) or
+  subgrouped (more than one observation at each instant of time). Control limits are
+  computed, often using a permutation approach, so that a prescribed false alarm probability
+  is guaranteed  without making any parametric assumptions on the stable (in-control)
+  distribution.
+date_publication: '2017-01-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dfphase1
+url_git: ''

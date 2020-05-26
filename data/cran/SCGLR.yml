@@ -1,0 +1,12 @@
+version: '3.0'
+title: Supervised Component Generalized Linear Regression
+maintainer: Guillaume Cornu
+description: |2-
+
+  An extension of the Fisher Scoring Algorithm to combine PLS regression with GLM
+  estimation in the multivariate context. Covariates can also be grouped in themes.
+date_publication: '2018-09-28'
+bug_reports: https://github.com/SCnext/SCGLR/issues
+url: https://scnext.github.io/SCGLR
+url_cran: https://CRAN.R-project.org/package=SCGLR
+url_git: https://github.com/SCnext/SCGLR

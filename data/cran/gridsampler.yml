@@ -1,0 +1,15 @@
+version: '0.6'
+title: |-
+  A Simulation Tool to Determine the Required Sample Size for
+  Repertory Grid Studies
+maintainer: Mark Heckmann
+description: |-
+  Simulation tool to facilitate determination of
+  required sample size to achieve category saturation
+  for studies using multiple repertory grids in conjunction with
+  content analysis.
+date_publication: '2016-11-23'
+bug_reports: https://github.com/markheckmann/gridsampler/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gridsampler
+url_git: https://github.com/markheckmann/gridsampler

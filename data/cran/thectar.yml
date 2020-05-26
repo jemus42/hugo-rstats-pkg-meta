@@ -1,0 +1,20 @@
+version: 1.0.0
+title: Hermeneutic Content Analysis
+maintainer: Lena Berger
+description: |-
+  A collection of tools for performing the second step of
+  Hermeneutic Content Analysis (HCA; see Bergman, 2010,
+  <doi:10.4135/9781506335193>). The current version
+  provides tools for implementing multidimensional scaling (MDS) within
+  an HCA framework. The tools offer assistance in data preparation, modeling,
+  and interpretation of MDS maps. The data preparation tools help
+  users to create similarity matrices based on co-occurrence or sorting
+  data. The modelling tools allow users to optimize the modelling process
+  by systematically calculating Stress values for a set of p points out of n
+  points. The tools assisting interpretation allow users to highlight the
+  highest similarities either per point or overall in an MDS representation.
+date_publication: '2019-11-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=thectar
+url_git: ''

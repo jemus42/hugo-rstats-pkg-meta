@@ -1,0 +1,13 @@
+version: 0.1.3
+title: Sliding Window Functions
+maintainer: Davis Vaughan
+description: |-
+  Provides type-stable rolling window functions over
+  any R data type. Cumulative and expanding windows are also supported.
+  For more advanced usage, an index can be used as a secondary vector
+  that defines how sliding windows are to be created.
+date_publication: '2020-05-14'
+bug_reports: https://github.com/DavisVaughan/slider/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=slider
+url_git: https://github.com/DavisVaughan/slider

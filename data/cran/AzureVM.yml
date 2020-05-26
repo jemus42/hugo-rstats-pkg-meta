@@ -1,0 +1,16 @@
+version: 2.1.1
+title: Virtual Machines in 'Azure'
+maintainer: Hong Ooi
+description: 'Functionality for working with virtual machines (VMs) in Microsoft''s
+  ''Azure'' cloud: <https://azure.microsoft.com/en-us/services/virtual-machines/>.
+  Includes facilities to deploy, startup, shutdown, and cleanly delete VMs and VM
+  clusters. Deployment configurations can be highly customised, and can make use of
+  existing resources as well as creating new ones. A selection of predefined configurations
+  is provided to allow easy deployment of commonly used Linux and Windows images,
+  including Data Science Virtual Machines. With a running VM, execute scripts and
+  install optional extensions. Part of the ''AzureR'' family of packages.'
+date_publication: '2020-02-06'
+bug_reports: https://github.com/Azure/AzureVM/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=AzureVM
+url_git: https://github.com/Azure/AzureVMhttps://github.com/Azure/AzureR

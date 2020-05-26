@@ -1,0 +1,12 @@
+version: 2.0.0
+title: |-
+  Easy Data Import Using GUI File Picker and Seamless
+  Communication Between an Excel and R
+maintainer: JooYoung Seo
+description: Choosing any rectangular data file using interactive GUI dialog box,
+  and seamlessly manipulating tidy data between an 'Excel' window and R session.
+date_publication: '2019-11-17'
+bug_reports: https://github.com/jooyoungseo/ezpickr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ezpickr
+url_git: https://github.com/jooyoungseo/ezpickr

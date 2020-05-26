@@ -1,0 +1,17 @@
+version: 0.1-4
+title: |-
+  Differential Item Functioning in Generalized Partial Credit
+  Models
+maintainer: Gunther Schauberger
+description: Provides a framework to detect Differential Item Functioning (DIF) in
+  Generalized Partial Credit Models (GPCM) and special cases of the GPCM as proposed
+  by Schauberger and Mair (2019) <doi:10.3758/s13428-019-01224-2>. A joint model is
+  set up where DIF is explicitly parametrized and penalized likelihood estimation
+  is used for parameter selection. The big advantage of the method called GPCMlasso
+  is that several variables can be treated simultaneously and that both continuous
+  and categorical variables can be used to detect DIF.
+date_publication: '2019-04-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GPCMlasso
+url_git: ''

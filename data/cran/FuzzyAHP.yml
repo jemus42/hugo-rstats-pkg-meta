@@ -1,0 +1,13 @@
+version: 0.9.5
+title: (Fuzzy) AHP Calculation
+maintainer: Jan Caha
+description: |-
+  Calculation of AHP (Analytic Hierarchy Process -
+  <http://en.wikipedia.org/wiki/Analytic_hierarchy_process>)
+  with classic and fuzzy weights based on Saaty's pairwise
+  comparison method for determination of weights.
+date_publication: '2019-12-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FuzzyAHP
+url_git: http://github.com/JanCaha/FuzzyAHP/

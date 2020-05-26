@@ -1,0 +1,10 @@
+version: 3.1.8
+title: Estimation of Temporal Ordering of Cancer Abnormalities
+maintainer: Elizabeth Purdom
+description: Timing copy number changes using estimates of mutational allele frequency
+  from resequencing of tumor samples.
+date_publication: '2016-04-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cancerTiming
+url_git: ''

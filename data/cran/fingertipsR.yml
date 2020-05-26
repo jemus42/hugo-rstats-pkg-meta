@@ -1,0 +1,11 @@
+version: 1.0.3
+title: Fingertips Data for Public Health
+maintainer: Sebastian Fox
+description: Fingertips (<http://fingertips.phe.org.uk/>) contains data for many indicators
+  of public health in England. The underlying data is now more easily accessible by
+  making use of the API.
+date_publication: '2020-04-16'
+bug_reports: https://github.com/ropensci/fingertipsR/issues
+url: https://fingertips.phe.org.uk
+url_cran: https://CRAN.R-project.org/package=fingertipsR
+url_git: https://github.com/ropensci/fingertipsR

@@ -1,0 +1,12 @@
+version: 0.2-8
+title: The Analysis of Biological Data
+maintainer: Kevin M. Middleton
+description: |-
+  The abd package contains data sets and sample code for The
+  Analysis of Biological Data by Michael Whitlock and Dolph Schluter (2009;
+  Roberts & Company Publishers).
+date_publication: '2015-07-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=abd
+url_git: ''

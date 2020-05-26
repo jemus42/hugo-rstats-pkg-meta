@@ -1,0 +1,9 @@
+version: '2.3'
+title: Multivariate Meta-Analysis
+maintainer: Xiao Su
+description: A novel multivariate meta-analysis.
+date_publication: '2017-03-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mmeta
+url_git: ''

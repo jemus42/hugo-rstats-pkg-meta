@@ -1,0 +1,11 @@
+version: 0.0-1
+title: Mutators that Work with Pipes
+maintainer: Richard Cotton
+description: |-
+  Mutators to set attributes of variables, that work well in a pipe
+  (much like stats::setNames()).
+date_publication: '2016-03-30'
+bug_reports: https://bitbucket.org/richierocks/setter/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=setter
+url_git: https://bitbucket.org/richierocks/setter

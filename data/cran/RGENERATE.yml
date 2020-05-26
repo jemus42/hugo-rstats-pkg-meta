@@ -1,0 +1,14 @@
+version: 1.3.5
+title: Tools to Generate Vector Time Series
+maintainer: Emanuele Cordano
+description: |-
+  A method 'generate()' is implemented in this package for the random
+  generation of vector time series according to models obtained by 'RMAWGEN',
+  'vars' or other packages.  This package was created to generalize the
+  algorithms of the 'RMAWGEN' package for the analysis and generation of any
+  environmental vector time series.
+date_publication: '2017-02-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RGENERATE
+url_git: https://github.com/ecor/RGENERATE

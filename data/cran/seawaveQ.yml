@@ -1,0 +1,11 @@
+version: 1.0.0
+title: U.S. Geological Survey seawaveQ model
+maintainer: Karen R. Ryberg
+description: A model and utilities for analyzing trends in chemical concentrations
+  in streams with a seasonal wave (seawave) and adjustment for streamflow (Q) and
+  other ancillary variables
+date_publication: '2013-12-30'
+bug_reports: ''
+url: http://dx.doi.org/10.3133/ofr20131255
+url_cran: https://CRAN.R-project.org/package=seawaveQ
+url_git: ''

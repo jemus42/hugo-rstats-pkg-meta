@@ -1,0 +1,9 @@
+version: 0.1.6
+title: Tools for Scraping Data from HTML and XML Documents
+maintainer: Ryan M. Acton
+description: Tools for Scraping Data from Web-Based Documents
+date_publication: '2010-02-03'
+bug_reports: ''
+url: http://www.ryanacton.com
+url_cran: https://CRAN.R-project.org/package=scrapeR
+url_git: ''

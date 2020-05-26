@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Identify Heritable Methylation Marks
+maintainer: Kevin Wong
+description: |-
+  A novel statistical method based on expectation maximisation (EM)
+  algorithm and genetic segregation analysis to identify heritable DNA
+  methylation marks. Details about the method can be found in
+  Joo et al. (2018) <doi:10.1038/s41467-018-03058-6>.
+date_publication: '2020-04-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=heritEWAS
+url_git: ''

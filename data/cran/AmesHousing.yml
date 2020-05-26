@@ -1,0 +1,10 @@
+version: 0.0.3
+title: The Ames Iowa Housing Data
+maintainer: Max Kuhn
+description: Raw and processed versions of the data from De Cock (2011) <http://ww2.amstat.org/publications/jse>
+  are included in the package.
+date_publication: '2017-12-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AmesHousing
+url_git: ''

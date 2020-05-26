@@ -1,0 +1,13 @@
+version: 0.1.3
+title: Asymmetric Matrix Plotting in 'ggplot2'
+maintainer: Joshua H Cook
+description: |-
+  Plots a symmetric matrix with three different fill
+  aesthetics for the top-left and bottom-right triangles and along the
+  diagonal. It operates within the Grammar of Graphics paradigm implemented
+  in 'ggplot2'.
+date_publication: '2020-04-03'
+bug_reports: https://github.com/jhrcook/ggasym/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggasym
+url_git: https://github.com/jhrcook/ggasymhttps://jhrcook.github.io/ggasym/

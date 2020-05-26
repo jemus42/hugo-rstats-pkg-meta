@@ -1,0 +1,12 @@
+version: '1.0'
+title: Efficient Stepwise Selection in Decomposable Models
+maintainer: Mads Lindskou
+description: |-
+  An implementation of the ESS algorithm following Amol Deshpande, Minos Garofalakis,
+  Michael I Jordan (2013) <arXiv:1301.2267>. The ESS algorithm
+  is used for model selection in decomposable graphical models.
+date_publication: '2020-05-24'
+bug_reports: https://github.com/mlindsk/ess/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ess
+url_git: https://github.com/mlindsk/ess

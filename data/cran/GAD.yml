@@ -1,0 +1,16 @@
+version: 1.1.1
+title: 'GAD: Analysis of variance from general principles'
+maintainer: Leonardo Sandrini-Neto
+description: |-
+  This package analyses complex ANOVA models with any
+  combination of orthogonal/nested and fixed/random factors, as
+  described by Underwood (1997). There are two restrictions: (i)
+  data must be balanced; (ii) fixed nested factors are not
+  allowed. Homogeneity of variances is checked using Cochran's C
+  test and 'a posteriori' comparisons of means are done using
+  Student-Newman-Keuls (SNK) procedure.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GAD
+url_git: ''

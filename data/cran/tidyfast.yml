@@ -1,0 +1,12 @@
+version: 0.2.1
+title: Fast Tidying of Data
+maintainer: Tyson Barrett
+description: |-
+  Tidying functions built on 'data.table'
+  to provide quick and efficient data manipulation with
+  minimal overhead.
+date_publication: '2020-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tidyfast
+url_git: ''

@@ -1,0 +1,10 @@
+version: '0.1'
+title: HTML reports and so on
+maintainer: Ichikawa Daisuke
+description: This package provides some utility functions (e.g HTML<U+000a>report
+  maker).
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=batade
+url_git: ''

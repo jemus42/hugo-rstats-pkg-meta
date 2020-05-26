@@ -1,0 +1,11 @@
+version: 0.9-3
+title: Handling Linear Gaussian Bayesian Networks
+maintainer: Marco Scutari
+description: |-
+  Creation, manipulation, simulation of linear Gaussian Bayesian
+  networks from text files and more...
+date_publication: '2020-02-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rbmn
+url_git: ''

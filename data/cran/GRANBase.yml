@@ -1,0 +1,15 @@
+version: 2.6.20
+title: |-
+  Creating Continuously Integrated Package Repositories from
+  Manifests
+maintainer: Gabriel Becker
+description: |-
+  Repository based tools for department and analysis level
+  reproducibility. 'GRANBase' allows creation of custom branched, continuous
+  integration-ready R repositories, including incremental testing of only packages
+  which have changed versions since the last repository build.
+date_publication: '2020-02-05'
+bug_reports: https://github.com/gmbecker/gRAN/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=GRANBase
+url_git: https://github.com/gmbecker/gRAN

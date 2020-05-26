@@ -1,0 +1,13 @@
+version: 0.0.1.0
+title: Credit Scorecard Modelling Utils
+maintainer: Arya Poddar
+description: Provides infrastructure functionalities such as missing value treatment,
+  information value calculation, GINI calculation etc. which are used for developing
+  a traditional credit scorecard as well as a machine learning based model. The functionalities
+  defined are standard steps for any credit underwriting scorecard development, extensively
+  used in financial domain.
+date_publication: '2019-04-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=scorecardModelUtils
+url_git: ''

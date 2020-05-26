@@ -1,0 +1,12 @@
+version: 1.0-4
+title: |-
+  Statistical Transformations for Post-Processing Climate Model
+  Output
+maintainer: Lukas Gudmundsson
+description: Empirical adjustment of the distribution of variables originating from
+  (regional) climate model simulations using quantile mapping.
+date_publication: '2016-05-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=qmap
+url_git: ''

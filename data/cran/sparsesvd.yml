@@ -1,0 +1,11 @@
+version: '0.2'
+title: Sparse Truncated Singular Value Decomposition (from 'SVDLIBC')
+maintainer: Stefan Evert
+description: |-
+  Wrapper around the 'SVDLIBC' library for (truncated) singular value decomposition of a sparse matrix.
+  Currently, only sparse real matrices in Matrix package format are supported.
+date_publication: '2019-07-15'
+bug_reports: ''
+url: http://tedlab.mit.edu/~dr/SVDLIBC/
+url_cran: https://CRAN.R-project.org/package=sparsesvd
+url_git: http://wordspace.r-forge.r-project.org/

@@ -1,0 +1,11 @@
+version: '0.5'
+title: Binomial and Multinomial Additive Hazard Models
+maintainer: Renata T C Yokota
+description: Functions to fit the binomial and multinomial additive hazard models
+  and to estimate the contribution of diseases/conditions to the disability prevalence,
+  as proposed by Nusselder and Looman (2004) and extended by Yokota et al (2017).
+date_publication: '2018-09-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=addhaz
+url_git: ''

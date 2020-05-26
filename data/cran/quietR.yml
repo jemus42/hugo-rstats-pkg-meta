@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Simplify Output Verbosity
+maintainer: Thomas Johnson
+description: |-
+  Simplifies output suppression logic in R packages, as it's common
+  to develop some form of it in R. 'quietR' intends to simplify that problem
+  and allow a set of simple toggle functions to be used to suppress console
+  output.
+date_publication: '2019-06-17'
+bug_reports: https://github.com/thomascjohnson/quietR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=quietR
+url_git: https://github.com/thomascjohnson/quietR

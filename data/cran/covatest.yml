@@ -1,0 +1,16 @@
+version: 1.1.2
+title: Tests on Properties of Space-Time Covariance Functions
+maintainer: Sandra De Iaco
+description: |-
+  Tests on properties of space-time covariance functions.
+  Tests on symmetry, separability and for assessing
+  different forms of non-separability are available. Moreover tests on
+  some classes of covariance functions, such that the classes of
+  product-sum models, Gneiting models and integrated product models have
+  been provided.  It is the companion R package to the paper of
+  Cappello C., De Iaco S. and Posa D. <doi:10.1007/s00477-017-1472-2>.
+date_publication: '2020-02-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=covatest
+url_git: ''

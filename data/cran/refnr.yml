@@ -1,0 +1,9 @@
+version: 0.1.0
+title: Refining Data Table Using a Set of Formulas
+maintainer: Kim Seonghyun
+description: A tool for refining data frame with formulas.
+date_publication: '2016-04-19'
+bug_reports: https://github.com/zedoul/refnr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=refnr
+url_git: https://github.com/zedoul/refnr

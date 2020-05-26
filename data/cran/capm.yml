@@ -1,0 +1,20 @@
+version: 0.14.0
+title: Companion Animal Population Management
+maintainer: Oswaldo Santos Baquero
+description: |-
+  Quantitative analysis to support companion animal population
+  management. Some functions assist survey sampling tasks (calculate sample
+  size for simple and complex designs, select sampling units and estimate
+  population parameters) while others assist the modelling of population
+  dynamics. For demographic characterizations and population management
+  evaluations see: "Baquero, et al." (2018),
+  <doi:10.1016/j.prevetmed.2018.07.006>. For modelling of
+  population dynamics see: "Baquero et al." (2016),
+  <doi:10.1016/j.prevetmed.2015.11.009>. For sampling methods
+  see: "Levy PS & Lemeshow S" (2013), "ISBN-10: 0470040076";
+  "Lumley" (2010), "ISBN: 978-0-470-28430-8".
+date_publication: '2019-10-24'
+bug_reports: ''
+url: http://oswaldosantos.github.io/capm
+url_cran: https://CRAN.R-project.org/package=capm
+url_git: ''

@@ -1,0 +1,9 @@
+version: '0.1'
+title: Geo tools
+maintainer: Antoine Lucas
+description: Tools
+date_publication: '2012-01-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=geotools
+url_git: ''

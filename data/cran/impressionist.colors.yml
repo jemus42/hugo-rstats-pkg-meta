@@ -1,0 +1,11 @@
+version: '1.0'
+title: Impressionism's Color Palettes
+maintainer: Federico Casale
+description: Provides color palettes from Impressionism and post-Impressionism artworks.
+  This package allows to select colors combinations while looking at the original
+  paintings where colors were sampled from.
+date_publication: '2020-03-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=impressionist.colors
+url_git: ''

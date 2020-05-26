@@ -1,0 +1,12 @@
+version: 1.0-6
+title: |-
+  Estimation, Simulation and Visualization of Hierarchical
+  Archimedean Copulae (HAC)
+maintainer: Alexander Ristig
+description: Package provides the estimation of the structure and the parameters,
+  sampling methods and structural plots of Hierarchical Archimedean Copulae (HAC).
+date_publication: '2019-12-15'
+bug_reports: ''
+url: https://tu-dresden.de/bu/verkehr/ivw/osv/die-professur/inhaber-in
+url_cran: https://CRAN.R-project.org/package=HAC
+url_git: ''

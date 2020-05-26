@@ -1,0 +1,13 @@
+version: 0.4.1
+title: Subset- And Name-Aware Array Utility Functions
+maintainer: Michael Schubert
+description: |-
+  Stacking arrays according to dimension names, subset-aware
+  splitting and mapping of functions, intersecting along arbitrary
+  dimensions, converting to and from data.frames, and many other helper
+  functions.
+date_publication: '2018-08-18'
+bug_reports: https://github.com/mschubert/narray/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=narray
+url_git: https://github.com/mschubert/narray

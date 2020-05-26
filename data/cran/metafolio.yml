@@ -1,0 +1,15 @@
+version: 0.1.0
+title: |-
+  Metapopulation simulations for conserving salmon through
+  portfolio optimization
+maintainer: Sean C. Anderson
+description: |-
+  The metafolio R package is a tool to simulate salmon
+  metapopulations and apply financial portfolio optimization concepts. The
+  package accompanies the paper 'Portfolio conservation of metapopulations
+  under climate change'. See citation("metafolio").
+date_publication: '2014-07-10'
+bug_reports: http://github.com/seananderson/metafolio/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=metafolio
+url_git: http://github.com/seananderson/metafolio

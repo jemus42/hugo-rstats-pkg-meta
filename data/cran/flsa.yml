@@ -1,0 +1,11 @@
+version: 1.5.2
+title: Path Algorithm for the General Fused Lasso Signal Approximator
+maintainer: Holger Hoefling
+description: |-
+  Implements a path algorithm for the Fused Lasso Signal Approximator.
+  For more details see the help files or the article by Hoefling (2009) <arXiv:0910.0526>.
+date_publication: '2020-02-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=flsa
+url_git: ''

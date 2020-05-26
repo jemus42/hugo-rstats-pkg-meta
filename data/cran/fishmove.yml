@@ -1,0 +1,11 @@
+version: 0.3-3
+title: Prediction of Fish Movement Parameters
+maintainer: Johannes Radinger
+description: 'Functions to predict fish movement parameters plotting leptokurtic fish
+  dispersal kernels (see Radinger and Wolter, 2014: Patterns and predictors of fish
+  dispersal in rivers. Fish and Fisheries. 15:456-473.)'
+date_publication: '2015-05-07'
+bug_reports: ''
+url: http://dx.doi.org/10.1111/faf.12028
+url_cran: https://CRAN.R-project.org/package=fishmove
+url_git: ''

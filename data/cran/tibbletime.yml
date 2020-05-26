@@ -1,0 +1,14 @@
+version: 0.1.3
+title: Time Aware Tibbles
+maintainer: Davis Vaughan
+description: |-
+  Built on top of the 'tibble' package, 'tibbletime' is an extension
+  that allows for the creation of time aware tibbles. Some immediate
+  advantages of this include: the ability to perform time-based subsetting
+  on tibbles, quickly summarising and aggregating results by time periods,
+  and creating columns that can be used as 'dplyr' time-based groups.
+date_publication: '2019-09-20'
+bug_reports: https://github.com/business-science/tibbletime/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tibbletime
+url_git: https://github.com/business-science/tibbletime

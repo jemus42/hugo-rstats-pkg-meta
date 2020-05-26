@@ -1,0 +1,9 @@
+version: '1.01'
+title: Automated Large Linear Analysis Node
+maintainer: Alan Lee
+description: Automated fitting of linear regression models and a<U+000a>stepwise routine
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=allan
+url_git: ''

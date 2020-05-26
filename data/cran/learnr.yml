@@ -1,0 +1,12 @@
+version: 0.10.1
+title: Interactive Tutorials for R
+maintainer: Barret Schloerke
+description: |-
+  Create interactive tutorials using R Markdown. Use a combination
+  of narrative, figures, videos, exercises, and quizzes to create self-paced
+  tutorials for learning about R and R packages.
+date_publication: '2020-02-13'
+bug_reports: https://github.com/rstudio/learnr/issues
+url: https://rstudio.github.io/learnr/
+url_cran: https://CRAN.R-project.org/package=learnr
+url_git: https://github.com/rstudio/learnr

@@ -1,0 +1,16 @@
+version: 0.0.9
+title: R to Solr Interface
+maintainer: Michael Lawrence
+description: |-
+  A comprehensive R API for querying Apache Solr databases.
+  A Solr core is represented as a data frame or list that
+  supports Solr-side filtering, sorting,
+  transformation and aggregation, all through the familiar
+  base R API. Queries are processed
+  lazily, i.e., a query is only sent to the database when
+  the data are required.
+date_publication: '2018-08-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rsolr
+url_git: ''

@@ -1,0 +1,17 @@
+version: 0.3.0
+title: Integro-Difference Equation Spatio-Temporal Models
+maintainer: Andrew Zammit-Mangion
+description: |-
+  The Integro-Difference Equation model is a linear, dynamical model used to model
+  phenomena that evolve in space and in time; see, for example, Cressie and Wikle (2011,
+  ISBN:978-0-471-69274-4) or Dewar et al. (2009) <doi:10.1109/TSP.2008.2005091>. At the
+  heart of the model is the kernel, which dictates how the process evolves from one time
+  point to the next. Both process and parameter reduction are used to facilitate computation,
+  and spatially-varying kernels are allowed. Data used to estimate the parameters are assumed
+  to be readings of the process corrupted by Gaussian measurement error. Parameters are fitted
+  by maximum likelihood, and estimation is carried out using an evolution algorithm.
+date_publication: '2019-06-24'
+bug_reports: http://github.com/andrewzm/IDE/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=IDE
+url_git: ''

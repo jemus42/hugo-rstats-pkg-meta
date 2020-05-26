@@ -1,0 +1,14 @@
+version: 2.0.0
+title: Tools for Developing R Packages Interfacing with 'Stan'
+maintainer: Jonah Gabry
+description: |-
+  Provides various tools for developers of R packages interfacing
+  with 'Stan' <https://mc-stan.org>, including functions to set up the required
+  package structure, S3 generics and default methods to unify function naming
+  across 'Stan'-based R packages, and vignettes with recommendations for
+  developers.
+date_publication: '2019-09-15'
+bug_reports: https://github.com/stan-dev/rstantools/issues
+url: https://mc-stan.org/rstantools/
+url_cran: https://CRAN.R-project.org/package=rstantools
+url_git: ''

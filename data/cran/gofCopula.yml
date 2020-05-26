@@ -1,0 +1,18 @@
+version: 0.3-2
+title: Goodness-of-Fit Tests for Copulae
+maintainer: Simon Trimborn
+description: Several Goodness-of-Fit (GoF) tests for Copulae are provided. A new hybrid
+  test, Zhang et al. (2016) <doi:10.1016/j.jeconom.2016.02.017> is implemented which
+  supports all of the individual tests in the package, e.g. Genest et al. (2009) <doi:10.1016/j.insmatheco.2007.10.005>.
+  Estimation methods for the margins are provided and all the tests support parameter
+  estimation and predefined values. The parameters are estimated by pseudo maximum
+  likelihood but if it fails the estimation switches automatically to inversion of
+  Kendall's tau. For reproducibility of results, the functions support the definition
+  of seeds. Also all the tests support automatized parallelization of the bootstrapping
+  tasks. The package provides an interface to perform new GoF tests by submitting
+  the test statistic.
+date_publication: '2020-03-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gofCopula
+url_git: ''

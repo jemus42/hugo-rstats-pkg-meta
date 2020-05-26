@@ -1,0 +1,14 @@
+version: 1.4.0
+title: |-
+  Operationalizing Social Determinants of Health Data for
+  Researchers
+maintainer: Nik Krieger
+description: |-
+  Accesses raw data via API and calculates social
+  determinants of health measures for user-specified locations in the
+  US, returning them in tidyverse- and sf-compatible data frames.
+date_publication: '2020-03-19'
+bug_reports: https://github.com/NikKrieger/sociome/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sociome
+url_git: ''

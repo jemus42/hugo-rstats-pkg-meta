@@ -1,0 +1,13 @@
+version: 0.9.3
+title: |-
+  Data Cloud Geometry (DCG): Using Random Walks to Find Community
+  Structure in Social Network Analysis
+maintainer: Jessica Vandeleest
+description: |-
+  Data cloud geometry (DCG) applies random walks in finding community structures for social networks.
+  Fushing, VanderWaal, McCowan, & Koehl (2013) (<doi:10.1371/journal.pone.0056259>).
+date_publication: '2019-04-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DCG
+url_git: ''

@@ -1,0 +1,9 @@
+version: 1.1.0
+title: Liquid Association for Network Dynamics Detection
+maintainer: Shangzhao Qiu
+description: Using Liquid Association for Network Dynamics Detection.
+date_publication: '2016-10-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LANDD
+url_git: ''

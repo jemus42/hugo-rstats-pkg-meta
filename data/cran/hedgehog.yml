@@ -1,0 +1,17 @@
+version: '0.1'
+title: Property-Based Testing
+maintainer: Huw Campbell
+description: |-
+  Hedgehog will eat all your bugs.
+  'Hedgehog' is a property-based testing package in the spirit
+  of 'QuickCheck'. With 'Hedgehog', one can test properties
+  of their programs against randomly generated input, providing
+  far superior test coverage compared to unit testing. One of the
+  key benefits of 'Hedgehog' is integrated shrinking of
+  counterexamples, which allows one to quickly find the cause of
+  bugs, given salient examples when incorrect behaviour occurs.
+date_publication: '2018-08-22'
+bug_reports: https://github.com/hedgehogqa/r-hedgehog/issues
+url: https://hedgehog.qa
+url_cran: https://CRAN.R-project.org/package=hedgehog
+url_git: ''

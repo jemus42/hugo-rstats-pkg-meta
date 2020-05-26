@@ -1,0 +1,10 @@
+version: '2.0'
+title: A Bayesian Nonparametric Algorithm for Time Series Clustering
+maintainer: David Alejandro Martell Juarez
+description: Performs the algorithm for time series clustering described in Nieto-Barajas
+  and Contreras-Cristan (2014).
+date_publication: '2019-08-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BNPTSclust
+url_git: ''

@@ -1,0 +1,11 @@
+version: '1.0'
+title: Model-Based Clustering for RNA-seq Data
+maintainer: Yaqing Si
+description: |-
+  Cluster genes based on Poisson or Negative-Binomial model
+  for RNA-Seq or other digital gene expression (DGE) data
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MBCluster.Seq
+url_git: ''

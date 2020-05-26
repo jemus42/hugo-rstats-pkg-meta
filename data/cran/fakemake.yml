@@ -1,0 +1,12 @@
+version: 1.7.1
+title: Mock the Unix Make Utility
+maintainer: Andreas Dominik Cullmann
+description: |-
+  Use R as a minimal build system. This might come in
+  handy if you are developing R packages and can not use a proper build
+  system. Stay away if you can (use a proper build system).
+date_publication: '2020-04-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fakemake
+url_git: https://gitlab.com/fvafrcu/fakemake

@@ -1,0 +1,17 @@
+version: 0.0.3
+title: Randomized Response Techniques for Complex Surveys
+maintainer: Beatriz Cobo Rodríguez
+description: |-
+  Point and interval estimation of linear parameters with data
+  obtained from complex surveys (including stratified and clustered samples)
+  when randomization techniques are used. The randomized response technique
+  was developed to obtain estimates that are more valid when studying
+  sensitive topics. Estimators and variances for 14 randomized response
+  methods for qualitative variables and 7 randomized response methods for
+  quantitative variables are also implemented. In addition, some data sets
+  from surveys with these randomization methods are included in the package.
+date_publication: '2015-11-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RRTCS
+url_git: ''

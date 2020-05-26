@@ -1,0 +1,11 @@
+version: 0.3.2
+title: Italian Fiscal Code ('Codice Fiscale') Utilities
+maintainer: Luca Braglia
+description: |-
+  Provides utility functions to deal with Italian fiscal
+  code ('codice fiscale').
+date_publication: '2015-12-30'
+bug_reports: http://github.com/lbraglia/ifctools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ifctools
+url_git: http://github.com/lbraglia/ifctools

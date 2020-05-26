@@ -1,0 +1,15 @@
+version: 5.0.18
+title: Convenient Functions for Ensemble Time Series Forecasts
+maintainer: David Shaub
+description: |-
+  Convenient functions for ensemble forecasts in R combining
+  approaches from the 'forecast' package. Forecasts generated from auto.arima(), ets(),
+  thetaf(), nnetar(), stlm(), tbats(), and snaive() can be combined with equal weights, weights
+  based on in-sample errors (introduced by Bates & Granger (1969) <doi:10.1057/jors.1969.103>),
+  or cross-validated weights. Cross validation for time series data with user-supplied models
+  and forecasting functions is also supported to evaluate model accuracy.
+date_publication: '2020-04-02'
+bug_reports: https://github.com/ellisp/forecastHybrid/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=forecastHybrid
+url_git: https://gitlab.com/dashaub/forecastHybrid

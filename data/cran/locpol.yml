@@ -1,0 +1,12 @@
+version: 0.7-0
+title: Kernel Local Polynomial Regression
+maintainer: Jorge Luis Ojeda Cabrera
+description: |-
+  Computes local polynomial estimators for
+  the regression and also density. It comprises several
+  different utilities to handle kernel estimators.
+date_publication: '2018-05-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=locpol
+url_git: ''

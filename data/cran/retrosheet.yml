@@ -1,0 +1,14 @@
+version: 1.1.2
+title: Import Professional Baseball Data from 'Retrosheet'
+maintainer: Colin Douglas
+description: |-
+  A collection of tools to import and structure the (currently) single-season
+  event, game-log, roster, and schedule data available from <http://www.retrosheet.org>.
+  In particular, the event (a.k.a. play-by-play) files can be especially difficult to parse.
+  This package does the parsing on those files, returning the requested data in the most
+  practical R structure to use for sabermetric or other analyses.
+date_publication: '2020-05-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=retrosheet
+url_git: http://github.com/colindouglas/retrosheet

@@ -1,0 +1,10 @@
+version: 1.0-4
+title: Data for topographic and Geologic Mapping
+maintainer: Jonathan M. Lees<jonathan.lees@unc.edu>
+description: Set of data for use in package GEOmap.  Includes world<U+000a>map, USA
+  map, Coso map, Japan Map, ETOPO5
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=geomapdata
+url_git: ''

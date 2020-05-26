@@ -1,0 +1,10 @@
+version: 1.2.4.2
+title: Bayesian Additive Regression Trees
+maintainer: Adam Kapelner
+description: An advanced implementation of Bayesian Additive Regression Trees with
+  expanded features for data analysis and visualization.
+date_publication: '2018-05-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bartMachine
+url_git: ''

@@ -1,0 +1,13 @@
+version: 1.0.7
+title: |-
+  Likelihood Estimation of Admixture in Parents From Offspring
+  Genotypes
+maintainer: Daniel JM Crouch
+description: Contains LEAPFrOG Gradient Optimisation and Expectation Maximisation
+  functions for inferring parental admixture proportions from an offspring with SNP
+  genotypes.
+date_publication: '2014-08-13'
+bug_reports: ''
+url: http://sites.google.com/site/mikeweale
+url_cran: https://CRAN.R-project.org/package=LEAPFrOG
+url_git: ''

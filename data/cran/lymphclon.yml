@@ -1,0 +1,14 @@
+version: 1.3.0
+title: |-
+  Accurate Estimation of Clonal Coincidences and Abundances from
+  Biological Replicates
+maintainer: Yi Liu
+description: We provide a clonality score estimator that takes full advantage of the
+  multi-biological-replicate structure of modern sequencing experiments; it specifically
+  takes into account the reality that, typically, the clonal coverage is well below
+  0.1%.
+date_publication: '2014-11-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lymphclon
+url_git: ''

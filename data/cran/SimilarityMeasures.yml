@@ -1,0 +1,16 @@
+version: '1.4'
+title: Trajectory Similarity Measures
+maintainer: Kevin Toohey
+description: |-
+  Functions to run and assist four
+  different similarity measures. The similarity
+  measures included are: longest common
+  subsequence (LCSS), Frechet distance, edit distance
+  and dynamic time warping (DTW). Each of these
+  similarity measures can be calculated from two
+  n-dimensional trajectories, both in matrix form.
+date_publication: '2015-02-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SimilarityMeasures
+url_git: ''

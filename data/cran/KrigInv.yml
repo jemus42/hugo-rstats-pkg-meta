@@ -1,0 +1,12 @@
+version: 1.4.1
+title: |-
+  Kriging-Based Inversion for Deterministic and Noisy Computer
+  Experiments
+maintainer: Clement Chevalier
+description: Criteria and algorithms for sequentially estimating level sets of a multivariate
+  numerical function, possibly observed with noise.
+date_publication: '2018-09-11'
+bug_reports: ''
+url: https://www.sciencedirect.com/science/article/pii/S0167947313001060
+url_cran: https://CRAN.R-project.org/package=KrigInv
+url_git: ''

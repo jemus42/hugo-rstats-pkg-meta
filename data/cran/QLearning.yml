@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Reinforcement Learning using the Q Learning Algorithm
+maintainer: Liam Bressler
+description: |-
+  Implements Q-Learning, a model-free form of reinforcement
+  learning, described in work by Strehl, Li, Wiewiora, Langford &
+  Littman (2006) <doi:10.1145/1143844.1143955>.
+date_publication: '2017-09-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=QLearning
+url_git: ''

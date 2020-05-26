@@ -1,0 +1,12 @@
+version: 0.9.5
+title: Bayesian Structural Time Series
+maintainer: Steven L. Scott
+description: |-
+  Time series regression using dynamic linear models fit using
+  MCMC. See Scott and Varian (2014) <DOI:10.1504/IJMMNO.2014.059942>, among many
+  other sources.
+date_publication: '2020-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bsts
+url_git: ''

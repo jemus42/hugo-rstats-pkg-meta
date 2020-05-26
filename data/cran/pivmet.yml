@@ -1,0 +1,16 @@
+version: 0.2.0
+title: Pivotal Methods for Bayesian Relabelling and k-Means Clustering
+maintainer: Leonardo Egidi
+description: |-
+  Collection of pivotal algorithms
+  for: relabelling the MCMC chains in order to undo the label
+  switching problem in Bayesian mixture models,
+  as proposed in Egidi, Pappadà, Pauli and Torelli (2018a)<doi:10.1007/s11222-017-9774-2>;
+  initializing the centers of the classical k-means algorithm
+  in order to obtain a better clustering solution. For further details see
+  Egidi, Pappadà, Pauli and Torelli (2018b)<ISBN:9788891910233>.
+date_publication: '2019-06-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pivmet
+url_git: https://github.com/leoegidi/pivmet

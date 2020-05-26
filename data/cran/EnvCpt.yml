@@ -1,0 +1,14 @@
+version: 1.1.1
+title: |-
+  Detection of Structural Changes in Climate and Environment Time
+  Series
+maintainer: Rebecca Killick
+description: Tools for automatic model selection and diagnostics for Climate and Environmental
+  data.  In particular the envcpt() function does automatic model selection between
+  a variety of trend, changepoint and autocorrelation models.  The envcpt() function
+  should be your first port of call.
+date_publication: '2018-09-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EnvCpt
+url_git: https://github.com/rkillick/EnvCpt/

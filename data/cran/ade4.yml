@@ -1,0 +1,15 @@
+version: 1.7-15
+title: |-
+  Analysis of Ecological Data: Exploratory and Euclidean Methods
+  in Environmental Sciences
+maintainer: Aurélie Siberchicot
+description: Tools for multivariate data analysis. Several methods are provided for
+  the analysis (i.e., ordination) of one-table (e.g., principal component analysis,
+  correspondence analysis), two-table (e.g., coinertia analysis, redundancy analysis),
+  three-table (e.g., RLQ analysis) and K-table (e.g., STATIS, multiple coinertia analysis).
+  The philosophy of the package is described in Dray and Dufour (2007) <doi:10.18637/jss.v022.i04>.
+date_publication: '2020-02-13'
+bug_reports: https://github.com/sdray/ade4/issues
+url: http://pbil.univ-lyon1.fr/ADE-4
+url_cran: https://CRAN.R-project.org/package=ade4
+url_git: ''

@@ -1,0 +1,14 @@
+version: 0.1.0
+title: Create an SVG-Based Mathematical Formula
+maintainer: Richard Iannone
+description: |-
+  If you have a mathematical formula and the need to have that
+  formula in the form of scalable vector graphics (SVG), you'll be
+  delighted by what 'eqn2svg' will let you do. The incoming LaTeX math formula
+  will be nicely converted to SVG tags. And you can use that code wherever
+  SVGs are accepted.
+date_publication: '2019-10-06'
+bug_reports: https://github.com/rich-iannone/eqn2svg/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=eqn2svg
+url_git: https://github.com/rich-iannone/eqn2svg

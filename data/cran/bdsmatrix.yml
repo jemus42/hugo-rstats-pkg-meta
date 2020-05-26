@@ -1,0 +1,9 @@
+version: 1.3-4
+title: Routines for Block Diagonal Symmetric Matrices
+maintainer: Terry Therneau
+description: This is a special case of sparse matrices, used by coxme.
+date_publication: '2020-01-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bdsmatrix
+url_git: ''

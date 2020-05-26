@@ -1,0 +1,11 @@
+version: '1.0'
+title: Symmetric Tempered Stable Distributions
+maintainer: Michael Grabchak
+description: Contains methods for simulation and for evaluating the pdf, cdf, and
+  quantile functions for symmetric stable, symmetric classical tempered stable, and
+  symmetric power tempered stable distributions.
+date_publication: '2017-03-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SymTS
+url_git: ''

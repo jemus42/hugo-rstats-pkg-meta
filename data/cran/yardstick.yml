@@ -1,0 +1,11 @@
+version: 0.0.6
+title: Tidy Characterizations of Model Performance
+maintainer: Davis Vaughan
+description: Tidy tools for quantifying how well model fits to a data set such as
+  confusion matrices, class probability curve summaries, and regression metrics (e.g.,
+  RMSE).
+date_publication: '2020-03-17'
+bug_reports: https://github.com/tidymodels/yardstick/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=yardstick
+url_git: https://github.com/tidymodels/yardstick

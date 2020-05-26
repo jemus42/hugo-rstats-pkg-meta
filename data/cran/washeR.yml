@@ -1,0 +1,12 @@
+version: 0.1.2
+title: Time Series Outlier Detection
+maintainer: Andrea Venturini
+description: 'Time series outlier detection by mean of non parametric test. Outlier
+  detection regarding two methodologies: single time series variability (a vector)
+  and grouped similar time series (a data frame). Andrea Venturini(2011) Statistica-Universita''
+  Bologna, Vol.71, pp.329-344.'
+date_publication: '2018-07-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=washeR
+url_git: ''

@@ -1,0 +1,15 @@
+version: '1.0'
+title: |-
+  Color schemes compatible with red-green color perception
+  difficulties
+maintainer: James Manton
+description: |-
+  This package is a port of the MATLAB colourmap functions
+  accompanying the paper M. Geissbuehler and T. Lasser, "How to display data
+  by color schemes compatible with red-green color perception deficiencies,"
+  Opt. Express 21, 9862-9874 (2013) to R.
+date_publication: '2014-02-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=morgenstemning
+url_git: https://github.com/ajdm/morgenstemning

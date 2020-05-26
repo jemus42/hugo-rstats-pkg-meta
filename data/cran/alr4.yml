@@ -1,0 +1,13 @@
+version: 1.0.6
+title: Data to Accompany Applied Linear Regression 4th Edition
+maintainer: Sanford Weisberg
+description: |-
+  Datasets to Accompany S. Weisberg (2014, ISBN: 978-1-118-38608-8),
+  "Applied Linear Regression," 4th edition.  Many data files
+  in this package are included in the `alr3` package as well, so only one of them
+  should be used.
+date_publication: '2018-04-20'
+bug_reports: ''
+url: http://www.z.umn.edu/alr4ed
+url_cran: https://CRAN.R-project.org/package=alr4
+url_git: ''

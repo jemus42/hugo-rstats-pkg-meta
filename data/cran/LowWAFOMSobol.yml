@@ -1,0 +1,11 @@
+version: 1.1.1
+title: Low WAFOM Sobol Sequence
+maintainer: Mutsuo Saito
+description: |-
+  Implementation of Low Walsh Figure of Merit (WAFOM) sequence
+  based on Sobol sequence.
+date_publication: '2017-08-29'
+bug_reports: ''
+url: https://mersennetwister-lab.github.io/LowWAFOMSobol/
+url_cran: https://CRAN.R-project.org/package=LowWAFOMSobol
+url_git: ''

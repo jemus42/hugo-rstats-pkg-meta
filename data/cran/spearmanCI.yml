@@ -1,0 +1,12 @@
+version: '1.0'
+title: |-
+  Jackknife Euclidean / Empirical Likelihood Inference for
+  Spearman's Rho
+maintainer: Miguel de Carvalho
+description: Functions for conducting jackknife Euclidean / empirical likelihood inference
+  for Spearman's rho (de Carvalho and Marques (2012) <10.1080/10920277.2012.10597644>).
+date_publication: '2018-05-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spearmanCI
+url_git: ''

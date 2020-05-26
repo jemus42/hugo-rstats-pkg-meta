@@ -1,0 +1,14 @@
+version: '2.1'
+title: Provides an R Interface to 'Enrichr'
+maintainer: Wajid Jawaid
+description: Provides an R interface to all 'Enrichr' databases. 'Enrichr' is a web-based
+  tool for analysing gene sets and returns any enrichment of common annotated biological
+  features. Quoting from their website 'Enrichment analysis is a computational method
+  for inferring knowledge about an input gene set by comparing it to annotated gene
+  sets representing prior biological knowledge.' See (<http://amp.pharm.mssm.edu/Enrichr/>)
+  for further details.
+date_publication: '2019-08-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=enrichR
+url_git: ''

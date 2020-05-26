@@ -1,0 +1,18 @@
+version: 1.5-2
+title: PLS Analyses for Genomics
+maintainer: Ghislain Durif
+description: |-
+  Routines for PLS-based genomic analyses,
+  implementing PLS methods for classification with
+  microarray data and prediction of transcription factor
+  activities from combined ChIP-chip analysis. The >=1.2-1
+  versions include two new classification methods for microarray
+  data: GSIM and Ridge PLS. The >=1.3 versions includes a
+  new classification method combining variable selection and
+  compression in logistic regression context: logit-SPLS; and
+  an adaptive version of the sparse PLS.
+date_publication: '2018-08-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=plsgenomics
+url_git: ''

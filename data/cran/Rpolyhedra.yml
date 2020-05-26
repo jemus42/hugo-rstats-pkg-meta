@@ -1,0 +1,10 @@
+version: 0.4.2
+title: Polyhedra Database
+maintainer: Alejandro Baranek
+description: A polyhedra database scraped from various sources as R6 objects and 'rgl'
+  visualizing capabilities.
+date_publication: '2019-03-26'
+bug_reports: https://github.com/ropensci/Rpolyhedra/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rpolyhedra
+url_git: https://github.com/ropensci/Rpolyhedra

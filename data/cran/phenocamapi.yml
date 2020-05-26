@@ -1,0 +1,11 @@
+version: 0.1.5
+title: Interacting with the PhenoCam Data and API
+maintainer: Bijan Seyednasrollah
+description: A bundle to facilitate working with PhenoCam timeseries and data.   The
+  user would be able to obtain phenological time-series and site metadata from the
+  PhenoCam network <https://phenocam.sr.unh.edu/webcam/>.
+date_publication: '2019-05-20'
+bug_reports: https://github.com/bnasr/phenocamapi/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=phenocamapi
+url_git: https://github.com/bnasr/phenocamapi/

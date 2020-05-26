@@ -1,0 +1,10 @@
+version: 2013.03.29
+title: retrieve and build NBCI taxonomic data
+maintainer: Jon Eastman
+description: making NCBI taxonomic data locally available and<U+000a>searchable as
+  an R object
+date_publication: '2013-04-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ncbit
+url_git: ''

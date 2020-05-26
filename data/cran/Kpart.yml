@@ -1,0 +1,10 @@
+version: 1.2.2
+title: Cubic Spline Fitting with Knot Selection
+maintainer: Eric Golinko
+description: Cubic spline fitting along with knot selection, includes support for
+  additional variables.
+date_publication: '2018-05-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Kpart
+url_git: ''

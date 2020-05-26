@@ -1,0 +1,13 @@
+version: '0.5'
+title: |-
+  Imports Datasets from BCB (Central Bank of Brazil) using Its
+  Official API
+maintainer: Marcelo Perlin
+description: |-
+  Downloads and organizes datasets using BCB's API <https://www.bcb.gov.br/>. Offers options for caching with the 'memoise' package and
+  , multicore/multisession with 'furrr' and format of output data (long/wide).
+date_publication: '2019-04-23'
+bug_reports: https://github.com/msperlin/GetBCBData/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=GetBCBData
+url_git: https://github.com/msperlin/GetBCBData/

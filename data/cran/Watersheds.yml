@@ -1,0 +1,11 @@
+version: '1.1'
+title: |-
+  Spatial Watershed Aggregation and Spatial Drainage Network
+  Analysis
+maintainer: J. A. Torres-Matallana
+description: Methods for watersheds aggregation and spatial drainage network analysis.
+date_publication: '2016-02-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Watersheds
+url_git: ''

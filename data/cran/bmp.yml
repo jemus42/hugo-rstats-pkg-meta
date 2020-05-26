@@ -1,0 +1,12 @@
+version: '0.3'
+title: Read Windows Bitmap (BMP) Images
+maintainer: Gregory Jefferis
+description: |-
+  Reads Windows BMP format images. Currently limited to 8 bit
+  greyscale images and 24,32 bit (A)RGB images. Pure R implementation without
+  external dependencies.
+date_publication: '2017-09-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bmp
+url_git: ''

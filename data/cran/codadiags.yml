@@ -1,0 +1,10 @@
+version: '1.0'
+title: Markov chain Monte Carlo burn-in based on "bridge" statistics
+maintainer: Yann Richet
+description: Markov chain Monte Carlo burn-in based on "bridge" statistics, in the
+  way of coda::heidel.diag, but including non asymptotic tabulated statistics.
+date_publication: '2013-11-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=codadiags
+url_git: ''

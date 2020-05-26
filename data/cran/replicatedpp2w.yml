@@ -1,0 +1,11 @@
+version: 0.1-2
+title: Two-Way ANOVA-Like Method to Analyze Replicated Point Patterns
+maintainer: Marcelino de la Cruz
+description: Test for effects of  both individual factors and their interaction on  replicated
+  spatial patterns in a two factorial design, as explained in Ramon et al. (2016)
+  <doi:10.1111/ecog.01848>.
+date_publication: '2017-11-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=replicatedpp2w
+url_git: ''

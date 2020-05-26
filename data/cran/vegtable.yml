@@ -1,0 +1,13 @@
+version: 0.1.6
+title: Handling Vegetation Data Sets
+maintainer: Miguel Alvarez
+description: |-
+  Import and handling data from vegetation-plot databases, especially
+  data stored in 'Turboveg' (<https://www.synbiosys.alterra.nl/turboveg>).
+  Also import/export routines for exchange of data with 'Juice'
+  (<http://www.sci.muni.cz/botany/juice>) are implemented.
+date_publication: '2020-04-30'
+bug_reports: https://github.com/kamapu/vegtable/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=vegtable
+url_git: https://github.com/kamapu/vegtable

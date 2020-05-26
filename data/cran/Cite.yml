@@ -1,0 +1,12 @@
+version: 0.1.0
+title: |-
+  An RStudio Addin to Insert BibTex Citation in Rmarkdown
+  Documents
+maintainer: Sylvain Schmitt
+description: Contain an RStudio addin to insert BibTex citation in Rmarkdown documents
+  with a minimal user interface.
+date_publication: '2016-07-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Cite
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.3.1
+title: '''Htmlwidget'' for ''Vega'' and ''Vega-Lite'''
+maintainer: Ian Lyttle
+description: |-
+  'Vega' and 'Vega-Lite' parse text in 'JSON' notation to render
+  chart-specifications into 'HTML'. This package is used to facilitate the
+  rendering. It also provides a means to interact with signals, events,
+  and datasets in a 'Vega' chart using 'JavaScript' or 'Shiny'.
+date_publication: '2020-01-22'
+bug_reports: https://github.com/vegawidget/vegawidget/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=vegawidget
+url_git: https://github.com/vegawidget/vegawidget

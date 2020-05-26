@@ -1,0 +1,12 @@
+version: '1.0'
+title: DE Analysis of RNA-Seq Data by Mixtures of NB
+maintainer: Cinzia Viroli
+description: Differential expression analysis of RNA-Seq data when replicates under
+  two conditions are available is performed. First, mixtures of Negative Binomial
+  distributions are fitted on the data in order to estimate the dispersions, then
+  the Wald test is computed.
+date_publication: '2015-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mixtNB
+url_git: ''

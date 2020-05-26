@@ -1,0 +1,14 @@
+version: 1.3.0
+title: The Bayesian Causal Effect Estimation Algorithm
+maintainer: Denis Talbot
+description: |-
+  A Bayesian model averaging approach to causal effect estimation
+  based on the BCEE algorithm. Currently supports binary or continuous
+  exposures and outcomes. For more details, see
+  Talbot et al. (2015) <doi:10.1515/jci-2014-0035>
+  Talbot and Beaudoin (2020) <arXiv:2003.11588>.
+date_publication: '2020-04-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BCEE
+url_git: ''

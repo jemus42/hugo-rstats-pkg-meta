@@ -1,0 +1,14 @@
+version: 0.2.0
+title: Helper Functions for 'mlr3'
+maintainer: Michel Lang
+description: |-
+  Frequently used helper functions and assertions
+  used in 'mlr3' and its companion packages. Comes with helper functions
+  for functional programming, for printing, to work with 'data.table',
+  as well as some generally useful 'R6' classes. This package also
+  supersedes the package 'BBmisc'.
+date_publication: '2020-04-15'
+bug_reports: https://github.com/mlr-org/mlr3misc/issues
+url: https://mlr3misc.mlr-org.com
+url_cran: https://CRAN.R-project.org/package=mlr3misc
+url_git: https://github.com/mlr-org/mlr3misc

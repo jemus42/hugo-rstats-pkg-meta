@@ -1,0 +1,10 @@
+version: 1.2-2
+title: Vowel Manipulation, Normalization, and Plotting
+maintainer: Tyler Kendall
+description: Procedures for the manipulation, normalization, and plotting of phonetic
+  and sociophonetic vowel formant data.  vowels is the backend for the NORM website.
+date_publication: '2018-03-05'
+bug_reports: ''
+url: http://blogs.uoregon.edu/vowels/
+url_cran: https://CRAN.R-project.org/package=vowels
+url_git: ''

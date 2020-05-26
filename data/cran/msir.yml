@@ -1,0 +1,10 @@
+version: 1.3.2
+title: Model-Based Sliced Inverse Regression
+maintainer: Luca Scrucca
+description: An R package for dimension reduction based on finite Gaussian mixture
+  modeling of inverse regression.
+date_publication: '2019-03-15'
+bug_reports: ''
+url: https://mclust-org.github.io/msir
+url_cran: https://CRAN.R-project.org/package=msir
+url_git: ''

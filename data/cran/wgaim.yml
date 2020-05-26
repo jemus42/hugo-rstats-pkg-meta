@@ -1,0 +1,13 @@
+version: 2.0-1
+title: |-
+  Whole Genome Average Interval Mapping for QTL Detection and
+  Estimation using ASReml-R
+maintainer: Julian Taylor
+description: A computationally efficient whole genome approach to detecting and estimating
+  significant QTL in linkage maps using the flexible linear mixed modelling functionality
+  of ASReml-R.
+date_publication: '2019-10-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=wgaim
+url_git: ''

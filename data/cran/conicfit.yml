@@ -1,0 +1,15 @@
+version: 1.0.4
+title: |-
+  Algorithms for Fitting Circles, Ellipses and Conics Based on the
+  Work by Prof. Nikolai Chernov
+maintainer: Jose Gama
+description: Geometric circle fitting with Levenberg-Marquardt (a, b, R), Levenberg-Marquardt
+  reduced (a, b), Landau, Spath and Chernov-Lesort. Algebraic circle fitting with
+  Taubin, Kasa, Pratt and Fitzgibbon-Pilu-Fisher. Geometric ellipse fitting with ellipse
+  LMG (geometric parameters) and conic LMA (algebraic parameters). Algebraic ellipse
+  fitting with Fitzgibbon-Pilu-Fisher and Taubin.
+date_publication: '2015-10-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=conicfit
+url_git: ''

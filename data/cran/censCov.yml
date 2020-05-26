@@ -1,0 +1,14 @@
+version: 1.0-0
+title: Linear Regression with a Randomly Censored Covariate
+maintainer: Sy Han (Steven) Chiou
+description: |-
+  Implementations of threshold regression approaches for linear
+  regression models with a covariate subject to random censoring,
+  including deletion threshold regression and completion threshold regression.
+  Reverse survival regression, which flip the role of response variable and the
+  covariate, is also considered.
+date_publication: '2017-04-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=censCov
+url_git: ''

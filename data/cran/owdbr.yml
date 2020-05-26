@@ -1,0 +1,10 @@
+version: 1.0.1.1
+title: Open Welfare Data Brazil
+maintainer: Joao Pedro Oliveira dos Santos
+description: Tools for collecting municipal-level data <http://www.transparencia.gov.br/swagger-ui.html>
+  from several Brazilian governmental social programs.
+date_publication: '2019-11-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=owdbr
+url_git: https://github.com/kimjoaoun/owdbr

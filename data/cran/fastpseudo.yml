@@ -1,0 +1,10 @@
+version: '0.1'
+title: Fast Pseudo Observations
+maintainer: Dayne Batten
+description: Computes pseudo-observations for survival analysis on right-censored
+  data based on restricted mean survival time.
+date_publication: '2015-02-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fastpseudo
+url_git: ''

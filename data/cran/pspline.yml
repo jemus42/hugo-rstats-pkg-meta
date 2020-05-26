@@ -1,0 +1,9 @@
+version: 1.0-18
+title: Penalized Smoothing Splines
+maintainer: Brian Ripley
+description: Smoothing splines with penalties on order m derivatives.
+date_publication: '2017-06-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pspline
+url_git: ''

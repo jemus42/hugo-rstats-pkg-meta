@@ -1,0 +1,11 @@
+version: 0.8.3
+title: Computationally Efficient Queue Simulation
+maintainer: Anthony Ebert
+description: |-
+  Implementation of a computationally efficient method for
+  simulating queues with arbitrary arrival and service times.
+date_publication: '2018-10-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=queuecomputer
+url_git: https://github.com/AnthonyEbert/queuecomputer

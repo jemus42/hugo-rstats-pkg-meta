@@ -1,0 +1,10 @@
+version: 0.0.1
+title: Graficas Versatiles Con 'ggplot2'
+maintainer: Raymond L. Tremblay
+description: 'A collection of datasets for the upcoming book "Graficas versatiles
+  con ggplot: Analisis visuales de datos", by Raymond L. Tremblay and Julian Hernandez-Serano.'
+date_publication: '2017-08-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggversa
+url_git: ''

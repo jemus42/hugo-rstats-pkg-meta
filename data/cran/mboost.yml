@@ -1,0 +1,14 @@
+version: 2.9-2
+title: Model-Based Boosting
+maintainer: Benjamin Hofner
+description: |-
+  Functional gradient descent algorithm
+  (boosting) for optimizing general risk functions utilizing
+  component-wise (penalised) least squares estimates or regression
+  trees as base-learners for fitting generalized linear, additive
+  and interaction models to potentially high-dimensional data.
+date_publication: '2020-02-18'
+bug_reports: https://github.com/boost-R/mboost/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mboost
+url_git: https://github.com/boost-R/mboost

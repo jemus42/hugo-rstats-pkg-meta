@@ -1,0 +1,11 @@
+version: 1.0.11
+title: Functions for Phylogenetically Based Statistical Analyses
+maintainer: Ramon Diaz-Uriarte
+description: |-
+  Manipulation and analysis of phylogenetically simulated
+  data sets and phylogenetically based analyses using GLS.
+date_publication: '2020-04-14'
+bug_reports: ''
+url: http://ligarto.org/rdiaz
+url_cran: https://CRAN.R-project.org/package=PHYLOGR
+url_git: ''

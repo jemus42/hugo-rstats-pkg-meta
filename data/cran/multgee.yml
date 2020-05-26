@@ -1,0 +1,13 @@
+version: 1.7.0
+title: |-
+  GEE Solver for Correlated Nominal or Ordinal Multinomial
+  Responses
+maintainer: Anestis Touloumis
+description: |-
+  GEE solver for correlated nominal or ordinal multinomial responses
+  using a local odds ratios parameterization.
+date_publication: '2020-04-20'
+bug_reports: http://github.com/AnestisTouloumis/multgee/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=multgee
+url_git: http://github.com/AnestisTouloumis/multgee

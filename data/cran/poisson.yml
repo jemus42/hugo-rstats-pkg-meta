@@ -1,0 +1,10 @@
+version: '1.0'
+title: Simulating Homogenous & Non-Homogenous Poisson Processes
+maintainer: Daniel Slade
+description: Contains functions and classes for simulating, plotting and analysing
+  homogenous and non-homogenous Poisson processes.
+date_publication: '2015-10-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=poisson
+url_git: ''

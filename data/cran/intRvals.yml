@@ -1,0 +1,10 @@
+version: 1.0.0
+title: Analysis of Time-Ordered Event Data with Missed Observations
+maintainer: Adriaan M. Dokter
+description: Calculates event rates and compares means and variances of groups of
+  interval data corrected for missed arrival observations.
+date_publication: '2017-06-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=intRvals
+url_git: ''

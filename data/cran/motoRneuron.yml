@@ -1,0 +1,19 @@
+version: 1.0.0
+title: |-
+  Analyzing Paired Neuron Discharge Times for Time-Domain
+  Synchronization
+maintainer: Andrew Tweedell
+description: |-
+  The temporal relationship between motor neurons can offer
+  explanations for neural strategies. We combined functions to reduce neuron
+  action potential discharge data and analyze it for short-term, time-domain
+  synchronization. Even more so, motoRneuron combines most available methods
+  for the determining cross correlation histogram peaks and most available
+  indices for calculating synchronization into simple functions. See
+  Nordstrom, Fuglevand, and Enoka (1992) <doi:10.1113/jphysiol.1992.sp019244>
+  for a more thorough introduction.
+date_publication: '2019-02-26'
+bug_reports: http://github.com/tweedell/motoRneuron/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=motoRneuron
+url_git: http://github.com/tweedell/motoRneuron

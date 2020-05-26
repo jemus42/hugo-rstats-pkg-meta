@@ -1,0 +1,12 @@
+version: '1.6'
+title: Single Channel Bursts Analysis
+maintainer: Blair Drummond
+description: Provides tools to import and export from several existing pieces of ion-channel
+  analysis software such as 'TAC', 'QUB', 'SCAN', and 'Clampfit', implements procedures
+  such as dwell-time correction and defining bursts with a critical time, and provides
+  tools for analysis of bursts, such as tools for sorting and plotting.
+date_publication: '2019-07-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=scbursts
+url_git: ''

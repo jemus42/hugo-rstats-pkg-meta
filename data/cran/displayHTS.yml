@@ -1,0 +1,10 @@
+version: '1.0'
+title: displayHTS
+maintainer: Zhaozhi Zhang
+description: A package containing R functions for displaying data and<U+000a>results
+  from high-throughput screening experiments.
+date_publication: '2013-01-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=displayHTS
+url_git: ''

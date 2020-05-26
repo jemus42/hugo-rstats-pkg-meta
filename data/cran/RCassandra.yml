@@ -1,0 +1,12 @@
+version: 0.1-3
+title: R/Cassandra interface
+maintainer: Simon Urbanek
+description: |-
+  This packages provides a direct interface (without the
+  use of Java) to the most basic functionality of Apache
+  Cassanda such as login, updates and queries.
+date_publication: '2013-12-03'
+bug_reports: ''
+url: http://www.rforge.net/RCassandra
+url_cran: https://CRAN.R-project.org/package=RCassandra
+url_git: ''

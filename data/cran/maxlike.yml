@@ -1,0 +1,14 @@
+version: 0.1-8
+title: |-
+  Model Species Distributions by Estimating the Probability of
+  Occurrence Using Presence-Only Data
+maintainer: Roeland Kindt
+description: Provides a likelihood-based approach to modeling species distributions
+  using presence-only data. In contrast to the popular software program MAXENT, this
+  approach yields estimates of the probability of occurrence, which is a natural descriptor
+  of a species' distribution.
+date_publication: '2019-11-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=maxlike
+url_git: ''

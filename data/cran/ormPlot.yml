@@ -1,0 +1,14 @@
+version: 0.3.2
+title: Advanced Plotting of Ordinal Regression Models
+maintainer: Richard Meitern
+description: |-
+  An extension to the Regression Modeling Strategies package that
+  facilitates plotting ordinal regression  model predictions together with confidence
+  intervals for each dependent variable level.
+  It also adds a functionality to plot the  model summary as a modifiable
+  object.
+date_publication: '2019-06-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ormPlot
+url_git: ''

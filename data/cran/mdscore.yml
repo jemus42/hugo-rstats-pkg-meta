@@ -1,0 +1,10 @@
+version: 0.1-3
+title: Improved Score Tests for Generalized Linear Models
+maintainer: Antonio Hermes M. da Silva-Junior
+description: A set of functions to obtain modified score test for generalized linear
+  models.
+date_publication: '2017-02-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mdscore
+url_git: ''

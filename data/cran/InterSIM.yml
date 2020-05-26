@@ -1,0 +1,10 @@
+version: 2.2.0
+title: Simulation of Inter-Related Genomic Datasets
+maintainer: Prabhakar Chalise
+description: 'Generates three inter-related genomic datasets : methylation, gene expression
+  and protein expression.'
+date_publication: '2018-07-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=InterSIM
+url_git: ''

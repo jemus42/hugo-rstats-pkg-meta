@@ -1,0 +1,17 @@
+version: '1.1'
+title: |-
+  Statistical Ranking Color Scheme for Multiple Pairwise
+  Comparisons
+maintainer: Pablo J. Villacorta
+description: |-
+  Implementation of the SRCS method for a color-based visualization of the
+  results of multiple pairwise tests on a large number of problem configurations, proposed in:
+  I.G. del Amo, D.A. Pelta. SRCS: a technique for comparing multiple algorithms under several
+  factors in dynamic optimization problems. In: E. Alba, A. Nakib, P. Siarry
+  (Eds.), Metaheuristics for Dynamic Optimization. Series: Studies in
+  Computational Intelligence 433, Springer, Berlin/Heidelberg, 2012.
+date_publication: '2015-07-02'
+bug_reports: ''
+url: http://decsai.ugr.es/~pjvi/r-packages.html
+url_cran: https://CRAN.R-project.org/package=SRCS
+url_git: ''

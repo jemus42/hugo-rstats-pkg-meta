@@ -1,0 +1,16 @@
+version: '1.99'
+title: |-
+  mgpd: Functions for multivariate generalized Pareto distribution
+  (MGPD of Type II)
+maintainer: Pal Rakonczai
+description: |-
+  Extends distribution and density functions to parametric
+  multivariate generalized Pareto distributions (MGPD of Type
+  II), and provides fitting functions which calculate maximum
+  likelihood estimates for bivariate and trivariate models. (Help
+  is under progress)
+date_publication: '2012-03-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mgpd
+url_git: ''

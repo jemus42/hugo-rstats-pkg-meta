@@ -1,0 +1,16 @@
+version: 0.99-7
+title: Graphical Display of Pairwise Linkage Disequilibria Between SNPs
+maintainer: Brad McNeney
+description: |-
+  Produces a graphical display, as a heat map, of measures
+  of pairwise linkage disequilibria between SNPs. Users may
+  optionally include the physical locations or genetic map
+  distances of each SNP on the plot. Users should note that the
+  imported package 'snpStats' and the suggested packages
+  'rtracklayer', 'GenomicRanges', 'GenomInfoDb' and 'IRanges' are all
+  BioConductor packages <https://bioconductor.org>.
+date_publication: '2019-07-14'
+bug_reports: ''
+url: https://sfustatgen.github.io/LDheatmap/
+url_cran: https://CRAN.R-project.org/package=LDheatmap
+url_git: ''

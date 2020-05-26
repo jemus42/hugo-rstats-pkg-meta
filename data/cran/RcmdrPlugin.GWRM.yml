@@ -1,0 +1,11 @@
+version: 1.0.2
+title: |-
+  R Commander Plug-in for Fitting Generalized Waring Regression
+  Models
+maintainer: Silverio Vilchez-Lopez
+description: Provides an Rcmdr "plug-in" based on the GWRM package.
+date_publication: '2017-11-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.GWRM
+url_git: ''

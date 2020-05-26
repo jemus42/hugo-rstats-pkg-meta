@@ -1,0 +1,14 @@
+version: 0.46-5
+title: |-
+  Nonparametric Maximum Likelihood Estimation for Random Effect
+  Models
+maintainer: Jochen Einbeck
+description: |-
+  Nonparametric maximum likelihood estimation or Gaussian
+  quadrature for overdispersed generalized linear models and
+  variance component models.
+date_publication: '2018-08-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=npmlreg
+url_git: ''

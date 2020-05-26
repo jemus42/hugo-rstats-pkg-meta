@@ -1,0 +1,12 @@
+version: 0.5-0
+title: Collection of Rudimentary Bioinformatics Tools
+maintainer: Ling-Yun Wu
+description: |-
+  Provides a bundle of basic and fundamental bioinformatics tools,
+  such as network querying and alignment, subnetwork extraction and search,
+  network biomarker identification.
+date_publication: '2019-11-22'
+bug_reports: https://github.com/wulingyun/Corbi/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Corbi
+url_git: https://github.com/wulingyun/Corbi

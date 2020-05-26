@@ -1,0 +1,10 @@
+version: '1.2'
+title: Self-Adjusting COBRA
+maintainer: Samineh Bagheri
+description: Performs surrogate-assisted optimization for expensive black-box constrained
+  problems.
+date_publication: '2020-03-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SACOBRA
+url_git: ''

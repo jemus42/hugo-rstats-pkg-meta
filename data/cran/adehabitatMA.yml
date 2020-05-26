@@ -1,0 +1,9 @@
+version: 0.3.14
+title: Tools to Deal with Raster Maps
+maintainer: Clement Calenge
+description: A collection of tools to deal with raster maps.
+date_publication: '2020-01-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=adehabitatMA
+url_git: ''

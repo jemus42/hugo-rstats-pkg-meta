@@ -1,0 +1,16 @@
+version: 1.0.0
+title: Robust Tests for Equal Correlation
+maintainer: Danyang Yu
+description: There are 6 novel robust tests for equal correlation. They are all based
+  on logistic regressions. U are proportion to different types of correlation in  6
+  methods. The ST1() is based on Pearson correlation. ST2() improved ST1() by using
+  median absolute deviation. ST3() utilized type M correlation and ST4() used Spearman
+  correlation. ST5() and ST6() used two different ways to combine ST3() and ST4().  We
+  highly recommend ST5() according to the passage New Statistical Methods for Constructing
+  Robust Differential Correlation Networks to characterize the interactions among
+  microRNAs published in Scientific Reports.
+date_publication: '2020-05-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=corTest
+url_git: ''

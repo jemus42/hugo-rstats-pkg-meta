@@ -1,0 +1,11 @@
+version: '0.1'
+title: Parse Argument Options
+maintainer: Jeroen Ooms
+description: |-
+  A binding to the minimist JavaScript library. This module implements
+  the guts of optimist's argument parser without all the fanciful decoration.
+date_publication: '2015-02-14'
+bug_reports: https://github.com/jeroenooms/minimist/issues
+url: https://www.npmjs.com/package/minimist
+url_cran: https://CRAN.R-project.org/package=minimist
+url_git: https://github.com/jeroenooms/minimist

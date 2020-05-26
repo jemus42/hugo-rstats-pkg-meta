@@ -1,0 +1,10 @@
+version: '2.3'
+title: Frailty Models via Hierarchical Likelihood
+maintainer: Maengseok Noh
+description: Implements the h-likelihood estimation procedures for general frailty
+  models including competing-risk models and joint models.
+date_publication: '2019-11-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=frailtyHL
+url_git: ''

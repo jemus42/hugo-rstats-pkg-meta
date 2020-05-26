@@ -1,0 +1,15 @@
+version: 0.3.0
+title: Custom 'xaringan' CSS Themes
+maintainer: Garrick Aden-Buie
+description: |-
+  Create beautifully color-coordinated and customized
+  themes for your 'xaringan' slides, without writing any CSS. Complete
+  your slide theme with 'ggplot2' themes that match the font and colors
+  used in your slides.  Customized styles can be created directly in
+  your slides' 'R Markdown' source file or in a separate external
+  script.
+date_publication: '2020-05-04'
+bug_reports: https://github.com/gadenbuie/xaringanthemer/issues
+url: https://pkg.garrickadenbuie.com/xaringanthemer
+url_cran: https://CRAN.R-project.org/package=xaringanthemer
+url_git: https://github.com/gadenbuie/xaringanthemer

@@ -1,0 +1,14 @@
+version: 1.0.2
+title: Bootstrap cis-QTL Method that Corrects for the Winner's Curse
+maintainer: Scott Ritchie
+description: |-
+  Identifies genome-related molecular traits with significant
+  evidence of genetic regulation and performs a bootstrap procedure to
+  correct estimated effect sizes for over-estimation present in cis-QTL
+  mapping studies (The "Winner's Curse"), described in Huang QQ *et al.*
+  2018 <doi: 10.1093/nar/gky780>.
+date_publication: '2018-09-21'
+bug_reports: https://github.com/InouyeLab/bootstrapQTL/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=BootstrapQTL
+url_git: ''

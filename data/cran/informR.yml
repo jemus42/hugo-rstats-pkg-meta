@@ -1,0 +1,9 @@
+version: 1.0-5
+title: Sequence Statistics for Relational Event Models
+maintainer: Christopher Steven Marcum
+description: Aids in creating sequence statistics for Butts's 'relevent' software.
+date_publication: '2015-03-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=informR
+url_git: ''

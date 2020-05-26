@@ -1,0 +1,15 @@
+version: 2.1.1
+title: Propensity Score Analysis Graphics
+maintainer: James E. Helmreich
+description: 'A collection of functions that primarily produce graphics<U+000a>to
+  aid in a Propensity Score Analysis (PSA).  Functions<U+000a>include: cat.psa and
+  box.psa to test balance within strata of<U+000a>categorical and quantitative covariates,
+  circ.psa for a<U+000a>representation of the estimated effect size by stratum,<U+000a>loess.psa
+  that provides a graphic and loess based effect size<U+000a>estimate, and various
+  balance functions that provide measures<U+000a>of the balance achieved via a PSA
+  in a categorical covariate.'
+date_publication: '2012-03-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PSAgraphics
+url_git: ''

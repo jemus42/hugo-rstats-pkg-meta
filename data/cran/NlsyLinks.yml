@@ -1,0 +1,12 @@
+version: 2.0.6
+title: Utilities and Kinship Information for Research with the NLSY
+maintainer: Will Beasley
+description: |-
+  Utilities and kinship information for behavior genetics and
+  developmental research using the National Longitudinal Survey of Youth
+  (NLSY; <http://www.bls.gov/nls/>).
+date_publication: '2016-04-19'
+bug_reports: https://github.com/LiveOak/NlsyLinks/issues
+url: http://liveoak.github.io/NlsyLinks
+url_cran: https://CRAN.R-project.org/package=NlsyLinks
+url_git: https://github.com/LiveOak/NlsyLinks

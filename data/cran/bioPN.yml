@@ -1,0 +1,19 @@
+version: 1.2.0
+title: Simulation of deterministic and stochastic biochemical reaction<U+000a>networks
+  using Petri Nets
+maintainer: Roberto Bertolusso
+description: <U+000a>bioPN is a package suited to perform simulation of deterministic
+  and stochastic systems of biochemical reaction<U+000a>networks.<U+000a>Models are
+  defined using a subset of Petri Nets, in a way that is close at how chemical reactions<U+000a>are
+  defined.<U+000a>For deterministic solutions, bioPN creates the associated system
+  of differential equations "on the fly", and<U+000a>solves it with a Runge Kutta
+  Dormand Prince 45 explicit algorithm.<U+000a>For stochastic solutions, bioPN offers
+  variants of Gillespie algorithm, or SSA.<U+000a>For hybrid deterministic/stochastic,<U+000a>it
+  employs the Haseltine and Rawlings algorithm, that partitions the system in fast
+  and slow reactions.<U+000a>bioPN algorithms are developed in C to achieve adequate
+  performance.
+date_publication: '2014-03-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bioPN
+url_git: ''

@@ -1,0 +1,9 @@
+version: '0.3'
+title: German Polling Data
+maintainer: Katharina Brunner
+description: Extracts political polling data from <http://wahlrecht.de>.
+date_publication: '2020-04-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=germanpolls
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.0.3
+title: Misc Functions of Eduard Szöcs
+maintainer: Eduard Szöcs
+description: |-
+  Misc functions programmed by Eduard Szöcs.
+  Provides read_regnie() to read gridded precipitation data from German Weather
+  Service  (DWD, see <http://www.dwd.de/> for more information).
+date_publication: '2017-01-11'
+bug_reports: https://github.com/EDiLD/esmisc/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=esmisc
+url_git: https://github.com/EDiLD/esmisc

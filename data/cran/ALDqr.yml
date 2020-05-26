@@ -1,0 +1,10 @@
+version: '1.0'
+title: Quantile Regression Using Asymmetric Laplace Distribution
+maintainer: Luis Benites Sanchez
+description: EM algorithm for estimation of parameters and other methods in a quantile
+  regression.
+date_publication: '2017-01-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ALDqr
+url_git: ''

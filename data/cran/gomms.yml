@@ -1,0 +1,10 @@
+version: '1.0'
+title: GLM-Based Ordination Method
+maintainer: Michael B. Sohn
+description: A zero-inflated quasi-Poisson factor model to display similarity between
+  samples visually in a low (2 or 3) dimensional space.
+date_publication: '2017-05-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gomms
+url_git: ''

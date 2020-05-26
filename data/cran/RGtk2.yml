@@ -1,0 +1,11 @@
+version: 2.20.36
+title: R Bindings for Gtk 2.8.0 and Above
+maintainer: Michael Lawrence
+description: |-
+  Facilities in the R language for programming
+  graphical interfaces using Gtk, the Gimp Tool Kit.
+date_publication: '2019-03-08'
+bug_reports: ''
+url: http://www.ggobi.org/rgtk2
+url_cran: https://CRAN.R-project.org/package=RGtk2
+url_git: ''

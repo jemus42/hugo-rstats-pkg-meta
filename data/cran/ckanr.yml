@@ -1,0 +1,14 @@
+version: 0.4.0
+title: |-
+  Client for the Comprehensive Knowledge Archive Network ('CKAN')
+  API
+maintainer: Scott Chamberlain
+description: |-
+  Client for 'CKAN' API (<https://ckan.org/>). Includes interface
+  to 'CKAN' 'APIs' for search, list, show for packages, organizations, and
+  resources. In addition, provides an interface to the 'datastore' API.
+date_publication: '2019-10-11'
+bug_reports: https://github.com/ropensci/ckanr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ckanr
+url_git: https://docs.ropensci.org/ckanr(website)https://github.com/ropensci/ckanr(devel)

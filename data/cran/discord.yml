@@ -1,0 +1,11 @@
+version: '0.1'
+title: Functions for Discordant Kinship Modeling
+maintainer: S. Mason Garrison
+description: Functions for discordant kinship modeling (and other sibling-based quasi-experimental
+  designs). Currently, the package contains data restructuring functions; functions
+  for generating genetically- and environmentally-informed data for kin pairs.
+date_publication: '2017-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=discord
+url_git: https://github.com/smasongarrison/discord

@@ -1,0 +1,16 @@
+version: 0.6.7
+title: Generalized Ridge Trace Plots for Ridge Regression
+maintainer: Michael Friendly
+description: |2-
+
+  The genridge package introduces generalizations of the standard univariate
+  ridge trace plot used in ridge regression and related methods.  These graphical methods
+  show both bias (actually, shrinkage) and precision, by plotting the covariance ellipsoids of the estimated
+  coefficients, rather than just the estimates themselves.  2D and 3D plotting methods are provided,
+  both in the space of the predictor variables and in the transformed space of the PCA/SVD of the
+  predictors.
+date_publication: '2020-01-29'
+bug_reports: https://github.com/friendly/genridge/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=genridge
+url_git: ''

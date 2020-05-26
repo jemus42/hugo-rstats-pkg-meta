@@ -1,0 +1,10 @@
+version: 0.3-0
+title: Spearman's rank correlation test
+maintainer: Petr Savicky
+description: Spearman's rank correlation test with precomputed exact<U+000a>null distribution
+  for n <= 22.
+date_publication: '2014-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pspearman
+url_git: ''

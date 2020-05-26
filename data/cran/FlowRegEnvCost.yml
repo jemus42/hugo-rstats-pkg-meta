@@ -1,0 +1,10 @@
+version: 0.1.1
+title: The Environmental Costs of Flow Regulation
+maintainer: Javier Martinez-Lopez
+description: An application to calculate the daily environmental costs of river flow
+  regulation by dams based on García de Jalon et al. 2017 <doi:10.1007/s11269-017-1663-0>.
+date_publication: '2017-10-18'
+bug_reports: https://github.com/garciadejalon/FlowRegEnvCost/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=FlowRegEnvCost
+url_git: https://github.com/garciadejalon/FlowRegEnvCost

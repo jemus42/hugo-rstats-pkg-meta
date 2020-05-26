@@ -1,0 +1,11 @@
+version: 0.0.1
+title: Read Text Data
+maintainer: Michael W. Kearney
+description: |-
+  Quickly read contents from files or URLs. Functions provide a simple, consistent, and
+  performant interface for reading (all at once or line-by-line) the contents of files or web pages.
+date_publication: '2019-10-22'
+bug_reports: https://github.com/mkearney/readthat/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=readthat
+url_git: https://github.com/mkearney/readthat

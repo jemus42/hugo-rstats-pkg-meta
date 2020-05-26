@@ -1,0 +1,14 @@
+version: '1.1'
+title: |-
+  High-Dimensional Principal Fitted Components and Abundant
+  Regression
+maintainer: Adam J. Rothman
+description: |-
+  Fit and predict with the high-dimensional principal fitted
+  components model.  This model is described by Cook, Forzani, and Rothman (2012)
+  <doi:10.1214/11-AOS962>.
+date_publication: '2017-01-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=abundant
+url_git: ''

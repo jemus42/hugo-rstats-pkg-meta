@@ -1,0 +1,12 @@
+version: 1.5.1
+title: Make Static HTML Documentation for a Package
+maintainer: Hadley Wickham
+description: |-
+  Generate an attractive and useful website from a source package.
+  'pkgdown' converts your documentation, vignettes, 'README', and more to
+  'HTML' making it easy to share information about your package online.
+date_publication: '2020-04-09'
+bug_reports: https://github.com/r-lib/pkgdown/issues
+url: https://pkgdown.r-lib.org
+url_cran: https://CRAN.R-project.org/package=pkgdown
+url_git: https://github.com/r-lib/pkgdown

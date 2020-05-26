@@ -1,0 +1,10 @@
+version: 0.5.71
+title: Request <https://openblender.io> API Services
+maintainer: Daniel V. Pinacho
+description: Interface to make HTTP requests to 'OpenBlender' API services. Go to
+  <https://openblender.io> for more information.
+date_publication: '2020-04-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=openblender
+url_git: ''

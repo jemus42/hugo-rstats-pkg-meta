@@ -1,0 +1,14 @@
+version: 0.1.0
+title: Multiple, Unpacking, and Destructuring Assignment
+maintainer: Nathan Teetor
+description: |-
+  Provides a %<-% operator to perform multiple,
+  unpacking, and destructuring assignment in R. The
+  operator unpacks the right-hand side of an assignment
+  into multiple values and assigns these values to
+  variables on the left-hand side of the assignment.
+date_publication: '2018-01-28'
+bug_reports: https://github.com/nteetor/zeallot/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=zeallot
+url_git: https://github.com/nteetor/zeallot

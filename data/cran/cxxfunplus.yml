@@ -1,0 +1,10 @@
+version: '1.0'
+title: extend cxxfunction by saving the dynamic shared objects
+maintainer: Jiqiang Guo
+description: extend cxxfunction by saving the dynamic shared objects<U+000a>for reusing
+  across R sessions
+date_publication: '2012-08-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cxxfunplus
+url_git: https://github.com/maverickg/cxxfunplus

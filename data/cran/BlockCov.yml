@@ -1,0 +1,12 @@
+version: 0.1.1
+title: Estimation of Large Block Covariance Matrices
+maintainer: Marie Perrot-Dockès
+description: |-
+  Computation of large covariance matrices having a block structure up to a permutation of their columns and rows
+  from a small number of samples with respect to the dimension of the matrix.
+  The method is described in the paper Perrot-Dockès et al. (2019) <arXiv:1806.10093>.
+date_publication: '2019-04-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BlockCov
+url_git: ''

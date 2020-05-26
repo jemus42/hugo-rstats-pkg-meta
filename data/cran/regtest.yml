@@ -1,0 +1,9 @@
+version: '0.05'
+title: Regression testing
+maintainer: Jens Oehlschlägel
+description: Functions for unary and binary regression tests
+date_publication: '2012-08-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=regtest
+url_git: ''

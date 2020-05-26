@@ -1,0 +1,11 @@
+version: 0.4.2
+title: R Interface to 'Kokudo Suuchi' API
+maintainer: Hiroaki Yutani
+description: |-
+  Provides an interface to 'Kokudo Suuchi' API, the GIS data service of the Japanese government.
+  See <http://nlftp.mlit.go.jp/ksj-e/index.html> for more information.
+date_publication: '2018-01-26'
+bug_reports: https://github.com/yutannihilation/kokudosuuchi/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=kokudosuuchi
+url_git: https://github.com/yutannihilation/kokudosuuchi

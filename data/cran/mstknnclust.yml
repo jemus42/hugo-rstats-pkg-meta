@@ -1,0 +1,10 @@
+version: 0.2.0
+title: MST-kNN Clustering Algorithm
+maintainer: Jorge Parraga-Alava
+description: Implements the MST-kNN clustering algorithm which was proposed by Inostroza-Ponta,
+  M. (2008) <https://trove.nla.gov.au/work/28729389?selectedversion=NBD44634158>.
+date_publication: '2019-12-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mstknnclust
+url_git: ''

@@ -1,0 +1,9 @@
+version: '1.6'
+title: Experience Life Tables
+maintainer: Wassim Youssef
+description: Build experience life tables.
+date_publication: '2016-04-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ELT
+url_git: ''

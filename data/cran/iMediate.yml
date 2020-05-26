@@ -1,0 +1,9 @@
+version: 0.5.5
+title: Likelihood Methods for Mediation Analysis
+maintainer: Kai Wang
+description: Implements likelihood based methods for mediation analysis.
+date_publication: '2019-03-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=iMediate
+url_git: ''

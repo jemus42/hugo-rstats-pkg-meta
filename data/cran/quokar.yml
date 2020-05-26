@@ -1,0 +1,15 @@
+version: 0.1.0
+title: Quantile Regression Outlier Diagnostics with K Left Out Analysis
+maintainer: Wenjing Wang
+description: |-
+  Diagnostics methods for quantile regression models for detecting influential observations:
+  robust distance methods for general quantile regression models; generalized Cook's distance and
+  Q-function distance method for quantile regression models using aymmetric Laplace distribution. Reference
+  of this method can be found in Luis E. Benites, Víctor H. Lachos, Filidor E. Vilca (2015) <arXiv:1509.05099v1>;
+  mean posterior probability and Kullback–Leibler divergence methods for Bayes quantile regression model.
+  Reference of this method is Bruno Santos, Heleno Bolfarine (2016) <arXiv:1601.07344v1>.
+date_publication: '2017-11-10'
+bug_reports: https://github.com/wenjingwang/quokar/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=quokar
+url_git: https://github.com/wenjingwang/quokar

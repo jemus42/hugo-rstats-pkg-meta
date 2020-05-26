@@ -1,0 +1,10 @@
+version: 0.2.3.1
+title: TIme series of Grouped ERrors
+maintainer: Dominik Reusser
+description: Temporally resolved groups of typical differences (errors) between two
+  time series are determined and visualized
+date_publication: '2014-08-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tiger
+url_git: ''

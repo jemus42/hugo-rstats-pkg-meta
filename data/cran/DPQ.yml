@@ -1,0 +1,19 @@
+version: 0.3-5
+title: Density, Probability, Quantile ('DPQ') Computations
+maintainer: Martin Maechler
+description: |-
+  Computations for approximations and alternatives for the 'DPQ'
+  (Density (pdf), Probability (cdf) and Quantile) functions for probability
+  distributions in R.
+  Primary focus is on (central and non-central) beta, gamma and related
+  distributions such as the chi-squared, F, and t.
+  --
+  This is for the use of researchers in these numerical approximation
+  implementations, notably for my own use in order to improve R`s own
+  pbeta(), qgamma(), ..., etc: {'"dpq"'-functions}.
+  -- We plan to complement with 'DPQmpfr' to be suggested later.
+date_publication: '2019-10-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DPQ
+url_git: ''

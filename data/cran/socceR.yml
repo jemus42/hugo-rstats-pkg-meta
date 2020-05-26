@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Evaluating Sport Tournament Predictions
+maintainer: Claus Thorn Ekstrøm
+description: Functions for evaluating tournament predictions, simulating results from
+  individual soccer matches and tournaments. See <http://sandsynligvis.dk/2018/08/03/world-cup-prediction-winners/>
+  for more information.
+date_publication: '2019-07-03'
+bug_reports: https://github.com/ekstroem/socceR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=socceR
+url_git: https://github.com/ekstroem/socceR

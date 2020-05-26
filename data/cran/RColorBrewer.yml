@@ -1,0 +1,10 @@
+version: 1.1-2
+title: ColorBrewer Palettes
+maintainer: Erich Neuwirth
+description: Provides color schemes for maps (and other graphics)<U+000a>designed
+  by Cynthia Brewer as described at http://colorbrewer2.org
+date_publication: '2014-12-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RColorBrewer
+url_git: ''

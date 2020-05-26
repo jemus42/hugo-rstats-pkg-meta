@@ -1,0 +1,9 @@
+version: 0.8.20
+title: Dependency Modeling Toolkit
+maintainer: Leo Lahti
+description: Probabilistic dependency modeling toolkit.
+date_publication: '2013-12-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dmt
+url_git: ''

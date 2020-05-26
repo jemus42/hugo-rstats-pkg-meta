@@ -1,0 +1,11 @@
+version: 1.0.15
+title: Performing Continuous-Time Microsimulation
+maintainer: Sabine Zinn
+description: This entry-level toolkit allows performing continuous-time microsimulation
+  for a wide range of demographic applications. Individual life-courses are specified
+  by a continuous-time multi-state model.
+date_publication: '2019-08-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MicSim
+url_git: ''

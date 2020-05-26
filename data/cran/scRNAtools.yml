@@ -1,0 +1,12 @@
+version: '1.0'
+title: Single Cell RNA Sequencing Data Analysis Tools
+maintainer: Qian Yang
+description: We integrated the common analysis methods utilized in single cell RNA
+  sequencing data, which included cluster method, principal components analysis (PCA),
+  the filter of differentially expressed genes, pathway enrichment analysis and correlated
+  analysis methods.
+date_publication: '2018-07-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=scRNAtools
+url_git: ''

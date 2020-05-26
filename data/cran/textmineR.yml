@@ -1,0 +1,14 @@
+version: 3.0.4
+title: Functions for Text Mining and Topic Modeling
+maintainer: Tommy Jones
+description: |-
+  An aid for text mining in R, with a syntax that
+  should be familiar to experienced R users. Provides a wrapper for several
+  topic models that take similarly-formatted input and give similarly-formatted
+  output. Has additional functionality for analyzing and diagnostics for
+  topic models.
+date_publication: '2019-04-18'
+bug_reports: https://github.com/TommyJones/textmineR/issues
+url: https://www.rtextminer.com/
+url_cran: https://CRAN.R-project.org/package=textmineR
+url_git: ''

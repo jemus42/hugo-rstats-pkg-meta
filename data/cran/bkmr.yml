@@ -1,0 +1,12 @@
+version: 0.2.0
+title: Bayesian Kernel Machine Regression
+maintainer: Jennifer F. Bobb
+description: |-
+  Implementation of a statistical approach
+  for estimating the joint health effects of multiple
+  concurrent exposures.
+date_publication: '2017-03-24'
+bug_reports: https://github.com/jenfb/bkmr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bkmr
+url_git: https://github.com/jenfb/bkmr

@@ -1,0 +1,12 @@
+version: 0.2.0
+title: Letter Value 'Boxplots'
+maintainer: Hadley Wickham
+description: |-
+  Implements the letter value 'boxplot' which extends the standard
+  'boxplot' to deal with both larger and smaller number of data points
+  by dynamically selecting the appropriate number of letter values to display.
+date_publication: '2016-05-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lvplot
+url_git: ''

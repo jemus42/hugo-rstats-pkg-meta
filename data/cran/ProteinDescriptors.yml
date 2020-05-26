@@ -1,0 +1,16 @@
+version: 0.1.0
+title: |-
+  Generates Various Protein Descriptors for Machine Learning
+  Algorithms
+maintainer: Berat Kurar
+description: |-
+  An implementation of protein descriptors in R. These descriptors
+  combine the advantages of being fixed length and including partial sequential
+  effect: Various length of protein sequences are described with fixed length
+  vectors that are suitable for machine learning algorithms, and still includes
+  partial sequential effect.
+date_publication: '2016-03-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ProteinDescriptors
+url_git: ''

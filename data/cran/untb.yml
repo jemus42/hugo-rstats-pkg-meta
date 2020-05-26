@@ -1,0 +1,9 @@
+version: 1.7-4
+title: Ecological Drift under the UNTB
+maintainer: Robin K. S. Hankin
+description: Hubbell's Unified Neutral Theory of Biodiversity.
+date_publication: '2019-03-03'
+bug_reports: https://github.com/RobinHankin/untb/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=untb
+url_git: https://github.com/RobinHankin/untb.git

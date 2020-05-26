@@ -1,0 +1,12 @@
+version: 2.1.5
+title: Construction, Simulation and Analysis of Boolean Networks
+maintainer: Hans A. Kestler
+description: |-
+  Provides methods to reconstruct and generate synchronous,
+  asynchronous, probabilistic and temporal Boolean networks, and to
+  analyze and visualize attractors in Boolean networks.
+date_publication: '2019-04-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BoolNet
+url_git: ''

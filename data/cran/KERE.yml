@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Expectile Regression in Reproducing Kernel Hilbert Space
+maintainer: Yi Yang
+description: An efficient algorithm inspired by majorization-minimization principle
+  for solving the entire solution path of a flexible nonparametric expectile regression
+  estimator constructed in a reproducing kernel Hilbert space.
+date_publication: '2015-08-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=KERE
+url_git: ''

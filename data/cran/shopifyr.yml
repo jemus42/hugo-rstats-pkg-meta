@@ -1,0 +1,11 @@
+version: 1.0.0
+title: An R Interface to the Shopify API
+maintainer: Charlie Friedemann
+description: |-
+  An interface to the Admin API of the E-commerce service Shopify,
+  (<https://help.shopify.com/en/api/reference>).
+date_publication: '2019-07-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=shopifyr
+url_git: https://github.com/charliebone/shopifyr/

@@ -1,0 +1,16 @@
+version: 0.6.4.1
+title: Geometric Shadow Calculations
+maintainer: Michael Dorman
+description: 'Functions for calculating: (1) shadow height, (2) logical shadow flag,
+  (3) shadow footprint, (4) Sky View Factor and (5) radiation load. Basic required
+  inputs include a polygonal layer of obstacle outlines along with their heights (i.e.
+  "extruded polygons"), sun azimuth and sun elevation. The package also provides functions
+  for related preliminary calculations: breaking polygons into line segments, determining
+  azimuth of line segments, shifting segments by azimuth and distance, constructing
+  the footprint of a line-of-sight between an observer and the sun, and creating a
+  3D grid covering the surface area of extruded polygons.'
+date_publication: '2020-04-01'
+bug_reports: https://github.com/michaeldorman/shadow/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=shadow
+url_git: https://github.com/michaeldorman/shadow/

@@ -1,0 +1,11 @@
+version: 0.4.0
+title: Calculates the Test-Statistic for the Drift Burst Hypothesis
+maintainer: Emil Sjoerup
+description: 'Calculates the T-Statistic for the drift burst hypothesis from the working
+  paper Christensen, Oomen and Reno (2018) <DOI:10.2139/ssrn.2842535>. The authors''
+  MATLAB code is available upon request, see: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2842535>.'
+date_publication: '2020-03-25'
+bug_reports: https://github.com/emilsjoerup/DriftBurstHypothesis/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=DriftBurstHypothesis
+url_git: https://github.com/emilsjoerup/DriftBurstHypothesis

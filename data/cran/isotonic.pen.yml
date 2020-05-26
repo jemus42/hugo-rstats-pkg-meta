@@ -1,0 +1,10 @@
+version: '1.0'
+title: Penalized Isotonic Regression in one and two dimensions
+maintainer: Mary Meyer
+description: Given a response y and a one- or two-dimensional predictor, the isotonic
+  regression estimator is calculated with the usual orderings.
+date_publication: '2014-04-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=isotonic.pen
+url_git: ''

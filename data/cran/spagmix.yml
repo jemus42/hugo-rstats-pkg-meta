@@ -1,0 +1,13 @@
+version: 0.3-1
+title: |-
+  Artificial Spatial and Spatiotemporal Densities on Bounded
+  Windows
+maintainer: Tilman M. Davies
+description: A utility package containing some simple tools to design and generate
+  density functions on bounded regions in space and space-time, and simulate iid data
+  therefrom. See Davies & Hazelton (2010) <doi:10.1002/sim.3995> for example.
+date_publication: '2018-09-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spagmix
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.5.7
+title: Use Data from the Czech Public Finance Database
+maintainer: Petr Bouchal
+description: |-
+  Get programmatic access to data from the Czech public
+  budgeting and accounting database, Státní pokladna
+  <https://monitor.statnipokladna.cz/>.
+date_publication: '2020-04-12'
+bug_reports: https://github.com/petrbouchal/statnipokladna/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=statnipokladna
+url_git: https://github.com/petrbouchal/statnipokladna

@@ -1,0 +1,11 @@
+version: 0.2.1
+title: '''rgl'' in ''htmlwidgets'' Framework'
+maintainer: Duncan Murdoch
+description: |-
+  The contents of this package have
+  been merged into rgl, so it is no longer needed.
+date_publication: '2016-08-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rglwidget
+url_git: ''

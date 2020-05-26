@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Bayesian Adjustment for Confounding
+maintainer: Chi Wang
+description: Estimating the average causal effect based on the Bayesian Adjustment
+  for Confounding (BAC) algorithm.
+date_publication: '2016-10-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bacr
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.5-8
+title: Nonparametric Methods for Measuring Efficiency and Productivity
+maintainer: Dong-hyun Oh
+description: This package contains functions for measuring efficiency<U+000a>and productivity
+  of decision making units (DMUs) under the<U+000a>framework of Data Envelopment Analysis
+  (DEA) and its<U+000a>variations.
+date_publication: '2013-02-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nonparaeff
+url_git: ''

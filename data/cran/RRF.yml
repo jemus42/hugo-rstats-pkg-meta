@@ -1,0 +1,13 @@
+version: 1.9.1
+title: Regularized Random Forest
+maintainer: Houtao Deng
+description: |-
+  Feature Selection with Regularized Random Forest. This
+  package is based on the 'randomForest' package by Andy Liaw.
+  The key difference is the RRF() function that builds a
+  regularized random forest.
+date_publication: '2019-07-02'
+bug_reports: ''
+url: https://sites.google.com/site/houtaodeng/rrf
+url_cran: https://CRAN.R-project.org/package=RRF
+url_git: ''

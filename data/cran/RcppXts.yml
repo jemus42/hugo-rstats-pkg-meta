@@ -1,0 +1,15 @@
+version: 0.0.4
+title: Interface the xts API via Rcpp
+maintainer: Dirk Eddelbuettel
+description: |-
+  This package provides access to some of the C level
+  functions of the xts package.
+
+  In its current state, the package is mostly a proof-of-concept to
+  support adding useful functions, and does not yet add any of
+  its own.
+date_publication: '2013-01-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcppXts
+url_git: ''

@@ -1,0 +1,13 @@
+version: '3042.80'
+title: Rmetrics - Pricing and Evaluating Exotic Option
+maintainer: Tobias Setz
+description: |-
+  Provides a collection of functions to evaluate
+  barrier options, Asian options, binary options, currency
+  translated options, lookback options, multiple asset options
+  and multiple exercise options.
+date_publication: '2017-11-17'
+bug_reports: ''
+url: http://www.rmetrics.org
+url_cran: https://CRAN.R-project.org/package=fExoticOptions
+url_git: ''

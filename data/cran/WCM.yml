@@ -1,0 +1,15 @@
+version: 0.2.2
+title: |-
+  Water Cloud Model (WCM) for the Simulation of Leaf Area Index
+  (LAI) and Soil Moisture (SM) from Microwave Backscattering
+maintainer: Ujjwal Singh
+description: Retrieval the leaf area index (LAI) and soil moisture (SM) from  microwave
+  backscattering data using water cloud model (WCM) model . The WCM algorithm attributed
+  to Pervot et al.(1993) <doi:10.1016/0034-4257(93)90053-Z>. The authors are grateful
+  to SAC, ISRO, Ahmedabad for providing financial support to Dr. Prashant K Srivastava
+  to conduct this research work.
+date_publication: '2020-04-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=WCM
+url_git: ''

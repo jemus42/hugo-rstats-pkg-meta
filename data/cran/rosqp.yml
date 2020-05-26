@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Quadratic Programming Solver using the 'OSQP' Library
+maintainer: Eric Anderson
+description: Provides bindings to the 'OSQP' solver, which can solve sparse convex
+  quadratic programming problems with optional equality and inequality constraints.
+date_publication: '2018-02-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rosqp
+url_git: ''

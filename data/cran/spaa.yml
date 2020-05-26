@@ -1,0 +1,11 @@
+version: 0.2.2
+title: SPecies Association Analysis
+maintainer: Jinlong Zhang
+description: |-
+  Miscellaneous functions for analysing species association
+  and niche overlap.
+date_publication: '2016-06-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spaa
+url_git: https://github.com/helixcn/spaa

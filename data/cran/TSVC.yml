@@ -1,0 +1,11 @@
+version: 1.2.0
+title: Tree-Structured Modelling of Varying Coefficients
+maintainer: Moritz Berger
+description: Fitting tree-structured varying coefficient models. Simultaneous detection
+  of covariates with varying coefficients and effect modifiers that induce varying
+  coefficients if they are present.
+date_publication: '2019-01-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TSVC
+url_git: ''

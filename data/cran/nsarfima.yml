@@ -1,0 +1,13 @@
+version: 0.1.0.0
+title: Methods for Fitting and Simulating Non-Stationary ARFIMA Models
+maintainer: Benjamin Groebe
+description: Routines for fitting and simulating data under autoregressive fractionally
+  integrated moving average (ARFIMA) models, without the constraint of stationarity.
+  Two fitting methods are implemented, a pseudo-maximum likelihood method and a minimum
+  distance estimator. Mayoral, L. (2007) <doi:10.1111/j.1368-423X.2007.00202.x>. Beran,
+  J. (1995) <doi:10.1111/j.2517-6161.1995.tb02054.x>.
+date_publication: '2019-09-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nsarfima
+url_git: ''

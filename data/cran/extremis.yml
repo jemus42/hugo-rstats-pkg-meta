@@ -1,0 +1,11 @@
+version: '0.90'
+title: Statistics of Extremes
+maintainer: Miguel de Carvalho
+description: Conducts inference in statistical models for extreme values (de Carvalho
+  et al (2012), <doi:10.1080/03610926.2012.709905>; de Carvalho and Davison (2014),
+  <10.1080/01621459.2013.872651>; Einmahl et al (2016), <doi:10.1111/rssb.12099>).
+date_publication: '2018-10-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=extremis
+url_git: ''

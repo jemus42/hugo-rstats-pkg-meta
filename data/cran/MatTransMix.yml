@@ -1,0 +1,14 @@
+version: 0.1.8
+title: |-
+  Clustering with Matrix Gaussian and Matrix Transformation
+  Mixture Models
+maintainer: Xuwen Zhu
+description: Provides matrix Gaussian mixture models, matrix transformation mixture
+  models and their model-based clustering results. The parsimonious models of the
+  mean matrices and variance covariance matrices are implemented with a total of 196
+  variations.
+date_publication: '2020-04-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MatTransMix
+url_git: ''

@@ -1,0 +1,15 @@
+version: 1.1.0
+title: |-
+  Automated Spectral Deconvolution, Alignment, and Metabolite
+  Identification in GC/MS-Based Untargeted Metabolomics
+maintainer: Xavier Domingo-Almenara
+description: Automated compound deconvolution, alignment across samples, and identification
+  of metabolites by spectral library matching in Gas Chromatography - Mass spectrometry
+  (GC-MS) untargeted metabolomics. Outputs a table with compound names, matching scores
+  and the integrated area of the compound for each sample. Package implementation
+  is described in Domingo-Almenara et al. (2016) <doi:10.1021/acs.analchem.6b02927>.
+date_publication: '2018-07-11'
+bug_reports: ''
+url: http://metabolomicsplatform.com/
+url_cran: https://CRAN.R-project.org/package=erah
+url_git: ''

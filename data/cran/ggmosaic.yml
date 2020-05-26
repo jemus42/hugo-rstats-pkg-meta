@@ -1,0 +1,12 @@
+version: 0.2.0
+title: Mosaic Plots in the 'ggplot2' Framework
+maintainer: Haley Jeppson
+description: |-
+  Mosaic plots in the 'ggplot2' framework. Mosaic
+  plot functionality is provided in a single 'ggplot2' layer by calling
+  the geom 'mosaic'.
+date_publication: '2018-09-12'
+bug_reports: https://github.com/haleyjeppson/ggmosaic
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggmosaic
+url_git: http://github.com/haleyjeppson/ggmosaic

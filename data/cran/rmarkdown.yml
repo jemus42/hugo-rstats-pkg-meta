@@ -1,0 +1,9 @@
+version: '2.1'
+title: Dynamic Documents for R
+maintainer: Yihui Xie
+description: Convert R Markdown documents into a variety of formats.
+date_publication: '2020-01-20'
+bug_reports: https://github.com/rstudio/rmarkdown/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rmarkdown
+url_git: https://github.com/rstudio/rmarkdown

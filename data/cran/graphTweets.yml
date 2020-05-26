@@ -1,0 +1,11 @@
+version: 0.5.3
+title: Visualise Twitter Interactions
+maintainer: John Coene
+description: |-
+  Allows building an edge table from data frame of tweets,
+  also provides function to build nodes and another create a temporal graph.
+date_publication: '2020-01-08'
+bug_reports: https://github.com/JohnCoene/graphTweets/issues
+url: http://graphTweets.john-coene.com
+url_cran: https://CRAN.R-project.org/package=graphTweets
+url_git: ''

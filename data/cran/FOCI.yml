@@ -1,0 +1,11 @@
+version: 0.1.2
+title: Feature Ordering by Conditional Independence
+maintainer: Mona Azadkia
+description: |-
+  Feature Ordering by Conditional Independence (FOCI) is a variable selection algorithm based on the measure of conditional dependence.
+  For more information, see the paper: Azadkia and Chatterjee (2019),"A simple measure of conditional dependence" <arXiv:1910.12327>.
+date_publication: '2020-05-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FOCI
+url_git: ''

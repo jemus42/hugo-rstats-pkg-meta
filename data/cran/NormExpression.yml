@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Normalize Gene Expression Data using Evaluated Methods
+maintainer: Shan Gao
+description: |-
+  It provides a framework and a fast and simple way for researchers to evaluate methods (particularly some data-driven methods or their own methods) and then select a best one for data normalization in the gene expression analysis, based on the consistency of metrics and the consistency of datasets.
+  Zhenfeng Wu, Weixiang Liu, Xiufeng Jin, Deshui Yu, Hua Wang, Gustavo Glusman, Max Robinson, Lin Liu, Jishou Ruan and Shan Gao (2018) <doi:10.1101/251140>.
+date_publication: '2018-03-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NormExpression
+url_git: ''

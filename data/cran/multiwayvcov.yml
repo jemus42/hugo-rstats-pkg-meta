@@ -1,0 +1,16 @@
+version: 1.2.3
+title: Multi-Way Standard Error Clustering
+maintainer: Nathaniel Graham
+description: |-
+  Exports two functions implementing
+  multi-way clustering using the method suggested by Cameron, Gelbach, &
+  Miller (2011) and cluster (or block)
+  bootstrapping for estimating variance-covariance matrices. Normal one and
+  two-way clustering matches the results of other common statistical
+  packages.  Missing values are handled transparently and rudimentary
+  parallelization support is provided.
+date_publication: '2016-05-05'
+bug_reports: ''
+url: http://sites.google.com/site/npgraham1/research/code
+url_cran: https://CRAN.R-project.org/package=multiwayvcov
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.1.6
+title: Manage Spatial Metadata for Known Locations
+maintainer: Jonathan Callahan
+description: |-
+  A suite of utility functions for discovering and managing metadata
+  associated with sets of spatially unique "known locations".
+date_publication: '2019-11-20'
+bug_reports: https://github.com/MazamaScience/MazamaCoreUtils/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=MazamaLocationUtils
+url_git: https://github.com/MazamaScience/MazamaCoreUtils

@@ -1,0 +1,11 @@
+version: 0.1.3
+title: Tools for Thermoluminescences Dating
+maintainer: David Strebler
+description: |-
+  A series of function to make thermoluminescence dating using the MAAD or the SAR protocol.
+  This package completes the R package "Luminescence."
+date_publication: '2016-08-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TLdating
+url_git: ''

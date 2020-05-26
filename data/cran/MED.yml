@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Mediation by Tilted Balancing
+maintainer: Gary Chan
+description: Nonparametric estimation and inference for natural direct and indirect
+  effects by Chan, Imai, Yam and Zhang (2016) <arXiv:1601.03501>.
+date_publication: '2018-03-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MED
+url_git: ''

@@ -1,0 +1,13 @@
+version: '1.3'
+title: Describe Image Patterns in Natural Structures
+maintainer: Carlos Biagolini-Jr.<c.biagolini@gmail.com>
+description: A computational tool to describe patterns in black and white images from
+  natural structures. 'bwimage' implemented functions for exceptionally broad subject.
+  For instance, 'bwimage' provide examples that range from calculation of canopy openness,
+  description of patterns in vertical vegetation structure, to patterns in bird nest
+  structure.
+date_publication: '2020-04-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bwimage
+url_git: ''

@@ -1,0 +1,10 @@
+version: 0.3-2
+title: Fitting Linear and Generalized Linear Models to Large Data Sets
+maintainer: Marco Enea
+description: Fitting linear models and generalized linear models to large data sets
+  by updating algorithms.
+date_publication: '2017-01-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=speedglm
+url_git: ''

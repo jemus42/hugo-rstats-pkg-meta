@@ -1,0 +1,17 @@
+version: 1.0.1
+title: Cross-Validation for the SVD (Bi-Cross-Validation)
+maintainer: Patrick O. Perry
+description: |2-
+
+  Methods for choosing the rank of an SVD approximation via cross
+  validation.  The package provides both Gabriel-style "block"
+  holdouts and Wold-style "speckled" holdouts.  It also includes an
+  implementation of the SVDImpute algorithm.  For more information about
+  Bi-cross-validation, see Owen & Perry's 2009 AoAS article
+  (at http://arxiv.org/abs/0908.2062) and Perry's 2009 PhD thesis
+  (at http://arxiv.org/abs/0909.3052).
+date_publication: '2015-05-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bcv
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.3-7
+title: Tools for Multiple Imputation in Multilevel Modeling
+maintainer: Simon Grund
+description: |-
+  Provides tools for multiple imputation of missing data in multilevel
+  modeling. Includes a user-friendly interface to the packages 'pan' and 'jomo',
+  and several functions for visualization, data management and the analysis
+  of multiply imputed data sets.
+date_publication: '2019-01-07'
+bug_reports: https://github.com/simongrund1/mitml/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mitml
+url_git: ''

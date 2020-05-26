@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Background Removal and Spectrum Identification for SERS Data
+maintainer: Li Jun
+description: |-
+  Implements a new approach 'SABARSI' described in Wang et al., "A Statistical Approach of Background Removal and Spectrum Identification for SERS Data" (Unpublished).
+  Sabarsi forms a pipeline for SERS (surface-enhanced Raman scattering) data analysis including background removal, signal detection, signal integration, and cross-experiment comparison. The background removal algorithm, the very first step of SERS data analysis, takes into account the change of background shape.
+date_publication: '2019-08-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sabarsi
+url_git: ''

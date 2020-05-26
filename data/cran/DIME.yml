@@ -1,0 +1,12 @@
+version: '1.2'
+title: DIME (Differential Identification using Mixture Ensemble)
+maintainer: Cenny Taslim
+description: A robust differential identification method that considers an ensemble
+  of finite mixture models combined with a local false discovery rate (fdr) to analyze
+  ChIP-seq (high-throughput genomic)data comparing two samples allowing for flexible
+  modeling of data.
+date_publication: '2013-12-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DIME
+url_git: ''

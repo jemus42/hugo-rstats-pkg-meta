@@ -1,0 +1,12 @@
+version: '2.1'
+title: Multivariate Regression with Covariance Estimation
+maintainer: Adam J. Rothman
+description: Compute and select tuning parameters for the MRCE estimator proposed
+  by Rothman, Levina, and Zhu (2010) <doi:10.1198/jcgs.2010.09188>.  This estimator
+  fits the multiple output linear regression model with a sparse estimator of the
+  error precision matrix and a sparse estimator of the regression coefficient matrix.
+date_publication: '2017-01-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MRCE
+url_git: ''

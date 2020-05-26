@@ -1,0 +1,14 @@
+version: 1.4.10
+title: Interactive R Unit Tests
+maintainer: Brodie Gaslam
+description: |-
+  Simplifies regression tests by comparing objects produced by test
+  code with earlier versions of those same objects.  If objects are unchanged
+  the tests pass, otherwise execution stops with error details.  If in
+  interactive mode, tests can be reviewed through the provided interactive
+  environment.
+date_publication: '2020-05-12'
+bug_reports: https://github.com/brodieG/unitizer/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=unitizer
+url_git: https://github.com/brodieG/unitizer

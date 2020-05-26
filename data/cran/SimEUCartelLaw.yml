@@ -1,0 +1,14 @@
+version: 1.0.1
+title: Simulation of Legal Exemption System for European Cartel Law
+maintainer: Martin Becker
+description: |-
+  Monte Carlo simulations of a game-theoretic model for the
+  legal exemption system of the European cartel law are implemented
+  in order to estimate the (mean) deterrent effect of this system.
+  The input and output parameters of the simulated cartel
+  opportunities can be visualized by three-dimensional projections.
+date_publication: '2018-05-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SimEUCartelLaw
+url_git: ''

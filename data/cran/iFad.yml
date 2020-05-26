@@ -1,0 +1,15 @@
+version: '3.0'
+title: |-
+  An integrative factor analysis model for drug-pathway
+  association inference
+maintainer: Haisu Ma
+description: This package implements a Bayesian sparse factor model for the joint
+  analysis of paired datasets, one is the gene expression dataset and the other is
+  the drug sensitivity profiles, measured across the same panel of samples, e.g.,
+  cell lines. Prior knowledge about gene-pathway associations can be easily incorporated
+  in the model to aid the inference of drug-pathway associations.
+date_publication: '2014-03-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=iFad
+url_git: ''

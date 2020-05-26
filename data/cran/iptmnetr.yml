@@ -1,0 +1,13 @@
+version: 0.1.8
+title: Interface to the 'iPTMnet' API
+maintainer: Sachin Gavali
+description: |-
+  Provides an R interface to the 'iPTMnet' database REST API, which can be used to retrieve
+  Post Translational Modification (PTM) data in systems biology context. This package handles all the aspects
+  of communicating with the API, which involve sending the request, checking the error codes and parsing the
+  response in a format that is ready to integrate into existing workflows.
+date_publication: '2019-12-05'
+bug_reports: ''
+url: https://research.bioinformatics.udel.edu/iptmnet/
+url_cran: https://CRAN.R-project.org/package=iptmnetr
+url_git: https://github.com/udel-cbcb/iptmnetr

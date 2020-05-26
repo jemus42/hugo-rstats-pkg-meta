@@ -1,0 +1,10 @@
+version: 0.1.4
+title: Download Public Domain Works from Wikisource
+maintainer: Félix Luginbuhl
+description: Download public domain works from Wikisource <https://wikisource.org/>,
+  a free library from the Wikimedia Foundation project.
+date_publication: '2019-04-04'
+bug_reports: https://github.com/lgnbhl/wikisourcer/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=wikisourcer
+url_git: https://github.com/lgnbhl/wikisourcer

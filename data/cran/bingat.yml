@@ -1,0 +1,9 @@
+version: '1.3'
+title: Binary Graph Analysis Tools
+maintainer: Berkley Shands
+description: Tools to analyze binary graph objects.
+date_publication: '2017-07-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bingat
+url_git: ''

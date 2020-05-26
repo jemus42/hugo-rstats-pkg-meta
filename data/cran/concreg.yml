@@ -1,0 +1,12 @@
+version: '0.6'
+title: Concordance Regression
+maintainer: Georg Heinze
+description: |-
+  Implements concordance regression which can be used to estimate generalized odds of concordance.
+  Can be used for non- and semi-parametric survival analysis with non-proportional hazards, for binary and
+  for continuous outcome data.
+date_publication: '2016-12-22'
+bug_reports: ''
+url: http://cemsiis.meduniwien.ac.at/kb/wf/software/statistische-software/concreg/
+url_cran: https://CRAN.R-project.org/package=concreg
+url_git: ''

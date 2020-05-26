@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Inference on Granger-Causality in the Frequency Domain
+maintainer: Matteo Farne'
+description: Contains five functions performing the calculation of unconditional and
+  conditional Granger-causality spectra, bootstrap inference on both, and inference
+  on the difference between them via the bootstrap approach of Farne' and Montanari,
+  2018 <arXiv:1803.00374>.
+date_publication: '2019-06-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=grangers
+url_git: https://github.com/MatFar88/grangers

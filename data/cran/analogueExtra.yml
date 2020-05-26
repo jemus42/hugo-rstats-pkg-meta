@@ -1,0 +1,11 @@
+version: 0.1-1
+title: Additional Functions for Use with the Analogue Package
+maintainer: Gavin L. Simpson
+description: |-
+  Provides additional functionality for the analogue package
+  that is not required by all users of the main package.
+date_publication: '2016-04-10'
+bug_reports: https://github.com/gavinsimpson/analogueExtra/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=analogueExtra
+url_git: https://github.com/gavinsimpson/analogueExtra

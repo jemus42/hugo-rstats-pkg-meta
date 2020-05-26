@@ -1,0 +1,9 @@
+version: '1.1'
+title: Eyetracking Helper Functions
+maintainer: Ryan M. Hope
+description: Misc function for working with eyetracking data
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=eyetracking
+url_git: ''

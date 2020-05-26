@@ -1,0 +1,12 @@
+version: 2.2.0
+title: '''SQLite'' Interface for R'
+maintainer: Kirill Müller
+description: |-
+  Embeds the 'SQLite' database engine in R and
+  provides an interface compliant with the 'DBI' package. The source for
+  the 'SQLite' engine is included.
+date_publication: '2020-01-07'
+bug_reports: https://github.com/r-dbi/RSQLite/issues
+url: https://rsqlite.r-dbi.org
+url_cran: https://CRAN.R-project.org/package=RSQLite
+url_git: https://github.com/r-dbi/RSQLite

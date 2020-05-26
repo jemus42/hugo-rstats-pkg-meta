@@ -1,0 +1,24 @@
+version: 2.12.0
+title: Bayesian Regression Models using 'Stan'
+maintainer: Paul-Christian Bürkner
+description: |-
+  Fit Bayesian generalized (non-)linear multivariate multilevel models
+  using 'Stan' for full Bayesian inference. A wide range of distributions
+  and link functions are supported, allowing users to fit -- among others --
+  linear, robust linear, count data, survival, response times, ordinal,
+  zero-inflated, hurdle, and even self-defined mixture models all in a
+  multilevel context. Further modeling options include non-linear and
+  smooth terms, auto-correlation structures, censored data, meta-analytic
+  standard errors, and quite a few more. In addition, all parameters of the
+  response distribution can be predicted in order to perform distributional
+  regression. Prior specifications are flexible and explicitly encourage
+  users to apply prior distributions that actually reflect their beliefs.
+  Model fit can easily be assessed and compared with posterior predictive
+  checks and leave-one-out cross-validation. References: Bürkner (2017)
+  <doi:10.18637/jss.v080.i01>; Bürkner (2018) <doi:10.32614/RJ-2018-017>;
+  Carpenter et al. (2017) <doi:10.18637/jss.v076.i01>.
+date_publication: '2020-02-23'
+bug_reports: https://github.com/paul-buerkner/brms/issues
+url: http://discourse.mc-stan.org
+url_cran: https://CRAN.R-project.org/package=brms
+url_git: https://github.com/paul-buerkner/brms

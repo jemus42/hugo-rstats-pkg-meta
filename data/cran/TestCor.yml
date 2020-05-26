@@ -1,0 +1,13 @@
+version: 0.0.1.1
+title: |-
+  FWER and FDR Controlling Procedures for Multiple Correlation
+  Tests
+maintainer: Gannaz Irene
+description: |2-
+
+  Different multiple testing procedures for correlation tests are implemented. These procedures were shown to theoretically control asymptotically the Family Wise Error Rate (Roux (2018) <https://tel.archives-ouvertes.fr/tel-01971574v1>) or the False Discovery Rate (Cai & Liu (2016) <doi:10.1080/01621459.2014.999157>). The package gather four test statistics used in correlation testing, four FWER procedures with either single step or stepdown versions, and four FDR procedures.
+date_publication: '2020-01-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TestCor
+url_git: ''

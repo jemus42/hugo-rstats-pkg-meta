@@ -1,0 +1,12 @@
+version: '1.1'
+title: Comparative and Population Genetic Analyses
+maintainer: Heath Blackmon
+description: Comparative analysis of continuous traits influencing discrete states,
+  and utility tools to facilitate comparative analyses.  Implementations of ABBA/BABA
+  type statistics to test for introgression in genomic data. Wright-Fisher, phylogenetic
+  tree, and statistical distribution Shiny interactive simulations for use in teaching.
+date_publication: '2015-09-06'
+bug_reports: ''
+url: http://www.uta.edu/karyodb/evobiR/
+url_cran: https://CRAN.R-project.org/package=evobiR
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.2.2
+title: Small Helpers and Tricks for Epidemics Analysis
+maintainer: Thibaut Jombart
+description: A collection of small functions useful for epidemics analysis and infectious
+  disease modelling. This includes computation of basic reproduction numbers from
+  growth rates, generation of hashed labels to anonymise data, and fitting discretised
+  Gamma distributions.
+date_publication: '2019-01-15'
+bug_reports: https://github.com/reconhub/epitrix/issues
+url: http://www.repidemicsconsortium.org/epitrix
+url_cran: https://CRAN.R-project.org/package=epitrix
+url_git: ''

@@ -1,0 +1,11 @@
+version: 1.0-2
+title: Interactive Graphics Functions for the 'spatstat' Package
+maintainer: Adrian Baddeley
+description: |-
+  Extension to the 'spatstat' package, containing
+  interactive graphics capabilities.
+date_publication: '2020-03-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spatstat.gui
+url_git: ''

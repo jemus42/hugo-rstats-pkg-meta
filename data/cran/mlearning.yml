@@ -1,0 +1,10 @@
+version: 1.0-0
+title: Machine learning algorithms with unified interface and confusion<U+000a>matrices
+maintainer: Ph. Grosjean
+description: This package provides a unified interface to various<U+000a>machine learning
+  algorithms. Confusion matrices are provided<U+000a>too.
+date_publication: '2013-01-30'
+bug_reports: ''
+url: http://www.sciviews.org/zooimage
+url_cran: https://CRAN.R-project.org/package=mlearning
+url_git: ''

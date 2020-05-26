@@ -1,0 +1,15 @@
+version: 0.1.9
+title: Calculate the Compressibility Factor 'z' for Hydrocarbon Gases
+maintainer: Alfonso R. Reyes
+description: |-
+  Computational algorithms to solve equations and find the
+  'compressibility' factor `z` of hydrocarbon gases. Correlations available:
+  'Hall-Yarborough', 'Dranchuk-AbuKassem', 'Dranchuk-Purvis-Robinson', 'Beggs-Brill',
+  'Papp', Shell and an Artificial Neural Network correlation (Ann10) by 'Kamyab'
+  'et al'. The package uses the original 'Standing-Katz' chart for statistical
+  comparison and plotting. Applicable to sweet hydrocarbon gases for now.
+date_publication: '2019-08-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=zFactor
+url_git: https://github.com/f0nzie/zFactor

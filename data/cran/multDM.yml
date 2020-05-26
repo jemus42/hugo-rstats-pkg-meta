@@ -1,0 +1,11 @@
+version: 1.1.2
+title: Multivariate Version of the Diebold-Mariano Test
+maintainer: Krzysztof Drachal
+description: 'Allows to perform the multivariate version of the Diebold-Mariano test
+  for equal predictive ability of multiple forecast comparison. Main reference: Mariano,
+  R.S., Preve, D. (2012) <doi:10.1016/j.jeconom.2012.01.014>.'
+date_publication: '2020-05-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=multDM
+url_git: ''

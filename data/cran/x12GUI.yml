@@ -1,0 +1,9 @@
+version: 0.13.0
+title: X12 - Graphical User Interface
+maintainer: Alexander Kowarik
+description: A graphical user interface for the x12 package
+date_publication: '2014-11-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=x12GUI
+url_git: https://github.com/alexkowa/x12GUI

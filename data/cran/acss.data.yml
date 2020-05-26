@@ -1,0 +1,17 @@
+version: '1.0'
+title: 'Data Only: Algorithmic Complexity of Short Strings (Computed via<U+000a>Coding
+  Theorem Method)'
+maintainer: Henrik Singmann
+description: Data only package providing the algorithmic complexity of short strings,
+  computed using the coding theorem method. For a given set of symbols in a string,
+  all possible or a large number of random samples of Turing machines (TM) with a
+  given number of states (e.g., 5) and number of symbols corresponding to the number
+  of symbols in the strings were simulated until they reached a halting state or failed
+  to end. This package contains data on 4.5 million strings from length 1 to 12 simulated
+  on TMs with 2, 4, 5, 6, and 9 symbols. The complexity of the string corresponds
+  to the distribution of the halting states of the TMs.
+date_publication: '2014-04-05'
+bug_reports: ''
+url: http://complexitycalculator.com/methodology.html
+url_cran: https://CRAN.R-project.org/package=acss.data
+url_git: ''

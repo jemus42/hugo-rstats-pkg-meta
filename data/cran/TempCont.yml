@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Temporal Contributions on Trends using Mixed Models
+maintainer: Marcos Fernández-Martínez
+description: |-
+  Method to estimate the effect of the trend in predictor variables on the observed trend
+  of the response variable using mixed models with temporal autocorrelation. See Fernández-Martínez et
+  al. (2017 and 2019) <doi:10.1038/s41598-017-08755-8> <doi:10.1038/s41558-018-0367-7>.
+date_publication: '2019-03-19'
+bug_reports: https://github.com/burriach/tempcont/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=TempCont
+url_git: https://github.com/burriach/tempcont

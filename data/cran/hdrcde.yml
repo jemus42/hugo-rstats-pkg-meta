@@ -1,0 +1,11 @@
+version: '3.3'
+title: Highest Density Regions and Conditional Density Estimation
+maintainer: Rob Hyndman
+description: Computation of highest density regions in one and two dimensions, kernel
+  estimation of univariate density functions conditional on one covariate,and multimodal
+  regression.
+date_publication: '2018-12-21'
+bug_reports: https://github.com/robjhyndman/hdrcde/issues
+url: http://pkg.robjhyndman.com/hdrcde
+url_cran: https://CRAN.R-project.org/package=hdrcde
+url_git: https://github.com/robjhyndman/hdrcde

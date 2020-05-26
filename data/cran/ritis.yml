@@ -1,0 +1,13 @@
+version: 0.9.0
+title: Integrated Taxonomic Information System Client
+maintainer: Scott Chamberlain
+description: |-
+  An interface to the Integrated Taxonomic Information System ('ITIS')
+  (<https://www.itis.gov>). Includes functions to work with the 'ITIS' REST
+  API methods (<https://www.itis.gov/ws_description.html>), as well as the
+  'Solr' web service (<https://www.itis.gov/solr_documentation.html>).
+date_publication: '2020-04-17'
+bug_reports: https://github.com/ropensci/ritis/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ritis
+url_git: https://github.com/ropensci/ritis(devel)https://docs.ropensci.org/ritis/(docs)

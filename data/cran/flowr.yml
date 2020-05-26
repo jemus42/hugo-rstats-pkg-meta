@@ -1,0 +1,14 @@
+version: 0.9.10
+title: Streamlining Design and Deployment of Complex Workflows
+maintainer: Sahil Seth
+description: |-
+  This framework allows you to design and implement complex
+  pipelines, and deploy them on your institution's computing cluster. This has
+  been built keeping in mind the needs of bioinformatics workflows. However, it is
+  easily extendable to any field where a series of steps (shell commands) are to
+  be executed in a (work)flow.
+date_publication: '2016-04-19'
+bug_reports: https://github.com/sahilseth/flowr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=flowr
+url_git: https://github.com/sahilseth/flowr

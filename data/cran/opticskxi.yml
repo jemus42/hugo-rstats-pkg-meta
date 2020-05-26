@@ -1,0 +1,11 @@
+version: '0.1'
+title: OPTICS K-Xi Density-Based Clustering
+maintainer: Thomas Charlon
+description: Provides a novel density-based cluster extraction method, OPTICS k-Xi,
+  and a framework to compare k-Xi models using distance-based metrics to investigate
+  datasets with unknown number of clusters.
+date_publication: '2019-07-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=opticskxi
+url_git: ''

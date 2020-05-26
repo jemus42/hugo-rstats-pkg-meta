@@ -1,0 +1,14 @@
+version: 1.7.2
+title: Tumor Mutation Detection in Plasma
+maintainer: Yves Rozenholc
+description: |-
+  Aims at detecting single nucleotide variation
+  (SNV) and insertion/deletion (INDEL) in circulating tumor DNA (ctDNA), used
+  as a surrogate marker for tumor, at each base position of an Next Generation
+  Sequencing (NGS) analysis. Mutations are assessed by comparing the minor-allele
+  frequency at each position to the measured PER in control samples.
+date_publication: '2018-06-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PlasmaMutationDetector
+url_git: ''

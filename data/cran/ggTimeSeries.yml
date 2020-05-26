@@ -1,0 +1,10 @@
+version: 1.0.1
+title: Time Series Visualisations Using the Grammar of Graphics
+maintainer: Aditya Kothari
+description: Provides additional display mediums for time series visualisations, such
+  as calendar heat map, steamgraph, marimekko, etc.
+date_publication: '2018-09-03'
+bug_reports: https://github.com/Ather-Energy/ggTimeSeries/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggTimeSeries
+url_git: https://github.com/Ather-Energy/ggTimeSeries

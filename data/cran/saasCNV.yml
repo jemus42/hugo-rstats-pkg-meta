@@ -1,0 +1,14 @@
+version: 0.3.4
+title: |-
+  Somatic Copy Number Alteration Analysis Using Sequencing and SNP
+  Array Data
+maintainer: Zhongyang Zhang
+description: |-
+  Perform joint segmentation on two signal dimensions derived from
+  total read depth (intensity) and allele specific read depth (intensity) for
+  whole genome sequencing (WGS), whole exome sequencing (WES) and SNP array data.
+date_publication: '2016-05-18'
+bug_reports: ''
+url: https://zhangz05.u.hpc.mssm.edu/saasCNV/
+url_cran: https://CRAN.R-project.org/package=saasCNV
+url_git: ''

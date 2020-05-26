@@ -1,0 +1,12 @@
+version: 1.0.4
+title: Crowd Sourced System Benchmarks
+maintainer: Colin Gillespie
+description: |-
+  Benchmark your CPU and compare against other CPUs.
+  Also provides functions for obtaining system specifications, such as
+  RAM, CPU type, and R version.
+date_publication: '2020-05-09'
+bug_reports: https://github.com/csgillespie/benchmarkme/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=benchmarkme
+url_git: https://github.com/csgillespie/benchmarkme

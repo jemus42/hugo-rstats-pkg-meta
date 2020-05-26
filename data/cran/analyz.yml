@@ -1,0 +1,12 @@
+version: '1.4'
+title: |-
+  Model Layer for Automatic Data Analysis via CSV File
+  Interpretation
+maintainer: Rodrigo Buhler
+description: Class with methods to read and execute R commands described as steps
+  in a CSV file.
+date_publication: '2015-02-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=analyz
+url_git: ''

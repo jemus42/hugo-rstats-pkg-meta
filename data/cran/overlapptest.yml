@@ -1,0 +1,11 @@
+version: '1.1'
+title: Test Overlapping of Polygons Against Random Rotation
+maintainer: Marcelino de la Cruz
+description: Tests the observed overlapping polygon area in a collection of polygons
+  against a null model of random rotation, as explained in De la Cruz et al. (2017)
+  <doi:10.13140/RG.2.2.12825.72801>.
+date_publication: '2019-02-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=overlapptest
+url_git: ''

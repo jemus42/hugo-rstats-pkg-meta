@@ -1,0 +1,15 @@
+version: 1.4.1
+title: |-
+  Utilizes the Black-Scholes Option Pricing Model to Perform
+  Strategic Option Analysis and Plot Option Strategies
+maintainer: John T. Buynak
+description: |-
+  Utilizes the Black-Scholes-Merton option pricing model to
+  calculate key option analytics and perform graphical analysis of various option strategies.
+  Provides functions to calculate the option premium and option
+  greeks of European-style options.
+date_publication: '2019-12-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=optionstrat
+url_git: ''

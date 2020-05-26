@@ -1,0 +1,9 @@
+version: 1.0-0
+title: The Free Algebra
+maintainer: Robin K. S. Hankin
+description: The free algebra in R; multivariate polynomials with non-commuting indeterminates.
+date_publication: '2019-09-23'
+bug_reports: https://github.com/RobinHankin/freealg/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=freealg
+url_git: https://github.com/RobinHankin/freealg.git

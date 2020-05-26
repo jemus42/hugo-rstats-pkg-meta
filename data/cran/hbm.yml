@@ -1,0 +1,13 @@
+version: '1.0'
+title: Hierarchical Block Matrix Analysis
+maintainer: Yoli Shavit
+description: A package for building hierarchical block matrices from association matrices
+  and for performing multi-scale analysis. It specifically targets chromatin contact
+  maps, generated from high-throughput chromosome conformation capture data, such
+  as 5C and Hi-C, and provides methods for detecting movements and for computing chain
+  hierarchy and region communicability across scales.
+date_publication: '2015-02-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hbm
+url_git: ''

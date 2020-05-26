@@ -1,0 +1,16 @@
+version: 1.0.0
+title: Area of Resilience to Stress Event
+maintainer: Nathaniel Ratcliff
+description: |-
+  A method for quantifying resilience after a stress event. A set of functions
+  calculate the area of resilience that is created by the departure of baseline
+  'y' (i.e., robustness) and the time taken 'x' to return to baseline
+  (i.e., rapidity) after a stress event using the Cartesian coordinates of the
+  data. This package has the capability to calculate areas of resilience,
+  growth, and cases in which resilience is not achieved
+  (e.g., diminished performance without return to baseline).
+date_publication: '2019-05-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=arse
+url_git: https://github.com/nr3xe/arse

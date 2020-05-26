@@ -1,0 +1,15 @@
+version: 0.1.0
+title: Zero Order vs (Semi) Partial Correlation Test and CI
+maintainer: Dan Richard
+description: |-
+  Uses bootstrap to test zero order correlation being equal to a
+  partial or semi-partial correlation (one or two tailed). Confidence
+  intervals for the parameter (zero order minus partial) can also be
+  determined. Implements the bias-corrected and accelerated bootstrap
+  method as described in "An Introduction to the Bootstrap" Efron (1983)
+  <0-412-04231-2>.
+date_publication: '2018-09-21'
+bug_reports: https://github.com/djrichar92/zeroEQpart/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=zeroEQpart
+url_git: https://github.com/djrichar92/zeroEQpart

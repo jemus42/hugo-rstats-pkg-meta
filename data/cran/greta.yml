@@ -1,0 +1,12 @@
+version: 0.3.1
+title: Simple and Scalable Statistical Modelling in R
+maintainer: Nick Golding
+description: |-
+  Write statistical models in R and fit them by MCMC and optimisation on CPUs and GPUs, using Google 'TensorFlow'.
+  greta lets you write your own model like in BUGS, JAGS and Stan, except that you write models right in R, it scales well to massive datasets, and it’s easy to extend and build on.
+  See the website for more information, including tutorials, examples, package documentation, and the greta forum.
+date_publication: '2019-08-09'
+bug_reports: https://github.com/greta-dev/greta/issues
+url: https://greta-stats.org
+url_cran: https://CRAN.R-project.org/package=greta
+url_git: ''

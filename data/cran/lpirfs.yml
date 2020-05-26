@@ -1,0 +1,11 @@
+version: 0.1.7
+title: Local Projections Impulse Response Functions
+maintainer: Philipp Adämmer
+description: |-
+  Provides functions to estimate and plot linear as well as nonlinear impulse
+  responses based on local projections by Jordà (2005) <doi:10.1257/0002828053828518>.
+date_publication: '2019-11-25'
+bug_reports: https://github.com/adaemmerp/lpirfs/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=lpirfs
+url_git: ''

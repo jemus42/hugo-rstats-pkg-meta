@@ -1,0 +1,12 @@
+version: 0.1.6
+title: Non-Negative Conjugate-Gradient Minimizer
+maintainer: David Cortes
+description: |-
+  Minimize a differentiable function subject to all the variables being non-negative (i.e. >= 0),
+  using a Conjugate-Gradient algorithm based on a modified Polak-Ribiere-Polyak formula as described in
+  (Li, Can, 2013, <https://www.hindawi.com/journals/jam/2013/986317/abs/>).
+date_publication: '2019-09-05'
+bug_reports: https://github.com/david-cortes/nonneg_cg/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=nonneg.cg
+url_git: https://github.com/david-cortes/nonneg_cg

@@ -1,0 +1,14 @@
+version: 0.1.6
+title: |-
+  Automated Transcriptome Classifier Pipeline: Comprehensive
+  Transcriptome Analysis
+maintainer: Karam Daka
+description: |-
+  An unsupervised fully-automated pipeline for transcriptome analysis or a supervised option to identify characteristic genes from predefined subclasses.
+  We rely on the 'pamr' <http://www.bioconductor.org/packages//2.7/bioc/html/pamr.html> clustering algorithm to cluster the Data and then draw a heatmap of the clusters with the most significant genes and the
+  least significant genes according to the 'pamr' algorithm. This way we get easy to grasp heatmaps that show us for each cluster which are the clusters most defining genes.
+date_publication: '2019-02-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AutoPipe
+url_git: ''

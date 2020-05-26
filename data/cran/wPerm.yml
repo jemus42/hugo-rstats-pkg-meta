@@ -1,0 +1,15 @@
+version: 1.0.1
+title: Permutation Tests
+maintainer: Neil A. Weiss
+description: |-
+  Supplies permutation-test alternatives to traditional hypothesis-test
+  procedures such as two-sample tests for means, medians, and standard deviations;
+  correlation tests; tests for homogeneity and independence; and more. Suitable for
+  general audiences, including individual and group users, introductory statistics
+  courses, and more advanced statistics courses that desire an introduction to
+  permutation tests.
+date_publication: '2015-11-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=wPerm
+url_git: ''

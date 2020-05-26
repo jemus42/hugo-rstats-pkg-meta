@@ -1,0 +1,12 @@
+version: '0.7'
+title: Read, Create and Write 'PharmML' Standard Output (so) XML Files
+maintainer: Rikard Nordgren
+description: |-
+  Handle 'PharmML' (Pharmacometrics Markup Language) standard output (SO) XML files.
+  SO files can be created, read, manipulated and written through a
+  data binding from the XML structure to a tree structure of R objects.
+date_publication: '2019-05-15'
+bug_reports: https://github.com/rikardn/libsoc/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=libsoc
+url_git: https://github.com/rikardn/libsoc

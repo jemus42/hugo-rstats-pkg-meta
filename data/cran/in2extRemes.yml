@@ -1,0 +1,10 @@
+version: 1.0-3
+title: Into the extRemes Package
+maintainer: Eric Gilleland
+description: Graphical User Interface (GUI) to some of the functions in the package
+  extRemes version >= 2.0 are included.
+date_publication: '2016-10-14'
+bug_reports: ''
+url: http://www.assessment.ucar.edu/toolkit/
+url_cran: https://CRAN.R-project.org/package=in2extRemes
+url_git: ''

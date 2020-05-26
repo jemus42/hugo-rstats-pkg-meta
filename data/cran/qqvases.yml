@@ -1,0 +1,14 @@
+version: 1.0.0
+title: Animated Normal Quantile-Quantile Plots
+maintainer: Robert Stine
+description: Presents an explanatory animation of normal quantile-quantile plots based
+  on a water-filling analogy.  The animation presents a normal QQ plot as the parametric
+  plot of the water levels in vases defined by two distributions.  The distributions
+  decorate the axes in the normal QQ plot and are optionally shown as vases adjacent
+  to the plot.  The package draws QQ plots for several distributions, either as samples
+  or continuous functions.
+date_publication: '2016-09-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=qqvases
+url_git: ''

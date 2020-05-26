@@ -1,0 +1,11 @@
+version: 0.4.0
+title: Robust Regression with Data Driven Tuning Parameter
+maintainer: You-Gan Wang
+description: Data driven approach for robust regression estimation in homoscedastic
+  and heteroscedastic context. See Wang et al. (2007), <doi:10.1198/106186007X180156>
+  regarding homoscedastic framework.
+date_publication: '2019-10-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rlmDataDriven
+url_git: ''

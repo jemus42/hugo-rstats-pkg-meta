@@ -1,0 +1,13 @@
+version: 1.0.2
+title: Multivariate Statistical Quality Control
+maintainer: Edgar Santos-Fernandez
+description: This is a toolkit for multivariate process monitoring. It computes several
+  multivariate control charts e.g. Hotelling, Chi-squared, MEWMA, MCUSUM and Generalized
+  Variance. Ten didactic datasets are included. It includes some techniques for assessing
+  multivariate normality e.g. Mardia's, Royston's and Henze-Zirkler's tests. Please,
+  see the NEWS file for the latest changes in the package.
+date_publication: '2016-06-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MSQC
+url_git: ''

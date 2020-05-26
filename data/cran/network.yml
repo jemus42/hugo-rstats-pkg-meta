@@ -1,0 +1,10 @@
+version: 1.16.0
+title: Classes for Relational Data
+maintainer: Carter T. Butts
+description: Tools to create and modify network objects.  The network class can represent
+  a range of relational data types, and supports arbitrary vertex/edge/graph attributes.
+date_publication: '2019-12-01'
+bug_reports: ''
+url: http://statnet.org/
+url_cran: https://CRAN.R-project.org/package=network
+url_git: ''

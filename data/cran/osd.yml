@@ -1,0 +1,16 @@
+version: '0.1'
+title: |-
+  Orthogonal Signal Deconvolution for Spectra Deconvolution in
+  GC-MS and GCxGC-MS Data
+maintainer: Xavier Domingo-Almenara
+description: Compound deconvolution for chromatographic data, including gas chromatography
+  - mass spectrometry (GC-MS) and comprehensive gas chromatography - mass spectrometry
+  (GCxGC-MS). The package includes functions to perform independent component analysis
+  - orthogonal signal deconvolution (ICA-OSD), independent component regression (ICR),
+  multivariate curve resolution (MCR-ALS) and orthogonal signal deconvolution (OSD)
+  alone.
+date_publication: '2016-03-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=osd
+url_git: ''

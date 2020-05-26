@@ -1,0 +1,12 @@
+version: '0.9'
+title: Design and Simulation of seamless Phase II-III Clinical Trials
+maintainer: Balasubramanian Narasimhan
+description: Provides methods for generating, exploring and executing seamless Phase
+  II-III designs of Lai, Lavori and Shih using generalized likelihood ratio statistics.
+  Includes pdf and source files that describe the entire R implementation with the
+  relevant mathematical details.
+date_publication: '2014-06-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sp23design
+url_git: ''

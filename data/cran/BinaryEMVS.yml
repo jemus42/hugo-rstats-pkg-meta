@@ -1,0 +1,12 @@
+version: '0.1'
+title: Variable Selection for Binary Data Using the EM Algorithm
+maintainer: John Snyder
+description: |-
+  Implements variable selection for high dimensional datasets with a binary response
+  variable using the EM algorithm.  Both probit and logit models are supported.  Also included
+  is a useful function to generate high dimensional data with correlated variables.
+date_publication: '2016-01-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BinaryEMVS
+url_git: ''

@@ -1,0 +1,17 @@
+version: 0.7.0
+title: |-
+  Test, Check, Verify, Investigate the Monotonic Properties of
+  Vectors
+maintainer: Christopher Brown
+description: |-
+  Functions to test/check/verify/investigate the ordering of vectors.
+  The 'is_[strictly_]*' family of functions test vectors for
+  'sorted', 'monotonic', 'increasing', 'decreasing' order; 'is_constant'
+  and 'is_incremental' test for the degree of ordering. `ordering`
+  provides a numeric indication of ordering -2 (strictly decreasing) to
+  2 (strictly increasing).
+date_publication: '2018-11-19'
+bug_reports: https://github.com/decisionpatterns/ordering/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ordering
+url_git: https://github.com/decisionpatterns/ordering

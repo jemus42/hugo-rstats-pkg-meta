@@ -1,0 +1,16 @@
+version: 1.0.5
+title: Example Data for R Package 'vortexR'
+maintainer: Carlo Pacioni
+description: |-
+  Contains selected data from two publications,
+  Campbell 'et' 'al'. (2016) <DOI:10.1080/14486563.2015.1028486>
+  and 'Pacioni' 'et' 'al'. (2017) <DOI:10.1071/PC17002>.
+  The data is provided both as raw outputs from the population viability
+  analysis software 'Vortex' and packaged as R objects.
+  The R package 'vortexR' uses the raw data provided here to illustrate its
+  functionality of parsing raw 'Vortex' output into R objects.
+date_publication: '2019-02-04'
+bug_reports: https://github.com/carlopacioni/vortexR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=vortexRdata
+url_git: https://github.com/carlopacioni/vortexRdata/

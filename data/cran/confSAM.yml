@@ -1,0 +1,17 @@
+version: '0.2'
+title: |-
+  Estimates and Bounds for the False Discovery Proportion, by
+  Permutation
+maintainer: Jesse Hemerik
+description: |-
+  For multiple testing.
+  Computes estimates and confidence bounds for the
+  False Discovery Proportion (FDP), the fraction of false positives among
+  all rejected hypotheses.
+  The methods in the package use permutations of the data. Doing so, they
+  take into account the dependence structure in the data.
+date_publication: '2018-02-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=confSAM
+url_git: ''

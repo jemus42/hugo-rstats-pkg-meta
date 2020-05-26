@@ -1,0 +1,12 @@
+version: 0.2.1
+title: Tools for R Markdown to Docx Documents
+maintainer: Richard Layton
+description: |-
+  A set of helper functions for using R Markdown to create documents
+  in docx format, especially documents for use in a classroom or workshop
+  setting.
+date_publication: '2019-02-09'
+bug_reports: https://github.com/graphdr/docxtools/issues
+url: https://graphdr.github.io/docxtools
+url_cran: https://CRAN.R-project.org/package=docxtools
+url_git: ''

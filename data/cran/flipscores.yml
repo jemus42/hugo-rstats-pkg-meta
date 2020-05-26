@@ -1,0 +1,15 @@
+version: '0.2'
+title: Robust Testing in GLMs
+maintainer: Jesse Hemerik
+description: |-
+  Provides robust tests for testing in GLMs,
+  by sign-flipping score contributions.
+  The tests are often robust against overdispersion,
+  heteroscedasticity and, in some cases,
+  ignored nuisance variables.
+  See Hemerik and Goeman (2017) <doi:10.1007/s11749-017-0571-1>.
+date_publication: '2018-09-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=flipscores
+url_git: ''

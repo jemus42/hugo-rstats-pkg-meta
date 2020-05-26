@@ -1,0 +1,9 @@
+version: 1.0-6
+title: N-Gram Based Text Categorization
+maintainer: Kurt Hornik
+description: Text categorization based on n-grams.
+date_publication: '2018-11-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=textcat
+url_git: ''

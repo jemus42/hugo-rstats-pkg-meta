@@ -1,0 +1,10 @@
+version: '1.0'
+title: Scan Statistics in Social Networks
+maintainer: Tai-Chi Wang
+description: Scan statistics applied in social network data can be used to test the
+  cluster characteristics among a social network.
+date_publication: '2016-01-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SNscan
+url_git: ''

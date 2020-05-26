@@ -1,0 +1,9 @@
+version: 1.0.0
+title: Fill Missing Values in Vectors
+maintainer: Jelger van Zaane
+description: Edit vectors to fill missing values, based on the vector itself.
+date_publication: '2020-01-28'
+bug_reports: https://github.com/jelger12/fillr/issues
+url: https://jelger12.github.io/fillr/
+url_cran: https://CRAN.R-project.org/package=fillr
+url_git: ''

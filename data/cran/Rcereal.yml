@@ -1,0 +1,17 @@
+version: 1.2.1
+title: C++11 Header Files for 'cereal'
+maintainer: Wush Wu
+description: |-
+  To facilitate using 'cereal' with Rcpp.
+  'cereal' is a header-only C++11 serialization library.
+  'cereal' takes arbitrary data types and reversibly turns them into
+  different representations, such as compact binary encodings, XML,
+  or JSON. 'cereal' was designed to be fast, light-weight, and easy
+  to extend - it has no external dependencies and can be easily
+  bundled with other code or used standalone. Please see
+  <http://uscilab.github.io/cereal> for more information.
+date_publication: '2017-01-26'
+bug_reports: https://github.com/wush978/Rcereal/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rcereal
+url_git: https://github.com/wush978/Rcereal

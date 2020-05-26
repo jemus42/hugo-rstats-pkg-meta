@@ -1,0 +1,9 @@
+version: 1.1-0
+title: Convenience Functions for Arrays
+maintainer: C. Beleites
+description: Some convenient functions to work with arrays.
+date_publication: '2020-02-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=arrayhelpers
+url_git: http://arrayhelpers.r-forge.r-project.org/

@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Sunter's sampling design
+maintainer: alessandro.barbiero
+description: |-
+  Functions for drawing samples according to Sunter's
+  sampling design, and for computing first and second order
+  inclusion probabilities
+date_publication: '2014-11-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SunterSampling
+url_git: ''

@@ -1,0 +1,14 @@
+version: 0.3.2
+title: |-
+  Duration-Based Quantities of Interest for the Cox Proportional
+  Hazards Model
+maintainer: '"Kropko, Jonathan"'
+description: Functions for generating, simulating, and visualizing expected durations
+  and marginal changes in duration from the Cox proportional hazards model as described
+  in Kropko and Harden (2017) <doi:10.1017/S000712341700045X> and Harden and Kropko
+  (2018) <doi:10.1017/psrm.2018.19>.
+date_publication: '2020-01-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=coxed
+url_git: https://github.com/jkropko/coxed

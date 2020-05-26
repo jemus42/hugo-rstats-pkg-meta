@@ -1,0 +1,11 @@
+version: 1.0.5
+title: Work with Look at NanoSIMS Data in R
+maintainer: Sebastian Kopf
+description: |-
+  R interface for working with nanometer scale secondary ion mass
+  spectrometry (NanoSIMS) data exported from Look at NanoSIMS.
+date_publication: '2017-05-24'
+bug_reports: https://github.com/KopfLab/lans2r/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=lans2r
+url_git: https://github.com/KopfLab/lans2r

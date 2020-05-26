@@ -1,0 +1,16 @@
+version: 0.1.6
+title: Functions for the Lognormal Distribution
+maintainer: Thomas Wutzler
+description: |-
+  The lognormal distribution
+  (Limpert et al. (2001) <doi:10.1641/0006-3568(2001)051%5B0341:lndats%5D2.0.co;2>)
+  can characterize uncertainty that is bounded by zero.
+  This package provides estimation of distribution parameters, computation of
+  moments and other basic statistics, and an approximation of the distribution
+  of the sum of several correlated lognormally distributed variables
+  (Lo 2013 <doi:10.12988/ams.2013.39511>).
+date_publication: '2019-08-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lognorm
+url_git: https://github.com/bgctw/lognorm

@@ -1,0 +1,12 @@
+version: 1.2.0
+title: Download Data from the International House Price Database
+maintainer: Kostas Vasilopoulos
+description: |-
+  Web scraping the <https://www.dallasfed.org> for
+  up-to-date data on international house prices and exuberance
+  indicators. Download data in tidy format.
+date_publication: '2020-04-25'
+bug_reports: https://github.com/kvasilopoulos/ihpdr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ihpdr
+url_git: https://github.com/kvasilopoulos/ihpdr

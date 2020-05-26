@@ -1,0 +1,10 @@
+version: 0.9.3
+title: Leveraging Learning to Automatically Manage Algorithms
+maintainer: Lars Kotthoff
+description: Provides functionality to train and evaluate algorithm selection models
+  for portfolios.
+date_publication: '2020-05-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=llama
+url_git: https://bitbucket.org/lkotthoff/llama

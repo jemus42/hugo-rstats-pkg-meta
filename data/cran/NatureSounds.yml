@@ -1,0 +1,9 @@
+version: 1.0.3
+title: Animal Sounds for Bioacustic Analysis
+maintainer: Marcelo Araya-Salas
+description: Collection of example animal sounds for bioacoustic analysis.
+date_publication: '2020-03-13'
+bug_reports: https://github.com/maRce10/NatureSounds/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=NatureSounds
+url_git: https://github.com/maRce10/NatureSounds

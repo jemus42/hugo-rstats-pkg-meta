@@ -1,0 +1,13 @@
+version: 0.2.1
+title: Easy Pre and Post Assertions
+maintainer: Hadley Wickham
+description: |-
+  An extension to stopifnot() that makes it easy to declare
+  the pre and post conditions that you code should satisfy, while also
+  producing friendly error messages so that your users know what's gone
+  wrong.
+date_publication: '2019-03-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=assertthat
+url_git: ''

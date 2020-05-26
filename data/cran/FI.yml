@@ -1,0 +1,10 @@
+version: '1.0'
+title: Provide functions for forest inventory calculations
+maintainer: David V. Dias
+description: Provide functions for forest inventory calculations.<U+000a>Common volumetric
+  equations (Smalian, Newton and Huber) as well<U+000a>stacking factor and form
+date_publication: '2013-01-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FI
+url_git: ''

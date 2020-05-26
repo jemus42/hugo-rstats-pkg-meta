@@ -1,0 +1,13 @@
+version: '1.5'
+title: Bayesian Estimation for Finite Mixture of Distributions
+maintainer: Reza Mohammadi
+description: Provides statistical tools for Bayesian estimation of finite mixture
+  of distributions, mainly mixture of Gamma, Normal and t-distributions. The package
+  is implemented the Bayesian literature for the finite mixture of distributions,
+  including Mohammadi and et al. (2013) <doi:10.1007/s00180-012-0323-3> and Mohammadi
+  and Salehi-Rad (2012) <doi:10.1080/03610918.2011.588358>.
+date_publication: '2020-05-13'
+bug_reports: ''
+url: https://www.uva.nl/profile/a.mohammadi
+url_cran: https://CRAN.R-project.org/package=bmixture
+url_git: ''

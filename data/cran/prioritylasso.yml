@@ -1,0 +1,10 @@
+version: 0.2.3
+title: Analyzing Multiple Omics Data with an Offset Approach
+maintainer: Simon Klau
+description: Fits successive Lasso models for several blocks of (omics) data with
+  different priorities and takes the predicted values as an offset for the next block.
+date_publication: '2019-12-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=prioritylasso
+url_git: ''

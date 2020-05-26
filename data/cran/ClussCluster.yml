@@ -1,0 +1,17 @@
+version: 0.1.0
+title: |-
+  Simultaneous Detection of Clusters and Cluster-Specific Genes in
+  High-Throughput Transcriptome Data
+maintainer: Li Jun
+description: "Implements a new method 'ClussCluster' descried in Ge Jiang and Jun
+  Li, \"Simultaneous Detection of Clusters and Cluster-Specific Genes in High-throughput
+  Transcriptome Data\" (Unpublished).\nSimultaneously perform clustering analysis
+  and signature \tgene selection on high-dimensional transcriptome data sets. \tTo
+  do so, 'ClussCluster' incorporates a Lasso-type \tregularization penalty term to
+  the objective function of K-\tmeans so that cell-type-specific signature genes can
+  be \tidentified while clustering the cells."
+date_publication: '2019-07-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ClussCluster
+url_git: ''

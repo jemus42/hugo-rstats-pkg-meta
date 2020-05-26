@@ -1,0 +1,12 @@
+version: 0.9.16
+title: Dependent Mixture Models
+maintainer: Ingmar Visser
+description: Fits (multigroup) mixtures of latent or hidden Markov models on mixed
+  categorical and continuous (timeseries) data. The 'Rdonlp2' package can optionally
+  be used for optimization of the log-likelihood and is available from R-forge. See
+  Visser et al. (2009, <DOI:10.1007/978-0-387-95922-1_13>) for examples and applications.
+date_publication: '2020-01-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=depmix
+url_git: ''

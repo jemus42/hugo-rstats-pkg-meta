@@ -1,0 +1,11 @@
+version: 0.6-7
+title: Validation of Clustering Results
+maintainer: Vasyl Pihur
+description: 'Statistical and biological validation of clustering results. This package
+  implements Dunn Index, Silhouette, Connectivity, Stability, BHI and BSI. Further
+  information can be found in Brock, G et al. (2008) <doi: 10.18637/jss.v025.i04>.'
+date_publication: '2020-05-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=clValid
+url_git: ''

@@ -1,0 +1,10 @@
+version: 1.0.2
+title: Simulate a Bus Route Creel Survey of Anglers
+maintainer: Steven H. Ranney
+description: Simulate an angler population, sample the simulated population with a
+  user-specified survey times, and calculate metrics from a bus route-type creel survey.
+date_publication: '2018-03-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=AnglerCreelSurveySimulation
+url_git: ''

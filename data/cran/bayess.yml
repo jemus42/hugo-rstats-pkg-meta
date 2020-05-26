@@ -1,0 +1,12 @@
+version: '1.4'
+title: Bayesian Essentials with R
+maintainer: Christian P. Robert
+description: bayess contains a collection of functions that allows the<U+000a>reenactment
+  of the R programs used in the book "Bayesian<U+000a>Essentials with R" (revision
+  of "Bayesian Core") without<U+000a>further programming. R code being available as
+  well, they can<U+000a>be modified by the user to conduct one's own simulations.
+date_publication: '2013-02-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bayess
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.8.2
+title: Automatic Marking of R Assignments
+maintainer: Mans Magnusson
+description: |-
+  Automatic marking of R assignments for students and teachers based
+  on 'testthat' test suites.
+date_publication: '2019-04-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=markmyassignment
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.8.4
+title: Exploratory and Descriptive Event-Based Data Analysis
+maintainer: Gert Janssenswillen
+description: Exploratory and descriptive analysis of event based data. Provides methods
+  for describing and selecting process data, and for preparing event log data for
+  process mining. Builds on the S3-class for event logs implemented in the package
+  'bupaR'.
+date_publication: '2020-02-25'
+bug_reports: https://github.com/bupaverse/edeaR/issues
+url: https://www.bupar.net
+url_cran: https://CRAN.R-project.org/package=edeaR
+url_git: https://github.com/bupaverse/edeaR

@@ -1,0 +1,20 @@
+version: 0.1.4
+title: |-
+  A Simple R Package for Classical Parametric Statistical Tests
+  and Confidence Intervals in Large Samples
+maintainer: Pierre Lafaye de Micheaux
+description: |-
+  One and two sample mean and variance
+  tests (differences and ratios) are considered.
+  The test statistics are all expressed in the same
+  form as the Student t-test, which facilitates their
+  presentation in the classroom. This contribution
+  also fills the gap of a robust (to non-normality)
+  alternative to the chi-square single variance test
+  for large samples, since no such procedure is implemented
+  in standard statistical software.
+date_publication: '2018-05-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=asympTest
+url_git: ''

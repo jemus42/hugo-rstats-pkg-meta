@@ -1,0 +1,12 @@
+version: 2.3.0
+title: Easy Calculation and Visualisation of Confidence Intervals
+maintainer: Conor Neilson
+description: |-
+  Functions to speed up the exploratory analysis of simple
+  datasets using 'dplyr'. Functions are provided to do the
+  common tasks of calculating confidence intervals.
+date_publication: '2020-03-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=summariser
+url_git: https://github.com/condwanaland/summariser

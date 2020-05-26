@@ -1,0 +1,12 @@
+version: 1.2-2
+title: Classical Goodness-of-Fit Tests for Univariate Distributions
+maintainer: Adrian Baddeley
+description: |-
+  Cramer-Von Mises and Anderson-Darling tests of goodness-of-fit
+  for continuous univariate distributions, using
+  efficient algorithms.
+date_publication: '2019-12-02'
+bug_reports: https://github.com/baddstats/goftest/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=goftest
+url_git: https://github.com/baddstats/goftest

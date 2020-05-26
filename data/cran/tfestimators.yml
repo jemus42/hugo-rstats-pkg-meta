@@ -1,0 +1,13 @@
+version: 1.9.1
+title: Interface to 'TensorFlow' Estimators
+maintainer: Kevin Kuo
+description: |-
+  Interface to 'TensorFlow' Estimators
+  <https://www.tensorflow.org/programmers_guide/estimators>, a high-level
+  API that provides implementations of many different model types
+  including linear models and deep neural networks.
+date_publication: '2018-11-07'
+bug_reports: https://github.com/rstudio/tfestimators/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tfestimators
+url_git: https://github.com/rstudio/tfestimators

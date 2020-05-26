@@ -1,0 +1,15 @@
+version: '1.0'
+title: One-Way Analysis of Variance Based on Triangular Fuzzy Numbers
+maintainer: Abbas Parchami
+description: Long formulas and complex computations are two disadvantage of the extended
+  ANOVA approach where the observed data are fuzzy rather that crisp; for more details
+  see Parchami et al. (2017) <doi:10.1007/s40747-017-0046-8>. Package 'ANOVA.TFNs'
+  can help to the applied users to overcome these two challenges. The most important
+  functions in package 'ANOVA.TFNs' is FANOVA() which easily draw all membership functions
+  of fuzzy numbers, report observed statistics in fuzzy ANOVA table, calculate the
+  p-value and final result for Fuzzy ANOVA test at the certain significance level.
+date_publication: '2018-04-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ANOVA.TFNs
+url_git: ''

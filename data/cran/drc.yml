@@ -1,0 +1,10 @@
+version: 3.0-1
+title: Analysis of Dose-Response Curves
+maintainer: Christian Ritz
+description: Analysis of dose-response data is made available through a suite of flexible
+  and versatile model fitting and after-fitting functions.
+date_publication: '2016-08-30'
+bug_reports: ''
+url: http://www.bioassay.dk
+url_cran: https://CRAN.R-project.org/package=drc
+url_git: ''

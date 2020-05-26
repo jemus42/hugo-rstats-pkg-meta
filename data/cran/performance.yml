@@ -1,0 +1,17 @@
+version: 0.4.6
+title: Assessment of Regression Models Performance
+maintainer: Daniel Lüdecke
+description: |-
+  Utilities for computing measures to assess model quality,
+  which are not directly provided by R's 'base' or 'stats' packages. These
+  include e.g. measures like r-squared, intraclass correlation coefficient
+  (Nakagawa, Johnson & Schielzeth (2017) <doi:10.1098/rsif.2017.0213>),
+  root mean squared error or functions to check models for overdispersion,
+  singularity or zero-inflation and more. Functions apply to a large variety of
+  regression models, including generalized linear models, mixed effects models
+  and Bayesian models.
+date_publication: '2020-05-03'
+bug_reports: https://github.com/easystats/performance/issues
+url: https://easystats.github.io/performance/
+url_cran: https://CRAN.R-project.org/package=performance
+url_git: ''

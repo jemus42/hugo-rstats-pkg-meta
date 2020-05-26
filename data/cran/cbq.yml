@@ -1,0 +1,10 @@
+version: 0.1.0.0
+title: Conditional Binary Quantile Models
+maintainer: Xiao LU
+description: Estimates conditional binary quantile models developed by Lu (2019) <doi:10.1017/pan.2019.29>.
+  The estimation procedure is implemented based on Markov chain Monte Carlo methods.
+date_publication: '2020-01-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cbq
+url_git: ''

@@ -1,0 +1,14 @@
+version: '0.3'
+title: Bayesian Mixture Analysis for Metagenomic Community Profiling
+maintainer: Sofia Morfopoulou
+description: |-
+  Resolves complex metagenomic mixtures by analysing
+  deep sequencing data, using a mixture model based approach.
+  The use of parallel Monte Carlo Markov chains for the exploration
+  of the species space enables the identification of the set
+  of species more likely to contribute to the mixture.
+date_publication: '2019-02-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=metaMix
+url_git: ''

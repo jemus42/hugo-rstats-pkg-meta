@@ -1,0 +1,12 @@
+version: '0.1'
+title: False discovery rate regression
+maintainer: James G. Scott
+description: 'Tools for FDR problems, including false discovery rate regression.<U+000a>See
+  corresponding paper: "False discovery rate regression: application to<U+000a>neural
+  synchrony detection in primary visual cortex."  James G. Scott, Ryan<U+000a>C. Kelly,
+  Matthew A. Smith, Robert E. Kass.'
+date_publication: '2014-03-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FDRreg
+url_git: ''

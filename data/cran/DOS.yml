@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Design of Observational Studies
+maintainer: Paul Rosenbaum
+description: 'Contains data sets, examples and software from the book Design of Observational
+  Studies by Paul R. Rosenbaum, New York: Springer, <doi:10.1007/978-1-4419-1213-8>,
+  ISBN 978-1-4419-1212-1.'
+date_publication: '2018-08-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DOS
+url_git: ''

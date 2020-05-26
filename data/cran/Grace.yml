@@ -1,0 +1,12 @@
+version: 0.5.3
+title: Graph-Constrained Estimation and Hypothesis Tests
+maintainer: Sen Zhao
+description: Use the graph-constrained estimation (Grace) procedure (Zhao and Shojaie,
+  2016 <doi:10.1111/biom.12418>) to estimate graph-guided linear regression coefficients
+  and use the Grace/GraceI/GraceR tests to perform graph-guided hypothesis tests on
+  the association between the response and the predictors.
+date_publication: '2017-04-09'
+bug_reports: ''
+url: http://onlinelibrary.wiley.com/doi/10.1111/biom.12418/abstract
+url_cran: https://CRAN.R-project.org/package=Grace
+url_git: ''

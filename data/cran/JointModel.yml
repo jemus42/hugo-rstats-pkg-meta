@@ -1,0 +1,12 @@
+version: '1.0'
+title: |-
+  Semiparametric Joint Models for Longitudinal and Counting
+  Processes
+maintainer: Sehee Kim
+description: Joint fit of a semiparametric regression model for longitudinal responses
+  and a semiparametric transformation model for time-to-event data.
+date_publication: '2016-06-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=JointModel
+url_git: ''

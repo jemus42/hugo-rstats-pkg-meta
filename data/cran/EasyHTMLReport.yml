@@ -1,0 +1,9 @@
+version: 0.1.1
+title: EasyHTMLReport
+maintainer: Yohei Sato
+description: It is a package that can be used to send HTML reports easily.
+date_publication: '2013-08-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EasyHTMLReport
+url_git: ''

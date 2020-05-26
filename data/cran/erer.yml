@@ -1,0 +1,13 @@
+version: '3.0'
+title: Empirical Research in Economics with R
+maintainer: Changyou Sun
+description: 'Functions, datasets, and sample codes related to the book of ''Empirical
+  Research in Economics: Growing up with R'' by Dr. Changyou Sun are included. Marginal
+  effects for binary or ordered choice models can be calculated. Static and dynamic
+  Almost Ideal Demand System (AIDS) models can be estimated. A typical event analysis
+  in finance can be conducted with several functions included.'
+date_publication: '2020-05-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=erer
+url_git: ''

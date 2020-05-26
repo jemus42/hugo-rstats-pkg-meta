@@ -1,0 +1,13 @@
+version: 1.0.2
+title: |-
+  Testing Homoscedasticity, Multivariate Normality, and Missing
+  Completely at Random
+maintainer: Mortaza Jamshidian
+description: |-
+  To test whether the missing data mechanism, in a set of incompletely observed data, is one of missing completely at random (MCAR).
+  For detailed description see Jamshidian, M. Jalal, S., and Jansen, C. (2014). "MissMech: An R Package for Testing Homoscedasticity, Multivariate Normality, and Missing Completely at Random (MCAR)," Journal of Statistical Software,  56(6), 1-31. URL http://www.jstatsoft.org/v56/i06/.
+date_publication: '2015-04-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MissMech
+url_git: ''

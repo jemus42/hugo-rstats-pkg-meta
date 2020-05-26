@@ -1,0 +1,12 @@
+version: '1.0'
+title: selects significant non-additive interaction between two<U+000a>variables using
+  fast GLM implementation.
+maintainer: Yi Yang
+description: This package implements a simplified version of least<U+000a>squares,
+  and logistic regression for efficiently selecting the<U+000a>significant non-additive
+  interactions between two variables.
+date_publication: '2012-06-21'
+bug_reports: ''
+url: http://code.google.com/p/ezglm/
+url_cran: https://CRAN.R-project.org/package=ezglm
+url_git: ''

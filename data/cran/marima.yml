@@ -1,0 +1,11 @@
+version: '2.2'
+title: Multivariate ARIMA and ARIMA-X Analysis
+maintainer: Henrik Spliid
+description: |-
+  Multivariate ARIMA and ARIMA-X estimation using Spliid's
+  algorithm (marima()) and simulation (marima.sim()).
+date_publication: '2017-01-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=marima
+url_git: ''

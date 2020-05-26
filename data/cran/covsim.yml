@@ -1,0 +1,14 @@
+version: 0.1.0
+title: VITA and IG Simulation for Given Covariance and Marginals
+maintainer: Njål Foldnes
+description: |-
+  User specifies population covariance matrix. Marginal information may be fully
+  specified, for which the package implements the VITA (VIne-To-Anything) algorithm.
+  Groenneberg and Foldnes (2017) <doi:10.1007/s11336-017-9569-6>.
+  Alternatively, marginal skewness and kurtosis may be specified, for which the package
+  implements the IG (independent generator) algorithm. Foldnes and Olsson (2016) <doi:10.1080/00273171.2015.1133274>.
+date_publication: '2020-05-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=covsim
+url_git: ''

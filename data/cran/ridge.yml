@@ -1,0 +1,13 @@
+version: '2.5'
+title: |-
+  Ridge Regression with Automatic Selection of the Penalty
+  Parameter
+maintainer: Steffen Moritz
+description: |-
+  Linear and logistic ridge regression functions. Additionally includes special functions for
+  genome-wide single-nucleotide polymorphism (SNP) data.
+date_publication: '2020-03-20'
+bug_reports: https://github.com/SteffenMoritz/ridge/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ridge
+url_git: http://github.com/SteffenMoritz/ridge

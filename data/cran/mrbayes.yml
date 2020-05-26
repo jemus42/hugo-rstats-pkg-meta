@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Bayesian Summary Data Models for Mendelian Randomization Studies
+maintainer: Okezie Uche-Ikonne
+description: |-
+  Bayesian estimation of inverse variance weighted (IVW), Burgess
+  et al. (2013) <doi:10.1002/gepi.21758>, and MR-Egger, Bowden et
+  al. (2015) <doi:10.1093/ije/dyv080>, summary data models for Mendelian
+  randomization analyses.
+date_publication: '2019-09-04'
+bug_reports: https://github.com/okezie94/mrbayes/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mrbayes
+url_git: https://github.com/okezie94/mrbayes

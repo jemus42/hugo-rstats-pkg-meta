@@ -1,0 +1,16 @@
+version: '1.1'
+title: Stratified Weibull Regression Model
+maintainer: Xiangdong Gu
+description: |-
+  The main function is icweib(), which fits a stratified Weibull
+  proportional hazards model for left censored, right censored, interval censored,
+  and non-censored survival data. We parameterize the Weibull regression model
+  so that it allows a stratum-specific baseline hazard function, but where the
+  effects of other covariates are assumed to be constant across strata.
+  Please refer to Xiangdong Gu, David Shapiro, Michael D. Hughes and
+  Raji Balasubramanian (2014) <doi:10.32614/RJ-2014-003> for more details.
+date_publication: '2019-11-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=straweib
+url_git: ''

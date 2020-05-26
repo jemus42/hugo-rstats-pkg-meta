@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Using Historical Controls for Designing Phase II Clinical Trials
+maintainer: Dominic Edelmann
+description: Provides functions for designing phase II clinical trials adjusting for
+  the heterogeneity of the population using known subgroups or historical controls.
+date_publication: '2018-12-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hctrial
+url_git: ''

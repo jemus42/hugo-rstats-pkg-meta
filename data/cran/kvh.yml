@@ -1,0 +1,12 @@
+version: 1.4.1
+title: Read/Write Files in Key-Value-Hierarchy Format
+maintainer: Serguei Sokol
+description: |-
+  The format KVH is a lightweight format that can be read/written both by humans and machines.
+  It can be useful in situations where XML or alike formats seem to be an overkill.
+  We provide an ability to parse KVH files in R pretty fast due to 'Rcpp' use.
+date_publication: '2019-04-29'
+bug_reports: https://github.com/sgsokol/kvh/issues
+url: http://serguei.sokol.free.fr/kvh-format/
+url_cran: https://CRAN.R-project.org/package=kvh
+url_git: ''

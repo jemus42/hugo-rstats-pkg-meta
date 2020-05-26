@@ -1,0 +1,12 @@
+version: 1.0.2
+title: |-
+  Computation and Estimation of Reliability of Stress-Strength
+  Models
+maintainer: Alessandro Barbiero
+description: Reliability of (normal) stress-strength models and for building two-sided
+  or one-sided confidence intervals according to different approximate procedures.
+date_publication: '2016-05-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=StressStrength
+url_git: ''

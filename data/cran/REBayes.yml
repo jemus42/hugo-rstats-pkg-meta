@@ -1,0 +1,14 @@
+version: '2.2'
+title: Empirical Bayes Estimation and Inference
+maintainer: Roger Koenker
+description: |-
+  Kiefer-Wolfowitz maximum likelihood estimation for mixture models
+  and some other density estimation and regression methods based on convex
+  optimization.  See Koenker and Gu (2017) REBayes: An R Package for Empirical
+  Bayes Mixture Methods, Journal of Statistical Software, 82, 1--26,
+  <DOI:10.18637/jss.v082.i08>.
+date_publication: '2020-01-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=REBayes
+url_git: ''

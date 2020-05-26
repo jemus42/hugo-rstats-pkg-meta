@@ -1,0 +1,14 @@
+version: 2.0-1
+title: Interface Between GMT Map-Making Software and R
+maintainer: Arni Magnusson
+description: |-
+  Interface between the GMT map-making software and R, enabling the
+  user to manipulate geographic data within R and call GMT commands to draw and
+  annotate maps in postscript format. The gmt package is about interactive data
+  analysis, rapidly visualizing subsets and summaries of geographic data, while
+  performing statistical analysis in the R console.
+date_publication: '2017-09-11'
+bug_reports: ''
+url: http://gmt.soest.hawaii.edu
+url_cran: https://CRAN.R-project.org/package=gmt
+url_git: ''

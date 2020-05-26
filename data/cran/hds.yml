@@ -1,0 +1,11 @@
+version: 0.8.1
+title: Hazard Discrimination Summary
+maintainer: C. Jason Liang
+description: |-
+  Functions for calculating the hazard discrimination summary and its
+  standard errors, as described in Liang and Heagerty (2016) <doi:10.1111/biom.12628>.
+date_publication: '2016-12-31'
+bug_reports: https://github.com/liangcj/hds/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=hds
+url_git: https://github.com/liangcj/hds

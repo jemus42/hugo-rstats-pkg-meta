@@ -1,0 +1,15 @@
+version: 0.1.1
+title: Grab Bag of 'ggplot2' Functions
+maintainer: Steven E. Pav
+description: |-
+  Extra geoms and scales for 'ggplot2', including geom_cloud(),
+  a Normal density cloud replacement for errorbars;
+  transforms ssqrt_trans and pseudolog10_trans, which are loglike but
+  appropriate for negative data; interp_trans() and warp_trans() which
+  provide scale transforms based on interpolation;
+  and an infix compose operator for scale transforms.
+date_publication: '2017-10-02'
+bug_reports: https://github.com/shabbychef/ggallin/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggallin
+url_git: https://github.com/shabbychef/ggallin

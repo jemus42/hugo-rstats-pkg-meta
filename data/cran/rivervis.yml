@@ -1,0 +1,13 @@
+version: 0.46.0
+title: River Visualisation Tool
+maintainer: Feng Mao
+description: |-
+  This R package is a flexible and efficient tool to
+  visualise both quantitative and qualitative data from river surveys.
+  It can be used to produce diagrams with the topological structure of
+  the river network.
+date_publication: '2015-05-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rivervis
+url_git: ''

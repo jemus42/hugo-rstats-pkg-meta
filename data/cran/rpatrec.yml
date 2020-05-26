@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Recognising Visual Charting Patterns in Time Series Data
+maintainer: Stephan Maier
+description: |-
+  Generating visual charting patterns and noise,
+  smoothing to find a signal in noisy time series and enabling
+  users to apply their findings to real life data.
+date_publication: '2017-05-23'
+bug_reports: http://github.com/maiers94/rpatrec/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rpatrec
+url_git: ''

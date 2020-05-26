@@ -1,0 +1,14 @@
+version: 1.43.17
+title: Multi-Model Inference
+maintainer: Kamil Bartoń
+description: |-
+  Tools for performing model selection and model averaging. Automated
+  model selection through subsetting the maximum model, with optional
+  constraints for model inclusion. Model parameter and prediction
+  averaging based on model weights derived from information criteria
+  (AICc and alike) or custom model weighting schemes.
+date_publication: '2020-04-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MuMIn
+url_git: ''

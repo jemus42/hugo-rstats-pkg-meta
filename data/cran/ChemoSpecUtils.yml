@@ -1,0 +1,9 @@
+version: 0.4.51
+title: Functions Supporting Packages ChemoSpec and ChemoSpec2D
+maintainer: Bryan A. Hanson
+description: Functions supporting the common needs of packages 'ChemoSpec' and 'ChemoSpec2D'.
+date_publication: '2020-04-20'
+bug_reports: https://github.com/bryanhanson/ChemoSpecUtils/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ChemoSpecUtils
+url_git: https://github.com/bryanhanson/ChemoSpecUtils

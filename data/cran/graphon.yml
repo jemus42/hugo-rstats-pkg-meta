@@ -1,0 +1,15 @@
+version: 0.3.4
+title: A Collection of Graphon Estimation Methods
+maintainer: Kisung You
+description: |-
+  Provides a not-so-comprehensive list of methods for estimating graphon,
+  a symmetric measurable function, from a single or multiple of observed networks.
+  For a detailed introduction on graphon and popular estimation techniques,
+  see the paper by Orbanz, P. and Roy, D.M.(2014) <doi:10.1109/TPAMI.2014.2334607>.
+  It also contains several auxiliary functions for generating sample networks
+  using various network models and graphons.
+date_publication: '2020-05-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=graphon
+url_git: ''

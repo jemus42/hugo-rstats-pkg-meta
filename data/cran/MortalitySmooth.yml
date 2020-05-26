@@ -1,0 +1,14 @@
+version: 2.3.4
+title: Smoothing and Forecasting Poisson Counts with P-Splines
+maintainer: Carlo G Camarda
+description: |-
+  Smoothing one- and two-dimensional Poisson counts with
+  P-splines specifically tailored to mortality data.
+  Extra-Poisson variation can be accounted as well as forecasting.
+  Collection of mortality data and a specific function for
+  selecting those data by country, sex, age and years.
+date_publication: '2015-02-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MortalitySmooth
+url_git: ''

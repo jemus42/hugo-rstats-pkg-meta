@@ -1,0 +1,10 @@
+version: 0.2-1
+title: Bias Corrected Bootstrap Confidence Intervals
+maintainer: Balasubramanian Narasimhan
+description: Computation of bootstrap confidence intervals in an almost automatic
+  fashion.
+date_publication: '2018-08-31'
+bug_reports: http://github.com/bnaras/bcaboot/issues
+url: https://bnaras.github.io/bcaboot
+url_cran: https://CRAN.R-project.org/package=bcaboot
+url_git: https://github.com/bnaras/bcaboot

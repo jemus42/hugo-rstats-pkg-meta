@@ -1,0 +1,9 @@
+version: '1.1'
+title: Abrupt Change-Point or Aberration Detection in Point Series
+maintainer: Daniel Amorese
+description: Offers an interactive function for the detection of breakpoints in series.
+date_publication: '2018-07-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ACA
+url_git: ''

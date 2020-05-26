@@ -1,0 +1,15 @@
+version: '1.0'
+title: Distribution Pitting
+maintainer: Harry Joo
+description: 'Compares distributions with one another in terms of their fit to each
+  sample in a dataset that contains multiple samples, as described in Joo, Aguinis,
+  and Bradley (in press). Users can examine the fit of seven distributions per sample:
+  pure power law, lognormal, exponential, power law with an exponential cutoff, normal,
+  Poisson, and Weibull. Automation features allow the user to compare all distributions
+  for all samples with a single command line, which creates a separate row containing
+  results for each sample until the entire dataset has been analyzed.'
+date_publication: '2017-03-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Dpit
+url_git: ''

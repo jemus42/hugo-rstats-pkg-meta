@@ -1,0 +1,13 @@
+version: 1.4.4
+title: Distance Between Phylogenetic Histories
+maintainer: Emmanuel Paradis
+description: |-
+  Geodesic distance between phylogenetic trees and
+  associated functions. The theoretical background of 'distory'
+  is published in Billera et al. (2001) "Geometry of the space of
+  phylogenetic trees." <doi:10.1006/aama.2001.0759>.
+date_publication: '2020-04-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=distory
+url_git: ''

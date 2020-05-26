@@ -1,0 +1,13 @@
+version: 1.1.2
+title: Market Area Models for Retail and Service Locations
+maintainer: Thomas Wieland
+description: Market area models are used to analyze and predict store choices and
+  market areas concerning retail and service locations. This package is a more user-friendly
+  wrapper of the functions in the package 'MCI' (Wieland 2017) providing market area
+  analysis using the Huff Model or the Multiplicative Competitive Interaction (MCI)
+  Model. In 'MCI2', also a function for creating transport costs matrices is provided.
+date_publication: '2019-08-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MCI2
+url_git: ''

@@ -1,0 +1,10 @@
+version: 1.0.4
+title: Inverse-Regression Estimation of Radioactive Doses
+maintainer: David Moriña Soler
+description: Radioactive doses estimation using individual chromosomal aberrations
+  information. See Higueras M, Puig P, Ainsbury E, Rothkamm K. (2015) <doi:10.1088/0952-4746/35/3/557>.
+date_publication: '2019-07-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=radir
+url_git: ''

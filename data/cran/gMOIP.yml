@@ -1,0 +1,16 @@
+version: 1.4.3
+title: |-
+  Tools for 2D and 3D Plots of Single and Multi-Objective
+  Linear/Integer Programming Models
+maintainer: Lars Relund Nielsen
+description: |-
+  Make 2D and 3D plots of linear programming (LP),
+  integer linear programming (ILP), or mixed integer linear programming (MILP) models
+  with up to three objectives. Plots of both the solution and criterion space are possible.
+  For instance the non-dominated (Pareto) set for bi-objective LP/ILP/MILP programming models
+  (see vignettes for an overview).
+date_publication: '2020-02-20'
+bug_reports: https://github.com/relund/gMOIP/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gMOIP
+url_git: https://github.com/relund/gMOIP/

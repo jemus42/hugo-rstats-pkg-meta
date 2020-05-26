@@ -1,0 +1,11 @@
+version: 1.0.2
+title: K-Adaptive Partitioning for Survival data
+maintainer: Soo-Heang Eo
+description: This package provides some routines to conduct the K-adaptive parititioning
+  (kaps) algorithm for survival data. A function kaps is an implementation version
+  of our algorithm.
+date_publication: '2014-11-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=kaps
+url_git: ''

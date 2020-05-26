@@ -1,0 +1,12 @@
+version: 0.4.0
+title: Check User-Supplied Function Arguments
+maintainer: Joe Thorley
+description: |-
+  For developers to check user-supplied function
+  arguments.  It is designed to be simple, fast and customizable.  Error
+  messages follow the tidyverse style guide.
+date_publication: '2020-03-04'
+bug_reports: https://github.com/poissonconsulting/chk/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=chk
+url_git: https://github.com/poissonconsulting/chk

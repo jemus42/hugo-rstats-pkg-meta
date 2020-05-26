@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Additional Families for Generalized Linear Models
+maintainer: Greg McMahan
+description: |-
+  Creates family objects identical to stats
+  family but for new links.
+date_publication: '2020-05-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=extendedFamily
+url_git: ''

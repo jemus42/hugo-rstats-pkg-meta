@@ -1,0 +1,14 @@
+version: 1.0.4
+title: |-
+  Threshold Regression for Interval-Censored Data with a Cure Rate
+  Option
+maintainer: Man-Hua Chen
+description: Fit a threshold regression model for Interval Censored Data based on
+  the first-hitting-time of a boundary by the sample path of a Wiener diffusion process.
+  The threshold regression methodology is well suited to applications involving survival
+  and time-to-event data.
+date_publication: '2017-11-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=thregI
+url_git: ''

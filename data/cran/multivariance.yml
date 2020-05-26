@@ -1,0 +1,19 @@
+version: 2.3.0
+title: Measuring Multivariate Dependence Using Distance Multivariance
+maintainer: Björn Böttcher
+description: |-
+  Distance multivariance is a measure of dependence which can be used to detect
+  and quantify dependence of arbitrarily many random vectors. The necessary functions are
+  implemented in this packages and examples are given. It includes: distance multivariance,
+  distance multicorrelation, dependence structure detection, tests of independence and
+  copula versions of distance multivariance based on the Monte Carlo empirical transform.
+  Detailed references are given in the package description, as starting point for the
+  theoretic background we refer to:
+  B. Böttcher, Dependence and Dependence Structures: Estimation and Visualization Using
+  the Unifying Concept of Distance Multivariance. Open Statistics, Vol. 1, No. 1 (2020),
+  <doi:10.1515/stat-2020-0001>.
+date_publication: '2020-04-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=multivariance
+url_git: ''

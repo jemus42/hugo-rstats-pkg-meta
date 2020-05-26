@@ -1,0 +1,12 @@
+version: 0.9-37
+title: Testing Linear Regression Models
+maintainer: Achim Zeileis
+description: |-
+  A collection of tests, data sets, and examples
+  for diagnostic checking in linear regression models. Furthermore,
+  some generic tools for inference in parametric models are provided.
+date_publication: '2019-04-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lmtest
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.8-3
+title: Plug-in Kernel Density Estimation
+maintainer: Martin Maechler
+description: |-
+  Kernel density estimation with global bandwidth selection
+  via "plug-in".
+date_publication: '2011-11-30'
+bug_reports: ''
+url: originallyfromhttp://www.unizh.ch/biostat/Software/
+url_cran: https://CRAN.R-project.org/package=plugdensity
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.0.4
+title: Gentle Language Installer for R User
+maintainer: Chanyub Park
+description: |-
+  Provides install functions of other languages
+  such as 'java', 'python' for windows and macos.
+date_publication: '2020-01-31'
+bug_reports: https://github.com/mrchypark/multilinguer/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=multilinguer
+url_git: https://github.com/mrchypark/multilinguer

@@ -1,0 +1,11 @@
+version: 0.2.2
+title: Interface to Bank of Japan Statistics
+maintainer: Stefan Angrick
+description: |-
+  Provides an interface to data provided by the Bank of Japan
+  <https://www.boj.or.jp>.
+date_publication: '2020-05-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BOJ
+url_git: ''

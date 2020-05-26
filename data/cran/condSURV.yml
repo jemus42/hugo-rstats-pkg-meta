@@ -1,0 +1,13 @@
+version: 2.0.1
+title: |-
+  Estimation of the Conditional Survival Function for Ordered
+  Multivariate Failure Time Data
+maintainer: Marta Sestelo
+description: |-
+  Method to implement some newly developed methods for the
+  estimation of the conditional survival function.
+date_publication: '2016-12-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=condSURV
+url_git: ''

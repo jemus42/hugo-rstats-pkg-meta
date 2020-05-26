@@ -1,0 +1,15 @@
+version: '0.2'
+title: |-
+  Semidefinite Programming for Fitting Block Models of Equal Block
+  Sizes
+maintainer: Arash A. Amini
+description: An ADMM implementation of SDP-1, a semidefinite programming relaxation
+  of the maximum likelihood estimator for fitting a block model. SDP-1 has a tendency
+  to produce equal-sized blocks and is ideal for producing a form of network histogram
+  approximating a nonparametric graphon model. Alternatively, it can be used for community
+  detection. (This is experimental code, proceed with caution.)
+date_publication: '2015-06-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sbmSDP
+url_git: ''

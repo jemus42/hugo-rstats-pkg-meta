@@ -1,0 +1,12 @@
+version: 3.4.4
+title: Non-Life Insurance Rate-Making System
+maintainer: Saeed Mohammadpour
+description: Design of non-life insurance rate-making system with a frequency and
+  a severity component based on the a posteriori criteria. The rate-making system
+  is a general form of bonus-malus system introduced by Lemaire (1995), <doi:10.1007/978-94-011-0631-3>
+  and Frangos and Vrontos (2001), <doi:10.2143/AST.31.1.991>.
+date_publication: '2018-04-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nlirms
+url_git: ''

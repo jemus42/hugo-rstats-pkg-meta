@@ -1,0 +1,13 @@
+version: 0.9-8
+title: |-
+  Analysis with the Constant Elasticity of Substitution (CES)
+  function
+maintainer: Arne Henningsen
+description: |-
+  Tools for economic analysis and economic modelling
+  with a Constant Elasticity of Substitution (CES) function
+date_publication: '2014-04-23'
+bug_reports: ''
+url: http://www.micEcon.org
+url_cran: https://CRAN.R-project.org/package=micEconCES
+url_git: ''

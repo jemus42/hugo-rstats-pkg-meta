@@ -1,0 +1,11 @@
+version: 1.1.1
+title: Smooth Backfitting
+maintainer: Alberto Arcagni
+description: |-
+  Smooth Backfitting for additive models using
+  Nadaraya-Watson estimator
+date_publication: '2014-12-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sBF
+url_git: ''

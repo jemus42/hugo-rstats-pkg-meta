@@ -1,0 +1,11 @@
+version: 0.1.2
+title: Themes for Base Graphics Plots
+maintainer: Karolis Koncevičius
+description: 'Functions to create and select graphical themes for the base plotting
+  system. Contains: 1) several custom pre-made themes 2) mechanism for creating new
+  themes by making persistent changes to the graphical parameters of base plots.'
+date_publication: '2019-10-17'
+bug_reports: https://github.com/KKPMW/basetheme/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=basetheme
+url_git: https://github.com/KKPMW/basetheme

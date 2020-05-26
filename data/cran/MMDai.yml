@@ -1,0 +1,12 @@
+version: 2.0.0
+title: |-
+  Multivariate Multinomial Distribution Approximation and
+  Imputation for Incomplete Categorical Data
+maintainer: Chaojie Wang
+description: A method to impute the missingness in categorical data. Details see the
+  paper <doi:10.4310/SII.2020.v13.n1.a2>.
+date_publication: '2020-05-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MMDai
+url_git: ''

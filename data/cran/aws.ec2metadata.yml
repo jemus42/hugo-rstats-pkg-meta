@@ -1,0 +1,9 @@
+version: 0.2.0
+title: Get EC2 Instance Metadata
+maintainer: Jonathan Stott
+description: Retrieve Amazon EC2 instance metadata from within the running instance.
+date_publication: '2019-07-15'
+bug_reports: https://github.com/cloudyr/aws.ec2metadata/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=aws.ec2metadata
+url_git: https://github.com/cloudyr/aws.ec2metadata

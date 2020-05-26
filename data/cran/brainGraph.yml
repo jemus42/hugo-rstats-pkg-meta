@@ -1,0 +1,16 @@
+version: 2.7.3
+title: Graph Theory Analysis of Brain MRI Data
+maintainer: Christopher G. Watson
+description: |-
+  A set of tools for performing graph theory analysis of brain MRI
+  data. It works with data from a Freesurfer analysis (cortical thickness,
+  volumes, local gyrification index, surface area), diffusion tensor
+  tractography data (e.g., from FSL) and resting-state fMRI data (e.g., from
+  DPABI). It contains a graphical user interface for graph visualization and
+  data exploration, along with several functions for generating useful
+  figures.
+date_publication: '2019-11-07'
+bug_reports: https://groups.google.com/forum/?hl=en#!forum/brainGraph-help
+url: ''
+url_cran: https://CRAN.R-project.org/package=brainGraph
+url_git: https://github.com/cwatson/brainGraph

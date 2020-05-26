@@ -1,0 +1,17 @@
+version: 0.1.4
+title: |-
+  MetaPCA: Meta-analysis in the Dimension Reduction of Genomic
+  data
+maintainer: Don Kang
+description: |-
+  MetaPCA implements simultaneous dimension reduction using
+  PCA when multiple studies are combined. We propose two basic
+  ideas to find a common PC subspace by eigenvalue maximization
+  approach and angle minimization approach, and we extend the
+  concept to incorporate Robust PCA and Sparse PCA in the
+  meta-analysis realm.
+date_publication: '2011-06-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MetaPCA
+url_git: https://github.com/donkang75/MetaPCA

@@ -1,0 +1,14 @@
+version: '1.0'
+title: Cluster analysis to find molecular subtypes and their assessment
+maintainer: Woojoo Lee
+description: |-
+  subtype performs a biclustering procedure on a input
+  dataset and assess whether resulting clusters are promising
+  subtypes. Note that the R-package rsmooth should be installed
+  before implementing subtype. rsmooth can be downloaded from
+  http://www.meb.ki.se/~yudpaw.
+date_publication: '2013-01-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=subtype
+url_git: ''

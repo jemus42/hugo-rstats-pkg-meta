@@ -1,0 +1,13 @@
+version: '1.0'
+title: Sequential Allocation for Prospective Experiments
+maintainer: Xiaoshu Zhu
+description: |-
+  Potential randomization schemes are prospectively evaluated when
+  units are assigned to treatment arms upon entry into the experiment. The schemes
+  are evaluated for balance on covariates and on predictability (i.e., how well
+  could a site worker guess the treatment of the next unit enrolled).
+date_publication: '2016-08-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SeqAlloc
+url_git: ''

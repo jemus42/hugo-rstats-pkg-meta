@@ -1,0 +1,12 @@
+version: 0.1-1
+title: Design and Analysis of Non-Inferiority Trials
+maintainer: Matteo Quartagno
+description: |-
+  Provides tools to help the design and analysis of resilient non-inferiority trials. These include functions for sample size
+  calculations and analyses of trials, with either a risk difference, risk ratio or arc-sine difference margin, and a function to run simulations to
+  design a trial with the methods described in Quartagno et al. (2019) <arXiv:1905.00241>.
+date_publication: '2020-01-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dani
+url_git: ''

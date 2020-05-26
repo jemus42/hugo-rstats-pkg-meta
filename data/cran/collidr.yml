@@ -1,0 +1,12 @@
+version: 0.1.2
+title: |-
+  Check for Namespace Collisions with Other Packages and Functions
+  on CRAN
+maintainer: Steve Condylios
+description: Check for namespace collisions between a string input (your function
+  or package name) and a quarter of a million packages and functions on CRAN.
+date_publication: '2019-09-08'
+bug_reports: https://github.com/collidrpackage/collidr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=collidr
+url_git: https://github.com/collidrpackage/collidr

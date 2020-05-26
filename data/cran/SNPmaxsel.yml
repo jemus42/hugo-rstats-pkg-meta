@@ -1,0 +1,11 @@
+version: 1.0-3
+title: Maximally selected statistics for SNP data
+maintainer: Anne-Laure Boulesteix
+description: |-
+  This package implements asymptotic methods related to
+  maximally selected statistics, with applications to SNP data.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SNPmaxsel
+url_git: ''

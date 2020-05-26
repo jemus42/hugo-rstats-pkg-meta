@@ -1,0 +1,11 @@
+version: 0.2.0
+title: Accesses the Monkeylearn API for Text Classifiers and Extractors
+maintainer: Maëlle Salmon
+description: |-
+  Allows using some services of Monkeylearn <http://monkeylearn.com/> which is
+  a Machine Learning platform on the cloud for text analysis (classification and extraction).
+date_publication: '2018-04-13'
+bug_reports: http://github.com/ropensci/monkeylearn/issues
+url: http://ropensci.github.io/monkeylearn/
+url_cran: https://CRAN.R-project.org/package=monkeylearn
+url_git: http://github.com/ropensci/monkeylearn

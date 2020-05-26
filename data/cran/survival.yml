@@ -1,0 +1,13 @@
+version: 3.1-12
+title: Survival Analysis
+maintainer: Terry M Therneau
+description: |-
+  Contains the core survival analysis routines, including
+  definition of Surv objects,
+  Kaplan-Meier and Aalen-Johansen (multi-state) curves, Cox models,
+  and parametric accelerated failure time models.
+date_publication: '2020-04-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=survival
+url_git: https://github.com/therneau/survival

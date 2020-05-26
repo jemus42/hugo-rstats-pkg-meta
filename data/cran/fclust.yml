@@ -1,0 +1,10 @@
+version: 2.1.1
+title: Fuzzy Clustering
+maintainer: Paolo Giordani
+description: Algorithms for fuzzy clustering, cluster validity indices and plots for
+  cluster validity and visualizing fuzzy clustering results.
+date_publication: '2019-09-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fclust
+url_git: ''

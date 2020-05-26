@@ -1,0 +1,20 @@
+version: 2.4-14
+title: Bayesian Treed Gaussian Process Models
+maintainer: Robert B. Gramacy
+description: |-
+  Bayesian nonstationary, semiparametric nonlinear regression
+  and design by treed Gaussian processes (GPs) with jumps to the limiting
+  linear model (LLM).  Special cases also implemented include Bayesian
+  linear models, CART, treed linear models, stationary separable and
+  isotropic GPs, and GP single-index models.  Provides 1-d and 2-d plotting functions
+  (with projection and slice capabilities) and tree drawing, designed for
+  visualization of tgp-class output.  Sensitivity analysis and
+  multi-resolution models are supported. Sequential experimental
+  design and adaptive sampling functions are also provided, including ALM,
+  ALC, and expected improvement.  The latter supports derivative-free
+  optimization of noisy black-box functions.
+date_publication: '2016-02-07'
+bug_reports: ''
+url: http://bobby.gramacy.com/r_packages/tgp
+url_cran: https://CRAN.R-project.org/package=tgp
+url_git: ''

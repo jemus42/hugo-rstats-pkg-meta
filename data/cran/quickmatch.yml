@@ -1,0 +1,15 @@
+version: 0.2.1
+title: Quick Generalized Full Matching
+maintainer: Fredrik Savje
+description: |2-
+
+  Provides functions for constructing near-optimal generalized full matching.
+  Generalized full matching is an extension of the original full matching method
+  to situations with more intricate study designs. The package is made with
+  large data sets in mind and derives matches more than an order of magnitude
+  quicker than other methods.
+date_publication: '2018-08-24'
+bug_reports: https://github.com/fsavje/quickmatch/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=quickmatch
+url_git: https://github.com/fsavje/quickmatch

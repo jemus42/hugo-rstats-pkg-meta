@@ -1,0 +1,12 @@
+version: '1.0'
+title: |-
+  A package for semiparametric regression analysis of
+  interval-censored data
+maintainer: Lianming Wang
+description: Currently using the proportional hazards (PH) model. More methods under
+  other semiparametric regression models will be included in later versions.
+date_publication: '2014-06-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ICsurv
+url_git: ''

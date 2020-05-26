@@ -1,0 +1,13 @@
+version: 0.3.3
+title: Simplifies Plotting Data Inside Databases
+maintainer: Edgar Ruiz
+description: |-
+  Leverages 'dplyr' to process the calculations of a plot inside a database.
+  This package provides helper functions that abstract the work at three levels:
+  outputs a 'ggplot', outputs the calculations, outputs the formula
+  needed to calculate bins.
+date_publication: '2020-02-07'
+bug_reports: https://github.com/edgararuiz/dbplot/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dbplot
+url_git: https://github.com/edgararuiz/dbplot

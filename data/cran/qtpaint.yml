@@ -1,0 +1,11 @@
+version: 0.9.1
+title: Qt-Based Painting Infrastructure
+maintainer: Michael Lawrence
+description: |-
+  Low-level interface to functionality in Qt for efficiently drawing
+  dynamic graphics and handling basic user input.
+date_publication: '2015-11-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=qtpaint
+url_git: ''

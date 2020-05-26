@@ -1,0 +1,16 @@
+version: '0.1'
+title: Multivariate Spatial Models with 'INLA'
+maintainer: Virgilio Gómez-Rubio
+description: |-
+  Implementation of several multivariate areal latent effects for
+  'INLA' using the 'rgeneric' latent effect (Palmí-Perales et al., 2019,
+  <arXiv:1909.10804>). The 'INLA' package can be downloaded from
+  <http://www.r-inla.org>. In particular, the package includes latent
+  effects ready to use for several multivariate spatial models:
+  intrinsic CAR, proper CAR and the M-model (Botella-Rocamora
+  et al., 2015, <doi:10.1002/sim.6423>).
+date_publication: '2019-10-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=INLAMSM
+url_git: ''

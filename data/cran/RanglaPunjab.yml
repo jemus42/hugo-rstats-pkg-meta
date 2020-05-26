@@ -1,0 +1,17 @@
+version: 2.3.4
+title: Displays Palette of 5 Colors
+maintainer: Sonia Ahluwalia
+description: |-
+  Displays palette of 5 colors based on photos depicting the unique
+  and vibrant culture of Punjab in Northern India. Since Punjab translates
+  to ``Land of 5 Rivers'' there are 5 colors per palette. If users need
+  more than 5 colors, they can merge 2 to 3 palettes to create their own
+  color-combination, or they can cherry-pick their own custom colors.
+  Users can view up to 3 palettes together. Users can also list all the
+  palette choices. And last but not least, users can see the photo that
+  inspired a particular palette.
+date_publication: '2018-07-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RanglaPunjab
+url_git: ''

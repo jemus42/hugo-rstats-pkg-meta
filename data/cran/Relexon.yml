@@ -1,0 +1,14 @@
+version: 0.2.1
+title: Explore the UK's National Power Grid Datasets
+maintainer: Phil Hunter
+description: The purpose of 'Relexon' is to allow R users to pull data from the UK's
+  Balancing Mechanism Reporting Service, otherwise known as 'Elexon', using the 'BMRS'
+  API <https://www.bmreports.com/bmrs/?q=help/about-us>. This can range from different
+  types of electricity generation, how much electricity is used in a 5-minute period,
+  imports, temperatures and forecasts. Users will require an 'Elexon' key, which are
+  freely available by registering at <https://www.elexonportal.co.uk>.
+date_publication: '2019-11-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Relexon
+url_git: ''

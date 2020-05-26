@@ -1,0 +1,11 @@
+version: 0.8.0
+title: Scheduling Interim Analyses in Clinical Trials
+maintainer: Bastian Becker
+description: Allows the simulation of the recruitment and both the event and treatment
+  phase of a clinical trial. Based on these simulations, the timing of interim analyses
+  can be assessed.
+date_publication: '2019-06-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=interim
+url_git: ''

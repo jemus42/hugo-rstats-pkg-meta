@@ -1,0 +1,12 @@
+version: 1.1.5
+title: Utilities for 'Glmnet'
+maintainer: Hong Ooi
+description: |-
+  Provides a formula interface for the 'glmnet' package for
+  elasticnet regression, a method for cross-validating the alpha parameter,
+  and other quality-of-life tools.
+date_publication: '2020-03-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=glmnetUtils
+url_git: https://github.com/Hong-Revo/glmnetUtils

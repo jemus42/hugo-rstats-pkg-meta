@@ -1,0 +1,14 @@
+version: 0.3.1
+title: Radar Chart from 'Chart.js'
+maintainer: Doug Ashton
+description: |-
+  Create interactive radar charts using the 'Chart.js' 'JavaScript' library
+  and the 'htmlwidgets' package. 'Chart.js' <http://www.chartjs.org/> is a
+  lightweight library that supports several types of simple chart using the 'HTML5'
+  canvas element. This package provides an R interface specifically to the
+  radar chart, sometimes called a spider chart, for visualising multivariate data.
+date_publication: '2016-12-20'
+bug_reports: https://github.com/mangothecat/radarchart/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=radarchart
+url_git: https://github.com/mangothecat/radarchart

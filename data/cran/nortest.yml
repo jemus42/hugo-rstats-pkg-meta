@@ -1,0 +1,11 @@
+version: 1.0-4
+title: Tests for Normality
+maintainer: Uwe Ligges
+description: |-
+  Five omnibus tests for testing the composite hypothesis of
+  normality.
+date_publication: '2015-07-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nortest
+url_git: ''

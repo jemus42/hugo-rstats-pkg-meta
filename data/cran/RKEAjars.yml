@@ -1,0 +1,9 @@
+version: 5.0-4
+title: R/KEA Interface Jars
+maintainer: Kurt Hornik
+description: External jars required for package RKEA.
+date_publication: '2019-10-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RKEAjars
+url_git: ''

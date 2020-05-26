@@ -1,0 +1,11 @@
+version: '1.4'
+title: Body Mass Estimation Equations for Vertebrates
+maintainer: Nicolas E. Campione
+description: Estimation equations are from a variety of sources but are, in general,
+  based on regressions between skeletal measurements (e.g., stylopodial circumference)
+  and body mass in living taxa (Campione and Evans, 2012).
+date_publication: '2019-12-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MASSTIMATE
+url_git: ''

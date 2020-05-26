@@ -1,0 +1,10 @@
+version: '1.6'
+title: Unconstrained Optimization using the Subplex Algorithm
+maintainer: Aaron A. King
+description: The subplex algorithm for unconstrained optimization, developed by Tom
+  Rowan <http://www.netlib.org/opt/subplex.tgz>.
+date_publication: '2020-02-23'
+bug_reports: https://github.com/kingaa/subplex/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=subplex
+url_git: https://github.com/kingaa/subplex/

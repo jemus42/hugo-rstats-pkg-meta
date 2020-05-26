@@ -1,0 +1,14 @@
+version: 0.1.5
+title: Compare Big Datasets to the Uniform Distribution
+maintainer: Robert Corty
+description: |-
+  A quantile-quantile plot can be used to compare a sample of p-values
+  to the uniform distribution.  But when the dataset is big (i.e. > 1e4 p-values),
+  plotting the quantile-quantile plot can be slow.  geom_QQ uses all the data to
+  calculate the quantiles, but thins it out in a way that focuses on points near zero
+  before plotting to speed up plotting and decrease file size, when vector graphics are stored.
+date_publication: '2018-03-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggQQunif
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.1.3
+title: Data Correction and Imputation Using Deductive Methods
+maintainer: Mark van der Loo
+description: |-
+  Attempt to repair inconsistencies and missing values in data
+  records by using information from valid values and validation rules
+  restricting the data.
+date_publication: '2019-04-10'
+bug_reports: https://github.com/data-cleaning/deductive/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=deductive
+url_git: https://github.com/data-cleaning/deductive

@@ -1,0 +1,13 @@
+version: 2.0.10
+title: |-
+  Pretty Scientific Plotting with Minor-Tick and Log Minor-Tick
+  Support
+maintainer: Aaron Robotham
+description: Functions to make useful (and pretty) plots for scientific plotting.
+  Additional plotting features are added for base plotting, with particular emphasis
+  on making attractive log axis plots.
+date_publication: '2019-07-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=magicaxis
+url_git: ''

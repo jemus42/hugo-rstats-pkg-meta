@@ -1,0 +1,11 @@
+version: '2.5'
+title: Functions for Reading Ontologies into R
+maintainer: Daniel Greene
+description: 'Functions for reading ontologies into R as lists and manipulating sets
+  of ontological terms - ''ontologyX: A suite of R packages for working with ontological
+  data'', Greene et al 2017 <doi:10.1093/bioinformatics/btw763>.'
+date_publication: '2019-01-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ontologyIndex
+url_git: ''

@@ -1,0 +1,10 @@
+version: '1.0'
+title: Weights for Incomplete Longitudinal Data and Quantile Regression
+maintainer: Viviane Philipps
+description: Estimation of observation-specific weights for incomplete longitudinal
+  data and bootstrap procedure for weighted quantile regressions.
+date_publication: '2018-12-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=weightQuant
+url_git: ''

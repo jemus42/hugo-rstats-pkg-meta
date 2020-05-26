@@ -1,0 +1,16 @@
+version: 1.5.13
+title: Local Interpretable (Model-Agnostic) Visual Explanations
+maintainer: Mateusz Staniak
+description: |-
+  Interpretability of complex machine learning models is a growing concern.
+  This package helps to understand key factors that drive the
+  decision made by complicated predictive model (so called black box model).
+  This is achieved through local approximations that are either based on
+  additive regression like model or CART like model that allows for
+  higher interactions. The methodology is based on Tulio Ribeiro, Singh, Guestrin (2016) <doi:10.1145/2939672.2939778>.
+  More details can be found in Staniak, Biecek (2018) <doi:10.32614/RJ-2018-072>.
+date_publication: '2020-01-15'
+bug_reports: https://github.com/ModelOriented/live/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=live
+url_git: https://github.com/ModelOriented/live

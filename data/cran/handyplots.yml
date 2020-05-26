@@ -1,0 +1,11 @@
+version: 1.1.3
+title: Handy Plots
+maintainer: Jonathan Schwartz
+description: Several handy plots for quickly looking at the relationship between two
+  numeric vectors of equal length. Quickly visualize scatter plots, residual plots,
+  qq-plots, box plots, confidence intervals, and prediction intervals.
+date_publication: '2019-01-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=handyplots
+url_git: ''

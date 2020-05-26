@@ -1,0 +1,13 @@
+version: 0.0-5
+title: |-
+  Fitting Nonlinear Models with Scale Mixture of Skew-Normal
+  Distributions
+maintainer: Marcos Prates
+description: Fit univariate non-linear scale mixture of skew-normal(NL-SMSN) regression,
+  details in Garay, Lachos and Abanto-Valle (2011) <doi.org/10.1016/j.jkss.2010.08.003>
+  and Lachos, Bandyopadhyay and Garay (2011) <doi.org/10.1016/j.spl.2011.03.019>.
+date_publication: '2019-11-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nlsmsn
+url_git: ''

@@ -1,0 +1,12 @@
+version: '1.3'
+title: Loads Shapefiles of Official Spatial Data Sets of Brazil
+maintainer: Rafael H. M. Pereira
+description: |-
+  Easy access to official spatial data sets of Brazil as 'sf' objects in R.
+  The package includes a wide range of geospatial data available at various
+  geographic scales and for various years with harmonized attributes, projection and topology.
+date_publication: '2020-03-29'
+bug_reports: https://github.com/ipeaGIT/geobr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=geobr
+url_git: https://github.com/ipeaGIT/geobr

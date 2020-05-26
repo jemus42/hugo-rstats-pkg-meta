@@ -1,0 +1,12 @@
+version: 2019.11.13
+title: Product-Limit Estimation for Censored Event History Analysis
+maintainer: Thomas A. Gerds
+description: |-
+  Fast and user friendly implementation of nonparametric estimators
+  for censored event history (survival) analysis. Kaplan-Meier and
+  Aalen-Johansen method.
+date_publication: '2019-11-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=prodlim
+url_git: ''

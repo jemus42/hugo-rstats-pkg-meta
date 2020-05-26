@@ -1,0 +1,11 @@
+version: 1.0-5
+title: Collection of functions for orthogonal and orthonormal<U+000a>polynomials
+maintainer: Frederick Novomestky
+description: A collection of functions to construct sets of orthogonal<U+000a>polynomials
+  and their recurrence relations. Additional<U+000a>functions are provided to calculate
+  the derivative, integral,<U+000a>value and roots of lists of polynomial objects.
+date_publication: '2013-02-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=orthopolynom
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.9.4-2
+title: |-
+  Collect and Retrieve Annotation Data for Various Genomic Data
+  Using Different Webservices
+maintainer: Daniel Fischer
+description: Cross-species identification of novel gene candidates using the NCBI
+  web service is provided. Further, sets of miRNA target genes can be identified by
+  using the targetscan.org API.
+date_publication: '2019-02-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hoardeR
+url_git: ''

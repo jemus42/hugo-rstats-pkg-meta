@@ -1,0 +1,16 @@
+version: 0.99.2
+title: |-
+  Spatial Analysis of Field Trials Experiments using Geostatistics
+  and Spatial Autoregressive Model
+maintainer: Lucas Roberto de Castro
+description: 'Perform analysis of variance when the experimental units are spatially
+  correlated. There are two methods to deal with spatial dependence: Spatial autoregressive
+  models (see Rossoni, D. F., & Lima, R. R. (2019) <doi:10.28951/rbb.v37i2.388>) and
+  geostatistics (see Pontes, J. M., & Oliveira, M. S. D. (2004) <doi:10.1590/S1413-70542004000100018>).
+  For both methods, there are three multicomparison procedure available: Tukey, multivariate
+  T, and Scott-Knott.'
+date_publication: '2020-02-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spANOVA
+url_git: ''

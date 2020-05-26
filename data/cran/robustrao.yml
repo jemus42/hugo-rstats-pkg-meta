@@ -1,0 +1,22 @@
+version: 1.0-5
+title: An Extended Rao-Stirling Diversity Index to Handle Missing Data
+maintainer: Maria del Carmen Calatrava Moreno
+description: "A collection of functions to compute the Rao-Stirling diversity index\n(Porter
+  and Rafols, 2009) <DOI:10.1007/s11192-008-2197-2> and its extension to\nacknowledge
+  missing data (i.e.,\tuncategorized references) by calculating its\ninterval of uncertainty
+  using\tmathematical optimization as proposed in Calatrava\net al. (2016) <DOI:10.1007/s11192-016-1842-4>.\nThe
+  Rao-Stirling diversity index is a well-established bibliometric indicator\nto measure
+  the interdisciplinarity of scientific publications. Apart from the\nobligatory dataset
+  of publications with their respective references and\ta\ntaxonomy of disciplines
+  that categorizes references as well as a measure of\nsimilarity between the disciplines,
+  the Rao-Stirling diversity index requires\na complete categorization of all references
+  of a publication into disciplines.\nThus, it fails for a incomplete categorization;
+  in this case, the robust\nextension has to be used, which encodes the uncertainty
+  caused by missing\nbibliographic data as an uncertainty interval.\nClassification
+  / ACM - 2012: Information systems ~ Similarity measures,\nTheory of computation
+  ~ Quadratic\tprogramming, Applied computing ~ Digital\nlibraries and archives."
+date_publication: '2020-01-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=robustrao
+url_git: https://gitlab.com/mc.calatrava.moreno/robustrao.git

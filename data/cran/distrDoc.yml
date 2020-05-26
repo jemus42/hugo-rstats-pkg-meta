@@ -1,0 +1,11 @@
+version: 2.8.0
+title: Documentation for 'distr' Family of R Packages
+maintainer: Peter Ruckdeschel
+description: |-
+  Provides documentation in form of a common vignette to packages 'distr',
+  'distrEx', 'distrMod', 'distrSim', 'distrTEst', 'distrTeach', and 'distrEllipse'.
+date_publication: '2019-03-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=distrDoc
+url_git: http://distr.r-forge.r-project.org/

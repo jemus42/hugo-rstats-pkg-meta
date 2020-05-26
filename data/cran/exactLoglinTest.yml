@@ -1,0 +1,9 @@
+version: 1.4.2
+title: Monte Carlo Exact Tests for Log-linear models
+maintainer: Brian Caffo
+description: Monte Carlo and MCMC goodness of fit tests for log-linear<U+000a>models
+date_publication: '2013-02-05'
+bug_reports: ''
+url: http://www.bcaffo.com
+url_cran: https://CRAN.R-project.org/package=exactLoglinTest
+url_git: ''

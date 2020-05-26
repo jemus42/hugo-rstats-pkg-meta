@@ -1,0 +1,10 @@
+version: 0.2.0
+title: 3D-Visualization of Geoelectric Resistivity Measurement Profiles
+maintainer: Anja Kleebaum
+description: Visualizes two-dimensional geoelectric resistivity measurement profiles
+  in three dimensions.
+date_publication: '2018-08-28'
+bug_reports: https://github.com/kleebaum/geoelectrics/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=geoelectrics
+url_git: https://github.com/kleebaum/geoelectrics

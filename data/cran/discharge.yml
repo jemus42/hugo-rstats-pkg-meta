@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Fourier Analysis of Discharge Data
+maintainer: Samarth Shah
+description: |-
+  Computes discrete fast Fourier transform of river discharge data and the derived metrics.
+  The methods are described in J. L. Sabo, D. M. Post (2008) <doi:10.1890/06-1340.1> and J. L. Sabo, A. Ruhi, G. W. Holtgrieve, V. Elliott, M. E. Arias, P. B. Ngor, T. A. Räsänsen, S. Nam (2017) <doi:10.1126/science.aao1053>.
+date_publication: '2019-03-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=discharge
+url_git: ''

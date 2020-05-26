@@ -1,0 +1,16 @@
+version: 0.5.4
+title: Package Directives and Collaboration Networks in CRAN
+maintainer: Ioannis Kosmidis
+description: Core visualizations and summaries for the CRAN package database. The
+  package provides comprehensive methods for cleaning up and organizing the information
+  in the CRAN package database, for building package directives networks (depends,
+  imports, suggests, enhances, linking to) and collaboration networks, producing package
+  dependence trees, and for computing useful summaries and producing interactive visualizations
+  from the resulting networks and summaries. The resulting networks can be coerced
+  to 'igraph' <https://CRAN.R-project.org/package=igraph> objects for further analyses
+  and modelling.
+date_publication: '2019-10-08'
+bug_reports: https://github.com/ikosmidis/cranly/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=cranly
+url_git: https://github.com/ikosmidis/cranly

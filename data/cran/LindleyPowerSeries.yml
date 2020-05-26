@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Lindley Power Series Distribution
+maintainer: Yuancheng Si
+description: Computes the probability density function, the cumulative distribution
+  function, the hazard rate function, the quantile function and random generation
+  for Lindley Power Series distributions, see Nadarajah and Si (2018) <doi:10.1007/s13171-018-0150-x>.
+date_publication: '2018-11-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LindleyPowerSeries
+url_git: ''

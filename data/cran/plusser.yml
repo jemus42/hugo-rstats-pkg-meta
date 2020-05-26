@@ -1,0 +1,11 @@
+version: 0.4-0
+title: A Google+ Interface for R
+maintainer: Christoph Waldhauser
+description: |-
+  plusser provides an API interface to Google+ so that posts,
+  profiles and pages can be automatically retrieved.
+date_publication: '2014-04-27'
+bug_reports: ''
+url: http://kdss.at
+url_cran: https://CRAN.R-project.org/package=plusser
+url_git: ''

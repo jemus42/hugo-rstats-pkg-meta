@@ -1,0 +1,9 @@
+version: 1.0.4
+title: R Package for the BitCoinCharts.com API
+maintainer: Thomas P. Fuller
+description: An R package for the BitCoinCharts.com API.
+date_publication: '2014-06-14'
+bug_reports: ''
+url: http://www.coherentlogic.com/wordpress/?page_id=3580&source=cran
+url_cran: https://CRAN.R-project.org/package=rbitcoinchartsapi
+url_git: ''

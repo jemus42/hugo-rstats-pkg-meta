@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Correcting for Attenuation Due to Measurement Error
+maintainer: Jonas Moss
+description: |-
+  Confidence curves, confidence intervals and p-values for
+  correlation coefficients corrected for attenuation due to measurement error.
+  Implements the methods described in Moss (2019, <arxiv:1911.01576>).
+date_publication: '2019-11-08'
+bug_reports: https://github.com/JonasMoss/attenuation/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=attenuation
+url_git: https://github.com/JonasMoss/attenuation/

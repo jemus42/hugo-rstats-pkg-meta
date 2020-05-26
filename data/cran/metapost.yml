@@ -1,0 +1,15 @@
+version: 1.0-6
+title: Interface to 'MetaPost'
+maintainer: Paul Murrell
+description: |-
+  Provides an interface to 'MetaPost' (Hobby, 1998)
+  <http://www.tug.org/docs/metapost/mpman.pdf>.
+  There are functions to generate an R description of a 'MetaPost'
+  curve, functions to generate 'MetaPost' code from an R description,
+  functions to process 'MetaPost' code, and functions to read
+  solved 'MetaPost' paths back into R.
+date_publication: '2019-06-24'
+bug_reports: ''
+url: https://stattech.wordpress.fos.auckland.ac.nz/2018/12/03/2018-12-metapost-three-ways/
+url_cran: https://CRAN.R-project.org/package=metapost
+url_git: https://github.com/pmur002/metapost

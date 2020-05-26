@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Helper Functions for Simulation Studies
+maintainer: Megha Joshi
+description: 'Calculates performance criteria measures and associated Monte Carlo
+  standard errors for simulation results. Includes functions to help run simulation
+  studies. Our derivation and explanation of formulas and our general simulation workflow
+  is closely aligned with the approach described by Morris, White, and Crowther (2019)
+  <DOI: 10.1002/sim.8086>.'
+date_publication: '2020-03-31'
+bug_reports: https://github.com/meghapsimatrix/simhelpers/issues
+url: https://meghapsimatrix.github.io/simhelpers/index.html
+url_cran: https://CRAN.R-project.org/package=simhelpers
+url_git: ''

@@ -1,0 +1,16 @@
+version: 0.1.1
+title: '''leaflet'' Extensions for ''mapview'''
+maintainer: Tim Appelhans
+description: |-
+  Provides extensions for packages 'leaflet' & 'mapdeck',
+  many of which are used by package 'mapview'.
+  Focus is on functionality readily available in
+  Geographic Information Systems such as 'Quantum GIS'. Includes functions
+  to display coordinates of mouse pointer position, query image values via
+  mouse pointer and zoom-to-layer buttons. Additionally, provides a feature
+  type agnostic function to add points, lines, polygons to a map.
+date_publication: '2020-04-05'
+bug_reports: https://github.com/r-spatial/leafem/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=leafem
+url_git: https://github.com/r-spatial/leafem

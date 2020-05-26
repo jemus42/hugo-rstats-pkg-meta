@@ -1,0 +1,10 @@
+version: 1.0.2
+title: Quasi Variances for Factor Effects in Statistical Models
+maintainer: David Firth
+description: Functions to compute quasi variances and associated measures of approximation
+  error.
+date_publication: '2020-02-15'
+bug_reports: ''
+url: https://davidfirth.github.io/qvcalc
+url_cran: https://CRAN.R-project.org/package=qvcalc
+url_git: ''

@@ -1,0 +1,15 @@
+version: 0.0.1
+title: Interactive Parallel Categories Diagrams for 'easyalluvial'
+maintainer: Bjoern Koneswarakantha
+description: |-
+  Complex graphical representations of data are best explored using interactive elements.
+  'parcats' adds interactive graphing capabilities to the 'easyalluvial' package.
+  The 'plotly.js' parallel categories diagrams offer a good framework for
+  creating interactive flow graphs that allow manual drag and drop sorting of dimensions
+  and categories, highlighting single flows and displaying mouse over information. The
+  'plotly.js' dependency is quite heavy and therefore is outsourced into a separate package.
+date_publication: '2019-12-02'
+bug_reports: ''
+url: https://erblast.github.io/parcats/
+url_cran: https://CRAN.R-project.org/package=parcats
+url_git: ''

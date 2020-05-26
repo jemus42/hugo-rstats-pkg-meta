@@ -1,0 +1,11 @@
+version: 1.1.1
+title: Nonparametric Estimation of Measurement Error Models
+maintainer: Haiming Zhou
+description: Provide nonparametric methods for mean regression model, modal regression
+  and conditional density estimation in the presence/absence of measurement error.
+  Bandwidth selection is also provided for each method.
+date_publication: '2017-10-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lpme
+url_git: ''

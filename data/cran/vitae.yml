@@ -1,0 +1,10 @@
+version: 0.2.2
+title: Curriculum Vitae for R Markdown
+maintainer: Mitchell O'Hara-Wild
+description: Provides templates and functions to simplify the production and maintenance
+  of curriculum vitae.
+date_publication: '2020-04-27'
+bug_reports: https://github.com/mitchelloharawild/vitae/issues
+url: https://pkg.mitchelloharawild.com/vitae/
+url_cran: https://CRAN.R-project.org/package=vitae
+url_git: https://github.com/mitchelloharawild/vitae

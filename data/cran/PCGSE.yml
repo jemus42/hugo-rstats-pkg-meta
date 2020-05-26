@@ -1,0 +1,10 @@
+version: '0.4'
+title: Principal Component Gene Set Enrichment
+maintainer: H. Robert Frost
+description: Contains logic for computing the statistical association of variable
+  groups, i.e., gene sets, with respect to the principal components of genomic data.
+date_publication: '2017-03-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PCGSE
+url_git: ''

@@ -1,0 +1,11 @@
+version: '1.0'
+title: A smoothing Newton method SOCP solver
+maintainer: Jason Rudy
+description: This package provides and implementation of a one step<U+000a>smoothing
+  newton method for the solution of second order cone<U+000a>programming problems,
+  originally described by Xiaoni Chi and<U+000a>Sanyang Liu.
+date_publication: '2011-07-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CLSOCP
+url_git: ''

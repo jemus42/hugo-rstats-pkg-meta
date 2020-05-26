@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Ensemble Models in R
+maintainer: Saurav Kaushik
+description: |-
+  Functions to use ensembles of several machine learning models
+  specified in caret package.
+date_publication: '2016-09-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ensembleR
+url_git: ''

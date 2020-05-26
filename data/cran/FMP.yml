@@ -1,0 +1,10 @@
+version: '1.4'
+title: Filtered Monotonic Polynomial IRT Models
+maintainer: Niels G. Waller
+description: Estimates Filtered Monotonic Polynomial IRT Models as described by Liang
+  and Browne (2015) <DOI:10.3102/1076998614556816>.
+date_publication: '2016-02-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FMP
+url_git: ''

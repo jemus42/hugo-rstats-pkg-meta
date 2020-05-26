@@ -1,0 +1,14 @@
+version: 1.0.0
+title: Distance Sampling Detection Function and Abundance Estimation
+maintainer: Laura Marshall
+description: |-
+  A simple way of fitting detection functions to distance sampling
+  data for both line and point transects. Adjustment term selection, left and
+  right truncation as well as monotonicity constraints and binning are
+  supported. Abundance and density estimates can also be calculated (via a
+  Horvitz-Thompson-like estimator) if survey area information is provided.
+date_publication: '2020-01-31'
+bug_reports: https://github.com/DistanceDevelopment/Distance/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=Distance
+url_git: http://github.com/DistanceDevelopment/Distance/

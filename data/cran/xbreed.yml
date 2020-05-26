@@ -1,0 +1,13 @@
+version: 1.0.1.1
+title: Genomic Simulation of Purebred and Crossbred Populations
+maintainer: Hadi Esfandyari
+description: Simulation of purebred and crossbred genomic data as well as pedigree
+  and phenotypes are possible by this package. 'xbreed' can be used for the simulation
+  of populations with flexible genome structures and trait genetic architectures.
+  It can also be used to evaluate breeding schemes and generate genetic data to test
+  statistical tools.
+date_publication: '2019-10-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=xbreed
+url_git: ''

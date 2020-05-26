@@ -1,0 +1,14 @@
+version: 1.1.4
+title: Optimal Subset Matching with Refined Covariate Balance
+maintainer: Samuel D. Pimentel
+description: |-
+  Tools for optimal subset matching of treated units
+  and control units in observational studies, with support
+  for refined covariate balance constraints, (including
+  fine and near-fine balance as special cases). A close
+  relative is the 'rcbalance' package.
+date_publication: '2018-05-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rcbsubset
+url_git: ''

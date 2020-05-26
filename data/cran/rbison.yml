@@ -1,0 +1,14 @@
+version: 0.8.0
+title: Interface to the 'USGS' 'BISON' API
+maintainer: Scott Chamberlain
+description: |-
+  Interface to the 'USGS' 'BISON' (<https://bison.usgs.gov/>)
+  API, a 'database' for species occurrence data. Data comes from
+  species in the United States from participating data providers. You can get
+  data via 'taxonomic' and location based queries. A simple function
+  is provided to help visualize data.
+date_publication: '2019-05-03'
+bug_reports: https://github.com/ropensci/rbison/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rbison
+url_git: https://github.com/ropensci/rbison

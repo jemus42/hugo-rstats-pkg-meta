@@ -1,0 +1,13 @@
+version: 1.0-3
+title: |-
+  Gene by Environment Interaction and Conditional Gene Tests for
+  Nuclear Families
+maintainer: Thomas Hoffmann
+description: Does family-based gene by environment interaction tests, joint gene,
+  gene-environment interaction test, and a test of a set of genes conditional on another
+  set of genes.
+date_publication: '2018-04-23'
+bug_reports: ''
+url: https://sites.google.com/site/thomashoffmannproject/software/fbati
+url_cran: https://CRAN.R-project.org/package=fbati
+url_git: ''

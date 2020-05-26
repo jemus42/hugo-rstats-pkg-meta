@@ -1,0 +1,13 @@
+version: 1.0.0
+title: Estimate the Population Size for the Mb Capture-Recapture Model
+maintainer: John Snyder
+description: Applies an objective Bayesian method to the Mb capture-recapture model
+  to estimate the population size N.  The Mb model is a class of capture-recapture
+  methods used to account for variations in capture probability due to animal behavior.  Under
+  the Mb formulation,  the initial capture of an animal may effect the probability
+  of subsequent captures due to their becoming "trap happy" or "trap shy."
+date_publication: '2017-09-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OBMbpkg
+url_git: ''

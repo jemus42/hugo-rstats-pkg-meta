@@ -1,0 +1,9 @@
+version: 0.1-5
+title: Robust Small Area Estimation
+maintainer: Tobias Schoch
+description: Robust Small Area Estimation. Robust Basic Unit- and Area-Level Models
+date_publication: '2014-02-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rsae
+url_git: ''

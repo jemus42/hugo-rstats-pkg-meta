@@ -1,0 +1,11 @@
+version: 0.2.3
+title: Create Interactive Graphs with 'Echarts JavaScript' Version 4
+maintainer: John Coene
+description: |-
+  Easily create interactive charts by leveraging the 'Echarts Javascript' library which includes
+  34 chart types, themes, 'Shiny' proxies and animations.
+date_publication: '2019-07-18'
+bug_reports: https://github.com/JohnCoene/echarts4r/issues
+url: http://echarts4r.john-coene.com/
+url_cran: https://CRAN.R-project.org/package=echarts4r
+url_git: ''

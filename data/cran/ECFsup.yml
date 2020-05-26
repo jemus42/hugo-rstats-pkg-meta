@@ -1,0 +1,12 @@
+version: 0.1-2
+title: Equal Covariance Functions Testing by L2-Norm and Sup-Norm
+maintainer: Bu Zhou
+description: 'Testing the equality of several covariance functions of functional data.
+  Four different methods are implemented: L2-norm with W-S naive, L2-norm with W-S
+  bias-reduced, L2-norm (Zhang 2013) <ISBN:9781439862735>, and sup-norm with resampling
+  (Guo et al. 2017) <arXiv:1609.04232>.'
+date_publication: '2017-06-17'
+bug_reports: ''
+url: https://arxiv.org/abs/1609.04232
+url_cran: https://CRAN.R-project.org/package=ECFsup
+url_git: ''

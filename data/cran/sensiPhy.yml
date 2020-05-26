@@ -1,0 +1,15 @@
+version: 0.8.5
+title: Sensitivity Analysis for Comparative Methods
+maintainer: Gustavo Paterno
+description: |-
+  An implementation of sensitivity analysis for phylogenetic comparative
+  methods. The package is an umbrella of statistical and graphical methods that
+  estimate and report different types of uncertainty in PCM:
+  (i) Species Sampling uncertainty (sample size; influential species and clades).
+  (ii) Phylogenetic uncertainty (different topologies and/or branch lengths).
+  (iii) Data uncertainty (intraspecific variation and measurement error).
+date_publication: '2020-04-02'
+bug_reports: https://github.com/paternogbc/sensiPhy/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sensiPhy
+url_git: https://github.com/paternogbc/sensiPhy

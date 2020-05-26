@@ -1,0 +1,16 @@
+version: 0.2-6
+title: |-
+  Continuous Optimization using Memetic Algorithms with Local
+  Search Chains (MA-LS-Chains) in R
+maintainer: Christoph Bergmeir
+description: |-
+  An implementation of an algorithm family for continuous
+  optimization called memetic algorithms with local search chains
+  (MA-LS-Chains). Memetic algorithms are hybridizations of genetic
+  algorithms with local search methods. They are especially suited
+  for continuous optimization.
+date_publication: '2019-09-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rmalschains
+url_git: ''

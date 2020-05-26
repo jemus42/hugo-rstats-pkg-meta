@@ -1,0 +1,10 @@
+version: 1.1.0
+title: Flexible Parametric Cure Models
+maintainer: Jordan Amdahl
+description: Flexible parametric mixture and non-mixture cure models for time-to-event
+  data.
+date_publication: '2020-04-09'
+bug_reports: https://github.com/jrdnmdhl/flexsurvcure/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=flexsurvcure
+url_git: https://github.com/jrdnmdhl/flexsurvcure

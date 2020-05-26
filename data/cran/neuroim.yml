@@ -1,0 +1,13 @@
+version: 0.0.6
+title: Data Structures and Handling for Neuroimaging Data
+maintainer: Bradley Buchsbaum
+description: |-
+  A collection of data structures that represent
+  volumetric brain imaging data. The focus is on basic data handling for 3D
+  and 4D neuroimaging data. In addition, there are function to read and write
+  NIFTI files and limited support for reading AFNI files.
+date_publication: '2016-01-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=neuroim
+url_git: ''

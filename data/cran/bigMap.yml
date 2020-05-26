@@ -1,0 +1,12 @@
+version: 2.1.0
+title: Big Data Mapping
+maintainer: Joan Garriga
+description: Unsupervised clustering protocol for large scale structured data, based
+  on a low dimensional representation of the data. Dimensionality reduction is performed
+  using a parallelized implementation of the t-Stochastic Neighboring Embedding algorithm
+  (Garriga J. and Bartumeus F. (2018), <arXiv:1812.09869>).
+date_publication: '2019-03-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bigMap
+url_git: ''

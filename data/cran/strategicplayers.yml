@@ -1,0 +1,12 @@
+version: '1.0'
+title: Strategic Players
+maintainer: Miles Ott
+description: |-
+  Identifies individuals in a social network who should be the intervention
+  subjects for a network intervention in which you have a group of targets, a
+  group of avoiders, and a group that is neither.
+date_publication: '2016-09-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=strategicplayers
+url_git: ''

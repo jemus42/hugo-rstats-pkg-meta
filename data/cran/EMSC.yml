@@ -1,0 +1,13 @@
+version: 0.9.1
+title: Extended Multiplicative Signal Correction
+maintainer: Kristian Hovde Liland
+description: |-
+  Background correction of spectral like data. Handles variations in
+  scaling, polynomial baselines, interferents, constituents and replicate variation.
+  Parameters for corrections are stored for further analysis, and spectra are corrected
+  accordingly.
+date_publication: '2020-03-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EMSC
+url_git: ''

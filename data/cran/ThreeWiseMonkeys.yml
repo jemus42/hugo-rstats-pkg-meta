@@ -1,0 +1,12 @@
+version: 0.1.0
+title: |-
+  The Japanese Pictorial Maxim "See No Evil, Hear No Evil, Speak
+  No Evil"
+maintainer: Greg Pilgrim
+description: Does nothing useful, but perhaps does that nothing in an entertaining
+  or informative fashion.
+date_publication: '2020-04-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ThreeWiseMonkeys
+url_git: ''

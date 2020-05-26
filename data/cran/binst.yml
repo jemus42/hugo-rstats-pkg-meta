@@ -1,0 +1,12 @@
+version: 0.2.1
+title: Data Preprocessing, Binning for Classification and Regression
+maintainer: Chapman Siu
+description: |-
+  Various supervised and unsupervised binning tools
+  including using entropy, recursive partition methods
+  and clustering.
+date_publication: '2018-01-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=binst
+url_git: https://github.com/jules-and-dave/binst

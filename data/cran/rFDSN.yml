@@ -1,0 +1,16 @@
+version: 0.0.0
+title: |-
+  Get Seismic Data from the International Federation of Digital
+  Seismograph Networks
+maintainer: Daniel C. Bowman
+description: This package facilitates searching for and downloading seismic time series
+  in miniSEED format (a minimalist version of the Standard for the Exchange of Earthquake
+  Data) from International Federation of Digital Seismograph Networks repositories.
+  This package can also be used to gather information about seismic networks (stations,
+  channels, locations, etc) and find historical earthquake data (origins, magnitudes,
+  etc).
+date_publication: '2014-09-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rFDSN
+url_git: ''

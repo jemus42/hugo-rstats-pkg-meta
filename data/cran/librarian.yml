@@ -1,0 +1,14 @@
+version: 1.7.0
+title: |-
+  Install, Update, Load Packages from CRAN, 'GitHub', and
+  'Bioconductor' in One Step
+maintainer: Desi Quintans
+description: |-
+  Automatically install, update, and load 'CRAN', 'GitHub', and 'Bioconductor'
+  packages in a single function call. By accepting bare unquoted names for packages,
+  it's easy to add or remove packages from the list.
+date_publication: '2019-03-13'
+bug_reports: https://github.com/DesiQuintans/librarian/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=librarian
+url_git: https://github.com/DesiQuintans/librarian

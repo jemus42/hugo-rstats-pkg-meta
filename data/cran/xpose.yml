@@ -1,0 +1,14 @@
+version: 0.4.9
+title: Diagnostics for Pharmacometric Models
+maintainer: Benjamin Guiastrennec
+description: |-
+  Diagnostics for non-linear mixed-effects (population)
+  models from 'NONMEM' <http://www.iconplc.com/innovation/nonmem/>.
+  'xpose' facilitates data import, creation of numerical run summary
+  and provide 'ggplot2'-based graphics for data exploration and model
+  diagnostics.
+date_publication: '2020-05-25'
+bug_reports: https://github.com/UUPharmacometrics/xpose/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=xpose
+url_git: https://github.com/UUPharmacometrics/xpose

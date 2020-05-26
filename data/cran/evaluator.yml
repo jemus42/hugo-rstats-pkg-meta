@@ -1,0 +1,13 @@
+version: 0.4.2
+title: Quantified Risk Assessment Toolkit
+maintainer: David Severski
+description: |-
+  An open source risk analysis toolkit based on the OpenFAIR ontology
+  <https://www2.opengroup.org/ogsys/catalog/C13K> and risk assessment standard
+  <https://www2.opengroup.org/ogsys/catalog/C13G>. Empowers an organization to
+  perform a quantifiable, repeatable, and data-driven risk review.
+date_publication: '2020-04-16'
+bug_reports: https://github.com/davidski/evaluator/issues
+url: https://evaluator.tidyrisk.org
+url_cran: https://CRAN.R-project.org/package=evaluator
+url_git: ''

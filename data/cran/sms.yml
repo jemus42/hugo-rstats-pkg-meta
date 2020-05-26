@@ -1,0 +1,11 @@
+version: 2.3.1
+title: Spatial Microsimulation
+maintainer: Dimitris Kavroudakis
+description: |-
+  Produce small area population estimates by fitting census data to
+  survey data.
+date_publication: '2015-11-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sms
+url_git: ''

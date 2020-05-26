@@ -1,0 +1,12 @@
+version: 1.2-2
+title: |-
+  Multivariate Generalized Linear Mixed Models for Ranking Sports
+  Teams
+maintainer: Andrew T. Karl
+description: Maximum likelihood estimates are obtained via an EM algorithm with either
+  a first-order or a fully exponential Laplace approximation.
+date_publication: '2018-08-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mvglmmRank
+url_git: ''

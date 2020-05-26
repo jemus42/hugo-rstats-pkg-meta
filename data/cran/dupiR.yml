@@ -1,0 +1,10 @@
+version: '1.2'
+title: Bayesian inference from count data using discrete uniform priors
+maintainer: Federico Comoglio
+description: Inference of population sizes using a binomial likelihood and least informative
+  discrete uniform priors.
+date_publication: '2014-12-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dupiR
+url_git: ''

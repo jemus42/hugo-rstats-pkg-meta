@@ -1,0 +1,10 @@
+version: '0.51'
+title: Functions for Likelihood Asymptotics
+maintainer: Ruggero Bellio
+description: Functions for computing the r and r* statistics for inference on an arbitrary
+  scalar function of model parameters, plus some code for the (modified) profile likelihood.
+date_publication: '2020-05-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=likelihoodAsy
+url_git: ''

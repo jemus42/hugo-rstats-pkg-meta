@@ -1,0 +1,14 @@
+version: 0.1.0
+title: Interchangeable Gaussian Process Models
+maintainer: Collin Erickson
+description: |-
+  Creates a Gaussian process model using the specified package.
+  Makes it easy to try different packages in same code, only the
+  package argument needs to be changed.
+  It is essentially a wrapper for the other Gaussian process
+  software packages.
+date_publication: '2017-09-19'
+bug_reports: https://github.com/CollinErickson/IGP/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=IGP
+url_git: https://github.com/CollinErickson/IGP

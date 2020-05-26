@@ -1,0 +1,15 @@
+version: 0.4-0
+title: |-
+  Goodness-of-Fit Functions for Comparison of Simulated and
+  Observed Hydrological Time Series
+maintainer: Mauricio Zambrano-Bigiarini
+description: S3 functions implementing both statistical and graphical goodness-of-fit
+  measures between observed and simulated values, mainly oriented to be used during
+  the calibration, validation, and application of hydrological models. Missing values
+  in observed and/or simulated values can be removed before computations. Comments
+  / questions / collaboration of any kind are very welcomed.
+date_publication: '2020-03-12'
+bug_reports: https://github.com/hzambran/hydroGOF/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=hydroGOF
+url_git: https://github.com/hzambran/hydroGOF

@@ -1,0 +1,9 @@
+version: 0.13.6.1
+title: Inference Tests for TExPosition
+maintainer: Derek Beaton
+description: Non-parametric resampling-based inference tests for TExPosition.
+date_publication: '2019-01-31'
+bug_reports: http://code.google.com/p/exposition-family/issues/list
+url: ''
+url_cran: https://CRAN.R-project.org/package=TInPosition
+url_git: ''

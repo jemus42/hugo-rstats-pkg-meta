@@ -1,0 +1,10 @@
+version: 0.3.0
+title: Learn Foreign Language Vocabulary
+maintainer: Félix Luginbuhl
+description: Use the R console as an interactive learning environment to memorize
+  any two columns dataset.
+date_publication: '2020-05-18'
+bug_reports: https://github.com/lgnbhl/polyglot/issues
+url: https://felixluginbuhl.com/polyglot
+url_cran: https://CRAN.R-project.org/package=polyglot
+url_git: https://github.com/lgnbhl/polyglot

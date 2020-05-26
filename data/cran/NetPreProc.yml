@@ -1,0 +1,9 @@
+version: '1.1'
+title: Network Pre-Processing and Normalization
+maintainer: Giorgio Valentini<valentini@di.unimi.it>
+description: Package for the pre-processing and normalization of graphs.
+date_publication: '2015-12-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NetPreProc
+url_git: ''

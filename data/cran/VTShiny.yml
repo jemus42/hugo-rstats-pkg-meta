@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Interactive Document for Working with Variance Analysis
+maintainer: Kartikeya Bolar
+description: An interactive document on  the topic of variance analysis using 'rmarkdown'
+  and 'shiny' packages. Runtime examples are provided in the package function as well
+  as at  <https://predanalyticssessions1.shinyapps.io/chisquareVarianceTest/>.
+date_publication: '2019-07-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=VTShiny
+url_git: ''

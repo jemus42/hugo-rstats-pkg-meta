@@ -1,0 +1,13 @@
+version: 1.0.3
+title: Classification, Regression, Clustering with K Nearest Neighbors
+maintainer: Dmitriy Bolotov
+description: |-
+  Classification, regression, and clustering with k nearest neighbors
+  algorithm. Implements several distance and similarity measures, covering
+  continuous and logical features. Outputs ranked neighbors. Most features of
+  this package are directly based on the PMML specification for KNN.
+date_publication: '2020-03-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=neighbr
+url_git: ''

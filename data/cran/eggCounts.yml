@@ -1,0 +1,12 @@
+version: '2.3'
+title: Hierarchical Modelling of Faecal Egg Counts
+maintainer: Craig Wang
+description: |-
+  An implementation of Bayesian hierarchical models
+  for faecal egg count data to assess anthelmintic
+  efficacy. Bayesian inference is done via MCMC sampling using 'Stan' <https://mc-stan.org/>.
+date_publication: '2020-01-19'
+bug_reports: ''
+url: https://www.math.uzh.ch/pages/eggcount/
+url_cran: https://CRAN.R-project.org/package=eggCounts
+url_git: ''

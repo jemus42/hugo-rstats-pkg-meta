@@ -1,0 +1,19 @@
+version: 1.2-0
+title: Phylogenetics for the Environmental Sciences
+maintainer: William D. Pearse
+description: |-
+  Eco-phylogenetic and community phylogenetic analyses.
+  Keeps community ecological and phylogenetic data matched up and
+  comparable using 'comparative.comm' objects. Wrappers for common
+  community phylogenetic indices ('pez.shape', 'pez.evenness',
+  'pez.dispersion', and 'pez.dissimilarity' metrics). Implementation
+  of Cavender-Bares (2004) correlation of phylogenetic and
+  ecological matrices ('fingerprint.regression'). Phylogenetic
+  Generalised Linear Mixed Models (PGLMMs; 'pglmm') following Ives &
+  Helmus (2011) and Rafferty & Ives (2013). Simulation of null
+  assemblages, traits, and phylogenies ('scape', 'sim.meta.comm').
+date_publication: '2019-02-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pez
+url_git: ''

@@ -1,0 +1,17 @@
+version: 1.3.2
+title: |-
+  Linkage Disequilibrium Corrected by the Structure and the
+  Relatedness
+maintainer: Aurélie Siberchicot
+description: |-
+  Four measures of linkage disequilibrium are provided: the usual r^2
+  measure, the r^2_S measure (r^2 corrected by the structure
+  sample), the r^2_V (r^2 corrected by the relatedness of
+  genotyped individuals), the r^2_VS measure (r^2 corrected by
+  both the relatedness of genotyped individuals and the structure
+  of the sample).
+date_publication: '2017-05-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LDcorSV
+url_git: ''

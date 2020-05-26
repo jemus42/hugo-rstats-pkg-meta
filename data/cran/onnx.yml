@@ -1,0 +1,13 @@
+version: 0.0.2
+title: R Interface to 'ONNX'
+maintainer: Yuan Tang
+description: |-
+  R Interface to 'ONNX' - Open Neural Network Exchange <https://onnx.ai/>.
+  'ONNX' provides an open source format for machine learning models.
+  It defines an extensible computation graph model, as well as definitions
+  of built-in operators and standard data types.
+date_publication: '2018-04-25'
+bug_reports: https://github.com/onnx/onnx-r/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=onnx
+url_git: https://github.com/onnx/onnx-r

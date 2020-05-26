@@ -1,0 +1,10 @@
+version: 1.5-3
+title: Portfolio Allocation and Risk Management Applications
+maintainer: Alexios Ghalanos
+description: Provision of a set of models and methods for use in the allocation and
+  management of capital in financial portfolios.
+date_publication: '2016-08-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=parma
+url_git: ''

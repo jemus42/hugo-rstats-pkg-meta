@@ -1,0 +1,18 @@
+version: 1.7.10-6
+title: Download or Upload 'Socrata' Data Sets
+maintainer: '"Tom Schenk Jr."'
+description: |-
+  Provides easier interaction with
+  'Socrata' open data portals <http://dev.socrata.com>.
+  Users can provide a 'Socrata' data set resource URL,
+  or a 'Socrata' Open Data API (SoDA) web query,
+  or a 'Socrata' "human-friendly" URL,
+  returns an R data frame. Converts dates to 'POSIX'
+  format and manages throttling by 'Socrata'.
+  Users can upload data to 'Socrata' portals directly
+  from R.
+date_publication: '2019-10-23'
+bug_reports: https://github.com/Chicago/RSocrata/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=RSocrata
+url_git: https://github.com/Chicago/RSocrata

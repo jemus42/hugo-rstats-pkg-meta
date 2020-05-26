@@ -1,0 +1,11 @@
+version: 1.0.6
+title: Non-Parametric Concordance Coefficient
+maintainer: Rowan Kuiper
+description: |-
+  A non-parametric test for multi-observer concordance and
+  differences between concordances in (un)balanced data.
+date_publication: '2019-07-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nopaco
+url_git: ''

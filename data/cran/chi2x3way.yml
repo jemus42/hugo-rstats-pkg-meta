@@ -1,0 +1,14 @@
+version: '1.1'
+title: |-
+  Partitioning Chi-Squared and Tau Index for Three-Way Contingency
+  Tables
+maintainer: Rosaria Lombardo
+description: |-
+  Provides two index partitions for three-way contingency tables:
+  partition of the association measure chi-squared and of the predictability index tau
+  under several representative hypotheses about the expected frequencies (hypothesized probabilities).
+date_publication: '2017-01-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=chi2x3way
+url_git: ''

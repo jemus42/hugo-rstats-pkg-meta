@@ -1,0 +1,12 @@
+version: 1.4.1
+title: Boosted Multivariate Trees for Longitudinal Data
+maintainer: Udaya B. Kogalur
+description: Implements Friedman's gradient descent boosting algorithm for modeling
+  of continuous or binary longitudinal response using multivariate tree base learners.  A
+  time-covariate interaction effect is modeled using penalized B-splines (P-splines)
+  with estimated adaptive smoothing parameter.
+date_publication: '2019-11-21'
+bug_reports: ''
+url: http://web.ccs.miami.edu/~hishwaran
+url_cran: https://CRAN.R-project.org/package=boostmtree
+url_git: ''

@@ -1,0 +1,13 @@
+version: '1.0'
+title: |-
+  A Double Bootstrap Method for Analyzing Linear Models with
+  Autoregressive Errors
+maintainer: Shaofeng Zhang
+description: |-
+  Computes the double bootstrap as discussed in McKnight, McKean, and Huitema (2000) <doi:10.1037/1082-989X.5.1.87>.
+  The double bootstrap method provides a better fit for a linear model with autoregressive errors than ARIMA when the sample size is small.
+date_publication: '2018-10-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DBfit
+url_git: ''

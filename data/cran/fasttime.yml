@@ -1,0 +1,12 @@
+version: 1.0-2
+title: Fast Utility Function for Time Parsing and Conversion
+maintainer: Simon Urbanek
+description: |-
+  Fast functions for timestamp
+  manipulation that avoid system calls and take shortcuts
+  to facilitate operations on very large data.
+date_publication: '2016-10-26'
+bug_reports: ''
+url: http://www.rforge.net/fasttime
+url_cran: https://CRAN.R-project.org/package=fasttime
+url_git: ''

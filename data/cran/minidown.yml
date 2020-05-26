@@ -1,0 +1,16 @@
+version: 0.0.1
+title: |-
+  Create Simple Yet Powerful HTML Documents with Light Weight CSS
+  Frameworks
+maintainer: Atsushi Yasumoto
+description: |-
+  Create minimal, responsive, and style-agnostic HTML documents with
+  the lightweight CSS frameworks such as 'sakura', 'Water.css', and 'mini.css'.
+  Powerful features include floating table of contents as a sidebar,
+  code folding of source, output, message, warning, and error, and accordion
+  menus. They work without JavaScript.
+date_publication: '2020-05-04'
+bug_reports: https://github.com/atusy/minidown/issues
+url: https://minidown.atusy.net
+url_cran: https://CRAN.R-project.org/package=minidown
+url_git: https://github.com/atusy/minidown

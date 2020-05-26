@@ -1,0 +1,19 @@
+version: 0.1.5
+title: Dynamic Mixed-Membership Network Regression Model
+maintainer: Santiago Olivella
+description: |-
+  Variational EM estimation of mixed-membership stochastic blockmodel for networks,
+  incorporating node-level predictors of mixed-membership vectors, as well as
+  dyad-level predictors. For networks observed over time, the model defines a hidden
+  Markov process that allows the effects of node-level predictors to evolve in discrete,
+  historical periods. In addition, the package offers a variety of utilities for
+  exploring results of estimation, including tools for conducting posterior
+  predictive checks of goodness-of-fit and several plotting functions. The package
+  implements methods described in Olivella, Pratt and Imai (2019) ``Dynamic Stochastic
+  Blockmodel Regression for Social Networks: Application to International Conflicts'',
+  available at <http://santiagoolivella.info/wp-content/uploads/2018/07/dSBM_Reg.pdf>.
+date_publication: '2020-01-14'
+bug_reports: https://github.com/solivella/NetMix/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=NetMix
+url_git: ''

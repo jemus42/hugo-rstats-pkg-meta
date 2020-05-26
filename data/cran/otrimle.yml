@@ -1,0 +1,14 @@
+version: '1.3'
+title: Robust Model-Based Clustering
+maintainer: Pietro Coretto
+description: Performs robust cluster analysis allowing for outliers and noise that
+  cannot be fitted by any cluster. The data are modelled by a mixture of Gaussian
+  distributions and a noise component, which is an improper uniform  distribution
+  covering the whole Euclidean space. Parameters are estimated by  (pseudo) maximum
+  likelihood. This is fitted by a EM-type algorithm. See Coretto and Hennig (2016)
+  <doi:10.1080/01621459.2015.1100996>, and Coretto and Hennig (2017) <http://jmlr.org/papers/v18/16-382.html>.
+date_publication: '2019-09-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=otrimle
+url_git: ''

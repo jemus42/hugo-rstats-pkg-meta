@@ -1,0 +1,9 @@
+version: 1.1.1
+title: Compute Chi-Square Measures with Corrections
+maintainer: Aurélie Siberchicot
+description: Chi-square tests are computed with corrections.
+date_publication: '2015-07-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Interatrix
+url_git: ''

@@ -1,0 +1,16 @@
+version: 0.1.1
+title: Pathway Enrichment Analysis Based on Bayesian Network
+maintainer: Samaneh Maleknia
+description: Maleknia et al. (2020) <doi:10.1101/2020.01.13.905448>. A novel pathway
+  enrichment analysis package based on Bayesian network to investigate the topology
+  features of the pathways. firstly, 187 kyoto encyclopedia of genes and genomes (KEGG)
+  human non-metabolic pathways which their cycles were eliminated by biological approach,
+  enter in analysis as Bayesian network structures. The constructed Bayesian network
+  were optimized by the Least Absolute Shrinkage Selector Operator (lasso) and the
+  parameters were learned based on gene expression data. Finally, the impacted pathways
+  were enriched by Fisher’s Exact Test on significant parameters.
+date_publication: '2020-04-04'
+bug_reports: https://github.com/Samaneh-Bioinformatics/BNrich/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=BNrich
+url_git: https://github.com/Samaneh-Bioinformatics/BNrich

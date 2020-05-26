@@ -1,0 +1,16 @@
+version: 0.1-6
+title: Exponential Integral and Incomplete Gamma Function
+maintainer: Vincent Goulet
+description: |-
+  The exponential integrals E_1(x), E_2(x), E_n(x) and
+  Ei(x), and the incomplete gamma function G(a, x) defined for
+  negative values of its first argument. The package also gives easy
+  access to the underlying C routines through an API; see the package
+  vignette for details. A test package included in sub-directory
+  example_API provides an implementation. C routines derived from the
+  GNU Scientific Library <https://www.gnu.org/software/gsl/>.
+date_publication: '2019-12-04'
+bug_reports: https://gitlab.com/vigou3/expint/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=expint
+url_git: https://gitlab.com/vigou3/expint

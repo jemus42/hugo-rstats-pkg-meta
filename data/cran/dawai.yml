@@ -1,0 +1,13 @@
+version: 1.2.3
+title: Discriminant Analysis with Additional Information
+maintainer: David Conde
+description: In applications it is usual that some additional information is available.
+  This package dawai (an acronym for Discriminant Analysis With Additional Information)
+  performs linear and quadratic discriminant analysis with additional information
+  expressed as inequality restrictions among the populations means. It also computes
+  several estimations of the true error rate.
+date_publication: '2018-01-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dawai
+url_git: ''

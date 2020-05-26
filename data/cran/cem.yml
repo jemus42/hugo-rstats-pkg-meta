@@ -1,0 +1,9 @@
+version: 1.1.20
+title: Coarsened Exact Matching
+maintainer: Stefano M. Iacus
+description: Implementation of the Coarsened Exact Matching algorithm.
+date_publication: '2020-05-08'
+bug_reports: ''
+url: http://gking.harvard.edu/cem/
+url_cran: https://CRAN.R-project.org/package=cem
+url_git: ''

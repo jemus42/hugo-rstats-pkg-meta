@@ -1,0 +1,15 @@
+version: 0.1.0
+title: |-
+  Identify and Rank CpG DNA Methylation Conservation Along the
+  Human Genome
+maintainer: Emil Hvitfeldt
+description: |-
+  Identify and rank CpG DNA methylation conservation along the human
+  genome. Specifically it includes bootstrapping methods to provide ranking
+  which should adjust for the differences in length as without it short
+  regions tend to get higher conservation scores.
+date_publication: '2019-12-20'
+bug_reports: https://github.com/EmilHvitfeldt/methcon5/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=methcon5
+url_git: https://github.com/EmilHvitfeldt/methcon5

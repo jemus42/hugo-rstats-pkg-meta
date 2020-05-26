@@ -1,0 +1,12 @@
+version: 1.2-11
+title: Tcl/Tk Additions
+maintainer: Philippe Grosjean
+description: |-
+  A series of additional Tcl commands and Tk widgets with style
+  and various functions (under Windows: DDE exchange, access to the
+  registry and icon manipulation) to supplement the tcltk package
+date_publication: '2014-12-20'
+bug_reports: https://r-forge.r-project.org/tracker/?group_id=194
+url: http://www.sciviews.org/SciViews-R
+url_cran: https://CRAN.R-project.org/package=tcltk2
+url_git: ''

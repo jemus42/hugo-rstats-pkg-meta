@@ -1,0 +1,9 @@
+version: '2.3'
+title: Distributions that are Sometimes Used in Hydrology
+maintainer: Thomas Petzoldt
+description: Probability distributions that are sometimes useful in hydrology.
+date_publication: '2020-04-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FAdist
+url_git: https://github.com/tpetzoldt/FAdist

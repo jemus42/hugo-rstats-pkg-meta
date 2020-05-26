@@ -1,0 +1,10 @@
+version: 0.1.1
+title: Inference and Analysis for Jump Generalized Quadratic Diffusions
+maintainer: Etienne A.D. Pienaar
+description: Tools for performing inference and analysis on a class of quadratic jump
+  diffusion processes.
+date_publication: '2016-08-16'
+bug_reports: https://github.com/eta21/DiffusionRjgqd/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=DiffusionRjgqd
+url_git: https://github.com/eta21

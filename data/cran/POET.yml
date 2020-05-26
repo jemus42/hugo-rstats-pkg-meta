@@ -1,0 +1,11 @@
+version: '2.0'
+title: Principal Orthogonal ComplEment Thresholding (POET) Method
+maintainer: Martina Mincheva
+description: |-
+  Estimate large covariance matrices in approximate factor
+  models by thresholding principal orthogonal complements.
+date_publication: '2016-06-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=POET
+url_git: ''

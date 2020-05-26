@@ -1,0 +1,14 @@
+version: '1.25'
+title: Recursively Partitioned Mixture Model
+maintainer: E. Andres Houseman
+description: |2-
+
+  Recursively Partitioned Mixture Model for Beta and Gaussian Mixtures.
+  This is a model-based clustering algorithm that returns a hierarchy
+  of classes, similar to hierarchical clustering, but also similar to
+  finite mixture models.
+date_publication: '2017-02-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RPMM
+url_git: ''

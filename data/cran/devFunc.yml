@@ -1,0 +1,12 @@
+version: '0.1'
+title: Clear and Condense Argument Check for User-Defined Functions
+maintainer: Robin Van Oirbeek
+description: A concise check of the format of one or multiple input arguments (data
+  type, length or value) is provided. Since multiple input arguments can be tested
+  simultaneously, a lengthly list of checks at the beginning of your function can
+  be avoided, hereby enhancing the readability and maintainability of your code.
+date_publication: '2018-01-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=devFunc
+url_git: ''

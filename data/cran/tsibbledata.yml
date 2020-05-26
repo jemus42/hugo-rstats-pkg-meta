@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Diverse Datasets for 'tsibble'
+maintainer: Mitchell O'Hara-Wild
+description: Provides diverse datasets in the 'tsibble' data structure. These datasets
+  are useful for learning and demonstrating how tidy temporal data can tidied, visualised,
+  and forecasted.
+date_publication: '2019-06-15'
+bug_reports: https://github.com/tidyverts/tsibbledata/issues
+url: http://tsibbledata.tidyverts.org/
+url_cran: https://CRAN.R-project.org/package=tsibbledata
+url_git: ''

@@ -1,0 +1,15 @@
+version: '0.1'
+title: Gene Expression State Transformation
+maintainer: Ed Curry
+description: |-
+  The Gene Expression State Transformation (GESTr) models
+  the states of expression of genes across a compendium of
+  samples in order to provide a universal scale of gene
+  expression for all genes. TranSAM is a modification of the SAM
+  approach designed to utilise GESTr-transformed gene expression
+  data.
+date_publication: '2013-03-07'
+bug_reports: ''
+url: http://www1.imperial.ac.uk/medicine/people/e.curry/
+url_cran: https://CRAN.R-project.org/package=GESTr
+url_git: ''

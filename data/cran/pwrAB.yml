@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Power Analysis for AB Testing
+maintainer: William Cha
+description: |-
+  Power analysis for AB testing. The calculations are based on the Welch's unequal variances t-test,
+  which is generally preferred over the Student's t-test when sample sizes and variances of the two groups are
+  unequal, which is frequently the case in AB testing. In such situations, the Student's t-test will give
+  biased results due to using the pooled standard deviation, unlike the Welch's t-test.
+date_publication: '2017-06-06'
+bug_reports: http://github.com/williamcha/pwrAB/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pwrAB
+url_git: http://github.com/williamcha/pwrAB

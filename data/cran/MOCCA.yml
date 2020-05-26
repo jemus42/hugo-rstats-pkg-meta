@@ -1,0 +1,11 @@
+version: '1.4'
+title: Multi-Objective Optimization for Collecting Cluster Alternatives
+maintainer: Hans Kestler
+description: Provides methods to analyze cluster alternatives based on multi-objective
+  optimization of cluster validation indices. For details see Kraus et al. (2011)
+  <doi:10.1007/s00180-011-0244-6>.
+date_publication: '2020-03-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MOCCA
+url_git: ''

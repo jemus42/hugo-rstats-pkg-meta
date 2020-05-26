@@ -1,0 +1,13 @@
+version: 1.0.2
+title: Load Estimation of River Compounds with Different Methods
+maintainer: Veronica Nava
+description: Implements several of the most popular load estimation procedures, including
+  averaging methods, ratio estimators and regression methods. The package provides
+  an easy-to-use tool to rapidly calculate the load for various compounds and to compare
+  different methods. The package also supplies additional functions to easily organize
+  and analyze the data.
+date_publication: '2019-12-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RiverLoad
+url_git: ''

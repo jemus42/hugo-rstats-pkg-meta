@@ -1,0 +1,12 @@
+version: 0.3.9
+title: Tools for Graphical Inference
+maintainer: Di Cook
+description: |-
+  Tools for visual inference. Generate null data sets
+  and null plots using permutation and simulation. Calculate distance metrics
+  for a lineup, and examine the distributions of metrics.
+date_publication: '2020-02-25'
+bug_reports: http://github.com/dicook/nullabor/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=nullabor
+url_git: http://github.com/dicook/nullabor

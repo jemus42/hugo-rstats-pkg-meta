@@ -1,0 +1,13 @@
+version: 1.2.7
+title: Procedures for Ecological Assessment of Surface Waters
+maintainer: Nele Schuwirth
+description: |-
+  Functions for evaluating and visualizing
+  ecological assessment procedures for surface waters
+  containing physical, chemical and biological assessments
+  in the form of value functions.
+date_publication: '2020-04-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ecoval
+url_git: ''

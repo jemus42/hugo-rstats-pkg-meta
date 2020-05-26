@@ -1,0 +1,16 @@
+version: 1.0.0
+title: |-
+  Simulating Pollen Curves from Virtual Taxa with Different Life
+  and Niche Traits
+maintainer: Blas M. Benito
+description: Tools to generate virtual environmental drivers with a given temporal
+  autocorrelation, and to simulate pollen curves at annual resolution over millennial
+  time-scales based on these drivers and virtual taxa with different life traits and
+  niche features. It also provides the means to simulate quasi-realistic pollen-data
+  conditions by applying simulated accumulation rates and given depth intervals between
+  consecutive samples.
+date_publication: '2019-05-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=virtualPollen
+url_git: https://github.com/BlasBenito/virtualPollen

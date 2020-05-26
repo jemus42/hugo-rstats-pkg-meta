@@ -1,0 +1,9 @@
+version: 1.5.15
+title: Functions to Analyze Single System Data
+maintainer: Charles Auerbach
+description: Functions to visually and statistically analyze single system data.
+date_publication: '2020-04-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SSDforR
+url_git: ''

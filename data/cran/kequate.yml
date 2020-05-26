@@ -1,0 +1,13 @@
+version: 1.6.3
+title: The Kernel Method of Test Equating
+maintainer: Björn Andersson
+description: 'Implements the kernel method of test equating as defined in von Davier,
+  A. A., Holland, P. W. and Thayer, D. T. (2004) <doi: 10.1007/b97446> and Andersson,
+  B. and Wiberg, M. (2017) <doi: 10.1007/s11336-016-9528-7> using the CB, EG, SG,
+  NEAT CE/PSE and NEC designs, supporting Gaussian, logistic and uniform kernels and
+  unsmoothed and pre-smoothed input data.'
+date_publication: '2020-02-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=kequate
+url_git: ''

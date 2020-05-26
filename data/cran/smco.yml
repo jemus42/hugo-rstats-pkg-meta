@@ -1,0 +1,13 @@
+version: '0.1'
+title: |-
+  A simple Monte Carlo optimizer using adaptive coordinate
+  sampling
+maintainer: Prof. Juan David Velasquez H.
+description: |-
+  This package is for optimizing non-linear complex
+  functions based on Monte Carlo random sampling.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=smco
+url_git: ''

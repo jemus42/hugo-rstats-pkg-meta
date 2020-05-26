@@ -1,0 +1,11 @@
+version: 0.3.5
+title: BEFdata R package
+maintainer: Claas-Thido Pfaff
+description: |-
+  Basic R package to access data structures offered by any
+  BEFdata portal instance.
+date_publication: '2013-11-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rbefdata
+url_git: https://github.com/befdata/rbefdata

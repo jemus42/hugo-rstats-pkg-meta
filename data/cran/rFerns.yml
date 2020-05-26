@@ -1,0 +1,12 @@
+version: 3.0.0
+title: Random Ferns Classifier
+maintainer: Miron Bartosz Kursa
+description: Provides the random ferns classifier by Ozuysal, Calonder, Lepetit and
+  Fua (2009) <doi:10.1109/TPAMI.2009.23>, modified for generic and multi-label classification
+  and featuring OOB error approximation and importance measure as introduced in Kursa
+  (2014) <doi:10.18637/jss.v061.i10>.
+date_publication: '2018-07-16'
+bug_reports: https://notabug.org/mbq/rFerns/issues
+url: https://notabug.org/mbq/rFerns
+url_cran: https://CRAN.R-project.org/package=rFerns
+url_git: ''

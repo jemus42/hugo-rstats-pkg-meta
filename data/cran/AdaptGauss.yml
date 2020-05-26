@@ -1,0 +1,15 @@
+version: 1.5.6
+title: Gaussian Mixture Models (GMM)
+maintainer: Michael Thrun
+description: Multimodal distributions can be modelled as a mixture of components.
+  The model is derived using the Pareto Density Estimation (PDE) for an estimation
+  of the pdf. PDE has been designed in particular to identify groups/classes in a
+  dataset. Precise limits for the classes can be calculated using the theorem of Bayes.
+  Verification of the model is possible by QQ plot, Chi-squared test and Kolmogorov-Smirnov
+  test. The package is based on the publication of Ultsch, A., Thrun, M.C., Hansen-Goos,
+  O., Lotsch, J. (2015)  <DOI:10.3390/ijms161025897>.
+date_publication: '2020-02-03'
+bug_reports: https://github.com/Mthrun/AdaptGauss/issues
+url: https://www.uni-marburg.de/fb12/datenbionik/software-en
+url_cran: https://CRAN.R-project.org/package=AdaptGauss
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.3.8
+title: Create 'roxygen2' Skeleton with Information from Function Script
+maintainer: Jonathan Sidi
+description: |-
+  Create 'roxygen2' skeleton populated with information scraped from the
+  within the function script. Also creates field entries for imports in the
+  'DESCRIPTION' and import in the 'NAMESPACE' files. Can be run from the R
+  console or through the 'RStudio' 'addin' menu.
+date_publication: '2018-08-31'
+bug_reports: https://github.com/metrumresearchgroup/sinew/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sinew
+url_git: https://github.com/metrumresearchgroup/sinew

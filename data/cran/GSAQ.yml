@@ -1,0 +1,14 @@
+version: '1.0'
+title: Gene Set Analysis with QTL
+maintainer: Samarendra Das
+description: Computation of Quantitative Trait Loci hits in the selected gene set.
+  Performing gene set validation with Quantitative Trait Loci information. Performing
+  gene set enrichment analysis with available Quantitative Trait Loci data and computation
+  of statistical significance value from gene set analysis. Obtaining the list of
+  Quantitative Trait Loci hit genes along with their overlapped Quantitative Trait
+  Loci names.
+date_publication: '2016-09-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GSAQ
+url_git: ''

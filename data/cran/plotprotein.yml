@@ -1,0 +1,11 @@
+version: '1.0'
+title: Development of Visualization Tools for Protein Sequence
+maintainer: Yao Geng
+description: The image of the amino acid transform on the protein level is drawn,
+  and the automatic routing of the functional elements such as the domain and the
+  mutation site is completed.
+date_publication: '2017-05-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=plotprotein
+url_git: ''

@@ -1,0 +1,13 @@
+version: 0.1.1
+title: |-
+  Fast Estimation of a Covariance Matrix by Banding the Cholesky
+  Factor
+maintainer: Aaron Molstad
+description: Fast and numerically stable estimation of a covariance matrix by banding
+  the Cholesky factor using a modified Gram-Schmidt algorithm implemented in RcppArmadilo.
+  See <http://stat.umn.edu/~molst029> for details on the algorithm.
+date_publication: '2015-08-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FastBandChol
+url_git: ''

@@ -1,0 +1,9 @@
+version: 2020.4.30
+title: Bayes Screening and Model Discrimination
+maintainer: Ernesto Barrios
+description: Bayes screening and model discrimination follow-up designs.
+date_publication: '2020-04-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BsMD
+url_git: ''

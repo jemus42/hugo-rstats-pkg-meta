@@ -1,0 +1,10 @@
+version: 0.1-11
+title: Robust Regression Functions
+maintainer: Ian M. Johnson
+description: Linear regression functions using Huber and bisquare psi functions. Optimal
+  weights are calculated using IRLS algorithm.
+date_publication: '2019-05-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=robustreg
+url_git: ''

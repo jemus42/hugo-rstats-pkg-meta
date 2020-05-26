@@ -1,0 +1,11 @@
+version: 1.0.2
+title: Process activPAL Events Files
+maintainer: Kate Lyden
+description: Performs estimation of physical activity and sedentary behavior variables
+  from activPAL (PAL Technologies, Glasgow, Scotland) events files. See <http://paltechnologies.com>
+  for more information on the activPAL.
+date_publication: '2016-12-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=activpalProcessing
+url_git: ''

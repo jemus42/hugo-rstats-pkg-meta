@@ -1,0 +1,10 @@
+version: '1.5'
+title: Seasonal Adjustment by Frequency Analysis
+maintainer: Francisco Parra
+description: Decompose a time series into seasonal, trend and irregular components
+  using transformations to amplitude-frequency domain.
+date_publication: '2018-07-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=descomponer
+url_git: ''

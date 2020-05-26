@@ -1,0 +1,11 @@
+version: 0.10.01.02
+title: Keep track of dates in terms of months
+maintainer: Dan Murphy
+description: Keep track of dates in terms of months.<U+000a>Model dates as at close
+  of business.<U+000a>Perform date arithmetic in units of "months" and "years" (multiples
+  of months).<U+000a>Allow "infinite" dates to model "ultimate" time spans.
+date_publication: '2013-07-21'
+bug_reports: ''
+url: http://code.google.com/p/mondate/
+url_cran: https://CRAN.R-project.org/package=mondate
+url_git: ''

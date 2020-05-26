@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Interface to the National 'Phenology' Network 'API'
+maintainer: Scott Chamberlain
+description: |-
+  Programmatic interface to the
+  Web Service methods provided by the National 'Phenology' Network
+  (<https://usanpn.org/>), which includes data on various life history
+  events that occur at specific times.
+date_publication: '2016-04-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rnpn
+url_git: ''

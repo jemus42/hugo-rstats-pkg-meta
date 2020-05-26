@@ -1,0 +1,12 @@
+version: 0.91.2.2
+title: Discretization-Based Direct Random Sample Generation
+maintainer: Chel Hee Lee
+description: Two discretization-based Monte Carlo algorithms, namely the Fu-Wang algorithm
+  and the Wang-Lee algorithm, are provided for random sample generation from a high
+  dimensional distribution of complex structure.  The normalizing constant of the
+  target distribution needs not to be known.
+date_publication: '2015-11-30'
+bug_reports: chl948@mail.usask.ca
+url: ''
+url_cran: https://CRAN.R-project.org/package=dsample
+url_git: https://r-forge.r-project.org/projects/wanglee/

@@ -1,0 +1,14 @@
+version: 0.9.8
+title: Access Vegetation Databases and Treat Taxonomy
+maintainer: Florian Jansen
+description: |-
+  Handling of vegetation data from different sources (
+  Turboveg <http://www.synbiosys.alterra.nl/turboveg/>;
+  the German national repository <http://www.vegetweb.de> and others.
+  Taxonomic harmonization (given appropriate taxonomic lists,
+  e.g. the German taxonomic standard list "GermanSL", <http://germansl.infinitenature.org>).
+date_publication: '2020-05-13'
+bug_reports: ''
+url: http://germansl.infinitenature.org
+url_cran: https://CRAN.R-project.org/package=vegdata
+url_git: ''

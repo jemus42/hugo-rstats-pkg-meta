@@ -1,0 +1,14 @@
+version: '1.1'
+title: Inhomogeneous Poisson Point Processes
+maintainer: Niklas Hohmann
+description: Generates random numbers corresponding to the events on a Poisson point
+  process with changing event rates. This includes the possibility to incorporate
+  additional information such as the number of events occurring or the location of
+  an already known event. It can also generate the probability density functions of
+  specific events in the cases where additional information is available. Based on
+  Hohmann (2019) <arXiv:1901.10754>.
+date_publication: '2019-05-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IPPP
+url_git: ''

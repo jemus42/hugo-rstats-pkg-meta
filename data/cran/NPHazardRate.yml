@@ -1,0 +1,10 @@
+version: '0.1'
+title: Nonparametric Hazard Rate Estimation
+maintainer: Dimitrios Bagkavos
+description: Provides functions and examples for histogram, kernel (classical, variable
+  bandwidth and transformations based), discrete and semiparametric hazard rate estimators.
+date_publication: '2018-11-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NPHazardRate
+url_git: ''

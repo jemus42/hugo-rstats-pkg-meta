@@ -1,0 +1,16 @@
+version: 2.1.0
+title: Dendrograms for Evolutionary Analysis
+maintainer: Shaun Wilkinson
+description: |-
+  Contains functions for developing phylogenetic trees as
+  deeply-nested lists ("dendrogram" objects).
+  Enables bi-directional conversion between dendrogram and
+  "phylo" objects
+  (see Paradis et al (2004) <doi:10.1093/bioinformatics/btg412>),
+  and features several tools for command-line tree
+  manipulation and import/export via Newick parenthetic text.
+date_publication: '2018-06-25'
+bug_reports: http://github.com/ropensci/phylogram/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=phylogram
+url_git: http://github.com/ropensci/phylogram

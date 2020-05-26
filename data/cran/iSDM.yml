@@ -1,0 +1,10 @@
+version: '1.0'
+title: Invasive Species Distribution Modelling
+maintainer: Tarek Hattab
+description: Functions for predicting and mapping potential and realized distributions
+  of invasive species within the invaded range.
+date_publication: '2017-03-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=iSDM
+url_git: ''

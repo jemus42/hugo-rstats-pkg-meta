@@ -1,0 +1,13 @@
+version: '1.0'
+title: The Gini concentration test for survival data
+maintainer: Chiara Gigliarano
+description: The Gini concentration test for survival data is a nonparametric test
+  based on the Gini index for testing the equality of two survival distributions from
+  the point of view of concentration. The package compares different nonparametric
+  tests (asymptotic Gini test, permutation Gini test, log-rank test, Gray-Tsiatis
+  test and Wilcoxon test) and computes their p-values.
+date_publication: '2011-11-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Survgini
+url_git: ''

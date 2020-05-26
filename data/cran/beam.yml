@@ -1,0 +1,10 @@
+version: 2.0.1
+title: Fast Bayesian Inference in Large Gaussian Graphical Models
+maintainer: Gwenael G.R. Leday
+description: Fast Bayesian inference of marginal and conditional independence structures
+  from high-dimensional data.
+date_publication: '2020-01-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=beam
+url_git: https://github.com/gleday/beam

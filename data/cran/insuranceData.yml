@@ -1,0 +1,15 @@
+version: '1.0'
+title: |-
+  A Collection of Insurance Datasets Useful in Risk Classification
+  in Non-life Insurance.
+maintainer: Alicja Wolny--Dominiak
+description: Insurance datasets, which are often used in claims severity and claims
+  frequency modelling. It helps testing new regression models in those problems, such
+  as GLM, GLMM, HGLM, non-linear mixed models etc. Most of the data sets are applied
+  in the project "Mixed models in ratemaking" supported by grant NN 111461540 from
+  Polish National Science Center.
+date_publication: '2014-09-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=insuranceData
+url_git: ''

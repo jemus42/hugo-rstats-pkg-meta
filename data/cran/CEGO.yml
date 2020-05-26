@@ -1,0 +1,12 @@
+version: 2.4.0
+title: Combinatorial Efficient Global Optimization
+maintainer: Martin Zaefferer
+description: |-
+  Model building, surrogate model
+  based optimization and Efficient Global Optimization in combinatorial
+  or mixed search spaces.
+date_publication: '2019-12-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CEGO
+url_git: ''

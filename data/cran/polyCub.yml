@@ -1,0 +1,23 @@
+version: 0.7.1
+title: Cubature over Polygonal Domains
+maintainer: Sebastian Meyer
+description: |-
+  Numerical integration of continuously differentiable
+  functions f(x,y) over simple closed polygonal domains.
+  The following cubature methods are implemented:
+  product Gauss cubature (Sommariva and Vianello, 2007,
+  <doi:10.1007/s10543-007-0131-2>),
+  the simple two-dimensional midpoint rule
+  (wrapping 'spatstat' functions),
+  adaptive cubature for radially symmetric functions via line
+  integrate() along the polygon boundary (Meyer and Held, 2014,
+  <doi:10.1214/14-AOAS743>, Supplement B),
+  and integration of the bivariate Gaussian density based on
+  polygon triangulation.
+  For simple integration along the axes, the 'cubature' package
+  is more appropriate.
+date_publication: '2019-02-07'
+bug_reports: https://github.com/bastistician/polyCub/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=polyCub
+url_git: https://github.com/bastistician/polyCub

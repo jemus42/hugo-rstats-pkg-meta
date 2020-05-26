@@ -1,0 +1,14 @@
+version: '0.4'
+title: |-
+  Calculation of Accumulated Cost Surface and Least-Cost Paths
+  Related to Human Movement Across the Landscape
+maintainer: Gianmarco Alberti
+description: Provides the facility to calculate non-isotropic accumulated cost surface
+  and least-cost paths using a number of human-movement-related cost functions that
+  can be selected by the user. It just requires a Digital Terrain Model, a start location
+  and (optionally) destination locations. See Alberti (2019) <doi:10.1016/j.softx.2019.100331>.
+date_publication: '2020-05-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=movecost
+url_git: ''

@@ -1,0 +1,11 @@
+version: '0.9'
+title: API Client for the MG-RAST Server of the US DOE KBase
+maintainer: Daniel T. Braithwaite
+description: Convenience Functions for R Language Access to the v.1 API of the MG-RAST
+  Metagenome Annotation Server, part of the US Department of Energy (DOE) Systems
+  Biology Knowledge Base (KBase).
+date_publication: '2014-08-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MGRASTer
+url_git: https://github.com/braithwaite/MGRASTer/

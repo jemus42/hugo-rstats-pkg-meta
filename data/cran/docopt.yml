@@ -1,0 +1,11 @@
+version: 0.6.1
+title: Command-Line Interface Specification Language
+maintainer: Edwin de Jonge
+description: |-
+  Define a command-line interface by just giving it
+  a description in the specific format.
+date_publication: '2018-10-11'
+bug_reports: https://github.com/docopt/docopt.R/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=docopt
+url_git: https://github.com/docopt/docopt.R

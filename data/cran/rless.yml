@@ -1,0 +1,14 @@
+version: 0.1.1
+title: Leaner Style Sheets
+maintainer: Jonas Vaclavek
+description: |-
+  Converts LESS to CSS.
+  It uses V8 engine, where LESS parser is run. Functions for
+  LESS text, file or folder conversion are provided.
+  This work was supported by a junior grant research project by
+  Czech Science Foundation 'GACR' no. 'GJ18-04150Y'.
+date_publication: '2019-07-31'
+bug_reports: https://github.com/ciirc-kso/rless/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rless
+url_git: https://github.com/ciirc-kso/rless

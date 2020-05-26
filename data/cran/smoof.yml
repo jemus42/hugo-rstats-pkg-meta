@@ -1,0 +1,13 @@
+version: 1.6.0.2
+title: Single and Multi-Objective Optimization Test Functions
+maintainer: Jakob Bossek
+description: |-
+  Provides generators for a high number of both single- and multi-
+  objective test functions which are frequently used for the benchmarking of
+  (numerical) optimization algorithms. Moreover, it offers a set of convenient
+  functions to generate, plot and work with objective functions.
+date_publication: '2020-02-18'
+bug_reports: https://github.com/jakobbossek/smoof/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=smoof
+url_git: https://github.com/jakobbossek/smoof

@@ -1,0 +1,11 @@
+version: 3.3.2
+title: Bayesian Meta-Analysis of Diagnostic Test Data
+maintainer: Pablo Emilio Verde
+description: |-
+  Functions for Bayesian meta-analysis of diagnostic test data which
+  are based on a scale mixtures bivariate random-effects model.
+date_publication: '2019-07-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bamdit
+url_git: ''

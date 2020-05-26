@@ -1,0 +1,11 @@
+version: '0.1'
+title: A Clean, Whitespace-Sensitive Template Language for Writing HTML
+maintainer: Jeroen Ooms
+description: |-
+  Jade is a high performance template engine heavily influenced by
+  Haml and implemented with JavaScript for node and browsers.
+date_publication: '2015-02-18'
+bug_reports: https://github.com/jeroenooms/rjade/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rjade
+url_git: https://github.com/jeroenooms/rjadehttps://www.npmjs.com/package/jade

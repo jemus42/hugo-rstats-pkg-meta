@@ -1,0 +1,9 @@
+version: 0.1.0
+title: The Rainfall-Runoff Erosivity Factor
+maintainer: Dione Pereira Cardoso
+description: Determination of rainfall-runoff erosivity factor.
+date_publication: '2018-11-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RainfallErosivityFactor
+url_git: ''

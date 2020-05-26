@@ -1,0 +1,19 @@
+version: 0.5.1
+title: |-
+  Minimization Tool for Pharmacokinetic-Pharmacodynamic Data
+  Analysis
+maintainer: Kyun-Seop Bae
+description: This is a set of minimization tools (maximum likelihood estimation and
+  least square fitting) to solve examples in the Johan Gabrielsson and Dan Weiner's
+  book "Pharmacokinetic and Pharmacodynamic Data Analysis - Concepts and Applications"
+  5th ed. (ISBN:9198299107). Examples include linear and nonlinear compartmental model,
+  turn-over model, single or multiple dosing bolus/infusion/oral models, allometry,
+  toxicokinetics, reversible metabolism, in-vitro/in-vivo extrapolation, enterohepatic
+  circulation, metabolite modeling, Emax model, inhibitory model, tolerance model,
+  oscillating response model, enantiomer interaction model, effect compartment model,
+  drug-drug interaction model, receptor occupancy model, and rebound phenomena model.
+date_publication: '2019-06-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=wnl
+url_git: ''

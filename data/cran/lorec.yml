@@ -1,0 +1,9 @@
+version: 0.6.1
+title: LOw Rand and sparsE Covariance matrix estimation
+maintainer: Xi (Rossi) LUO
+description: Estimate covariance matrices that contain low rank and sparse components
+date_publication: '2014-02-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lorec
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.9.8
+title: Recurrent Neural Network
+maintainer: Bastiaan Quast
+description: Implementation of a Recurrent Neural Network architectures in native
+  R, including Long Short-Term Memory (Hochreiter and Schmidhuber, <doi:10.1162/neco.1997.9.8.1735>),
+  Gated Recurrent Unit (Chung et al., <arXiv:1412.3555>) and vanilla RNN.
+date_publication: '2019-05-27'
+bug_reports: https://github.com/bquast/rnn/issues
+url: http://qua.st/rnn
+url_cran: https://CRAN.R-project.org/package=rnn
+url_git: https://github.com/bquast/rnn

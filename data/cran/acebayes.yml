@@ -1,0 +1,10 @@
+version: '1.9'
+title: Optimal Bayesian Experimental Design using the ACE Algorithm
+maintainer: Antony M. Overstall
+description: Optimal Bayesian experimental design using the approximate coordinate
+  exchange (ACE) algorithm.
+date_publication: '2020-02-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=acebayes
+url_git: ''

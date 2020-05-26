@@ -1,0 +1,10 @@
+version: 2014.02.17
+title: A Gene-signatures finder tools
+maintainer: Stefano M. Pagnotta
+description: A tool for finding an ensemble gene-signature by a steepest ascending
+  algorithm partially supervised by survival time data.
+date_publication: '2014-03-07'
+bug_reports: http://www.bioinformatics.unisannio.it/gsf
+url: http://www.bioinformatics.unisannio.it/gsf
+url_cran: https://CRAN.R-project.org/package=geneSignatureFinder
+url_git: ''

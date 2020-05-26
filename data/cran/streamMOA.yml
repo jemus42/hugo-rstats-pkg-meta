@@ -1,0 +1,12 @@
+version: 1.2-2
+title: Interface for MOA Stream Clustering Algorithms
+maintainer: Michael Hahsler
+description: 'Interface for data stream clustering algorithms implemented in the MOA
+  (Massive Online Analysis) framework (Albert Bifet, Geoff Holmes, Richard Kirkby,
+  Bernhard Pfahringer (2010). MOA: Massive Online Analysis, Journal of Machine Learning
+  Research 11: 1601-1604).'
+date_publication: '2019-05-15'
+bug_reports: https://github.com/mhahsler/streamMOA
+url: ''
+url_cran: https://CRAN.R-project.org/package=streamMOA
+url_git: ''

@@ -1,0 +1,9 @@
+version: 0.1.5
+title: Dashboard with Semantic UI Support for Shiny
+maintainer: Dominik Krzeminski
+description: It offers functions for creating dashboard with Semantic UI.
+date_publication: '2020-04-07'
+bug_reports: https://github.com/Appsilon/semantic.dashboard/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=semantic.dashboard
+url_git: ''

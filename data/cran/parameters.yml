@@ -1,0 +1,17 @@
+version: 0.7.0
+title: Processing of Model Parameters
+maintainer: Daniel Lüdecke
+description: |-
+  Utilities for processing the parameters of various
+  statistical models. Beyond computing p values, CIs, and other indices
+  for a wide variety of models (see support list of insight; Lüdecke,
+  Waggoner & Makowski (2019) <doi:10.21105/joss.01412>), this package
+  implements features like bootstrapping or simulating of parameters and
+  models, feature reduction (feature extraction and variable selection)
+  as well as functions to describe data and variable characteristics
+  (e.g. skewness, kurtosis, smoothness or distribution).
+date_publication: '2020-05-18'
+bug_reports: https://github.com/easystats/parameters/issues
+url: https://easystats.github.io/parameters/
+url_cran: https://CRAN.R-project.org/package=parameters
+url_git: ''

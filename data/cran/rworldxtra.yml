@@ -1,0 +1,10 @@
+version: '1.01'
+title: Country boundaries at high resolution.
+maintainer: Andy South
+description: High resolution vector country boundaries derived from<U+000a>Natural
+  Earth data, can be plotted in rworldmap.
+date_publication: '2012-10-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rworldxtra
+url_git: ''

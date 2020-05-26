@@ -1,0 +1,10 @@
+version: 1.0.2
+title: Computing Continuous Distributions
+maintainer: Bozidar V. Popovic
+description: Computing Continuous Distributions Obtained by Compounding<U+000a>a Continuous
+  and a Discrete Distribution
+date_publication: '2013-02-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Compounding
+url_git: ''

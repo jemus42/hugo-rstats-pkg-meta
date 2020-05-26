@@ -1,0 +1,10 @@
+version: 1.0.2
+title: Multi-Class Sparse Discriminant Analysis
+maintainer: Yi Yang
+description: Efficient procedures for computing a new Multi-Class Sparse Discriminant
+  Analysis method that estimates all discriminant directions simultaneously.
+date_publication: '2015-02-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=msda
+url_git: https://github.com/emeryyi/msda

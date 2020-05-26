@@ -1,0 +1,14 @@
+version: 0.1.0
+title: Retrieve Disease-Related Genes from Public Sources
+maintainer: Jiawei Wu
+description: |-
+  For researchers to quickly and comprehensively acquire disease genes, so as to understand the mechanism of disease,
+  we developed this program to acquire disease-related genes.
+  The data is integrated from three public databases. The three databases are 'eDGAR', 'DrugBank'
+  and 'MalaCards'. The 'eDGAR' is a comprehensive database, containing data on the relationship between disease and genes.
+  'DrugBank' contains information on 13443 drugs and 5157 targets. 'MalaCards' integrates human disease information, including disease-related genes.
+date_publication: '2020-04-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Autoseed
+url_git: ''

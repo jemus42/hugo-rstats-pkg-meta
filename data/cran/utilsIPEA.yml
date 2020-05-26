@@ -1,0 +1,12 @@
+version: 0.0.6
+title: IPEA Common Functions
+maintainer: Gustavo Coelho
+description: |-
+  The most used functions on IPEA (Instituto de Pesquisa Economica Aplicada).
+  Most of functions deal with brazilian names.
+  It can guess the women single's name, extract prepositions or extract the first name.
+date_publication: '2018-04-20'
+bug_reports: http://github.com/ipea/utilsIPEA/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=utilsIPEA
+url_git: https://github.com/ipea/utilsIPEA

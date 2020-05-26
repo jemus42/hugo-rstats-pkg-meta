@@ -1,0 +1,12 @@
+version: '2.4'
+title: International Assessment Data Manager
+maintainer: Daniel Caro
+description: |2-
+
+  Provides tools for importing, merging, and analysing data from
+  international assessment studies (TIMSS, PIRLS, PISA, ICILS, and PIAAC).
+date_publication: '2019-05-10'
+bug_reports: https://github.com/eldafani/intsvy/issues
+url: http://danielcaro.net/r-intsvy/
+url_cran: https://CRAN.R-project.org/package=intsvy
+url_git: https://github.com/eldafani/intsvy

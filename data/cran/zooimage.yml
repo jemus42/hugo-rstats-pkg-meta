@@ -1,0 +1,14 @@
+version: 5.5.2
+title: Analysis of Numerical Plankton Images
+maintainer: Philippe Grosjean
+description: |-
+  A free (open source) solution for analyzing digital
+  images of plankton. In combination with ImageJ, a free image analysis
+  system, it processes digital images, measures individuals, trains for
+  automatic classification of taxa, and finally, measures plankton samples
+  (abundances, total and partial size spectra or biomasses, etc.).
+date_publication: '2018-06-29'
+bug_reports: ''
+url: http://www.sciviews.org/zooimage
+url_cran: https://CRAN.R-project.org/package=zooimage
+url_git: ''

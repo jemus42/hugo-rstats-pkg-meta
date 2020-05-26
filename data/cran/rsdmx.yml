@@ -1,0 +1,12 @@
+version: 0.5-14
+title: Tools for Reading SDMX Data and Metadata
+maintainer: Emmanuel Blondel
+description: |-
+  Set of classes and methods to read data and metadata documents
+  exchanged through the Statistical Data and Metadata Exchange (SDMX) framework,
+  currently focusing on the SDMX XML standard format (SDMX-ML).
+date_publication: '2020-04-07'
+bug_reports: https://github.com/opensdmx/rsdmx/issues
+url: http://www.sdmx.org
+url_cran: https://CRAN.R-project.org/package=rsdmx
+url_git: https://github.com/opensdmx/rsdmx

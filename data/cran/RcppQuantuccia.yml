@@ -1,0 +1,15 @@
+version: 0.0.3
+title: |-
+  R Bindings to the 'Quantuccia' Header-Only Essentials of
+  'QuantLib'
+maintainer: Dirk Eddelbuettel
+description: |-
+  'QuantLib' bindings are provided for R using 'Rcpp' and the
+  header-only 'Quantuccia' variant (put together by Peter Caspers) offering
+  an essential subset of 'QuantLib'. See the included file 'AUTHORS' for a full
+  list of contributors to both 'QuantLib' and 'Quantuccia'.
+date_publication: '2019-08-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcppQuantuccia
+url_git: ''

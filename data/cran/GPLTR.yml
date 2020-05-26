@@ -1,0 +1,14 @@
+version: '1.2'
+title: Generalized Partially Linear Tree-Based Regression Model
+maintainer: Cyprien Mbogning
+description: |-
+  Combining a generalized linear model with an additional tree part
+  on the same scale. A four-step procedure is proposed to fit the model and test
+  the joint effect of the selected tree part while adjusting on confounding factors.
+  We also proposed an ensemble procedure based on the bagging to improve prediction
+  accuracy and computed several scores of importance for variable selection.
+date_publication: '2015-06-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GPLTR
+url_git: ''

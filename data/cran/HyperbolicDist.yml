@@ -1,0 +1,14 @@
+version: 0.6-2
+title: The hyperbolic distribution
+maintainer: David Scott
+description: This package provides functions for the hyperbolic and<U+000a>related
+  distributions. Density, distribution and quantile<U+000a>functions and random number
+  generation are provided for the<U+000a>hyperbolic distribution, the generalized
+  hyperbolic<U+000a>distribution, the generalized inverse Gaussian distribution and<U+000a>the
+  skew-Laplace distribution. Additional functionality is<U+000a>provided for the hyperbolic
+  distribution, including fitting of<U+000a>the hyperbolic to data.
+date_publication: '2009-09-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HyperbolicDist
+url_git: ''

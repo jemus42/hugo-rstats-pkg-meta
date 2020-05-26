@@ -1,0 +1,12 @@
+version: 0.3.0
+title: Client for the Open Citations Corpus
+maintainer: Scott Chamberlain
+description: |-
+  Client for the Open Citations Corpus (<http://opencitations.net/>).
+  Includes a set of functions for getting one identifier type from another,
+  as well as getting references and citations for a given identifier.
+date_publication: '2020-04-16'
+bug_reports: https://github.com/ropenscilabs/citecorp/issues
+url: https://docs.ropensci.org/citecorp/(docs)
+url_cran: https://CRAN.R-project.org/package=citecorp
+url_git: https://github.com/ropenscilabs/citecorp(devel)

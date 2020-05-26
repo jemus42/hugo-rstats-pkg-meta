@@ -1,0 +1,12 @@
+version: 0.6.0
+title: Statistics Norway's Miscellaneous Tools
+maintainer: Øyvind Langsrud
+description: Functions used by other packages from Statistics Norway are gathered.
+  General data manipulation functions, and functions for hierarchical computations
+  are included. The hierarchy specification functions are useful within statistical
+  disclosure control.
+date_publication: '2020-02-28'
+bug_reports: https://github.com/statisticsnorway/SSBtools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=SSBtools
+url_git: https://github.com/statisticsnorway/SSBtools

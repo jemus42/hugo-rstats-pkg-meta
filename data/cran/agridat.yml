@@ -1,0 +1,12 @@
+version: '1.16'
+title: Agricultural Datasets
+maintainer: Kevin Wright
+description: |-
+  Datasets from books, papers, and websites related to agriculture.
+  Example graphics and analyses are included. Data come from small-plot trials,
+  multi-environment trials, uniformity trials, yield monitors, and more.
+date_publication: '2018-07-06'
+bug_reports: https://github.com/kwstat/agridat/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=agridat
+url_git: https://github.com/kwstat/agridat

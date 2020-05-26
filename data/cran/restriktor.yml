@@ -1,0 +1,13 @@
+version: 0.2-800
+title: |-
+  Restricted Statistical Estimation and Inference for Linear
+  Models
+maintainer: Leonard Vanbrabant
+description: |-
+  Allow for easy-to-use testing or evaluating of linear equality and inequality
+  restrictions about parameters and effects in (generalized) linear statistical models.
+date_publication: '2020-02-25'
+bug_reports: ''
+url: http://restriktor.org
+url_cran: https://CRAN.R-project.org/package=restriktor
+url_git: ''

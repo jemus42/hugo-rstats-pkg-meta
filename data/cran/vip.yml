@@ -1,0 +1,19 @@
+version: 0.2.2
+title: Variable Importance Plots
+maintainer: Brandon Greenwell
+description: |-
+  A general framework for constructing variable importance plots from
+  various types of machine learning models in R. Aside from some standard model-
+  specific variable importance measures, this package also provides model-
+  agnostic approaches that can be applied to any supervised learning algorithm.
+  These include 1) an efficient permutation-based variable importance measure,
+  2) variable importance based on Shapley values (Strumbelj and Kononenko,
+  2014) <doi:10.1007/s10115-013-0679-x>, and 3) the variance-based
+  approach described in Greenwell et al. (2018) <arXiv:1805.04755>. A
+  variance-based method for quantifying the relative strength of interaction
+  effects is also included (see the previous reference for details).
+date_publication: '2020-04-06'
+bug_reports: https://github.com/koalaverse/vip/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=vip
+url_git: https://github.com/koalaverse/vip/

@@ -1,0 +1,16 @@
+version: 1.5.2
+title: HTTP and WebSocket Server Library
+maintainer: Joe Cheng
+description: |-
+  Provides low-level socket and protocol support for handling
+  HTTP and WebSocket requests directly from within R. It is primarily
+  intended as a building block for other packages, rather than making it
+  particularly easy to create complete web applications using httpuv alone.
+  httpuv is built on top of the libuv and http-parser C libraries, both of
+  which were developed by Joyent, Inc. (See LICENSE file for libuv and
+  http-parser license information.)
+date_publication: '2019-09-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=httpuv
+url_git: https://github.com/rstudio/httpuv

@@ -1,0 +1,10 @@
+version: 11.2.1
+title: Interface for 'MicroStrategy' REST API
+maintainer: Piotr Kowal
+description: Interface for creating data sets and extracting data through the 'MicroStrategy'
+  REST API. Access the demo API at <https://demo.microstrategy.com/MicroStrategyLibrary/api-docs/index.html>.
+date_publication: '2020-03-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mstrio
+url_git: ''

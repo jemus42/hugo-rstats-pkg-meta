@@ -1,0 +1,14 @@
+version: 1.2-1
+title: Color Calculations with Emphasis on Spectral Data
+maintainer: Glenn Davis
+description: |-
+  Calculate with spectral properties of light sources, materials, cameras, eyes, and scanners.
+  Build complex systems from simpler parts using a spectral product algebra. For light sources,
+  compute CCT, CRI, and SSI.  For object colors, compute optimal colors and Logvinenko coordinates.
+  Work with the standard CIE illuminants and color matching functions, and read spectra from
+  text files, including CGATS files.  Estimate a spectrum from its response. A user guide and 9 vignettes are included.
+date_publication: '2020-04-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=colorSpec
+url_git: ''

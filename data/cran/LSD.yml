@@ -1,0 +1,10 @@
+version: 4.0-0
+title: Lots of Superior Depictions
+maintainer: Bjoern Schwalb
+description: Create lots of colorful plots in a plethora of variations. Try the LSD
+  demotour().
+date_publication: '2018-01-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LSD
+url_git: ''

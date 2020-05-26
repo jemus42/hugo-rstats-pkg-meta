@@ -1,0 +1,13 @@
+version: 2.0.7
+title: Pedigree Inference from SNPs
+maintainer: Jisca Huisman
+description: |-
+  Fast multi-generational pedigree inference from incomplete data on
+  hundreds of SNPs, including parentage assignment and sibship clustering.
+  See Huisman (2017) (<DOI:10.1111/1755-0998.12665>, citation('sequoia')) for
+  more information.
+date_publication: '2020-05-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sequoia
+url_git: ''

@@ -1,0 +1,12 @@
+version: 1.0.2
+title: Bootstrap Methods for Network Inference
+maintainer: Vyacheslav Lyubchich
+description: Functions for analysis of network objects, which are imported or simulated
+  by the package. The non-parametric methods of analysis center on snowball and bootstrap
+  sampling for estimating functions of network degree distribution. For other parameters
+  of interest, see, e.g., 'bootnet' package.
+date_publication: '2020-04-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=snowboot
+url_git: ''

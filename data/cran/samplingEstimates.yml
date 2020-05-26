@@ -1,0 +1,12 @@
+version: 0.1-3
+title: Sampling Estimates
+maintainer: Emilio Lopez Escobar
+description: Functions to estimate from survey data. This package is a user-friendly
+  wrapper of the samplingVarEst package. It considers that the user is more familiar
+  with practical survey data rather than with research on survey sampling (variance
+  estimation). More functionalities are on the way.
+date_publication: '2014-05-13'
+bug_reports: ''
+url: http://www.numerika.mx
+url_cran: https://CRAN.R-project.org/package=samplingEstimates
+url_git: ''

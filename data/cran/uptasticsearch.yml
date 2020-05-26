@@ -1,0 +1,17 @@
+version: 0.4.0
+title: Get Data Frame Representations of 'Elasticsearch' Results
+maintainer: James Lamb
+description: |2-
+
+  'Elasticsearch' is an open-source, distributed, document-based datastore
+  (<https://www.elastic.co/products/elasticsearch>).
+  It provides an 'HTTP' 'API' for querying the database and extracting datasets, but that
+  'API' was not designed for common data science workflows like pulling large batches of
+  records and normalizing those documents into a data frame that can be used as a training
+  dataset for statistical models. 'uptasticsearch' provides an interface for 'Elasticsearch'
+  that is explicitly designed to make these data science workflows easy and fun.
+date_publication: '2019-09-11'
+bug_reports: https://github.com/uptake/uptasticsearch/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=uptasticsearch
+url_git: https://github.com/uptake/uptasticsearch

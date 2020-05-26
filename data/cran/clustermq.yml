@@ -1,0 +1,14 @@
+version: 0.8.9
+title: |-
+  Evaluate Function Calls on HPC Schedulers (LSF, SGE, SLURM,
+  PBS/Torque)
+maintainer: Michael Schubert
+description: |-
+  Evaluate arbitrary function calls using workers on HPC schedulers
+  in single line of code. All processing is done on the network without
+  accessing the file system. Remote schedulers are supported via SSH.
+date_publication: '2020-02-29'
+bug_reports: https://github.com/mschubert/clustermq/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=clustermq
+url_git: https://github.com/mschubert/clustermq

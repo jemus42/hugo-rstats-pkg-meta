@@ -1,0 +1,14 @@
+version: 1.0.5
+title: |-
+  Fit a Penalized Constrained Continuation Ratio Model for
+  Predicting an Ordinal Response
+maintainer: Kellie J. Archer
+description: |-
+  Penalized methods are useful for fitting over-parameterized models. This package includes functions for restructuring an ordinal
+  response dataset for fitting continuation ratio models for datasets  where the number of covariates exceeds the sample size or when
+  there is collinearity among the covariates. The glmnet fitting algorithm is used to fit the continuation ratio model after data restructuring.
+date_publication: '2020-01-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=glmnetcr
+url_git: ''

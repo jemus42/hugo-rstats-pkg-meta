@@ -1,0 +1,15 @@
+version: 1.2.0
+title: Wait for a Key Press in a Terminal
+maintainer: Gábor Csárdi
+description: |-
+  Wait for a single key press at the 'R' prompt.
+  This works in terminals, but does not currently work
+  in the 'Windows' 'GUI', the 'OS X' 'GUI' ('R.app'),
+  in 'Emacs' 'ESS', in an 'Emacs' shell buffer or in
+  'R Studio'. In these cases 'keypress' stops with an
+  error message.
+date_publication: '2020-01-10'
+bug_reports: https://github.com/gaborcsardi/keypress/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=keypress
+url_git: https://github.com/gaborcsardi/keypress#readme

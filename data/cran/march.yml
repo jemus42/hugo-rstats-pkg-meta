@@ -1,0 +1,12 @@
+version: '3.1'
+title: Markov Chains
+maintainer: Andre Berchtold
+description: |-
+  Computation of various Markovian models for categorical data
+  including homogeneous Markov chains of any order, MTD models, Hidden Markov
+  models, and Double Chain Markov Models.
+date_publication: '2019-08-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=march
+url_git: ''

@@ -1,0 +1,11 @@
+version: '1.7'
+title: Multiple Factor Analysis (MFA)
+maintainer: Paulo Cesar Ossani
+description: Performs Multiple Factor Analysis method for quantitative, categorical,
+  frequency and mixed data, in addition to generating a lot of graphics, also has
+  other useful functions.
+date_publication: '2020-05-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MFAg
+url_git: ''

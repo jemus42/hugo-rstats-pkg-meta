@@ -1,0 +1,10 @@
+version: 2.0.6.4
+title: Analysis of Evolutionary Diversification
+maintainer: Luke Harmon
+description: Methods for fitting macroevolutionary models to phylogenetic trees Pennell
+  (2014) <doi:10.1093/bioinformatics/btu181>.
+date_publication: '2020-01-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=geiger
+url_git: https://github.com/mwpennell/geiger-v2

@@ -1,0 +1,23 @@
+version: '1.28'
+title: |-
+  Solvers for Initial Value Problems of Differential Equations
+  ('ODE', 'DAE', 'DDE')
+maintainer: Thomas Petzoldt
+description: |-
+  Functions that solve initial value problems of a system
+  of first-order ordinary differential equations ('ODE'), of
+  partial differential equations ('PDE'), of differential
+  algebraic equations ('DAE'), and of delay differential
+  equations.  The functions provide an interface to the FORTRAN
+  functions 'lsoda', 'lsodar', 'lsode', 'lsodes' of the 'ODEPACK'
+  collection, to the FORTRAN functions 'dvode', 'zvode' and 'daspk'
+  and a C-implementation of solvers of the 'Runge-Kutta' family with
+  fixed or variable time steps.  The package contains routines
+  designed for solving 'ODEs' resulting from 1-D, 2-D and 3-D
+  partial differential equations ('PDE') that have been converted
+  to 'ODEs' by numerical differencing.
+date_publication: '2020-03-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=deSolve
+url_git: http://desolve.r-forge.r-project.org/

@@ -1,0 +1,11 @@
+version: 0.2.3
+title: Control Polygon Reduction
+maintainer: Peter DeWitt
+description: |-
+  Implementation of the Control Polygon Reduction and Control Net
+  Reduction methods for finding parsimonious B-spline regression models.
+date_publication: '2017-03-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cpr
+url_git: https://github.com/dewittpe/cpr/

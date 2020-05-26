@@ -1,0 +1,15 @@
+version: 0.1.4
+title: Functions for the Analysis of Star Trek Thematic Data
+maintainer: Paul Sheridan
+description: An implementation of 1) the hypergeometric test for over-representation
+  of literary themes in a storyset (a list of stories) relative to a background list
+  of stories, and 2) a recommendation system that takes a user-selected story as input
+  and returns a ranked list of similar stories on the basis of shared themes. The
+  package is currently implemented for the episodes of the Star Trek television franchise
+  series The Original Series (TOS), The Animated Series (TAS), The Next Generation
+  (TNG), and Voyager (VOY).
+date_publication: '2020-04-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=stoRy
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.3.0
+title: A 'Shiny' Application for Inspecting Structural Topic Models
+maintainer: Carsten Schwemmer
+description: This app enables interactive validation, interpretation and visualization
+  of structural topic models from the 'stm' package by Roberts and others (2014) <doi:10.1111/ajps.12103>.
+  It also includes helper functions for model diagnostics and extracting data from
+  effect estimates.
+date_publication: '2018-11-24'
+bug_reports: https://github.com/cschwem2er/stminsights/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=stminsights
+url_git: https://github.com/cschwem2er/stminsights

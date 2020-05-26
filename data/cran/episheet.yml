@@ -1,0 +1,12 @@
+version: 0.4.0
+title: Rothman's Episheet
+maintainer: James Black
+description: |-
+  A collection of R functions supporting the text book
+  Modern Epidemiology, Second Edition, by Kenneth J.Rothman and Sander Greenland.
+  ISBN 13: 978-0781755641  See <http://www.krothman.org/> for more information.
+date_publication: '2019-01-23'
+bug_reports: https://github.com/epijim/episheet/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=episheet
+url_git: https://github.com/epijim/episheet

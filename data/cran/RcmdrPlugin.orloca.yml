@@ -1,0 +1,10 @@
+version: '4.7'
+title: A GUI for Planar Location Problems
+maintainer: Manuel Munoz-Marquez
+description: A GUI for the orloca package is provided as a Rcmdr plug-in. The package
+  deals with planar location problems.
+date_publication: '2018-11-05'
+bug_reports: ''
+url: http://knuth.uca.es/orloca
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.orloca
+url_git: ''

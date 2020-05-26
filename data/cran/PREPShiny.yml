@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Interactive Document for Preprocessing the Dataset
+maintainer: Kartikeya Bolar
+description: An interactive document for preprocessing the dataset using  'rmarkdown'
+  and 'shiny' packages. Runtime examples are provided in the package function as well
+  as at  <https://analyticmodels.shinyapps.io/PREPShiny/>.
+date_publication: '2019-04-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PREPShiny
+url_git: ''

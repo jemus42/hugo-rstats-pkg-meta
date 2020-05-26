@@ -1,0 +1,12 @@
+version: 1.0.1
+title: Distributions Hermite Polynomial Approximation
+maintainer: Potanin Bogdan
+description: Multivariate conditional and marginal densities, moments, cumulative
+  distribution functions as well as binary choice and sample selection models based
+  on hermite polynomial approximation which was proposed and described by A. Gallant
+  and D. W. Nychka (1987) <doi:10.2307/1913241>.
+date_publication: '2019-08-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hpa
+url_git: ''

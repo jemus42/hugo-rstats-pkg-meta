@@ -1,0 +1,11 @@
+version: '1.3'
+title: Typed JSON
+maintainer: Alexandre Maurel
+description: |-
+  TSON, short for Typed JSON, is a binary-encoded serialization of
+  JSON like document that support JavaScript typed data (https://github.com/tercen/TSON).
+date_publication: '2016-08-26'
+bug_reports: https://github.com/tercen/TSON/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=rtson
+url_git: https://github.com/tercen/TSON

@@ -1,0 +1,15 @@
+version: 1.0.2
+title: |-
+  Multivariate Lomax (Pareto Type II) and Its Related
+  Distributions
+maintainer: Zhixin Lun
+description: 'Implements calculation of probability density function, cumulative distribution
+  function, equicoordinate quantile function and survival function, and random numbers
+  generation for the following multivariate distributions: Lomax (Pareto Type II),
+  generalized Lomax, Mardia’s Pareto of Type I, Logistic, Burr, Cook-Johnson’s uniform,
+  F and Inverted Beta. See Tapan Nayak (1987) <doi:10.2307/3214068>.'
+date_publication: '2020-03-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NonNorMvtDist
+url_git: ''

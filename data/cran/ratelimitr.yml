@@ -1,0 +1,9 @@
+version: 0.4.1
+title: Rate Limiting for R
+maintainer: Tarak Shah
+description: Allows to limit the rate at which one or more functions can be called.
+date_publication: '2018-10-07'
+bug_reports: https://github.com/tarakc02/ratelimitr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ratelimitr
+url_git: https://github.com/tarakc02/ratelimitr

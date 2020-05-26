@@ -1,0 +1,11 @@
+version: '1.0'
+title: Automatically Tuned Markov Chain Monte Carlo
+maintainer: Jinyoung Yang
+description: Uses adaptive diagnostics to tune and run a random walk Metropolis MCMC
+  algorithm, to converge to a specified target distribution and estimate means of
+  functionals.
+date_publication: '2014-09-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=atmcmc
+url_git: ''

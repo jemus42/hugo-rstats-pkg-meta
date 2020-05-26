@@ -1,0 +1,11 @@
+version: 0.2.0
+title: Quantification of Qualitative Survey Data
+maintainer: Joachim Zuckarelli
+description: Provides different functions for quantifying qualitative survey data.
+  It supports the Carlson-Parkin method, the regression approach, the balance approach
+  and the conditional expectations method.
+date_publication: '2016-11-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=quantification
+url_git: ''

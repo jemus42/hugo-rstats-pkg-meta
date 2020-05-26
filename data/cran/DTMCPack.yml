@@ -1,0 +1,14 @@
+version: 0.1-2
+title: Suite of functions related to discrete-time discrete-state<U+000a>Markov Chains
+maintainer: William Nicholson<wbnicholson@gmail.com>
+description: A series of functions which aid in both simulating and<U+000a>determining
+  the properties of finite, discrete-time, discrete<U+000a>state markov chains.  Two
+  functions (DTMC, MultDTMC) produce n<U+000a>iterations of a Markov Chain(s) based
+  on transition<U+000a>probabilities and an initial distribution.  The function FPTime<U+000a>determines
+  the first passage time into each state.  The<U+000a>function statdistr determines
+  the stationary distribution of a<U+000a>Markov Chain.
+date_publication: '2013-05-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DTMCPack
+url_git: ''

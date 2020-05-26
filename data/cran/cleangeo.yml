@@ -1,0 +1,15 @@
+version: 0.2-3
+title: Cleaning Geometries from Spatial Objects
+maintainer: Emmanuel Blondel
+description: |2-
+
+  Provides a set of utility tools to inspect spatial objects, facilitate
+  handling and reporting of topology errors and geometry validity issues.
+  Finally, it provides a geometry cleaner that will fix all geometry problems,
+  and eliminate (at least reduce) the likelihood of having issues when doing
+  spatial data processing.
+date_publication: '2019-12-04'
+bug_reports: https://github.com/eblondel/cleangeo/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=cleangeo
+url_git: https://github.com/eblondel/cleangeo

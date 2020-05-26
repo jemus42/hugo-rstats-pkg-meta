@@ -1,0 +1,10 @@
+version: '1.0'
+title: Testing the Equality of Two Covariance Matrices
+maintainer: Jun Li
+description: Tests the equality of two covariance matrices, used in paper "Two sample
+  tests for high dimensional covariance matrices." Li and Chen (2012) <arXiv:1206.0917>.
+date_publication: '2018-04-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=equalCovs
+url_git: ''

@@ -1,0 +1,12 @@
+version: '1.0'
+title: Penalized Variable Selection in Competing Risks Regression
+maintainer: Zhixuan Fu
+description: In competing risks regression, the proportional subdistribution hazards(PSH)
+  model is popular for its direct assessment of covariate effects on the cumulative
+  incidence function. This package allows for penalized variable selection for the
+  PSH model. Penalties include LASSO, SCAD, MCP, and their group versions.
+date_publication: '2015-06-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=crrp
+url_git: ''

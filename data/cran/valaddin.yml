@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Functional Input Validation
+maintainer: Eugene Ha
+description: |-
+  A set of basic tools to transform functions into functions with
+  input validation checks, in a manner suitable for both programmatic and
+  interactive use.
+date_publication: '2019-02-10'
+bug_reports: https://github.com/egnha/valaddin/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=valaddin
+url_git: https://github.com/egnha/valaddin

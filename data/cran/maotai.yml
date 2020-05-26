@@ -1,0 +1,12 @@
+version: 0.1.6
+title: Tools for Matrix Algebra, Optimization and Inference
+maintainer: Kisung You
+description: Matrix is an universal and sometimes primary object/unit in applied mathematics
+  and statistics. We provide a number of algorithms for selected problems in optimization
+  and statistical inference. For general exposition to the topic with focus on statistical
+  context, see the book by Banerjee and Roy (2014, ISBN:9781420095388).
+date_publication: '2020-05-17'
+bug_reports: http://github.com/kyoustat/maotai/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=maotai
+url_git: http://github.com/kyoustat/maotai

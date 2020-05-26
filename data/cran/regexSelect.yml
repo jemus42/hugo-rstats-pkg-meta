@@ -1,0 +1,11 @@
+version: 1.0.0
+title: Regular Expressions in 'shiny' Select Lists
+maintainer: Jonathan Sidi
+description: |-
+  'shiny' extension that adds regular expression filtering capabilities to
+  the choice vector of the select list.
+date_publication: '2017-09-22'
+bug_reports: https://github.com/yonicd/regexSelect/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=regexSelect
+url_git: https://github.com/yonicd/regexSelect

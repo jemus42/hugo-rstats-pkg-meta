@@ -1,0 +1,14 @@
+version: 0.4-31
+title: |-
+  Provides R-Language Code to Examine Quantitative Risk Management
+  Concepts
+maintainer: Bernhard Pfaff
+description: |-
+  Provides functions/methods to accompany the book
+  Quantitative Risk Management: Concepts, Techniques and Tools by
+  Alexander J. McNeil, Ruediger Frey, and Paul Embrechts.
+date_publication: '2020-02-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=QRM
+url_git: ''

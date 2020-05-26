@@ -1,0 +1,11 @@
+version: '2.0'
+title: General Nonlinear Multivariate Finite Mixtures
+maintainer: Bernard Boulerice
+description: |-
+  Fits and vizualize user defined finite mixture models for multivariate observations
+  using maximum likelihood. (McLachlan, G., Peel, D. (2000) Finite Mixture Models. Wiley-Interscience.)
+date_publication: '2019-02-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=moc
+url_git: ''

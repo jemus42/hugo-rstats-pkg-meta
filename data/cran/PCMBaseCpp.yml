@@ -1,0 +1,15 @@
+version: 0.1.9
+title: Fast Likelihood Calculation for Phylogenetic Comparative Models
+maintainer: Venelin Mitov
+description: |-
+  Provides a C++ backend for multivariate phylogenetic comparative
+  models implemented in the R-package 'PCMBase'. Can be used in combination
+  with 'PCMBase' to enable fast and parallel likelihood calculation. Implements
+  the pruning likelihood calculation algorithm described in Mitov et al. (2018)
+  <arXiv:1809.09014>. Uses the 'SPLITT' C++ library for parallel tree traversal
+  described in Mitov and Stadler (2018) <doi:10.1111/2041-210X.13136>.
+date_publication: '2020-03-23'
+bug_reports: https://github.com/venelin/PCMBaseCpp/issues
+url: https://venelin.github.io
+url_cran: https://CRAN.R-project.org/package=PCMBaseCpp
+url_git: https://github.com/venelin/PCMBaseCpp

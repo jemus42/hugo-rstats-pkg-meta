@@ -1,0 +1,11 @@
+version: '1.4'
+title: Multi-Group Sparse Discriminant Analysis
+maintainer: Irina Gaynanova
+description: Implements Multi-Group Sparse Discriminant Analysis proposal of I.Gaynanova,
+  J.Booth and M.Wells (2015), Simultaneous sparse estimation of canonical vectors
+  in the p>>N setting, JASA, to appear,[DOI:10.1080/01621459.2015.1034318].
+date_publication: '2016-06-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MGSDA
+url_git: ''

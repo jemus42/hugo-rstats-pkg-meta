@@ -1,0 +1,13 @@
+version: 0.1.3
+title: A Tool for Processing Steem Data
+maintainer: Peng Zhao
+description: Steem is a blockchain-based social media platform (see <https://en.wikipedia.org/wiki/Steemit>).
+  The Steem social activity data are saved in the Steem blockchain, the SteemDB database,
+  the SteemSQL database, and so on. 'steemr' is an R package that downloads the Steem
+  data from the SteemDB and SteemSQL servers, re-organizes the data in a user-friendly
+  way, and visualizes the data for further analysis.
+date_publication: '2019-01-16'
+bug_reports: https://github.com/pzhaonet/steemr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=steemr
+url_git: https://github.com/pzhaonet/steemr

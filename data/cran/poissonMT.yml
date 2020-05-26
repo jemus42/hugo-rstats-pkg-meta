@@ -1,0 +1,11 @@
+version: 0.3-5
+title: Robust M-Estimators Based on Transformations for Poisson Model
+maintainer: Claudio Agostinelli
+description: R functions for the computation of Least Square based on transformation
+  (L2T) and robust M-estimators based on transformations (MT-estimators) for Poisson
+  regression models.
+date_publication: '2018-10-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=poissonMT
+url_git: ''

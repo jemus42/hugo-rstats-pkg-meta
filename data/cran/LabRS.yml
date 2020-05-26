@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Laboratorio di "Ricerca Sociale con R"
+maintainer: Agnese Vardanega
+description: Dati, scripts e funzioni per il libro "Ricerca sociale con R. Concetti
+  e funzioni base per la ricerca sociale" (Datasets, scripts and functions to support
+  the book "Ricerca sociale con R. Concetti e funzioni base per la ricerca sociale").
+date_publication: '2018-12-18'
+bug_reports: ''
+url: https://www.agnesevardanega.eu/
+url_cran: https://CRAN.R-project.org/package=LabRS
+url_git: ''

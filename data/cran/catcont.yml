@@ -1,0 +1,15 @@
+version: 0.5.0
+title: |-
+  Test, Identify, Select and Mutate Categorical or Continuous
+  Values
+maintainer: Christopher Brown
+description: |-
+  Methods and utilities for testing, identifying, selecting and
+  mutating objects as categorical or continous types. These functions work on both
+  atomic vectors as well as recursive objects: data.frames, data.tables,
+  tibbles, lists, etc..
+date_publication: '2018-06-25'
+bug_reports: https://github.com/decisionpatterns/catcont/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=catcont
+url_git: https://github.com/decisionpatterns/catconthttp://www.decisionpatterns.com

@@ -1,0 +1,18 @@
+version: 0.1.0
+title: |-
+  Performs Segmented Linear Regression on Two Independent
+  Variables
+maintainer: Christoph Luerig
+description: |-
+  Implements a specific form of segmented linear regression
+  with two independent variables. The visualization of that function looks
+  like a quarter segment of a cowbell giving the package its name.
+  The package has been specifically constructed for the case where minimum
+  and maximum value of the dependent and two independent variables
+  are known a prior, which is usually the case
+  when those values are derived from Likert scales.
+date_publication: '2017-05-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cowbell
+url_git: ''

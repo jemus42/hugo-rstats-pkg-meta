@@ -1,0 +1,15 @@
+version: 0.0.4
+title: Variational Bayes Discrete Mixture Model
+maintainer: Benjamin Logsdon
+description: |-
+  Efficient algorithm for solving discrete mixture
+  regression model for rare variant association analysis.
+  Uses variational Bayes algorithm to efficiently search over
+  model space.  Outputs an approximate likelihood ratio test
+  as well as variant level posterior probabilities of
+  association.
+date_publication: '2014-02-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=vbdm
+url_git: ''

@@ -1,0 +1,11 @@
+version: '1.1'
+title: Rare Variants Association Analyses with Family Data
+maintainer: Ming-Huei Chen
+description: The RVFam package provides functions to perform single SNP association
+  analyses and gene-based tests for continuous, binary and survival traits against
+  sequencing data (e.g. exome chip) using family data.
+date_publication: '2015-03-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RVFam
+url_git: ''

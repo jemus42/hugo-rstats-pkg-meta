@@ -1,0 +1,11 @@
+version: 1.0.2
+title: '''knitr'' Bootstrap Framework'
+maintainer: Jim Hester
+description: |-
+  A framework to create Bootstrap <http://getbootstrap.com/> HTML reports from 'knitr'
+  'rmarkdown'.
+date_publication: '2018-05-24'
+bug_reports: https://github.com/jimhester/knitrBootstrap/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=knitrBootstrap
+url_git: https://github.com/jimhester/knitrBootstrap#readme

@@ -1,0 +1,11 @@
+version: '1.1'
+title: Sparse Conditional Logistic Regression for Matched Studies
+maintainer: Marta Avalos
+description: Fit a sequence of conditional logistic regression models with lasso,
+  for small to large sized samples. Avalos, M., Pouyes, H., Grandvalet, Y., Orriols,
+  L., & Lagarde, E. (2015) <doi:10.1186/1471-2105-16-S6-S1>.
+date_publication: '2018-06-27'
+bug_reports: https://github.com/mavalosf/clogitLasso
+url: ''
+url_cran: https://CRAN.R-project.org/package=clogitLasso
+url_git: ''

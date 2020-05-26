@@ -1,0 +1,13 @@
+version: 1.0.8
+title: A GeoJson Processing Toolkit
+maintainer: Lampros Mouselimis
+description: Includes functions for processing GeoJson objects <https://en.wikipedia.org/wiki/GeoJSON>
+  relying on 'RFC 7946' <https://tools.ietf.org/pdf/rfc7946.pdf>. The geojson encoding
+  is based on 'json11', a tiny JSON library for 'C++11' <https://github.com/dropbox/json11>.
+  Furthermore, the source code is exported in R through the 'Rcpp' and 'RcppArmadillo'
+  packages.
+date_publication: '2020-03-18'
+bug_reports: https://github.com/mlampros/geojsonR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=geojsonR
+url_git: https://github.com/mlampros/geojsonR

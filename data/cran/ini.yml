@@ -1,0 +1,12 @@
+version: 0.3.1
+title: Read and Write '.ini' Files
+maintainer: David Valentim Dias
+description: |-
+  Parse simple '.ini' configuration files to an structured list. Users
+  can manipulate this resulting list with lapply() functions. This same
+  structured list can be used to write back to file after modifications.
+date_publication: '2018-05-20'
+bug_reports: https://github.com/dvdscripter/ini/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ini
+url_git: https://github.com/dvdscripter/ini

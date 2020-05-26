@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Basic Pattern Analysis
+maintainer: Brandon Greenwell
+description: |-
+  Run basic pattern analyses on character sets, digits, or combined
+  input containing both characters and numeric digits. Useful for data
+  cleaning and for identifying columns containing multiple or nonstandard
+  formats.
+date_publication: '2016-04-04'
+bug_reports: https://github.com/bgreenwell/bpa/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bpa
+url_git: https://github.com/bgreenwell/bpa

@@ -1,0 +1,13 @@
+version: 1.0.5
+title: Non-Stationary Gaussian Process Regression
+maintainer: Markus Heinonen
+description: |-
+  A Gaussian process regression using a Gaussian kernel for both
+  one-sample and two-sample cases. Includes non-stationary Gaussian kernel
+  (exponential decay function) and several likelihood ratio tests for
+  differential testing along target points.
+date_publication: '2014-10-15'
+bug_reports: ''
+url: http://amis-group.fr/software/nsgp
+url_cran: https://CRAN.R-project.org/package=nsgp
+url_git: ''

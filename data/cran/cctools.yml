@@ -1,0 +1,13 @@
+version: 0.1.2
+title: |-
+  Tools for the Continuous Convolution Trick in Nonparametric
+  Estimation
+maintainer: Thomas Nagler
+description: |-
+  Implements the uniform scaled beta distribution and
+  the continuous convolution kernel density estimator.
+date_publication: '2019-03-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cctools
+url_git: ''

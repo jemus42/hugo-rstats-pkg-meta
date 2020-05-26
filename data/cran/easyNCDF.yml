@@ -1,0 +1,13 @@
+version: 0.1.0
+title: |-
+  Tools to Easily Read/Write NetCDF Files into/from
+  Multidimensional R Arrays
+maintainer: Nuria Perez-Zanon
+description: |-
+  Set of wrappers for the 'ncdf4' package to simplify and extend its
+  reading/writing capabilities into/from multidimensional R arrays.
+date_publication: '2020-03-16'
+bug_reports: https://earth.bsc.es/gitlab/es/easyNCDF/issues
+url: https://earth.bsc.es/gitlab/es/easyNCDF/wikis/home
+url_cran: https://CRAN.R-project.org/package=easyNCDF
+url_git: ''

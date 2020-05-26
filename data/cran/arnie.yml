@@ -1,0 +1,9 @@
+version: 0.1.2
+title: '"Arnie" box office records 1982-2014'
+maintainer: '''Imanuel Costigan'''
+description: Arnold Schwarzenegger movie weekend box office records from<U+000a>1982-2014
+date_publication: '2014-06-16'
+bug_reports: https://github.com/imanuelcostigan/arnie/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=arnie
+url_git: https://github.com/imanuelcostigan/arnie

@@ -1,0 +1,13 @@
+version: '3.0'
+title: Meta-Analysis
+maintainer: Thomas Lumley
+description: |-
+  Functions for simple fixed and random effects
+  meta-analysis for two-sample comparisons and cumulative
+  meta-analyses. Draws standard summary plots, funnel plots, and
+  computes summaries and tests for association and heterogeneity.
+date_publication: '2018-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rmeta
+url_git: ''

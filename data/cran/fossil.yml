@@ -1,0 +1,12 @@
+version: 0.4.0
+title: Palaeoecological and Palaeogeographical Analysis Tools
+maintainer: Matthew J. Vavrek
+description: A set of analytical tools useful in analysing ecological and geographical
+  data sets, both ancient and modern. The package includes functions for estimating
+  species richness (Chao 1 and 2, ACE, ICE, Jacknife), shared species/beta diversity,
+  species area curves and geographic distances and areas.
+date_publication: '2020-03-23'
+bug_reports: ''
+url: http://matthewvavrek.com/programs-and-code/fossil/
+url_cran: https://CRAN.R-project.org/package=fossil
+url_git: ''

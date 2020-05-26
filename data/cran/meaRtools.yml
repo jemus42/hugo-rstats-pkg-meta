@@ -1,0 +1,11 @@
+version: 1.0.4
+title: Micro-Electro Array (MEA) Analysis
+maintainer: Sahar Gelfman
+description: Core algorithms for MEA spike train analysis, feature extraction, statistical
+  analysis and plotting of multiple MEA recordings with multiple genotypes and treatments,
+  published by Gelfman et al (2017) at <https://github.com/igm-team/meaRtools/>.
+date_publication: '2018-07-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=meaRtools
+url_git: ''

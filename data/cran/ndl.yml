@@ -1,0 +1,12 @@
+version: 0.2.18
+title: Naive Discriminative Learning
+maintainer: Tino Sering
+description: |-
+  Naive discriminative learning implements learning and
+  classification models based on the Rescorla-Wagner equations and their
+  equilibrium equations.
+date_publication: '2018-09-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ndl
+url_git: ''

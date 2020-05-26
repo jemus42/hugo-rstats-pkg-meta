@@ -1,0 +1,11 @@
+version: '1.1'
+title: Utility Functions and Data Sets for Data Visualization
+maintainer: Kieran Healy
+description: Supporting materials for a course and book on data visualization. It
+  contains utility functions for graphs and several sample data sets. See Healy (2019)
+  <ISBN 978-0691181622>.
+date_publication: '2020-02-19'
+bug_reports: https://github.com/kjhealy/socviz/issues
+url: http://kjhealy.github.io/socviz/
+url_cran: https://CRAN.R-project.org/package=socviz
+url_git: ''

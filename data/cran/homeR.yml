@@ -1,0 +1,11 @@
+version: 0.3.0
+title: Useful Functions for Building Physics
+maintainer: David Lindelöf
+description: |-
+  A collection of functions useful for the analysis of
+  building physics experiments.
+date_publication: '2016-10-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=homeR
+url_git: ''

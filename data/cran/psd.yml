@@ -1,0 +1,14 @@
+version: 1.2.0
+title: Adaptive, Sine-Multitaper Power Spectral Density Estimation
+maintainer: Andrew J. Barbour
+description: |-
+  Produces power spectral density estimates through iterative
+  refinement of the optimal number of sine-tapers at each frequency. This
+  optimization procedure is based on the method of Riedel and Sidorenko
+  (1995), which minimizes the Mean Square Error (sum of variance and bias)
+  at each frequency, but modified for computational stability.
+date_publication: '2019-03-20'
+bug_reports: https://github.com/abarbour/psd/issues
+url: BarbourandParker(2014):https://doi.org/10.1016/j.cageo.2013.09.015
+url_cran: https://CRAN.R-project.org/package=psd
+url_git: https://github.com/abarbour/psd

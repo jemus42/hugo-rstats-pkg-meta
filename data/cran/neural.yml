@@ -1,0 +1,9 @@
+version: 1.4.2.2
+title: Neural Networks
+maintainer: Billy Aung Myint
+description: RBF and MLP neural networks with graphical user interface
+date_publication: '2014-09-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=neural
+url_git: ''

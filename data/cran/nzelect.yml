@@ -1,0 +1,13 @@
+version: 0.4.0
+title: New Zealand Election Data
+maintainer: Peter Ellis
+description: |-
+  Convenient access to New Zealand election
+  results by voting place.  Voting places have been matched to Regional Council,
+  Territorial Authority, and Area Unit, to facilitate matching with additional data.
+  Opinion polls since 2002 and some convenience analytical function are also supplied.
+date_publication: '2017-10-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nzelect
+url_git: ''

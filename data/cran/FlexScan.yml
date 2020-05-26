@@ -1,0 +1,13 @@
+version: 0.2.0
+title: Flexible Scan Statistics
+maintainer: Zhicheng Du
+description: |-
+  An easy way to conduct flexible scan.
+  Monte-Carlo method is used to test the spatial clusters given the cases, population, and shapefile.
+  A table with formal style and a map with clusters are included in the result report.
+  The method can be referenced at: Toshiro Tango and Kunihiko Takahashi (2005) <doi:10.1186/1476-072X-4-11>.
+date_publication: '2020-04-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FlexScan
+url_git: ''

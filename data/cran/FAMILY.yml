@@ -1,0 +1,12 @@
+version: 0.1.19
+title: |-
+  A Convex Formulation for Modeling Interactions with Strong
+  Heredity
+maintainer: Asad Haris
+description: Fits penalized linear and logistic regression models with pairwise interaction
+  terms.
+date_publication: '2015-06-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FAMILY
+url_git: ''

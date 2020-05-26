@@ -1,0 +1,15 @@
+version: 0.1.3
+title: Compare Two Data Frames and Summarise the Difference
+maintainer: Sarah Johnston
+description: |-
+  Easy comparison of two tabular data
+  objects in R. Specifically designed to show differences between two sets of
+  data in a useful way that should make it easier to understand the differences,
+  and if necessary, help you work out how to remedy them. Aims
+  to offer a more useful output than all.equal() when your two data sets do not
+  match, but isn't intended to replace all.equal() as a way to test for equality.
+date_publication: '2020-04-30'
+bug_reports: https://github.com/capitalone/dataCompareR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dataCompareR
+url_git: https://github.com/capitalone/dataCompareR

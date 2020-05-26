@@ -1,0 +1,11 @@
+version: 1.0.0
+title: EPA Fuel Economy Data
+maintainer: Hadley Wickham
+description: |-
+  Fuel economy data from the EPA, 1985-2015,
+  conveniently packaged for consumption by R users.
+date_publication: '2020-03-23'
+bug_reports: https://github.com/hadley/fueleconomy/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=fueleconomy
+url_git: https://github.com/hadley/fueleconomy

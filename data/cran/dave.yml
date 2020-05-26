@@ -1,0 +1,10 @@
+version: '2.0'
+title: Functions for "Data Analysis in Vegetation Ecology"
+maintainer: Otto Wildi
+description: A collection of functions accompanying the book "Data Analysis in Vegetation
+  Ecology". 3rd ed. CABI, Oxfordshire, Boston.
+date_publication: '2017-10-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dave
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.2-3
+title: |-
+  Extensible, Parallelizable Implementation of the Random Forest
+  Algorithm
+maintainer: Mark Seligman
+description: Scalable implementation of classification and regression forests, as
+  described by Breiman (2001), <DOI:10.1023/A:1010933404324>.
+date_publication: '2019-10-31'
+bug_reports: https://github.com/suiji/Arborist/issues
+url: http://www.suiji.org/arborist
+url_cran: https://CRAN.R-project.org/package=Rborist
+url_git: https://github.com/suiji/Arborist

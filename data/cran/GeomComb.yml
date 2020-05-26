@@ -1,0 +1,14 @@
+version: '1.0'
+title: (Geometric) Forecast Combination Methods
+maintainer: Christoph E. Weiss
+description: |-
+  Provides eigenvector-based (geometric) forecast
+  combination methods; also includes simple approaches (simple average,
+  median, trimmed and winsorized mean, inverse rank method) and regression-based
+  combination. Tools for data pre-processing are available in order to deal with
+  common problems in forecast combination (missingness, collinearity).
+date_publication: '2016-11-27'
+bug_reports: https://github.com/ceweiss/GeomComb/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=GeomComb
+url_git: https://github.com/ceweiss/GeomComb

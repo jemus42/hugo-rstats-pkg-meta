@@ -1,0 +1,10 @@
+version: 0.3.2
+title: Canonical Data Structure for Behavioural Data
+maintainer: Quentin Geissmann
+description: Implements an S3 class based on 'data.table' to store and process efficiently
+  ethomics (high-throughput behavioural) data.
+date_publication: '2019-01-03'
+bug_reports: https://github.com/rethomics/behavr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=behavr
+url_git: https://github.com/rethomics/behavr

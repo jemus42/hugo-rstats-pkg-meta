@@ -1,0 +1,16 @@
+version: 1.1.0
+title: Methods for Identification of Outliers in Environmental Data
+maintainer: Martina Campulova
+description: 'Three semi-parametric methods for detection of outliers in environmental
+  data based on kernel regression and subsequent analysis of smoothing residuals.
+  The first method (Campulova, Michalek, Mikuska and Bokal (2018) <DOI: 10.1002/cem.2997>)
+  analyzes the residuals using changepoint analysis, the second method is based on
+  control charts (Campulova, Veselik and Michalek (2017) <DOI: 10.1016/j.apr.2017.01.004>)
+  and the third method (Holesovsky, Campulova and Michalek (2018) <DOI: 10.1016/j.apr.2017.06.005>)
+  analyzes the residuals using extreme value theory (Holesovsky, Campulova and Michalek
+  (2018) <DOI: 10.1016/j.apr.2017.06.005>).'
+date_publication: '2020-05-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=envoutliers
+url_git: ''

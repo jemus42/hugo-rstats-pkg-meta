@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Binford's Hunter-Gatherer Data
+maintainer: Ben Marwick
+description: |-
+  Binford's hunter-gatherer data includes more than 200 variables
+  coding aspects of hunter-gatherer subsistence, mobility, and social organization
+  for 339 ethnographically documented groups of hunter-gatherers.
+date_publication: '2016-08-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=binford
+url_git: http://github.com/benmarwick/binford

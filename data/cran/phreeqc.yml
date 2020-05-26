@@ -1,0 +1,13 @@
+version: 3.6.3
+title: R Interface to Geochemical Modeling Software
+maintainer: S.R. Charlton
+description: |-
+  A geochemical modeling program developed by the US Geological
+  Survey that is designed to perform a wide variety of aqueous geochemical
+  calculations, including speciation, batch-reaction, one-dimensional
+  reactive-transport, and inverse geochemical calculations.
+date_publication: '2020-05-11'
+bug_reports: ''
+url: https://www.usgs.gov/software/phreeqc-version-3
+url_cran: https://CRAN.R-project.org/package=phreeqc
+url_git: ''

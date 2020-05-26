@@ -1,0 +1,9 @@
+version: '0.3'
+title: Plot Conics
+maintainer: Bernard Desgraupes
+description: plot conics (ellipses, hyperbolas, parabolas)
+date_publication: '2013-12-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=conics
+url_git: ''

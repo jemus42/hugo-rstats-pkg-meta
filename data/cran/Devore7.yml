@@ -1,0 +1,10 @@
+version: 0.7.6
+title: Data sets from Devore's "Prob and Stat for Eng (7th ed)"
+maintainer: John Verzani
+description: Data sets and sample analyses from Jay L. Devore (2008),<U+000a>"Probability
+  and Statistics for Engineering and the Sciences<U+000a>(7th ed)", Thomson.
+date_publication: '2014-03-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Devore7
+url_git: ''

@@ -1,0 +1,14 @@
+version: 0.2.1
+title: Weighted Dependence Measures
+maintainer: Thomas Nagler
+description: |-
+  Provides efficient implementations of weighted dependence measures
+  and related asymptotic tests for independence. Implemented measures are
+  the Pearson correlation, Spearman's rho, Kendall's tau, Blomqvist's beta, and
+  Hoeffding's D; see, e.g., Nelsen (2006) <doi:10.1007/0-387-28678-0> and
+  Hollander et al. (2015, ISBN:9780470387375).
+date_publication: '2019-04-11'
+bug_reports: https://github.com/tnagler/wdm-r/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=wdm
+url_git: https://github.com/tnagler/wdm-r

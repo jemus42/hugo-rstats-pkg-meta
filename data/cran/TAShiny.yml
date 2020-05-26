@@ -1,0 +1,10 @@
+version: 0.1.0
+title: '''Text Analyzer Shiny'''
+maintainer: Kartikeya Bolar
+description: Interactive shiny application for working with textmining and text analytics.
+  Various visualizations  are provided.
+date_publication: '2018-11-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TAShiny
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.0.3
+title: Parallel Runs of Reverse Depends
+maintainer: Dirk Eddelbuettel
+description: |-
+  Reverse depends for a given package are queued such that multiple
+  workers can run the tests in parallel.
+date_publication: '2020-04-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=prrd
+url_git: ''

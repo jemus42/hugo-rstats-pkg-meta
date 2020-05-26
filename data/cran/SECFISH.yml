@@ -1,0 +1,14 @@
+version: 0.1.7
+title: Disaggregate Variable Costs
+maintainer: Isabella Bitetto
+description: These functions were developed within SECFISH project (Strengthening
+  regional cooperation in the area of fisheries  data collection-Socio-economic data
+  collection for fisheries, aquaculture and the processing industry at EU level).
+  They are aimed at identifying  correlations between costs and transversal variables
+  by metier using individual vessel data and for disaggregating variable costs from  fleet
+  segment to metier  level.
+date_publication: '2019-08-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SECFISH
+url_git: ''

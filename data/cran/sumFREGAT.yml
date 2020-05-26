@@ -1,0 +1,15 @@
+version: 1.1.0
+title: Fast Region-Based Association Tests on Summary Statistics
+maintainer: Nadezhda M. Belonogova
+description: |-
+  An adaptation of classical region/gene-based association analysis
+  techniques to the use of summary statistics (P values and effect sizes)
+  and correlations between genetic variants as input. It is a tool to perform
+  the most popular and efficient gene-based tests using the results of genome-wide
+  association (meta-)analyses without having the original genotypes and
+  phenotypes at hand.
+date_publication: '2018-11-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sumFREGAT
+url_git: ''

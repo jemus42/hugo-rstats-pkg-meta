@@ -1,0 +1,10 @@
+version: 0.3-0
+title: Stochastic Multi-Criteria Acceptability Analysis
+maintainer: Gert van Valkenhoef
+description: Implementation of the Stochastic Multi-Criteria Acceptability Analysis
+  (SMAA) family of Multiple Criteria Decision Analysis (MCDA) methods.
+date_publication: '2018-05-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=smaa
+url_git: http://github.com/gertvv/rsmaa

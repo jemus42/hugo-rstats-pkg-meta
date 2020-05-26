@@ -1,0 +1,13 @@
+version: 1.5.4
+title: |-
+  Bayesian Inference for Beta Regression and Zero-or-One Inflated
+  Beta Regression
+maintainer: Fang Liu
+description: Fits beta regression and zero-or-one inflated beta regression and obtains
+  Bayesian Inference of the model via the Markov Chain Monte Carlo approach implemented
+  in JAGS.
+date_publication: '2019-10-21'
+bug_reports: ''
+url: https://www3.nd.edu/~fliu2/#tools
+url_cran: https://CRAN.R-project.org/package=zoib
+url_git: ''

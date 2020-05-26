@@ -1,0 +1,13 @@
+version: 5.1.5
+title: |-
+  Probabilistic Forecasting using Ensembles and Bayesian Model
+  Averaging
+maintainer: Chris Fraley
+description: |-
+  Bayesian Model Averaging to create probabilistic forecasts
+  from ensemble forecasts and weather observations.
+date_publication: '2018-01-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ensembleBMA
+url_git: ''

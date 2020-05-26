@@ -1,0 +1,14 @@
+version: 0.1.4
+title: R6 Mathematical Sets Interface
+maintainer: Raphael Sonabend
+description: An object-oriented package for mathematical sets, upgrading the current
+  gold-standard {sets}. Many forms of mathematical sets are implemented, including
+  (countably finite) sets, tuples, intervals (countably infinite or uncountable),
+  and fuzzy variants. Wrappers extend functionality by allowing symbolic representations
+  of complex operations on sets, including unions, (cartesian) products, exponentiation,
+  and differences (asymmetric and symmetric).
+date_publication: '2020-05-18'
+bug_reports: https://github.com/xoopR/set6/issues
+url: https://xoopR.github.io/set6/
+url_cran: https://CRAN.R-project.org/package=set6
+url_git: https://github.com/xoopR/set6

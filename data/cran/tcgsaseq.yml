@@ -1,0 +1,14 @@
+version: 1.8.1
+title: Time-Course Gene Set Analysis for RNA-Seq Data
+maintainer: Boris P. Hejblum
+description: |-
+  Analyze RNA-seq data with variance component score test accounting
+  for data heteroscedasticity through precision weights. Perform both gene-wise and gene set
+  analyses, and can deal with longitudinal data. Method is detailed in: Agniel D & Hejblum BP (2017)
+  Variance component score test for time-course gene set analysis of longitudinal RNA-seq data,
+  Biostatistics, 18(4):589-604.
+date_publication: '2018-12-07'
+bug_reports: https://github.com/denisagniel/tcgsaseq/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tcgsaseq
+url_git: ''

@@ -1,0 +1,16 @@
+version: 1.6.0
+title: Tools for the Analysis of Animal Track Data
+maintainer: Michael D. Sumner
+description: |-
+  Functions for accessing and manipulating spatial data for animal
+  tracking, with straightforward coercion from and to other formats. Filter
+  for speed and create time spent maps from animal track data. There are
+  coercion methods to convert between 'trip' and 'ltraj' from 'adehabitatLT',
+  and between 'trip' and 'psp' and 'ppp' from 'spatstat'. Trip objects
+  can be created from raw or grouped data frames, and from types in the 'sp',
+  'sf', 'amt', 'trackeR', 'mousetrap', and other packages.
+date_publication: '2019-04-15'
+bug_reports: https://github.com/mdsumner/trip/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=trip
+url_git: https://github.com/mdsumner/trip

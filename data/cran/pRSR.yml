@@ -1,0 +1,9 @@
+version: 3.1.1
+title: Test of Periodicity using Response Surface Regression
+maintainer: M. S. Islam
+description: Tests periodicity in short time series using response surface regression.
+date_publication: '2016-05-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pRSR
+url_git: ''

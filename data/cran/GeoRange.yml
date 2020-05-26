@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Calculating Geographic Range from Occurrence Data
+maintainer: James Boyle Developer
+description: Calculates and analyzes six measures of geographic range from a set of
+  longitudinal and latitudinal occurrence data. Measures included are minimum convex
+  hull area, minimum spanning tree distance, longitudinal range, latitudinal range,
+  maximum pairwise great circle distance, and number of X by X degree cells occupied.
+date_publication: '2017-06-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GeoRange
+url_git: ''

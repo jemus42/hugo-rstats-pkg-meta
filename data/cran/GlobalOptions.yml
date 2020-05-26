@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Generate Functions to Get or Set Global Options
+maintainer: Zuguang Gu
+description: |-
+  It provides more configurations on the option values such as validation
+  and filtering on the values, making options invisible or private.
+date_publication: '2019-09-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GlobalOptions
+url_git: https://github.com/jokergoo/GlobalOptions

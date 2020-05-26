@@ -1,0 +1,11 @@
+version: 0.24.0
+title: Convert R Models to PMML
+maintainer: Villu Ruusmann
+description: |-
+  R wrapper for the JPMML-R library <https://github.com/jpmml/jpmml-r>,
+  which converts R models to Predictive Model Markup Language (PMML).
+date_publication: '2020-02-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=r2pmml
+url_git: https://github.com/jpmml/r2pmml

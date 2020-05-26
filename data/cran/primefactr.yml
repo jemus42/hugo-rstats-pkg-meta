@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Use Prime Factorization for Computations
+maintainer: Florian Privé
+description: |-
+  Use Prime Factorization for simplifying computations,
+  for instance for ratios of large factorials.
+date_publication: '2018-05-19'
+bug_reports: https://github.com/privefl/primefactr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=primefactr
+url_git: https://github.com/privefl/primefactr

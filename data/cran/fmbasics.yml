@@ -1,0 +1,14 @@
+version: 0.3.0
+title: Financial Market Building Blocks
+maintainer: Imanuel Costigan
+description: |-
+  Implements basic financial market objects like currencies, currency
+  pairs, interest rates and interest rate indices. You will be able to use
+  Benchmark instances of these objects which have been defined using their most
+  common conventions or those defined by International Swap Dealer Association
+  (ISDA, <https://www.isda.org>) legal documentation.
+date_publication: '2018-01-06'
+bug_reports: https://github.com/imanuelcostigan/fmbasics/issues
+url: https://imanuelcostigan.github.io/fmbasics/
+url_cran: https://CRAN.R-project.org/package=fmbasics
+url_git: https://github.com/imanuelcostigan/fmbasics

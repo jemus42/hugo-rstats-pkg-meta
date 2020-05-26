@@ -1,0 +1,12 @@
+version: '0.9'
+title: LaTeX descriptive statistic reporting for survey data
+maintainer: Dustin Landers
+description: suRtex was designed for easy descriptive statistic reporting of categorical
+  survey data (e.g., Likert scales) in LaTeX. suRtex takes a matrix or data frame
+  and produces the LaTeX code necessary for a sideways table creation. Mean, median,
+  standard deviation, and sample size are optional.
+date_publication: '2013-07-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=suRtex
+url_git: ''

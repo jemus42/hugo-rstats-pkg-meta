@@ -1,0 +1,10 @@
+version: '1.1'
+title: Maximum Likelihood Factor Analysis
+maintainer: Koulik Khamaru
+description: Perform Maximum Likelihood Factor analysis on a covariance matrix or
+  data matrix.
+date_publication: '2015-11-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=FACTMLE
+url_git: ''

@@ -1,0 +1,19 @@
+version: 1.0.10
+title: Diagnostics Plots for Bicluster Data
+maintainer: Ewoud De Troyer
+description: |-
+  Diagnostic tools based on two-way
+  anova and median-polish residual plots for Bicluster output
+  obtained from packages; "biclust" by Kaiser et al.(2008),"isa2"
+  by Csardi et al. (2010) and "fabia" by Hochreiter et al.
+  (2010). Moreover, It provides visualization tools for bicluster
+  output and corresponding non-bicluster rows- or columns
+  outcomes.  It has also extended the idea of Kaiser et al.(2008)
+  which is, extracting bicluster output in a text format, by
+  adding two bicluster methods from the fabia and isa2 R
+  packages.
+date_publication: '2015-10-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BcDiag
+url_git: ''

@@ -1,0 +1,18 @@
+version: 1.0-9
+title: '''TRFLP'' Analysis and Matching Package for R'
+maintainer: Rich FitzJohn
+description: |-
+  Matching terminal restriction fragment length
+  polymorphism ('TRFLP') profiles between unknown samples and a
+  database of known samples.  'TRAMPR' facilitates analysis of
+  many unknown profiles at once, and provides tools for working
+  directly with electrophoresis output through to generating
+  summaries suitable for community analyses with R's rich set of
+  statistical functions.  'TRAMPR' also resolves the issues of
+  multiple 'TRFLP' profiles within a species, and shared 'TRFLP'
+  profiles across species.
+date_publication: '2020-02-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TRAMPR
+url_git: https://github.com/richfitz/TRAMPR

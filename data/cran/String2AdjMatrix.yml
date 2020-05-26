@@ -1,0 +1,13 @@
+version: 0.1.0
+title: Creates an Adjacency Matrix from a List of Strings
+maintainer: Tom Drake
+description: |-
+  Takes a list of character strings and forms an adjacency matrix for
+  the times the specified characters appear together in the strings provided. For
+  use in social network analysis and data wrangling. Simple package, comprised of
+  three functions.
+date_publication: '2018-01-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=String2AdjMatrix
+url_git: ''

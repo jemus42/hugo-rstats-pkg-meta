@@ -1,0 +1,13 @@
+version: '1.0'
+title: |-
+  List Linear n-Peptide Constraints for Overlapping Protein
+  Regions
+maintainer: Sophie Lebre
+description: 'Traversal graph algorithm for listing linear n-peptide constraints for
+  overlapping protein regions. (Lebre and Gascuel, The combinatorics of overlapping
+  genes, freely available from arXiv at : http://arxiv.org/abs/1602.04971).'
+date_publication: '2016-03-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DCODE
+url_git: ''

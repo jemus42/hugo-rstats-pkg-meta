@@ -1,0 +1,12 @@
+version: 1.3-34
+title: Principal Tensor Analysis on k Modes
+maintainer: Didier G. Leibovici
+description: 'A multiway method to decompose a tensor (array) of any order, as a generalisation
+  of SVD also supporting non-identity metrics and penalisations. 2-way SVD with these
+  extensions is also available. The package includes also some other multiway methods:
+  PCAn (Tucker-n) and PARAFAC/CANDECOMP with these extensions.'
+date_publication: '2019-02-06'
+bug_reports: ''
+url: http://c3s2i.free.fr/
+url_cran: https://CRAN.R-project.org/package=PTAk
+url_git: ''

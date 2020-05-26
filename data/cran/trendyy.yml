@@ -1,0 +1,11 @@
+version: 0.1.1
+title: A Tidy Wrapper Around 'gtrendsR'
+maintainer: Josiah Parry
+description: |-
+  Access Google Trends information. This package provides a tidy wrapper to the 'gtrendsR' package.
+  Use four spaces when indenting paragraphs within the Description.
+date_publication: '2019-05-20'
+bug_reports: https://github.com/josiahparry/trendyy/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=trendyy
+url_git: https://github.com/josiahparry/trendyy

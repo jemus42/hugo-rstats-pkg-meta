@@ -1,0 +1,9 @@
+version: 0.3-57
+title: Cluster Ensembles
+maintainer: Kurt Hornik
+description: CLUster Ensembles.
+date_publication: '2019-02-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=clue
+url_git: ''

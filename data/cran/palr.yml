@@ -1,0 +1,12 @@
+version: 0.2.0
+title: Colour Palettes for Data
+maintainer: Michael D. Sumner
+description: |-
+  Colour palettes for data, based on some well known public data
+  sets. Includes helper functions to map absolute values to known palettes, and
+  capture the work of image colour mapping as raster data sets.
+date_publication: '2020-01-30'
+bug_reports: https://github.com/AustralianAntarcticDivision/palr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=palr
+url_git: https://github.com/AustralianAntarcticDivision/palr

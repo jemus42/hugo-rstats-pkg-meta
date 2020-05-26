@@ -1,0 +1,17 @@
+version: 1.4-7
+title: Visualizing Categorical Data
+maintainer: David Meyer
+description: |-
+  Visualization techniques, data sets, summary and inference
+  procedures aimed particularly at categorical data. Special
+  emphasis is given to highly extensible grid graphics. The
+  package was package was originally inspired by the book
+  "Visualizing Categorical Data" by Michael Friendly and is
+  now the main support package for a new book,
+  "Discrete Data Analysis with R" by Michael Friendly and
+  David Meyer (2015).
+date_publication: '2020-04-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=vcd
+url_git: ''

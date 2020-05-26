@@ -1,0 +1,11 @@
+version: 1.0-1
+title: Group Sequential Bayes Design
+maintainer: Bjoern Bornkamp
+description: |-
+  Group Sequential Operating Characteristics for Clinical,
+  Bayesian two-arm Trials with known Sigma and Normal Endpoints.
+date_publication: '2019-12-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gsbDesign
+url_git: ''

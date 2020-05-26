@@ -1,0 +1,9 @@
+version: 1.0-6
+title: Maximum likelihood unit root test
+maintainer: Ian McLeod
+description: Provides functions for unit root testing using MLE method
+date_publication: '2013-12-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mleur
+url_git: ''

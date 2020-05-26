@@ -1,0 +1,9 @@
+version: 0.1.5
+title: Benford Analysis for Data Validation and Forensic Analytics
+maintainer: Carlos Cinelli
+description: Provides tools that make it easier to validate data using Benford's Law.
+date_publication: '2018-12-21'
+bug_reports: http://github.com/carloscinelli/benford.analysis/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=benford.analysis
+url_git: http://github.com/carloscinelli/benford.analysis

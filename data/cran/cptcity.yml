@@ -1,0 +1,10 @@
+version: 1.0.4
+title: '''cpt-city'' Colour Gradients'
+maintainer: Sergio Ibarra-Espinosa
+description: Incorporates colour gradients from the 'cpt-city' web archive available
+  at <http://soliton.vm.bytemark.co.uk/pub/cpt-city/>.
+date_publication: '2019-03-07'
+bug_reports: https://github.com/ibarraespinosa/cptcity/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=cptcity
+url_git: https://github.com/ibarraespinosa/cptcity

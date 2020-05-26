@@ -1,0 +1,14 @@
+version: 1.1.2
+title: |-
+  North Temperate Lakes - Microbial Observatory 16S Time Series
+  Data and Functions
+maintainer: Alexandra Linz
+description: 'Analyses of OTU tables produced by 16S rRNA gene amplicon sequencing,
+  as well as example data. It contains the data and scripts used in the paper Linz,
+  et al. (2017) "Bacterial community composition and dynamics spanning five years
+  in freshwater bog lakes," <doi: 10.1128/mSphere.00169-17>.'
+date_publication: '2018-05-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OTUtable
+url_git: ''

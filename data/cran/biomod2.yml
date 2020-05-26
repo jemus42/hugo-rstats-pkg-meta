@@ -1,0 +1,14 @@
+version: 3.4.6
+title: Ensemble Platform for Species Distribution Modeling
+maintainer: Damien Georges
+description: |-
+  Functions for species distribution modeling, calibration and evaluation,
+  ensemble of models, ensemble forecasting and visualization. The package permits to run
+  consistently up to 10 single models on a presence/absences (resp presences/pseudo-absences)
+  dataset and to combine them in ensemble models and ensemble projections. Some bench of other
+  evaluation and visualisation tools are also available within the package.
+date_publication: '2020-02-26'
+bug_reports: https://r-forge.r-project.org/forum/forum.php?eforum_id=995&group_id=302
+url: ''
+url_cran: https://CRAN.R-project.org/package=biomod2
+url_git: ''

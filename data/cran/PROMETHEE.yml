@@ -1,0 +1,13 @@
+version: '1.1'
+title: |-
+  Preference Ranking Organization METHod for Enrichment of
+  Evaluations
+maintainer: Francesco Vidoli
+description: |-
+  Functions which can be used to support the Multicriteria Decision Analysis (MCDA) process
+  involving multiple criteria, by PROMETHEE (Preference Ranking Organization METHod for Enrichment of Evaluations).
+date_publication: '2019-03-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PROMETHEE
+url_git: ''

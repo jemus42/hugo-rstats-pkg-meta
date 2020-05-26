@@ -1,0 +1,12 @@
+version: 0.1-12
+title: Unified Multiple Testing Procedures
+maintainer: Kornelius Rohmeyer
+description: |-
+  Designed to ease the application and comparison of multiple
+  hypothesis testing procedures for FWER, gFWER, FDR and FDX. Methods are
+  standardized and usable by the accompanying 'mutossGUI'.
+date_publication: '2017-12-04'
+bug_reports: https://github.com/kornl/mutoss/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=mutoss
+url_git: https://github.com/kornl/mutoss/

@@ -1,0 +1,13 @@
+version: 0.1.1
+title: Machine Learning Pipelines for R
+maintainer: Alex Ioannides
+description: |-
+  A framework for defining 'pipelines' of functions for applying data transformations,
+  model estimation and inverse-transformations, resulting in predicted value generation (or
+  model-scoring) functions that automatically apply the entire pipeline of functions required to go
+  from input to predicted output.
+date_publication: '2016-12-19'
+bug_reports: https://github.com/alexioannides/pipeliner/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pipeliner
+url_git: https://github.com/alexioannides/pipeliner

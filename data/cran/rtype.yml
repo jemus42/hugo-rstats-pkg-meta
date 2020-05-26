@@ -1,0 +1,12 @@
+version: 0.1-1
+title: A strong type system for R
+maintainer: Kun Ren
+description: |-
+  A strong type system for R which supports
+  symbol declaration and assignment with type checking
+  and condition checking.
+date_publication: '2014-08-15'
+bug_reports: https://github.com/renkun-ken/rtype/issues
+url: http://renkun.me/rtype
+url_cran: https://CRAN.R-project.org/package=rtype
+url_git: https://github.com/renkun-ken/rtype

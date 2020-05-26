@@ -1,0 +1,11 @@
+version: 1.0.4
+title: Plot Principal Component Histograms Around a Scatter Plot
+maintainer: Stephen Milborrow
+description: |-
+  Plot principal component histograms around a bivariate
+  scatter plot.
+date_publication: '2015-09-27'
+bug_reports: ''
+url: http://www.milbo.users.sonic.net
+url_cran: https://CRAN.R-project.org/package=plotpc
+url_git: ''

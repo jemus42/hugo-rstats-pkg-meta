@@ -1,0 +1,13 @@
+version: 1.0.0
+title: An Individual-Based Model of Bird Song Evolution
+maintainer: Raymond Danner
+description: Simulates the cultural evolution of quantitative traits of bird song.
+  'SongEvo' is an individual- (agent-) based model. 'SongEvo' is spatially-explicit
+  and can be parameterized with, and tested against, measured song data. Functions
+  are available for model implementation, sensitivity analyses, parameter optimization,
+  model validation, and hypothesis testing.
+date_publication: '2019-03-05'
+bug_reports: https://github.com/raydanner/SongEvo/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=SongEvo
+url_git: ''

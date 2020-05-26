@@ -1,0 +1,13 @@
+version: 0.1.8
+title: Amazon Web Services Security, Identity, & Compliance APIs
+maintainer: David Kretch
+description: |-
+  Interface to Amazon Web Services security, identity, and
+  compliance APIs, including the 'Identity & Access Management' ('IAM')
+  service for managing access to services and resources, and more
+  <https://aws.amazon.com/>.
+date_publication: '2020-04-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=paws.security.identity
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.9.0
+title: Download Data from the Bank of Mexico
+maintainer: Eduardo Flores
+description: |-
+  Provides functions to scrape IQY calls to Bank of Mexico,
+  downloading and ordering the data conveniently.
+date_publication: '2016-08-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=banxicoR
+url_git: ''

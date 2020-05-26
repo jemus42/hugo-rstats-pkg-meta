@@ -1,0 +1,13 @@
+version: 0.1-1
+title: |-
+  A Bi-Dimensional Implementation of the Empirical Mode
+  Decomposition for Spatial Data
+maintainer: Pierre Roudier
+description: |-
+  This implementation of the Empirical Mode Decomposition (EMD) works in 2 dimensions simultaneously, and
+  can be applied on spatial data. It can handle both gridded or un-gridded datasets.
+date_publication: '2018-07-01'
+bug_reports: https://github.com/pierreroudier/spemd/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=spemd
+url_git: https://github.com/pierreroudier/spemd

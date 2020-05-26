@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Load WARC Files into Apache Spark
+maintainer: Javier Luraschi
+description: |-
+  Load WARC (Web ARChive) files into Apache Spark using 'sparklyr'. This
+  allows to read files from the Common Crawl project <http://commoncrawl.org/>.
+date_publication: '2017-01-13'
+bug_reports: https://github.com/javierluraschi/sparkwarc
+url: ''
+url_cran: https://CRAN.R-project.org/package=sparkwarc
+url_git: ''

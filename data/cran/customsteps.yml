@@ -1,0 +1,13 @@
+version: 0.7.1.0
+title: Customizable Higher-Order Recipe Step Functions
+maintainer: Lars Kjeldgaard
+description: |-
+  Customizable higher-order recipe step functions for
+  the 'recipes' package. These step functions take 'prep' and 'bake' helper
+  functions as inputs and create specifications of customized recipe steps
+  as output.
+date_publication: '2018-12-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=customsteps
+url_git: https://github.com/smaakage85/customsteps

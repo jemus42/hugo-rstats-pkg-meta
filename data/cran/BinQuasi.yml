@@ -1,0 +1,10 @@
+version: 0.1-6
+title: Analyzing Replicated ChIP Sequencing Data Using Quasi-Likelihood
+maintainer: Emily Goren
+description: Identify peaks in ChIP-seq data with biological replicates using a one-sided
+  quasi-likelihood ratio test in quasi-Poisson or quasi-negative binomial models.
+date_publication: '2018-07-27'
+bug_reports: https://github.com/emilygoren/BinQuasi/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=BinQuasi
+url_git: https://github.com/emilygoren/BinQuasi

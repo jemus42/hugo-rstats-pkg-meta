@@ -1,0 +1,12 @@
+version: 0.0.9
+title: A package to check the cancellation axioms of conjoint<U+000a>measurement.
+maintainer: Ben Domingue
+description: Implementation of a procedure (Domingue, 2012; see also<U+000a>Karabatsos,
+  2001 and Kyngdon, 2011) to test the single and<U+000a>double cancellation axioms
+  of conjoint measure in data that is<U+000a>dichotomously coded and measured with
+  error.
+date_publication: '2012-12-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ConjointChecks
+url_git: ''

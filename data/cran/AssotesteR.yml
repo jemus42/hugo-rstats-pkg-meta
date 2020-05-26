@@ -1,0 +1,10 @@
+version: 0.1-10
+title: Statistical Tests for Genetic Association Studies
+maintainer: Gaston Sanchez
+description: R package with statistical tests and methods for genetic<U+000a>association
+  studies with emphasis on rare variants and binary (dichotomous)<U+000a>traits
+date_publication: '2013-12-19'
+bug_reports: ''
+url: http://www.gastonsanchez.com
+url_cran: https://CRAN.R-project.org/package=AssotesteR
+url_git: ''

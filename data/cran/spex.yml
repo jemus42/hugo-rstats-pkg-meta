@@ -1,0 +1,14 @@
+version: 0.6.0
+title: Spatial Extent Tools
+maintainer: Michael D. Sumner
+description: |-
+  Functions to produce a fully fledged 'geo-spatial' object extent as a
+  'SpatialPolygonsDataFrame'. Also included are functions to generate polygons
+  from raster data using 'quadmesh' techniques, a round number buffered extent, and
+  general spatial-extent and 'raster-like' extent helpers missing from the originating
+  packages. Some latitude-based tools for polar maps are included.
+date_publication: '2019-06-02'
+bug_reports: https://github.com/mdsumner/spex/issues
+url: https://mdsumner.github.io/spex/
+url_cran: https://CRAN.R-project.org/package=spex
+url_git: ''

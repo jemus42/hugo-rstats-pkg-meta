@@ -1,0 +1,14 @@
+version: 2.6.0
+title: Step-Wise Signal Extraction via Marginal Likelihood
+maintainer: Chu-Lan Michael Kao
+description: |-
+  Provides function to estimate multiple change points
+  using marginal likelihood method. See the Manual file in data folder for
+  a detailed description of all functions, and a walk through tutorial.
+  For more information of the method, please see Du, Kao and Kou (2016)
+  <doi:10.1080/01621459.2015.1006365>.
+date_publication: '2018-05-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=StepSignalMargiLike
+url_git: ''

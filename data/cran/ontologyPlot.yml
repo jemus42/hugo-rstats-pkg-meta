@@ -1,0 +1,10 @@
+version: '1.4'
+title: Functions for Visualising Sets of Ontological Terms
+maintainer: Daniel Greene
+description: Functions for visualising sets of ontological terms using the 'graphviz'
+  layout system.
+date_publication: '2016-10-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ontologyPlot
+url_git: ''

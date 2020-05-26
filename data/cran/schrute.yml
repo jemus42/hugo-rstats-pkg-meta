@@ -1,0 +1,12 @@
+version: 0.2.1
+title: The Entire Transcript from the Office in Tidy Format
+maintainer: Brad Lindblad
+description: |-
+  The complete scripts from the American version of
+  the Office television show in tibble format. Use this package to
+  analyze and have fun with text from the best series of all time.
+date_publication: '2020-03-30'
+bug_reports: https://github.com/bradlindblad/schrute/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=schrute
+url_git: https://github.com/bradlindblad/schrute

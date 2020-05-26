@@ -1,0 +1,12 @@
+version: 0.1.3
+title: Pencil Sketch Effect
+maintainer: Hiroyuki Tsuda
+description: |-
+  An implementation of image processing effects that convert a photo into a line drawing image.
+  For details, please refer to Tsuda, H. (2020). sketcher: An R package for converting a photo into a sketch style image.
+  <doi:10.31234/osf.io/svmw5>.
+date_publication: '2020-05-25'
+bug_reports: https://github.com/tsuda16k/sketcher/issues/
+url: https://htsuda.net/sketcher/
+url_cran: https://CRAN.R-project.org/package=sketcher
+url_git: ''

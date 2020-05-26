@@ -1,0 +1,15 @@
+version: 1.0.0
+title: Estimate Insect Survival from Fluorescence Data
+maintainer: Jean-Baptiste Ferdy
+description: |-
+  Use spectrophotometry measurements performed on insects as a way to infer pathogens
+  virulence. Insect movements cause fluctuations in fluorescence signal, and functions are
+  provided to estimate when the insect has died as the moment when variance in autofluorescence
+  signal drops to zero. The package provides functions to obtain this estimate together with
+  functions to import spectrophotometry data from a Biotek microplate reader. Details of the method
+  are given in Parthuisot et al. (2018) <doi:10.1101/297929>.
+date_publication: '2018-04-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=fluoSurv
+url_git: ''

@@ -1,0 +1,14 @@
+version: 0.4.2
+title: Plant Photobiology Related Functions and Data
+maintainer: Pedro J. Aphalo
+description: |-
+  Provides functions for quantifying visible (VIS) and ultraviolet
+  (UV) radiation in relation to the photoreceptors Phytochromes,
+  Cryptochromes, and UVR8 which are present in plants. It also includes data
+  sets on the optical properties of plants. Part of the 'r4photobiology'
+  suite, Aphalo P. J. (2015) <doi:10.19232/uv4pb.2015.1.14>.
+date_publication: '2019-06-14'
+bug_reports: https://bitbucket.org/aphalo/photobiologyplants/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=photobiologyPlants
+url_git: https://www.r4photobiology.info/https://bitbucket.org/aphalo/photobiologyplants

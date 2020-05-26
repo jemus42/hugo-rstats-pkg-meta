@@ -1,0 +1,11 @@
+version: '1.2'
+title: Quantile, Composite Quantile Regression and Regularized Versions
+maintainer: Jueyu Gao
+description: Estimate quantile regression(QR) and composite quantile regression (cqr)
+  and with adaptive lasso penalty using interior point (IP), majorize and minimize(MM),
+  coordinate descent (CD), and alternating direction method of multipliers algorithms(ADMM).
+date_publication: '2015-04-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=cqrReg
+url_git: ''

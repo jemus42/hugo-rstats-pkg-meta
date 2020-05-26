@@ -1,0 +1,13 @@
+version: '1.0'
+title: Enhanced Regression Nomogram Plot
+maintainer: Roger Marshall
+description: |-
+  A function to plot a regression nomogram of regression
+  objects. Covariate distributions are superimposed on nomogram scales and the plot
+  can be animated to allow on-the-fly changes to distribution representation and to
+  enable outcome calculation.
+date_publication: '2020-01-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=regplot
+url_git: ''

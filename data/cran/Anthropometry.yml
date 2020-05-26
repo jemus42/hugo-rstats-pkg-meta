@@ -1,0 +1,13 @@
+version: '1.14'
+title: Statistical Methods for Anthropometric Data
+maintainer: Guillermo Vinue
+description: "Statistical methodologies especially developed to analyze anthropometric
+  data. These methods are aimed \t\tat providing effective solutions to some commons
+  problems related to Ergonomics and Anthropometry. They are based on clustering,
+  the \t\tstatistical concept of data depth, statistical shape analysis and archetypal
+  analysis. Please see Vinue (2017) <doi:10.18637/jss.v077.i06>."
+date_publication: '2020-04-06'
+bug_reports: ''
+url: https://www.uv.es/vivigui
+url_cran: https://CRAN.R-project.org/package=Anthropometry
+url_git: ''

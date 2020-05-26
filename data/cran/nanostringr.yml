@@ -1,0 +1,19 @@
+version: 0.1.4
+title: |-
+  Performs Quality Control, Data Normalization, and Batch Effect
+  Correction for 'NanoString nCounter' Data
+maintainer: Derek Chiu
+description: |-
+  Provides quality control (QC), normalization, and
+  batch effect correction operations for 'NanoString nCounter' data,
+  Talhouk et al. (2016) <doi:10.1371/journal.pone.0153844>.  Various
+  metrics are used to determine which samples passed or failed QC.  Gene
+  expression should first be normalized to housekeeping genes, before a
+  reference-based approach is used to adjust for batch effects.  Raw
+  NanoString data can be imported in the form of Reporter Code Count
+  (RCC) files.
+date_publication: '2019-05-09'
+bug_reports: https://github.com/OVCARE/nanostringr/issues
+url: https://ovcare.github.io/nanostringr
+url_cran: https://CRAN.R-project.org/package=nanostringr
+url_git: https://github.com/OVCARE/nanostringr

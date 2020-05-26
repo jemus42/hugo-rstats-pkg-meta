@@ -1,0 +1,17 @@
+version: 0.6.25
+title: Create Compact Hash Digests of R Objects
+maintainer: Dirk Eddelbuettel
+description: |-
+  Implementation of a function 'digest()' for the creation
+  of hash digests of arbitrary R objects (using the 'md5', 'sha-1', 'sha-256',
+  'crc32', 'xxhash', 'murmurhash' and 'spookyhash' algorithms) permitting easy
+  comparison of R language objects, as well as functions such as'hmac()' to
+  create hash-based message authentication code. Please note that this package
+  is not meant to be deployed for cryptographic purposes for which more
+  comprehensive (and widely tested) libraries such as 'OpenSSL' should be
+  used.
+date_publication: '2020-02-23'
+bug_reports: https://github.com/eddelbuettel/digest/issues
+url: http://dirk.eddelbuettel.com/code/digest.html
+url_cran: https://CRAN.R-project.org/package=digest
+url_git: ''

@@ -1,0 +1,13 @@
+version: 3.1.5
+title: |-
+  Item Focussed Trees for the Identification of Items in
+  Differential Item Functioning
+maintainer: Moritz Berger
+description: Item focussed recursive partitioning for simultaneous selection of items
+  and variables that induce Differential Item Functioning (DIF) in dichotomous or
+  polytomous items.
+date_publication: '2020-04-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DIFtree
+url_git: ''

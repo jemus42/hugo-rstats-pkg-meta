@@ -1,0 +1,11 @@
+version: 1.2.6.1
+title: Hazard Function Estimation in Survival Analysis
+maintainer: David Winsemius
+description: |-
+  Produces a smooth estimate of the hazard
+  function for censored data.
+date_publication: '2019-01-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=muhaz
+url_git: ''

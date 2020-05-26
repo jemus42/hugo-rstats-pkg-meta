@@ -1,0 +1,14 @@
+version: '1.2'
+title: |-
+  Allows Interactive Visualization of Data Through a Web Browser
+  GUI
+maintainer: Eugene Dubossarsky
+description: |-
+  Intended for both technical and non-technical users to create
+  interactive data visualizations through a web browser GUI without writing any
+  code.
+date_publication: '2019-09-04'
+bug_reports: https://github.com/cargomoose/raptR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=ggraptR
+url_git: ''

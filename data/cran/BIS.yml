@@ -1,0 +1,12 @@
+version: 0.2.1
+title: Programmatic Access to Bank for International Settlements Data
+maintainer: Eric Persson
+description: |-
+  Provides an interface to data provided by the Bank for International
+  Settlements <https://www.bis.org>, allowing for programmatic retrieval of a
+  large quantity of (central) banking data.
+date_publication: '2018-05-22'
+bug_reports: https://github.com/expersso/BIS/issues
+url: https://www.bis.org
+url_cran: https://CRAN.R-project.org/package=BIS
+url_git: ''

@@ -1,0 +1,13 @@
+version: 3.1.4
+title: Process and Analyze Mouse-Tracking Data
+maintainer: Pascal J. Kieslich
+description: |-
+  Mouse-tracking, the analysis of mouse movements in computerized
+  experiments, is a method that is becoming increasingly popular in the
+  cognitive sciences. The mousetrap package offers functions for importing,
+  preprocessing, analyzing, aggregating, and visualizing mouse-tracking data.
+date_publication: '2019-12-05'
+bug_reports: https://github.com/pascalkieslich/mousetrap/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mousetrap
+url_git: https://github.com/pascalkieslich/mousetrap

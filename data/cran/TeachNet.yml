@@ -1,0 +1,11 @@
+version: 0.7.1
+title: Fits Neural Networks to Learn About Backpropagation
+maintainer: Georg Steinbuss
+description: Can fit neural networks with up to two hidden layer and two different
+  error functions. Also able to handle a weight decay. But just able to compute one
+  output neuron and very slow.
+date_publication: '2018-11-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TeachNet
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.2.1
+title: Purge Training Data from Models
+maintainer: Marc Maier
+description: |-
+  Enables the removal of training data from fitted R models while
+  retaining predict functionality. The purged models are more portable as their
+  memory footprints do not scale with the training sample size.
+date_publication: '2017-02-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=purge
+url_git: ''

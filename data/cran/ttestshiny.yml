@@ -1,0 +1,10 @@
+version: 0.1.0
+title: Ttest Shiny
+maintainer: Kartikeya Bolar
+description: Interactive shiny application for working with ttest on data. Results
+  for analysis are provided.
+date_publication: '2018-10-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ttestshiny
+url_git: ''

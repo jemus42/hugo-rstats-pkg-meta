@@ -1,0 +1,14 @@
+version: '0.9'
+title: Regularized Multi-Task Learning
+maintainer: Han Cao
+description: Efficient solvers for 10 regularized multi-task learning algorithms applicable
+  for regression, classification, joint feature selection, task clustering, low-rank
+  learning, sparse learning and network incorporation. Based on the accelerated gradient
+  descent method, the algorithms feature a state-of-art computational complexity O(1/k^2).
+  Sparse model structure is induced by the solving the proximal operator. The detail
+  of the package is described in the paper of Han Cao and Emanuel Schwarz (2018) <doi:10.1093/bioinformatics/bty831>.
+date_publication: '2019-02-27'
+bug_reports: https://github.com/transbioZI/RMTL/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=RMTL
+url_git: https://github.com/transbioZI/RMTL

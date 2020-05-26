@@ -1,0 +1,13 @@
+version: 1.1-4
+title: |-
+  Additivity Tests in the Two Way Anova with Single Sub-class
+  Numbers
+maintainer: Petr Simecek
+description: |-
+  Implementation of the Tukey, Mandel, Johnson-Graybill, LBI, Tusell
+  and modified Tukey non-additivity tests.
+date_publication: '2014-12-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=additivityTests
+url_git: https://github.com/simecek/additivityTests

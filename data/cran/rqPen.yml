@@ -1,0 +1,12 @@
+version: 2.2.2
+title: Penalized Quantile Regression
+maintainer: Ben Sherwood
+description: Performs penalized quantile regression for LASSO, SCAD and MCP functions
+  including group penalties. Provides a function that automatically generates lambdas
+  and evaluates different models with cross validation or BIC, including a large p
+  version of BIC.
+date_publication: '2020-04-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rqPen
+url_git: ''

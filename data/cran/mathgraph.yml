@@ -1,0 +1,12 @@
+version: 0.9-14
+title: Directed and Undirected Graphs
+maintainer: Claus Dethlefsen
+description: |-
+  Simple tools for constructing and manipulating objects of
+  class mathgraph from the book "S Poetry", available at
+  <http://www.burns-stat.com/pages/spoetry.html>.
+date_publication: '2018-10-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mathgraph
+url_git: ''

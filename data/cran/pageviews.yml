@@ -1,0 +1,12 @@
+version: 0.5.0
+title: An API Client for Wikimedia Traffic Data
+maintainer: Os Keyes
+description: |-
+  Pageview data from the 'Wikimedia' sites, such as
+  'Wikipedia' <https://www.wikipedia.org/>, from entire projects to per-article
+  levels of granularity, through the new RESTful API and data source <https://wikimedia.org/api/rest_v1/?doc>.
+date_publication: '2020-05-10'
+bug_reports: https://github.com/ironholds/pageviews
+url: ''
+url_cran: https://CRAN.R-project.org/package=pageviews
+url_git: https://github.com/ironholds/pageviews

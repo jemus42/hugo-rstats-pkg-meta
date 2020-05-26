@@ -1,0 +1,9 @@
+version: 2.3.1
+title: Sensus Analytics
+maintainer: Matthew S. Gerber
+description: Provides access and analytic functions for Sensus data.
+date_publication: '2019-02-01'
+bug_reports: ''
+url: https://predictive-technology-laboratory.github.io/sensus/
+url_cran: https://CRAN.R-project.org/package=SensusR
+url_git: ''

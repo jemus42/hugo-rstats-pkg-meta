@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Extra Recipes for Encoding Categorical Predictors
+maintainer: Max Kuhn
+description: Predictors can be converted to one or more numeric representations using
+  simple generalized linear models <arXiv:1611.09477> or nonlinear models <arXiv:1604.06737>.
+  Most encoding methods are supervised.
+date_publication: '2020-05-25'
+bug_reports: https://github.com/tidymodels/embed/issues
+url: https://embed.tidymodels.org
+url_cran: https://CRAN.R-project.org/package=embed
+url_git: https://github.com/tidymodels/embed

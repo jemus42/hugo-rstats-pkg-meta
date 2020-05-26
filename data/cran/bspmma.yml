@@ -1,0 +1,10 @@
+version: 0.1-2
+title: Bayesian Semiparametric Models for Meta-Analysis
+maintainer: Deborah Burr
+description: The main functions carry out Gibbs' sampler routines for nonparametric
+  and semiparametric Bayesian models for random effects meta-analysis.
+date_publication: '2019-01-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bspmma
+url_git: ''

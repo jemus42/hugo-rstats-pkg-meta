@@ -1,0 +1,12 @@
+version: '1.0'
+title: Tools for Creating and Analysing Air Trajectory Data
+maintainer: Thalles Silva
+description: opentraj uses the Hybrid Single Particle Lagrangian Integrated Trajectory
+  Model (HYSPLIT) for computing simple air parcel trajectories. The functions in this
+  package allow users to run HYSPLIT for trajectory calculations, as well as get its
+  results, directly from R without using any GUI interface.
+date_publication: '2014-09-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=opentraj
+url_git: ''

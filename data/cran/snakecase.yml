@@ -1,0 +1,10 @@
+version: 0.11.0
+title: Convert Strings into any Case
+maintainer: Malte Grosser
+description: A consistent, flexible and easy to use tool to parse and convert strings
+  into cases like snake or camel among others.
+date_publication: '2019-05-25'
+bug_reports: https://github.com/Tazinho/snakecase/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=snakecase
+url_git: https://github.com/Tazinho/snakecase

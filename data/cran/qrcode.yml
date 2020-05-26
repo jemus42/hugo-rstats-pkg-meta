@@ -1,0 +1,9 @@
+version: 0.1.1
+title: QRcode Generator for R
+maintainer: Victor Teh
+description: Create QRcode in R.
+date_publication: '2015-08-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=qrcode
+url_git: ''

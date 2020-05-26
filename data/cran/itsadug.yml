@@ -1,0 +1,20 @@
+version: '2.4'
+title: Interpreting Time Series and Autocorrelated Data Using GAMMs
+maintainer: Jacolien van Rij
+description: |-
+  GAMM (Generalized Additive Mixed Modeling; Lin & Zhang, 1999)
+  as implemented in the R package 'mgcv' (Wood, S.N., 2006; 2011) is a nonlinear
+  regression analysis which is particularly useful for time course data such as
+  EEG, pupil dilation, gaze data (eye tracking), and articulography recordings,
+  but also for behavioral data such as reaction times and response data. As time
+  course measures are sensitive to autocorrelation problems, GAMMs implements
+  methods to reduce the autocorrelation problems. This package includes functions
+  for the evaluation of GAMM models (e.g., model comparisons, determining regions
+  of significance, inspection of autocorrelational structure in residuals)
+  and interpreting of GAMMs (e.g., visualization of complex interactions, and
+  contrasts).
+date_publication: '2020-04-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=itsadug
+url_git: ''

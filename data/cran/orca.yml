@@ -1,0 +1,12 @@
+version: 1.1-1
+title: Computation of Graphlet Orbit Counts in Sparse Graphs
+maintainer: Janez Demsar
+description: |-
+  Implements orbit counting using a fast combinatorial approach.
+  Counts orbits of nodes and edges from edge matrix or data frame, or a
+  graph object from the graph package.
+date_publication: '2016-07-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=orca
+url_git: ''

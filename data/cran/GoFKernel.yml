@@ -1,0 +1,9 @@
+version: 2.1-1
+title: Testing Goodness-of-Fit with the Kernel Density Estimator
+maintainer: Jose M. Pavia
+description: Tests of goodness-of-fit based on a kernel smoothing of the data.
+date_publication: '2018-05-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GoFKernel
+url_git: ''

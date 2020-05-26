@@ -1,0 +1,22 @@
+version: 0.2.0
+title: Tools to create, modify and manage 'CWB' Corpora
+maintainer: Andreas Blaette
+description: |-
+  The 'Corpus Workbench' ('CWB', <http://cwb.sourceforge.net/>) offers a classic and mature
+  approach for working with large, linguistically and structurally annotated corpora. The 'CWB'
+  is memory efficient and its design makes running queries fast (Evert and Hardie 2011,
+  <http://www.stefan-evert.de/PUB/EvertHardie2011.pdf>). The 'cwbtools' package offers
+  pure R tools to create indexed corpus files as well as high-level wrappers for the original C
+  implementation of CWB as exposed by the 'RcppCWB' package
+  <https://CRAN.R-project.org/package=RcppCWB>. Additional functionality to add and
+  modify annotations of corpora from within R makes working with CWB indexed corpora
+  much more flexible and convenient. The 'cwbtools' package in combination with the R packages
+  'RcppCWB' (<https://CRAN.R-project.org/package=RcppCWB>) and 'polmineR'
+  (<https://CRAN.R-project.org/package=polmineR>) offers a lightweight infrastructure
+  to support the combination of quantitative and qualitative approaches for working
+  with textual data.
+date_publication: '2020-04-14'
+bug_reports: https://github.com/PolMine/cwbtools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=cwbtools
+url_git: https://www.github.com/PolMine/cwbtools

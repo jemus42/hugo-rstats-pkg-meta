@@ -1,0 +1,13 @@
+version: 1.1.1
+title: |-
+  Calculate the Proportion of Permutations in Line with an
+  Informative Hypothesis
+maintainer: M. A. J. Zondervan-Zwijnenburg
+description: 'Allows for the easy computation of complexity: the proportion of the
+  parameter space in line with the hypothesis by chance. The package comes with a
+  Shiny application in which the calculations can be conducted as well.'
+date_publication: '2017-04-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=complexity
+url_git: ''

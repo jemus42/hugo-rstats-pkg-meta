@@ -1,0 +1,11 @@
+version: 2.0.2
+title: Partitioned Symmetric Matrices
+maintainer: Alexander Grueneberg
+description: |-
+  A matrix-like class to represent a symmetric matrix partitioned
+  into file-backed blocks.
+date_publication: '2018-08-25'
+bug_reports: https://github.com/QuantGen/symDMatrix/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=symDMatrix
+url_git: https://github.com/QuantGen/symDMatrix

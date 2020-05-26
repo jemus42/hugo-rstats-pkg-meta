@@ -1,0 +1,13 @@
+version: 0.2.0
+title: |-
+  Implements Indices of Qualitative Variation Proposed by Wilcox
+  (1973)
+maintainer: Joel Gombin
+description: |-
+  Implements indices of qualitative variation proposed by Wilcox
+  (1973).
+date_publication: '2018-01-03'
+bug_reports: https://www.github.com/joelgombin/qualvar/issues
+url: http://joelgombin.github.io/qualvar/
+url_cran: https://CRAN.R-project.org/package=qualvar
+url_git: ''

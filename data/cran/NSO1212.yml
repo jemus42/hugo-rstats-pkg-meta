@@ -1,0 +1,14 @@
+version: 1.1.0
+title: National Statistical Office of Mongolia's Open Data API Handler
+maintainer: Makhgal Ganbold
+description: National Statistical Office of Mongolia (NSO) is the national statistical
+  service and an organization of Mongolian government. NSO provides open access and
+  official data via its web site <http://www.1212.mn/> and API <http://opendata.1212.mn/en/doc>.
+  The package NSO1212 has functions for accessing the API service. The functions are
+  compatible with the API v2.0 and get data sets and its detailed informations from
+  the API.
+date_publication: '2020-05-13'
+bug_reports: https://github.com/galaamn/NSO1212/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=NSO1212
+url_git: https://github.com/galaamn/NSO1212

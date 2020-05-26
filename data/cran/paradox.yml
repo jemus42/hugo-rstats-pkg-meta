@@ -1,0 +1,13 @@
+version: 0.2.0
+title: Define and Work with Parameter Spaces for Complex Algorithms
+maintainer: Michel Lang
+description: |-
+  Define parameter spaces, constraints and
+  dependencies for arbitrary algorithms, to program on such spaces. Also
+  includes statistical designs and random samplers. Objects are
+  implemented as 'R6' classes.
+date_publication: '2020-04-15'
+bug_reports: https://github.com/mlr-org/paradox/issues
+url: https://paradox.mlr-org.com
+url_cran: https://CRAN.R-project.org/package=paradox
+url_git: https://github.com/mlr-org/paradox

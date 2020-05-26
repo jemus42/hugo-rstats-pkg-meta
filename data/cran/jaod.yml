@@ -1,0 +1,15 @@
+version: 0.2.0
+title: Directory of Open Access Journals Client
+maintainer: Scott Chamberlain
+description: |-
+  Client for the Directory of Open Access Journals ('DOAJ')
+  (<https://doaj.org/>). API documentation at
+  <https://doaj.org/api/v1/docs>. Methods included for working with
+  all 'DOAJ' API routes: fetch article information by identifier,
+  search for articles, fetch journal information by identifier,
+  and search for journals.
+date_publication: '2019-09-04'
+bug_reports: https://github.com/ropensci/jaod/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=jaod
+url_git: https://github.com/ropensci/jaod

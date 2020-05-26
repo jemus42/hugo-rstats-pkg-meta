@@ -1,0 +1,13 @@
+version: '0.13'
+title: Population and Evolutionary Genetics Analysis System
+maintainer: Emmanuel Paradis
+description: Functions for reading, writing, plotting, analysing, and manipulating
+  allelic and haplotypic data, including from VCF files, and for the analysis of population
+  nucleotide sequences and micro-satellites including coalescent analyses, linkage
+  disequilibrium, population structure (Fst, Amova) and equilibrium (HWE), haplotype
+  networks, minimum spanning tree and network, and median-joining networks.
+date_publication: '2020-03-10'
+bug_reports: ''
+url: http://ape-package.ird.fr/pegas.html
+url_cran: https://CRAN.R-project.org/package=pegas
+url_git: ''

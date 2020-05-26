@@ -1,0 +1,16 @@
+version: 0.1.0
+title: |-
+  Identification of Transcriptional Dynamics using Pulse Models
+  via 4su-Seq Data and RNA-Seq Data
+maintainer: XinWang
+description: A tool for analyzing the transcription, processing and degradation rates
+  of genes by 4sU-seq (the Metabolic Label 4-thiouridine) data and RNA-seq (RNA sequencing)
+  data. It can not only recognize the transcriptional dynamic rates at the measurement
+  time points, but also obtain continuous changes in transcriptional dynamics. More
+  importantly, it is able to predict the trend of mRNA (Mature RNA) transcription
+  and expression changes in the future.
+date_publication: '2019-05-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=pulseTD
+url_git: https://github.com/bioWzz/pulseTD_0.1.0

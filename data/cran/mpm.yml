@@ -1,0 +1,13 @@
+version: 1.0-22
+title: Multivariate Projection Methods
+maintainer: Tobias Verbeke
+description: |-
+  Exploratory graphical analysis of multivariate data,
+  specifically gene expression data with different projection
+  methods: principal component analysis, correspondence analysis,
+  spectral map analysis.
+date_publication: '2011-11-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mpm
+url_git: http://mpm.r-forge.r-project.org

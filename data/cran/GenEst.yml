@@ -1,0 +1,11 @@
+version: 1.4.3
+title: Generalized Mortality Estimator
+maintainer: Daniel Dalthorp
+description: Command-line and 'shiny' GUI implementation of the GenEst models for
+  estimating bird and bat mortality at wind and solar power facilities, following
+  Dalthorp, et al. (2018) <doi:10.3133/tm7A2>.
+date_publication: '2020-05-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=GenEst
+url_git: ''

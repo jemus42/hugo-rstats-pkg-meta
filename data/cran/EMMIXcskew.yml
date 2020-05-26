@@ -1,0 +1,12 @@
+version: 0.9-5
+title: Fitting Mixtures of CFUST Distributions
+maintainer: Sharon X. Lee
+description: Functions to fit finite mixture of multivariate canonical fundamental
+  skew t (FM-CFUST) distributions, random sample generation, 2D and 3D contour plots.
+  See Lee and McLachlan (2017) <doi:10.18637/jss.v083.i03> for more information and
+  examples.
+date_publication: '2018-02-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EMMIXcskew
+url_git: ''

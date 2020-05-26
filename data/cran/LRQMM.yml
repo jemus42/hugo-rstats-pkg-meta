@@ -1,0 +1,12 @@
+version: 1.2.1
+title: Fitting Linear Quantile Regression Mixed Models
+maintainer: Sayyed Reza Alavian
+description: |-
+  Fit a quantile regression mixed model using a sparse implementation of the
+  Frisch-Newton interior-point algorithm as described in
+  Portnoy and Koenker (1977, Statistical Science)  <https://www.jstor.org/stable/2246217>.
+date_publication: '2020-02-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=LRQMM
+url_git: ''

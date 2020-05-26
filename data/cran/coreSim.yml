@@ -1,0 +1,14 @@
+version: 0.2.4
+title: |-
+  Core Functionality for Simulating Quantities of Interest from
+  Generalised Linear Models
+maintainer: Christopher Gandrud
+description: |-
+  Core functions for simulating quantities of interest
+  from generalised linear models (GLM). This package will form the backbone of
+  a series of other packages that improve the interpretation of GLM estimates.
+date_publication: '2017-05-15'
+bug_reports: https://github.com/christophergandrud/coreSim/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=coreSim
+url_git: ''

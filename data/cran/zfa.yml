@@ -1,0 +1,10 @@
+version: '1.0'
+title: Zoom-Focus Algorithm
+maintainer: Haoyi Weng
+description: Performs Zoom-Focus Algorithm (ZFA) to optimize testing regions for rare
+  variant association tests in exome sequencing data.
+date_publication: '2017-04-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=zfa
+url_git: ''

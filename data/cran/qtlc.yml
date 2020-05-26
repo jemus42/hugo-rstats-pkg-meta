@@ -1,0 +1,10 @@
+version: '1.0'
+title: Densitometric Analysis of Thin-Layer Chromatography Plates
+maintainer: Ivan D. Pavicevic
+description: Densitometric evaluation of the photo-archived quantitative thin-layer
+  chromatography (TLC) plates.
+date_publication: '2016-01-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=qtlc
+url_git: ''

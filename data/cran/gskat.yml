@@ -1,0 +1,9 @@
+version: '1.0'
+title: GEE_KM
+maintainer: Xuefeng Wang
+description: Family based association test via GEE Kernel Machine score test
+date_publication: '2013-11-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gskat
+url_git: ''

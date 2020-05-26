@@ -1,0 +1,15 @@
+version: 4.0.0
+title: Predicting Species Accumulation Curves
+maintainer: Chao Deng
+description: Originally as an R version of Preseq <doi:10.1038/nmeth.2375>, the package
+  has extended its functionality to predict the r-species accumulation curve (r-SAC),
+  which is the number of species represented at least r times as a function of the
+  sampling effort. When r = 1, the curve is known as the species accumulation curve,
+  or the library complexity curve in high-throughput genomic sequencing. The package
+  includes both parametric and nonparametric methods, as described by Deng C, et al.
+  (2018) <arXiv:1607.02804v3>.
+date_publication: '2018-06-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=preseqR
+url_git: ''

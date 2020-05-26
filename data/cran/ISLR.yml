@@ -1,0 +1,12 @@
+version: '1.2'
+title: |-
+  Data for an Introduction to Statistical Learning with
+  Applications in R
+maintainer: Trevor Hastie
+description: We provide the collection of data-sets used in the book 'An Introduction
+  to Statistical Learning with Applications in R'.
+date_publication: '2017-10-20'
+bug_reports: ''
+url: http://www.StatLearning.com
+url_cran: https://CRAN.R-project.org/package=ISLR
+url_git: ''

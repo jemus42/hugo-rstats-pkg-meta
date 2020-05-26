@@ -1,0 +1,11 @@
+version: 0.7.0
+title: Partial Dependence Plots
+maintainer: Brandon Greenwell
+description: |-
+  A general framework for constructing partial dependence (i.e.,
+  marginal effect) plots from various types machine learning models in R.
+date_publication: '2018-08-27'
+bug_reports: https://github.com/bgreenwell/pdp/issues
+url: https://bgreenwell.github.io/pdp/index.html
+url_cran: https://CRAN.R-project.org/package=pdp
+url_git: https://github.com/bgreenwell/pdp

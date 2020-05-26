@@ -1,0 +1,9 @@
+version: 2.2-1
+title: World Population Prospects 2012
+maintainer: Hana Sevcikova
+description: Data from the United Nation's World Population Prospects 2012
+date_publication: '2014-08-22'
+bug_reports: ''
+url: http://esa.un.org/wpp
+url_cran: https://CRAN.R-project.org/package=wpp2012
+url_git: ''

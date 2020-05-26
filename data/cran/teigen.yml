@@ -1,0 +1,13 @@
+version: 2.2.2
+title: |-
+  Model-Based Clustering and Classification with the Multivariate
+  t Distribution
+maintainer: Jeffrey L. Andrews
+description: Fits mixtures of multivariate t-distributions (with eigen-decomposed
+  covariance structure) via the expectation conditional-maximization algorithm under
+  a clustering or classification paradigm.
+date_publication: '2018-02-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=teigen
+url_git: ''

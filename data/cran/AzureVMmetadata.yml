@@ -1,0 +1,12 @@
+version: 1.0.0
+title: Interface to Azure Virtual Machine Instance Metadata
+maintainer: Hong Ooi
+description: A simple interface to the instance metadata for a virtual machine running
+  in Microsoft's 'Azure' cloud. This provides information about the VM's configuration,
+  such as its processors, memory, networking, storage, and so on. Part of the 'AzureR'
+  family of packages.
+date_publication: '2019-08-24'
+bug_reports: https://github.com/Azure/AzureVMmetadata/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=AzureVMmetadata
+url_git: https://github.com/Azure/AzureVMmetadatahttps://github.com/Azure/AzureR

@@ -1,0 +1,10 @@
+version: 0.3.1
+title: Rendering Word Documents with R Inline Code
+maintainer: Tomas Hovorka
+description: Serves for rendering MS Word documents with R inline code and inserting
+  tables and plots.
+date_publication: '2018-07-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=WordR
+url_git: ''

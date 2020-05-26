@@ -1,0 +1,22 @@
+version: 1.0.0
+title: |-
+  Statistical Inference of Large-Scale Gaussian Graphical Model in
+  Gene Networks
+maintainer: Rong Zhang
+description: |-
+  Provides a general framework to perform statistical inference of each gene pair
+  and global inference of whole-scale gene pairs in gene networks using the well known
+  Gaussian graphical model (GGM) in a time-efficient manner. We focus on the high-dimensional
+  settings where p (the number of genes) is allowed to be far larger than n (the number of subjects).
+  Four main approaches are supported in this package: (1) the bivariate nodewise scaled Lasso
+  (Ren et al (2015) <doi:10.1214/14-AOS1286>) (2) the de-sparsified nodewise scaled Lasso
+  (Jankova and van de Geer (2017) <doi:10.1007/s11749-016-0503-5>) (3) the de-sparsified
+  graphical Lasso (Jankova and van de Geer (2015) <doi:10.1214/15-EJS1031>) (4) the GGM
+  estimation with false discovery rate control (FDR) using scaled Lasso or Lasso
+  (Liu (2013) <doi:10.1214/13-AOS1169>). Windows users should install 'Rtools' before the
+  installation of this package.
+date_publication: '2017-10-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SILGGM
+url_git: ''

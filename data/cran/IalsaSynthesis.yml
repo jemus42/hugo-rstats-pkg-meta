@@ -1,0 +1,10 @@
+version: 0.1.6
+title: Synthesizing Information Across Collaborating Research
+maintainer: Will Beasley
+description: Synthesizes information across collaborating research. Created specifically
+  for Integrative Analysis of Longitudinal Studies of Aging (IALSA).
+date_publication: '2015-09-02'
+bug_reports: https://github.com/IALSA/IalsaSynthesis/issues
+url: http://www.ialsa.org/
+url_cran: https://CRAN.R-project.org/package=IalsaSynthesis
+url_git: https://github.com/IALSA/IalsaSynthesis

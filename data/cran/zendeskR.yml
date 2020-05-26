@@ -1,0 +1,9 @@
+version: '0.4'
+title: Zendesk API Wrapper
+maintainer: Tanya Cashorali
+description: This package provides an R wrapper for the Zendesk API
+date_publication: '2014-02-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=zendeskR
+url_git: ''

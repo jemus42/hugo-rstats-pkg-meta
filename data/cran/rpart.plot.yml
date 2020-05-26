@@ -1,0 +1,11 @@
+version: 3.0.8
+title: 'Plot ''rpart'' Models: An Enhanced Version of ''plot.rpart'''
+maintainer: Stephen Milborrow
+description: |-
+  Plot 'rpart' models. Extends plot.rpart() and text.rpart()
+  in the 'rpart' package.
+date_publication: '2019-08-22'
+bug_reports: ''
+url: http://www.milbo.org/rpart-plot
+url_cran: https://CRAN.R-project.org/package=rpart.plot
+url_git: ''

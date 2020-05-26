@@ -1,0 +1,11 @@
+version: 0.8.37
+title: Functions for the Logitnormal Distribution
+maintainer: Thomas Wutzler
+description: Density, distribution, quantile and random generation function for the
+  logitnormal distribution. Estimation of the mode and the first two moments. Estimation
+  of distribution parameters.
+date_publication: '2018-07-30'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=logitnorm
+url_git: ''

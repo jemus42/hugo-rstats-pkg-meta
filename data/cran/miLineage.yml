@@ -1,0 +1,12 @@
+version: '2.1'
+title: Association Tests for Microbial Lineages on a Taxonomic Tree
+maintainer: Zheng-Zheng Tang
+description: A variety of association tests for microbiome data analysis including
+  Quasi-Conditional Association Tests (QCAT) described in Tang Z.-Z. et al.(2017)
+  <doi:10.1093/bioinformatics/btw804> and Zero-Inflated Generalized Dirichlet Multinomial
+  (ZIGDM) tests described in Tang Z.-Z. & Chen G. (2017, submitted).
+date_publication: '2018-03-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=miLineage
+url_git: ''

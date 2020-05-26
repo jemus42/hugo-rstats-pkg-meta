@@ -1,0 +1,12 @@
+version: 0.2.1
+title: Class-Agnostic Time Series
+maintainer: Christoph Sax
+description: |-
+  Time series toolkit with identical behavior for all
+  time series classes: 'ts','xts', 'data.frame', 'data.table', 'tibble', 'zoo',
+  'timeSeries', 'tsibble', 'tis' or 'irts'. Also converts reliably between these classes.
+date_publication: '2020-04-29'
+bug_reports: https://github.com/christophsax/tsbox/issues
+url: https://www.tsbox.help
+url_cran: https://CRAN.R-project.org/package=tsbox
+url_git: ''

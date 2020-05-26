@@ -1,0 +1,15 @@
+version: 0.2.0
+title: |-
+  Bayesian Methods to Estimate the Proportion of Liars in Coin
+  Flip Experiments
+maintainer: David Hugh-Jones
+description: |-
+  Implements Bayesian methods, described in
+  Hugh-Jones (2019) <doi:10.1007/s40881-019-00069-x>, for estimating the
+  proportion of liars in coin flip-style experiments, where subjects
+  report a random outcome and are paid for reporting a "good" outcome.
+date_publication: '2019-08-26'
+bug_reports: https://github.com/hughjonesd/truelies/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=truelies
+url_git: https://github.com/hughjonesd/truelies

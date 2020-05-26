@@ -1,0 +1,14 @@
+version: '0.1'
+title: Conjoint Analysis through Averaging of Multiple Analyses
+maintainer: William Hughes
+description: |-
+  The package aids in creating a Conjoint Analysis design
+  with extra cards.  Unlike traditional "holdout" cards these
+  cards are used to create a set of "good" (balanced and low
+  correlation) designs. Each of these designs is analyzed and the
+  average calculated.
+date_publication: '2013-06-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MConjoint
+url_git: ''

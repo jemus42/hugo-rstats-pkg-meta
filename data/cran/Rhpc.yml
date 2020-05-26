@@ -1,0 +1,11 @@
+version: 0.19-276
+title: Permits *apply() Style Dispatch for 'HPC'
+maintainer: Ei-ji Nakama
+description: |-
+  Function of apply style using 'MPI' provides better 'HPC' environment on R.
+  And this package supports long vector, can deal with slightly big data.
+date_publication: '2019-10-03'
+bug_reports: ''
+url: https://prs.ism.ac.jp/~nakama/Rhpc/
+url_cran: https://CRAN.R-project.org/package=Rhpc
+url_git: ''

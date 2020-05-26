@@ -1,0 +1,10 @@
+version: '1.0'
+title: A wrapper around the Java machine learning tool MALLET
+maintainer: David Mimno
+description: This package allows you to train topic models in mallet and load results
+  directly into R.
+date_publication: '2013-08-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mallet
+url_git: ''

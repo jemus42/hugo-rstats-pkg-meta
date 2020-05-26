@@ -1,0 +1,10 @@
+version: '2.2'
+title: Case Influence in Structural Equation Models
+maintainer: Massimiliano Pastore
+description: A set of tools for evaluating several measures of case influence for
+  structural equation models.
+date_publication: '2018-04-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=influence.SEM
+url_git: ''

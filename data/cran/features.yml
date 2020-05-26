@@ -1,0 +1,15 @@
+version: 2015.12-1
+title: Feature Extraction for Discretely-Sampled Functional Data
+maintainer: Ravi Varadhan
+description: |-
+  Discretely-sampled function is first smoothed.  Features
+  of the smoothed function are then extracted.  Some of the key
+  features include mean value, first and second derivatives,
+  critical points (i.e. local maxima and minima), curvature of
+  cunction at critical points, wiggliness of the function, noise
+  in data, and outliers in data.
+date_publication: '2015-12-02'
+bug_reports: ''
+url: http://www.jhsph.edu/agingandhealth/People/Faculty_personal_pages/Varadhan.html
+url_cran: https://CRAN.R-project.org/package=features
+url_git: ''

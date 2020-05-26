@@ -1,0 +1,9 @@
+version: 0.5-3
+title: Cytometric diversity indices
+maintainer: Francois Ribalet
+description: Calculates ecological diversity indices for a microbial<U+000a>community
+date_publication: '2012-01-18'
+bug_reports: ''
+url: http://seaflow.ocean.washington.edu
+url_cran: https://CRAN.R-project.org/package=cytoDiv
+url_git: ''

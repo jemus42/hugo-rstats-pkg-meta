@@ -1,0 +1,11 @@
+version: 0.0.3
+title: Change R Package Name
+maintainer: Jouni Helske
+description: Changing the name of an existing R package is annoying but common task
+  especially in the early stages of package development. This package (mostly) automates
+  this task.
+date_publication: '2018-10-21'
+bug_reports: https://github.com/helske/changer/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=changer
+url_git: https://github.com/helske/changer

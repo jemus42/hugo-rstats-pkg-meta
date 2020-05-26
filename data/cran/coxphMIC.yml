@@ -1,0 +1,20 @@
+version: 0.1.0
+title: |-
+  Sparse Estimation of Cox Proportional Hazards Models via
+  Approximated Information Criterion
+maintainer: Xiaogang Su
+description: |-
+  Sparse estimation for Cox PH models is done via
+  Minimum approximated Information Criterion (MIC) by Su, Wijayasinghe,
+  Fan, and Zhang (2016) <DOI:10.1111/biom.12484>. MIC mimics the best
+  subset selection using a penalized likelihood approach yet with no need
+  of a tuning parameter. The problem is further reformulated with a
+  re-parameterization step so that it reduces to one unconstrained non-convex
+  yet smooth programming problem, which can be solved efficiently. Furthermore,
+  the re-parameterization tactic yields an additional advantage in terms of
+  circumventing post-selection inference.
+date_publication: '2017-04-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=coxphMIC
+url_git: ''

@@ -1,0 +1,11 @@
+version: 0.3.2
+title: Bespoke Images of 'OpenStreetMap' Data
+maintainer: Mark Padgham
+description: |-
+  Bespoke images of 'OpenStreetMap' ('OSM') data and data
+  visualisation using 'OSM' objects.
+date_publication: '2018-12-19'
+bug_reports: https://github.com/ropensci/osmplotr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=osmplotr
+url_git: https://github.com/ropensci/osmplotr

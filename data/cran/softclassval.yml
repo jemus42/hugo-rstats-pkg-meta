@@ -1,0 +1,12 @@
+version: 1.0-20160527
+title: Soft Classification Performance Measures
+maintainer: C. Beleites
+description: |-
+  An extension of sensitivity, specificity, positive and negative
+  predictive value to continuous predicted and reference memberships in
+  [0, 1].
+date_publication: '2016-05-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=softclassval
+url_git: http://softclassval.r-forge.r-project.org/

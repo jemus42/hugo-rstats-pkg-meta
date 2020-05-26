@@ -1,0 +1,14 @@
+version: 2.8.1
+title: |-
+  Wrapper Functions for 'SPM' (Statistical Parametric Mapping)
+  Version 12 from the 'Wellcome' Trust Centre for 'Neuroimaging'
+maintainer: John Muschelli
+description: |-
+  Installs 'SPM12' to the R library directory and has
+  associated functions for 'fMRI' and general imaging utilities,
+  called through 'MATLAB'.
+date_publication: '2019-01-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=spm12r
+url_git: ''

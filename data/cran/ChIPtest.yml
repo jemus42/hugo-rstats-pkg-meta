@@ -1,0 +1,14 @@
+version: '1.0'
+title: |-
+  Nonparametric Methods for Identifying Differential Enrichment
+  Regions with ChIP-Seq Data
+maintainer: Vicky Qian Wu
+description: 'Nonparametric Tests to identify the differential enrichment region for
+  two conditions or time-course ChIP-seq data. It includes: data preprocessing function,
+  estimation of a small constant used in hypothesis testing, a kernel-based two sample
+  nonparametric test, two assumption-free  two sample nonparametric test.'
+date_publication: '2016-07-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ChIPtest
+url_git: ''

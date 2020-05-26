@@ -1,0 +1,11 @@
+version: 0.1.9
+title: Functions for Thermal Comfort Research
+maintainer: Marcel Schweiker
+description: Functions to calculate various common and less common thermal comfort
+  indices, convert physical variables, and evaluate the performance of thermal comfort
+  indices.
+date_publication: '2019-04-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=comf
+url_git: ''

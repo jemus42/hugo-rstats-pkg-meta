@@ -1,0 +1,13 @@
+version: 1.2.6
+title: A Collection of Handy, Useful Functions
+maintainer: Jared P. Lander
+description: |-
+  A set of little functions that have been found useful to do little
+  odds and ends such as plotting the results of K-means clustering, substituting
+  special text characters, viewing parts of a data.frame, constructing formulas
+  from text and building design and response matrices.
+date_publication: '2018-10-08'
+bug_reports: https://github.com/jaredlander/useful/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=useful
+url_git: https://github.com/jaredlander/useful

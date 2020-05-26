@@ -1,0 +1,11 @@
+version: '1.0'
+title: One and two locus GWAS of binary phenotype with<U+000a>case-control-population
+  design
+maintainer: Shachar Kaufman
+description: Tests of association between SNPs or pairs of SNPs and binary phenotypes,
+  in case-control / case-population / case-control-population studies.
+date_publication: '2014-03-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CCpop
+url_git: ''

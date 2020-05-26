@@ -1,0 +1,12 @@
+version: 1.0.1
+title: |-
+  Power Analysis Tool for Joint Testing Hazards with Competing
+  Risks Data
+maintainer: Eric Kawaguchi
+description: A power analysis tool for jointly testing the cause-1 cause-specific
+  hazard and the any-cause hazard with competing risks data.
+date_publication: '2018-06-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=powerCompRisk
+url_git: ''

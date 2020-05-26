@@ -1,0 +1,12 @@
+version: 0.1.3
+title: Interface to 'Tushare Pro' API
+maintainer: Feifei ZHANG<tushare_pro@163.com>
+description: |-
+  Helps the R users to get data from 'Tushare Pro'<https://tushare.pro>.
+  'Tushare Pro' is a platform as well as a community with a lot of staffs working in financial area.
+  We support financial data such as stock price, financial report statements and digital coins data.
+date_publication: '2019-08-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Tushare
+url_git: ''

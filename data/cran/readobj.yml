@@ -1,0 +1,14 @@
+version: 0.3.2
+title: Fast Reader for 'Wavefront' OBJ 3D Scene Files
+maintainer: Gregory Jefferis
+description: |-
+  Wraps 'tiny_obj_loader' C++ library for reading the 'Wavefront' OBJ
+  3D file format including both mesh objects and materials files. The
+  resultant R objects are either structured to match the 'tiny_obj_loader'
+  internal data representation or in a form directly compatible with the 'rgl'
+  package.
+date_publication: '2019-03-11'
+bug_reports: https://github.com/jefferis/readobj/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=readobj
+url_git: https://github.com/jefferis/readobj

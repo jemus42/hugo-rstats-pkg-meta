@@ -1,0 +1,12 @@
+version: 4.1.0
+title: Mixture Models with Heterogeneous and (Partially) Missing Data
+maintainer: Quentin Grimonprez
+description: |-
+  Mixture Composer <https://github.com/modal-inria/MixtComp> is a project to build mixture models with
+  heterogeneous data sets and partially missing data management.
+  It includes 8 models for real, categorical, counting, functional and ranking data.
+date_publication: '2020-01-07'
+bug_reports: https://github.com/modal-inria/MixtComp/issues
+url: https://massiccc.lille.inria.fr/
+url_cran: https://CRAN.R-project.org/package=RMixtComp
+url_git: https://github.com/modal-inria/MixtComp

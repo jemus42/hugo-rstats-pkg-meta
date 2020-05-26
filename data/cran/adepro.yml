@@ -1,0 +1,14 @@
+version: 3.0.0
+title: |-
+  A 'shiny' Application for the (Audio-)Visualization of Adverse
+  Event Profiles
+maintainer: Nicole Mentenich
+description: Contains a 'shiny' application called AdEPro (Animation of Adverse Event
+  Profiles) which (audio-)visualizes adverse events occurring in clinical trials.
+  As this data is usually considered sensitive, this tool is provided as a stand-alone
+  application that can be launched from any local machine on which the data is stored.
+date_publication: '2020-03-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=adepro
+url_git: ''

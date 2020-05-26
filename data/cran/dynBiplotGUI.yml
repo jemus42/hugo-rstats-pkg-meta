@@ -1,0 +1,11 @@
+version: 1.1.5
+title: Full Interactive GUI for Dynamic Biplot in R
+maintainer: Jaime Egido
+description: |-
+  A GUI to solve dynamic biplots and classical biplot. Try matrices
+  of 2-way and 3-way. The GUI can be run in multiple languages.
+date_publication: '2017-02-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dynBiplotGUI
+url_git: ''

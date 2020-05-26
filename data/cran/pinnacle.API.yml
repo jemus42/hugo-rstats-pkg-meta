@@ -1,0 +1,14 @@
+version: 2.3.3
+title: A Wrapper for the Pinnacle API
+maintainer: Marco Blume
+description: An interface to the API by Pinnacle that allows Pinnacle customers to
+  interact with the sports market data in R.See <https://www.pinnacle.com/en/api>
+  for more information. The Pinnacle API can be used to place wagers, retrieve line
+  information, retrieve account information.Please be aware that the TOC of Pinnacle
+  apply <https://www.pinnacle.com/en/termsandconditions>. An account with Pinnacle
+  is necessary to use the Pinnacle API.
+date_publication: '2018-02-02'
+bug_reports: https://github.com/marcoblume/pinnacle.API/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=pinnacle.API
+url_git: https://github.com/marcoblume/pinnacle.API#README

@@ -1,0 +1,11 @@
+version: 0.1.5
+title: Nonlinear Cointegrating Autoregressive Distributed Lag Model
+maintainer: Taha Zaghdoudi
+description: Computes the nonlinear cointegrating autoregressive distributed lag model
+  with p lags of the dependent variables and q lags of independent variables proposed
+  by (Shin, Yu & Greenwood-Nimmo, 2014 <doi:10.1007/978-1-4899-8008-3_9>).
+date_publication: '2018-05-07'
+bug_reports: https://github.com/zedtaha/nardl/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=nardl
+url_git: https://github.com/zedtaha/nardl

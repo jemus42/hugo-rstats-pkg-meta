@@ -1,0 +1,11 @@
+version: 0.2.4
+title: Search and Extract Data from the OECD
+maintainer: Eric Persson
+description: |-
+  Search and extract data from the Organization for Economic
+  Cooperation and Development (OECD).
+date_publication: '2019-10-15'
+bug_reports: https://www.github.com/expersso/OECD/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=OECD
+url_git: https://www.github.com/expersso/OECD

@@ -1,0 +1,13 @@
+version: 0.0.11
+title: Create Interactive Network Visualizations in R and 'shiny'
+maintainer: Jinhwan Kim
+description: |-
+  Create Interactive Graph (Network) Visualizations.
+  'shinyCyJS' can be used in 'Shiny' apps or viewed from 'Rstudio' Viewer.
+  'shinyCyJS' includes API to build Graph model like node or edge with customized attributes for R.
+  'shinyCyJS' is built with 'cytoscape.js' and 'htmlwidgets' R package.
+date_publication: '2020-03-26'
+bug_reports: https://github.com/jhk0530/shinyCyJS/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinyCyJS
+url_git: https://github.com/jhk0530/shinyCyJS

@@ -1,0 +1,10 @@
+version: 1.0.7
+title: Data Management and Analysis of Tests
+maintainer: Jesse Koops
+description: A system for the management, assessment, and psychometric analysis of
+  data from educational and psychological tests.
+date_publication: '2020-04-02'
+bug_reports: https://github.com/jessekps/dexter/issues
+url: http://dexterities.netlify.com
+url_cran: https://CRAN.R-project.org/package=dexter
+url_git: ''

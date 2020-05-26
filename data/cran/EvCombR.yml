@@ -1,0 +1,9 @@
+version: 0.1-2
+title: Evidence Combination in R
+maintainer: Alexander Karlsson
+description: Package for combining pieces of evidence
+date_publication: '2014-04-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EvCombR
+url_git: ''

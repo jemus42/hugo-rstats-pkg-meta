@@ -1,0 +1,18 @@
+version: 1.1.1
+title: |-
+  A Modular, Integrated Approach to Maximum Entropy Distribution
+  Modeling
+maintainer: Julien Vollering
+description: |-
+  Tools for training, selecting, and evaluating maximum entropy
+  (and standard logistic regression) distribution models. This package
+  provides tools for user-controlled transformation of explanatory variables,
+  selection of variables by nested model comparison, and flexible model
+  evaluation and projection. It follows principles based on the maximum-
+  likelihood interpretation of maximum entropy modeling, and uses infinitely-
+  weighted logistic regression for model fitting.
+date_publication: '2020-04-14'
+bug_reports: https://github.com/julienvollering/MIAmaxent/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=MIAmaxent
+url_git: https://github.com/julienvollering/MIAmaxent

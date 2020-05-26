@@ -1,0 +1,9 @@
+version: 0.1.3
+title: '''Java'' Data Exchange for ''R'' and ''rJava'''
+maintainer: Floid R. Gilbert
+description: Simplifies and extends data exchange between 'R' and 'Java'.
+date_publication: '2018-03-29'
+bug_reports: https://github.com/floidgilbert/jdx/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=jdx
+url_git: https://github.com/floidgilbert/jdx

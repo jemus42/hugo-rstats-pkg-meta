@@ -1,0 +1,10 @@
+version: 1.0-7
+title: Holiday and Half-Day Data, for Use with the 'TimeWarp' Package
+maintainer: Tony Plate
+description: Contains trading holiday and half-day data that is automatically registered
+  when loaded.
+date_publication: '2016-07-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Holidays
+url_git: ''

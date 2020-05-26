@@ -1,0 +1,12 @@
+version: 1.4.6
+title: Linear Time Series Analysis
+maintainer: A.I. McLeod
+description: |-
+  Methods of developing linear time series modelling.
+  Methods are given for loglikelihood computation, forecasting
+  and simulation.
+date_publication: '2015-12-21'
+bug_reports: ''
+url: http://www.stats.uwo.ca/faculty/aim
+url_cran: https://CRAN.R-project.org/package=ltsa
+url_git: ''

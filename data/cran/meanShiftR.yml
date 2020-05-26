@@ -1,0 +1,12 @@
+version: '0.53'
+title: A Computationally Efficient Mean Shift Implementation
+maintainer: Jonathan Lisic
+description: |-
+  Performs mean shift classification using linear and
+  k-d tree based nearest neighbor implementations for the Gaussian,
+  Epanechnikov, and biweight product kernels.
+date_publication: '2018-12-03'
+bug_reports: https://github.com/jlisic/meanShiftR/issues
+url: http://meanmean.me/meanshift/r/cran/2016/08/28/meanShiftR.html
+url_cran: https://CRAN.R-project.org/package=meanShiftR
+url_git: ''

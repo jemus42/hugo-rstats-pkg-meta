@@ -1,0 +1,10 @@
+version: 1.4.1
+title: Some Multiple Testing Procedures
+maintainer: livio finos
+description: It's a collection of functions for Multiplicity Correction and Multiple
+  Testing.
+date_publication: '2013-11-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=someMTP
+url_git: ''

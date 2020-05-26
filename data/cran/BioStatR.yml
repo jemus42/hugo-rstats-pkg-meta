@@ -1,0 +1,10 @@
+version: 3.0.0
+title: Initiation à La Statistique Avec R
+maintainer: Frederic Bertrand
+description: Datasets and functions for the book "Initiation à la Statistique avec
+  R", Dunod, 3eme edition, 2018.
+date_publication: '2019-01-26'
+bug_reports: ''
+url: http://www-irma.u-strasbg.fr/~fbertran/
+url_cran: https://CRAN.R-project.org/package=BioStatR
+url_git: ''

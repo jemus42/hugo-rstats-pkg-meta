@@ -1,0 +1,14 @@
+version: 0.13.3
+title: |-
+  Bayesian Nonparametrics for Automatic Gating of Flow-Cytometry
+  Data
+maintainer: Boris P Hejblum
+description: |-
+  Dirichlet process mixture of multivariate normal, skew normal or skew t-distributions
+  modeling oriented towards flow-cytometry data preprocessing applications. Method is
+  detailed in: Hejblum, Alkhassimn, Gottardo, Caron & Thiebaut (2019) <doi: 10.1214/18-AOAS1209>.
+date_publication: '2020-02-06'
+bug_reports: https://github.com/borishejblum/NPflow/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=NPflow
+url_git: ''

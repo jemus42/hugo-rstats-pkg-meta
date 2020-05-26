@@ -1,0 +1,11 @@
+version: 0.5.1
+title: Add a Scale Bar to 'OpenStreetMap' Plots
+maintainer: Berry Boessenkool
+description: |-
+  Functionality to handle and project lat-long coordinates, easily download background maps
+  and add a correct scale bar to 'OpenStreetMap' plots in any map projection.
+date_publication: '2017-04-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OSMscale
+url_git: https://github.com/brry/OSMscale

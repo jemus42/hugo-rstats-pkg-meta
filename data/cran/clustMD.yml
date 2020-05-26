@@ -1,0 +1,12 @@
+version: 1.2.1
+title: Model Based Clustering for Mixed Data
+maintainer: Damien McParland
+description: |-
+  Model-based clustering of mixed data (i.e. data which consist of
+  continuous, binary, ordinal or nominal variables) using a parsimonious
+  mixture of latent Gaussian variable models.
+date_publication: '2017-05-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=clustMD
+url_git: ''

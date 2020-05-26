@@ -1,0 +1,12 @@
+version: 0.3.2
+title: Performs a BLP Demand Estimation
+maintainer: Daniel Brunner
+description: Provides the estimation algorithm to perform the demand estimation described
+  in Berry, Levinsohn and Pakes (1995) <DOI:10.2307/2171802> . The routine uses analytic
+  gradients and offers a large number of implemented integration methods and optimization
+  routines.
+date_publication: '2019-12-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BLPestimatoR
+url_git: ''

@@ -1,0 +1,17 @@
+version: '1.1'
+title: |-
+  loop decomposition of weighted directed graphs for life cycle
+  analysis, providing flexbile network plotting methods, and
+  analyzing food chain properties in ecology
+maintainer: Youhua Chen
+description: |-
+  The program can perform loop analysis and plot network
+  structure (especially for food webs),including minimum spanning
+  tree, loop decomposition of weighted directed graphs, and other
+  network properties which may be related to food chain
+  properties in ecology.
+date_publication: '2012-10-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=loop
+url_git: ''

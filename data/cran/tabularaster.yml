@@ -1,0 +1,16 @@
+version: 0.6.0
+title: Tidy Tools for 'Raster' Data
+maintainer: Michael D. Sumner
+description: |-
+  Facilities to work with vector and raster data in efficient
+  repeatable and systematic work flow. Missing functionality in existing packages
+  is included here to allow extraction from raster data with 'simple features' and
+  'Spatial' types and to make extraction consistent and straightforward. Extract cell
+  numbers from raster data and  return the cells as a data frame
+  rather than as lists of matrices or vectors. The functions here allow spatial data
+  to be used without special handling for the format currently in use.
+date_publication: '2020-04-10'
+bug_reports: https://github.com/hypertidy/tabularaster/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tabularaster
+url_git: https://github.com/hypertidy/tabularaster

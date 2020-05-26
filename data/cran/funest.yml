@@ -1,0 +1,11 @@
+version: 0.0.1.3
+title: Functional Ensemble Survival Tree for Dynamic Prediction
+maintainer: Yijun Xie
+description: |2-
+
+  A fast implementation of functional ensemble survival tree is provided to facilitate dynamic prediction with right-censored data. Multiple time-varying covariates can be accommodated via multivariate principal component analysis. These extracted features along with baseline covariates are nested within the ensemble survival tree where dynamic prediction can be done under user-specified sliding windows. Prediction accuracy measures, Area under the receiver operating characteristic (ROC) curve and Brier score, are provided in this package.
+date_publication: '2020-03-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=funest
+url_git: ''

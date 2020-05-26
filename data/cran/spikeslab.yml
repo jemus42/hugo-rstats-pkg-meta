@@ -1,0 +1,10 @@
+version: 1.1.5
+title: Prediction and variable selection using spike and slab<U+000a>regression
+maintainer: Udaya B. Kogalur
+description: Spike and slab for prediction and variable selection in<U+000a>linear
+  regression models. Uses a generalized elastic net for<U+000a>variable selection.
+date_publication: '2013-04-18'
+bug_reports: ''
+url: http://web.ccs.miami.edu/~hishwaranhttp://www.kogalur.com
+url_cran: https://CRAN.R-project.org/package=spikeslab
+url_git: ''

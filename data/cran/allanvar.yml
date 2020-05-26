@@ -1,0 +1,12 @@
+version: '1.1'
+title: Allan Variance Analysis
+maintainer: Javier Hidalgo Carrio
+description: |-
+  A collection of tools for stochastic sensor error
+  characterization using the Allan Variance technique originally
+  developed by D. Allan.
+date_publication: '2015-07-08'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=allanvar
+url_git: ''

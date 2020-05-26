@@ -1,0 +1,13 @@
+version: 0.6.7
+title: List Comprehensions
+maintainer: Gregory Demin
+description: |-
+  Provides 'Python'-style list comprehensions.
+  List comprehension expressions use usual loops (for(), while() and repeat()) and
+  usual if() as list producers. In many cases it gives more concise notation than
+  standard "*apply + filter" strategy.
+date_publication: '2019-06-17'
+bug_reports: https://github.com/gdemin/comprehenr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=comprehenr
+url_git: https://github.com/gdemin/comprehenr

@@ -1,0 +1,12 @@
+version: 0.1.2
+title: |-
+  Identification of Conditionally Essential Genes in Transposon
+  Sequencing Studies
+maintainer: Lili Zhao
+description: Identification of conditionally essential genes using high-throughput
+  sequencing data from transposon mutant libraries.
+date_publication: '2017-04-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Tnseq
+url_git: ''

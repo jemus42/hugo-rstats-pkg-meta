@@ -1,0 +1,13 @@
+version: '0.1'
+title: Forecasting Data using Alpha-Sutte Indicator
+maintainer: Ansari Saleh Ahmar
+description: The alpha-Sutte indicator (alpha-Sutte) was originally from developed
+  of Sutte indicator. Sutte indicator can using to predict the movement of stocks.
+  As the development of science, then Sutte indicator developed to predict not only
+  the movement of stocks but also can forecast data on financial, insurance, and others
+  time series data. Ahmar, A.S. (2017) <doi:10.17605/osf.io/rknsv>.
+date_publication: '2017-09-11'
+bug_reports: ''
+url: http://www.ansarisaleh.web.id
+url_cran: https://CRAN.R-project.org/package=sutteForecastR
+url_git: ''

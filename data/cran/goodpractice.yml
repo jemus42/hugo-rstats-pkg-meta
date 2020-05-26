@@ -1,0 +1,12 @@
+version: 1.0.2
+title: Advice on R Package Building
+maintainer: Hannah Frick
+description: |-
+  Give advice about good practices when building R packages.
+  Advice includes functions and syntax to avoid, package structure,
+  code complexity, code formatting, etc.
+date_publication: '2018-05-02'
+bug_reports: https://github.com/mangothecat/goodpractice/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=goodpractice
+url_git: https://github.com/mangothecat/goodpractice

@@ -1,0 +1,11 @@
+version: 0.5.1
+title: Multivariate Distance Matrix Regression
+maintainer: Daniel B. McArtor
+description: Allows users to conduct multivariate distance matrix regression using
+  analytic p-values and compute measures of effect size. For details on the method,
+  see McArtor, Lubke, & Bergeman (2017) <doi:10.1007/s11336-016-9527-8>.
+date_publication: '2018-02-14'
+bug_reports: http://github.com/dmcartor/mdmr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=MDMR
+url_git: http://github.com/dmcartor/mdmr

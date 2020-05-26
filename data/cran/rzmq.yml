@@ -1,0 +1,10 @@
+version: 0.9.7
+title: R Bindings for 'ZeroMQ'
+maintainer: Jeroen Ooms
+description: Interface to the 'ZeroMQ' lightweight messaging kernel (see <http://www.zeromq.org/>
+  for more information).
+date_publication: '2020-01-31'
+bug_reports: http://github.com/ropensci/rzmq/issues
+url: https://docs.ropensci.org/rzmq
+url_cran: https://CRAN.R-project.org/package=rzmq
+url_git: http://github.com/ropensci/rzmq#readme(devel)http://www.zeromq.org(upstream)

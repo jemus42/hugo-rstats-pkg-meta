@@ -1,0 +1,9 @@
+version: 0.0-5
+title: Print Function Signatures
+maintainer: Richard Cotton
+description: Print function signatures and find overly complicated code.
+date_publication: '2015-01-22'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sig
+url_git: ''

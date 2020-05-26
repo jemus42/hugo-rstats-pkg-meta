@@ -1,0 +1,10 @@
+version: '1.5'
+title: Construction and Evaluation of Metamodels
+maintainer: C. Helbert
+description: 'Estimation, validation and prediction of models of different types :
+  linear models, additive models, MARS,PolyMARS and Kriging.'
+date_publication: '2020-05-05'
+bug_reports: ''
+url: http://dice.emse.fr/
+url_cran: https://CRAN.R-project.org/package=DiceEval
+url_git: ''

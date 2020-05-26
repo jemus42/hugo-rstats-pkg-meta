@@ -1,0 +1,15 @@
+version: 0.7.0
+title: Interface to the 'g:Profiler' Toolkit
+maintainer: Ivan Kuzmin
+description: |-
+  This package has been deprecated and will not be updated.
+  New users should use the package 'gprofiler2' (<https://CRAN.R-project.org/package=gprofiler2>)
+  for up-to-date data and improved functionality.
+  Functional enrichment analysis, gene identifier conversion and
+  mapping homologous genes across related organisms via the 'g:Profiler' toolkit
+  (<https://biit.cs.ut.ee/gprofiler/>).
+date_publication: '2019-11-04'
+bug_reports: http://biit.cs.ut.ee/gprofiler/contact.cgi
+url: ''
+url_cran: https://CRAN.R-project.org/package=gProfileR
+url_git: ''

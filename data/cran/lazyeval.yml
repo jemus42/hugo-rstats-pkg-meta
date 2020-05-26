@@ -1,0 +1,12 @@
+version: 0.2.2
+title: Lazy (Non-Standard) Evaluation
+maintainer: Hadley Wickham
+description: |-
+  An alternative approach to non-standard evaluation using
+  formulas. Provides a full implementation of LISP style 'quasiquotation',
+  making it easier to generate code with other code.
+date_publication: '2019-03-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=lazyeval
+url_git: ''

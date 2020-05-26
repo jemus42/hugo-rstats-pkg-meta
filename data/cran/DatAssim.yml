@@ -1,0 +1,12 @@
+version: '1.0'
+title: Data Assimilation
+maintainer: Svetlana Saarela
+description: For estimation of a variable of interest using Kalman filter by incorporating
+  results from previous assessments, i.e. through development weighted estimates where
+  weights are assigned inversely proportional to the variance of existing and new
+  estimates. For reference see Ehlers et al. (2017) <doi:10.20944/preprints201710.0098.v1>.
+date_publication: '2017-11-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DatAssim
+url_git: ''

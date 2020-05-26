@@ -1,0 +1,16 @@
+version: 1.2.4
+title: |-
+  Bayesian Nonparametric Model for Clustering with Mixed Scale
+  Variables
+maintainer: Christian Carmona
+description: Bayesian nonparametric approach for clustering that is capable to combine
+  different types of variables (continuous, ordinal and nominal) and also accommodates
+  for different sampling probabilities in a complex survey design. The model is based
+  on a location mixture model with a Poisson-Dirichlet process prior on the location
+  parameters of the associated latent variables. The package performs the clustering
+  model described in Carmona, C., Nieto-Barajas, L. E., Canale, A. (2016) <arXiv:1612.00083>.
+date_publication: '2017-09-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BNPMIXcluster
+url_git: ''

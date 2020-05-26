@@ -1,0 +1,12 @@
+version: 0.1.0
+title: A Tool to Ensure the Validity of Database Writes
+maintainer: Hari Mohanraj
+description: |-
+  A tool to ensure the validity of database writes.
+  It provides a set of utilities to analyze and type check the properties
+  of data frames that are to be written to databases with SQL support.
+date_publication: '2016-10-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dbfaker
+url_git: ''

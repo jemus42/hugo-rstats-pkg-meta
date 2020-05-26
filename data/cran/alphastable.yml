@@ -1,0 +1,11 @@
+version: 0.2.1
+title: Inference for Stable Distribution
+maintainer: Mahdi Teimouri
+description: |-
+  Developed to perform the tasks given by the following. 1-computing the probability density function and distribution function of a univariate stable distribution; 2- generating from univariate stable, truncated stable, multivariate elliptically contoured stable, and bivariate strictly stable distributions; 3- estimating the parameters of univariate symmetric stable, skew stable, Cauchy, multivariate elliptically contoured stable, and multivariate strictly stable distributions; 4- estimating
+  the parameters of the mixture of symmetric stable and mixture of Cauchy distributions.
+date_publication: '2019-09-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=alphastable
+url_git: ''

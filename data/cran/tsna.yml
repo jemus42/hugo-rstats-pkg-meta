@@ -1,0 +1,11 @@
+version: 0.3.1
+title: Tools for Temporal Social Network Analysis
+maintainer: Skye Bender-deMoll
+description: Temporal SNA tools for continuous- and discrete-time longitudinal networks
+  having vertex, edge, and attribute dynamics stored in the 'networkDynamic' format.
+  This work was supported by grant R01HD68395 from the National Institute of Health.
+date_publication: '2020-01-20'
+bug_reports: ''
+url: http://statnet.org
+url_cran: https://CRAN.R-project.org/package=tsna
+url_git: ''

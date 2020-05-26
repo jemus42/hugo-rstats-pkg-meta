@@ -1,0 +1,16 @@
+version: 1.0.10
+title: Citations for 'Knitr' Markdown Files
+maintainer: Carl Boettiger
+description: |-
+  Provides the ability to create dynamic citations
+  in which the bibliographic information is pulled from the web rather
+  than having to be entered into a local database such as 'bibtex' ahead of
+  time. The package is primarily aimed at authoring in the R 'markdown'
+  format, and can provide outputs for web-based authoring such as linked
+  text for inline citations.  Cite using a 'DOI', URL, or
+  'bibtex' file key.  See the package URL for details.
+date_publication: '2019-09-15'
+bug_reports: https://github.com/cboettig/knitcitations/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=knitcitations
+url_git: https://github.com/cboettig/knitcitations

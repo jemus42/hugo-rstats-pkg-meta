@@ -1,0 +1,14 @@
+version: 0.1.1
+title: Supervised NMF
+maintainer: Yun Cai
+description: Non-negative Matrix Factorization(NMF) is a powerful tool for identifying
+  the key features of microbial communities and a dimension-reduction method. When
+  we are interested in the differences between the structures of two groups of communities,
+  supervised NMF(Yun Cai, Hong Gu and Tobby Kenney (2017),<doi:10.1186/s40168-017-0323-1>)
+  provides a better way to do this, while retaining all the advantages of NMF -- such
+  as interpretability, and being based on a simple biological intuition.
+date_publication: '2018-10-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SpNMF
+url_git: ''

@@ -1,0 +1,17 @@
+version: 0.2-1
+title: |-
+  Calculate efficiencies of group testing algorithms with
+  correlated responses
+maintainer: Sam Lendle
+description: |-
+  This package provides functions to calculate the
+  efficiencies (expected tests per unit) of hierarchical and
+  matrix group testing procedures.  Efficiencies can be
+  calculated in the presense of correlated responses under
+  multiple arrangements of clustesrs.  Efficiencies can also be
+  evaluated in the presense of test error.
+date_publication: '2011-05-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=gtcorr
+url_git: ''

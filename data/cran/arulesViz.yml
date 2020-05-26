@@ -1,0 +1,11 @@
+version: 1.3-3
+title: Visualizing Association Rules and Frequent Itemsets
+maintainer: Michael Hahsler
+description: Extends package 'arules' with various visualization techniques for association
+  rules and itemsets. The package also includes several interactive visualizations
+  for rule exploration.
+date_publication: '2019-05-20'
+bug_reports: https://github.com/mhahsler/arulesViz/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=arulesViz
+url_git: https://github.com/mhahsler/arulesViz

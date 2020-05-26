@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Detect Data Containing Personally Identifiable Information
+maintainer: Paul Hendricks
+description: |-
+  Allows users to quickly and easily detect data containing
+  Personally Identifiable Information (PII) through convenience functions.
+date_publication: '2015-08-28'
+bug_reports: https://github.com/paulhendricks/detector/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=detector
+url_git: https://github.com/paulhendricks/detector

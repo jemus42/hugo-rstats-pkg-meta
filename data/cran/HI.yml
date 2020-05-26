@@ -1,0 +1,13 @@
+version: '0.4'
+title: Simulation from distributions supported by nested hyperplanes
+maintainer: Giovanni Petris
+description: Simulation from distributions supported by nested<U+000a>hyperplanes,
+  using the algorithm described in Petris &<U+000a>Tardella, "A geometric approach
+  to transdimensional Markov<U+000a>chain Monte Carlo", Canadian Journal of Statistics,
+  v.31, n.4,<U+000a>(2003).  Also random direction multivariate Adaptive Rejection<U+000a>Metropolis
+  Sampling.
+date_publication: '2013-03-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HI
+url_git: ''

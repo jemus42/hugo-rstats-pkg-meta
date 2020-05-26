@@ -1,0 +1,16 @@
+version: 0.0.10
+title: |-
+  Parallel Implementation of 'ETERNA 3.40' for Prediction and
+  Analysis of Earth Tides
+maintainer: Jonathan Kennel
+description: |-
+  This is a port of 'Fortran ETERNA 3.4'
+  <http://igets.u-strasbg.fr/soft_and_tool.php> by H.G. Wenzel
+  for calculating synthetic Earth tides using the
+  Hartmann and Wenzel (1994) <doi:10.1029/95GL03324> or
+  Kudryavtsev (2004) <doi:10.1007/s00190-003-0361-2> tidal catalogs.
+date_publication: '2020-03-13'
+bug_reports: https://github.com/jkennel/earthtide/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=earthtide
+url_git: https://github.com/jkennel/earthtide

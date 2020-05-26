@@ -1,0 +1,11 @@
+version: 3.1.1
+title: A package performing Dynamic Bayesian Network inference.
+maintainer: Sophie Lebre
+description: |-
+  G1DBN performs DBN inference using 1st order conditional
+  dependencies.
+date_publication: '2013-09-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=G1DBN
+url_git: ''

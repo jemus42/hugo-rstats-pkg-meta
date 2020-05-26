@@ -1,0 +1,10 @@
+version: 1.1-2
+title: Graphical Presentation of Simple Contrasts
+maintainer: Dave Armstrong
+description: Methods to calculate, print, summarize and plot pairwise differences
+  from GLMs, GLHT or Multinomial Logit models.
+date_publication: '2016-06-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=factorplot
+url_git: ''

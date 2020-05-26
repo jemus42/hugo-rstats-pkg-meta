@@ -1,0 +1,15 @@
+version: 0.5.3
+title: |-
+  Build Machine Learning Models Like Using Python's Scikit-Learn
+  Library in R
+maintainer: Manish Saraswat
+description: |-
+  The idea is to provide a standard interface
+  to users who use both R and Python for building machine learning models.
+  This package provides a scikit-learn's fit, predict interface to
+  train machine learning models in R.
+date_publication: '2020-04-28'
+bug_reports: https://github.com/saraswatmks/superml/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=superml
+url_git: https://github.com/saraswatmks/superml

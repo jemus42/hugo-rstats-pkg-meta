@@ -1,0 +1,12 @@
+version: 0.9-28-1
+title: Support for Metrological Applications
+maintainer: Stephen L R Ellison
+description: |-
+  Provides classes and calculation and plotting functions
+  for metrology applications, including measurement uncertainty estimation
+  and inter-laboratory metrology comparison studies.
+date_publication: '2018-09-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=metRology
+url_git: https://r-forge.r-project.org/projects/metrology/

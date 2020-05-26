@@ -1,0 +1,12 @@
+version: 0.1.3
+title: Reproducible Research Tools
+maintainer: Brian Fannin
+description: |-
+  Reproducible research tools automates the creation of an analysis directory structure and work flow. There are R markdown
+  skeletons which encapsulate typical analytic work flow steps. Functions will create appropriate modules which may
+  pass data from one step to another.
+date_publication: '2019-10-03'
+bug_reports: https://github.com/PirateGrunt/represtools/issues
+url: https://pirategrunt.com/represtools/
+url_cran: https://CRAN.R-project.org/package=represtools
+url_git: ''

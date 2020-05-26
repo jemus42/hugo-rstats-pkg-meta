@@ -1,0 +1,14 @@
+version: 0.0.4
+title: |-
+  Assisted Model Building, using Surrogate Black-Box Models to
+  Train Interpretable Spline Based Additive Models
+maintainer: Krystian Igras
+description: |-
+  Builds generalized linear model with automatic data transformation.
+  The 'xspliner' helps to build simple, interpretable models that inherits informations provided by more complicated ones.
+  The resulting model may be treated as explanation of provided black box, that was supplied prior to the algorithm.
+date_publication: '2019-09-25'
+bug_reports: https://github.com/ModelOriented/xspliner/issues
+url: https://ModelOriented.github.io/xspliner/
+url_cran: https://CRAN.R-project.org/package=xspliner
+url_git: ''

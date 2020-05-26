@@ -1,0 +1,15 @@
+version: 1.0.3
+title: Bivariate Probit with Partial Observability
+maintainer: Michael Guggisberg
+description: |-
+  A suite of functions to estimate, summarize
+  and perform predictions with the bivariate probit subject to partial observability.
+  The frequentist and Bayesian probabilistic philosophies are both supported. The
+  frequentist method is estimated with maximum likelihood and the Bayesian method is
+  estimated with a Markov Chain Monte Carlo (MCMC) algorithm developed by
+  Rajbanhdari, A (2014) <doi:10.1002/9781118771051.ch13>.
+date_publication: '2019-01-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BiProbitPartial
+url_git: ''

@@ -1,0 +1,11 @@
+version: '1.2'
+title: Detecting Correlated Genomic Regions
+maintainer: Eleni Ioanna Delatola
+description: |-
+  Performs correlation matrix segmentation and applies a test
+  procedure to detect highly correlated regions in gene expression.
+date_publication: '2017-12-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SegCorr
+url_git: ''

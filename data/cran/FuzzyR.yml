@@ -1,0 +1,14 @@
+version: '2.3'
+title: Fuzzy Logic Toolkit for R
+maintainer: Chao Chen
+description: |-
+  Design and simulate fuzzy logic systems using Type-1 and Interval Type-2 Fuzzy Logic.
+  This toolkit includes with graphical user interface (GUI) and an adaptive neuro-
+  fuzzy inference system (ANFIS). This toolkit is a continuation from the previous
+  package ('FuzzyToolkitUoN'). Produced by the Intelligent Modelling & Analysis Group (IMA)
+  and Lab for UnCertainty In Data and decision making (LUCID), University of Nottingham.
+date_publication: '2019-11-20'
+bug_reports: ''
+url: http://www.lucidresearch.org
+url_cran: https://CRAN.R-project.org/package=FuzzyR
+url_git: ''

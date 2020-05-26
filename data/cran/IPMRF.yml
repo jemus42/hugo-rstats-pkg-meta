@@ -1,0 +1,10 @@
+version: '1.2'
+title: Intervention in Prediction Measure (IPM) for Random Forests
+maintainer: Irene Epifanio
+description: Computes IPM for assessing variable importance for random forests. See
+  details at I. Epifanio (2017) <DOI:10.1186/s12859-017-1650-8>.
+date_publication: '2017-08-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IPMRF
+url_git: ''

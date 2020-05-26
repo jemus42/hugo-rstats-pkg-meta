@@ -1,0 +1,12 @@
+version: 2019-12-03-1
+title: Data Sets for Quantitative Risk Management Practice
+maintainer: Marius Hofert
+description: |-
+  Various data sets (stocks, stock indices, constituent data, FX,
+  zero-coupon bond yield curves, volatility, commodities) for Quantitative
+  Risk Management practice.
+date_publication: '2019-12-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=qrmdata
+url_git: ''

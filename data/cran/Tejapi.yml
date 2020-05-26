@@ -1,0 +1,10 @@
+version: 1.0.1
+title: API Wrapper for Taiwan Economic Journal Data Service
+maintainer: Peter Young
+description: Functions for interacting directly with the Taiwan Economic Journal API
+  to offer data in R. For more information go to <https://api.tej.com.tw>.
+date_publication: '2018-11-04'
+bug_reports: https://api.tej.com.tw
+url: https://api.tej.com.tw
+url_cran: https://CRAN.R-project.org/package=Tejapi
+url_git: ''

@@ -1,0 +1,10 @@
+version: '0.14'
+title: Miscellaneous Functions by 'Yihui Xie'
+maintainer: Yihui Xie
+description: Miscellaneous functions commonly used in other packages maintained by
+  'Yihui Xie'.
+date_publication: '2020-05-20'
+bug_reports: https://github.com/yihui/xfun/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=xfun
+url_git: https://github.com/yihui/xfun

@@ -1,0 +1,14 @@
+version: 0.1.0
+title: Total Variation Denoising
+maintainer: Mark Pinese
+description: |-
+  Total Variation Denoising is a regularized denoising method which
+  effectively removes noise from piecewise constant signals whilst preserving
+  edges.  This package contains a C++ implementation of Condat's very fast 1D
+  squared error loss TVD algorithm.  Additional methods and loss functions may
+  be added in future versions.
+date_publication: '2014-08-13'
+bug_reports: https://bitbucket.org/marpin/r-tvd/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=tvd
+url_git: https://bitbucket.org/marpin/r-tvd

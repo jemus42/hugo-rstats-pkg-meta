@@ -1,0 +1,14 @@
+version: 0.3.5
+title: Machine Learning Tools
+maintainer: Ben Gorman
+description: A collection of machine learning helper functions, particularly assisting
+  in the Exploratory Data Analysis phase. Makes heavy use of the 'data.table' package
+  for optimal speed and memory efficiency. Highlights include a versatile bin_data()
+  function, sparsify() for converting a data.table to sparse matrix format with one-hot
+  encoding, fast evaluation metrics, and empirical_cdf() for calculating empirical
+  Multivariate Cumulative Distribution Functions.
+date_publication: '2018-05-12'
+bug_reports: https://github.com/ben519/mltools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=mltools
+url_git: https://github.com/ben519/mltools

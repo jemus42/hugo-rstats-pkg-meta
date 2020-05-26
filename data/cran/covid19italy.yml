@@ -1,0 +1,11 @@
+version: 0.2.0
+title: The 2019 Novel Coronavirus COVID-19 (2019-nCoV) Italy Dataset
+maintainer: Rami Krispin
+description: 'Provides a daily summary of the Coronavirus (COVID-19) cases in Italy
+  by country, region and province level. Data source: Presidenza del Consiglio dei
+  Ministri - Dipartimento della Protezione Civile <http://www.protezionecivile.it/>.'
+date_publication: '2020-04-26'
+bug_reports: https://github.com/Covid19R/covid19italy/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=covid19italy
+url_git: https://github.com/Covid19R/covid19italy

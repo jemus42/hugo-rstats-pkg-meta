@@ -1,0 +1,14 @@
+version: 0.5.1
+title: Package Management Tool
+maintainer: Tyler Rinker
+description: |-
+  Tools to more conveniently perform tasks associated with
+  add-on packages. pacman conveniently wraps library and package
+  related functions and names them in an intuitive and consistent
+  fashion.  It seeks to combine functionality from lower level
+  functions which can speed up workflow.
+date_publication: '2019-03-11'
+bug_reports: https://github.com/trinker/pacman/issues?state=open
+url: ''
+url_cran: https://CRAN.R-project.org/package=pacman
+url_git: https://github.com/trinker/pacman

@@ -1,0 +1,9 @@
+version: 1.0.0
+title: Reduced-Rank Regression
+maintainer: Chris Addy
+description: Reduced-rank regression, diagnostics and graphics.
+date_publication: '2016-12-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=rrr
+url_git: http://github.com/chrisaddy/rrr

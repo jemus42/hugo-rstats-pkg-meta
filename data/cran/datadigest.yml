@@ -1,0 +1,14 @@
+version: 1.0.2
+title: Create an Interactive Data Summary
+maintainer: Becca Krouse
+description: An R interface for Rho's 'web-codebook' 'JavaScript' charting library,
+  which provides a simple interactive framework for exploring data. 'datadigest' includes
+  two key functions (codebook() and explorer()) that deliver a concise summary of
+  every variable in a data frame, along with interactive features such as real-time
+  filters, grouping, and highlighting. Each function has an associated 'RStudio' addin/'Shiny'
+  app for quick and convenient exploration of one or more data frames.
+date_publication: '2018-09-03'
+bug_reports: https://github.com/RhoInc/datadigest/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=datadigest
+url_git: https://github.com/RhoInc/datadigest

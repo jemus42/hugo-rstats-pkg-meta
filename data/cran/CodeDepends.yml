@@ -1,0 +1,17 @@
+version: 0.6.5
+title: |-
+  Analysis of R Code for Reproducible Research and Code
+  Comprehension
+maintainer: Gabriel Becker
+description: |-
+  Tools for analyzing R expressions
+  or blocks of code and determining the dependencies between them.
+  It focuses on R scripts, but can be used on the bodies of functions.
+  There are many facilities including the ability to summarize  or get a high-level
+  view of code, determining dependencies between variables,  code improvement
+  suggestions.
+date_publication: '2018-07-17'
+bug_reports: https://github.com/duncantl/CodeDepends/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=CodeDepends
+url_git: https://github.com/duncantl/CodeDepends

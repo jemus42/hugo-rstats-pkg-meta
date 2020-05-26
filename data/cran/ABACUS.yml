@@ -1,0 +1,14 @@
+version: 1.0.0
+title: |-
+  Apps Based Activities for Communicating and Understanding
+  Statistics
+maintainer: Mintu Nath
+description: A set of Shiny apps for effective communication and understanding in
+  statistics. The current version includes properties of normal distribution, properties
+  of sampling distribution, one-sample z and t tests, two samples independent (unpaired)
+  t test and analysis of variance.
+date_publication: '2019-09-20'
+bug_reports: ''
+url: https://shiny.abdn.ac.uk/Stats/apps/
+url_cran: https://CRAN.R-project.org/package=ABACUS
+url_git: ''

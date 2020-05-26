@@ -1,0 +1,11 @@
+version: '0.1'
+title: White's Test for Heteroskedasticity
+maintainer: Sebastian Andersson
+description: |-
+  An implementation of White's Test for Heteroskedasticity
+  as outlined in Doornik (1996).
+date_publication: '2013-02-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=het.test
+url_git: ''

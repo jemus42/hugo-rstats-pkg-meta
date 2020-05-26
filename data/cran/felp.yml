@@ -1,0 +1,13 @@
+version: 0.2.2
+title: Functional Help for Functions, Objects, and Packages
+maintainer: Atsushi Yasumoto
+description: |2-
+
+  Provides pseudo-postfix operators and more to enhance displaying documents.
+  The `?.` pseudo-postfix operator and the `?` prefix operator displays documents and contents (source or structure) of objects simultaneously to help understanding the objects.
+  The `?p` pseudo-postfix operator displays package documents, and is shorter than help(package = foo).
+date_publication: '2019-12-06'
+bug_reports: https://github.com/atusy/felp/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=felp
+url_git: https://github.com/atusy/felp

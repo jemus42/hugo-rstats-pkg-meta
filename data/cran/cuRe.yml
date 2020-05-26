@@ -1,0 +1,11 @@
+version: 1.0.1
+title: Parametric Cure Model Estimation
+maintainer: Lasse Hjort Jakobsen
+description: Contains functions for estimating generalized parametric mixture and
+  non-mixture cure models, loss of lifetime, mean residual lifetime, and crude event
+  probabilities.
+date_publication: '2020-04-23'
+bug_reports: http://github.com/LasseHjort/cuRe/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=cuRe
+url_git: http://github.com/LasseHjort/cuRe

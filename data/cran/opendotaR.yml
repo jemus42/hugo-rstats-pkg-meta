@@ -1,0 +1,11 @@
+version: 0.1.4
+title: Interface for OpenDota API
+maintainer: Kari Gunnarsson
+description: |-
+  Enables the usage of the OpenDota API from <https://www.opendota.com/>, get game lists, and download JSON's of parsed replays from
+  the OpenDota API. Also has functionality to execute own code to extract the specific parts of the JSON file.
+date_publication: '2017-09-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=opendotaR
+url_git: ''

@@ -1,0 +1,11 @@
+version: '1.2'
+title: Ranking of Pathogen Strains
+maintainer: Samuel Soubeyrand
+description: Regression-based ranking of pathogen strains with respect to their contributions
+  to natural epidemics, using demographic and genetic data sampled in the curse of
+  the epidemics. This package also includes the GMCPIC test.
+date_publication: '2017-11-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=StrainRanking
+url_git: ''

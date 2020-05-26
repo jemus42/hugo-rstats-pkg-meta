@@ -1,0 +1,15 @@
+version: 0.2-7
+title: |-
+  Buckley-James Regression for Survival Data with High-Dimensional
+  Covariates
+maintainer: Zhu Wang
+description: Buckley-James regression for right-censoring survival data with high-dimensional
+  covariates. Implementations for survival data include boosting with componentwise
+  linear least squares, componentwise smoothing splines, regression trees and MARS.
+  Other high-dimensional tools include penalized regression for survival data. See
+  Wang and Wang (2010) <doi:10.2202/1544-6115.1550>.
+date_publication: '2019-11-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bujar
+url_git: ''

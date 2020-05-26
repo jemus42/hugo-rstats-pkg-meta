@@ -1,0 +1,11 @@
+version: 2.7-0
+title: R Commander Miscellaneous Functions
+maintainer: John Fox
+description: |2-
+
+  Various statistical, graphics, and data-management functions used by the Rcmdr package in the R Commander GUI for R.
+date_publication: '2020-01-14'
+bug_reports: ''
+url: http://socserv.socsci.mcmaster.ca/jfox/
+url_cran: https://CRAN.R-project.org/package=RcmdrMisc
+url_git: ''

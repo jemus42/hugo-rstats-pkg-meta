@@ -1,0 +1,11 @@
+version: 0.1-0
+title: Rcmdr plots by group using lattice
+maintainer: Ege Rubak
+description: |-
+  Rcmdr menu support for some of the graphics by group in
+  the lattice package
+date_publication: '2013-01-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.plotByGroup
+url_git: ''

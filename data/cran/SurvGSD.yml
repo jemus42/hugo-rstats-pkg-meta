@@ -1,0 +1,17 @@
+version: 1.0.0
+title: |-
+  Group Sequential Design for a Clinical Trial with Censored
+  Survival Data
+maintainer: Chih-Yuan Hsu
+description: |-
+  Sample size calculation utilizing the information fraction and the alpha spending function
+  in a group sequential clinical trial with censored survival data from underlying generalized
+  gamma survival distributions or log-logistic survival distributions.
+  Hsu, C.-H., Chen, C.-H, Hsu, K.-N. and Lu, Y.-H. (2018) A useful design utilizing the
+  information fraction in a group sequential clinical trial with censored survival data.
+  To appear in Biometrics.
+date_publication: '2018-05-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SurvGSD
+url_git: ''

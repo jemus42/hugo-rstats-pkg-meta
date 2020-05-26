@@ -1,0 +1,12 @@
+version: 0.3-2
+title: Partial Orders and Relations
+maintainer: Charles J. Geyer
+description: |-
+  Finds equivalence classes corresponding to a symmetric relation
+  or undirected graph.  Finds total order consistent with partial order
+  or directed graph (so-called topological sort).
+date_publication: '2017-03-27'
+bug_reports: ''
+url: http://www.stat.umn.edu/geyer/pooh/
+url_cran: https://CRAN.R-project.org/package=pooh
+url_git: ''

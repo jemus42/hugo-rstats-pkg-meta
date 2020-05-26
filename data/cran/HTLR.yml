@@ -1,0 +1,15 @@
+version: 0.4-2
+title: Bayesian Logistic Regression with Heavy-Tailed Priors
+maintainer: Longhai Li
+description: |-
+  Efficient Bayesian multinomial logistic regression based on heavy-tailed
+  (hyper-LASSO, non-convex) priors. The posterior of coefficients and hyper-parameters
+  is sampled with restricted Gibbs sampling for leveraging the high-dimensionality and
+  Hamiltonian Monte Carlo for handling the high-correlation among coefficients. A detailed
+  description of the method: Li and Yao (2018),
+  Journal of Statistical Computation and Simulation, 88:14, 2827-2851, <arXiv:1405.3319>.
+date_publication: '2020-01-17'
+bug_reports: https://github.com/longhaiSK/HTLR/issues
+url: https://longhaisk.github.io/HTLR/
+url_cran: https://CRAN.R-project.org/package=HTLR
+url_git: ''

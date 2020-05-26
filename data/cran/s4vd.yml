@@ -1,0 +1,15 @@
+version: 1.1-1
+title: |-
+  Biclustering via Sparse Singular Value Decomposition
+  Incorporating Stability Selection
+maintainer: Martin Sill
+description: |-
+  The main function s4vd() performs a biclustering via sparse
+  singular value decomposition with a nested stability selection.
+  The results is an biclust object and thus all methods of the
+  biclust package can be applied.
+date_publication: '2015-11-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=s4vd
+url_git: ''

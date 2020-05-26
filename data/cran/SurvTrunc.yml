@@ -1,0 +1,19 @@
+version: 0.1.0
+title: Analysis of Doubly Truncated Data
+maintainer: Lior Rennert
+description: 'Package performs Cox regression and survival distribution function estimation
+  when the survival times are subject to double truncation. The estimation procedure
+  for each method involves inverse probability weighting, where the weights correspond
+  to the inverse of the selection probabilities and are estimated using the survival
+  times and truncation times only. Both methods require that the survival and truncation
+  times are quasi-independent. A test for checking this independence assumption is
+  also included in this package. The functions available in this package for Cox regression,
+  survival distribution function estimation, and testing independence under double
+  truncation are based on the following methods, respectively: Rennert and Xie (2017)
+  <doi:10.1111/biom.12809>, Shen (2010) <doi:10.1007/s10463-008-0192-2>, Martin and
+  Betensky (2005) <doi:10.1198/016214504000001538>.'
+date_publication: '2018-07-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=SurvTrunc
+url_git: ''

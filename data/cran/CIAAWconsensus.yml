@@ -1,0 +1,11 @@
+version: '1.3'
+title: Isotope Ratio Meta-Analysis
+maintainer: Juris Meija
+description: Calculation of consensus values for atomic weights, isotope amount ratios,
+  and isotopic abundances with the associated uncertainties using multivariate meta-regression
+  approach for consensus building.
+date_publication: '2018-09-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CIAAWconsensus
+url_git: ''

@@ -1,0 +1,11 @@
+version: 1.0-1
+title: Multiple Testing of Local Extrema for Detection of Change Points
+maintainer: Zhibing He
+description: A new approach to detect change points based on smoothing and multiple
+  testing, which is for long data sequence modeled as piecewise constant functions
+  plus stationary Gaussian noise, see Dan Cheng and Armin Schwartzman (2015) <arXiv:1504.06384>.
+date_publication: '2019-10-02'
+bug_reports: ''
+url: https://arxiv.org/abs/1504.06384
+url_cran: https://CRAN.R-project.org/package=mSTEM
+url_git: ''

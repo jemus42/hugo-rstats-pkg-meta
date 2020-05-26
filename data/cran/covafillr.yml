@@ -1,0 +1,13 @@
+version: 0.4.4
+title: |-
+  Local Polynomial Regression of State Dependent Covariates in
+  State-Space Models
+maintainer: Christoffer Moesgaard Albertsen
+description: Facilitates local polynomial regression for state dependent covariates
+  in state-space models. The functionality can also be used from 'C++' based model
+  builder tools such as 'Rcpp'/'inline', 'TMB', or 'JAGS'.
+date_publication: '2019-11-22'
+bug_reports: https://github.com/calbertsen/covafillr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=covafillr
+url_git: https://github.com/calbertsen/covafillr

@@ -1,0 +1,13 @@
+version: '2.0'
+title: |-
+  The All-Configurations, Maximum-Interaction F-Test for Hidden
+  Additivity
+maintainer: Jason A. Osborne
+description: Computes the ACMIF test and Bonferroni-adjusted p-value of interaction
+  in two-factor studies.  Produces corresponding interaction plot and analysis of
+  variance tables and p-values from several other tests of non-additivity.
+date_publication: '2016-01-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hiddenf
+url_git: ''

@@ -1,0 +1,16 @@
+version: '1.1'
+title: |-
+  Analysis and Visualisation of Hydrogen/Deuterium Exchange Mass
+  Spectrometry Data
+maintainer: Weronika Puchala
+description: |-
+  Functions for processing, analysis and visualization of Hydrogen Deuterium eXchange monitored by
+  Mass Spectrometry experiments (HDX-MS). 'HaDeX' introduces a new standardized and reproducible workflow
+  for the analysis of the HDX-MS data, including novel uncertainty intervals. Additionally, it covers
+  data exploration, quality control and generation of publication-quality figures. All functionalities
+  are also available in the in-built 'Shiny' app.
+date_publication: '2020-02-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HaDeX
+url_git: ''

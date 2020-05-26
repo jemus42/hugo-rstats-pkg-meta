@@ -1,0 +1,14 @@
+version: '0.1'
+title: Hierarchical Bayesian Regression for GLMs
+maintainer: Asad Hasan
+description: Convenient and efficient functions for performing 2-level hierarchical
+  Bayesian regression analysis for multi-group data. The lowest level may belong to
+  the generalized linear model (GLM) family while the prior level, which effects pooling,
+  allows for linear regression on lower level covariates. Constraints on all or part
+  of the parameter set maybe specified with ease. A rich set of methods is included
+  to visualize and analyze results.
+date_publication: '2015-07-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=HBglm
+url_git: ''

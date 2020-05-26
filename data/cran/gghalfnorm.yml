@@ -1,0 +1,11 @@
+version: 1.1.2
+title: Create a Half Normal Plot Using 'ggplot2'
+maintainer: Nathan Eastwood
+description: |-
+  Reproduce the halfnorm() function found in the 'faraway' package
+  using the 'ggplot2' API.
+date_publication: '2017-06-06'
+bug_reports: https://github.com/nathaneastwood/gghalfnorm/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gghalfnorm
+url_git: https://github.com/nathaneastwood/gghalfnorm

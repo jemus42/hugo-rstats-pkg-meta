@@ -1,0 +1,17 @@
+version: 1.0.4
+title: |-
+  Bayesian Detection of Potential Risk Using Inference on Blinded
+  Safety Data
+maintainer: Saurabh Mukhopadhyay
+description: |-
+  Implements Bayesian inference to detect signal from blinded
+  clinical trial when total number of adverse events of special
+  concerns and total risk exposures from all patients are available in the study.
+  For more details see the article by Mukhopadhyay et. al. (2018)
+  titled 'Bayesian Detection of Potential Risk Using Inference on Blinded Safety Data',
+  in Pharmaceutical Statistics (to appear).
+date_publication: '2018-08-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bdribs
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.4.6
+title: An API Generator for R
+maintainer: Jeff Allen
+description: |-
+  Gives the ability to automatically generate and serve an HTTP API
+  from R functions using the annotations in the R documentation around your
+  functions.
+date_publication: '2018-06-05'
+bug_reports: https://github.com/trestletech/plumber/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=plumber
+url_git: https://www.rplumber.io(site)https://github.com/trestletech/plumber(dev)

@@ -1,0 +1,12 @@
+version: 1.0.1
+title: In-Memory Caching for Repeated Computations
+maintainer: Peter Meilstrup
+description: |-
+  A simple in-memory, LRU cache that can be wrapped
+  around any function to memoize it. The cache can be keyed on a hash of the
+  input data (using 'digest') or on pointer equivalence.
+date_publication: '2018-01-04'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=memo
+url_git: ''

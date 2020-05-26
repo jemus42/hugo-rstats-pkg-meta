@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Easy Manipulation of Out of Memory Data Sets
+maintainer: Laurent Berge
+description: 'Hard drive data: Class of data allowing the easy importation/manipulation
+  of out of memory data sets. The data sets are located on disk but look like in-memory,
+  the syntax for manipulation is similar to ''data.table''. Operations are performed
+  "chunk-wise" behind the scene.'
+date_publication: '2019-11-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=hdd
+url_git: ''

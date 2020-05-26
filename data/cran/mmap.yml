@@ -1,0 +1,9 @@
+version: 0.6-19
+title: Map Pages of Memory
+maintainer: Jeffrey A. Ryan
+description: R interface to POSIX mmap and Window's MapViewOfFile.
+date_publication: '2020-01-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mmap
+url_git: ''

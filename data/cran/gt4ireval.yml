@@ -1,0 +1,12 @@
+version: '2.0'
+title: Generalizability Theory for Information Retrieval Evaluation
+maintainer: Julián Urbano
+description: |-
+  Provides tools to measure the reliability of an Information Retrieval test collection.
+  It allows users to estimate reliability using Generalizability Theory and map those estimates onto
+  well-known indicators such as Kendall tau correlation or sensitivity.
+date_publication: '2017-03-06'
+bug_reports: https://github.com/julian-urbano/gt4ireval/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=gt4ireval
+url_git: https://github.com/julian-urbano/gt4ireval/

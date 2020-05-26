@@ -1,0 +1,9 @@
+version: 1.2.3
+title: Methods and Data for Spatial Epidemiology
+maintainer: Albert Y. Kim
+description: Methods and data for cluster detection and disease mapping.
+date_publication: '2018-06-02'
+bug_reports: https://github.com/rudeboybert/SpatialEpi/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=SpatialEpi
+url_git: https://github.com/rudeboybert/SpatialEpi

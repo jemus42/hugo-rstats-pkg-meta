@@ -1,0 +1,13 @@
+version: 2.1-3
+title: Data Analysis and Knowledge Spaces
+maintainer: Ali Uenlue
+description: |-
+  Functions and an example dataset for the psychometric theory of
+  knowledge spaces.  This package implements data analysis methods and
+  procedures for simulating data and quasi orders and transforming different
+  formulations in knowledge space theory.  See package?DAKS for an overview.
+date_publication: '2016-06-06'
+bug_reports: ''
+url: http://www.meb.edu.tum.de
+url_cran: https://CRAN.R-project.org/package=DAKS
+url_git: ''

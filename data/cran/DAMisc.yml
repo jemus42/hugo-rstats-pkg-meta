@@ -1,0 +1,15 @@
+version: 1.5.4
+title: Dave Armstrong's Miscellaneous Functions
+maintainer: Dave Armstrong
+description: Miscellaneous set of functions I use in my teaching either at the University
+  of Western Ontario or the Inter-university Consortium for Political and Social Research
+  (ICPSR) Summer Program in Quantitative Methods.  Broadly, the functions help with
+  presentation and interpretation of LMs and GLMs, but also implement some new tools
+  like Alternating Least Squares Optimal Scaling for dependent variables, a Bayesian
+  analog to the ALSOS algorithm.  There are also tools to help understand interactions
+  in both LMs and binary GLMs.
+date_publication: '2020-04-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DAMisc
+url_git: ''

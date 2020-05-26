@@ -1,0 +1,14 @@
+version: 1.0.2
+title: '''FactSet'' ''STACH'' Library'
+maintainer: Charlie Mathis<chmathis@factset.com>
+description: |-
+  Generates 'RProtobuf' classes for 'FactSet' 'STACH' tabular
+  format which represents complex multi-dimensional array of data. These
+  classes help in the 'serialization' and 'deserialization' of 'STACH'
+  formatted data. See 'GitHub' repository documentation for more
+  information.
+date_publication: '2020-01-14'
+bug_reports: https://github.com/factset/stachschema/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=factset.protobuf.stach
+url_git: https://github.com/factset/stachschema

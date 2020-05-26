@@ -1,0 +1,11 @@
+version: 1.1-0
+title: Multivariate Normal and t Distributions
+maintainer: Torsten Hothorn
+description: |-
+  Computes multivariate normal and t probabilities, quantiles,
+  random deviates and densities.
+date_publication: '2020-02-24'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=mvtnorm
+url_git: http://mvtnorm.R-forge.R-project.org

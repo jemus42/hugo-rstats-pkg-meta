@@ -1,0 +1,12 @@
+version: 1.4.0
+title: Extreme Value Statistics and Quantile Estimation
+maintainer: Berry Boessenkool
+description: |-
+  Code to fit, plot and compare several (extreme value)
+  distribution functions. Can also compute (truncated) distribution quantile estimates and
+  draw a plot with return periods on a linear scale.
+date_publication: '2017-11-05'
+bug_reports: https://github.com/brry/extremeStat
+url: ''
+url_cran: https://CRAN.R-project.org/package=extremeStat
+url_git: https://github.com/brry/extremeStat

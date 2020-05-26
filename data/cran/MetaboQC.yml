@@ -1,0 +1,12 @@
+version: '1.0'
+title: Normalize Metabolomic Data using QC Signal
+maintainer: Monica Calderon-Santiago
+description: |-
+  Takes QC signal for each day and normalize metabolomic
+  data that has been acquired in a certain period of time. At least
+  three QC per day are required.
+date_publication: '2016-09-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MetaboQC
+url_git: ''

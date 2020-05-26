@@ -1,0 +1,15 @@
+version: '1.0'
+title: Microbiome Based Sum of Powered Score (MiSPU) Tests
+maintainer: Chong Wu
+description: There is an increasing interest in investigating how the compositions
+  of microbial communities are associated with human health and disease. In this package,
+  we present a novel global testing method called aMiSPU, that is highly adaptive
+  and thus high powered across various scenarios, alleviating the issue with the choice
+  of a phylogenetic distance. Our simulations and real data analysis demonstrated
+  that aMiSPU test was often more powerful than several competing methods while correctly
+  controlling type I error rates.
+date_publication: '2016-03-18'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MiSPU
+url_git: ''

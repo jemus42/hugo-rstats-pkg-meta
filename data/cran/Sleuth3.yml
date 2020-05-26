@@ -1,0 +1,14 @@
+version: 1.0-3
+title: |-
+  Data Sets from Ramsey and Schafer's "Statistical Sleuth (3rd
+  Ed)"
+maintainer: Berwin A Turlach
+description: |-
+  Data sets from Ramsey, F.L. and Schafer, D.W. (2013), "The
+  Statistical Sleuth: A Course in Methods of Data Analysis (3rd
+  ed)", Cengage Learning.
+date_publication: '2019-01-25'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Sleuth3
+url_git: http://r-forge.r-project.org/projects/sleuth2/

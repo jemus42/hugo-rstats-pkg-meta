@@ -1,0 +1,12 @@
+version: 0.1.0
+title: Yet Another TAxonomy Handler
+maintainer: Antoine Bichat
+description: |-
+  Provides functions to manage taxonomy when lineages
+  are described with strings and ranks separated with special patterns
+  like "|*__" or ";*__".
+date_publication: '2020-03-01'
+bug_reports: https://github.com/abichat/yatah/issues
+url: https://abichat.github.io/yatah
+url_cran: https://CRAN.R-project.org/package=yatah
+url_git: https://github.com/abichat/yatah

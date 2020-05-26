@@ -1,0 +1,15 @@
+version: 0.3.4
+title: Access to Open Street Map Raster Images
+maintainer: Ian Fellows
+description: |-
+  Accesses high resolution raster maps using the OpenStreetMap
+  protocol. Dozens of road, satellite, and topographic map servers are directly
+  supported, including Apple, Mapnik, Bing, and stamen. Additionally raster maps
+  may be constructed using custom tile servers.  Maps can be
+  plotted using either base graphics, or ggplot2. This package is not affiliated
+  with the OpenStreetMap.org mapping project.
+date_publication: '2019-05-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OpenStreetMap
+url_git: https://github.com/ifellows/ROSMhttp://www.fellstat.comhttp://blog.fellstat.com/?cat=15

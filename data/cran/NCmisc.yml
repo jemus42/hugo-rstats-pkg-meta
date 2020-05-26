@@ -1,0 +1,15 @@
+version: 1.1.6
+title: |-
+  Miscellaneous Functions for Creating Adaptive Functions and
+  Scripts
+maintainer: Nicholas Cooper
+description: |-
+  A set of handy functions. Includes a versatile one line progress bar, one
+  line function timer with detailed output, time delay function, text histogram, object
+  preview, CRAN package search, simpler package installer, Linux command install check,
+  a flexible Mode function, top function, simulation of correlated data, and more.
+date_publication: '2018-11-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=NCmisc
+url_git: ''

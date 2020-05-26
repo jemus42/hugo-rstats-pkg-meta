@@ -1,0 +1,11 @@
+version: 0.1.1
+title: Convert Vietnam Provincial Codes
+maintainer: Anh Le
+description: |-
+  Converts Vietnam's provinces' names and ID
+  across different formats. Handles diacritics and different spellings.
+date_publication: '2016-07-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=vietnamcode
+url_git: ''

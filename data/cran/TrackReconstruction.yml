@@ -1,0 +1,13 @@
+version: '1.2'
+title: |-
+  Reconstruct Animal Tracks from Magnetometer, Accelerometer,
+  Depth and Optional Speed Data
+maintainer: Brian Battaile
+description: Reconstructs animal tracks from magnetometer, accelerometer, depth and
+  optional speed data.  Designed primarily using data from Wildlife Computers Daily
+  Diary tags deployed on northern fur seals.
+date_publication: '2019-07-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=TrackReconstruction
+url_git: ''

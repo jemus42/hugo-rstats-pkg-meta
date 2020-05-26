@@ -1,0 +1,11 @@
+version: 1.1.15
+title: Calls Copy Number Variants from Targeted Sequence Data
+maintainer: Vincent Plagnol
+description: Calls copy number variants (CNVs) from targeted sequence data, typically
+  exome sequencing experiments designed to identify the genetic basis of Mendelian
+  disorders.
+date_publication: '2020-01-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=ExomeDepth
+url_git: ''

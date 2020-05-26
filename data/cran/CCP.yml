@@ -1,0 +1,10 @@
+version: '1.1'
+title: Significance Tests for Canonical Correlation Analysis (CCA)
+maintainer: Uwe Menzel to
+description: Significance tests for canonical correlation analysis,<U+000a>including
+  asymptotic tests and a Monte Carlo method
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CCP
+url_git: ''

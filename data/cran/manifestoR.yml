@@ -1,0 +1,17 @@
+version: 1.4.0
+title: Access and Process Data and Documents of the Manifesto Project
+maintainer: Sven Regel
+description: |-
+  Provides access to coded election programmes from the Manifesto
+  Corpus and to the Manifesto Project's Main Dataset and routines to analyse this
+  data. The Manifesto Project <https://manifesto-project.wzb.eu> collects and
+  analyses election programmes across time and space to measure the political
+  preferences of parties. The Manifesto Corpus contains the collected and
+  annotated election programmes in the Corpus format of the package 'tm' to enable
+  easy use of text processing and text mining functionality. Specific functions
+  for scaling of coded political texts are included.
+date_publication: '2020-04-21'
+bug_reports: https://github.com/ManifestoProject/manifestoR/issues
+url: https://manifesto-project.wzb.eu/
+url_cran: https://CRAN.R-project.org/package=manifestoR
+url_git: https://github.com/ManifestoProject/manifestoR

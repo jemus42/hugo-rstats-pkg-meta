@@ -1,0 +1,12 @@
+version: 0.1-5
+title: Adds Labeled Center Line and Scale Lines to Trellis Plots
+maintainer: Bert Gunter<bgunter.4567@gmail.com>
+description: |-
+  Modifies trellis objects by adding horizontal and/or vertical reference lines
+  that provide visual scaling information. This is mostly useful in multi-panel plots
+  that use the relation = 'free' option in their 'scales' argument list.
+date_publication: '2020-05-06'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=addScales
+url_git: ''

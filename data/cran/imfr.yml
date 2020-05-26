@@ -1,0 +1,11 @@
+version: 0.1.7
+title: Download Data from the International Monetary Fund's Data API
+maintainer: Christopher Gandrud
+description: |-
+  Explore and download data from the International Monetary Fund's
+  data API <http://data.imf.org/>.
+date_publication: '2019-11-30'
+bug_reports: https://github.com/christophergandrud/imfr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=imfr
+url_git: ''

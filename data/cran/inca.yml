@@ -1,0 +1,15 @@
+version: 0.0.4
+title: Integer Calibration
+maintainer: Luca Sartore
+description: Specific functions are provided for rounding real weights to integers
+  and performing an integer programming algorithm for calibration problems. They are
+  useful for census-weights adjustments, or for performing linear regression with
+  integer parameters. This research was supported in part by the U.S. Department of
+  Agriculture, National Agriculture Statistics Service. The findings and conclusions
+  in this publication are those of the authors and should not be construed to represent
+  any official USDA, or US Government determination or policy.
+date_publication: '2019-09-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=inca
+url_git: ''

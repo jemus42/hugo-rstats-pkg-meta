@@ -1,0 +1,11 @@
+version: 0.5.6
+title: Convert Values to NA
+maintainer: Alexander Rossell Hayes
+description: |-
+  Provides a replacement for dplyr::na_if().  Allows you to specify
+  multiple values to be replaced with NA using a single function.
+date_publication: '2020-03-01'
+bug_reports: https://github.com/rossellhayes/fauxnaif/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=fauxnaif
+url_git: https://github.com/rossellhayes/fauxnaif

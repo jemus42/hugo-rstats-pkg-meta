@@ -1,0 +1,13 @@
+version: 0.9.0
+title: |-
+  A Universal Foreach Parallel Adapter using the Future API of the
+  'future' Package
+maintainer: Henrik Bengtsson
+description: |-
+  Provides a '%dopar%' adapter such that any type of futures can
+  be used as backends for the 'foreach' framework.
+date_publication: '2020-01-11'
+bug_reports: https://github.com/HenrikBengtsson/doFuture/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=doFuture
+url_git: https://github.com/HenrikBengtsson/doFuture

@@ -1,0 +1,14 @@
+version: 0.0.1
+title: |-
+  Scaffolding Interfaces to Packages in Other Programming
+  Languages
+maintainer: Yuan Tang
+description: |-
+  Comprehensive set of tools for scaffolding R
+  interfaces to modules, classes, functions, and documentations
+  written in other programming languages, such as 'Python'.
+date_publication: '2020-03-20'
+bug_reports: https://github.com/terrytangyuan/scaffolder/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=scaffolder
+url_git: https://github.com/terrytangyuan/scaffolder

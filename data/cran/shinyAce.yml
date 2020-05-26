@@ -1,0 +1,11 @@
+version: 0.4.1
+title: Ace Editor Bindings for Shiny
+maintainer: Vincent Nijs
+description: |-
+  Ace editor bindings to enable a rich text editing environment
+  within Shiny.
+date_publication: '2019-09-24'
+bug_reports: https://github.com/trestletech/shinyAce/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=shinyAce
+url_git: ''

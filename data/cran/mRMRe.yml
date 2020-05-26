@@ -1,0 +1,14 @@
+version: 2.1.0
+title: |-
+  "Parallelized Minimum Redundancy, Maximum Relevance (mRMR)
+  Ensemble Feature Selection"
+maintainer: Benjamin Haibe-Kains
+description: '"Computes mutual information matrices from continuous, categorical and
+  survival variables, as well as feature selection with minimum redundancy, maximum
+  relevance (mRMR) and a new ensemble mRMR technique with DOI: N De Jay et al. (2013)
+  <doi:10.1093/bioinformatics/btt383>."'
+date_publication: '2020-01-10'
+bug_reports: ''
+url: http://www.pmgenomics.ca/bhklab/
+url_cran: https://CRAN.R-project.org/package=mRMRe
+url_git: ''

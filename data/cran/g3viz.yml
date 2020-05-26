@@ -1,0 +1,13 @@
+version: 1.1.2
+title: |-
+  Interactively Visualize Genetic Mutation Data using a
+  Lollipop-Diagram
+maintainer: Xin Guo
+description: |-
+  R interface for 'g3-lollipop' JavaScript library.
+  Visualize genetic mutation data using an interactive lollipop diagram in RStudio or your browser.
+date_publication: '2019-05-29'
+bug_reports: https://github.com/G3viz/g3viz/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=g3viz
+url_git: https://github.com/G3viz/g3viz

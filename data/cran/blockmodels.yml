@@ -1,0 +1,14 @@
+version: 1.1.1
+title: |-
+  Latent and Stochastic Block Model Estimation by a 'V-EM'
+  Algorithm
+maintainer: Jean-Benoist Leger
+description: |-
+  Latent and Stochastic Block Model estimation by a Variational EM algorithm.
+  Various probability distribution are provided (Bernoulli,
+  Poisson...), with or without covariates.
+date_publication: '2015-04-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=blockmodels
+url_git: ''

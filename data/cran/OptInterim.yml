@@ -1,0 +1,13 @@
+version: 3.0.1
+title: |-
+  Optimal Two and Three Stage Designs for Single-Arm and Two-Arm
+  Randomized Controlled Trials with a Long-Term Binary Endpoint
+maintainer: Bo Huang
+description: |-
+  Optimal two and three stage designs monitoring
+  time-to-event endpoints at a specified timepoint
+date_publication: '2012-12-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=OptInterim
+url_git: ''

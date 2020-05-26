@@ -1,0 +1,9 @@
+version: 0.0.43
+title: Tools to Handle Taxonomic Lists
+maintainer: Vijay Barve
+description: Some tools to work with taxonomic name lists.
+date_publication: '2020-03-08'
+bug_reports: https://github.com/vijaybarve/taxotools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=taxotools
+url_git: ''

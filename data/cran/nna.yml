@@ -1,0 +1,15 @@
+version: 0.0.2.1
+title: Nearest-Neighbor Analysis
+maintainer: Cristiano Pereira
+description: |-
+  Calculates spatial pattern analysis using a T-square sample procedure.
+  This method is based on two measures "x" and "y".
+  "x" - Distance from the random point to the nearest individual.
+  "y" - Distance from individual to its nearest neighbor.
+  This is a methodology commonly used in phytosociology or marine benthos ecology to analyze the species' distribution (random, uniform or clumped patterns).
+  Ludwig & Reynolds (1988, ISBN:0471832359).
+date_publication: '2018-04-13'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=nna
+url_git: ''

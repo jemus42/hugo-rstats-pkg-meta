@@ -1,0 +1,10 @@
+version: 2.0.1
+title: Nonparametric Circular Methods
+maintainer: María Oliveira
+description: This package implements nonparametric smoothing methods for circular
+  data.
+date_publication: '2014-10-16'
+bug_reports: ''
+url: http://www.jstatsoft.org/v61/i09/
+url_cran: https://CRAN.R-project.org/package=NPCirc
+url_git: ''

@@ -1,0 +1,12 @@
+version: 0.4.1
+title: Tools for Analysing UK Politics
+maintainer: Evan Odell
+description: |-
+  Provides various tools for analysing UK political data, including
+  election result datasets, hexagonal cartograms and functions to
+  retrieve council member data.
+date_publication: '2020-01-12'
+bug_reports: https://github.com/EvanOdell/parlitools/issues
+url: https://docs.evanodell.com/parlitools
+url_cran: https://CRAN.R-project.org/package=parlitools
+url_git: https://github.com/EvanOdell/parlitools/

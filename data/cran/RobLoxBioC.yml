@@ -1,0 +1,11 @@
+version: 1.2.0
+title: Infinitesimally Robust Estimators for Preprocessing -Omics Data
+maintainer: Matthias Kohl
+description: |-
+  Functions for the determination of optimally robust influence curves and
+  estimators for preprocessing omics data, in particular gene expression data.
+date_publication: '2019-04-11'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=RobLoxBioC
+url_git: http://robast.r-forge.r-project.org/

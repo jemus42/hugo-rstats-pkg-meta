@@ -1,0 +1,12 @@
+version: '1.11'
+title: 'Graphical Lasso: Estimation of Gaussian Graphical Models'
+maintainer: Rob Tibshirani
+description: |-
+  Estimation of a sparse inverse covariance matrix using a lasso (L1)
+  penalty. Facilities are provided for estimates along a path of values
+  for the regularization parameter.
+date_publication: '2019-10-01'
+bug_reports: ''
+url: http://www-stat.stanford.edu/~tibs/glasso
+url_cran: https://CRAN.R-project.org/package=glasso
+url_git: ''

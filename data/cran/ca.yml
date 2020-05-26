@@ -1,0 +1,10 @@
+version: 0.71.1
+title: Simple, Multiple and Joint Correspondence Analysis
+maintainer: Oleg Nenadic
+description: Computation and visualization of simple, multiple and joint correspondence
+  analysis.
+date_publication: '2020-01-24'
+bug_reports: ''
+url: http://www.carme-n.org/
+url_cran: https://CRAN.R-project.org/package=ca
+url_git: ''

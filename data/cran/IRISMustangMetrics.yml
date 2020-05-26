@@ -1,0 +1,14 @@
+version: 2.3.0
+title: Statistics and Metrics for Seismic Data
+maintainer: Gillian Sharer
+description: |-
+  Classes and functions for metrics calculation as part of the
+  'IRIS DMC MUSTANG' project. The functionality in this package
+  builds upon the base classes of the 'IRISSeismic' package.
+  Metrics include basic statistics as well as higher level
+  'health' metrics that can help identify problematic seismometers.
+date_publication: '2019-11-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=IRISMustangMetrics
+url_git: ''

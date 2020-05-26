@@ -1,0 +1,14 @@
+version: '1.0'
+title: Plotting Paintmaps
+maintainer: Daniel Greene
+description: |-
+  Plots matrices of colours as grids of coloured squares - aka heatmaps,
+  guaranteeing legible row and column names,
+  without transformation of values,
+  without re-ordering rows or columns,
+  and without dendrograms.
+date_publication: '2016-08-31'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=paintmap
+url_git: ''

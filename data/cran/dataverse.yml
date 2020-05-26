@@ -1,0 +1,12 @@
+version: 0.2.0
+title: Client for Dataverse 4 Repositories
+maintainer: Thomas J. Leeper
+description: |-
+  Provides access to Dataverse version 4 APIs <https://dataverse.org/>,
+  enabling data search, retrieval, and deposit. For Dataverse versions <= 4.0,
+  use the deprecated 'dvn' package <https://cran.r-project.org/package=dvn>.
+date_publication: '2017-06-15'
+bug_reports: https://github.com/iqss/dataverse-client-r/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=dataverse
+url_git: https://github.com/iqss/dataverse-client-r

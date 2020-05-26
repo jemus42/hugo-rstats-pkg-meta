@@ -1,0 +1,18 @@
+version: 0.1.5
+title: Anchored Kmedoids for Longitudinal Data Clustering
+maintainer: Monsuru Adepeju
+description: Advances a novel adaptation of longitudinal k-means clustering technique
+  (Genolini et al. (2015) <doi:10.18637/jss.v065.i04>) for grouping trajectories based
+  on the similarities of their long-term trends and determines the optimal solution
+  based on either the average silhouette width (Rousseeuw P. J. 1987) or the Calinski-Harabatz
+  criterion (Calinski and Harabatz (1974) <doi:10.1080/03610927408827101>). Includes
+  functions to extract descriptive statistics and generate a visualisation of the
+  resulting groups, drawing methods from the 'ggplot2' library (Wickham H. (2016)
+  <doi:10.1007/978-3-319-24277-4>). The package also includes a number of other useful
+  functions for exploring and manipulating longitudinal data prior to the clustering
+  process.
+date_publication: '2020-01-10'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=akmedoids
+url_git: ''

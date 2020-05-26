@@ -1,0 +1,9 @@
+version: 1.0.0
+title: Simple Client for the DuckDuckGo Instant Answer API
+maintainer: Schumacher Dirk
+description: Programmatic access to the DuckDuckGo Instant Answer API <https://api.duckduckgo.com/api>.
+date_publication: '2017-04-07'
+bug_reports: https://github.com/dirkschumacher/duckduckr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=duckduckr
+url_git: https://github.com/dirkschumacher/duckduckr

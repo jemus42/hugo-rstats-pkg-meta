@@ -1,0 +1,12 @@
+version: '3062.100'
+title: Financial Time Series Objects (Rmetrics)
+maintainer: Tobias Setz
+description: |-
+  'S4' classes and various tools for financial time series:
+  Basic functions such as scaling and sorting, subsetting,
+  mathematical operations and statistical functions.
+date_publication: '2020-01-24'
+bug_reports: ''
+url: http://www.rmetrics.org
+url_cran: https://CRAN.R-project.org/package=timeSeries
+url_git: https://r-forge.r-project.org/scm/viewvc.php/pkg/timeSeries/?root=rmetrics

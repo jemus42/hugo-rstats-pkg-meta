@@ -1,0 +1,15 @@
+version: '1.0'
+title: Multispatial Convergent Cross Mapping
+maintainer: Adam Clark
+description: The multispatial convergent cross mapping algorithm can be used as a
+  test for causal associations between pairs of processes represented by time series.
+  This is a combination of convergent cross mapping (CCM), described in Sugihara et
+  al., 2012, Science, 338, 496-500, and dew-drop regression, described in Hsieh et
+  al., 2008, American Naturalist, 171, 71–80. The algorithm allows CCM to be implemented
+  on data that are not from a single long time series. Instead, data can come from
+  many short time series, which are stitched together using bootstrapping.
+date_publication: '2014-10-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=multispatialCCM
+url_git: ''

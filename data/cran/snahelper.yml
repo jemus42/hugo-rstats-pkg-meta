@@ -1,0 +1,14 @@
+version: 1.1.0
+title: '''RStudio'' Addin for Network Analysis and Visualization'
+maintainer: David Schoch
+description: |-
+  'RStudio' addin which provides a GUI to visualize and analyse networks.
+  After finishing a session, the code to produce the plot is inserted in the current script.
+  Alternatively, the function SNAhelperGadget() can be used directly from the console.
+  Additional addins include the Netreader() for reading network files and Netbuilder() to create
+  small networks via point and click.
+date_publication: '2020-03-04'
+bug_reports: https://github.com/schochastics/snahelper/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=snahelper
+url_git: https://github.com/schochastics/snahelper

@@ -1,0 +1,13 @@
+version: '1.1'
+title: Multinomial Cochran-Armitage Trend Test
+maintainer: Aniko Szabo
+description: |-
+  Implements a generalization of the Cochran-Armitage trend test to
+  multinomial data. In addition to an overall test, multiple testing adjusted
+  p-values for trend in individual outcomes and power calculation is
+  available.
+date_publication: '2017-08-07'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=multiCA
+url_git: ''

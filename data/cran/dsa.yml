@@ -1,0 +1,13 @@
+version: 0.74.18
+title: Seasonal Adjustment of Daily Time Series
+maintainer: Daniel Ollech
+description: |-
+  Seasonal- and calendar adjustment of time series
+  with daily frequency using the DSA approach developed by Ollech,
+  Daniel (2018): Seasonal adjustment of daily time series. Bundesbank
+  Discussion Paper 41/2018.
+date_publication: '2020-04-15'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=dsa
+url_git: ''

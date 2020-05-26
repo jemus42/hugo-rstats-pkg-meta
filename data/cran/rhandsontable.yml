@@ -1,0 +1,11 @@
+version: 0.3.7
+title: Interface to the 'Handsontable.js' Library
+maintainer: Jonathan Owen
+description: |-
+  An R interface to the 'Handsontable' JavaScript library, which is a
+  minimalist Excel-like data grid editor.  See <https://handsontable.com/> for details.
+date_publication: '2018-11-20'
+bug_reports: https://github.com/jrowen/rhandsontable/issues
+url: http://jrowen.github.io/rhandsontable/
+url_cran: https://CRAN.R-project.org/package=rhandsontable
+url_git: ''

@@ -1,0 +1,11 @@
+version: 1.3.4
+title: Goodness of Fit Tests for Logistic Regression Models
+maintainer: Matthew Jay
+description: Functions to assess the goodness of fit of binary, multinomial and ordinal
+  logistic models. Included are the Hosmer-Lemeshow tests (binary, multinomial and
+  ordinal) and the Lipsitz and Pulkstenis-Robinson tests (ordinal).
+date_publication: '2019-06-03'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=generalhoslem
+url_git: ''

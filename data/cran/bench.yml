@@ -1,0 +1,9 @@
+version: 1.1.1
+title: High Precision Timing of R Expressions
+maintainer: Jim Hester
+description: Tools to accurately benchmark and analyze execution times for R expressions.
+date_publication: '2020-01-13'
+bug_reports: https://github.com/r-lib/bench/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=bench
+url_git: https://github.com/r-lib/bench

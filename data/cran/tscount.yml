@@ -1,0 +1,12 @@
+version: 1.4.2
+title: Analysis of Count Time Series
+maintainer: Tobias Liboschik
+description: Likelihood-based methods for model fitting and assessment, prediction
+  and intervention analysis of count time series following generalized linear models
+  are provided. Models with the identity and with the logarithmic link function are
+  allowed. The conditional distribution can be Poisson or Negative Binomial.
+date_publication: '2020-03-02'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=tscount
+url_git: http://tscount.r-forge.r-project.org

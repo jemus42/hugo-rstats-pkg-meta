@@ -1,0 +1,16 @@
+version: 1.0.0
+title: |-
+  Bessel and Beta Regressions via Expectation-Maximization
+  Algorithm for Continuous Bounded Data
+maintainer: Vinicius Mayrink
+description: Functions to fit, via Expectation-Maximization (EM) algorithm, the Bessel
+  and Beta regressions to a data set with a bounded continuous response variable.
+  The Bessel regression is a new and robust approach proposed in the literature. The
+  EM version for the well known Beta regression is another major contribution of this
+  package. See the reference Barreto-Souza, Mayrink and Simas (2020) <arXiv:2003.05157>
+  for details.
+date_publication: '2020-03-20'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=bbreg
+url_git: ''

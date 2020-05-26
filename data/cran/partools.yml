@@ -1,0 +1,15 @@
+version: 1.1.6
+title: Tools for the 'Parallel' Package
+maintainer: Norm Matloff
+description: |-
+  Miscellaneous utilities for parallelizing large
+  computations.  Alternative to MapReduce.
+  File splitting and distributed operations such as sort and aggregate.
+  "Software Alchemy" method for parallelizing most statistical methods,
+  presented in N. Matloff, Parallel Computation for Data Science,
+  Chapman and Hall, 2015.  Includes a debugging aid.
+date_publication: '2017-04-10'
+bug_reports: https://github.com/matloff/partools/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=partools
+url_git: https://github.com/matloff/partools

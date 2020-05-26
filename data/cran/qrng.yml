@@ -1,0 +1,11 @@
+version: 0.0-7
+title: (Randomized) Quasi-Random Number Generators
+maintainer: Marius Hofert
+description: |-
+  Functionality for generating (randomized) quasi-random numbers in
+  high dimensions.
+date_publication: '2019-09-09'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=qrng
+url_git: ''

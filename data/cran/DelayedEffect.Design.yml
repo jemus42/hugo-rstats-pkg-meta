@@ -1,0 +1,13 @@
+version: 0.0.4
+title: |-
+  Sample Size and Power Calculations using the APPLE and SEPPLE
+  Methods
+maintainer: Zhenzhen Xu
+description: Provides sample size and power calculations when the treatment time-lag
+  effect is present and the lag duration is homogeneous across the individual subject.
+  The methods used are described in Xu, Z., Zhen, B., Park, Y., & Zhu, B. (2017) <doi:10.1002/sim.7157>.
+date_publication: '2017-09-01'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=DelayedEffect.Design
+url_git: ''

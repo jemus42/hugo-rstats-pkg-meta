@@ -1,0 +1,15 @@
+version: 3.1.0
+title: |-
+  Wavelet Routines for Global and Local Multiple Regression and
+  Correlation
+maintainer: Javier Fernandez-Macho
+description: |-
+  Wavelet routines that calculate single sets of wavelet multiple regressions and correlations,
+  and cross-regressions and cross-correlations from a multivariate time series.
+  Dynamic versions of the routines allow the wavelet local multiple (cross-)regressions and
+  (cross-)correlations to evolve over time.
+date_publication: '2020-05-17'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=wavemulcor
+url_git: ''

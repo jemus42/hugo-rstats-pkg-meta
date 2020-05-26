@@ -1,0 +1,15 @@
+version: 0.11.0
+title: Interaction Between R and REDCap
+maintainer: Will Beasley
+description: |-
+  Encapsulates functions to streamline calls from R to the REDCap
+  API.  REDCap (Research Electronic Data CAPture) is a web application for
+  building and managing online surveys and databases developed at Vanderbilt
+  University.  The Application Programming Interface (API) offers an avenue
+  to access and modify data programmatically, improving the capacity for
+  literate and reproducible programming.
+date_publication: '2020-04-22'
+bug_reports: https://github.com/OuhscBbmc/REDCapR/issues
+url: http://ouhsc.edu/bbmc/
+url_cran: https://CRAN.R-project.org/package=REDCapR
+url_git: https://github.com/OuhscBbmc/REDCapR

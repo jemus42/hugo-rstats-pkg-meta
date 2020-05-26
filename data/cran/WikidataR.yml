@@ -1,0 +1,11 @@
+version: 1.4.0
+title: API Client Library for 'Wikidata'
+maintainer: Oliver Keyes
+description: |-
+  An API client for the Wikidata <http://wikidata.org/> store of
+  semantic data.
+date_publication: '2017-09-22'
+bug_reports: https://github.com/Ironholds/WikidataR/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=WikidataR
+url_git: https://github.com/Ironholds/WikidataR/issues

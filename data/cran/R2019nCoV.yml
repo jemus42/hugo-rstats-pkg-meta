@@ -1,0 +1,17 @@
+version: 0.1.0
+title: Analysis of 2019-nCoV Virus
+maintainer: Nan Zhang
+description: Since December 2019, Wuhan City, Hubei Province has continued to carry
+  out surveillance of influenza and related diseases, and found multiple cases of
+  viral pneumonia, all of which were diagnosed with viral pneumonia / pulmonary infection.
+  On January 12, 2020, the World Health Organization officially named the new coronavirus
+  causing the pneumonia epidemic in Wuhan as "2019 New Coronavirus (2019-nCoV)". The
+  current epidemic situation is very serious, here we developed an R package for 2019-nCoV
+  analysis(Real-time monitoring and Visualization) by querying real-time statistics
+  of 2019-nCoV virus cases from <https://view.inews.qq.com/g2/getOnsInfo?name=disease_h5&callback=1580373566110>
+  and performing follow-up analysis.
+date_publication: '2020-02-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=R2019nCoV
+url_git: ''

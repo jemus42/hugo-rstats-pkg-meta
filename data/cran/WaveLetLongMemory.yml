@@ -1,0 +1,12 @@
+version: 0.1.2
+title: Estimating Long Memory Parameter using Wavelet
+maintainer: Dr. Ranjit Kumar Paul
+description: |-
+  Estimation of the long memory parameter using wavelets. Other estimation techniques like
+  GPH (Geweke and Porter-Hudak,1983, <DOI:10.1111/j.1467-9892.1983.tb00371.x>)
+  and Semiparametric methods(Robinson, P. M.,1995, <DOI:10.1214/aos/1176324317>) also have included.
+date_publication: '2017-10-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=WaveLetLongMemory
+url_git: ''

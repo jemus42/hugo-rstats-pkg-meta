@@ -1,0 +1,12 @@
+version: 0.3.0
+title: Inferential Statistics
+maintainer: Aravind Hebbali
+description: |-
+  Select set of parametric and non-parametric statistical tests. 'inferr' builds upon the solid set of
+  statistical tests provided in 'stats' package by including additional data types as inputs, expanding and
+  restructuring the test results. The tests included are t tests, variance tests, proportion tests, chi square tests, Levene's test, McNemar Test, Cochran's Q test and Runs test.
+date_publication: '2018-02-13'
+bug_reports: https://github.com/rsquaredacademy/inferr/issues
+url: https://rsquaredacademy.github.io/inferr/
+url_cran: https://CRAN.R-project.org/package=inferr
+url_git: https://github.com/rsquaredacademy/inferr

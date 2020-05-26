@@ -1,0 +1,15 @@
+version: 0.3.5
+title: Assigns Colours to Values
+maintainer: David Cooley
+description: |-
+  Maps one of the viridis colour palettes, or a user-specified palette to values.
+  Viridis colour maps are created by Stéfan van der Walt and Nathaniel Smith,
+  and were set as the default palette for the 'Python' 'Matplotlib' library <https://matplotlib.org/>.
+  Other palettes available in this library have been derived from
+  'RColorBrewer' <https://CRAN.R-project.org/package=RColorBrewer> and
+  'colorspace' <https://CRAN.R-project.org/package=colorspace> packages.
+date_publication: '2020-04-29'
+bug_reports: https://github.com/SymbolixAU/colourvalues/issues
+url: https://symbolixau.github.io/colourvalues/
+url_cran: https://CRAN.R-project.org/package=colourvalues
+url_git: ''

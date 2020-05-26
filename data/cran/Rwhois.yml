@@ -1,0 +1,9 @@
+version: 1.0.4
+title: WHOIS Server Querying
+maintainer: Brad Cable
+description: Queries data from WHOIS servers.
+date_publication: '2020-04-16'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=Rwhois
+url_git: ''

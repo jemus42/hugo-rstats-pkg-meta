@@ -1,0 +1,15 @@
+version: 2.4.1
+title: Thematic Cartography
+maintainer: Timothée Giraud
+description: |-
+  Create and integrate maps in your R workflow. This package helps
+  to design cartographic representations such as proportional symbols,
+  choropleth, typology, flows or discontinuities maps. It also offers several
+  features that improve the graphic presentation of maps, for instance, map
+  palettes, layout elements (scale, north arrow, title...), labels or legends.
+  See Giraud and Lambert (2017) <doi:10.1007/978-3-319-57336-6_13>.
+date_publication: '2020-04-20'
+bug_reports: https://github.com/riatelab/cartography/issues/
+url: ''
+url_cran: https://CRAN.R-project.org/package=cartography
+url_git: https://github.com/riatelab/cartography/

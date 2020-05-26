@@ -1,0 +1,13 @@
+version: 0.9.14
+title: Partitioning Using Deletion, Substitution, and Addition Moves
+maintainer: Annette Molinaro
+description: |-
+  A novel tool for generating a piecewise
+  constant estimation list of increasingly complex predictors
+  based on an intensive and comprehensive search over the entire
+  covariate space.
+date_publication: '2017-01-05'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=partDSA
+url_git: ''

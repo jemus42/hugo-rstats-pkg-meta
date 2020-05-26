@@ -1,0 +1,16 @@
+version: 0.3.3
+title: |-
+  Generate High-Dimensional Binary Data with Correlation
+  Structures
+maintainer: Shuang Song
+description: We design algorithms with linear time complexity with respect to the
+  dimension for three commonly studied correlation structures, including exchangeable,
+  decaying-product and K-dependent correlation structures, and extend the algorithms
+  to generate binary data of general non-negative correlation matrices with quadratic
+  time complexity. Jiang, W., Song, S.,  Hou, L. and Zhao, H. "A set of efficient
+  methods to generate high-dimensional binary data with correlation structures." Submitted.
+date_publication: '2019-10-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CorBin
+url_git: ''

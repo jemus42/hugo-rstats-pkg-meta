@@ -1,0 +1,11 @@
+version: '0.2'
+title: Bayesian Behavioural Capture-Recapture Models
+maintainer: Danilo Alunni Fegatelli
+description: Model fitting of flexible behavioural recapture models based on conditional
+  probability reparameterization and meaningful partial capture history quantification
+  also referred to as meaningful behavioural covariate.
+date_publication: '2020-02-14'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BBRecapture
+url_git: ''

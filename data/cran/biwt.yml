@@ -1,0 +1,11 @@
+version: '1.0'
+title: Functions to compute the biweight mean vector and covariance &<U+000a>correlation
+  matrices
+maintainer: Jo Hardin
+description: Compute multivariate location, scale, and correlation<U+000a>estimates
+  based on Tukey's biweight M-estimator.
+date_publication: '2012-10-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=biwt
+url_git: ''

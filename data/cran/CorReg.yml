@@ -1,0 +1,14 @@
+version: 1.2.17
+title: Linear Regression Based on Linear Structure Between Variables
+maintainer: Clement Thery
+description: |-
+  Linear regression based on a recursive structural equation model
+  (explicit multiples correlations) found by a M.C.M.C.(Markov Chain Monte Carlo) algorithm.
+  It permits to face highly correlated variables. Variable selection is included (by lasso,
+  elastic net, etc.). It also provides some graphical tools for basic statistics.
+  For more information about the method, read the PhD thesis of Clement Thery (2015) in the link below.
+date_publication: '2020-02-20'
+bug_reports: ''
+url: http://www.correg.org
+url_cran: https://CRAN.R-project.org/package=CorReg
+url_git: ''

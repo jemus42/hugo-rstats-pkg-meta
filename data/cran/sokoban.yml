@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Sokoban Game
+maintainer: Zhaoliang He
+description: Interactively play a game of sokoban ,which has nine game levels.Sokoban
+  is a type of transport puzzle, in which the player pushes boxes or crates around
+  in a warehouse, trying to get them to storage locations.
+date_publication: '2018-04-12'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=sokoban
+url_git: ''

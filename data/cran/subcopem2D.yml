@@ -1,0 +1,10 @@
+version: '1.3'
+title: Bivariate Empirical Subcopula
+maintainer: Arturo Erdely
+description: Calculate empirical subcopula and dependence measures from a given bivariate
+  sample, and Bernstein copula approximations.
+date_publication: '2019-03-19'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=subcopem2D
+url_git: ''

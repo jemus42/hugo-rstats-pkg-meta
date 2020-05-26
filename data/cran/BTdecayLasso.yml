@@ -1,0 +1,15 @@
+version: 0.1.0
+title: |-
+  Bradley-Terry Model with Exponential Time Decayed Log-Likelihood
+  and Adaptive Lasso
+maintainer: Yunpeng Zhou
+description: We apply Bradley-Terry Model to estimate teams' ability in paired comparison
+  data. Exponential Decayed Log-likelihood function is applied for dynamic approximation
+  of current rankings and Lasso penalty is applied for variance reduction and grouping.
+  The main algorithm applies the Augmented Lagrangian Method described by Masarotto
+  and Varin (2012) <doi:10.1214/12-AOAS581>.
+date_publication: '2018-06-27'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=BTdecayLasso
+url_git: ''

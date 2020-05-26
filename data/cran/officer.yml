@@ -1,0 +1,17 @@
+version: 0.3.11
+title: Manipulation of Microsoft Word and PowerPoint Documents
+maintainer: David Gohel
+description: |-
+  Access and manipulate 'Microsoft Word' and 'Microsoft PowerPoint' documents from R.
+  The package focuses on tabular and graphical reporting from R; it also provides two functions
+  that let users get document content into data objects. A set of functions
+  lets add and remove images, tables and paragraphs of text in new or existing documents.
+  When working with 'PowerPoint' presentations, slides can be added or removed; shapes inside
+  slides can also be added or removed. When working with 'Word' documents, a cursor can be
+  used to help insert or delete content at a specific location in the document. The package
+  does not require any installation of Microsoft products to be able to write Microsoft files.
+date_publication: '2020-05-18'
+bug_reports: https://github.com/davidgohel/officer/issues
+url: https://davidgohel.github.io/officer
+url_cran: https://CRAN.R-project.org/package=officer
+url_git: ''

@@ -1,0 +1,21 @@
+version: 1.2-4
+title: |-
+  Independent component analysis using score functions from the
+  Pearson system
+maintainer: Juha Karvanen
+description: |-
+  The Pearson-ICA algorithm is a mutual information-based
+  method for blind separation of statistically independent source
+  signals. It has been shown that the minimization of mutual
+  information leads to iterative use of score functions, i.e.
+  derivatives of log densities. The Pearson system allows
+  adaptive modeling of score functions. The flexibility of the
+  Pearson system makes it possible to model a wide range of
+  source distributions including asymmetric distributions. The
+  algorithm is designed especially for problems with asymmetric
+  sources but it works for symmetric sources as well.
+date_publication: '2009-06-29'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=PearsonICA
+url_git: ''

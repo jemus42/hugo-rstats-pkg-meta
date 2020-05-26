@@ -1,0 +1,19 @@
+version: 0.2.2
+title: |-
+  Access, Retrieve, and Work with Canadian Census Data and
+  Geography
+maintainer: Dmitry Shkolnik
+description: |-
+  Integrated, convenient, and uniform access to Canadian
+  Census data and geography retrieved using the 'CensusMapper' API. This package produces analysis-ready
+  tidy data frames and spatial data in multiple formats, as well as convenience functions
+  for working with Census variables, variable hierarchies, and region selection. API
+  keys are freely available with free registration at <https://censusmapper.ca/api>.
+  Census data and boundary geometries are reproduced and distributed on an "as
+  is" basis with the permission of Statistics Canada (Statistics Canada 2001; 2006;
+  2011; 2016).
+date_publication: '2020-05-12'
+bug_reports: https://github.com/mountainMath/cancensus/issues
+url: https://mountainmath.github.io/cancensus/
+url_cran: https://CRAN.R-project.org/package=cancensus
+url_git: https://github.com/mountainMath/cancensus

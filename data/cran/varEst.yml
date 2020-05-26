@@ -1,0 +1,11 @@
+version: 0.1.0
+title: Variance Estimation
+maintainer: Sayanti Guha Majumdar
+description: Error variance estimation in ultrahigh dimensional datasets with four
+  different methods, viz. Refitted cross validation, k-fold refitted cross validation,
+  Bootstrap-refitted cross validation, Ensemble method.
+date_publication: '2019-09-23'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=varEst
+url_git: ''

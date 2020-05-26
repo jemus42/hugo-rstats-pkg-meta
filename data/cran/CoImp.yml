@@ -1,0 +1,10 @@
+version: '1.0'
+title: Copula Based Imputation Method
+maintainer: Francesca Marta Lilja Di Lascio
+description: Copula based imputation method. A semiparametric imputation procedure
+  for missing multivariate data based on conditional copula specifications.
+date_publication: '2019-06-28'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=CoImp
+url_git: ''

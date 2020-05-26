@@ -1,0 +1,15 @@
+version: '1.2'
+title: Estimation and Simulation for PDMPs
+maintainer: Romain Azais
+description: This package deals with the estimation of the jump rate for piecewise-deterministic
+  Markov processes (PDMPs), from only one observation of the process within a long
+  time. The main functions provide an estimate of this function. The state space may
+  be discrete or continuous. The associated paper has been published in Scandinavian
+  Journal of Statistics and is given in references. Other functions provide a method
+  to simulate random variables from their (conditional) hazard rate, and then to simulate
+  PDMPs.
+date_publication: '2014-11-26'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=EstSimPDMP
+url_git: ''

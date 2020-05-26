@@ -1,0 +1,18 @@
+version: 3.5.1
+title: Bivalve Growth and Trace Element Accumulation Model
+maintainer: Niels J. de Winter
+description: |2-
+
+  Contains all the formulae of the growth and trace element uptake model described in the equally-named
+  Geoscientific Model Development paper (de Winter, 2017, <doi:10.5194/gmd-2017-137>). The model takes as input a file with X- and Y-coordinates of digitized
+  growth increments recognized on a longitudinal cross section through the bivalve shell, as well as a BMP file of an elemental map of the
+  cross section surface with chemically distinct phases separated by phase analysis. It proceeds by a step-by-step process described in
+  the paper, by which digitized growth increments are used to calculate changes in shell height, shell thickness, shell volume, shell mass
+  and shell growth rate through the bivalve's life time. Then, results of this growth modelling are combined with the trace element mapping
+  results to trace the incorporation of trace elements into the bivalve shell. Results of various modelling parameters can be exported in
+  the form of XLSX files.
+date_publication: '2017-10-06'
+bug_reports: https://github.com/nielsjdewinter/ShellTrace/issues
+url: https://doi.org/10.5194/gmd-2017-137-supplement
+url_cran: https://CRAN.R-project.org/package=shelltrace
+url_git: https://github.com/nielsjdewinter/ShellTrace

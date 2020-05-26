@@ -1,0 +1,14 @@
+version: 0.2.6
+title: Rename and Encode Data Frames Using External Crosswalk Files
+maintainer: Benjamin Skinner
+description: |-
+  A pair of functions for renaming and encoding data frames
+  using external crosswalk files. It is especially useful when
+  constructing master data sets from multiple smaller data
+  sets that do not name or encode variables consistently
+  across files. Based on similar commands in 'Stata'.
+date_publication: '2020-01-08'
+bug_reports: https://github.com/btskinner/crosswalkr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=crosswalkr
+url_git: https://github.com/btskinner/crosswalkr

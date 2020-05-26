@@ -1,0 +1,12 @@
+version: 0.9.0
+title: Sparse Reluctant Interaction Modeling
+maintainer: Guo Yu
+description: An implementation of a computationally efficient method to fit large-scale
+  interaction models based on the reluctant interaction selection principle. The method
+  and its properties are described in greater depth in Yu, G., Bien, J., and Tibshirani,
+  R.J. (2019) "Reluctant interaction modeling", which is available at <arXiv:1907.08414>.
+date_publication: '2019-08-24'
+bug_reports: https://github.com/hugogogo/sprintr/issues
+url: ''
+url_cran: https://CRAN.R-project.org/package=sprintr
+url_git: ''

@@ -1,0 +1,11 @@
+version: '2.2'
+title: Multiple Correspondence Analysis Variants
+maintainer: Rosaria Lombardo
+description: |-
+  Provides two variants of multiple correspondence analysis (ca):
+  multiple ca and ordered multiple ca via orthogonal polynomials of Emerson.
+date_publication: '2019-01-21'
+bug_reports: ''
+url: ''
+url_cran: https://CRAN.R-project.org/package=MCAvariants
+url_git: ''

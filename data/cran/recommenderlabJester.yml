@@ -1,0 +1,9 @@
+version: 0.1-2
+title: Jester Dataset for 'recommenderlab'
+maintainer: Michael Hahsler
+description: Provides the Jester Dataset for package recommenderlab.
+date_publication: '2016-05-03'
+bug_reports: ''
+url: http://lyle.smu.edu/IDA/recommenderlab/
+url_cran: https://CRAN.R-project.org/package=recommenderlabJester
+url_git: ''
