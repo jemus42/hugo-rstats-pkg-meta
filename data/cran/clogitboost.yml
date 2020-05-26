@@ -1,9 +1,0 @@
-version: '1.1'
-title: Boosting Conditional Logit Model
-maintainer: Haolun Shi
-description: A set of functions to fit a boosting conditional logit model.
-date_publication: '2015-12-21'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=clogitboost
-url_git: ''

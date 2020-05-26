@@ -1,9 +1,0 @@
-version: '0.9'
-title: Timelines for a Grammar of Graphics
-maintainer: Jason Bryer
-description: Create timeline plots.
-date_publication: '2013-05-09'
-bug_reports: https://github.com/jbryer/timeline/issues
-url: http://jason.bryer.org/timeline
-url_cran: https://CRAN.R-project.org/package=timeline
-url_git: http://github.com/jbryer/timeline

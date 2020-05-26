@@ -1,9 +1,0 @@
-version: 0.5.6
-title: Latent Structure Learning
-maintainer: Po-Hsien Huang
-description: Fits structural equation modeling via penalized likelihood.
-date_publication: '2017-11-08'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=lsl
-url_git: ''

@@ -1,9 +1,0 @@
-version: '2.1'
-title: Convert GBM Object Trees to SAS Code
-maintainer: John R. Dixon
-description: Writes SAS code to get predicted values from every tree of a gbm.object.
-date_publication: '2015-11-11'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=gbm2sas
-url_git: ''

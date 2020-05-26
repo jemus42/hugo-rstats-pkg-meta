@@ -1,9 +1,0 @@
-version: 0.5.8
-title: Geometries to Plot Networks with 'ggplot2'
-maintainer: François Briatte
-description: Geometries to plot network objects with 'ggplot2'.
-date_publication: '2020-02-12'
-bug_reports: https://github.com/briatte/ggnetwork/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=ggnetwork
-url_git: https://github.com/briatte/ggnetwork

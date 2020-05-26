@@ -1,9 +1,0 @@
-version: 1.1-0
-title: Corpora Co-Occurrence Comparison
-maintainer: Anthony Hennessey
-description: A set of functions used to compare co-occurrence between two corpora.
-date_publication: '2017-11-23'
-bug_reports: https://github.com/birmingham-ccr/CorporaCoCo/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=CorporaCoCo
-url_git: ''

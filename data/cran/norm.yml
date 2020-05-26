@@ -1,9 +1,0 @@
-version: 1.0-9.5
-title: Analysis of multivariate normal datasets with missing values
-maintainer: John Fox
-description: Analysis of multivariate normal datasets with missing<U+000a>values
-date_publication: '2013-02-28'
-bug_reports: ''
-url: http://www.stat.psu.edu/~jls/misoftwa.html#aut
-url_cran: https://CRAN.R-project.org/package=norm
-url_git: ''

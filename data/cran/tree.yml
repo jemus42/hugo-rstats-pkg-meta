@@ -1,9 +1,0 @@
-version: 1.0-40
-title: Classification and Regression Trees
-maintainer: Brian Ripley
-description: Classification and regression trees.
-date_publication: '2019-04-26'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=tree
-url_git: ''

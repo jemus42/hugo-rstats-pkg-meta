@@ -1,9 +1,0 @@
-version: 0.2.0
-title: Reading, Extracting, and Converting an Mbox File into a Tibble
-maintainer: JooYoung Seo
-description: Importing and converting an mbox file into a tibble object.
-date_publication: '2019-10-28'
-bug_reports: https://github.com/jooyoungseo/mboxr/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=mboxr
-url_git: https://github.com/jooyoungseo/mboxr

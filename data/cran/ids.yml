@@ -1,9 +1,0 @@
-version: 1.0.1
-title: Generate Random Identifiers
-maintainer: Rich FitzJohn
-description: Generate random or human readable and pronounceable identifiers.
-date_publication: '2017-05-31'
-bug_reports: https://github.com/richfitz/ids/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=ids
-url_git: https://github.com/richfitz/ids

@@ -1,9 +1,0 @@
-version: 0.2.0
-title: Autograph R for 'Tensorflow'
-maintainer: Tomasz Kalinowski
-description: Translate R control flow expressions into 'Tensorflow' graphs.
-date_publication: '2020-01-08'
-bug_reports: https://github.com/t-kalinowski/tfautograph/issues
-url: https://t-kalinowski.github.io/tfautograph/
-url_cran: https://CRAN.R-project.org/package=tfautograph
-url_git: ''

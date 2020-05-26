@@ -1,9 +1,0 @@
-version: '2.29'
-title: MCMC Generalised Linear Mixed Models
-maintainer: Jarrod Hadfield
-description: MCMC Generalised Linear Mixed Models.
-date_publication: '2019-04-24'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=MCMCglmm
-url_git: ''

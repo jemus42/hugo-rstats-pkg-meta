@@ -1,9 +1,0 @@
-version: '1.1'
-title: Periodic B Splines
-maintainer: swang1
-description: Periodic B Splines Basis
-date_publication: '2013-06-08'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=pbs
-url_git: ''

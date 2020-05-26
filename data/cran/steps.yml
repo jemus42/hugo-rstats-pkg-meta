@@ -1,9 +1,0 @@
-version: 1.1.0
-title: Spatially- and Temporally-Explicit Population Simulator
-maintainer: Casey Visintin
-description: Software to simulate population change across space and time.
-date_publication: '2020-03-23'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=steps
-url_git: ''

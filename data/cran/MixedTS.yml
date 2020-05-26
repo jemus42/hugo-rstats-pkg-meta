@@ -1,9 +1,0 @@
-version: 1.0.4
-title: Mixed Tempered Stable Distribution
-maintainer: Lorenzo Mercuri
-description: We provide detailed functions for univariate Mixed Tempered Stable distribution.
-date_publication: '2015-10-25'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=MixedTS
-url_git: ''

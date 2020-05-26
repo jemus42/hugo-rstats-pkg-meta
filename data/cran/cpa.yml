@@ -1,9 +1,0 @@
-version: '1.0'
-title: Confirmatory Path Analysis through the d-sep tests
-maintainer: Alessandro Bellino
-description: The package includes functions to test and compare causal models.
-date_publication: '2013-10-12'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=cpa
-url_git: ''

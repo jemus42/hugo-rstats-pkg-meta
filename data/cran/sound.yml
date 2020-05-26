@@ -1,9 +1,0 @@
-version: 1.4.5
-title: A Sound Interface for R
-maintainer: Stefan Langenberg
-description: Basic functions for dealing with wav files and sound samples.
-date_publication: '2017-11-10'
-bug_reports: ''
-url: http://www.MatthiasHeymann.de
-url_cran: https://CRAN.R-project.org/package=sound
-url_git: ''

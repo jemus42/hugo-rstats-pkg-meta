@@ -1,9 +1,0 @@
-version: '1.2'
-title: Tests for Exponentiality
-maintainer: Ruslan Pusev
-description: Tests for the composite hypothesis of exponentiality
-date_publication: '2013-12-01'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=exptest
-url_git: ''

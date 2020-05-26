@@ -1,9 +1,0 @@
-version: 0.1.0
-title: Integration for B-Spline
-maintainer: Yue Bai
-description: Integrated B-spline function.
-date_publication: '2016-06-27'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=IntegrateBs
-url_git: ''

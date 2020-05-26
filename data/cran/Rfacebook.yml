@@ -1,9 +1,0 @@
-version: 0.6.15
-title: Access to Facebook API via R
-maintainer: Pablo Barbera
-description: Provides an interface to the Facebook API.
-date_publication: '2017-05-25'
-bug_reports: https://github.com/pablobarbera/Rfacebook/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=Rfacebook
-url_git: https://github.com/pablobarbera/Rfacebook

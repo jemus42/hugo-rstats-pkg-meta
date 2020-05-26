@@ -1,9 +1,0 @@
-version: 0.5.0
-title: Chat with Watson's Assistant API
-maintainer: Ignacio Martinez
-description: Chat with a chatbot created with the 'IBM Watson Assistant' <https://www.ibm.com/cloud/watson-assistant/>.
-date_publication: '2019-03-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=IMWatson
-url_git: ''

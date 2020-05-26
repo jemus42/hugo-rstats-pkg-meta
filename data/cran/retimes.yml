@@ -1,9 +1,0 @@
-version: 0.1-2
-title: Reaction Time Analysis
-maintainer: Davide Massidda
-description: Reaction time analysis by maximum likelihood
-date_publication: '2013-07-02'
-bug_reports: ''
-url: http://www.humandata.it/
-url_cran: https://CRAN.R-project.org/package=retimes
-url_git: ''

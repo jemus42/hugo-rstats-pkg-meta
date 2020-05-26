@@ -1,9 +1,0 @@
-version: 2.4.0
-title: Tools for Healthcare Machine Learning
-maintainer: Mike Mastanduno
-description: A machine learning toolbox tailored to healthcare data.
-date_publication: '2020-02-28'
-bug_reports: https://github.com/HealthCatalyst/healthcareai-r/issues
-url: http://docs.healthcare.ai
-url_cran: https://CRAN.R-project.org/package=healthcareai
-url_git: ''

@@ -1,9 +1,0 @@
-version: 1.1-8
-title: Computes Local False Discovery Rates
-maintainer: Balasubramanian Narasimhan
-description: Computation of local false discovery rates.
-date_publication: '2015-07-15'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=locfdr
-url_git: ''

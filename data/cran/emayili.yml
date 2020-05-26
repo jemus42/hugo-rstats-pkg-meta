@@ -1,9 +1,0 @@
-version: 0.3.9
-title: Send Email Messages
-maintainer: Andrew B. Collier
-description: A light, simple tool for sending emails with minimal dependencies.
-date_publication: '2020-03-07'
-bug_reports: https://github.com/datawookie/emayili/issues
-url: https://datawookie.github.io/emayili/
-url_cran: https://CRAN.R-project.org/package=emayili
-url_git: ''

@@ -1,9 +1,0 @@
-version: 0.9-13
-title: Nonlinear least squares examples from NIST
-maintainer: Douglas Bates
-description: Datasets for testing nonlinear regression routines.
-date_publication: '2012-09-06'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=NISTnls
-url_git: ''

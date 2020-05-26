@@ -1,9 +1,0 @@
-version: '1.16'
-title: SPARQL client
-maintainer: Willem Robert van Hage
-description: Use SPARQL to pose SELECT or UPDATE queries to an end-point.
-date_publication: '2013-10-25'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=SPARQL
-url_git: ''

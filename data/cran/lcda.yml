@@ -1,9 +1,0 @@
-version: '0.3'
-title: Latent Class Discriminant Analysis
-maintainer: Michael Buecker
-description: Local Discrimination via Latent Class Models
-date_publication: '2011-04-06'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=lcda
-url_git: ''

@@ -1,9 +1,0 @@
-version: 1.0.2
-title: 4253H, Twice Smoothing
-maintainer: Muntashir-Al-Arefin
-description: Compute Time series Resistant Smooth 4253H, twice smoothing method.
-date_publication: '2015-12-05'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=sleekts
-url_git: ''

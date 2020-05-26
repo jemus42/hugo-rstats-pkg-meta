@@ -1,9 +1,0 @@
-version: 2.4.5
-title: R Front End for 'Apache Spark'
-maintainer: Shivaram Venkataraman
-description: Provides an R Front end for 'Apache Spark' <https://spark.apache.org>.
-date_publication: '2020-02-07'
-bug_reports: https://spark.apache.org/contributing.html
-url: https://www.apache.org/https://spark.apache.org/
-url_cran: https://CRAN.R-project.org/package=SparkR
-url_git: ''

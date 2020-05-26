@@ -1,9 +1,0 @@
-version: '1.0'
-title: Venn Diagrams in 2D and 3D
-maintainer: Zehao Xu
-description: Calculate and plot Venn diagrams in 2D and 3D.
-date_publication: '2017-10-17'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=vennplot
-url_git: ''

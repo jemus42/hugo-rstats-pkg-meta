@@ -1,9 +1,0 @@
-version: 4.0.0
-title: Tool for sending interactive plots with tool-tip content.
-maintainer: Lori A. Shepherd
-description: A tool for visualizing data
-date_publication: '2013-04-25'
-bug_reports: ''
-url: <U+000a>http://sphhp.buffalo.edu/biostat/research/software/sendplot/index.php
-url_cran: https://CRAN.R-project.org/package=sendplot
-url_git: ''

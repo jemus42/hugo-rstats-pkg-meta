@@ -1,9 +1,0 @@
-version: '1.1'
-title: Tests for Uniformity
-maintainer: Ruslan Pusev
-description: Goodness-of-fit tests for the uniform distribution.
-date_publication: '2015-05-01'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=uniftest
-url_git: ''

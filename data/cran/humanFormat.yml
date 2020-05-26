@@ -1,9 +1,0 @@
-version: '1.0'
-title: Human-friendly formatting functions
-maintainer: Dustin Sallings
-description: Format quantities of time or bytes into human-friendly strings.
-date_publication: '2013-11-25'
-bug_reports: https://github.com/dustin/humanFormat/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=humanFormat
-url_git: https://github.com/dustin/humanFormat

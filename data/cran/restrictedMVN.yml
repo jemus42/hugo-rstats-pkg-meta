@@ -1,9 +1,0 @@
-version: '1.0'
-title: Multivariate Normal Restricted by Affine Constraints
-maintainer: Yuval Benjamini
-description: A fast Gibbs sampler for multivariate normal with affine constraints.
-date_publication: '2016-12-27'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=restrictedMVN
-url_git: ''

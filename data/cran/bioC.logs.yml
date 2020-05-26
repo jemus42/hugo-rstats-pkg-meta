@@ -1,9 +1,0 @@
-version: '1.1'
-title: BioConductor Package Downloads Stats
-maintainer: Marcelo Ponce
-description: Download stats reports from the BioConductor.org stats website.
-date_publication: '2020-02-13'
-bug_reports: https://github.com/mponce0/bioC.logs/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=bioC.logs
-url_git: https://github.com/mponce0/bioC.logs

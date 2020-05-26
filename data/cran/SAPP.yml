@@ -1,9 +1,0 @@
-version: 1.0.7
-title: Statistical Analysis of Point Processes
-maintainer: Masami Saga
-description: Functions for statistical analysis of point processes.
-date_publication: '2016-10-05'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=SAPP
-url_git: ''

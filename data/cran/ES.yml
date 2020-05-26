@@ -1,9 +1,0 @@
-version: '1.0'
-title: Edge Selection
-maintainer: Meng Hwee Victor Ong<g0900757@nus.edu.sg>
-description: Implementation of the Edge Selection Algorithm
-date_publication: '2013-08-13'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=ES
-url_git: ''

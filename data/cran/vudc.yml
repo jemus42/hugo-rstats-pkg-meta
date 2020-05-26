@@ -1,9 +1,0 @@
-version: '1.1'
-title: Visualization of Univariate Data for Comparison
-maintainer: Csaba Farago
-description: 'Contains functions for visualization univariate data: ccdplot and qddplot.'
-date_publication: '2016-02-21'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=vudc
-url_git: ''

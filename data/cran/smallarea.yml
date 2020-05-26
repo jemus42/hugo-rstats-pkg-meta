@@ -1,9 +1,0 @@
-version: '0.1'
-title: Fits a Fay Herriot Model
-maintainer: Abhishek Nandy
-description: Inference techniques for Fay Herriot Model.
-date_publication: '2015-10-05'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=smallarea
-url_git: ''

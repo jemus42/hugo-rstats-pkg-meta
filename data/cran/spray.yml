@@ -1,9 +1,0 @@
-version: 1.0-9
-title: Sparse Arrays and Multivariate Polynomials
-maintainer: Robin K. S. Hankin
-description: Sparse arrays interpreted as multivariate polynomials.
-date_publication: '2020-05-17'
-bug_reports: https://github.com/RobinHankin/spray/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=spray
-url_git: https://github.com/RobinHankin/spray.git

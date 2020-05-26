@@ -1,9 +1,0 @@
-version: 1.2.1
-title: Lexicons for Text Analysis
-maintainer: Tyler Rinker
-description: A collection of lexical hash tables, dictionaries, and word lists.
-date_publication: '2019-03-21'
-bug_reports: https://github.com/trinker/lexicon/issues?state=open
-url: ''
-url_cran: https://CRAN.R-project.org/package=lexicon
-url_git: https://github.com/trinker/lexicon

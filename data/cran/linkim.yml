@@ -1,9 +1,0 @@
-version: '0.1'
-title: Linkage information based genotype imputation method
-maintainer: Yi Xu
-description: A linkage information based method for imputing missing diploid genotypes
-date_publication: '2014-01-14'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=linkim
-url_git: ''

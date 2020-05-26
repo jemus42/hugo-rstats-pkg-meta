@@ -1,9 +1,0 @@
-version: '1.0'
-title: Poisson-Tweedie exponential family models
-maintainer: David Pechel Cactcha
-description: Simulation of models Poisson-Tweedie.
-date_publication: '2012-10-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=poistweedie
-url_git: ''

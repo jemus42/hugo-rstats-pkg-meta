@@ -1,9 +1,0 @@
-version: '1.0'
-title: Instrumental Variables Two Stage Least Squares estimation
-maintainer: Zaghdoudi Taha
-description: Fit an Instrumental Variables Two Stage Least Squares model
-date_publication: '2014-04-01'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=tosls
-url_git: ''

@@ -1,9 +1,0 @@
-version: 1.1-2
-title: World Population Prospects 2015
-maintainer: Hana Sevcikova
-description: Provides data from the United Nation's World Population Prospects 2015.
-date_publication: '2019-01-07'
-bug_reports: ''
-url: http://esa.un.org/wpp
-url_cran: https://CRAN.R-project.org/package=wpp2015
-url_git: ''

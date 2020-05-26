@@ -1,9 +1,0 @@
-version: 0.2.0
-title: Multiscalar Territorial Analysis
-maintainer: Timothée Giraud
-description: Build multiscalar territorial analysis based on various contexts.
-date_publication: '2019-10-16'
-bug_reports: https://github.com/riatelab/MTA/issues/
-url: ''
-url_cran: https://CRAN.R-project.org/package=MTA
-url_git: https://github.com/riatelab/MTA/

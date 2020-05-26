@@ -1,9 +1,0 @@
-version: 0.2-16
-title: Code Analysis Tools for R
-maintainer: Luke Tierney
-description: Code analysis tools for R.
-date_publication: '2018-12-24'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=codetools
-url_git: ''

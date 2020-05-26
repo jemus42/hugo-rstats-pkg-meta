@@ -1,9 +1,0 @@
-version: 0.2-1
-title: Fast Goodness-of-fit Test
-maintainer: Jun Yan
-description: Goodness-of-fit test with multiplier or parametric<U+000a>bootstrap.
-date_publication: '2012-05-25'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=fgof
-url_git: ''

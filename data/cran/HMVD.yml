@@ -1,9 +1,0 @@
-version: '1.0'
-title: Group Association Test using a Hidden Markov Model
-maintainer: Yichen Cheng
-description: Perform association test between a group of variable and the outcome.
-date_publication: '2016-05-13'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=HMVD
-url_git: ''

@@ -1,9 +1,0 @@
-version: 0.3.0
-title: Interactive 'ggplot2' Layer and Theme Aesthetic Editor
-maintainer: Jonathan Sidi
-description: Interactively edit 'ggplot2' layer and theme aesthetics definitions.
-date_publication: '2018-07-03'
-bug_reports: https://github.com/metrumresearchgroup/ggedit/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=ggedit
-url_git: https://github.com/metrumresearchgroup/ggedit

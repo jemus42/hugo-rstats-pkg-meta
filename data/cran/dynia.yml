@@ -1,9 +1,0 @@
-version: '0.2'
-title: Fit Dynamic Intervention Model
-maintainer: A.I. McLeod
-description: Fit dynamic intervention model using the arima() function.
-date_publication: '2014-05-16'
-bug_reports: ''
-url: http://www.stats.uwo.ca/faculty/aim
-url_cran: https://CRAN.R-project.org/package=dynia
-url_git: ''

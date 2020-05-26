@@ -1,9 +1,0 @@
-version: 1.0.6
-title: rChoiceDialogs collection
-maintainer: Alex Lisovich
-description: Collection of portable choice dialog widgets
-date_publication: '2014-09-11'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=rChoiceDialogs
-url_git: ''

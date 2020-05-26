@@ -1,9 +1,0 @@
-version: 0.1.0
-title: Error Tracking and Logging
-maintainer: Andrew Kane
-description: Reports errors and messages to Rollbar, the error tracking platform <https://rollbar.com>.
-date_publication: '2016-05-14'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=rollbar
-url_git: ''

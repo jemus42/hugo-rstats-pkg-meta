@@ -1,9 +1,0 @@
-version: 0.2.3
-title: Rule- And Instance-Based Regression Modeling
-maintainer: Max Kuhn
-description: Regression modeling using rules with added instance-based corrections.
-date_publication: '2020-01-10'
-bug_reports: https://github.com/topepo/Cubist/issues
-url: https://topepo.github.io/Cubist
-url_cran: https://CRAN.R-project.org/package=Cubist
-url_git: ''

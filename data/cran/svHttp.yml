@@ -1,9 +1,0 @@
-version: 0.9-55
-title: SciViews GUI API - R HTTP server
-maintainer: Philippe Grosjean
-description: Implements a simple HTTP server allowing to connect GUI clients to R
-date_publication: '2014-03-02'
-bug_reports: https://r-forge.r-project.org/tracker/?group_id=194
-url: http://www.sciviews.org/SciViews-R
-url_cran: https://CRAN.R-project.org/package=svHttp
-url_git: ''

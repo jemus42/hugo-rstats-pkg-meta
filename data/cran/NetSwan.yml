@@ -1,9 +1,0 @@
-version: '0.1'
-title: Network Strengths and Weaknesses Analysis
-maintainer: Serge Lhomme
-description: A set of functions for studying network robustness, resilience and vulnerability.
-date_publication: '2015-11-01'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=NetSwan
-url_git: ''

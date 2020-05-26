@@ -1,9 +1,0 @@
-version: '1.1'
-title: POM - Patch Occupancy Models
-maintainer: Fawn Hornsby
-description: This package fits a patch occupancy model
-date_publication: '2013-05-20'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=pom
-url_git: ''

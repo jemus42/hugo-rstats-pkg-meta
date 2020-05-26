@@ -1,9 +1,0 @@
-version: 0.0-6.5
-title: Analysis of categorical-variable datasets with missing values
-maintainer: Fernando Tusell
-description: Analysis of categorical-variable with missing values
-date_publication: '2012-10-30'
-bug_reports: ''
-url: http://www.stat.psu.edu/~jls/misoftwa.html#aut
-url_cran: https://CRAN.R-project.org/package=cat
-url_git: ''

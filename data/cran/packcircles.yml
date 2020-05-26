@@ -1,9 +1,0 @@
-version: 0.3.3
-title: Circle Packing
-maintainer: Michael Bedward
-description: Simple algorithms for circle packing.
-date_publication: '2018-09-18'
-bug_reports: https://github.com/mbedward/packcircles/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=packcircles
-url_git: https://github.com/mbedward/packcircles

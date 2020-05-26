@@ -1,9 +1,0 @@
-version: '1.0'
-title: Package for holding the database for the extrafont package
-maintainer: Winston Chang
-description: Package for holding the database for the extrafont package
-date_publication: '2012-06-11'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=extrafontdb
-url_git: https://github.com/wch/extrafontdb

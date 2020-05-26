@@ -1,9 +1,0 @@
-version: 1.1.0
-title: '''NetCDF'' Geometry and Time Series'
-maintainer: David Blodgett
-description: Tools to create time series and geometry 'NetCDF' files.
-date_publication: '2019-08-28'
-bug_reports: https://github.com/USGS-R/ncdfgeom/issues
-url: https://code.usgs.gov/water/ncdfgeom
-url_cran: https://CRAN.R-project.org/package=ncdfgeom
-url_git: ''

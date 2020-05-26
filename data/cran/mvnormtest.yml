@@ -1,9 +1,0 @@
-version: 0.1-9
-title: Normality test for multivariate variables
-maintainer: Slawomir Jarek
-description: Generalization of shapiro-wilk test for multivariate<U+000a>variables.
-date_publication: '2012-04-12'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=mvnormtest
-url_git: ''

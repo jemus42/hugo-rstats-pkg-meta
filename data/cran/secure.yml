@@ -1,9 +1,0 @@
-version: '0.5'
-title: Sequential Co-Sparse Factor Regression
-maintainer: Aditya Mishra
-description: Sequential factor extraction via co-sparse unit-rank estimation (SeCURE).
-date_publication: '2017-04-07'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=secure
-url_git: ''

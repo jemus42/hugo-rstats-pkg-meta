@@ -1,9 +1,0 @@
-version: '0.4'
-title: Scrape Lake Metadata Tables from Wikipedia
-maintainer: Joseph Stachelek
-description: Scrape lake metadata tables from Wikipedia <http://www.wikipedia.org>.
-date_publication: '2018-06-07'
-bug_reports: https://github.com/jsta/wikilake/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=wikilake
-url_git: https://github.com/jsta/wikilake

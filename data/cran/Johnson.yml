@@ -1,9 +1,0 @@
-version: '1.4'
-title: Johnson Transformation
-maintainer: Edgar Santos Fernandez
-description: RE.Johnson performs the Johnson Transformation to increase the normality.
-date_publication: '2014-04-15'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=Johnson
-url_git: ''

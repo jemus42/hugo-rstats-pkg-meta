@@ -1,9 +1,0 @@
-version: 1.1.0
-title: Quantile Comparison for Two-Sample Right-Censored Survival Data
-maintainer: Eric S. Kawaguchi
-description: Nonparametric two-sample procedure for comparing survival quantiles.
-date_publication: '2017-12-07'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=controlTest
-url_git: ''

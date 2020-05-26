@@ -1,9 +1,0 @@
-version: 1.5.0
-title: Spatial Objects of the Czech Republic
-maintainer: Jindra Lacko
-description: Administrative regions and other spatial objects of the Czech Republic.
-date_publication: '2020-05-04'
-bug_reports: https://github.com/jlacko/RCzechia/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=RCzechia
-url_git: https://github.com/jlacko/RCzechia

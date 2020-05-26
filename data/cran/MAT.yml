@@ -1,9 +1,0 @@
-version: '2.2'
-title: Multidimensional Adaptive Testing
-maintainer: Seung W. Choi
-description: Simulate Multidimensional Adaptive Testing
-date_publication: '2014-11-05'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=MAT
-url_git: ''

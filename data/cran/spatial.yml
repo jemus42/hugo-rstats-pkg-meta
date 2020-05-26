@@ -1,9 +1,0 @@
-version: 7.3-12
-title: Functions for Kriging and Point Pattern Analysis
-maintainer: Brian Ripley
-description: Functions for kriging and point pattern analysis.
-date_publication: '2020-04-26'
-bug_reports: ''
-url: http://www.stats.ox.ac.uk/pub/MASS4/
-url_cran: https://CRAN.R-project.org/package=spatial
-url_git: ''

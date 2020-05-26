@@ -1,9 +1,0 @@
-version: 0.7.0
-title: Make 'ggplot2' Graphics Interactive
-maintainer: David Gohel
-description: Create interactive 'ggplot2' graphics using 'htmlwidgets'.
-date_publication: '2019-10-31'
-bug_reports: https://github.com/davidgohel/ggiraph/issues
-url: https://davidgohel.github.io/ggiraph
-url_cran: https://CRAN.R-project.org/package=ggiraph
-url_git: ''

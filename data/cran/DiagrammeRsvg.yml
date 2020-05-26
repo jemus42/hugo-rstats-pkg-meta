@@ -1,9 +1,0 @@
-version: '0.1'
-title: Export DiagrammeR Graphviz Graphs as SVG
-maintainer: Richard Iannone
-description: Allows for export of DiagrammeR Graphviz objects to SVG.
-date_publication: '2016-02-04'
-bug_reports: https://github.com/rich-iannone/DiagrammeRsvg/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=DiagrammeRsvg
-url_git: https://github.com/rich-iannone/DiagrammeRsvg

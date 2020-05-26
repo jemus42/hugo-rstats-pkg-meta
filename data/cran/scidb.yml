@@ -1,9 +1,0 @@
-version: 2.0.0
-title: An R Interface to SciDB
-maintainer: B. W. Lewis
-description: An R interface to the 'SciDB' array database <http://scidb.org>.
-date_publication: '2017-04-14'
-bug_reports: https://github.com/Paradigm4/SciDBR/issues
-url: http://paradigm4.github.io/SciDBR
-url_cran: https://CRAN.R-project.org/package=scidb
-url_git: ''

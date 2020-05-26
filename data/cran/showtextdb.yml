@@ -1,9 +1,0 @@
-version: '2.0'
-title: Font Files for the 'showtext' Package
-maintainer: Yixuan Qiu
-description: Providing font files that can be used by the 'showtext' package.
-date_publication: '2017-09-11'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=showtextdb
-url_git: ''

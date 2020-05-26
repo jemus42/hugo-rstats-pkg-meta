@@ -1,9 +1,0 @@
-version: 1.0.6.2
-title: Collection of Utility and Convenience Functions
-maintainer: Ari B. Friedman
-description: A collection of various utility and convenience functions.
-date_publication: '2020-03-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=taRifx
-url_git: ''

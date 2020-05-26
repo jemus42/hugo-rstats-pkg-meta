@@ -1,9 +1,0 @@
-version: 0.7-2
-title: Generalized Orthogonal GARCH (GO-GARCH) models
-maintainer: Bernhard Pfaff
-description: Implementation of the GO-GARCH model class
-date_publication: '2012-07-28'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=gogarch
-url_git: ''

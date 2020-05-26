@@ -1,9 +1,0 @@
-version: 1.0.0
-title: Useful Networking Tools for Project Management
-maintainer: Joaquin Bienvenido Ordieres Mere
-description: Useful set of tools for plotting network diagrams in any kind of project.
-date_publication: '2015-07-22'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=PlotPrjNetworks
-url_git: ''

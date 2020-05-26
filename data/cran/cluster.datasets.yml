@@ -1,9 +1,0 @@
-version: 1.0-1
-title: Cluster Analysis Data Sets
-maintainer: Frederick Novomestky
-description: A collection of data sets for teaching cluster analysis.
-date_publication: '2013-10-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=cluster.datasets
-url_git: ''

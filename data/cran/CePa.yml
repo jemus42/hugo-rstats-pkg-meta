@@ -1,9 +1,0 @@
-version: 0.7.0
-title: Centrality-Based Pathway Enrichment
-maintainer: Zuguang Gu
-description: Use pathway topology information to assign weight to pathway nodes.
-date_publication: '2020-02-25'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=CePa
-url_git: https://github.com/jokergoo/CePa

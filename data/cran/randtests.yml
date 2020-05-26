@@ -1,9 +1,0 @@
-version: '1.0'
-title: Testing randomness in R
-maintainer: Frederico Caeiro
-description: Several non parametric randomness tests for numeric sequences
-date_publication: '2014-11-17'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=randtests
-url_git: ''

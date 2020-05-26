@@ -1,9 +1,0 @@
-version: 2.8.1
-title: Reads Mass Spectrometry Data in mzXML Format
-maintainer: Sebastian Gibb
-description: Functions for reading mass spectrometry data in mzXML format.
-date_publication: '2015-09-16'
-bug_reports: https://github.com/sgibb/readMzXmlData/issues/
-url: ''
-url_cran: https://CRAN.R-project.org/package=readMzXmlData
-url_git: http://strimmerlab.org/software/maldiquant/https://github.com/sgibb/readMzXmlData/

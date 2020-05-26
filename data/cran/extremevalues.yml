@@ -1,9 +1,0 @@
-version: 2.3.3
-title: Univariate Outlier Detection
-maintainer: Mark van der Loo
-description: Detect outliers in one-dimensional data.
-date_publication: '2020-05-18'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=extremevalues
-url_git: https://www.github.com/markvanderloo/extremevalues

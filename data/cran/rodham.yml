@@ -1,9 +1,0 @@
-version: 0.1.1
-title: Fetch Hillary Rodham Clinton's Emails
-maintainer: John Coene
-description: Fetch and process Hillary Rodham Clinton's "personal" emails.
-date_publication: '2017-07-18'
-bug_reports: https://github.com/JohnCoene/rodham/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=rodham
-url_git: https://github.com/JohnCoene/rodham

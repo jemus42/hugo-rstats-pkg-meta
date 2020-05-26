@@ -1,9 +1,0 @@
-version: 0.7-7
-title: Text Mining Package
-maintainer: Ingo Feinerer
-description: A framework for text mining applications within R.
-date_publication: '2019-12-12'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=tm
-url_git: http://tm.r-forge.r-project.org/

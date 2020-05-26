@@ -1,9 +1,0 @@
-version: 2.0.0
-title: Remove Weekends and Holidays from ggplot2 Axes
-maintainer: Dave Mills
-description: Provides a continuous date scale, omitting weekends and holidays.
-date_publication: '2016-03-17'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=bdscale
-url_git: http://github.com/dvmlls/bdscale

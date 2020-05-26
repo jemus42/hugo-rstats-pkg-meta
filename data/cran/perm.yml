@@ -1,9 +1,0 @@
-version: 1.0-0.0
-title: Exact or Asymptotic permutation tests
-maintainer: Michael Fay
-description: Perform Exact or Asymptotic permutation tests
-date_publication: '2010-07-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=perm
-url_git: ''

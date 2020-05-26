@@ -1,9 +1,0 @@
-version: 0.9.9.2
-title: R Interface to 'tslib' (a Time Series Library in C++)
-maintainer: Whit Armstrong
-description: Fast operations for time series objects.
-date_publication: '2018-09-14'
-bug_reports: http://github.com/armstrtw/fts/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=fts
-url_git: ''

@@ -1,9 +1,0 @@
-version: 0.1-2
-title: Bayesian multinomial mixture
-maintainer: Thibaut Jombart
-description: Bayesian multinomial mixture model
-date_publication: '2014-05-27'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=bmmix
-url_git: ''

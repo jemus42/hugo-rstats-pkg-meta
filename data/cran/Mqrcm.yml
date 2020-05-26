@@ -1,9 +1,0 @@
-version: '1.1'
-title: M-Quantile Regression Coefficients Modeling
-maintainer: Paolo Frumento
-description: Parametric modeling of M-quantile regression coefficient functions.
-date_publication: '2020-02-28'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=Mqrcm
-url_git: ''

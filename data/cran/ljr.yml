@@ -1,9 +1,0 @@
-version: 1.4-0
-title: Logistic Joinpoint Regression
-maintainer: Ryan Gill
-description: Fits and tests logistic joinpoint models.
-date_publication: '2016-05-01'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=ljr
-url_git: ''

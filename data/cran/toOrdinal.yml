@@ -1,9 +1,0 @@
-version: 1.1-0.0
-title: Cardinal to Ordinal Number & Date Conversion
-maintainer: Damian W. Betebenner
-description: Language specific cardinal to ordinal number conversion.
-date_publication: '2019-02-24'
-bug_reports: https://github.com/CenterForAssessment/toOrdinal/issues
-url: https://CenterForAssessment.github.io/toOrdinal
-url_cran: https://CRAN.R-project.org/package=toOrdinal
-url_git: https://github.com/CenterForAssessment/toOrdinal

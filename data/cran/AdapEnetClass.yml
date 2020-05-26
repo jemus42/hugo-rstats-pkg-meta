@@ -1,9 +1,0 @@
-version: '1.2'
-title: A Class of Adaptive Elastic Net Methods for Censored Data
-maintainer: Hasinur Rahaman Khan
-description: Provides new approaches to variable selection for AFT model.
-date_publication: '2015-10-24'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=AdapEnetClass
-url_git: ''

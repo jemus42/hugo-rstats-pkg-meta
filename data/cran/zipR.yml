@@ -1,9 +1,0 @@
-version: 0.1.1
-title: Pythonic Zip() for R
-maintainer: Leslie Huang
-description: Implements Python-style zip for R. Is a more flexible version of cbind.
-date_publication: '2019-03-03'
-bug_reports: https://github.com/leslie-huang/zipR/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=zipR
-url_git: https://github.com/leslie-huang/zipR

@@ -1,9 +1,0 @@
-version: 0.1.1
-title: Network Maze Generator
-maintainer: Bao Sheng Loe (Aiden)
-description: A network Maze generator that creates different types of network mazes.
-date_publication: '2017-12-04'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=networkGen
-url_git: ''

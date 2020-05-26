@@ -1,9 +1,0 @@
-version: '1.7'
-title: Bayesian Analysis of Contingency Tables
-maintainer: Antony M. Overstall
-description: Bayesian analysis of complete and incomplete contingency tables.
-date_publication: '2019-04-02'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=conting
-url_git: ''

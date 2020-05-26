@@ -1,9 +1,0 @@
-version: 1.0-3
-title: Species Identification using DNA Barcodes
-maintainer: Ai-bing ZHANG
-description: To perform species identification using DNA barcodes.
-date_publication: '2020-04-14'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=BarcodingR
-url_git: ''

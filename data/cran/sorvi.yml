@@ -1,9 +1,0 @@
-version: 0.7.26
-title: Finnish Open Government Data Toolkit
-maintainer: Leo Lahti
-description: Algorithms for Finnish open government data.
-date_publication: '2015-06-26'
-bug_reports: https://github.com/ropengov/sorvi/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=sorvi
-url_git: https://github.com/ropengov/sorvi

@@ -1,9 +1,0 @@
-version: 1.1-2
-title: Multivariate AutoRegressive analysis
-maintainer: S. M. Barbosa
-description: R functions for multivariate autoregressive analysis
-date_publication: '2012-10-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=mAr
-url_git: ''

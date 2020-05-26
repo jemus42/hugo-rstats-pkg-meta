@@ -1,9 +1,0 @@
-version: 1.0.4
-title: Orthant Probability of the Multivariate Normal Distribution
-maintainer: Noboru Nomura
-description: Computes orthant probabilities multivariate normal distribution.
-date_publication: '2014-10-06'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=mvprpb
-url_git: ''

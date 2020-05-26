@@ -1,9 +1,0 @@
-version: 1.0.1
-title: Create dynamic reports using a TiddlyWiki template.
-maintainer: David Montaner
-description: Utilities to generate wiki reports in TiddlyWiki format.
-date_publication: '2013-12-31'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=TiddlyWikiR
-url_git: https://github.com/dmontaner/TiddlyWikiR

@@ -1,9 +1,0 @@
-version: 0.1-1
-title: Book-Crossing Dataset (BX) for 'recommenderlab'
-maintainer: Michael Hahsler
-description: Provides the Book-Crossing Dataset for the package recommenderlab.
-date_publication: '2015-07-14'
-bug_reports: ''
-url: http://lyle.smu.edu/IDA/recommenderlab/
-url_cran: https://CRAN.R-project.org/package=recommenderlabBX
-url_git: ''

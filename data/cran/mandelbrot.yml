@@ -1,9 +1,0 @@
-version: 0.2.0
-title: Generates Views on the Mandelbrot Set
-maintainer: Ben Moore
-description: Estimates membership for the Mandelbrot set.
-date_publication: '2017-07-06'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=mandelbrot
-url_git: ''

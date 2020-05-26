@@ -1,9 +1,0 @@
-version: '0.2'
-title: R Wireless, Forward Error Correction
-maintainer: Alberto Gutierrez
-description: Communications simulation package supporting forward error correction.
-date_publication: '2015-12-09'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=rwfec
-url_git: ''

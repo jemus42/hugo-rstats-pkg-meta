@@ -1,9 +1,0 @@
-version: '1.1'
-title: Confidence Regions for Optima
-maintainer: Enrique del Castillo
-description: Computes confidence regions on the location of response surface optima.
-date_publication: '2019-07-02'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=OptimaRegion
-url_git: ''

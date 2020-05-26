@@ -1,9 +1,0 @@
-version: 1.4-9
-title: Arrays with Arbitrary Offsets
-maintainer: Robin K. S. Hankin
-description: Generalise the starting point of the array index.
-date_publication: '2018-03-20'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=Oarray
-url_git: ''

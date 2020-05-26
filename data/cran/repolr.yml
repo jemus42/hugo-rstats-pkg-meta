@@ -1,9 +1,0 @@
-version: '3.4'
-title: Repeated Measures Proportional Odds Logistic Regression
-maintainer: Nick Parsons
-description: Fits linear models to repeated ordinal scores using GEE methodology.
-date_publication: '2016-02-27'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=repolr
-url_git: ''

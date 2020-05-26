@@ -1,9 +1,0 @@
-version: '1.0'
-title: Arrays with Better Control over Dimension Dropping
-maintainer: Paavo Jumppanen<paavo.jumppanen@csiro.au>
-description: Provides arrays with flexible control over dimension dropping when subscripting.
-date_publication: '2015-12-16'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=keep
-url_git: ''

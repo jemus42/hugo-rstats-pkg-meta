@@ -1,9 +1,0 @@
-version: 0.1.2
-title: Retrospective Noise Control for fMRI
-maintainer: Tim Tierney
-description: Useful functions for fMRI preprocessing.
-date_publication: '2015-10-09'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=FIACH
-url_git: ''

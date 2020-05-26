@@ -1,9 +1,0 @@
-version: 2.5.3
-title: Draw Treemaps in 'ggplot2'
-maintainer: David Wilkins
-description: Provides 'ggplot2' geoms for drawing treemaps.
-date_publication: '2019-01-30'
-bug_reports: https://github.com/wilkox/treemapify/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=treemapify
-url_git: https://github.com/wilkox/treemapify

@@ -1,9 +1,0 @@
-version: 0.5.100
-title: Tools for Functional Response Analysis
-maintainer: Daniel Pritchard
-description: Tools to support sensible statistics for functional response analysis.
-date_publication: '2017-03-26'
-bug_reports: https://github.com/dpritchard/frair/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=frair
-url_git: https://github.com/dpritchard/frair

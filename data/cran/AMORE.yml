@@ -1,9 +1,0 @@
-version: 0.2-16
-title: Artificial Neural Network Training and Simulating
-maintainer: Manuel Castejón-Limas
-description: Commands for training a simulating an artificial neural network.
-date_publication: '2020-02-12'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=AMORE
-url_git: ''

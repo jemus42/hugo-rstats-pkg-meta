@@ -1,9 +1,0 @@
-version: '1.0'
-title: Instrumental fixed effect panel data model
-maintainer: Zaghdoudi Taha
-description: Fit an Instrumental least square dummy variable model
-date_publication: '2014-03-25'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=ivfixed
-url_git: ''

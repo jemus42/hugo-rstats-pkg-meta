@@ -1,9 +1,0 @@
-version: 0.9.0
-title: 'Visible Vowels: Visualization of Vowel Variation'
-maintainer: Wilbert Heeringa
-description: Visualizes vowel variation in f0, F1, F2, F3 and duration.
-date_publication: '2020-05-12'
-bug_reports: ''
-url: https://www.visiblevowels.org/
-url_cran: https://CRAN.R-project.org/package=visvow
-url_git: ''

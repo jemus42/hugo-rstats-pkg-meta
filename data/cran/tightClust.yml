@@ -1,9 +1,0 @@
-version: '1.1'
-title: Tight Clustering
-maintainer: Chi Song
-description: The functions needed to perform tight clustering Algorithm.
-date_publication: '2018-06-12'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=tightClust
-url_git: ''

@@ -1,9 +1,0 @@
-version: 2.1.3
-title: Ethnicity Annotation from Whole Exome Sequencing Data
-maintainer: Alessandro Romanel
-description: Reliable and rapid ethnicity annotation from whole exome sequencing data.
-date_publication: '2019-11-22'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=EthSEQ
-url_git: ''

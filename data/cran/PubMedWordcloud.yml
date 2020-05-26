@@ -1,9 +1,0 @@
-version: 0.3.6
-title: '''Pubmed'' Word Clouds'
-maintainer: Felix Yanhui Fan
-description: Create a word cloud using the abstract of publications from 'Pubmed'.
-date_publication: '2019-03-01'
-bug_reports: ''
-url: http://felixfan.github.io/PubMedWordcloud/
-url_cran: https://CRAN.R-project.org/package=PubMedWordcloud
-url_git: ''

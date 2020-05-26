@@ -1,9 +1,0 @@
-version: '1.1'
-title: Multivariate Meta-Analysis
-maintainer: Han Chen
-description: Functions to run fixed effects or random effects multivariate meta-analysis.
-date_publication: '2020-02-11'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=mvtmeta
-url_git: ''

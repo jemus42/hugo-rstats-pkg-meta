@@ -1,9 +1,0 @@
-version: '1.2'
-title: 'Royston''s H Test: Multivariate Normality Test'
-maintainer: Selcuk Korkmaz
-description: Performs a multivariate normality test based on Royston's H test
-date_publication: '2015-02-02'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=royston
-url_git: ''

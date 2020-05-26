@@ -1,9 +1,0 @@
-version: 0.1.2
-title: Computation of P Values and Bayes Factors for Conditioning Data
-maintainer: Angelos-Miltiadis Krypotos
-description: Set of functions for the easy analyses of conditioning data.
-date_publication: '2020-03-06'
-bug_reports: https://github.com/AngelosPsy/condir/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=condir
-url_git: https://github.com/AngelosPsy/condir

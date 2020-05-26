@@ -1,9 +1,0 @@
-version: 0.9.3
-title: Star Trek Fonts Collection
-maintainer: Matthew Leonawicz
-description: Provides a collection of true type and open type Star Trek-themed fonts.
-date_publication: '2018-11-12'
-bug_reports: https://github.com/leonawicz/trekfont/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=trekfont
-url_git: https://github.com/leonawicz/trekfont

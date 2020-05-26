@@ -1,9 +1,0 @@
-version: 1.0-8
-title: Local Polynomial (Ridge) Regression
-maintainer: Martin Maechler
-description: Local Polynomial Regression with Ridging.
-date_publication: '2018-06-12'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=lpridge
-url_git: ''

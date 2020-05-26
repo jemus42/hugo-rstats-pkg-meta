@@ -1,9 +1,0 @@
-version: '1.0'
-title: Secondary Structure Plotting for RNA
-maintainer: JP Bida
-description: Functions for creating and manipulating RNA secondary structure plots.
-date_publication: '2015-07-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=RRNA
-url_git: ''

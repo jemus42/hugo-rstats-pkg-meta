@@ -1,9 +1,0 @@
-version: 0.8-4
-title: Miscellaneous 3D Plots
-maintainer: Luke Tierney
-description: A collection of miscellaneous 3d plots, including<U+000a>isosurfaces.
-date_publication: '2013-01-25'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=misc3d
-url_git: ''

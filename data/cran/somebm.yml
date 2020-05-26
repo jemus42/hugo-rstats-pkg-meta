@@ -1,9 +1,0 @@
-version: '0.1'
-title: some Brownian motions simulation functions
-maintainer: Junwen Huang
-description: some Brownian motions simulation functions
-date_publication: '2013-11-19'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=somebm
-url_git: ''

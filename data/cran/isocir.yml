@@ -1,9 +1,0 @@
-version: 2.0-6
-title: Isotonic Inference for Circular Data
-maintainer: Sandra Barragan
-description: A bunch of functions to deal with circular data under order restrictions.
-date_publication: '2016-12-09'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=isocir
-url_git: ''

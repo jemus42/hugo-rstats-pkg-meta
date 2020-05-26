@@ -1,9 +1,0 @@
-version: 0.4.0
-title: R Interface to Google Fit API
-maintainer: Marcin Szymanski
-description: Provides interface to Google Fit REST API v1 (see <https://developers.google.com/fit/rest/v1/reference/>).
-date_publication: '2020-02-15'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=RGoogleFit
-url_git: ''

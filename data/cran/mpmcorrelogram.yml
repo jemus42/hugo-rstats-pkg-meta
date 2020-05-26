@@ -1,9 +1,0 @@
-version: 0.1-4
-title: Multivariate Partial Mantel Correlogram
-maintainer: Marcelino de la Cruz
-description: Functions to compute and plot multivariate (partial) Mantel correlograms.
-date_publication: '2017-11-17'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=mpmcorrelogram
-url_git: ''

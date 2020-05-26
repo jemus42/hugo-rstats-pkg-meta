@@ -1,9 +1,0 @@
-version: 0.1.2
-title: Display Resizable Plots
-maintainer: Filipe Campelo
-description: Display a plot in a Tk canvas.
-date_publication: '2019-11-20'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=tkRplotR
-url_git: ''

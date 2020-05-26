@@ -1,9 +1,0 @@
-version: 0.9-4
-title: SciViews GUI API - Dialog boxes using Tcl/Tk
-maintainer: Philippe Grosjean
-description: Reimplementation of the svDialogs dialog boxes in Tcl/Tk
-date_publication: '2014-03-02'
-bug_reports: https://r-forge.r-project.org/tracker/?group_id=194
-url: http://www.sciviews.org/SciViews-R
-url_cran: https://CRAN.R-project.org/package=svDialogstcltk
-url_git: ''

@@ -1,9 +1,0 @@
-version: 0.1-7
-title: Single Tree Simulator
-maintainer: Clara Anton Fernandez
-description: Forecasts plots at tree level.
-date_publication: '2019-08-01'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=sitree
-url_git: ''

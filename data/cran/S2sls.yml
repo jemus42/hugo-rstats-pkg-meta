@@ -1,9 +1,0 @@
-version: '0.1'
-title: Spatial Two Stage Least Squares Estimation
-maintainer: Taha Zaghdoudi
-description: Fit a spatial instrumental-variable regression by two-stage least squares.
-date_publication: '2016-01-08'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=S2sls
-url_git: ''

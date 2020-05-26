@@ -1,9 +1,0 @@
-version: 1.2-39
-title: Functions for Handling Dates
-maintainer: Kurt Hornik
-description: Functions for handling dates.
-date_publication: '2020-02-05'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=date
-url_git: ''

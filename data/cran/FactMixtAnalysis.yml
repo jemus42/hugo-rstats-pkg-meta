@@ -1,9 +1,0 @@
-version: '1.0'
-title: Factor Mixture Analysis with covariates
-maintainer: Cinzia Viroli
-description: The package estimates Factor Mixture Analysis via the EM<U+000a>algorithm
-date_publication: '2012-10-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=FactMixtAnalysis
-url_git: ''

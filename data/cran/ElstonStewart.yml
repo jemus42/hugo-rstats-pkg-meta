@@ -1,9 +1,0 @@
-version: '1.1'
-title: Elston-Stewart Algorithm
-maintainer: Herve Perdry
-description: Flexible implementation of Elston-Stewart algorithm
-date_publication: '2014-06-13'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=ElstonStewart
-url_git: ''

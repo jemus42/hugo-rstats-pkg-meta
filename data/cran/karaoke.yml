@@ -1,9 +1,0 @@
-version: '1.0'
-title: Remove Vocals from a Song
-maintainer: John R. Dixon
-description: Attempts to remove vocals from a stereo '.wav' recording of a song.
-date_publication: '2016-03-03'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=karaoke
-url_git: ''

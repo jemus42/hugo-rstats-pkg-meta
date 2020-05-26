@@ -1,9 +1,0 @@
-version: '1.0'
-title: Geographic Box Plot
-maintainer: Ao Li<liao@umail.iu.edu>
-description: Make geographic box plot as detailed in Willmott et al. (2007).
-date_publication: '2015-10-02'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=GeoBoxplot
-url_git: ''

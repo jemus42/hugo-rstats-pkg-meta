@@ -1,9 +1,0 @@
-version: 0.4-1
-title: Get or Set UNIX Niceness
-maintainer: Charles J. Geyer
-description: Get or set UNIX priority (niceness) of running R process.
-date_publication: '2016-11-28'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=nice
-url_git: ''

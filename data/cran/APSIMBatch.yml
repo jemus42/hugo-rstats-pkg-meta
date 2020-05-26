@@ -1,9 +1,0 @@
-version: 0.1.0.2374
-title: Analysis the output of Apsim software
-maintainer: Bangyou Zheng
-description: Run APSIM in Batch mode
-date_publication: '2012-10-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=APSIMBatch
-url_git: ''

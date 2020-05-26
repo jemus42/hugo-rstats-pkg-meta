@@ -1,9 +1,0 @@
-version: 0.2.1
-title: Store and Retrieve Data.frames in a Git Repository
-maintainer: Thierry Onkelinx
-description: Make versioning of data.frame easy and efficient using git repositories.
-date_publication: '2020-03-02'
-bug_reports: https://github.com/ropensci/git2rdata/issues
-url: https://doi.org/10.5281/zenodo.1485309
-url_cran: https://CRAN.R-project.org/package=git2rdata
-url_git: https://github.com/ropensci/git2rdata

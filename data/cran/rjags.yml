@@ -1,9 +1,0 @@
-version: 4-10
-title: Bayesian Graphical Models using MCMC
-maintainer: Martyn Plummer
-description: Interface to the JAGS MCMC library.
-date_publication: '2019-11-06'
-bug_reports: ''
-url: http://mcmc-jags.sourceforge.net
-url_cran: https://CRAN.R-project.org/package=rjags
-url_git: ''

@@ -1,9 +1,0 @@
-version: 0.1.2
-title: Access to Spotify API
-maintainer: Tiago Mendes Dantas
-description: Provides an interface to the Spotify API <https://developer.spotify.com/documentation/web-api/>.
-date_publication: '2018-08-13'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=Rspotify
-url_git: ''

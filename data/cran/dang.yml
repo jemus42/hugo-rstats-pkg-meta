@@ -1,9 +1,0 @@
-version: 0.0.11
-title: '''Dang'' Associated New Goodies'
-maintainer: Dirk Eddelbuettel
-description: A collection of utility functions.
-date_publication: '2019-10-25'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=dang
-url_git: ''

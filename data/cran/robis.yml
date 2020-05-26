@@ -1,9 +1,0 @@
-version: 2.1.8
-title: Ocean Biogeographic Information System (OBIS) Client
-maintainer: Pieter Provoost
-description: Client for the Ocean Biogeographic Information System (<https://obis.org>).
-date_publication: '2019-06-03'
-bug_reports: https://github.com/iobis/robis/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=robis
-url_git: https://github.com/iobis/robis

@@ -1,9 +1,0 @@
-version: '3.6'
-title: Bagplots, Boxplots and Rainbow Plots for Functional Data
-maintainer: Han Lin Shang
-description: Visualizing functional data and identifying functional outliers.
-date_publication: '2019-01-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=rainbow
-url_git: ''

@@ -1,9 +1,0 @@
-version: 1.1.1
-title: Read Tables in Chunks
-maintainer: Leandro Roser
-description: Read tables chunk by chunk using a C++ backend and a simple R interface.
-date_publication: '2018-02-21'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=chunkR
-url_git: ''

@@ -1,9 +1,0 @@
-version: 1.3-2
-title: Example Dataset for 'Rcell' Package
-maintainer: Alan Bush
-description: Example dataset for 'Rcell' package. Contains images and cell data object.
-date_publication: '2015-05-30'
-bug_reports: ''
-url: http://www.embnet.qb.fcen.uba.ar
-url_cran: https://CRAN.R-project.org/package=RcellData
-url_git: ''

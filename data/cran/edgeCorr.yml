@@ -1,9 +1,0 @@
-version: '1.0'
-title: Spatial Edge Correction
-maintainer: Glenna Nightingale
-description: Facilitates basic spatial edge correction to point pattern data.
-date_publication: '2016-03-16'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=edgeCorr
-url_git: ''

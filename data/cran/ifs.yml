@@ -1,9 +1,0 @@
-version: 0.1.5
-title: Iterated Function Systems
-maintainer: S. M. Iacus
-description: Iterated Function Systems Estimator.
-date_publication: '2015-08-21'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=ifs
-url_git: ''

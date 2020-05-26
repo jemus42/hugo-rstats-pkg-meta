@@ -1,9 +1,0 @@
-version: 0.0-55.1
-title: Toolkit implementation of gWidgets for tcltk package
-maintainer: ORPHANED
-description: Port of the gWidgets API to the tcltk package. Requires Tk 8.5 or greater.
-date_publication: '2020-04-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=gWidgetstcltk
-url_git: http://gwidgets.r-forge.r-project.org/

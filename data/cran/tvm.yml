@@ -1,9 +1,0 @@
-version: 0.4.0
-title: Time Value of Money Functions
-maintainer: Juan Manuel Truppia
-description: Functions for managing cashflows and interest rate curves.
-date_publication: '2019-03-06'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=tvm
-url_git: https://bitbucket.org/juancentro/tvm

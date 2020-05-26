@@ -1,9 +1,0 @@
-version: '1.8'
-title: Barnard's Unconditional Test
-maintainer: Kamil Erguler
-description: Barnard's unconditional test for 2x2 contingency tables.
-date_publication: '2016-10-20'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=Barnard
-url_git: https://github.com/kerguler/Barnard

@@ -1,9 +1,0 @@
-version: 1.0.1
-title: Multilevel Index of Dissimilarity
-maintainer: Richard Harris
-description: Tools and functions to fit a multilevel index of dissimilarity.
-date_publication: '2017-03-06'
-bug_reports: https://github.com/profrichharris/MLID/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=MLID
-url_git: https://github.com/profrichharris/MLID

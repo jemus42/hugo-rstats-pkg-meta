@@ -1,9 +1,0 @@
-version: 0.3.6
-title: A Wes Anderson Palette Generator
-maintainer: Karthik Ram
-description: Palettes generated mostly from 'Wes Anderson' movies.
-date_publication: '2018-04-20'
-bug_reports: https://github.com/karthik/wesanderson/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=wesanderson
-url_git: https://github.com/karthik/wesanderson

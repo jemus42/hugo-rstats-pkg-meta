@@ -1,9 +1,0 @@
-version: 0.0-5
-title: Natural Language Processing Utilities
-maintainer: Kurt Hornik
-description: Utilities for Natural Language Processing.
-date_publication: '2018-10-18'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=NLPutils
-url_git: ''

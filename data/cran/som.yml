@@ -1,9 +1,0 @@
-version: 0.3-5.1
-title: Self-Organizing Map
-maintainer: Jun Yan
-description: Self-Organizing Map (with application in gene clustering).
-date_publication: '2016-07-06'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=som
-url_git: ''

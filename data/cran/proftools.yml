@@ -1,9 +1,0 @@
-version: 0.99-2
-title: Profile Output Processing Tools for R
-maintainer: Luke Tierney
-description: Tools for examining Rprof profile output.
-date_publication: '2016-01-13'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=proftools
-url_git: ''

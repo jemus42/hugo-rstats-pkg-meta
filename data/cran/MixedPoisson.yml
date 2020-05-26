@@ -1,9 +1,0 @@
-version: '2.0'
-title: Mixed Poisson Models
-maintainer: Alicja Wolny-Dominiak
-description: The estimation of the parameters in mixed Poisson models.
-date_publication: '2016-12-09'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=MixedPoisson
-url_git: ''

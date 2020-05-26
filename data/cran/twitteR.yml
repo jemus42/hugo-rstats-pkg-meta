@@ -1,9 +1,0 @@
-version: 1.1.9
-title: R Based Twitter Client
-maintainer: Jeff Gentry
-description: Provides an interface to the Twitter web API.
-date_publication: '2015-07-29'
-bug_reports: ''
-url: http://lists.hexdump.org/listinfo.cgi/twitter-users-hexdump.org
-url_cran: https://CRAN.R-project.org/package=twitteR
-url_git: ''

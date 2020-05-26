@@ -1,9 +1,0 @@
-version: 0.0.1
-title: Log-Analytic Methods for Multiplicative Effects
-maintainer: Qimin Liu
-description: Log-analytic methods intended for testing multiplicative effects.
-date_publication: '2018-10-06'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=lamme
-url_git: ''

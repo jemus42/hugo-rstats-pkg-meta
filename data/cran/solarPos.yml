@@ -1,9 +1,0 @@
-version: '1.0'
-title: Solar Position Algorithm for Solar Radiation Applications
-maintainer: Jasper Van doninck
-description: Calculation of solar zenith and azimuth angles.
-date_publication: '2016-01-07'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=solarPos
-url_git: ''

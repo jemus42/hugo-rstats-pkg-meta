@@ -1,9 +1,0 @@
-version: '1.0'
-title: Particle Swarm Optimization
-maintainer: Krzysztof Ciupke
-description: Particle swarm optimization - a basic variant.
-date_publication: '2016-01-31'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=psoptim
-url_git: ''

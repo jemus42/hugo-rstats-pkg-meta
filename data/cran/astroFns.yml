@@ -1,9 +1,0 @@
-version: 4.1-0
-title: 'Astronomy: time and position functions, misc. utilities'
-maintainer: Andrew Harris
-description: Miscellaneous astronomy functions, utilities, and data.
-date_publication: '2012-09-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=astroFns
-url_git: ''

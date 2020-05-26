@@ -1,9 +1,0 @@
-version: 1.0-6
-title: Useful Libraries for Building a Java Based GUI under R
-maintainer: Kornelius Rohmeyer
-description: Useful libraries for building a Java based GUI under R are provided.
-date_publication: '2018-07-09'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=CommonJavaJars
-url_git: http://gsrmtp.r-forge.r-project.org/

@@ -1,9 +1,0 @@
-version: 1.28.1
-title: Hexagonal Binning Routines
-maintainer: Edzer Pebesma
-description: Binning and plotting functions for hexagonal bins.
-date_publication: '2020-02-03'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=hexbin
-url_git: http://github.com/edzer/hexbin

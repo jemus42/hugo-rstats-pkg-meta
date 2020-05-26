@@ -1,9 +1,0 @@
-version: 1.0.4
-title: Generalized Structured Component Analysis (GSCA)
-maintainer: Sunmee Kim
-description: Fit a variety of component-based structural equation models.
-date_publication: '2017-09-28'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=gesca
-url_git: ''

@@ -1,9 +1,0 @@
-version: 0.3.25
-title: Analysis of Animal Movements
-maintainer: Clement Calenge
-description: A collection of tools for the analysis of animal movements.
-date_publication: '2020-01-19'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=adehabitatLT
-url_git: ''

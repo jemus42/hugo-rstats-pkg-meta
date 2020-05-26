@@ -1,9 +1,0 @@
-version: 1.6.2
-title: '''Lex'' and ''Yacc'''
-maintainer: Marek Jagielski
-description: R implementation of the common parsing tools 'lex' and 'yacc'.
-date_publication: '2018-09-10'
-bug_reports: https://github.com/systemincloud/rly/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=rly
-url_git: https://github.com/systemincloud/rly

@@ -1,9 +1,0 @@
-version: 0.1.3
-title: Read 'Excel' Binary (.xlsb) Workbooks
-maintainer: Michael Allen
-description: Import data from 'Excel' binary (.xlsb) workbooks into R.
-date_publication: '2020-04-14'
-bug_reports: https://github.com/velofrog/readxlsb/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=readxlsb
-url_git: https://github.com/velofrog/readxlsb

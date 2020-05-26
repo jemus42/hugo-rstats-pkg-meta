@@ -1,9 +1,0 @@
-version: '0.21'
-title: Toolkit for Item Factor Analysis with 'OpenMx'
-maintainer: Joshua N. Pritikin
-description: Tools, tutorials, and demos of Item Factor Analysis using 'OpenMx'.
-date_publication: '2020-02-04'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=ifaTools
-url_git: https://github.com/jpritikin/ifaTools

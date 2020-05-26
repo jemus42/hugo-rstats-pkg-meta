@@ -1,9 +1,0 @@
-version: 1.3.0
-title: A Synchronized Tausworthe RNG for R and Python
-maintainer: Gertjan van den Burg
-description: Random number generation designed for cross-language usage.
-date_publication: '2017-12-17'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=SyncRNG
-url_git: ''

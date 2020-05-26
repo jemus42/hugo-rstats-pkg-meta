@@ -1,9 +1,0 @@
-version: 1.2-13
-title: The Gauss Hypergeometric Function
-maintainer: Robin K. S. Hankin
-description: The Gaussian hypergeometric function for complex numbers.
-date_publication: '2016-04-07'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=hypergeo
-url_git: ''

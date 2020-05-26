@@ -1,9 +1,0 @@
-version: 0.0.4
-title: Image Data Used in the Loon Package Demos
-maintainer: Adrian Waddell
-description: Image data used as examples in the loon R package.
-date_publication: '2018-05-15'
-bug_reports: ''
-url: http://waddella.github.io/loon/
-url_cran: https://CRAN.R-project.org/package=RnavGraphImageData
-url_git: ''

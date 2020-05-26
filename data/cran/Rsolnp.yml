@@ -1,9 +1,0 @@
-version: '1.16'
-title: General Non-Linear Optimization
-maintainer: Alexios Ghalanos
-description: General Non-linear Optimization Using Augmented Lagrange Multiplier Method.
-date_publication: '2015-12-28'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=Rsolnp
-url_git: ''

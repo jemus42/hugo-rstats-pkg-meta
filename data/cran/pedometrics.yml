@@ -1,9 +1,0 @@
-version: 0.7.0
-title: Miscellaneous Pedometric Tools
-maintainer: Alessandro Samuel-Rosa
-description: An R implementation of some useful tools employed in the field of pedometrics.
-date_publication: '2020-02-09'
-bug_reports: https://github.com/samuel-rosa/pedometrics/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=pedometrics
-url_git: https://github.com/samuel-rosa/pedometrics

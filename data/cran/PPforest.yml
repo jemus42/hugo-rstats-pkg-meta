@@ -1,9 +1,0 @@
-version: 0.1.1
-title: Projection Pursuit Classification Forest
-maintainer: Natalia da Silva
-description: Implements projection pursuit forest algorithm for supervised classification.
-date_publication: '2018-06-11'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=PPforest
-url_git: https://github.com/natydasilva/PPforest

@@ -1,9 +1,0 @@
-version: 1.0-1
-title: World Population Prospects 2008
-maintainer: Hana Sevcikova
-description: Data from the United Nation's World Population Prospects 2008
-date_publication: '2014-01-17'
-bug_reports: ''
-url: http://esa.un.org/wpp/index.htm
-url_cran: https://CRAN.R-project.org/package=wpp2008
-url_git: ''

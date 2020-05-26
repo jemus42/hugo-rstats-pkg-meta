@@ -1,9 +1,0 @@
-version: 0.3.0
-title: Manage Google Spreadsheets from R
-maintainer: Jennifer Bryan
-description: Interact with Google Sheets from R.
-date_publication: '2018-06-29'
-bug_reports: https://github.com/jennybc/googlesheets/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=googlesheets
-url_git: https://github.com/jennybc/googlesheets

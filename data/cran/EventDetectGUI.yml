@@ -1,9 +1,0 @@
-version: 0.3.0
-title: Graphical User Interface for the 'EventDetectR' Package
-maintainer: Sowmya Chandrasekaran
-description: A graphical user interface for open source event detection.
-date_publication: '2020-04-03'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=EventDetectGUI
-url_git: ''

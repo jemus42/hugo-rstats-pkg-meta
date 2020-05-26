@@ -1,9 +1,0 @@
-version: 0.1.2
-title: Structural equation modeling diagnostics
-maintainer: Zhiyong Zhang
-description: Outlier and leverage diagnostics for SEM.
-date_publication: '2012-01-30'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=semdiag
-url_git: ''

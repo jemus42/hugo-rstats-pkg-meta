@@ -1,9 +1,0 @@
-version: 1.6-5
-title: The Multiplicative Multinomial Distribution
-maintainer: Robin K. S. Hankin
-description: Various utilities for the Multiplicative Multinomial distribution.
-date_publication: '2018-05-16'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=MM
-url_git: ''

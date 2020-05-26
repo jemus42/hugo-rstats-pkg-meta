@@ -1,9 +1,0 @@
-version: 1.5.0
-title: Tools for the Analysis of Ecosystem Metabolism
-maintainer: Luke Winslow
-description: A collection of tools for the calculation of freewater metabolism.
-date_publication: '2016-06-23'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=LakeMetabolizer
-url_git: ''

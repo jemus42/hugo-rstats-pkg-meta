@@ -1,9 +1,0 @@
-version: 0.1.4
-title: Scatter Pie Plot
-maintainer: Guangchuang Yu
-description: Creates scatterpie plots, especially useful for plotting pies on a map.
-date_publication: '2019-11-08'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=scatterpie
-url_git: ''

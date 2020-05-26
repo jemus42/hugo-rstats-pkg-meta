@@ -1,9 +1,0 @@
-version: '1.0'
-title: '''Plot genome wide values for all chromosomes'''
-maintainer: Jing Xu<xujingaddressee@foxmail.com>
-description: Plot values of markers(SNPs, expression, genes, RNA,...) for all chromosomes.
-date_publication: '2016-04-25'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=genomeplot
-url_git: ''

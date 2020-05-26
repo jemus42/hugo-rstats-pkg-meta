@@ -1,9 +1,0 @@
-version: 1.1-2
-title: Completing Ranks
-maintainer: Jim Lemon
-description: Functions for completing and recalculating rankings and sorting.
-date_publication: '2019-04-09'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=crank
-url_git: ''

@@ -1,9 +1,0 @@
-version: '0.2'
-title: Quantile-Based Boxplot
-maintainer: Tom Pike
-description: Produce quantile-based box-and-whisker plot(s).
-date_publication: '2017-11-12'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=qboxplot
-url_git: ''

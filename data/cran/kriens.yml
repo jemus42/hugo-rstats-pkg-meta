@@ -1,9 +1,0 @@
-version: '0.1'
-title: Continuation Passing Style Development
-maintainer: Matteo Provenzano
-description: Provides basic functions for Continuation-Passing Style development.
-date_publication: '2015-12-02'
-bug_reports: ''
-url: http://www.alephdue.com
-url_cran: https://CRAN.R-project.org/package=kriens
-url_git: ''

@@ -1,9 +1,0 @@
-version: '3.6'
-title: A Bunch of Structure and Sequence Analysis
-maintainer: Pierre Lefeuvre
-description: Reads and plots phylogenetic placements.
-date_publication: '2018-11-06'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=BoSSA
-url_git: ''

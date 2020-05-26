@@ -1,9 +1,0 @@
-version: 0.4.3
-title: '''SAS'' Markdown'
-maintainer: Doug Hemken
-description: Settings and functions to extend the 'knitr' 'SAS' engine.
-date_publication: '2017-11-30'
-bug_reports: http://github.com/Hemken/SASmarkdown/issues
-url: http://www.ssc.wisc.edu/~hemken/SASworkshops/sas.html#writing-sas-documentation
-url_cran: https://CRAN.R-project.org/package=SASmarkdown
-url_git: ''

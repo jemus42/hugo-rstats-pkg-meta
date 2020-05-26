@@ -1,9 +1,0 @@
-version: 1.6.0
-title: JDBC Driver Interface
-maintainer: Stephen Kaluzny
-description: Provides a database-independent JDBC interface.
-date_publication: '2016-12-16'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=sjdbc
-url_git: ''

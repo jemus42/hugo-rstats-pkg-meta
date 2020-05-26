@@ -1,9 +1,0 @@
-version: 1.0-7
-title: Multivariate Polynomials
-maintainer: Robin K. S. Hankin
-description: Various utilities to manipulate multivariate polynomials.
-date_publication: '2018-03-20'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=multipol
-url_git: ''

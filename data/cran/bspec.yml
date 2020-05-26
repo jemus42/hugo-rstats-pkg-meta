@@ -1,9 +1,0 @@
-version: '1.5'
-title: Bayesian Spectral Inference
-maintainer: Christian Roever
-description: Bayesian inference on the (discrete) power spectrum of time series.
-date_publication: '2015-04-30'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=bspec
-url_git: ''

@@ -1,9 +1,0 @@
-version: '1.0'
-title: Read Acoustic HAC Format
-maintainer: Kasper Kristensen
-description: Read Acoustic HAC format.
-date_publication: '2017-02-02'
-bug_reports: https://github.com/kaskr/HAC/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=readHAC
-url_git: https://github.com/kaskr/HAC

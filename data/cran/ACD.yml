@@ -1,9 +1,0 @@
-version: 1.5.3
-title: Categorical data analysis with complete or missing responses
-maintainer: Fabio Mathias Correa
-description: Categorical data analysis with complete or missing responses
-date_publication: '2013-10-31'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=ACD
-url_git: ''

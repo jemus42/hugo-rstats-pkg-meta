@@ -1,9 +1,0 @@
-version: 0.5-3
-title: Organic Mass Spectrometry
-maintainer: Nathan Dodder
-description: Organic/biological mass spectrometry data analysis.
-date_publication: '2017-08-13'
-bug_reports: ''
-url: http://OrgMassSpec.github.io/
-url_cran: https://CRAN.R-project.org/package=OrgMassSpecR
-url_git: ''

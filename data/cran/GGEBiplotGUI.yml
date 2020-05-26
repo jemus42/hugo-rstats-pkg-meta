@@ -1,9 +1,0 @@
-version: 1.0-9
-title: Interactive GGE Biplots in R
-maintainer: Elisa Frutos Bernal
-description: 'Description: A GUI with which to construct and interact with GGE biplots.'
-date_publication: '2016-02-17'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=GGEBiplotGUI
-url_git: ''

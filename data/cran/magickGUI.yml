@@ -1,9 +1,0 @@
-version: 1.1.1
-title: GUI Tools for Interactive Image Processing with 'magick'
-maintainer: Shota Ochi
-description: Enables us to use the functions of the package 'magick' interactively.
-date_publication: '2019-08-28'
-bug_reports: https://github.com/ShotaOchi/magickGUI/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=magickGUI
-url_git: https://github.com/ShotaOchi/magickGUI

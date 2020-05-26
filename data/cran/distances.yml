@@ -1,9 +1,0 @@
-version: 0.1.8
-title: Tools for Distance Metrics
-maintainer: ORPHANED
-description: Provides tools for constructing, manipulating and using distance metrics.
-date_publication: '2019-09-18'
-bug_reports: https://github.com/fsavje/distances/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=distances
-url_git: https://github.com/fsavje/distances

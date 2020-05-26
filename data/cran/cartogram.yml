@@ -1,9 +1,0 @@
-version: 0.2.0
-title: Create Cartograms with R
-maintainer: Sebastian Jeworutzki
-description: Construct continuous and non-contiguous area cartograms.
-date_publication: '2019-12-07'
-bug_reports: https://github.com/sjewo/cartogram/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=cartogram
-url_git: https://github.com/sjewo/cartogram

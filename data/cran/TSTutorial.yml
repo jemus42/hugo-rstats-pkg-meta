@@ -1,9 +1,0 @@
-version: 1.2.3
-title: Fitting and Predict Time Series Interactive Laboratory
-maintainer: Alberto Lopez Moreno
-description: Interactive laboratory of Time Series based in Box-Jenkins methodology.
-date_publication: '2013-12-24'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=TSTutorial
-url_git: ''

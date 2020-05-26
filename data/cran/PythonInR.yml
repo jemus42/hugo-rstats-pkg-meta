@@ -1,9 +1,0 @@
-version: 0.1-11
-title: Use 'Python' from Within 'R'
-maintainer: Florian Schwendinger
-description: Interact with 'Python' <https://www.python.org/> from within 'R'.
-date_publication: '2020-03-19'
-bug_reports: https://bitbucket.org/Floooo/pythoninr/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=PythonInR
-url_git: https://bitbucket.org/Floooo/pythoninr/

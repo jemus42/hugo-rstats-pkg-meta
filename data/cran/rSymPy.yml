@@ -1,9 +1,0 @@
-version: 0.2-1.2
-title: R Interface to SymPy Computer Algebra System
-maintainer: G Grothendieck
-description: Access SymPy computer algebra system from R via Jython.
-date_publication: '2019-02-02'
-bug_reports: ''
-url: http://rsympy.googlecode.com
-url_cran: https://CRAN.R-project.org/package=rSymPy
-url_git: ''

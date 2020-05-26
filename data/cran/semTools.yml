@@ -1,9 +1,0 @@
-version: 0.5-2
-title: Useful Tools for Structural Equation Modeling
-maintainer: Terrence D. Jorgensen
-description: Provides useful tools for structural equation modeling.
-date_publication: '2019-08-30'
-bug_reports: https://github.com/simsem/semTools/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=semTools
-url_git: https://github.com/simsem/semTools/wiki

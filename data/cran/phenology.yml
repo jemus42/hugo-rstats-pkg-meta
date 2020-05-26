@@ -1,9 +1,0 @@
-version: '7.3'
-title: Tools to Manage a Parametric Function that Describes Phenology
-maintainer: Marc Girondot
-description: Functions used to fit and test the phenology of species based on counts.
-date_publication: '2019-01-04'
-bug_reports: ''
-url: http://max2.ese.u-psud.fr/epc/conservation/Girondot/Publications/Marine_Turtles_Nesting_Season.html
-url_cran: https://CRAN.R-project.org/package=phenology
-url_git: ''

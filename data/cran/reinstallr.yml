@@ -1,9 +1,0 @@
-version: 0.1.4
-title: Search and Install Missing Packages
-maintainer: Calli Gross
-description: Search R files for not installed packages and run install.packages.
-date_publication: '2016-12-11'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=reinstallr
-url_git: https://github.com/calligross/reinstallr/

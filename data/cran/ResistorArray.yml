@@ -1,9 +1,0 @@
-version: 1.0-32
-title: Electrical Properties of Resistor Networks
-maintainer: Robin K. S. Hankin
-description: Electrical properties of resistor networks using matrix methods.
-date_publication: '2019-01-29'
-bug_reports: https://github.com/RobinHankin/ResistorArray/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=ResistorArray
-url_git: https://github.com/RobinHankin/ResistorArray.git

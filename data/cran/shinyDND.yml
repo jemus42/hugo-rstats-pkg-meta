@@ -1,9 +1,0 @@
-version: 0.1.0
-title: Shiny Drag-n-Drop
-maintainer: Aaron Hoffer
-description: Add functionality to create drag and drop div elements in shiny.
-date_publication: '2016-06-23'
-bug_reports: https://github.com/ayayron/shinydnd/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=shinyDND
-url_git: https://github.com/ayayron/shinydnd

@@ -63,11 +63,8 @@ write_cran_meta <- function(metadata, file_out = "cran.yml") {
     dplyr::group_by(package) %>%
     tidyr::nest() %>%
     dplyr::pull(data) %>%
-    purrr::set_names(metadata$Package) -> pkglist
-
-    purrr::pwalk(list(names(pkglist), pkglist), ~{
-      yaml::write_yaml(.y, here::here("data/cran", paste0(.x, ".yml")))
-    })
+    purrr::set_names(metadata$Package) %>%
+    yaml::write_yaml(here::here("data", "packages", file_out))
 }
 
 # Regexes to determine URL context

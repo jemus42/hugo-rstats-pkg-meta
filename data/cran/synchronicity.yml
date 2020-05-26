@@ -1,9 +1,0 @@
-version: 1.3.5
-title: Boost Mutex Functionality in R
-maintainer: Michael J. Kane
-description: Boost mutex functionality in R.
-date_publication: '2018-08-21'
-bug_reports: ''
-url: http://www.bigmemory.org
-url_cran: https://CRAN.R-project.org/package=synchronicity
-url_git: ''

@@ -1,9 +1,0 @@
-version: 1.2.1
-title: Implementation of Random Variables
-maintainer: Matthias Kohl
-description: Implements random variables by means of S4 classes and methods.
-date_publication: '2020-01-19'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=RandVar
-url_git: http://robast.r-forge.r-project.org/

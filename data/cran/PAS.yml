@@ -1,9 +1,0 @@
-version: 1.2.5
-title: Polygenic Analysis System (PAS)
-maintainer: Zhiqiu Hu
-description: An R package for polygenic trait analysis.
-date_publication: '2018-06-13'
-bug_reports: ''
-url: http://statgen.ucr.edu
-url_cran: https://CRAN.R-project.org/package=PAS
-url_git: ''

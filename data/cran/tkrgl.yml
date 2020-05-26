@@ -1,9 +1,0 @@
-version: '0.9'
-title: Deprecated 'TK' Widget Tools for 'rgl'
-maintainer: Duncan Murdoch
-description: '''TK'' widget tools for the ''rgl'' package have been moved to ''rgl''.'
-date_publication: '2020-04-14'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=tkrgl
-url_git: ''

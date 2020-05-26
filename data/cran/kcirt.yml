@@ -1,9 +1,0 @@
-version: 0.6.0
-title: k-Cube Thurstonian IRT Models
-maintainer: Dave Zes
-description: Create, Simulate, Fit, Solve k-Cube Thurstonian IRT Models
-date_publication: '2014-04-22'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=kcirt
-url_git: ''

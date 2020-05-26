@@ -1,9 +1,0 @@
-version: 2018-4.17
-title: Variable Metric Nonlinear Function Minimization
-maintainer: John C. Nash
-description: Variable metric nonlinear function minimization with bounds constraints.
-date_publication: '2018-04-17'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=Rvmmin
-url_git: ''

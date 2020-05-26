@@ -1,9 +1,0 @@
-version: '1.0'
-title: Illustrations from Tao Te Programming
-maintainer: Pat Burns
-description: Art-like behavior based on randomness
-date_publication: '2014-06-22'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=TaoTeProgramming
-url_git: ''

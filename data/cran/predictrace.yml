@@ -1,9 +1,0 @@
-version: 1.0.0
-title: Predict the Race of a Given Surname Using Census Data
-maintainer: Jacob Kaplan
-description: Predicts the most common race of a surname based on U.S. Census data.
-date_publication: '2019-05-22'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=predictrace
-url_git: ''

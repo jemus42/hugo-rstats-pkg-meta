@@ -1,9 +1,0 @@
-version: '0.3'
-title: Fit RAD models to biological data
-maintainer: Piers Dunstan
-description: Fit a variety of models to Rank Abundance Data
-date_publication: '2012-06-28'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=RAD
-url_git: ''

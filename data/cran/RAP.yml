@@ -1,9 +1,0 @@
-version: '1.1'
-title: Reversal Association Pattern
-maintainer: U.Sangeetha
-description: To find the reversal association between variables.
-date_publication: '2013-05-02'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=RAP
-url_git: ''

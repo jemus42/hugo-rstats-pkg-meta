@@ -1,9 +1,0 @@
-version: 0.9-12
-title: R API to Interactive Brokers Trader Workstation
-maintainer: Joshua M. Ulrich
-description: Provides native R access to Interactive Brokers Trader Workstation API.
-date_publication: '2014-09-22'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=IBrokers
-url_git: ''

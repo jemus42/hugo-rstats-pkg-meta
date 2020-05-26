@@ -1,9 +1,0 @@
-version: '1.0'
-title: Relative survival, AER and SMR based on French death rates
-maintainer: Hugo Varet
-description: Relative survival, AER and SMR based on French death rates
-date_publication: '2013-03-04'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=survexp.fr
-url_git: ''

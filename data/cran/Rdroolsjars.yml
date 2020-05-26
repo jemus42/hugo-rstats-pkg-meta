@@ -1,9 +1,0 @@
-version: 1.0.1
-title: Rdrools JARs
-maintainer: Ashwin Raaghav
-description: External jars required for package 'Rdrools'.
-date_publication: '2017-06-19'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=Rdroolsjars
-url_git: ''

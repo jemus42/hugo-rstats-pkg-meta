@@ -1,9 +1,0 @@
-version: '0.2'
-title: Bethel's algorithm.
-maintainer: Michele De Meo
-description: The sample size according to the Bethel's procedure.
-date_publication: '2012-10-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=bethel
-url_git: ''

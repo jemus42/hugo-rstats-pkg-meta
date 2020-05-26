@@ -1,9 +1,0 @@
-version: '1.6'
-title: Bayesian Linear Regression
-maintainer: Paulino Perez Rodriguez
-description: Bayesian Linear Regression.
-date_publication: '2020-01-07'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=BLR
-url_git: ''

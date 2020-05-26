@@ -1,9 +1,0 @@
-version: 1.1-2
-title: The 'noweb' System for R
-maintainer: Terry Therneau
-description: The noweb system for source code, implemented in R.
-date_publication: '2019-10-13'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=noweb
-url_git: ''

@@ -1,9 +1,0 @@
-version: 2.15.1
-title: Functions and Datasets Required for ST370 class
-maintainer: Dennis Boos
-description: Functions and Datasets Required for ST370 class
-date_publication: '2012-08-22'
-bug_reports: ''
-url: <U+000a>http://courses.ncsu.edu/ST370/distance/rlab
-url_cran: https://CRAN.R-project.org/package=Rlab
-url_git: ''

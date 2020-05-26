@@ -1,9 +1,0 @@
-version: 1.0.0
-title: Color Palettes for EPL, MLB, NBA, NHL, and NFL Teams
-maintainer: Charles Crabtree
-description: Color palettes for EPL, MLB, NBA, NHL, and NFL teams.
-date_publication: '2017-02-20'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=colorr
-url_git: ''

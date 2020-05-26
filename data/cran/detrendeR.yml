@@ -1,9 +1,0 @@
-version: 1.0.4
-title: Start the detrendeR Graphical User Interface (GUI)
-maintainer: Filipe Campelo
-description: Simple GUI to perform some standard tree-ring analyses.
-date_publication: '2012-10-22'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=detrendeR
-url_git: ''

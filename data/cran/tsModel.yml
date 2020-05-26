@@ -1,9 +1,0 @@
-version: '0.6'
-title: Time Series Modeling for Air Pollution and Health
-maintainer: Roger D. Peng
-description: Tools for specifying time series regression models
-date_publication: '2013-06-24'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=tsModel
-url_git: ''

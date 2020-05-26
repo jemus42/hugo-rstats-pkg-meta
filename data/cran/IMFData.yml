@@ -1,9 +1,0 @@
-version: 0.2.0
-title: R Interface for International Monetary Fund(IMF) Data API
-maintainer: Ming-Jer Lee
-description: Search, extract and formulate IMF's datasets.
-date_publication: '2016-10-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=IMFData
-url_git: https://github.com/mingjerli/IMFData

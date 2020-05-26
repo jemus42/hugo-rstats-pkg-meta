@@ -1,9 +1,0 @@
-version: 0.15.2
-title: Tools for Working with Points and Intervals
-maintainer: Edzer Pebesma
-description: Tools for working with and comparing sets of points and intervals.
-date_publication: '2020-04-04'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=intervals
-url_git: http://github.com/edzer/intervals

@@ -1,9 +1,0 @@
-version: '0.2'
-title: Perform occupancy analysis
-maintainer: David Gilinson
-description: Generate occupancy patterns based on arrival and departure timestamps
-date_publication: '2014-07-16'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=hillmakeR
-url_git: https://github.com/gilinson/hillmakeR

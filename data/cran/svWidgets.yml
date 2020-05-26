@@ -1,9 +1,0 @@
-version: 0.9-45
-title: Management of GUI Widgets, Windows, and Other GUI Resources
-maintainer: Philippe Grosjean
-description: High level management of widgets, windows and other graphical resources.
-date_publication: '2018-06-28'
-bug_reports: https://r-forge.r-project.org/tracker/?group_id=194
-url: http://www.sciviews.org/SciViews-R
-url_cran: https://CRAN.R-project.org/package=svWidgets
-url_git: ''

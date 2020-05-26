@@ -1,9 +1,0 @@
-version: 0.9.6
-title: Utilities for Start-Up Messages
-maintainer: Peter Ruckdeschel
-description: Provides utilities to create or suppress start-up messages.
-date_publication: '2019-03-11'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=startupmsg
-url_git: ''

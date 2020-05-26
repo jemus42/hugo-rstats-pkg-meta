@@ -1,9 +1,0 @@
-version: 1.2.0
-title: Nonlinear Growth Models
-maintainer: Daniel Rodriguez Perez
-description: A compilation of nonlinear growth models used in many areas
-date_publication: '2013-11-23'
-bug_reports: https://github.com/drodriguezperez/growthmodels/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=growthmodels
-url_git: https://github.com/drodriguezperez/growthmodels

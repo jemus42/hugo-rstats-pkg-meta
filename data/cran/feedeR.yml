@@ -1,9 +1,0 @@
-version: 0.0.8
-title: Read RSS/Atom Feeds from R
-maintainer: Andrew Collier
-description: Retrieve data from RSS/Atom feeds.
-date_publication: '2020-04-19'
-bug_reports: https://github.com/datawookie/feedeR/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=feedeR
-url_git: https://github.com/datawookie/feedeR

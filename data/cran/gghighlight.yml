@@ -1,9 +1,0 @@
-version: 0.3.0
-title: Highlight Lines and Points in 'ggplot2'
-maintainer: Hiroaki Yutani
-description: Make it easier to explore data with highlights.
-date_publication: '2020-03-29'
-bug_reports: https://github.com/yutannihilation/gghighlight/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=gghighlight
-url_git: https://github.com/yutannihilation/gghighlight/

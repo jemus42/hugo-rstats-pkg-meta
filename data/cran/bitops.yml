@@ -1,9 +1,0 @@
-version: 1.0-6
-title: Bitwise Operations
-maintainer: Martin Maechler
-description: Functions for bitwise operations on integer vectors.
-date_publication: '2013-08-17'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=bitops
-url_git: ''

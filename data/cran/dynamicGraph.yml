@@ -1,9 +1,0 @@
-version: 0.2.2.6
-title: dynamicGraph
-maintainer: Jens Henrik Badsberg
-description: Interactive graphical tool for manipulating graphs
-date_publication: '2010-02-01'
-bug_reports: ''
-url: http://www.badsberg.eu
-url_cran: https://CRAN.R-project.org/package=dynamicGraph
-url_git: ''

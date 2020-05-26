@@ -1,9 +1,0 @@
-version: '0.4'
-title: Data and Functions for the Book Modern Statistical Graphics
-maintainer: Yihui Xie
-description: A companion to the Chinese book ``Modern Statistical Graphics''.
-date_publication: '2019-09-03'
-bug_reports: https://github.com/yihui/MSG/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=MSG
-url_git: https://github.com/yihui/MSG

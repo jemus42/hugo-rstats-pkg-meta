@@ -1,9 +1,0 @@
-version: 1.0.7
-title: Desirability functions in R
-maintainer: Olaf Mersmann
-description: Harrington and Derringer-Suich type desirability functions
-date_publication: '2013-07-12'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=desire
-url_git: ''

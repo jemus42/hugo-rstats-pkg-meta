@@ -1,9 +1,0 @@
-version: 0.1.5
-title: Names Your 'R Markdown' Chunks
-maintainer: Steph Locke
-description: It names the 'R Markdown' chunks of files based on the filename.
-date_publication: '2019-12-16'
-bug_reports: https://github.com/lockedata/namer/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=namer
-url_git: https://github.com/lockedata/namer

@@ -1,9 +1,0 @@
-version: '0.69'
-title: Iterated Conditional Expectation
-maintainer: W. John Braun
-description: Kernel Estimators for Interval-Censored Data
-date_publication: '2013-03-28'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=ICE
-url_git: ''

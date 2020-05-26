@@ -1,9 +1,0 @@
-version: '1.1'
-title: Computes all of a word's possible spellings.
-maintainer: Antoine Tremblay
-description: Contains functions possSpells.fnc and<U+000a>batch.possSpells.fnc.
-date_publication: '2012-10-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=AllPossibleSpellings
-url_git: ''

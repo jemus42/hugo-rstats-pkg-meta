@@ -1,9 +1,0 @@
-version: 0.0.3
-title: Attaches and Installs Packages
-maintainer: Josh Katz
-description: A simple function for easier package loading and auto-installation.
-date_publication: '2016-03-28'
-bug_reports: https://github.com/joshkatz/needs/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=needs
-url_git: https://github.com/joshkatz/needs

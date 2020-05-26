@@ -1,9 +1,0 @@
-version: '2.0'
-title: Non-negative Matrix Factorization
-maintainer: Suhai (Timothy) Liu
-description: Non-negative Matrix Factorization
-date_publication: '2012-10-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=NMFN
-url_git: ''

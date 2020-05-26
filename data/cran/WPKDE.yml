@@ -1,9 +1,0 @@
-version: '0.1'
-title: Weighted Piecewise Kernel Density Estimation
-maintainer: Kunyu Ye
-description: Weighted Piecewise Kernel Density Estimation for large data.
-date_publication: '2017-03-02'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=WPKDE
-url_git: ''

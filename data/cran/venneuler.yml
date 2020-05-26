@@ -1,9 +1,0 @@
-version: 1.1-0
-title: Venn and Euler Diagrams
-maintainer: Simon Urbanek
-description: Calculates and displays Venn and Euler Diagrams
-date_publication: '2011-08-10'
-bug_reports: ''
-url: http://www.rforge.net/venneuler/
-url_cran: https://CRAN.R-project.org/package=venneuler
-url_git: ''

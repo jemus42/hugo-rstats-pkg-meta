@@ -1,9 +1,0 @@
-version: 1.0.0
-title: Make Binary Operators
-maintainer: William Michael Landau
-description: Turn arbitrary functions into binary operators.
-date_publication: '2017-04-01'
-bug_reports: https://github.com/wlandau/grapes/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=grapes
-url_git: https://github.com/wlandau/grapes

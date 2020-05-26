@@ -1,9 +1,0 @@
-version: '2.5'
-title: Graphical Markov Models with Mixed Graphs
-maintainer: Giovanni M. Marchetti
-description: Tools for marginalization, conditioning and fitting by maximum likelihood.
-date_publication: '2020-02-16'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=ggm
-url_git: ''

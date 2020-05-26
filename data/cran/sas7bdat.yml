@@ -1,9 +1,0 @@
-version: '0.5'
-title: SAS Database Reader (experimental)
-maintainer: Matt Shotwell
-description: Read SAS files in the sas7bdat data format.
-date_publication: '2014-06-04'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=sas7bdat
-url_git: ''

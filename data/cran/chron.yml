@@ -1,9 +1,0 @@
-version: 2.3-55
-title: Chronological Objects which can Handle Dates and Times
-maintainer: Kurt Hornik
-description: Provides chronological objects which can handle dates and times.
-date_publication: '2020-02-02'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=chron
-url_git: ''

@@ -1,9 +1,0 @@
-version: 1.0.8
-title: Bayesian Generalized Linear Regression
-maintainer: Paulino Perez Rodriguez
-description: Bayesian Generalized Linear Regression.
-date_publication: '2018-11-11'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=BGLR
-url_git: ''

@@ -1,9 +1,0 @@
-version: 0.0.9
-title: Data Used to Illustrate 'Loon' Functionality
-maintainer: R. Wayne Oldford
-description: Data used as examples in the 'loon' package.
-date_publication: '2020-05-19'
-bug_reports: ''
-url: http://great-northern-diver.github.io/loon.data/
-url_cran: https://CRAN.R-project.org/package=loon.data
-url_git: ''

@@ -1,9 +1,0 @@
-version: '1.0'
-title: Fast Graphical LASSO
-maintainer: Julien Clavel
-description: A fast and improved implementation of the graphical LASSO.
-date_publication: '2018-07-30'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=glassoFast
-url_git: ''

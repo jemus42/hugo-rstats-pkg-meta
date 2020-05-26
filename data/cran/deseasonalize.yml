@@ -1,9 +1,0 @@
-version: '1.35'
-title: Optimal deseasonalization for geophysical time series using AR<U+000a>fitting
-maintainer: A. I. McLeod
-description: Deseasonalize daily or monthly time series.
-date_publication: '2013-04-10'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=deseasonalize
-url_git: ''

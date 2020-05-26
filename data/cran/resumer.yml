@@ -1,9 +1,0 @@
-version: 0.0.3
-title: Build Resumes with R
-maintainer: Jared Lander
-description: Using a database, LaTeX and R easily build attractive resumes.
-date_publication: '2016-08-03'
-bug_reports: https://github.com/jaredlander/resumer/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=resumer
-url_git: https://github.com/jaredlander/resumer

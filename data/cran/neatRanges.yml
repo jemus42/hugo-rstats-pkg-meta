@@ -1,9 +1,0 @@
-version: 0.1.3
-title: Tidy Up Date/Time Ranges
-maintainer: Aljaz Jelenko
-description: Collapse, partition, combine, fill gaps in and expand date/time ranges.
-date_publication: '2020-03-29'
-bug_reports: https://github.com/arg0naut91/neatRanges/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=neatRanges
-url_git: https://github.com/arg0naut91/neatRanges

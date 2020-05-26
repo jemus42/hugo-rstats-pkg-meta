@@ -1,9 +1,0 @@
-version: 4.3-3
-title: Demos for GAMLSS
-maintainer: Mikis Stasinopoulos
-description: Demos for smoothing and gamlss.family distributions.
-date_publication: '2015-07-17'
-bug_reports: ''
-url: http://www.gamlss.org/
-url_cran: https://CRAN.R-project.org/package=gamlss.demo
-url_git: ''

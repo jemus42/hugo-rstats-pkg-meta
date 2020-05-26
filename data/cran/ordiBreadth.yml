@@ -1,9 +1,0 @@
-version: '1.0'
-title: Ordinated Diet Breadth
-maintainer: James A. Fordyce
-description: Calculates ordinated diet breadth with some plotting functions.
-date_publication: '2015-12-04'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=ordiBreadth
-url_git: ''

@@ -1,9 +1,0 @@
-version: 0.2.9
-title: European Commission Annual Macro-Economic (AMECO) Database
-maintainer: Eric Persson
-description: Annual macro-economic database provided by the European Commission.
-date_publication: '2018-05-04'
-bug_reports: http://github.com/expersso/ameco/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=ameco
-url_git: http://github.com/expersso/ameco

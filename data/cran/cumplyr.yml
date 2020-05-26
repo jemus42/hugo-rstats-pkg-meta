@@ -1,9 +1,0 @@
-version: 0.1-1
-title: Extends ddply to allow calculation of cumulative quantities.
-maintainer: John Myles White
-description: Extends ddply to allow calculation of cumulative<U+000a>quantities.
-date_publication: '2012-05-14'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=cumplyr
-url_git: ''

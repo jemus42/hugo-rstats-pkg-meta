@@ -1,9 +1,0 @@
-version: 0.2.5.8
-title: Rarefaction Tool Kit
-maintainer: Paul Saary
-description: Rarefy data, calculate diversity and plot the results.
-date_publication: '2020-01-13'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=rtk
-url_git: ''

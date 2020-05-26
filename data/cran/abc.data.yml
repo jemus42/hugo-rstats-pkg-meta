@@ -1,9 +1,0 @@
-version: '1.0'
-title: 'Data Only: Tools for Approximate Bayesian Computation (ABC)'
-maintainer: Blum Michael
-description: Contains data which are used by functions of the 'abc' package.
-date_publication: '2015-05-05'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=abc.data
-url_git: ''

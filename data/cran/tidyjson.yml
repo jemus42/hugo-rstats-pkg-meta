@@ -1,9 +1,0 @@
-version: 0.2.4
-title: Tidy Complex 'JSON'
-maintainer: ORPHANED
-description: Turn complex 'JSON' data into tidy data frames.
-date_publication: '2019-12-02'
-bug_reports: https://github.com/colearendt/tidyjson/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=tidyjson
-url_git: https://github.com/colearendt/tidyjson

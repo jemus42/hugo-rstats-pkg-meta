@@ -1,9 +1,0 @@
-version: '0.1'
-title: Various R tools for http://crantastic.org/
-maintainer: Bjorn Arild Maeland
-description: Various R tools for http://crantastic.org/
-date_publication: '2009-08-08'
-bug_reports: ''
-url: <U+000a>http://crantastic.org
-url_cran: https://CRAN.R-project.org/package=crantastic
-url_git: http://github.com/hadley/crantastic/tree/R-package

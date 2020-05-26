@@ -1,9 +1,0 @@
-version: '0.4'
-title: '{{mustache}} for R, Logicless Templating'
-maintainer: Edwin de Jonge
-description: Implements 'Mustache' logicless templating.
-date_publication: '2019-08-28'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=whisker
-url_git: http://github.com/edwindj/whisker

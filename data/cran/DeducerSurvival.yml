@@ -1,9 +1,0 @@
-version: 0.1-0
-title: Add Survival Dialogue to Deducer
-maintainer: Matthew Ockendon
-description: Adds Kaplan-Meier Survival Analysis to the Deducer GUI
-date_publication: '2012-07-11'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=DeducerSurvival
-url_git: ''

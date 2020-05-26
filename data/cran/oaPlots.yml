@@ -1,9 +1,0 @@
-version: 0.0.25
-title: OpenAnalytics Plots Package
-maintainer: Jason Waddell
-description: Offers a suite of functions for enhancing R plots.
-date_publication: '2015-11-30'
-bug_reports: ''
-url: http://www.openanalytics.eu
-url_cran: https://CRAN.R-project.org/package=oaPlots
-url_git: ''

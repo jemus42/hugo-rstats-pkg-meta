@@ -1,9 +1,0 @@
-version: 0.0-8
-title: combinatorics utilities
-maintainer: Vince Carey
-description: routines for combinatorics
-date_publication: '2012-10-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=combinat
-url_git: ''

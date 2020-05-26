@@ -1,9 +1,0 @@
-version: '0.8'
-title: FLuctuation ANalysis on Mutation Models
-maintainer: Adrien Mazoyer
-description: Tools for fluctuations analysis of mutant cells counts.
-date_publication: '2020-04-29'
-bug_reports: https://github.com/AdriMaz/flan/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=flan
-url_git: https://github.com/AdriMaz/flan

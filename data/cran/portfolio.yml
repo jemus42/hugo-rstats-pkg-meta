@@ -1,9 +1,0 @@
-version: 0.5-0
-title: Analysing Equity Portfolios
-maintainer: Daniel Gerlanc
-description: Classes for analysing and implementing equity portfolios.
-date_publication: '2020-03-14'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=portfolio
-url_git: https://github.com/dgerlanc/portfolio

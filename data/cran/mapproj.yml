@@ -1,9 +1,0 @@
-version: 1.2.7
-title: Map Projections
-maintainer: Alex Deckmyn
-description: Converts latitude/longitude into projected coordinates.
-date_publication: '2020-02-03'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=mapproj
-url_git: ''

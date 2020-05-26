@@ -1,9 +1,0 @@
-version: '1.2'
-title: Risk Neutral Density Extraction Package
-maintainer: Kam Hamidieh
-description: Extract the implied risk neutral density from options using various methods.
-date_publication: '2017-01-11'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=RND
-url_git: ''

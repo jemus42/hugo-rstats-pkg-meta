@@ -1,9 +1,0 @@
-version: 1.0.1
-title: 'Dendrogram seriation: ordering for visualisation'
-maintainer: Catherine Hurley
-description: Re-arranges a dendrogram to optimize visualisation-based cost functions
-date_publication: '2013-09-09'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=DendSer
-url_git: ''

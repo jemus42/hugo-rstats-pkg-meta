@@ -1,9 +1,0 @@
-version: 0.1-0
-title: Sparse modeling toolkit
-maintainer: Hiroshi Saito
-description: R functions to mine sparse models from data.
-date_publication: '2013-03-28'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=sprsmdl
-url_git: ''

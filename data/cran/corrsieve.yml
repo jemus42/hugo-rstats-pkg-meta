@@ -1,9 +1,0 @@
-version: 1.6-8
-title: CorrSieve
-maintainer: Michael G. Campana
-description: Statistical summary of Structure output.
-date_publication: '2013-05-07'
-bug_reports: <mcampana63@gmail.com>
-url: <U+000a>http://www.mcdonald.cam.ac.uk/projects/genetics/projects/CorrSieve/CorrSieve.htm
-url_cran: https://CRAN.R-project.org/package=corrsieve
-url_git: ''

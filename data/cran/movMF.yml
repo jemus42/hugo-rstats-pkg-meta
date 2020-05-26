@@ -1,9 +1,0 @@
-version: 0.2-4
-title: Mixtures of von Mises-Fisher Distributions
-maintainer: Kurt Hornik
-description: Fit and simulate mixtures of von Mises-Fisher distributions.
-date_publication: '2018-09-26'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=movMF
-url_git: ''

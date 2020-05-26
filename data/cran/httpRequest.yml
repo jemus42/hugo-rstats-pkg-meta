@@ -1,9 +1,0 @@
-version: 0.0.10
-title: Basic HTTP Request
-maintainer: Andreas Westfeld
-description: HTTP Request protocols. Implements the GET, POST and multipart POST request.
-date_publication: '2014-09-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=httpRequest
-url_git: ''

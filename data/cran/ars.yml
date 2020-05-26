@@ -1,9 +1,0 @@
-version: '0.6'
-title: Adaptive Rejection Sampling
-maintainer: Paulino Perez Rodriguez
-description: Adaptive Rejection Sampling, Original version.
-date_publication: '2018-08-23'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=ars
-url_git: ''

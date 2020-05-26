@@ -1,9 +1,0 @@
-version: 0.6.0
-title: Analysis of Age-Structured Demographic Models
-maintainer: Hana Sevcikova
-description: Construction and analysis of matrix population models in R.
-date_publication: '2018-09-14'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=demogR
-url_git: ''

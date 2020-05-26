@@ -1,9 +1,0 @@
-version: 1.0.16
-title: Text Mining of PubMed Abstracts
-maintainer: S. Ramachandran
-description: Text mining of PubMed Abstracts (text and XML) from <http://www.ncbi.nlm.nih.gov/pubmed>.
-date_publication: '2019-07-23'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=pubmed.mineR
-url_git: ''

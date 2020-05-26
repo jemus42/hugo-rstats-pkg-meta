@@ -1,9 +1,0 @@
-version: '0.9'
-title: Network Estimation for Time Series
-maintainer: Christian Brownlees
-description: Sparse VAR estimation based on LASSO.
-date_publication: '2017-10-28'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=nets
-url_git: https://github.com/ctbrownlees/R-Package-nets

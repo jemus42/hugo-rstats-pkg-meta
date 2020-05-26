@@ -1,9 +1,0 @@
-version: 0.4.3
-title: Create Plots from MCMC Output
-maintainer: S. McKay Curtis
-description: Functions for convenient plotting and viewing of MCMC output.
-date_publication: '2018-06-22'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=mcmcplots
-url_git: ''

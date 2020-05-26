@@ -1,9 +1,0 @@
-version: 0.1-41
-title: Censored time series
-maintainer: A.I. McLeod
-description: Fit censored time series
-date_publication: '2014-08-26'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=cents
-url_git: ''

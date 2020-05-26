@@ -1,9 +1,0 @@
-version: 1.11-1
-title: Fishery Science Methods and Models
-maintainer: Gary A. Nelson
-description: Functions for applying a wide range of fisheries stock assessment methods.
-date_publication: '2019-12-13'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=fishmethods
-url_git: ''

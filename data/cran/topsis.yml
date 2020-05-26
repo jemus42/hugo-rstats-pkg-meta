@@ -1,9 +1,0 @@
-version: '1.0'
-title: TOPSIS method for multiple-criteria decision making (MCDM)
-maintainer: Mahmoud Mosalman Yazdi
-description: Evaluation of alternatives based on multiple criteria using TOPSIS method.
-date_publication: '2013-09-30'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=topsis
-url_git: ''

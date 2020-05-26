@@ -1,9 +1,0 @@
-version: 2.0-12
-title: Extreme Value Analysis
-maintainer: Eric Gilleland
-description: Functions for performing extreme value analysis.
-date_publication: '2020-05-03'
-bug_reports: ''
-url: http://www.ral.ucar.edu/staff/ericg/extRemes
-url_cran: https://CRAN.R-project.org/package=extRemes
-url_git: ''

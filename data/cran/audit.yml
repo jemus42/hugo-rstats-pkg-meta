@@ -1,9 +1,0 @@
-version: 0.1-1
-title: Bounds for Accounting Populations
-maintainer: Glen Meeden
-description: Two Bayesian methods for Accounting Populations
-date_publication: '2012-10-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=audit
-url_git: ''

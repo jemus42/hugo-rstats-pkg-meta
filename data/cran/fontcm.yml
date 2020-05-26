@@ -1,9 +1,0 @@
-version: '1.1'
-title: Computer Modern font for use with extrafont package
-maintainer: Winston Chang
-description: Computer Modern font for use with extrafont package
-date_publication: '2014-03-19'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=fontcm
-url_git: https://github.com/wch/fontcm

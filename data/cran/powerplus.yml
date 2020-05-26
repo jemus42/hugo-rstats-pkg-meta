@@ -1,9 +1,0 @@
-version: '3.1'
-title: Exponentiation Operations
-maintainer: Albert Dorador
-description: Computation of matrix and scalar exponentiation.
-date_publication: '2017-05-18'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=powerplus
-url_git: ''

@@ -1,9 +1,0 @@
-version: 0.2.2
-title: A Helpful Way to Install R Packages Hosted on GitHub
-maintainer: Koji Makiyama
-description: Provides an helpful way to install packages hosted on GitHub.
-date_publication: '2018-02-18'
-bug_reports: https://github.com/hoxo-m/githubinstall/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=githubinstall
-url_git: https://github.com/hoxo-m/githubinstall

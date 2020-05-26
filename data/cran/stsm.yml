@@ -1,9 +1,0 @@
-version: '1.9'
-title: Structural Time Series Models
-maintainer: Javier López-de-Lacalle
-description: Fit the basic structural time series model by maximum likelihood.
-date_publication: '2016-10-23'
-bug_reports: ''
-url: http://jalobe.com
-url_cran: https://CRAN.R-project.org/package=stsm
-url_git: ''

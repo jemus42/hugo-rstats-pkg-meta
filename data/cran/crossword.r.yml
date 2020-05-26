@@ -1,9 +1,0 @@
-version: 0.3.6
-title: Generating Crosswords from Word Lists
-maintainer: Peter Meissner
-description: Generate crosswords from a list of words.
-date_publication: '2019-01-20'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=crossword.r
-url_git: ''

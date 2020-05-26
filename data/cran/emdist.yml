@@ -1,9 +1,0 @@
-version: 0.3-1
-title: Earth Mover's Distance
-maintainer: Simon Urbanek
-description: Package providing calculation of Earth Mover's Distance<U+000a>(EMD).
-date_publication: '2012-12-02'
-bug_reports: ''
-url: http://www.rforge.net/emd
-url_cran: https://CRAN.R-project.org/package=emdist
-url_git: ''

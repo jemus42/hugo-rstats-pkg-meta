@@ -1,9 +1,0 @@
-version: 0.1.5
-title: English and European Soccer Results 1871-2016
-maintainer: James Curley
-description: Analyzing English & European soccer results data from 1871-2016.
-date_publication: '2016-06-12'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=engsoccerdata
-url_git: ''

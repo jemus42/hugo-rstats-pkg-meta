@@ -1,9 +1,0 @@
-version: 0.4.1
-title: Multiple Fill and Colour Scales in 'ggplot2'
-maintainer: Elio Campitelli
-description: Use multiple fill and colour scales in 'ggplot2'.
-date_publication: '2020-02-13'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=ggnewscale
-url_git: ''

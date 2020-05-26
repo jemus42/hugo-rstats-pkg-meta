@@ -1,9 +1,0 @@
-version: 0.2.1
-title: Capture the Spirit of Your 'ggplot2' Calls
-maintainer: Jonathan Carroll
-description: Creates a reproducible 'ggplot2' object by storing the data and calls.
-date_publication: '2016-08-20'
-bug_reports: https://github.com/jonocarroll/ggghost/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=ggghost
-url_git: https://github.com/jonocarroll/ggghost

@@ -1,9 +1,0 @@
-version: 0.0-2
-title: Functions for calculating the CreditMetrics risk model
-maintainer: Andreas Wittmann
-description: A set of functions for computing the CreditMetrics risk model
-date_publication: ''
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=CreditMetrics
-url_git: ''

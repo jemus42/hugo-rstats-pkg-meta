@@ -1,9 +1,0 @@
-version: 0.7.0
-title: Calculate the RR for the GAM
-maintainer: Zhicheng Du<dgdzc@hotmail.com>
-description: To calculate the relative risk (RR) for the generalized additive model.
-date_publication: '2019-11-09'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=gamRR
-url_git: ''

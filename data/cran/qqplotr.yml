@@ -1,9 +1,0 @@
-version: 0.0.4
-title: Quantile-Quantile Plot Extensions for 'ggplot2'
-maintainer: Adam Loy
-description: Extensions of 'ggplot2' Q-Q plot functionalities.
-date_publication: '2020-02-04'
-bug_reports: https://github.com/aloy/qqplotr/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=qqplotr
-url_git: https://github.com/aloy/qqplotr

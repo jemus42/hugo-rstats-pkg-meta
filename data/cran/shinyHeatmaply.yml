@@ -1,9 +1,0 @@
-version: 0.2.0
-title: Deploy 'heatmaply' using 'shiny'
-maintainer: Jonathan Sidi
-description: Access functionality of the 'heatmaply' package through 'Shiny UI'.
-date_publication: '2020-04-06'
-bug_reports: https://github.com/yonicd/shinyHeatmaply/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=shinyHeatmaply
-url_git: https://github.com/yonicd/shinyHeatmaply

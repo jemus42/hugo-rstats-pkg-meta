@@ -1,9 +1,0 @@
-version: '2.21'
-title: Interface for FAME Time Series Database
-maintainer: Jeff Hallman
-description: Read and write FAME databases.
-date_publication: '2015-07-12'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=fame
-url_git: ''

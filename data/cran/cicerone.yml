@@ -1,9 +1,0 @@
-version: 1.0.1
-title: Provide Tours of 'Shiny' Applications
-maintainer: John Coene
-description: Provide step by step guided tours of 'Shiny' applications.
-date_publication: '2020-02-29'
-bug_reports: https://github.com/JohnCoene/cicerone/issues
-url: https://cicerone.john-coene.com/
-url_cran: https://CRAN.R-project.org/package=cicerone
-url_git: ''

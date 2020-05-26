@@ -1,9 +1,0 @@
-version: 1.3.1
-title: Relationship Inference for DNA Mixtures
-maintainer: Guro Dorum
-description: Makes relationship inference involving DNA mixtures with unknown profiles.
-date_publication: '2020-05-19'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=relMix
-url_git: ''

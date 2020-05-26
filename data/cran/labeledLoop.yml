@@ -1,9 +1,0 @@
-version: '0.1'
-title: Labeled Loop
-maintainer: Kohske Takahashi
-description: Support labeled loop and escape from nested loop
-date_publication: '2012-04-21'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=labeledLoop
-url_git: ''

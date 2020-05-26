@@ -1,9 +1,0 @@
-version: 1.01-2
-title: Implementation of optimal hierarchical clustering
-maintainer: Peter Langfelder
-description: Fast implementation of hierarchical clustering
-date_publication: '2012-08-21'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=flashClust
-url_git: ''

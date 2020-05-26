@@ -1,9 +1,0 @@
-version: 1.1-9
-title: The Davies Quantile Function
-maintainer: Robin K. S. Hankin
-description: Various utilities for the Davies distribution.
-date_publication: '2016-05-26'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=Davies
-url_git: ''

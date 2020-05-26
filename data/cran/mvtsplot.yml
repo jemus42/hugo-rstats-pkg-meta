@@ -1,9 +1,0 @@
-version: 1.0-1
-title: Multivariate Time Series Plot
-maintainer: Roger D. Peng
-description: A function for plotting multivariate time series data
-date_publication: '2012-03-21'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=mvtsplot
-url_git: http://github.com/rdpeng/mvtsplot

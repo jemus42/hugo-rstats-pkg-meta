@@ -1,9 +1,0 @@
-version: '1.1'
-title: Parviol
-maintainer: Jaroslav Myslivec
-description: Parviol combines parallel coordinates and violin plot
-date_publication: '2012-10-29'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=parviol
-url_git: ''

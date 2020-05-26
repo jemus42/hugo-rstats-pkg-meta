@@ -1,9 +1,0 @@
-version: 0.1.4
-title: Q-Q and Manhattan Plots for GWAS Data
-maintainer: Stephen Turner
-description: Create Q-Q and manhattan plots for GWAS data from PLINK results.
-date_publication: '2017-03-16'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=qqman
-url_git: ''

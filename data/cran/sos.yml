@@ -1,9 +1,0 @@
-version: 2.0-0
-title: Search Contributed R Packages, Sort by Package
-maintainer: Spencer Graves
-description: Search contributed R packages, sort by package.
-date_publication: '2017-07-03'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=sos
-url_git: ''

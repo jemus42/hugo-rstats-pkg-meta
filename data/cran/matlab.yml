@@ -1,9 +1,0 @@
-version: 1.0.2
-title: MATLAB emulation package
-maintainer: P. Roebuck
-description: Emulate MATLAB code using R
-date_publication: '2014-06-24'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=matlab
-url_git: ''

@@ -1,9 +1,0 @@
-version: 1.5.1
-title: R Interface to TIBCO 'tibbr'
-maintainer: Stephen Kaluzny
-description: Post messages to tibbr from within R.
-date_publication: '2016-12-15'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=tibbrConnector
-url_git: ''

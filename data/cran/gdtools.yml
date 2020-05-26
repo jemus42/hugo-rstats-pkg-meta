@@ -1,9 +1,0 @@
-version: 0.2.2
-title: Utilities for Graphical Rendering
-maintainer: David Gohel
-description: Useful tools for writing vector graphics devices.
-date_publication: '2020-04-03'
-bug_reports: https://github.com/davidgohel/gdtools/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=gdtools
-url_git: ''

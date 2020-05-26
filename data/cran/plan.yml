@@ -1,9 +1,0 @@
-version: 0.4-3
-title: Tools for Project Planning
-maintainer: Dan Kelley
-description: Supports the creation of 'burndown' charts and 'gantt' diagrams.
-date_publication: '2018-05-30'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=plan
-url_git: http://github.com/dankelley/plan

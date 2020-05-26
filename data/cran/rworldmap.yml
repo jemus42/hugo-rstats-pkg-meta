@@ -1,9 +1,0 @@
-version: 1.3-6
-title: Mapping Global Data
-maintainer: Andy South
-description: Enables mapping of country level and gridded user datasets.
-date_publication: '2016-02-03'
-bug_reports: https://github.com/AndySouth/rworldmap/issues
-url: https://groups.google.com/forum/#!forum/rworldmap
-url_cran: https://CRAN.R-project.org/package=rworldmap
-url_git: https://github.com/AndySouth/rworldmap/

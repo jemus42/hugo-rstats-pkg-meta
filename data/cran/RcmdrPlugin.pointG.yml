@@ -1,9 +1,0 @@
-version: 0.6.6
-title: Graphical POINT of view for questionnaire data Rcmdr Plug-In
-maintainer: Stephane Champely
-description: This package provides a Rcmdr "plug-in" to analyze questionnaire data.
-date_publication: '2014-02-17'
-bug_reports: ''
-url: ''
-url_cran: https://CRAN.R-project.org/package=RcmdrPlugin.pointG
-url_git: ''

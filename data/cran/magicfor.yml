@@ -1,9 +1,0 @@
-version: 0.1.0
-title: Magic Functions to Obtain Results from for Loops
-maintainer: Koji Makiyama
-description: Magic functions to obtain results from for loops.
-date_publication: '2016-12-18'
-bug_reports: https://github.com/hoxo-m/magicfor/issues
-url: ''
-url_cran: https://CRAN.R-project.org/package=magicfor
-url_git: https://github.com/hoxo-m/magicfor
