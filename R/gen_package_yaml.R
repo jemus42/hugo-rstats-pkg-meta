@@ -25,7 +25,6 @@ gen_package_yaml <- function() {
 
   package_tbl %>%
     dplyr::mutate(
-      name = package,
       maintainer = str_remove_all(maintainer, "\\s*<.*>"),
       urlkind = case_when(
         str_detect(urls, "(github\\.com|gitlab\\.com|bitbucket|[Rr](-)?[Ff]orge|svn\\.r-project)") ~ "git",

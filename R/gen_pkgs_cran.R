@@ -15,3 +15,20 @@ gen_pkgs_cran <- function() {
       version_cran = Version
     )
 }
+
+write_cran_yaml <- function() {
+  pkgs <- gen_pkgs_cran()
+
+  pkg_list <- pkgs %>%
+    group_by(package) %>%
+    tidyr::nest() %>%
+    dplyr::pull(data) %>%
+    purrr::set_names(pkgs$package)
+
+  if (!file.exists(here::here("data", "packages"))) {
+    dir.create(here::here("data", "packages"))
+  }
+
+  yaml::write_yaml(pkg_list, here::here("data/packages/cran.yml"))
+
+}
