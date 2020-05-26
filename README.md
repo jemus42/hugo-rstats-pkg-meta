@@ -15,8 +15,8 @@ Initially, for my own use, that data was based on my locally installed packages,
 
 ## Current Status
 
-- [`data/packages.yml`]: Derived from my locally installed packages and used by my hugo shortcode.
-- [`data/packages/cran.yml`]: Collected via `available.packages()` and `pkgsearch::cran_packages()`, so it should contain _all_ CRAN packages, but not with cleaned up URLs yet. Also, this file is >10MB.
+- [`data/packages.yml`](data/packages.yml): Derived from my locally installed packages and used by my hugo shortcode.
+- [`data/packages/cran.yml`](data/packages/cran.yml): Collected via `available.packages()` and `pkgsearch::cran_packages()`, so it should contain _all_ CRAN packages, but not with cleaned up URLs yet. Also, this file is >10MB.
 
 
 ## Usage
