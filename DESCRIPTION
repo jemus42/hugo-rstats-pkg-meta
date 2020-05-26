@@ -24,4 +24,6 @@ Imports:
     glue,
     desc,
     utils,
-    magrittr
+    magrittr,
+    pkgsearch,
+    cliapp

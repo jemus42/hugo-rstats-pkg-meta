@@ -11,23 +11,15 @@ installed_pkgs <- sort(rownames(installed.packages()))
 cran_pkgs <- rownames(available.packages())
 
 #cran_meta <- pkgsearch::cran_packages(installed_pkgs)
+t1 <- Sys.time()
 cran_meta <- pkgsearch::cran_packages(cran_pkgs)
-
-cran_meta %>%
-  janitor::clean_names() %>%
-  select(
-    package, version, title, maintainer, description,
-    date_publication, bug_reports, url
-  ) %>%
-  mutate(
-    date_publication = as.character(as.Date(date_publication)),
-    url_cran = glue::glue("https://CRAN.R-project.org/package={package}")
-  ) %>%
-  mutate_all(~replace_na(.x, "")) %>%
-  group_by(package) %>%
-  tidyr::nest() %>%
-  pull(data) %>%
-  purrr::set_names(cran_meta$Package) %>%
-  yaml::write_yaml(here::here("data", "packages", "installed_cran.yml"))
+t2 <- Sys.time()
 
 
+
+
+
+
+
+
+write_cran_meta(cran_meta_full)

@@ -1,6 +1,6 @@
 #' Create the packages.yml for installed packages
 #'
-#' @return
+#' @return A tibble
 #' @export
 #' @examples
 #' \dontrun{

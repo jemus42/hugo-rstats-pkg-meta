@@ -1,0 +1,56 @@
+#' Get available packages from CRAN
+#'
+#' Returns a single two-column tibble based on [`utils::available.packages()`].
+#' @return
+#' @export
+#'
+#' @examples
+#' get_cran_pkgs()
+get_cran_pkgs <- function(chunk_size = 200, timeout = 1) {
+  cran_pkgs <- rownames(available.packages())
+  cran_pkg_chunks <- split(cran_pkgs, ceiling(seq_along(cran_pkgs) / 200))
+
+  p <- cliapp::cli_progress_bar(total = length(cran_pkg_chunks))
+  cran_meta_full <- purrr::map_df(cran_pkg_chunks, ~{
+    p$tick()
+    res <- pkgsearch::cran_packages(.x)
+    Sys.sleep(1)
+    res
+  })
+
+  if (!file.exists(here::here("cache"))) dir.create(here::here("cache"))
+
+  saveRDS(cran_meta_full, here::here("cache", "cran_meta_full.rds"))
+}
+
+#' Write (and cleanup) the CRAN package metadata
+#'
+#' @param metadata The metadata as returned by [`get_cran_pkgs()`].
+#' @param file_out `[cran.yaml]` The output `YAML` file relative to `data/packages/`
+#'
+#' @return
+#' @export
+#'
+#' @examples
+#' \dontrun{
+#' get_cran_pkgs() %>%
+#'   write_cran_meta()
+#' }
+write_cran_meta <- function(metadata, file_out = "cran.yml") {
+  metadata %>%
+    janitor::clean_names() %>%
+    dplyr::select(
+      package, version, title, maintainer, description,
+      date_publication, bug_reports, url
+    ) %>%
+    dplyr::mutate(
+      date_publication = as.character(as.Date(date_publication)),
+      url_cran = glue::glue("https://CRAN.R-project.org/package={package}")
+    ) %>%
+    dplyr::mutate_all(~tidyr::replace_na(.x, "")) %>%
+    dplyr::group_by(package) %>%
+    tidyr::nest() %>%
+    pdplyr::ull(data) %>%
+    purrr::set_names(metadata$Package) %>%
+    yaml::write_yaml(here::here("data", "packages", file_out))
+}
