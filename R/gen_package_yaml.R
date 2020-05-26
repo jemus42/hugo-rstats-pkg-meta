@@ -48,6 +48,7 @@ gen_package_yaml <- function() {
     ) %>%
     dplyr::left_join(pkgs_cran, by = "package") %>%
     dplyr::mutate(
+      name = package,
       url_cran = ifelse(is.na(url_cran), "", url_cran),
       version_cran = ifelse(is.na(version_cran), "", version_cran)
     ) %>%
