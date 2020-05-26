@@ -44,13 +44,30 @@ write_cran_meta <- function(metadata, file_out = "cran.yml") {
       date_publication, bug_reports, url
     ) %>%
     dplyr::mutate(
+      maintainer = stringr::str_remove(maintainer, "\\s+<.*>"),
       date_publication = as.character(as.Date(date_publication)),
-      url_cran = glue::glue("https://CRAN.R-project.org/package={package}")
+      url_cran = glue::glue("https://CRAN.R-project.org/package={package}"),
+      url = stringr::str_remove_all(url, "(\\\n)|(\\s+)"),
+      url = stringr::str_split(url, ","),
+      url_git = purrr::map_chr(url, ~{
+        res <- stringr::str_subset(.x, regex_source_repo)
+        ifelse(identical(res, character()), "", res)
+      }),
+      url = purrr::map_chr(url, ~{
+        # Try to leave only non-git, hopefully documentation websites
+        res <- stringr::str_subset(.x, regex_not_website, negate = TRUE)
+        ifelse(identical(res, character()), "", res)
+      })
     ) %>%
     dplyr::mutate_all(~tidyr::replace_na(.x, "")) %>%
     dplyr::group_by(package) %>%
     tidyr::nest() %>%
-    pdplyr::ull(data) %>%
+    dplyr::pull(data) %>%
     purrr::set_names(metadata$Package) %>%
     yaml::write_yaml(here::here("data", "packages", file_out))
 }
+
+# Regexes to determine URL context
+regex_source_repo <- "(github\\.com)|([Rr]-[Ff]orge)|(gitlab\\.com)|(bitbucket\\.org)"
+regex_cran <- "([rR]-project\\.org)"
+regex_not_website <- paste0(c(regex_source_repo, regex_cran), collapse = "|")
