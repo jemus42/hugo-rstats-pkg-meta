@@ -9,17 +9,3 @@ installed_pkgs <- installed.packages()
 installed_pkgs <- sort(rownames(installed.packages()))
 
 cran_pkgs <- rownames(available.packages())
-
-#cran_meta <- pkgsearch::cran_packages(installed_pkgs)
-t1 <- Sys.time()
-cran_meta <- pkgsearch::cran_packages(cran_pkgs)
-t2 <- Sys.time()
-
-
-
-
-
-
-
-
-write_cran_meta(cran_meta_full)

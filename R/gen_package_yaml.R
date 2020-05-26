@@ -7,7 +7,7 @@
 #' gen_package_yaml()
 #' }
 gen_package_yaml <- function() {
-  packages <- rownames(installed.packages())
+  packages <- rownames(utils::installed.packages())
   package_tbl <- purrr::map_dfr(packages, ~{
 
     description <- desc::desc(package = .x)
@@ -23,13 +23,21 @@ gen_package_yaml <- function() {
 
   })
 
+  pkgs_cran <- utils::available.packages() %>%
+    tibble::as_tibble() %>%
+    dplyr::transmute(
+      package = .data$Package,
+      url_cran = glue::glue("https://CRAN.R-project.org/package={package}"),
+      version_cran = Version
+    )
+
   package_tbl %>%
     dplyr::mutate(
-      maintainer = str_remove_all(maintainer, "\\s*<.*>"),
-      urlkind = case_when(
-        str_detect(urls, "(github\\.com|gitlab\\.com|bitbucket|[Rr](-)?[Ff]orge|svn\\.r-project)") ~ "git",
-        str_detect(urls, "(CRAN|cran|r-project)") ~ "cran",
-        str_detect(urls, "(tidyverse|r-lib|tidymodels|github\\.io)\\.org") ~ "pkgdown",
+      maintainer = stringr::str_remove_all(maintainer, "\\s*<.*>"),
+      urlkind = dplyr::case_when(
+        stringr::str_detect(urls, "(github\\.com|gitlab\\.com|bitbucket|[Rr](-)?[Ff]orge|svn\\.r-project)") ~ "git",
+        stringr::str_detect(urls, "(CRAN|cran|r-project)") ~ "cran",
+        stringr::str_detect(urls, "(tidyverse|r-lib|tidymodels|github\\.io)\\.org") ~ "pkgdown",
         TRUE ~ "other"
       )
     ) %>%
@@ -38,8 +46,11 @@ gen_package_yaml <- function() {
       names_from = "urlkind", names_prefix = "url_",
       values_from = "urls", values_fn = first, values_fill = ""
     ) %>%
-    left_join(gen_pkgs_cran(), by = "package") %>%
-    dplyr::mutate(url_cran = ifelse(is.na(url_cran), "", url_cran)) %>%
+    dplyr::left_join(pkgs_cran, by = "package") %>%
+    dplyr::mutate(
+      url_cran = ifelse(is.na(url_cran), "", url_cran),
+      version_cran = ifelse(is.na(version_cran), "", version_cran)
+    ) %>%
     dplyr::group_by(package) %>%
     tidyr::nest() -> pkgslist
 
