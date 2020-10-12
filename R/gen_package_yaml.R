@@ -44,7 +44,7 @@ gen_package_yaml <- function() {
     dplyr::filter(urlkind != "cran") %>%
     tidyr::pivot_wider(
       names_from = "urlkind", names_prefix = "url_",
-      values_from = "urls", values_fn = first, values_fill = ""
+      values_from = "urls", values_fn = dplyr::first, values_fill = ""
     ) %>%
     dplyr::left_join(pkgs_cran, by = "package") %>%
     dplyr::mutate(
