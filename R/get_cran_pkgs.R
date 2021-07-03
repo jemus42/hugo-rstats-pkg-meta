@@ -7,7 +7,9 @@
 #' @examples
 #' get_cran_pkgs()
 get_cran_pkgs <- function(chunk_size = 200, timeout = 1) {
-  cran_pkgs <- rownames(available.packages())
+  cran_pkgs <- rownames(available.packages(
+    repos = "https://cloud.r-project.org/"
+  ))
   cran_pkg_chunks <- split(cran_pkgs, ceiling(seq_along(cran_pkgs) / 200))
 
   p <- cliapp::cli_progress_bar(total = length(cran_pkg_chunks))
