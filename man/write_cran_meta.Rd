@@ -12,7 +12,7 @@ write_cran_meta(metadata, file_out = "cran.yml")
 \item{file_out}{\verb{[cran.yaml]} The output \code{YAML} file relative to \verb{data/packages/}}
 }
 \value{
-
+Nothign
 }
 \description{
 Write (and cleanup) the CRAN package metadata

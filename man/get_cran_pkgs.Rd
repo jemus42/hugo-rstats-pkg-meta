@@ -4,10 +4,10 @@
 \alias{get_cran_pkgs}
 \title{Get available packages from CRAN}
 \usage{
-get_cran_pkgs(chunk_size = 200, timeout = 1)
+get_cran_pkgs(chunk_size = 200, timeout = 0.01)
 }
 \value{
-
+A tibble of metadata.
 }
 \description{
 Returns a single two-column tibble based on \code{\link[utils:available.packages]{utils::available.packages()}}.

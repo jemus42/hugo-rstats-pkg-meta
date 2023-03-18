@@ -1,28 +1,32 @@
 #' Get available packages from CRAN
 #'
 #' Returns a single two-column tibble based on [`utils::available.packages()`].
-#' @return
+#' @return A tibble of metadata.
 #' @export
 #'
 #' @examples
 #' get_cran_pkgs()
-get_cran_pkgs <- function(chunk_size = 200, timeout = 1) {
+get_cran_pkgs <- function(chunk_size = 200, timeout = .01) {
   cran_pkgs <- rownames(available.packages(
     repos = "https://cloud.r-project.org/"
   ))
-  cran_pkg_chunks <- split(cran_pkgs, ceiling(seq_along(cran_pkgs) / 200))
+  cran_pkg_chunks <- split(cran_pkgs, ceiling(seq_along(cran_pkgs) / chunk_size))
 
-  p <- cliapp::cli_progress_bar(total = length(cran_pkg_chunks))
+  p <- cli::cli_progress_bar("Getting stuff", total = length(cran_pkg_chunks))
   cran_meta_full <- purrr::map_df(cran_pkg_chunks, ~{
-    p$tick()
+    cli::cli_progress_update(id = p)
     res <- pkgsearch::cran_packages(.x)
-    Sys.sleep(1)
+    Sys.sleep(timeout)
     res
   })
+  cli::cli_progress_done(id = p)
+
 
   if (!file.exists(here::here("cache"))) dir.create(here::here("cache"))
 
   saveRDS(cran_meta_full, here::here("cache", "cran_meta_full.rds"))
+
+  cran_meta_full
 }
 
 #' Write (and cleanup) the CRAN package metadata
@@ -30,7 +34,7 @@ get_cran_pkgs <- function(chunk_size = 200, timeout = 1) {
 #' @param metadata The metadata as returned by [`get_cran_pkgs()`].
 #' @param file_out `[cran.yaml]` The output `YAML` file relative to `data/packages/`
 #'
-#' @return
+#' @return Nothign
 #' @export
 #'
 #' @examples
