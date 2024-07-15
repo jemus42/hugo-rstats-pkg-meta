@@ -12,14 +12,14 @@ write_cran_meta(metadata, file_out = "cran.yml")
 \item{file_out}{\verb{[cran.yaml]} The output \code{YAML} file relative to \verb{data/packages/}}
 }
 \value{
-Nothign
+Invisibly: A \code{list} in yaml-like structure.
 }
 \description{
 Write (and cleanup) the CRAN package metadata
 }
 \examples{
 \dontrun{
-get_cran_pkgs() \%>\%
+get_cran_pkgs() |>
   write_cran_meta()
 }
 }

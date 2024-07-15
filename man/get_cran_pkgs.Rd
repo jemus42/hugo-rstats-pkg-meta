@@ -7,10 +7,11 @@
 get_cran_pkgs(chunk_size = 200, timeout = 0.01)
 }
 \value{
-A tibble of metadata.
+A \code{\link[tibble:tibble]{tibble::tibble}} of package metadata.
 }
 \description{
-Returns a single two-column tibble based on \code{\link[utils:available.packages]{utils::available.packages()}}.
+Returns a \code{\link[tibble:tibble]{tibble::tibble}} based on \code{\link[pkgsearch:cran_packages]{pkgsearch::cran_packages()}} for all R packages
+returned by \code{\link[utils:available.packages]{utils::available.packages()}}
 }
 \examples{
 get_cran_pkgs()

@@ -1,14 +1,15 @@
 #' Get available packages from CRAN
 #'
-#' Returns a single two-column tibble based on [`utils::available.packages()`].
-#' @return A tibble of metadata.
+#' Returns a [`tibble::tibble`] based on [`pkgsearch::cran_packages()`] for all R packages
+#' returned by [`utils::available.packages()`]
+#' @return A [`tibble::tibble`] of package metadata.
 #' @export
 #'
 #' @examples
 #' get_cran_pkgs()
 get_cran_pkgs <- function(chunk_size = 200, timeout = .01) {
   cran_pkgs <- rownames(available.packages(
-    repos = "https://cloud.r-project.org/"
+    repos = "https://cran.r-project.org/"
   ))
   cran_pkg_chunks <- split(cran_pkgs, ceiling(seq_along(cran_pkgs) / chunk_size))
 
@@ -20,7 +21,6 @@ get_cran_pkgs <- function(chunk_size = 200, timeout = .01) {
     res
   })
   cli::cli_progress_done(id = p)
-
 
   if (!file.exists(here::here("cache"))) dir.create(here::here("cache"))
 
@@ -34,21 +34,21 @@ get_cran_pkgs <- function(chunk_size = 200, timeout = .01) {
 #' @param metadata The metadata as returned by [`get_cran_pkgs()`].
 #' @param file_out `[cran.yaml]` The output `YAML` file relative to `data/packages/`
 #'
-#' @return Nothign
+#' @return Invisibly: A `list` in yaml-like structure.
 #' @export
 #'
 #' @examples
 #' \dontrun{
-#' get_cran_pkgs() %>%
+#' get_cran_pkgs() |>
 #'   write_cran_meta()
 #' }
 write_cran_meta <- function(metadata, file_out = "cran.yml") {
-  metadata %>%
-    janitor::clean_names() %>%
+  metadata |>
+    janitor::clean_names() |>
     dplyr::select(
       package, version, title, maintainer, description,
       date_publication, bug_reports, url
-    ) %>%
+    ) |>
     dplyr::mutate(
       maintainer = stringr::str_remove(maintainer, "\\s+<.*>"),
       date_publication = as.character(as.Date(date_publication)),
@@ -64,12 +64,12 @@ write_cran_meta <- function(metadata, file_out = "cran.yml") {
         res <- stringr::str_subset(.x, regex_not_website, negate = TRUE)
         ifelse(identical(res, character()), "", res)
       })
-    ) %>%
-    dplyr::mutate_all(~tidyr::replace_na(.x, "")) %>%
-    dplyr::group_by(package) %>%
-    tidyr::nest() %>%
-    dplyr::pull(data) %>%
-    purrr::set_names(metadata$Package) %>%
+    ) |>
+    dplyr::mutate_all(~tidyr::replace_na(.x, "")) |>
+    dplyr::group_by(package) |>
+    tidyr::nest() |>
+    dplyr::pull(data) |>
+    purrr::set_names(metadata$Package) |>
     yaml::write_yaml(here::here("data", "packages", file_out))
 }
 

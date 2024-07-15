@@ -14,24 +14,24 @@ gen_package_yaml <- function() {
 
     tibble::tibble(
       package = .x,
-      title = description$get("Title") %>% as.character(),
-      #description = description$get("Description") %>% as.character(),
+      title = description$get("Title") |> as.character(),
+      #description = description$get("Description") |> as.character(),
       urls = description$get_urls(),
-      version = description$get_version() %>% as.character(),
+      version = description$get_version() |> as.character(),
       maintainer = description$get_maintainer()
     )
 
   })
 
-  pkgs_cran <- utils::available.packages() %>%
-    tibble::as_tibble() %>%
+  pkgs_cran <- utils::available.packages() |>
+    tibble::as_tibble() |>
     dplyr::transmute(
       package = .data$Package,
       url_cran = glue::glue("https://CRAN.R-project.org/package={package}"),
       version_cran = Version
     )
 
-  package_tbl %>%
+  pkgslist <- package_tbl |>
     dplyr::mutate(
       maintainer = stringr::str_remove_all(maintainer, "\\s*<.*>"),
       urlkind = dplyr::case_when(
@@ -40,23 +40,27 @@ gen_package_yaml <- function() {
         stringr::str_detect(urls, "(tidyverse|r-lib|tidymodels|github\\.io)\\.org") ~ "pkgdown",
         TRUE ~ "other"
       )
-    ) %>%
-    dplyr::filter(urlkind != "cran") %>%
+    ) |>
+    dplyr::filter(urlkind != "cran") |>
     tidyr::pivot_wider(
-      names_from = "urlkind", names_prefix = "url_",
-      values_from = "urls", values_fn = dplyr::first, values_fill = ""
-    ) %>%
-    dplyr::left_join(pkgs_cran, by = "package") %>%
+      names_from = "urlkind",
+      names_prefix = "url_",
+      values_from = "urls",
+      values_fn = dplyr::first,
+      values_fill = ""
+    ) |>
+    dplyr::left_join(pkgs_cran, by = "package") |>
     dplyr::mutate(
       name = package,
       url_cran = ifelse(is.na(url_cran), "", url_cran),
       version_cran = ifelse(is.na(version_cran), "", version_cran)
-    ) %>%
-    dplyr::group_by(package) %>%
-    tidyr::nest() -> pkgslist
+    ) |>
+    dplyr::group_by(package) |>
+    tidyr::nest()
 
   pkgyaml <- purrr::map(pkgslist$data, unclass)
   names(pkgyaml) <- pkgslist$package
 
   yaml::write_yaml(pkgyaml, here::here("data/packages.yml"))
+  invisible(pkgyaml)
 }
