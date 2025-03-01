@@ -7,19 +7,25 @@
 #'
 #' @examples
 #' get_cran_pkgs()
-get_cran_pkgs <- function(chunk_size = 200, timeout = .01) {
+get_cran_pkgs <- function(chunk_size = 1, timeout = .1) {
   cran_pkgs <- rownames(available.packages(
     repos = "https://cran.r-project.org/"
   ))
-  cran_pkg_chunks <- split(cran_pkgs, ceiling(seq_along(cran_pkgs) / chunk_size))
+  cran_pkg_chunks <- split(
+    cran_pkgs,
+    ceiling(seq_along(cran_pkgs) / chunk_size)
+  )
 
   p <- cli::cli_progress_bar("Getting stuff", total = length(cran_pkg_chunks))
-  cran_meta_full <- purrr::map_df(cran_pkg_chunks, ~{
-    cli::cli_progress_update(id = p)
-    res <- pkgsearch::cran_packages(.x)
-    Sys.sleep(timeout)
-    res
-  })
+  cran_meta_full <- purrr::map(
+    cran_pkg_chunks,
+    ~ {
+      cli::cli_progress_update(id = p)
+      res <- pkgsearch::cran_packages(.x)
+      Sys.sleep(timeout)
+      res
+    }
+  )
   cli::cli_progress_done(id = p)
 
   if (!file.exists(here::here("cache"))) dir.create(here::here("cache"))
@@ -46,8 +52,14 @@ write_cran_meta <- function(metadata, file_out = "cran.yml") {
   metadata |>
     janitor::clean_names() |>
     dplyr::select(
-      package, version, title, maintainer, description,
-      date_publication, bug_reports, url
+      package,
+      version,
+      title,
+      maintainer,
+      description,
+      date_publication,
+      bug_reports,
+      url
     ) |>
     dplyr::mutate(
       maintainer = stringr::str_remove(maintainer, "\\s+<.*>"),
@@ -55,17 +67,23 @@ write_cran_meta <- function(metadata, file_out = "cran.yml") {
       url_cran = glue::glue("https://CRAN.R-project.org/package={package}"),
       url = stringr::str_remove_all(url, "(\\\n)|(\\s+)"),
       url = stringr::str_split(url, ","),
-      url_git = purrr::map_chr(url, ~{
-        res <- stringr::str_subset(.x, regex_source_repo)
-        ifelse(identical(res, character()), "", res)
-      }),
-      url = purrr::map_chr(url, ~{
-        # Try to leave only non-git, hopefully documentation websites
-        res <- stringr::str_subset(.x, regex_not_website, negate = TRUE)
-        ifelse(identical(res, character()), "", res)
-      })
+      url_git = purrr::map_chr(
+        url,
+        ~ {
+          res <- stringr::str_subset(.x, regex_source_repo)
+          ifelse(identical(res, character()), "", res)
+        }
+      ),
+      url = purrr::map_chr(
+        url,
+        ~ {
+          # Try to leave only non-git, hopefully documentation websites
+          res <- stringr::str_subset(.x, regex_not_website, negate = TRUE)
+          ifelse(identical(res, character()), "", res)
+        }
+      )
     ) |>
-    dplyr::mutate_all(~tidyr::replace_na(.x, "")) |>
+    dplyr::mutate_all(~ tidyr::replace_na(.x, "")) |>
     dplyr::group_by(package) |>
     tidyr::nest() |>
     dplyr::pull(data) |>

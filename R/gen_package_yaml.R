@@ -8,20 +8,21 @@
 #' }
 gen_package_yaml <- function() {
   packages <- rownames(utils::installed.packages())
-  package_tbl <- purrr::map_dfr(packages, ~{
+  package_tbl <- purrr::map_dfr(
+    packages,
+    ~ {
+      description <- desc::desc(package = .x)
 
-    description <- desc::desc(package = .x)
-
-    tibble::tibble(
-      package = .x,
-      title = description$get("Title") |> as.character(),
-      #description = description$get("Description") |> as.character(),
-      urls = description$get_urls(),
-      version = description$get_version() |> as.character(),
-      maintainer = description$get_maintainer()
-    )
-
-  })
+      tibble::tibble(
+        package = .x,
+        title = description$get("Title") |> as.character(),
+        #description = description$get("Description") |> as.character(),
+        urls = description$get_urls(),
+        version = description$get_version() |> as.character(),
+        maintainer = description$get_maintainer()
+      )
+    }
+  )
 
   pkgs_cran <- utils::available.packages() |>
     tibble::as_tibble() |>
@@ -35,9 +36,17 @@ gen_package_yaml <- function() {
     dplyr::mutate(
       maintainer = stringr::str_remove_all(maintainer, "\\s*<.*>"),
       urlkind = dplyr::case_when(
-        stringr::str_detect(urls, "(github\\.com|gitlab\\.com|bitbucket|[Rr](-)?[Ff]orge|svn\\.r-project)") ~ "git",
+        stringr::str_detect(
+          urls,
+          "(github\\.com|gitlab\\.com|bitbucket|[Rr](-)?[Ff]orge|svn\\.r-project)"
+        ) ~
+          "git",
         stringr::str_detect(urls, "(CRAN|cran|r-project)") ~ "cran",
-        stringr::str_detect(urls, "(tidyverse|r-lib|tidymodels|github\\.io)\\.org") ~ "pkgdown",
+        stringr::str_detect(
+          urls,
+          "(tidyverse|r-lib|tidymodels|github\\.io)\\.org"
+        ) ~
+          "pkgdown",
         TRUE ~ "other"
       )
     ) |>
